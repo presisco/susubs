@@ -15,9 +15,9 @@ Video File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E13.Chille.Tid.
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 252
-Active Line: 262
-Video Position: 13946
+Scroll Position: 276
+Active Line: 280
+Video Position: 15068
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -43,7 +43,7 @@ Dialogue: 0,0:00:03.48,0:00:05.66,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:00:05.66,0:00:07.36,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}怎么了，“煎饺”？\N{\fnArial\fs48}What's the matter, perogie?
 Dialogue: 0,0:00:07.36,0:00:07.96,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你累了？\N{\fnArial\fs48}You tired?
 Dialogue: 0,0:00:07.96,0:00:10.46,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我不要疲惫，我只要结果\N{\fnArial\fs48}I don't get tired. I get results.
-Dialogue: 0,0:00:14.24,0:00:17.47,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}“拉我起来”的标志是晃一下还是晃两下？\N{\fnArial\fs48}Was the sign for "pull me up" one wiggle or two?
+Dialogue: 0,0:00:13.72,0:00:17.47,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}“拉我起来”的标志是晃一下还是晃两下？\N{\fnArial\fs48}Was the sign for "pull me up" one wiggle or two?
 Dialogue: 0,0:00:17.47,0:00:19.31,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}紫晶，保持注意力\N{\fnArial\fs48}Amethyst, stay focused.
 Dialogue: 0,0:00:20.01,0:00:22.17,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}就我们所知，青金石和碧玉的融合体\N{\fnArial\fs48}For all we know, Lapis and Jasper's fusion
 Dialogue: 0,0:00:22.18,0:00:23.98,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}可能就在眼前\N{\fnArial\fs48}could be right under our noses.
@@ -54,7 +54,7 @@ Dialogue: 0,0:00:34.66,0:00:35.85,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:00:35.86,0:00:38.09,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们已经搜索了好几“光年”了\N{\fnArial\fs48}we've been searching for light years.
 Dialogue: 0,0:00:38.09,0:00:40.09,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃，“光年”测的是光\N{\fnArial\fs48}Uh, light years measures light.
 Dialogue: 0,0:00:40.09,0:00:41.93,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}不是年\N{\fnArial\fs48} Not years.
-Dialogue: 0,0:00:43.13,0:00:46.78,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我受够这些...“就剩尿布”了\N{\fnArial\fs48}And I'm sick of these...Life diapers.
+Dialogue: 0,0:00:43.13,0:00:46.78,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我受够这些...“救生尿布”了\N{\fnArial\fs48}And I'm sick of these...Life diapers.
 Dialogue: 0,0:00:46.88,0:00:49.30,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}安全不是玩笑，珍珠\N{\fnArial\fs48}Safety is no punch line, Pearl.
 Dialogue: 0,0:00:49.32,0:00:51.16,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}安全就是我们的任务\N{\fnArial\fs48}Safety {\i1}is{\i} our job.
 Dialogue: 0,0:00:51.18,0:00:52.84,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们必须找到青金石和碧玉\N{\fnArial\fs48}We must find Jasper and Lapis.
@@ -64,12 +64,12 @@ Dialogue: 0,0:00:56.16,0:00:58.56,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:00:58.62,0:01:00.44,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}她使用能力将她们的融合体\N{\fnArial\fs48}She had control when she used her power
 Dialogue: 0,0:01:00.46,0:01:02.05,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}拖入海中时，她是清醒的\N{\fnArial\fs48}to drag their fusion into the ocean,
 Dialogue: 0,0:01:02.34,0:01:04.85,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但是，像她们那样由猜忌和愤怒\N{\fnArial\fs48}but a fusion like theirs is unstable,
-Dialogue: 0,0:01:04.85,0:01:07.65,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}束缚在一起融合体是不稳定的\N{\fnArial\fs48}bound together by anger and mistrust.
-Dialogue: 0,0:01:07.66,0:01:08.99,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}一旦约束被打破\N{\fnArial\fs48}If that bond snaps,
-Dialogue: 0,0:01:08.99,0:01:11.89,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}她们的愤怒会彻底释放，摧毁一切\N{\fnArial\fs48}their anger will take over and destroy.
+Dialogue: 0,0:01:04.85,0:01:06.92,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}束缚在一起融合体是不稳定的\N{\fnArial\fs48}bound together by anger and mistrust.
+Dialogue: 0,0:01:07.06,0:01:08.36,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}一旦约束被打破\N{\fnArial\fs48}If that bond snaps,
+Dialogue: 0,0:01:08.36,0:01:11.89,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}她们的愤怒会彻底释放，摧毁一切\N{\fnArial\fs48}their anger will take over and destroy.
 Dialogue: 0,0:01:12.86,0:01:14.23,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}不要担心，青金石\N{\fnArial\fs48}Don't worry, Lapis.
 Dialogue: 0,0:01:14.23,0:01:16.46,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们不会让你和鱼群入睡的\N{\fnArial\fs48}We won't let you sleep with the fishes.
-Dialogue: 1,0:01:14.23,0:01:16.46,Label Trans,,0,0,0,,{\pos(960,80)}短语“sleep with fish”出自著名黑手党电影“The Godfather”（教父）
+Dialogue: 1,0:01:14.23,0:01:16.46,Label Trans,,0,0,0,,{\pos(960,80)}短语“sleep with the fishes”出自著名黑手党电影“The Godfather”（教父）
 Dialogue: 0,0:01:17.47,0:01:20.00,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们得继续搜索\N{\fnArial\fs48}We're gonna have to keep looking.
 Dialogue: 0,0:01:20.00,0:01:22.67,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但首先，我们要把史蒂文带回家\N{\fnArial\fs48}But first, let's bring Steven home.
 Dialogue: 0,0:01:22.67,0:01:24.30,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃？蛤？\N{\fnArial\fs48}Huh? What? Wha?
@@ -130,7 +130,7 @@ Dialogue: 0,0:03:15.75,0:03:16.94,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:03:17.15,0:03:21.48,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你只要躺下，怎么舒服怎么来，不要乱动\N{\fnArial\fs48}You just lie down, get nice and comfy, don't move,
 Dialogue: 0,0:03:21.82,0:03:26.29,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}而且不要想任何事情\N{\fnArial\fs48}and don't think about anything.
 Dialogue: 0,0:03:26.29,0:03:29.63,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}“宇宙小子”在演播室现场观众面前实时录制\N{\fnArial\fs48}{\i1}Steven Universe was filmed{\i} {\i1}before a live studio audience.{\i}
-Dialogue: 1,0:03:26.29,0:03:29.63,Label Trans,,0,0,0,,{\pos(960,200)}格雷格说的话在美式情景喜剧片头经常使用。\N石榴在梦中的表现类似“Happy Days”（欢乐时光）中的Arthur Fonzarelli（“The Fonz”）——经典的"Aaay！"入场词
+Dialogue: 1,0:03:26.29,0:03:29.63,Label Trans,,0,0,0,,{\pos(960,200)}格雷格说的话在美式情景喜剧片头经常使用。第一个梦境是老式美国情景喜剧的风格。\N石榴在梦中的表现类似“Happy Days”（欢乐时光）中的Arthur Fonzarelli（“The Fonz”）
 Dialogue: 0,0:03:29.63,0:03:30.68,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦，我的天哪，\N{\fnArial\fs48}Oh, my goodness,
 Dialogue: 0,0:03:30.70,0:03:32.93,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}康妮马上就到了\N{\fnArial\fs48}Connie's going to be here any second now.
 Dialogue: 0,0:03:32.93,0:03:33.97,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我简直不敢相信\N{\fnArial\fs48}I can't believe it.
@@ -159,7 +159,7 @@ Dialogue: 0,0:04:19.21,0:04:22.05,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:04:22.24,0:04:22.58,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃？\N{\fnArial\fs48}huh?
 Dialogue: 0,0:04:25.02,0:04:25.70,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}青金石？\N{\fnArial\fs48}Lapis?
 Dialogue: 0,0:04:32.06,0:04:32.99,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你还好吗？\N{\fnArial\fs48} Are you okay?
-Dialogue: 0,0:04:32.99,0:04:33.86,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Ah! Ugh! 
+Dialogue: 0,0:04:32.99,0:04:33.86,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Ah! Ugh!
 Dialogue: 0,0:04:34.62,0:04:35.49,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦，妈呀...\N{\fnArial\fs48}Oh, man...
 Dialogue: 0,0:04:35.74,0:04:38.10,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我睡着了，然后做了个奇怪的梦\N{\fnArial\fs48}I feel asleep and had this weird dream.
 Dialogue: 0,0:04:38.54,0:04:41.26,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我打开门，青金石在门外，然后-\N{\fnArial\fs48}I opened the door and Lapis was there, and --
@@ -310,7 +310,7 @@ Dialogue: 0,0:10:21.04,0:10:22.50,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:10:22.64,0:10:24.16,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}接着狗升机对着我“喵”了一下\N{\fnArial\fs48}And then dogcopter meowed at me
 Dialogue: 0,0:10:24.16,0:10:26.52,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}而且对我说的没有任何兴趣！\N{\fnArial\fs48}and was just not interested in what I had to say at all!
 Dialogue: 0,0:10:26.72,0:10:28.46,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}也许我有些问题需要解决...\N{\fnArial\fs48}And I might have some issues I need to work out...
-Dialogue: 0,0:10:28.46,0:10:30.96,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但青金石，她就在外面，而且他仍然-\N{\fnArial\fs48}But Lapis, she's out there, and she's still --
+Dialogue: 0,0:10:28.46,0:10:30.96,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但青金石，她就在外面，而且她仍然-\N{\fnArial\fs48}But Lapis, she's out there, and she's still --
 Dialogue: 0,0:10:30.96,0:10:32.45,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}嘘～嘘～嘘～嘘——\N{\fnArial\fs48}shh, shh, shh, shh.
 Dialogue: 0,0:10:32.66,0:10:33.72,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我知道你很担心，\N{\fnArial\fs48}I know you're worried,
 Dialogue: 0,0:10:33.72,0:10:35.62,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但现在我们什么也做不了\N{\fnArial\fs48}but there's nothing we can do right now.
