@@ -15,9 +15,9 @@ Video File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E12.We.Need.to.
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 6
-Active Line: 16
-Video Position: 353
+Scroll Position: 200
+Active Line: 208
+Video Position: 15641
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -65,8 +65,9 @@ Dialogue: 0,0:01:15.10,0:01:16.97,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:01:16.97,0:01:18.61,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}能理解这些\N{\fnArial\fs48}who's gonna understand.
 Dialogue: 0,0:01:18.61,0:01:19.94,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你-你是指？\N{\fnArial\fs48}W-what do you mean?
 Dialogue: 0,0:01:19.94,0:01:21.98,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}对，你是指什么？\N{\fnArial\fs48}Yeah, what {\i1}do{\i} you mean?
-Dialogue: 0,0:01:21.98,0:01:23.44,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃...该讲故事了！\N{\fnArial\fs48}Well...Story!
+Dialogue: 0,0:01:21.98,0:01:23.22,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃...\N{\fnArial\fs48}Well...
 Dialogue: 0,0:01:25.95,0:01:27.51,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}来吧\N{\fnArial\fs48}Come on.
+Dialogue: 0,0:01:24.08,0:01:25.64,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}故事！\N{\fnArial\fs48}Story!
 Dialogue: 0,0:01:27.52,0:01:28.65,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们已经准备好了\N{\fnArial\fs48}We're ready.
 Dialogue: 0,0:01:28.65,0:01:30.42,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我没想到会这么早就告诉你\N{\fnArial\fs48}I didn't think I'd be telling you this so soon.
 Dialogue: 1,0:01:30.30,0:01:31.80,Label Trans,,0,0,0,,{\pos(960,100)}电视机上的海报致敬Animal Crossing（动物之森）中的K.K Slider（一只写音乐的狗）
@@ -107,7 +108,8 @@ Dialogue: 0,0:04:31.70,0:04:34.67,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:04:34.67,0:04:39.01,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}嘿，我打鼓了，赶紧付钱\N{\fnArial\fs48}Hey, I hit the drums, so pay up.
 Dialogue: 0,0:04:39.01,0:04:40.71,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这个给你\N{\fnArial\fs48}Here you go.
 Dialogue: 0,0:04:44.48,0:04:48.68,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你只是个过客。你知道吧？——不\N{\fnArial\fs48}You're just a phase. You know that, right? No.
-Dialogue: 0,0:04:50.65,0:04:52.32,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我实际上不知道，珍珠——哈，当然你不知道\N{\fnArial\fs48}I actually don't know that, Pearl. Well, of course you don't.
+Dialogue: 0,0:04:50.65,0:04:52.32,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我实际上不知道，珍珠\N{\fnArial\fs48}I actually don't know that, Pearl. 
+Dialogue: 0,0:04:52.56,0:04:54.40,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哈，当然你不知道\N{\fnArial\fs48}Well, of course you don't.
 Dialogue: 0,0:04:54.49,0:04:56.49,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你一点也不了解玫瑰\N{\fnArial\fs48}You don't know anything about Rose.
 Dialogue: 0,0:04:56.49,0:04:58.49,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我知道那超喜欢我\N{\fnArial\fs48}I know she's super into me.
 Dialogue: 0,0:04:58.49,0:05:01.19,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}听着，宇宙先生\N{\fnArial\fs48}Listen Mr. {\i1}Universe.{\i}
@@ -115,7 +117,8 @@ Dialogue: 0,0:05:01.20,0:05:03.53,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:05:03.53,0:05:05.83,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但这只是因为你是个人类\N{\fnArial\fs48}but that's only because you're human.
 Dialogue: 0,0:05:05.83,0:05:08.07,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你最多只是新奇而已\N{\fnArial\fs48}You're a novelty at best.
 Dialogue: 0,0:05:08.07,0:05:10.00,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你怎么这么确定？\N{\fnArial\fs48}What makes you so sure?
-Dialogue: 0,0:05:10.00,0:05:12.34,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦，很明显。人类不能融合\N{\fnArial\fs48}Oh it's very simple. Humans can't fuse.
+Dialogue: 0,0:05:10.00,0:05:12.34,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦，很明显。\N{\fnArial\fs48}Oh it's very simple.
+Dialogue: 0,0:05:12.38,0:05:14.12,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}人类不能融合\N{\fnArial\fs48}Humans can't fuse.
 Dialogue: 0,0:05:14.34,0:05:18.14,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}融合是宝石人之间最终极的联系\N{\fnArial\fs48}Fusion is the ultimate connection between gems.
 Dialogue: 0,0:05:18.15,0:05:20.92,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}而你不是宝石人\N{\fnArial\fs48}And you are not a gem.
 Dialogue: 0,0:05:22.25,0:05:26.02,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}那么，就没有任何人类尝试过与宝石人融合吗？\N{\fnArial\fs48}Well, has any human ever tried fusing with a gem?
@@ -133,7 +136,7 @@ Dialogue: 0,0:05:57.59,0:05:59.59,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:05:59.59,0:06:02.12,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}融合舞和脑子没关系！\N{\fnArial\fs48}A fusion dance ain't about your head!
 Dialogue: 0,0:06:03.36,0:06:05.53,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}等等，你们是宝石人\N{\fnArial\fs48}Wait, you guys are gems.
 Dialogue: 0,0:06:05.53,0:06:06.86,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你们一定要帮帮我啊\N{\fnArial\fs48}You've got to help me out here.
-Dialogue: 0,0:06:06.86,0:06:09.40,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我想要和玫瑰融合\N{\fnArial\fs48}I need to be able to fuse with Rose.
+Dialogue: 0,0:06:06.86,0:06:09.40,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我想要和罗丝融合\N{\fnArial\fs48}I need to be able to fuse with Rose.
 Dialogue: 0,0:06:09.40,0:06:11.90,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}首先，你需要有一个宝石作为存在的基础\N{\fnArial\fs48}First, you need the gem at the core of your being.
 Dialogue: 0,0:06:11.90,0:06:14.43,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}然后，你需要一个能变成光的身体\N{\fnArial\fs48}Then you need the body that could turn into light.
 Dialogue: 0,0:06:14.44,0:06:17.27,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}之后，你需要一个你能信任的变成光的同伴\N{\fnArial\fs48}Then you need the partner who you trust with that light.
@@ -155,26 +158,27 @@ Dialogue: 0,0:06:48.27,0:06:52.00,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:06:52.01,0:06:54.91,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}眼...猜我了解了。\N{\fnArial\fs48}{\i1}Eye...{\i} {\i1}Think I get it.
 Dialogue: 1,0:07:08.00,0:07:11.00,Label Trans,,0,0,0,,{\pos(960,80)}此处舞蹈与布景致敬少女革命：绝对命运默示录
 Dialogue: 0,0:07:38.29,0:07:40.99,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们-我们没融合\N{\fnArial\fs48}We -- we didn't fuse.
-Dialogue: 0,0:07:40.99,0:07:42.69,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}啊？！你不能融合\N{\fnArial\fs48}What?!You can't fuse.
+Dialogue: 0,0:07:41.60,0:07:42.69,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}啊？！\N{\fnArial\fs48}What?!
+Dialogue: 0,0:07:44.34,0:07:46.44,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你肯定不能融合\N{\fnArial\fs48}You can't fuse.
 Dialogue: 0,0:07:46.90,0:07:48.83,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你是人类\N{\fnArial\fs48}You're a human.
 Dialogue: 0,0:07:48.83,0:07:51.00,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我知道！这就是问题！\N{\fnArial\fs48}I know! That's the problem!
 Dialogue: 0,0:07:51.00,0:07:52.20,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我只是个人类\N{\fnArial\fs48}I'm just a human.
 Dialogue: 0,0:07:52.20,0:07:55.97,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这不是问题。我爱人类\N{\fnArial\fs48}That's not a problem. I love humans.
 Dialogue: 0,0:07:55.97,0:07:57.84,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你们都那么有趣\N{\fnArial\fs48}You're all so funny.
-Dialogue: 0,0:07:57.84,0:07:59.31,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}啊\N{\fnArial\fs48}Ugh.
+Dialogue: 0,0:07:57.84,0:07:58.76,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}啊\N{\fnArial\fs48}Ugh.
 Dialogue: 0,0:07:58.80,0:08:01.84,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}听着，过去几个月非常美好——哦，是的\N{\fnArial\fs48}Look, these last few months have been great. Oh, yes.
 Dialogue: 0,0:08:01.84,0:08:04.04,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但我开始对将来有些担心\N{\fnArial\fs48}But I'm getting a little worried about the future.
 Dialogue: 0,0:08:04.05,0:08:05.68,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦，那问问石榴\N{\fnArial\fs48}Oh, just ask Garnet.
 Dialogue: 0,0:08:05.68,0:08:09.25,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我开始怀疑你是否...在乎我？\N{\fnArial\fs48}I'm starting to wonder if you...Respect me?
 Dialogue: 0,0:08:11.59,0:08:15.19,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦，你真幽默，宇宙先生\N{\fnArial\fs48}Oh, you're hilarious, Mr. Universe.
-Dialogue: 0,0:08:15.19,0:08:17.19,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}玫瑰，求求你\N{\fnArial\fs48}Rose, please.
+Dialogue: 0,0:08:15.19,0:08:17.19,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}罗丝，求求你\N{\fnArial\fs48}Rose, please.
 Dialogue: 0,0:08:17.19,0:08:19.06,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你能不能\N{\fnArial\fs48}Can you just...
 Dialogue: 0,0:08:19.06,0:08:23.30,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}和我说人话，哪怕是一秒？\N{\fnArial\fs48}Talk to me for one second like a real person?!
 Dialogue: 0,0:08:27.03,0:08:30.84,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我...不是人类\N{\fnArial\fs48}I'm {\i1}not{\i}a real person.
 Dialogue: 0,0:08:31.94,0:08:34.74,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我以为-我们难道还没-\N{\fnArial\fs48}I thought -- haven't we --
 Dialogue: 0,0:08:34.74,0:08:37.28,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}难道不该这样吗？\N{\fnArial\fs48}is this not how it works?
-Dialogue: 0,0:08:37.28,0:08:39.68,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}噢\N{\fnArial\fs48}Oh.
-Dialogue: 0,0:08:39.52,0:08:40.75,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦，天哪\N{\fnArial\fs48}Oh, boy.
+Dialogue: 0,0:08:37.98,0:08:38.62,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}噢\N{\fnArial\fs48}Oh.
+Dialogue: 0,0:08:39.40,0:08:40.40,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦，天哪\N{\fnArial\fs48}Oh, boy.
 Dialogue: 0,0:08:40.75,0:08:43.85,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这太诡异了。你真是个外星人\N{\fnArial\fs48}This is so weird. You really are an alien.
 Dialogue: 0,0:08:45.89,0:08:47.42,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你为什么笑了？\N{\fnArial\fs48}Why are you laughing?
 Dialogue: 0,0:08:49.06,0:08:50.56,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你怎么又哭了？\N{\fnArial\fs48}Why are you crying?
@@ -191,7 +195,7 @@ Dialogue: 0,0:09:10.75,0:09:13.58,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:09:13.58,0:09:16.75,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你想念你的母星吗？\N{\fnArial\fs48}Do you miss your home planet?
 Dialogue: 0,0:09:16.75,0:09:18.05,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}不，从不\N{\fnArial\fs48}No. Never.
 Dialogue: 0,0:09:18.05,0:09:21.32,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你最后是怎么和，呃，，走到一起的？\N{\fnArial\fs48}How did you end up with, uh, Harpo, Groucho, and chico?
-Dialogue: 1,0:09:18.05,0:09:21.32,Label Trans,,0,0,0,,{\pos(960,275)}Harpo,Groucho和Chico是Marx Brothers（马克斯兄弟）的成员。Marx Brothers是美国喜剧界早期著名团体，与卓别林，劳埃德齐名，擅长无政府主义风格。\NHarpo对应石榴（沉默寡言），Groucho对应紫晶（直率与讥讽），\NChico（经常有夸张行为）
+Dialogue: 1,0:09:18.05,0:09:21.32,Label Trans,,0,0,0,,{\pos(960,275)}Harpo,Groucho和Chico是Marx Brothers（马克斯兄弟）的成员。Marx Brothers是美国喜剧界早期著名团体，与卓别林，劳埃德齐名，擅长无政府主义风格。\NHarpo对应石榴（沉默寡言），Groucho对应紫晶（直率），\NChico（经常有夸张行为）
 Dialogue: 0,0:09:21.32,0:09:23.32,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}啊？哦，她们\N{\fnArial\fs48}Huh? Oh, them.
 Dialogue: 0,0:09:23.78,0:09:25.48,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}她们三个的故事可长了\N{\fnArial\fs48}Those are three long stories.
 Dialogue: 0,0:09:25.52,0:09:27.06,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}他们在干吗？——嘘！\N{\fnArial\fs48}What are they doing? Shh!
@@ -202,13 +206,14 @@ Dialogue: 0,0:09:33.64,0:09:37.14,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:09:37.14,0:09:38.44,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我怎么知道？\N{\fnArial\fs48}How would I know?
 Dialogue: 0,0:09:38.44,0:09:40.14,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这是一种折磨\N{\fnArial\fs48}It's torture.
 Dialogue: 0,0:09:42.94,0:09:44.01,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}格雷格\N{\fnArial\fs48}Greg.
-Dialogue: 0,0:09:44.01,0:09:45.58,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}玫瑰\N{\fnArial\fs48}Rose.
+Dialogue: 0,0:09:44.01,0:09:45.58,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}罗丝\N{\fnArial\fs48}Rose.
 Dialogue: 0,0:09:45.58,0:09:47.45,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这是折磨吗？\N{\fnArial\fs48}Is this torture?
 Dialogue: 0,0:09:47.45,0:09:48.81,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}最可怕的那种\N{\fnArial\fs48}The worst.
 Dialogue: 0,0:09:48.82,0:09:50.92,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我实在对不起\N{\fnArial\fs48}I'm so sorry.
 Dialogue: 0,0:09:50.92,0:09:53.02,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}啊？不，不用\N{\fnArial\fs48}Huh? No. Don't be.
 Dialogue: 0,0:09:53.02,0:09:55.02,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}为什么？！\N{\fnArial\fs48}What?! Why not?!
-Dialogue: 0,0:09:55.02,0:09:57.26,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}噢，我太困惑了！——我也是\N{\fnArial\fs48}Oh, I'm so confused!Me, too.
+Dialogue: 0,0:09:55.02,0:09:57.26,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}噢，我太困惑了！\N{\fnArial\fs48}Me, too.
+Dialogue: 0,0:09:57.26,0:09:58.46,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我也是\N{\fnArial\fs48}Me, too.
 Dialogue: 0,0:09:58.59,0:10:00.59,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}那么，呃，这不错\N{\fnArial\fs48}Well, uh, this is good.
 Dialogue: 0,0:10:00.60,0:10:02.96,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们总算有一个共同点了\N{\fnArial\fs48}We've got one thing in common.
 Dialogue: 0,0:10:02.96,0:10:04.30,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Ha!Ohh!
@@ -221,8 +226,8 @@ Dialogue: 0,0:10:15.61,0:10:19.01,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:10:21.78,0:10:23.12,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}喔\N{\fnArial\fs48}Whoa.
 Dialogue: 0,0:10:23.12,0:10:25.48,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}那么，你们一直都不能融合？\N{\fnArial\fs48}So, you guys were never able to fuse?
 Dialogue: 0,0:10:25.49,0:10:26.89,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃，不能\N{\fnArial\fs48}Uh, no.
-Dialogue: 0,0:10:26.89,0:10:30.49,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但那不如与对方沟通重要\N{\fnArial\fs48}But that wasn't as important as talking to each other.
-Dialogue: 0,0:10:30.49,0:10:31.69,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}听着，人类和宝石人——\N{\fnArial\fs48}Look, humans and gems --
+Dialogue: 0,0:10:26.89,0:10:29.40,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但那不如与对方沟通重要\N{\fnArial\fs48}But that wasn't as important as talking to each other.
+Dialogue: 0,0:10:29.60,0:10:31.69,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}听着，人类和宝石人——\N{\fnArial\fs48}Look, humans and gems --
 Dialogue: 0,0:10:31.69,0:10:33.79,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这仍是一个未知的领域\N{\fnArial\fs48}it's still some pretty new territory.
 Dialogue: 0,0:10:33.80,0:10:35.80,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你们需要共同探索\N{\fnArial\fs48}You're gonna have to work it out together.
 Dialogue: 0,0:10:35.80,0:10:37.80,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}而且，康妮，如果你需要\N{\fnArial\fs48}And, Connie, if you ever need to talk
@@ -232,7 +237,7 @@ Dialogue: 0,0:10:41.70,0:10:42.50,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:10:42.50,0:10:44.04,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}人类一族？\N{\fnArial\fs48}Human beings?
 Dialogue: 0,0:10:44.04,0:10:45.50,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}人类一族\N{\fnArial\fs48}Human beings.
 Dialogue: 0,0:10:45.92,0:10:47.28,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}人类一族\N{\fnArial\fs48}Human beings.
-Dialogue: 0,0:10:49.14,0:10:52.32,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}如果我可以达到\N{\fnArial\fs48}♪ If I could begin to be
-Dialogue: 0,0:10:52.32,0:10:55.08,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你期望的一半\N{\fnArial\fs48}♪ half of what you think of me
-Dialogue: 0,0:10:55.10,0:10:57.18,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我愿意做任何事\N{\fnArial\fs48}♪ I could do about anything
-Dialogue: 0,0:10:57.81,0:11:02.76,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我甚至可以像你去爱\N{\fnArial\fs48}♪ I could even learn how to love like you ♪
+Dialogue: 0,0:10:49.14,0:10:52.32,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}如果我可以做到\N{\fnArial\fs48}♪ If I could begin to be
+Dialogue: 0,0:10:52.32,0:10:55.08,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你对我期望的一半\N{\fnArial\fs48}♪ half of what you think of me
+Dialogue: 0,0:10:55.10,0:10:57.24,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我愿意做任何事\N{\fnArial\fs48}♪ I could do about anything
+Dialogue: 0,0:10:57.30,0:11:02.76,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我愿学会像你一样，去爱\N{\fnArial\fs48}♪ I could even learn how to love like you ♪
