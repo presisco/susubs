@@ -10,14 +10,14 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
+Last Style Storage: Default
 Audio File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E12.We.Need.to.Talk.1080p.WEBRip.h264.AAC-AliQ.mp4
 Video File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E12.We.Need.to.Talk.1080p.WEBRip.h264.AAC-AliQ.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 200
-Active Line: 208
-Video Position: 15641
+Active Line: 2
+Video Position: 40
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -25,12 +25,14 @@ Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 Style: Label Trans,微软雅黑,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: Normal Dialog Text,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: SU Title,幼圆,100,&H00A43AC6,&H000000FF,&H00E8E8E8,&H00DDCDDB,-1,0,0,0,100,100,0,0,1,8,12,2,10,10,10,1
-Style: SU Team Member,幼圆,36,&H00E8E8E8,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: SU Team Title,幼圆,32,&H00E8E8E8,&H00FFFFFF,&H00FFFFFF,&H00DBE0C9,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: SU Team Member,幼圆,36,&H00A737C9,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: SU Team Title,幼圆,32,&H009065C2,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Song Lyrics Text,华文楷体,20,&H00EAEAEA,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: SU Team Background,Arial,20,&H00E8E8E8,&H000000FF,&H00000000,&H00DFCCDC,0,0,0,0,100,100,0,0,1,0,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 1,0:00:00.20,0:00:01.65,SU Title,,0,0,0,,{\pos(1150,250)}我们需要谈谈
+Dialogue: 1,0:00:00.20,0:00:01.65,SU Title,,0,0,0,,{\pos(1150,250)\xshad-0\yshad16}我们需要谈谈
 Dialogue: 1,0:00:01.65,0:00:03.05,SU Team Title,,0,0,0,,{\pos(1700,360)}翻译
 Dialogue: 1,0:00:01.65,0:00:03.05,SU Team Member,,0,0,0,,{\pos(1700,410)}零玖/presisco
 Dialogue: 1,0:00:01.65,0:00:03.05,SU Team Title,,0,0,0,,{\pos(1700,460)}校对
@@ -39,6 +41,7 @@ Dialogue: 1,0:00:01.65,0:00:03.05,SU Team Title,,0,0,0,,{\pos(1700,560)}特效
 Dialogue: 1,0:00:01.65,0:00:03.05,SU Team Member,,0,0,0,,{\pos(1700,610)}presisco
 Dialogue: 1,0:00:01.65,0:00:03.05,SU Team Title,,0,0,0,,{\pos(1700,660)}压制
 Dialogue: 1,0:00:01.65,0:00:03.05,SU Team Member,,0,0,0,,{\pos(1700,710)}presisco
+Dialogue: 0,0:00:01.65,0:00:03.05,SU Team Background,,0,0,0,,{\pos(1744,776)\xshad-0\yshad16}{\p1}m 72 0 b -46 0 -46 170 72 170 l 115 170 b -37 149 -36 374 115 344 l 72 344 b -46 344 -46 514 72 514 l 285 514 b 394 514 419 323 285 344 l 328 344 l 328 344 b 433 344 433 170 328 170 l 285 170 l 285 170 b 419 191 419 1 285 1 l 72 0 {\p0}
 Dialogue: 0,0:00:04.83,0:00:07.37,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这是所有的O.M.O乐队的内容了\N{\fnArial\fs48}Here's all the orange magic orchestra ones.
 Dialogue: 1,0:00:04.83,0:00:07.37,Label Trans,,0,0,0,,{\pos(960,150)}O.M.O致敬日本二十世纪80年代的Yellow Magic Orchestra(Y.M.O)乐队，在日本开创了Techno类型。专辑应该为Naughty Boys
 Dialogue: 0,0:00:07.37,0:00:10.87,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}太好了，将他们放到“出色的太空摇滚”类里\N{\fnArial\fs48}Great, put them in the transcendental space rock pile.
@@ -74,25 +77,25 @@ Dialogue: 1,0:01:30.30,0:01:31.80,Label Trans,,0,0,0,,{\pos(960,100)}电视机�
 Dialogue: 0,0:01:30.42,0:01:34.02,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}也许最好先从这里开始\N{\fnArial\fs48}Probably best to start with this.
 Dialogue: 0,0:01:36.69,0:01:38.26,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}都准备好了吗？\N{\fnArial\fs48}Everybody ready?
 Dialogue: 0,0:01:39.34,0:01:42.70,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}1, 2, 3, 4...
-Dialogue: 0,0:01:52.97,0:01:57.41,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我能做什么，为你？\N{\fnArial\fs48}♪ What can I do for you?
-Dialogue: 0,0:01:59.15,0:02:02.05,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我能做什么\N{\fnArial\fs48}♪ What can I do that
-Dialogue: 0,0:02:02.05,0:02:05.72,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}是别人做不了的？\N{\fnArial\fs48}♪ no one else can do?
-Dialogue: 0,0:02:05.72,0:02:10.39,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我能做什么，为你？\N{\fnArial\fs48}♪ What can I do for you?
-Dialogue: 0,0:02:11.33,0:02:17.86,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我能做什么，为你？\N{\fnArial\fs48}♪ What can I do for you?
-Dialogue: 0,0:02:17.87,0:02:20.00,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}人类男子啊\N{\fnArial\fs48}♪ Human man
-Dialogue: 0,0:02:20.00,0:02:23.87,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你如此有趣\N{\fnArial\fs48}♪ you are so much fun
-Dialogue: 0,0:02:23.87,0:02:30.98,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我从未料到，你如此赏心悦目\N{\fnArial\fs48}♪ I hadn't planned on finding you quite this entertaining ♪
-Dialogue: 0,0:02:30.98,0:02:32.51,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我喜欢你的乐队\N{\fnArial\fs48}♪ I like your band
-Dialogue: 0,0:02:32.51,0:02:33.85,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}whoo!
-Dialogue: 0,0:02:33.85,0:02:36.65,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}而且我喜欢你的歌\N{\fnArial\fs48}♪ And I like your song
-Dialogue: 0,0:02:36.65,0:02:42.66,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我喜欢这种，人类嬉笑的方式\N{\fnArial\fs48}♪ I like the way human beings play ♪
-Dialogue: 0,0:02:43.66,0:02:46.19,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我喜欢参与其中\N{\fnArial\fs48}♪ I like playing along
-Dialogue: 0,0:02:46.19,0:02:48.90,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}♪ oh, oh, oh, oh, whoa-ho ♪
-Dialogue: 0,0:02:48.90,0:02:53.10,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我能做什么，为你？\N{\fnArial\fs48}♪ what can I do for you?
-Dialogue: 0,0:02:54.77,0:02:57.87,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我能做什么\N{\fnArial\fs48}♪ What can I do that
-Dialogue: 0,0:02:57.87,0:03:01.24,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}是别人做不了的？\N{\fnArial\fs48}♪ no one else can do?
-Dialogue: 0,0:03:01.24,0:03:06.28,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我能做什么，为你？\N{\fnArial\fs48}♪ What can I do for you?
-Dialogue: 0,0:03:07.05,0:03:14.02,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我能做什么，为你？\N{\fnArial\fs48}♪ What can I do for you?
+Dialogue: 0,0:01:52.97,0:01:57.41,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我能做什么，为你？\N{\fnArial\fs48}♪ What can I do for you?
+Dialogue: 0,0:01:59.15,0:02:02.05,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我能做什么\N{\fnArial\fs48}♪ What can I do that
+Dialogue: 0,0:02:02.05,0:02:05.72,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}是别人做不了的？\N{\fnArial\fs48}♪ no one else can do?
+Dialogue: 0,0:02:05.72,0:02:10.39,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我能做什么，为你？\N{\fnArial\fs48}♪ What can I do for you?
+Dialogue: 0,0:02:11.33,0:02:17.86,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我能做什么，为你？\N{\fnArial\fs48}♪ What can I do for you?
+Dialogue: 0,0:02:17.87,0:02:20.00,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}人类啊\N{\fnArial\fs48}♪ Human man
+Dialogue: 0,0:02:20.00,0:02:23.87,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}你如此有趣\N{\fnArial\fs48}♪ you are so much fun
+Dialogue: 0,0:02:23.87,0:02:30.98,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我从未料到，你如此赏心悦目\N{\fnArial\fs48}♪ I hadn't planned on finding you quite this entertaining ♪
+Dialogue: 0,0:02:30.98,0:02:32.51,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我喜欢你的乐队\N{\fnArial\fs48}♪ I like your band
+Dialogue: 0,0:02:32.51,0:02:33.85,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}\N{\fnArial\fs48}whoo!
+Dialogue: 0,0:02:33.85,0:02:36.65,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}而且我喜欢你的歌\N{\fnArial\fs48}♪ And I like your song
+Dialogue: 0,0:02:36.65,0:02:42.66,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我喜欢这种，人类嬉笑的方式\N{\fnArial\fs48}♪ I like the way human beings play ♪
+Dialogue: 0,0:02:43.66,0:02:46.19,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我喜欢参与其中\N{\fnArial\fs48}♪ I like playing along
+Dialogue: 0,0:02:46.19,0:02:48.90,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}\N{\fnArial\fs48}♪ oh, oh, oh, oh, whoa-ho ♪
+Dialogue: 0,0:02:48.90,0:02:53.10,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我能做什么，为你？\N{\fnArial\fs48}♪ what can I do for you?
+Dialogue: 0,0:02:54.77,0:02:57.87,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我能做什么\N{\fnArial\fs48}♪ What can I do that
+Dialogue: 0,0:02:57.87,0:03:01.24,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}是别人做不了的？\N{\fnArial\fs48}♪ no one else can do?
+Dialogue: 0,0:03:01.24,0:03:06.28,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我能做什么，为你？\N{\fnArial\fs48}♪ What can I do for you?
+Dialogue: 0,0:03:07.05,0:03:14.02,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我能做什么，为你？\N{\fnArial\fs48}♪ What can I do for you?
 Dialogue: 0,0:03:17.89,0:03:19.39,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}咦～\N{\fnArial\fs48}Tsk.
 Dialogue: 0,0:04:07.94,0:04:10.44,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我不敢相信我录到了那个！\N{\fnArial\fs48}I can't believe I got that on video!
 Dialogue: 0,0:04:10.45,0:04:12.28,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}地球上有这玩意？\N{\fnArial\fs48}What on earth was that?!
@@ -108,7 +111,7 @@ Dialogue: 0,0:04:31.70,0:04:34.67,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:04:34.67,0:04:39.01,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}嘿，我打鼓了，赶紧付钱\N{\fnArial\fs48}Hey, I hit the drums, so pay up.
 Dialogue: 0,0:04:39.01,0:04:40.71,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这个给你\N{\fnArial\fs48}Here you go.
 Dialogue: 0,0:04:44.48,0:04:48.68,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你只是个过客。你知道吧？——不\N{\fnArial\fs48}You're just a phase. You know that, right? No.
-Dialogue: 0,0:04:50.65,0:04:52.32,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我实际上不知道，珍珠\N{\fnArial\fs48}I actually don't know that, Pearl. 
+Dialogue: 0,0:04:50.65,0:04:52.32,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我实际上不知道，珍珠\N{\fnArial\fs48}I actually don't know that, Pearl.
 Dialogue: 0,0:04:52.56,0:04:54.40,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哈，当然你不知道\N{\fnArial\fs48}Well, of course you don't.
 Dialogue: 0,0:04:54.49,0:04:56.49,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你一点也不了解玫瑰\N{\fnArial\fs48}You don't know anything about Rose.
 Dialogue: 0,0:04:56.49,0:04:58.49,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我知道那超喜欢我\N{\fnArial\fs48}I know she's super into me.
@@ -237,7 +240,7 @@ Dialogue: 0,0:10:41.70,0:10:42.50,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:10:42.50,0:10:44.04,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}人类一族？\N{\fnArial\fs48}Human beings?
 Dialogue: 0,0:10:44.04,0:10:45.50,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}人类一族\N{\fnArial\fs48}Human beings.
 Dialogue: 0,0:10:45.92,0:10:47.28,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}人类一族\N{\fnArial\fs48}Human beings.
-Dialogue: 0,0:10:49.14,0:10:52.32,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}如果我可以做到\N{\fnArial\fs48}♪ If I could begin to be
-Dialogue: 0,0:10:52.32,0:10:55.08,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你对我期望的一半\N{\fnArial\fs48}♪ half of what you think of me
-Dialogue: 0,0:10:55.10,0:10:57.24,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我愿意做任何事\N{\fnArial\fs48}♪ I could do about anything
-Dialogue: 0,0:10:57.30,0:11:02.76,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我愿学会像你一样，去爱\N{\fnArial\fs48}♪ I could even learn how to love like you ♪
+Dialogue: 0,0:10:49.14,0:10:52.32,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}如果我可以做到\N{\fnArial\fs48}♪ If I could begin to be
+Dialogue: 0,0:10:52.32,0:10:55.08,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}你对我期望的一半\N{\fnArial\fs48}♪ half of what you think of me
+Dialogue: 0,0:10:55.10,0:10:57.24,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我愿意做任何事\N{\fnArial\fs48}♪ I could do about anything
+Dialogue: 0,0:10:57.30,0:11:02.76,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我愿学会像你一样，去爱\N{\fnArial\fs48}♪ I could even learn how to love like you ♪

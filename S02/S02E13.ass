@@ -10,14 +10,13 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
+Last Style Storage: Default
 Audio File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E13.Chille.Tid.1080p.WEBRip.h264.AAC-AliQ.mp4
 Video File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E13.Chille.Tid.1080p.WEBRip.h264.AAC-AliQ.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 276
-Active Line: 280
-Video Position: 15068
+Video Position: 10
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -25,12 +24,14 @@ Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 Style: Label Trans,微软雅黑,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: Normal Dialog Text,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: SU Title,幼圆,100,&H00AB8D72,&H000000FF,&H00FFFFFF,&H00DBE0C9,-1,0,0,0,100,100,0,0,1,8,12,2,10,10,10,1
-Style: SU Team Member,幼圆,36,&H00967120,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: SU Team Title,幼圆,32,&H00C8A1A2,&H00FFFFFF,&H00FFFFFF,&H00DBE0C9,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: SU Team Member,幼圆,36,&H008F6F1A,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: SU Team Title,幼圆,32,&H00BE9294,&H00FFFFFF,&H00FFFFFF,&H00DBE0C9,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Song Lyrics Text,华文楷体,20,&H00EAEAEA,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: SU Team Background,Arial,20,&H00E8E8E8,&H000000FF,&H00000000,&H00E8DAB3,0,0,0,0,100,100,0,0,1,0,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 1,0:00:00.41,0:00:01.86,SU Title,,0,0,0,,{\pos(1100,275)}该放松了
+Dialogue: 1,0:00:00.41,0:00:01.86,SU Title,,0,0,0,,{\pos(1100,275)\xshad-0\yshad16}该放松了
 Dialogue: 1,0:00:01.92,0:00:03.38,SU Team Title,,0,0,0,,{\pos(1700,360)}翻译
 Dialogue: 1,0:00:01.92,0:00:03.38,SU Team Member,,0,0,0,,{\pos(1700,410)}零玖/presisco
 Dialogue: 1,0:00:01.92,0:00:03.38,SU Team Title,,0,0,0,,{\pos(1700,460)}校对
@@ -39,6 +40,7 @@ Dialogue: 1,0:00:01.92,0:00:03.38,SU Team Title,,0,0,0,,{\pos(1700,560)}特效
 Dialogue: 1,0:00:01.92,0:00:03.38,SU Team Member,,0,0,0,,{\pos(1700,610)}presisco
 Dialogue: 1,0:00:01.92,0:00:03.38,SU Team Title,,0,0,0,,{\pos(1700,660)}压制
 Dialogue: 1,0:00:01.92,0:00:03.38,SU Team Member,,0,0,0,,{\pos(1700,710)}presisco
+Dialogue: 0,0:00:01.92,0:00:03.38,SU Team Background,,0,0,0,,{\pos(1744,776)\xshad-0\yshad16}{\p1}m 72 0 b -46 0 -46 170 72 170 l 115 170 b -37 149 -36 374 115 344 l 72 344 b -46 344 -46 514 72 514 l 285 514 b 394 514 419 323 285 344 l 328 344 l 328 344 b 433 344 433 170 328 170 l 285 170 l 285 170 b 419 191 419 1 285 1 l 72 0 {\p0}
 Dialogue: 0,0:00:03.48,0:00:05.66,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}啊！这样根本不会有进展\N{\fnArial\fs48}Guh! This isn't getting us anywhere.
 Dialogue: 0,0:00:05.66,0:00:07.36,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}怎么了，“煎饺”？\N{\fnArial\fs48}What's the matter, perogie?
 Dialogue: 0,0:00:07.36,0:00:07.96,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你累了？\N{\fnArial\fs48}You tired?
@@ -318,7 +320,7 @@ Dialogue: 0,0:10:35.62,0:10:38.09,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:10:38.09,0:10:40.13,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我来告诉你们该怎么做\N{\fnArial\fs48}I'll show you how it's done.
 Dialogue: 0,0:10:42.53,0:10:44.20,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这还真有说服力啊\N{\fnArial\fs48}That's pretty convincing.
 Dialogue: 0,0:10:44.20,0:10:45.86,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}石榴？\N{\fnArial\fs48}Garnet?
-Dialogue: 0,0:10:49.16,0:10:51.96,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}如果我可以做到\N{\fnArial\fs48}♪ If I could begin to be
-Dialogue: 0,0:10:52.06,0:10:55.13,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你对我期望的一半\N{\fnArial\fs48}♪ half of what you think of me
-Dialogue: 0,0:10:55.13,0:10:57.11,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我愿意做任何事\N{\fnArial\fs48}♪ I could do about anything
-Dialogue: 0,0:10:57.21,0:11:02.16,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我愿学会像你一样，去爱\N{\fnArial\fs48}♪ I could even learn how to love like you ♪
+Dialogue: 0,0:10:49.16,0:10:51.96,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}如果我可以做到\N{\fnArial\fs48}♪ If I could begin to be
+Dialogue: 0,0:10:52.06,0:10:55.13,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}你对我期望的一半\N{\fnArial\fs48}♪ half of what you think of me
+Dialogue: 0,0:10:55.13,0:10:57.11,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我愿意做任何事\N{\fnArial\fs48}♪ I could do about anything
+Dialogue: 0,0:10:57.21,0:11:02.16,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我愿学会像你一样，去爱\N{\fnArial\fs48}♪ I could even learn how to love like you ♪
