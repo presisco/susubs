@@ -16,9 +16,9 @@ Video File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E14.Cry.for.Hel
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 232
-Active Line: 252
-Video Position: 15195
+Scroll Position: 136
+Active Line: 154
+Video Position: 9507
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -185,9 +185,9 @@ Dialogue: 0,0:06:13.97,0:06:16.64,Default,,0,0,0,,{\fn微软雅黑\fs64}还想�
 Dialogue: 0,0:06:18.24,0:06:19.24,Default,,0,0,0,,{\fn微软雅黑\fs64}我们在等什么？\N{\fnArial\fs48}What are we waiting for?
 Dialogue: 0,0:06:19.24,0:06:21.37,Default,,0,0,0,,{\fn微软雅黑\fs64}表演开始！\N{\fnArial\fs48}Let the show begin!
 Dialogue: 0,0:06:23.31,0:06:25.68,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}也许你更应和她一起\N{\fnArial\fs48}♪ Maybe you're better off with her ♪
-Dialogue: 0,0:06:27.58,0:06:30.00,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我想她适合你\N{\fnArial\fs48}♪ I think she's better for you ♪
+Dialogue: 0,0:06:27.58,0:06:30.00,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我想她更适合你\N{\fnArial\fs48}♪ I think she's better for you ♪
 Dialogue: 0,0:06:31.82,0:06:36.52,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我已忘记我们间的美好\N{\fnArial\fs48}♪ I forgot how great it felt to be us ♪
-Dialogue: 0,0:06:36.52,0:06:39.62,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我得意忘形了\N{\fnArial\fs48}♪ guess I got carried away ♪
+Dialogue: 0,0:06:36.52,0:06:39.62,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}也许我得意忘形了\N{\fnArial\fs48}♪ guess I got carried away ♪
 Dialogue: 0,0:06:40.16,0:06:43.42,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我只能通过你获得力量\N{\fnArial\fs48}♪ I had to use you to make me feel strong ♪
 Dialogue: 0,0:06:43.42,0:06:48.33,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}但现在我不再在乎\N{\fnArial\fs48}♪ but I don't care about that now ♪
 Dialogue: 0,0:06:48.34,0:06:51.74,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我看着我的错误铸成的塔\N{\fnArial\fs48}♪ I see a tower built out of my mistakes ♪

@@ -9,9 +9,6 @@ YCbCr Matrix: TV.601
 PlayResX: 1920
 PlayResY: 1080
 
-[Aegisub Project Garbage]
-Active Line: 8
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
@@ -23,13 +20,13 @@ Style: SU Team Member,幼圆,36,&H00A98B79,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 1,0:00:00.00,0:00:01.45,SU Title,,0,0,0,,{\pos(1100,275)\xshad-0\yshad16}该放松了
-Dialogue: 1,0:00:01.51,0:00:02.97,SU Team Title,,0,0,0,,{\pos(1700,360)}翻译
-Dialogue: 1,0:00:01.51,0:00:02.97,SU Team Member,,0,0,0,,{\pos(1700,410)}零玖/presisco
-Dialogue: 1,0:00:01.51,0:00:02.97,SU Team Title,,0,0,0,,{\pos(1700,460)}校对
-Dialogue: 1,0:00:01.51,0:00:02.97,SU Team Member,,0,0,0,,{\pos(1700,510)}presisco
-Dialogue: 1,0:00:01.51,0:00:02.97,SU Team Title,,0,0,0,,{\pos(1700,560)}特效
-Dialogue: 1,0:00:01.51,0:00:02.97,SU Team Member,,0,0,0,,{\pos(1700,610)}presisco
-Dialogue: 1,0:00:01.51,0:00:02.97,SU Team Title,,0,0,0,,{\pos(1700,660)}压制
-Dialogue: 0,0:00:01.51,0:00:02.97,SU Team Background,,0,0,0,,{\pos(1744,776)\xshad-0\yshad16}{\p1}m 72 0 b -46 0 -46 170 72 170 l 115 170 b -37 149 -36 374 115 344 l 72 344 b -46 344 -46 514 72 514 l 285 514 b 394 514 419 323 285 344 l 328 344 l 328 344 b 433 344 433 170 328 170 l 285 170 l 285 170 b 419 191 419 1 285 1 l 72 0 {\p0}
-Dialogue: 1,0:00:01.51,0:00:02.97,SU Team Member,,0,0,0,,{\pos(1700,710)}presisco
+Dialogue: 1,0:00:00.00,0:00:01.49,SU Title,,0,0,0,,{\pos(1150,150)\bord8\xshad-0\yshad16\c&HB68684&\3c&HEBE7DA&\4c&HE6CF93&}请替换
+Dialogue: 1,0:00:01.49,0:00:02.85,SU Team Title,,0,0,0,,{\pos(1700,360)\bord0\shad0\c&HB79D9A&}翻译
+Dialogue: 1,0:00:01.49,0:00:02.85,SU Team Member,,0,0,0,,{\pos(1700,410)\bord0\shad0\c&H885D0C&}AAAA
+Dialogue: 1,0:00:01.49,0:00:02.85,SU Team Title,,0,0,0,,{\pos(1700,460)\bord0\shad0\c&HB79D9A&}校对
+Dialogue: 1,0:00:01.49,0:00:02.85,SU Team Member,,0,0,0,,{\pos(1700,510)\bord0\shad0\c&H885D0C&}BBBB
+Dialogue: 1,0:00:01.49,0:00:02.85,SU Team Title,,0,0,0,,{\pos(1700,560)\bord0\shad0\c&HB79D9A&}特效
+Dialogue: 1,0:00:01.49,0:00:02.85,SU Team Member,,0,0,0,,{\pos(1700,610)\bord0\shad0\c&H885D0C&}CCCC
+Dialogue: 1,0:00:01.49,0:00:02.85,SU Team Title,,0,0,0,,{\pos(1700,660)\bord0\shad0\c&HB79D9A&}压制
+Dialogue: 1,0:00:01.49,0:00:02.85,SU Team Member,,0,0,0,,{\pos(1700,710)\bord0\shad0\c&H885D0C&}DDDD
+Dialogue: 0,0:00:01.49,0:00:02.85,SU Team Background,,0,0,0,,{\pos(1744,776)\bord0\xshad-0\yshad16\c&HE1E3E3&\4c&HE4D090}{\p1}m 72 0 b -46 0 -46 170 72 170 l 115 170 b -37 149 -36 374 115 344 l 72 344 b -46 344 -46 514 72 514 l 285 514 b 394 514 419 323 285 344 l 328 344 l 328 344 b 433 344 433 170 328 170 l 285 170 l 285 170 b 419 191 419 1 285 1 l 72 0 {\p0}
