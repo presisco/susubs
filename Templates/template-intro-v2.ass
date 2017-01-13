@@ -11,7 +11,13 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Active Line: 11
+Audio File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E14.Cry.for.Help.1080p.WEBRip.h264.AAC-AliQ.mp4
+Video File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E14.Cry.for.Help.1080p.WEBRip.h264.AAC-AliQ.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Active Line: 4
+Video Position: 228
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,8 +34,8 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:01.06,0:00:03.56,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我们，是水晶\N{\fnArial\fs48}♪ We ♪ are the crystal
 Dialogue: 0,0:00:03.57,0:00:04.54,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}战士\N{\fnArial\fs48}♪ gems
 Dialogue: 0,0:00:04.54,0:00:07.00,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我们总能拯救世界\N{\fnArial\fs48}♪ we'll always save the day
-Dialogue: 0,0:00:07.00,0:00:10.00,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}如果你认为我们不行\N{\fnArial\fs48}♪ and if you think we can't, we'll ♪
-Dialogue: 0,0:00:10.01,0:00:12.34,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我们总能找到方法\N{\fnArial\fs48}♪ always find a way
+Dialogue: 0,0:00:07.00,0:00:09.48,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}如果你认为我们不行\N{\fnArial\fs48}♪ and if you think we can't, ♪
+Dialogue: 0,0:00:09.48,0:00:12.34,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我们总能找到方法\N{\fnArial\fs48}♪ we'll always find a way
 Dialogue: 0,0:00:12.34,0:00:14.00,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}这就是为什么这个世界\N{\fnArial\fs48}♪ that's why the people
 Dialogue: 0,0:00:14.00,0:00:16.10,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}的人\N{\fnArial\fs48}♪ of this world
 Dialogue: 0,0:00:16.10,0:00:17.84,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}相信\N{\fnArial\fs48}♪ believe in
