@@ -10,25 +10,28 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
+Last Style Storage: Default
 Audio File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E16.Onion.Friend.1080p.WEBRip.h264.AAC-AliQ.mp4
 Video File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E16.Onion.Friend.1080p.WEBRip.h264.AAC-AliQ.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 200
-Active Line: 207
-Video Position: 11641
+Video Zoom Percent: 0.500000
+Scroll Position: 202
+Active Line: 205
+Video Position: 11416
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Label Trans,微软雅黑,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Label Trans,微软雅黑,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: Normal Dialog Text,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: SU Title,幼圆,100,&H00AB8D72,&H000000FF,&H00FFFFFF,&H00DBE0C9,-1,0,0,0,100,100,0,0,1,8,12,2,10,10,10,1
 Style: SU Team Member,幼圆,36,&H00A98B79,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: SU Team Title,幼圆,32,&H00B394E1,&H00FFFFFF,&H00FFFFFF,&H00DBE0C9,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: SU Team Background,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: Song Lyrics Text,华文楷体,20,&H00EAEAEA,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Background Dialogue,微软雅黑,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Hint,微软雅黑,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -54,263 +57,272 @@ Dialogue: 1,0:00:27.11,0:00:28.47,SU Team Member,,0,0,0,,{\pos(1700,610)\bord0\s
 Dialogue: 1,0:00:27.11,0:00:28.47,SU Team Title,,0,0,0,,{\pos(1700,660)\bord0\shad0\c&HB394E1&}压制
 Dialogue: 1,0:00:27.11,0:00:28.47,SU Team Member,,0,0,0,,{\pos(1700,710)\bord0\shad0\c&HA98B79&}DDDD
 Dialogue: 0,0:00:27.11,0:00:28.47,SU Team Background,,0,0,0,,{\pos(1744,776)\bord0\xshad-0\yshad16\c&HFCFCFC&\4c&HEEF3D7}{\p1}m 72 0 b -46 0 -46 170 72 170 l 115 170 b -37 149 -36 374 115 344 l 72 344 b -46 344 -46 514 72 514 l 285 514 b 394 514 419 323 285 344 l 328 344 l 328 344 b 433 344 433 170 328 170 l 285 170 l 285 170 b 419 191 419 1 285 1 l 72 0 {\p0}
-Dialogue: 0,0:00:40.47,0:00:45.22,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Yes! Perfectly timed afternoon sandwich complete.
-Dialogue: 0,0:00:45.82,0:00:48.58,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Wait, I can't eat such a perfect sandwich
-Dialogue: 0,0:00:48.58,0:00:49.62,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}all on its own.
-Dialogue: 0,0:00:49.62,0:00:51.08,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}It needs a side.
-Dialogue: 0,0:00:51.08,0:00:52.40,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}But what?
-Dialogue: 0,0:00:55.00,0:00:57.30,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Oh, hey, Amethyst. I made lunch.
-Dialogue: 0,0:00:57.54,0:00:59.56,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}You want to eat this empty container?
-Dialogue: 0,0:00:59.56,0:01:00.80,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}No, thanks.
+Dialogue: 0,0:00:40.47,0:00:45.22,Normal Dialog Text,Steven,0,0,0,,{\fn微软雅黑\fs64}爽～！完美钟点午后三明治，达成！\N{\fnArial\fs48}Yes! Perfectly timed afternoon sandwich complete.
+Dialogue: 0,0:00:45.82,0:00:49.62,Normal Dialog Text,Steven,0,0,0,,{\fn微软雅黑\fs64}等下，我可不能单独吃如此完美的三明治\N{\fnArial\fs48}Wait, I can't eat such a perfect sandwich all on its own.
+Dialogue: 0,0:00:49.62,0:00:51.08,Normal Dialog Text,Steven,0,0,0,,{\fn微软雅黑\fs64}得有点配餐\N{\fnArial\fs48}It needs a side.
+Dialogue: 0,0:00:51.08,0:00:52.40,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但用什么呢？\N{\fnArial\fs48}But what?
+Dialogue: 0,0:00:55.00,0:00:57.30,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦，嘿，紫晶，我做午餐了\N{\fnArial\fs48}Oh, hey, Amethyst. I made lunch.
+Dialogue: 0,0:00:57.54,0:00:59.56,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你想吃空盒子吗？\N{\fnArial\fs48}You want to eat this empty container?
+Dialogue: 0,0:00:59.56,0:01:00.80,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}不，谢了\N{\fnArial\fs48}No, thanks.
 Dialogue: 0,0:01:00.80,0:01:01.76,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}O-okay.
-Dialogue: 0,0:01:02.12,0:01:03.44,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}You seen Garnet or Pearl?
-Dialogue: 0,0:01:04.28,0:01:04.96,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Nope.
-Dialogue: 0,0:01:05.53,0:01:07.20,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Any idea where they might be?
-Dialogue: 0,0:01:07.60,0:01:08.46,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}I don't know.
-Dialogue: 0,0:01:08.70,0:01:10.60,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Somewhere not talking to each other.
+Dialogue: 0,0:01:02.12,0:01:03.44,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你看到石榴或珍珠了吗？\N{\fnArial\fs48}You seen Garnet or Pearl?
+Dialogue: 0,0:01:04.28,0:01:04.96,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}没\N{\fnArial\fs48}Nope.
+Dialogue: 0,0:01:05.53,0:01:07.20,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你猜她们可能在哪？\N{\fnArial\fs48}Any idea where they might be?
+Dialogue: 0,0:01:07.60,0:01:08.46,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}不知道\N{\fnArial\fs48}I don't know.
+Dialogue: 0,0:01:08.70,0:01:10.60,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}反正不是在相互交谈\N{\fnArial\fs48}Somewhere not talking to each other.
 Dialogue: 0,0:01:11.14,0:01:11.90,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Hmm.
-Dialogue: 0,0:01:12.84,0:01:14.92,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Wait, I know what this meal needs.
-Dialogue: 0,0:01:15.32,0:01:16.74,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}A bag of...
-Dialogue: 0,0:01:17.88,0:01:18.72,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Onion?!
-Dialogue: 0,0:01:19.68,0:01:20.64,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}What the...
-Dialogue: 0,0:01:20.88,0:01:22.10,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Oh, no, you don't.
-Dialogue: 0,0:01:24.00,0:01:26.58,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Onion!
-Dialogue: 0,0:01:27.10,0:01:29.06,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}We just put that screen in!
-Dialogue: 0,0:01:29.38,0:01:30.48,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Come back here!
-Dialogue: 0,0:01:30.64,0:01:32.90,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Those were going to complete my perfect lunch!
-Dialogue: 0,0:01:33.98,0:01:35.02,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}It's a special flavor
-Dialogue: 0,0:01:35.02,0:01:37.76,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}that's only in stores for a limited time!
-Dialogue: 0,0:01:39.94,0:01:41.56,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}I know how you are with food!
-Dialogue: 0,0:01:41.56,0:01:43.14,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}You're not even gonna eat them!
-Dialogue: 0,0:01:43.14,0:01:45.04,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}At least let me have just one!
-Dialogue: 0,0:01:48.08,0:01:51.26,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}This is it, Onion. Nowhere to hide.
-Dialogue: 0,0:01:51.56,0:01:53.86,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Now just -- just drop the bag and --
-Dialogue: 0,0:01:54.26,0:01:55.76,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}uh...Onion?
-Dialogue: 0,0:01:56.58,0:01:57.42,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Uh...
-Dialogue: 0,0:01:59.06,0:01:59.96,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Amethyst?
-Dialogue: 0,0:02:00.64,0:02:04.38,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Uh...That's really weird!
-Dialogue: 0,0:02:07.34,0:02:11.46,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Um, so...I always knew Onion was weird, but...
-Dialogue: 0,0:02:11.46,0:02:13.63,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}I think he's obsessed with you?
-Dialogue: 0,0:02:13.63,0:02:15.02,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}What do you think, Amethyst?
-Dialogue: 0,0:02:15.64,0:02:16.90,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Woman: Who's in there?
-Dialogue: 0,0:02:17.16,0:02:19.10,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Now, I don't know how you got past that tarp,
-Dialogue: 0,0:02:19.10,0:02:21.02,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}but this is private property.
-Dialogue: 0,0:02:21.64,0:02:22.78,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Vidalia?!
-Dialogue: 0,0:02:23.20,0:02:24.14,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Amethyst?!
-Dialogue: 0,0:02:26.27,0:02:27.47,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}It's been years!
-Dialogue: 0,0:02:27.48,0:02:29.41,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Man, you've changed.
-Dialogue: 0,0:02:29.41,0:02:31.11,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}You look terrible!
-Dialogue: 0,0:02:31.11,0:02:32.65,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}You look the same...
-Dialogue: 0,0:02:32.65,0:02:33.91,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Terrible!
-Dialogue: 0,0:02:35.12,0:02:36.76,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Wait, what?
-Dialogue: 0,0:02:36.96,0:02:39.59,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Who's she? How do you know each other?
-Dialogue: 0,0:02:39.78,0:02:41.92,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Oh, we both kind of hung around your dad,
-Dialogue: 0,0:02:41.92,0:02:43.50,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}but Vidalia's cooler than your dad,
-Dialogue: 0,0:02:43.50,0:02:45.50,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}so we started hanging out without him.
-Dialogue: 0,0:02:45.78,0:02:48.30,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Is that Steven? Look at him.
-Dialogue: 0,0:02:48.50,0:02:49.86,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}He looks just like Greg.
-Dialogue: 0,0:02:50.22,0:02:52.92,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}That's good. That's good. He used to be super hot.
-Dialogue: 0,0:02:55.74,0:02:59.40,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Uh, so did you paint these when you used to hang out?
-Dialogue: 0,0:02:59.78,0:03:02.12,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Yeah, some of them. Some are new, though.
-Dialogue: 0,0:03:02.34,0:03:04.06,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Amethyst was my favorite model.
-Dialogue: 0,0:03:04.36,0:03:06.10,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Can you still turn into anything?
-Dialogue: 0,0:03:07.04,0:03:08.66,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Anything but respectable.
-Dialogue: 0,0:03:10.68,0:03:13.96,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Oh, man, we used to get into all sorts of trouble.
-Dialogue: 0,0:03:14.19,0:03:15.54,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Now tell me, Steven,
-Dialogue: 0,0:03:15.80,0:03:17.74,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}aren't we just the spitting image of mischief?
-Dialogue: 0,0:03:18.18,0:03:20.20,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Hardly.
-Dialogue: 0,0:03:20.20,0:03:21.52,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}You're wearing slippers.
-Dialogue: 0,0:03:21.72,0:03:23.62,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}You don't know what I've done in these shoes.
-Dialogue: 0,0:03:26.44,0:03:28.02,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}It's great to see you again.
-Dialogue: 0,0:03:28.47,0:03:30.10,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Sorry it's been so long.
-Dialogue: 0,0:03:30.40,0:03:31.70,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}I guess we've both been busy.
-Dialogue: 0,0:03:32.02,0:03:34.76,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Oh, yeah. I get it -- kids.
-Dialogue: 0,0:03:35.02,0:03:36.38,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}What about kids?
-Dialogue: 0,0:03:36.38,0:03:37.60,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Oh, here's one now.
-Dialogue: 0,0:03:40.24,0:03:42.42,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}You're Onion's mom?!
-Dialogue: 0,0:03:43.14,0:03:43.54,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Yep.
-Dialogue: 0,0:03:43.82,0:03:45.28,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}He's my little troublemaker.
-Dialogue: 0,0:03:45.88,0:03:48.96,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}And, Steven, he loves talking about you.
-Dialogue: 0,0:03:52.16,0:03:54.16,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Oh, that's a great idea!
-Dialogue: 0,0:03:54.40,0:03:56.46,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Steven, Amethyst, Onion wants to know
-Dialogue: 0,0:03:56.46,0:03:57.60,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}if you'd like to stay for dinner.
-Dialogue: 0,0:03:58.08,0:03:58.84,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Um
-Dialogue: 0,0:03:58.84,0:04:00.34,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}We'd love to,
-Dialogue: 0,0:04:00.34,0:04:02.26,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Right, Steven? Onion's, like, your best friend.
-Dialogue: 0,0:04:02.57,0:04:05.20,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Now, tell me what you did in those shoes, girl.
-Dialogue: 0,0:04:05.94,0:04:08.66,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Mm, I can't eat another bite of
-Dialogue: 0,0:04:08.66,0:04:10.24,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Whatever that was.
-Dialogue: 0,0:04:10.25,0:04:11.64,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Oh, it's just a little dish
-Dialogue: 0,0:04:11.64,0:04:13.85,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}I like to call noodles and butter.
-Dialogue: 0,0:04:13.85,0:04:16.38,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}I can't believe how long it's been.
-Dialogue: 0,0:04:16.38,0:04:18.42,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}I mean, check this guy out.
-Dialogue: 0,0:04:18.42,0:04:20.09,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}I used to be bigger than him.
-Dialogue: 0,0:04:22.39,0:04:24.20,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Do you ever hear from old farty Marty?
-Dialogue: 0,0:04:24.64,0:04:24.94,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Hm?
-Dialogue: 0,0:04:25.14,0:04:26.84,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}
-Dialogue: 0,0:04:27.36,0:04:29.06,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}I don't know where that fool is.
-Dialogue: 0,0:04:29.26,0:04:30.28,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Don't care, either.
-Dialogue: 0,0:04:30.68,0:04:32.92,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}It's just been me and Yellowtail for a while now.
-Dialogue: 0,0:04:33.42,0:04:34.54,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}What?!
-Dialogue: 0,0:04:35.07,0:04:36.70,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Yellowtail?
-Dialogue: 0,0:04:36.92,0:04:38.68,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Yeah, things just kind of happened.
-Dialogue: 0,0:04:38.92,0:04:41.30,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Next thing you know, I'm living with a fisherman.
-Dialogue: 0,0:04:42.82,0:04:44.34,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}You should see your face right now.
-Dialogue: 0,0:04:44.34,0:04:45.60,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Hey, Sour Cream.
-Dialogue: 0,0:04:46.64,0:04:48.60,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}I just didn't expect any of this.
-Dialogue: 0,0:04:48.60,0:04:50.62,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Well, that's just how it is now.
-Dialogue: 0,0:04:50.62,0:04:52.59,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}So where's old fish tail at?
-Dialogue: 0,0:04:52.59,0:04:54.22,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Uh, it's Yellowtail.
-Dialogue: 0,0:04:54.68,0:04:56.60,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}He spends a lot of time out at sea.
-Dialogue: 0,0:04:56.00,0:04:57.40,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Hey, it's me.
-Dialogue: 0,0:04:58.48,0:05:01.22,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Dude, you used to complain so much
-Dialogue: 0,0:05:01.22,0:05:02.56,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}about the smell at the docks.
-Dialogue: 0,0:05:02.56,0:05:04.64,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}It used to be so gross over there.
-Dialogue: 0,0:05:04.64,0:05:06.90,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Now there are all these fancy boats hanging around.
-Dialogue: 0,0:05:06.90,0:05:09.52,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Remember when we snuck on to the mayor's boat and trashed it?
-Dialogue: 0,0:05:09.32,0:05:11.76,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Why do you hate food?
-Dialogue: 0,0:05:11.14,0:05:12.27,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Yeah, I remember.
-Dialogue: 0,0:05:12.42,0:05:13.66,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}What about you, Amethyst?
-Dialogue: 0,0:05:13.98,0:05:14.34,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Huh?
-Dialogue: 0,0:05:14.68,0:05:16.80,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}You haven't said a word about yourself all night.
-Dialogue: 0,0:05:17.22,0:05:19.70,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Well, that's because my life is boring.
-Dialogue: 0,0:05:19.98,0:05:21.42,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}All right, how are the gems?
-Dialogue: 0,0:05:21.94,0:05:23.84,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}I don't know. They're boring, too.
-Dialogue: 0,0:05:24.12,0:05:26.74,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Okay, thanks for dinner. Time to go, right, Amethyst?
-Dialogue: 0,0:05:27.02,0:05:29.32,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}What's the hurry? We got nothing to do.
-Dialogue: 0,0:05:29.80,0:05:32.86,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}'Sides, an amethyst/vidalia party don't end
-Dialogue: 0,0:05:32.86,0:05:34.14,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}till the sun come up.
-Dialogue: 0,0:05:34.54,0:05:34.82,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Onion: Ma-ma.
-Dialogue: 0,0:05:35.10,0:05:35.62,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}What's that?
-Dialogue: 0,0:05:38.18,0:05:39.78,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Oh, that's a great idea!
-Dialogue: 0,0:05:40.12,0:05:42.56,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Steven, Onion wants to show you around the house.
-Dialogue: 0,0:05:42.90,0:05:45.16,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}What do you say? Can Onion tote you around?
-Dialogue: 0,0:05:49.10,0:05:52.68,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Uh... W-what's going on?
-Dialogue: 0,0:05:52.68,0:05:55.12,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Oh, whenever Sour Cream starts deejaying,
-Dialogue: 0,0:05:55.12,0:05:57.04,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}it uses all the electricity in the house.
-Dialogue: 0,0:05:57.04,0:05:58.62,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Good thing Yellowtail's not here --
-Dialogue: 0,0:05:58.62,0:06:00.45,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}it drives him nuts.
-Dialogue: 0,0:06:00.44,0:06:02.84,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Dude, your house is jacked.
-Dialogue: 0,0:06:03.04,0:06:05.70,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}What can you do? Kids got to express themselves.
-Dialogue: 0,0:06:08.32,0:06:09.36,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}You too, Onion.
-Dialogue: 0,0:06:09.36,0:06:10.66,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Very expressive.
-Dialogue: 0,0:06:10.67,0:06:12.58,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Looks like he's ready for you, Steven.
-Dialogue: 0,0:06:19.24,0:06:21.84,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Uh... Cool shopping cart.
-Dialogue: 0,0:06:24.38,0:06:27.16,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Why don't you just jump up and down on that trampoline?
-Dialogue: 0,0:06:27.18,0:06:30.16,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}I mean, it's, like, right there.
-Dialogue: 0,0:06:30.58,0:06:32.02,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}But it's your room...
-Dialogue: 0,0:06:32.02,0:06:34.00,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}...So do whatever you want.
-Dialogue: 0,0:06:35.12,0:06:38.14,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}You have a little mousy roommate friend!
-Dialogue: 0,0:06:38.14,0:06:39.42,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Aww!
-Dialogue: 0,0:06:39.56,0:06:39.74,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Oh.
-Dialogue: 0,0:06:43.16,0:06:44.04,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Is that your pet?
-Dialogue: 0,0:06:46.02,0:06:48.04,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Oh, that must be where he lives, right?
-Dialogue: 0,0:06:48.38,0:06:49.74,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Let me help you put him in his home.
-Dialogue: 0,0:06:50.14,0:06:53.26,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}This is a pretty large container for a little baby --
-Dialogue: 0,0:06:53.40,0:06:54.84,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}snake!
-Dialogue: 0,0:06:55.50,0:06:57.96,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Onion, you want me
-Dialogue: 0,0:06:57.96,0:07:00.56,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}to feed our little friend to this snake, huh?
-Dialogue: 0,0:07:01.70,0:07:02.62,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Oh.
-Dialogue: 0,0:07:03.44,0:07:04.42,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Oh.
-Dialogue: 0,0:07:05.40,0:07:07.58,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Sorry, but we all got to eat.
-Dialogue: 0,0:07:09.24,0:07:09.66,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}I...
-Dialogue: 0,0:07:10.86,0:07:12.16,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Can't!
-Dialogue: 0,0:07:12.32,0:07:14.04,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Ugh! Just take him from me!
-Dialogue: 0,0:07:14.04,0:07:15.26,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}I-I'll be over here.
-Dialogue: 0,0:07:18.98,0:07:19.42,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Uh...
-Dialogue: 0,0:07:19.96,0:07:22.66,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}You don't have any more weird pets to show me, do you?
-Dialogue: 0,0:07:24.12,0:07:25.52,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}You gonna put on a movie?
-Dialogue: 0,0:07:26.02,0:07:28.14,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}That'd be nice -- and not creepy at all.
-Dialogue: 0,0:07:29.06,0:07:30.40,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Cool hospital setting.
-Dialogue: 0,0:07:30.26,0:07:32.26,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Vidalia: {\i1}Okay, I'm ready.{\i}
-Dialogue: 0,0:07:31.86,0:07:33.38,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Hey, that's your mom.
-Dialogue: 0,0:07:33.38,0:07:34.16,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}{\i1}I'm ready!{\i}
-Dialogue: 0,0:07:34.30,0:07:35.60,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}What's she getting ready for?
-Dialogue: 0,0:07:35.60,0:07:36.18,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}{\i1}Oh.{\i}
-Dialogue: 0,0:07:36.55,0:07:38.66,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}{\i1}Oh, Yellowtail, I think...{\i}
-Dialogue: 0,0:07:38.95,0:07:40.78,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}{\i1}Oh, it's happening!{\i}
-Dialogue: 0,0:07:41.00,0:07:42.74,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Ugh, wait! What's going on?!
-Dialogue: 0,0:07:42.88,0:07:43.96,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}{\i1}Here he comes!{\i}
-Dialogue: 0,0:07:44.80,0:07:47.02,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}"Happy Birthday Onion."
-Dialogue: 0,0:07:47.28,0:07:49.38,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Is this you being born?!
-Dialogue: 0,0:07:48.48,0:07:51.10,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}{\i1}Oh, I am never{\i} {\i1}doing this --
-Dialogue: 0,0:07:51.36,0:07:53.28,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}I can't take much more of this.
-Dialogue: 0,0:07:56.47,0:07:57.32,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Where?
-Dialogue: 0,0:08:01.60,0:08:02.98,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Okay, I'm out.
-Dialogue: 0,0:08:02.98,0:08:04.96,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Can't do this anymore. Need to go home.
-Dialogue: 0,0:08:05.52,0:08:07.58,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Amethyst, I'm sorry, but it's time to --
-Dialogue: 0,0:08:05.52,0:08:06.78,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Everything is a mess,
-Dialogue: 0,0:08:07.92,0:08:11.24,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}even Garnet, like, I've never seen Garnet this upset.
-Dialogue: 0,0:08:11.68,0:08:14.04,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}It's awful at home. I feel trapped.
-Dialogue: 0,0:08:14.32,0:08:17.00,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}That's crazy. I know what you mean, though.
-Dialogue: 0,0:08:17.26,0:08:17.82,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}You do?
-Dialogue: 0,0:08:18.28,0:08:20.66,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Hey, we don't always get along in this family.
-Dialogue: 0,0:08:21.06,0:08:24.32,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Yellowtail and Sour Cream are always at each other's throats.
-Dialogue: 0,0:08:24.48,0:08:25.56,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}It makes me nuts.
-Dialogue: 0,0:08:25.90,0:08:27.33,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Actually, when I get like that,
-Dialogue: 0,0:08:27.54,0:08:28.42,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}I think about you
-Dialogue: 0,0:08:28.64,0:08:30.50,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}and how you could always just roll with it.
-Dialogue: 0,0:08:30.97,0:08:31.92,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}What?!
-Dialogue: 0,0:08:31.92,0:08:33.92,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}No! That was {\i1}you!{\i}
-Dialogue: 0,0:08:34.22,0:08:36.10,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}You were so...Cool.
-Dialogue: 0,0:08:36.44,0:08:39.64,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}I was just like...A dumb sponge following you around.
-Dialogue: 0,0:08:39.92,0:08:42.56,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}But you were down for anything, not afraid of anything.
-Dialogue: 0,0:08:42.82,0:08:44.58,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}You know how much I wanted to be like you?
-Dialogue: 0,0:08:45.00,0:08:46.74,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Ugh. I still think about it.
-Dialogue: 0,0:08:47.08,0:08:50.12,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}To be honest, that's why I started painting you again.
-Dialogue: 0,0:08:50.54,0:08:53.36,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}I'm -- I'm inspired by you, Amethyst.
-Dialogue: 0,0:08:53.72,0:08:55.56,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Oh, looks like I'm gonna need more tea.
-Dialogue: 0,0:08:55.90,0:08:57.06,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}You want to eat this bag?
-Dialogue: 0,0:08:57.34,0:08:58.88,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Yeah, my favorite.
-Dialogue: 0,0:08:59.12,0:09:00.84,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Okay, I'll be right back.
-Dialogue: 0,0:09:01.34,0:09:03.18,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Good thing the kids are keeping themselves busy.
-Dialogue: 0,0:09:07.37,0:09:09.52,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Okay, Onion, let's do this.
-Dialogue: 0,0:09:09.78,0:09:12.52,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Whatever weird or horrible thing you have planned for me,
-Dialogue: 0,0:09:12.81,0:09:13.70,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}I can take it.
-Dialogue: 0,0:09:18.00,0:09:19.44,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Hey, slow down.
-Dialogue: 0,0:09:24.38,0:09:27.34,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Oh, boy. This is gonna be bad.
-Dialogue: 0,0:09:28.84,0:09:31.04,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Uh, uh, Onion, where are you?
-Dialogue: 0,0:09:33.08,0:09:34.42,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}What's this room?
-Dialogue: 0,0:09:34.82,0:09:36.30,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Oh!
-Dialogue: 0,0:09:39.34,0:09:41.32,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}What's in there? Something horrible?
-Dialogue: 0,0:09:44.41,0:09:47.20,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Onion! It's full of guys!
-Dialogue: 0,0:09:47.58,0:09:48.40,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Wow!
-Dialogue: 0,0:09:48.66,0:09:51.32,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}I've never seen this red variant of ninja guy before.
-Dialogue: 0,0:09:51.78,0:09:53.72,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}You have gals, too?!
-Dialogue: 0,0:09:54.36,0:09:55.16,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Hard hat gal!
-Dialogue: 0,0:09:55.50,0:09:56.40,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Triangle gal!
-Dialogue: 0,0:09:56.50,0:09:57.36,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Orange gal!
-Dialogue: 0,0:09:57.74,0:09:58.66,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Karen!
-Dialogue: 0,0:09:59.24,0:09:59.82,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Karen...
-Dialogue: 0,0:10:00.62,0:10:02.76,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}How'd you get a hold of -- no, don't tell me.
-Dialogue: 0,0:10:03.20,0:10:03.48,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Hmm?
-Dialogue: 0,0:10:04.14,0:10:05.70,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}No way!
-Dialogue: 0,0:10:06.04,0:10:09.02,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}It's explorer gal!
-Dialogue: 0,0:10:09.36,0:10:11.42,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}She's so cool-looking!
-Dialogue: 0,0:10:11.82,0:10:13.04,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Thanks for showing her to me --
-Dialogue: 0,0:10:13.70,0:10:15.78,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}you -- you should take your explorer gal back.
-Dialogue: 0,0:10:17.08,0:10:19.44,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Are you giving this to me?
-Dialogue: 0,0:10:20.22,0:10:22.42,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}I can't believe it!
-Dialogue: 0,0:10:22.42,0:10:24.32,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Thank you so much, Onion!
-Dialogue: 0,0:10:24.68,0:10:27.40,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Aw, man! What other gals and guys you got?!
-Dialogue: 0,0:10:27.90,0:10:29.74,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Ha, cool -- invisible guy.
-Dialogue: 0,0:10:30.50,0:10:32.08,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}And stay out.
-Dialogue: 0,0:10:33.24,0:10:36.40,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Um, thanks for dinner -- and for listening.
-Dialogue: 0,0:10:36.74,0:10:38.52,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Well, thanks for breaking into my house.
-Dialogue: 0,0:10:38.90,0:10:40.44,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}And don't worry about that other stuff.
-Dialogue: 0,0:10:40.80,0:10:41.88,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}It's gonna blow over.
-Dialogue: 0,0:10:42.24,0:10:43.08,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}You're a rock. 
-Dialogue: 0,0:10:43.72,0:10:44.66,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}That's what you are, right?
-Dialogue: 0,0:10:45.08,0:10:46.92,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Uh, something like that.
-Dialogue: 0,0:10:47.28,0:10:49.84,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Well, whatever you are, don't be a stranger.
-Dialogue: 0,0:10:49.96,0:10:53.52,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Yeah, I can stop by anytime if you need inspiration.
-Dialogue: 0,0:10:53.52,0:10:54.90,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Yeah, I can stop by anytime if you need inspiration.
-Dialogue: 0,0:10:55.64,0:10:56.70,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Or if you want,
-Dialogue: 0,0:10:56.94,0:10:59.04,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}you could come over to the temple sometime, too.
-Dialogue: 0,0:10:59.56,0:11:01.66,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}You could even bring Onion for Steven to hang with.
-Dialogue: 0,0:11:01.98,0:11:04.09,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Oh, well, that sounds great to us.
-Dialogue: 0,0:11:04.38,0:11:05.30,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}What about you, Steven?
-Dialogue: 0,0:11:05.54,0:11:07.00,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}You ready for another round with this guy?
-Dialogue: 0,0:11:12.20,0:11:14.34,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Yeah, we'll see.
+Dialogue: 0,0:01:12.84,0:01:14.92,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}嗯，我知道需要什么了\N{\fnArial\fs48}Wait, I know what this meal needs.
+Dialogue: 0,0:01:15.32,0:01:16.74,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}一袋...\N{\fnArial\fs48}A bag of...
+Dialogue: 0,0:01:17.88,0:01:18.72,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}洋葱头？！\N{\fnArial\fs48}Onion?!
+Dialogue: 0,0:01:19.68,0:01:20.64,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}搞毛？\N{\fnArial\fs48}What the...
+Dialogue: 0,0:01:20.88,0:01:22.10,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦，不，你可别想\N{\fnArial\fs48}Oh, no, you don't.
+Dialogue: 0,0:01:24.00,0:01:26.58,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}洋葱头！\N{\fnArial\fs48}Onion!
+Dialogue: 0,0:01:27.10,0:01:29.06,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们才装上的纱窗！\N{\fnArial\fs48}We just put that screen in!
+Dialogue: 0,0:01:29.38,0:01:30.48,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}给我回来！\N{\fnArial\fs48}Come back here!
+Dialogue: 0,0:01:30.64,0:01:32.90,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}那得用来完成我的完美午餐！\N{\fnArial\fs48}Those were going to complete my perfect lunch!
+Dialogue: 0,0:01:33.98,0:01:35.02,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}可是特别口味啊，\N{\fnArial\fs48}It's a special flavor
+Dialogue: 0,0:01:35.02,0:01:37.76,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}限时供应的！\N{\fnArial\fs48}that's only in stores for a limited time!
+Dialogue: 0,0:01:39.94,0:01:41.56,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我知道到你手里的食物的下场！\N{\fnArial\fs48}I know how you are with food!
+Dialogue: 0,0:01:41.56,0:01:43.14,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你从来都不吃！\N{\fnArial\fs48}You're not even gonna eat them!
+Dialogue: 0,0:01:43.14,0:01:45.04,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}至少让我尝一口啊！\N{\fnArial\fs48}At least let me have just one!
+Dialogue: 0,0:01:48.08,0:01:51.26,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}啊哈，洋葱头，无处可躲了吧\N{\fnArial\fs48}This is it, Onion. Nowhere to hide.
+Dialogue: 0,0:01:51.56,0:01:53.86,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}现在放-放下零食和-\N{\fnArial\fs48}Now just -- just drop the bag and --
+Dialogue: 0,0:01:54.26,0:01:55.76,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃...洋葱头？\N{\fnArial\fs48}uh...Onion?
+Dialogue: 0,0:01:56.58,0:01:57.42,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃...\N{\fnArial\fs48}Uh...
+Dialogue: 0,0:01:59.06,0:01:59.96,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}紫晶？\N{\fnArial\fs48}Amethyst?
+Dialogue: 0,0:02:00.64,0:02:04.38,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃...这就有点诡异了！\N{\fnArial\fs48}Uh...That's really weird!
+Dialogue: 0,0:02:07.34,0:02:11.46,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃，所以...我一直清楚洋葱头有点怪，但...\N{\fnArial\fs48}Um, so...I always knew Onion was weird, but...
+Dialogue: 0,0:02:11.46,0:02:13.63,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我感觉他对你有点那啥？\N{\fnArial\fs48}I think he's obsessed with you?
+Dialogue: 0,0:02:13.63,0:02:15.02,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你觉得呢，紫晶？\N{\fnArial\fs48}What do you think, Amethyst?
+Dialogue: 0,0:02:15.64,0:02:16.90,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}谁在那里？\N{\fnArial\fs48}Who's in there?
+Dialogue: 0,0:02:17.16,0:02:19.10,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}好吧，我不知道你如何绕过油布的\N{\fnArial\fs48}Now, I don't know how you got past that tarp,
+Dialogue: 0,0:02:19.10,0:02:21.02,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但这可是私人领地\N{\fnArial\fs48}but this is private property.
+Dialogue: 0,0:02:21.64,0:02:22.78,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}维达利亚？\N{\fnArial\fs48}Vidalia?!
+Dialogue: 0,0:02:23.20,0:02:24.14,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}紫晶？！\N{\fnArial\fs48}Amethyst?!
+Dialogue: 0,0:02:26.27,0:02:27.47,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}都多少年了！\N{\fnArial\fs48}It's been years!
+Dialogue: 0,0:02:27.48,0:02:29.41,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}天，你变了好多\N{\fnArial\fs48}Man, you've changed.
+Dialogue: 0,0:02:29.41,0:02:31.11,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}看起来糟透了！\N{\fnArial\fs48}You look terrible!
+Dialogue: 0,0:02:31.11,0:02:32.65,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你还是一样...\N{\fnArial\fs48}You look the same...
+Dialogue: 0,0:02:32.65,0:02:33.91,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}遭！\N{\fnArial\fs48}Terrible!
+Dialogue: 0,0:02:35.12,0:02:36.76,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}等等，怎么了？\N{\fnArial\fs48}Wait, what?
+Dialogue: 0,0:02:36.96,0:02:39.59,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}她是谁？你们是怎么认识的？\N{\fnArial\fs48}Who's she? How do you know each other?
+Dialogue: 0,0:02:39.78,0:02:41.92,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦，我们都和你爸有交往，\N{\fnArial\fs48}Oh, we both kind of hung around your dad,
+Dialogue: 0,0:02:41.92,0:02:43.50,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但维达利亚比你爸更酷，\N{\fnArial\fs48}but Vidalia's cooler than your dad,
+Dialogue: 0,0:02:43.50,0:02:45.50,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}所以我们便开始单独交往了\N{\fnArial\fs48}so we started hanging out without him.
+Dialogue: 0,0:02:45.78,0:02:48.30,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}那是史蒂文吧？看看\N{\fnArial\fs48}Is that Steven? Look at him.
+Dialogue: 0,0:02:48.50,0:02:49.86,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}长得和格雷格一模一样\N{\fnArial\fs48}He looks just like Greg.
+Dialogue: 0,0:02:50.22,0:02:52.92,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}没什么，没什么，他原来可帅了\N{\fnArial\fs48}That's good. That's good. He used to be super hot.
+Dialogue: 0,0:02:55.74,0:02:59.40,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃，所以你们原来在一起时画的这些？\N{\fnArial\fs48}Uh, so did you paint these when you used to hang out?
+Dialogue: 0,0:02:59.78,0:03:02.12,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}是啊，应该说是一部分，不过有些是新画的\N{\fnArial\fs48}Yeah, some of them. Some are new, though.
+Dialogue: 0,0:03:02.34,0:03:04.06,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}紫晶曾是我最喜欢的模特\N{\fnArial\fs48}Amethyst was my favorite model.
+Dialogue: 0,0:03:04.36,0:03:06.10,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你仍然可以变成任何物体吧？\N{\fnArial\fs48}Can you still turn into anything?
+Dialogue: 0,0:03:07.04,0:03:08.66,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}当然，不过正经的不行\N{\fnArial\fs48}Anything but respectable.
+Dialogue: 0,0:03:07.04,0:03:08.66,Hint,,0,0,0,,{\pos(960,50)}此处紫晶的造型致敬毕加索的超现实立体派肖像画
+Dialogue: 0,0:03:10.68,0:03:13.96,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦，天哪，我们之前可惹过各种麻烦\N{\fnArial\fs48}Oh, man, we used to get into all sorts of trouble.
+Dialogue: 0,0:03:14.19,0:03:15.54,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}来告诉我，史蒂文\N{\fnArial\fs48}Now tell me, Steven,
+Dialogue: 0,0:03:15.80,0:03:17.74,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们算不算叛逆先锋？\N{\fnArial\fs48}aren't we just the spitting image of mischief?
+Dialogue: 0,0:03:18.76,0:03:20.20,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}勉强把\N{\fnArial\fs48}Hardly.
+Dialogue: 0,0:03:20.20,0:03:21.52,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你怎么穿拖鞋了\N{\fnArial\fs48}You're wearing slippers.
+Dialogue: 0,0:03:21.72,0:03:23.62,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你可猜不到我用这双鞋干过什么\N{\fnArial\fs48}You don't know what I've done in these shoes.
+Dialogue: 0,0:03:26.44,0:03:28.02,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}很高兴再次见到你\N{\fnArial\fs48}It's great to see you again.
+Dialogue: 0,0:03:28.47,0:03:30.10,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}对不起好久没联系了\N{\fnArial\fs48}Sorry it's been so long.
+Dialogue: 0,0:03:30.40,0:03:31.70,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我猜我们都很忙吧\N{\fnArial\fs48}I guess we've both been busy.
+Dialogue: 0,0:03:32.02,0:03:34.76,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦，对啊，我知道-小孩嘛\N{\fnArial\fs48}Oh, yeah. I get it -- kids.
+Dialogue: 0,0:03:34.76,0:03:36.38,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}孩子怎么了？\N{\fnArial\fs48}What about kids?
+Dialogue: 0,0:03:36.38,0:03:37.60,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}噢，这就有个\N{\fnArial\fs48}Oh, here's one now.
+Dialogue: 0,0:03:40.24,0:03:42.42,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你是洋葱头的妈妈？！\N{\fnArial\fs48}You're Onion's mom?!
+Dialogue: 0,0:03:43.14,0:03:43.54,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}没错\N{\fnArial\fs48}Yep.
+Dialogue: 0,0:03:43.82,0:03:45.28,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}他就是我的小捣蛋鬼\N{\fnArial\fs48}He's my little troublemaker.
+Dialogue: 0,0:03:45.88,0:03:48.96,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}而且，史蒂文，他很喜欢谈论你\N{\fnArial\fs48}And, Steven, he loves talking about you.
+Dialogue: 0,0:03:52.16,0:03:54.16,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦，那是个好主意！\N{\fnArial\fs48}Oh, that's a great idea!
+Dialogue: 0,0:03:54.40,0:03:56.46,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}史蒂文，紫晶，洋葱头想知道\N{\fnArial\fs48}Steven, Amethyst, Onion wants to know
+Dialogue: 0,0:03:56.46,0:03:57.60,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你们愿不愿离留下吃晚餐\N{\fnArial\fs48}if you'd like to stay for dinner.
+Dialogue: 0,0:03:58.08,0:03:58.84,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃\N{\fnArial\fs48}Um
+Dialogue: 0,0:03:58.84,0:04:00.34,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}当然啦，\N{\fnArial\fs48}We'd love to,
+Dialogue: 0,0:04:00.34,0:04:02.26,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}对吧，史蒂文？洋葱头就像，你的好朋友\N{\fnArial\fs48}Right, Steven? Onion's, like, your best friend.
+Dialogue: 0,0:04:02.57,0:04:05.20,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}现在，该告诉我你穿着拖鞋做过什么了吧，妹子？\N{\fnArial\fs48}Now, tell me what you did in those shoes, girl.
+Dialogue: 0,0:04:05.94,0:04:08.66,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我可没法再多塞一口\N{\fnArial\fs48}Mm, I can't eat another bite of
+Dialogue: 0,0:04:08.66,0:04:10.24,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}那种不可言状的玩意了\N{\fnArial\fs48}Whatever that was.
+Dialogue: 0,0:04:10.25,0:04:11.58,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}噢，那只是一道\N{\fnArial\fs48}Oh, it's just a little dish
+Dialogue: 0,0:04:11.58,0:04:13.85,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我起名为奶油炒面条的菜\N{\fnArial\fs48}I like to call noodles and butter.
+Dialogue: 0,0:04:13.85,0:04:16.38,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我简直不敢相信过了这么久\N{\fnArial\fs48}I can't believe how long it's been.
+Dialogue: 0,0:04:16.38,0:04:18.42,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我是说，看看他\N{\fnArial\fs48}I mean, check this guy out.
+Dialogue: 0,0:04:18.42,0:04:20.09,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我之前可是比他高的\N{\fnArial\fs48}I used to be bigger than him.
+Dialogue: 0,0:04:22.39,0:04:24.20,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你之后有臭子马蒂的消息吗？\N{\fnArial\fs48}Do you ever hear from old farty Marty?
+Dialogue: 0,0:04:24.64,0:04:24.94,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}蛤？\N{\fnArial\fs48}Hm?
+Dialogue: 0,0:04:27.36,0:04:29.06,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我可不知道那个笨蛋在哪\N{\fnArial\fs48}I don't know where that fool is.
+Dialogue: 0,0:04:29.26,0:04:30.28,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}也不在乎\N{\fnArial\fs48}Don't care, either.
+Dialogue: 0,0:04:30.68,0:04:32.92,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}之后一直是我和黄鳍在一起\N{\fnArial\fs48}It's just been me and Yellowtail for a while now.
+Dialogue: 0,0:04:33.42,0:04:34.54,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}啊？！\N{\fnArial\fs48}What?!
+Dialogue: 0,0:04:35.07,0:04:36.70,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}黄鳍？\N{\fnArial\fs48}Yellowtail?
+Dialogue: 0,0:04:36.92,0:04:38.68,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}没错，我们直接来了电\N{\fnArial\fs48}Yeah, things just kind of happened.
+Dialogue: 0,0:04:38.92,0:04:41.30,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}之后，我就和渔民在一起了\N{\fnArial\fs48}Next thing you know, I'm living with a fisherman.
+Dialogue: 100,0:04:42.82,0:04:44.34,Background Dialogue,Vidalia,0,0,0,,{\fn微软雅黑\fs64\pos(960,120)\c&HB9F1FA&}你该看看你的表情\N{\fnArial\fs48}You should see your face right now.
+Dialogue: 0,0:04:44.34,0:04:45.60,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}嘿，酸奶油\N{\fnArial\fs48}Hey, Sour Cream.
+Dialogue: 100,0:04:46.64,0:04:48.60,Background Dialogue,Amethyst,0,0,0,,{\fn微软雅黑\fs64\pos(960,120)\c&HD897C1&}我怎么猜得到？\N{\fnArial\fs48}I just didn't expect any of this.
+Dialogue: 100,0:04:48.60,0:04:50.62,Background Dialogue,Vidalia,0,0,0,,{\fn微软雅黑\fs64\pos(960,120)\c&HB9F1FA&}好吧，事情现在就是这样\N{\fnArial\fs48}Well, that's just how it is now.
+Dialogue: 100,0:04:50.62,0:04:52.59,Background Dialogue,Amethyst,0,0,0,,{\fn微软雅黑\fs64\pos(960,120)\c&HD897C1&}那么现在老鱼鳍在哪？\N{\fnArial\fs48}So where's old fish tail at?
+Dialogue: 100,0:04:52.59,0:04:54.22,Background Dialogue,Vidalia,0,0,0,,{\fn微软雅黑\fs64\pos(960,120)\c&HB9F1FA&}呃，是“黄鳍”\N{\fnArial\fs48}Uh, it's Yellowtail.
+Dialogue: 100,0:04:52.59,0:04:54.22,Hint,,0,0,0,,{\pos(960,1070)}黄鳍用土豆泥做雕像的镜头致敬斯皮尔伯格的电影《第三类接触》中的著名镜头\N其中男主将土豆泥塑造成了自己喜欢的山脉的形状
+Dialogue: 100,0:04:54.68,0:04:56.60,Background Dialogue,Vidalia,0,0,0,,{\fn微软雅黑\fs64\pos(960,120)\c&HB9F1FA&}他大部分时间在海上\N{\fnArial\fs48}He spends a lot of time out at sea.
+Dialogue: 0,0:04:56.00,0:04:57.40,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}嘿，那是我\N{\fnArial\fs48}Hey, it's me.
+Dialogue: 100,0:04:58.48,0:05:01.22,Background Dialogue,Amethyst,0,0,0,,{\fn微软雅黑\fs64\pos(960,120)\c&HD897C1&}伙计，你之前可一直在抱怨\N{\fnArial\fs48}Dude, you used to complain so much
+Dialogue: 100,0:05:01.22,0:05:02.56,Background Dialogue,Vidalia,0,0,0,,{\fn微软雅黑\fs64\pos(960,120)\c&HB9F1FA&}码头的那种味道\N{\fnArial\fs48}about the smell at the docks.
+Dialogue: 100,0:05:02.56,0:05:04.64,Background Dialogue,Vidalia,0,0,0,,{\fn微软雅黑\fs64\pos(960,120)\c&HB9F1FA&}那里原来可恶心了\N{\fnArial\fs48}It used to be so gross over there.
+Dialogue: 100,0:05:04.64,0:05:06.90,Background Dialogue,Vidalia,0,0,0,,{\fn微软雅黑\fs64\pos(960,120)\c&HB9F1FA&}现在那里\N{\fnArial\fs48}Now there are all these fancy boats hanging around.
+Dialogue: 100,0:05:06.90,0:05:09.52,Background Dialogue,Vidalia,0,0,0,,{\fn微软雅黑\fs64\pos(960,120)\c&HB9F1FA&}还记得我们曾偷偷进入市长的船然后乱搞一气吗？\N{\fnArial\fs48}Remember when we snuck on to the mayor's boat and trashed it?
+Dialogue: 0,0:05:09.32,0:05:11.76,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}为什么你这么讨厌食物？\N{\fnArial\fs48}Why do you hate food?
+Dialogue: 0,0:05:11.14,0:05:12.27,Background Dialogue,,0,0,0,,{\fn微软雅黑\fs64}对啊，我还记得\N{\fnArial\fs48}Yeah, I remember.
+Dialogue: 0,0:05:12.42,0:05:13.66,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你呢，紫晶？\N{\fnArial\fs48}What about you, Amethyst?
+Dialogue: 0,0:05:13.98,0:05:14.34,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃？\N{\fnArial\fs48}Huh?
+Dialogue: 0,0:05:14.68,0:05:16.80,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你一晚上还没说过你的故事呢\N{\fnArial\fs48}You haven't said a word about yourself all night.
+Dialogue: 0,0:05:17.22,0:05:19.70,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}其实，这是因为我的生活太无聊了\N{\fnArial\fs48}Well, that's because my life is boring.
+Dialogue: 0,0:05:19.98,0:05:21.42,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}好吧，宝石人们怎么样？\N{\fnArial\fs48}All right, how are the gems?
+Dialogue: 0,0:05:21.94,0:05:23.84,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我不知道，她们也很无聊\N{\fnArial\fs48}I don't know. They're boring, too.
+Dialogue: 0,0:05:24.12,0:05:26.74,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}好吧，谢谢你们的晚安，该走了，不是吗，紫晶？\N{\fnArial\fs48}Okay, thanks for dinner. Time to go, right, Amethyst?
+Dialogue: 0,0:05:27.02,0:05:29.32,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}急什么集？我们又没事做\N{\fnArial\fs48}What's the hurry? We got nothing to do.
+Dialogue: 0,0:05:29.80,0:05:32.86,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}另，紫晶/维达利亚派对从不停止\N{\fnArial\fs48}'Sides, an amethyst/vidalia party don't end
+Dialogue: 0,0:05:32.86,0:05:34.14,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}除非太阳出来了\N{\fnArial\fs48}till the sun come up.
+Dialogue: 0,0:05:34.54,0:05:34.82,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}妈-妈\N{\fnArial\fs48}Ma-ma.
+Dialogue: 0,0:05:35.10,0:05:35.62,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}怎么了？\N{\fnArial\fs48}What's that?
+Dialogue: 0,0:05:35.76,0:05:38.14,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}妈妈妈妈-麻麻-嘛-码-码-嘛～
+Dialogue: 0,0:05:38.18,0:05:39.78,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦，那是个好主意！\N{\fnArial\fs48}Oh, that's a great idea!
+Dialogue: 0,0:05:40.12,0:05:42.56,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}史蒂文，洋葱头想带你看看屋子\N{\fnArial\fs48}Steven, Onion wants to show you around the house.
+Dialogue: 0,0:05:42.90,0:05:45.16,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}怎么样？让洋葱头带你看看？\N{\fnArial\fs48}What do you say? Can Onion tote you around?
+Dialogue: 0,0:05:49.10,0:05:52.68,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃..发..发生了什么？\N{\fnArial\fs48}Uh... W-what's going on?
+Dialogue: 0,0:05:52.68,0:05:55.12,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦，每当酸奶油开始打碟，\N{\fnArial\fs48}Oh, whenever Sour Cream starts deejaying,
+Dialogue: 0,0:05:55.12,0:05:57.04,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}就会用光整栋房的电力\N{\fnArial\fs48}it uses all the electricity in the house.
+Dialogue: 0,0:05:57.04,0:05:58.62,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}还好黄鳍不在家-\N{\fnArial\fs48}Good thing Yellowtail's not here --
+Dialogue: 0,0:05:58.62,0:06:00.38,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这能逼疯他的\N{\fnArial\fs48}it drives him nuts.
+Dialogue: 0,0:06:00.38,0:06:02.84,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}伙计，你的房子嗨上天了\N{\fnArial\fs48}Dude, your house is jacked.
+Dialogue: 0,0:06:03.04,0:06:05.70,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你能怎么办？孩子们要表现自我\N{\fnArial\fs48}What can you do? Kids got to express themselves.
+Dialogue: 0,0:06:08.32,0:06:09.36,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你也是，洋葱头\N{\fnArial\fs48}You too, Onion.
+Dialogue: 0,0:06:09.36,0:06:10.66,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}相当有表现力\N{\fnArial\fs48}Very expressive.
+Dialogue: 0,0:06:10.67,0:06:12.58,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}看来他准备好了，史蒂文\N{\fnArial\fs48}Looks like he's ready for you, Steven.
+Dialogue: 0,0:06:19.24,0:06:21.84,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃...挺酷的购物车\N{\fnArial\fs48}Uh... Cool shopping cart.
+Dialogue: 0,0:06:22.62,0:06:24.28,Hint,,0,0,0,,{\pos(960,50)}洋葱头床头的海报致敬摇滚乐队The Door
+Dialogue: 0,0:06:24.38,0:06:27.16,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}为什么你不在蹦床上跳呢？\N{\fnArial\fs48}Why don't you just jump up and down on that trampoline?
+Dialogue: 0,0:06:27.18,0:06:30.16,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我是说，就像，在那\N{\fnArial\fs48}I mean, it's, like, right there.
+Dialogue: 0,0:06:30.58,0:06:32.02,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但这是你的房间...\N{\fnArial\fs48}But it's your room...
+Dialogue: 0,0:06:32.02,0:06:34.00,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}..那么随你便啦\N{\fnArial\fs48}...So do whatever you want.
+Dialogue: 0,0:06:35.12,0:06:38.14,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你还有个小老鼠做室友！\N{\fnArial\fs48}You have a little mousy roommate friend!
+Dialogue: 0,0:06:38.14,0:06:39.42,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}嗷～\N{\fnArial\fs48}Aww!
+Dialogue: 0,0:06:39.56,0:06:39.74,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦\N{\fnArial\fs48}Oh.
+Dialogue: 0,0:06:43.16,0:06:44.04,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}那是你的宠物？\N{\fnArial\fs48}Is that your pet?
+Dialogue: 0,0:06:46.02,0:06:48.04,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦，他一定住那里，对吧？\N{\fnArial\fs48}Oh, that must be where he lives, right?
+Dialogue: 0,0:06:48.38,0:06:49.74,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}让我帮你将他放回家\N{\fnArial\fs48}Let me help you put him in his home.
+Dialogue: 0,0:06:50.14,0:06:53.26,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这对小宝宝来讲真是个大箱-\N{\fnArial\fs48}This is a pretty large container for a little baby --
+Dialogue: 0,0:06:53.40,0:06:54.84,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}蛇！\N{\fnArial\fs48}snake!
+Dialogue: 0,0:06:55.50,0:06:57.96,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N洋葱头，你想让我{\fnArial\fs48}Onion, you want me
+Dialogue: 0,0:06:57.96,0:07:00.56,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}用我们的小伙伴喂蛇吗？\N{\fnArial\fs48}to feed our little friend to this snake, huh?
+Dialogue: 0,0:07:01.70,0:07:02.62,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦\N{\fnArial\fs48}Oh.
+Dialogue: 0,0:07:03.44,0:07:04.42,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦\N{\fnArial\fs48}Oh.
+Dialogue: 0,0:07:05.40,0:07:07.58,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}对不起，但我们都得吃饭的\N{\fnArial\fs48}Sorry, but we all got to eat.
+Dialogue: 0,0:07:09.24,0:07:09.66,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我...\N{\fnArial\fs48}I...
+Dialogue: 0,0:07:10.86,0:07:12.16,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}做不到！\N{\fnArial\fs48}Can't!
+Dialogue: 0,0:07:12.32,0:07:14.04,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃！赶紧把他从我手里拿走吧！\N{\fnArial\fs48}Ugh! Just take him from me!
+Dialogue: 0,0:07:14.04,0:07:15.26,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我-我就在这里\N{\fnArial\fs48}I-I'll be over here.
+Dialogue: 0,0:07:18.98,0:07:19.42,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃...\N{\fnArial\fs48}Uh...
+Dialogue: 0,0:07:19.96,0:07:22.66,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你不会再给我看更多的奇怪宠物了，对吧？\N{\fnArial\fs48}You don't have any more weird pets to show me, do you?
+Dialogue: 0,0:07:24.12,0:07:25.52,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你要放电影？\N{\fnArial\fs48}You gonna put on a movie?
+Dialogue: 0,0:07:26.02,0:07:28.14,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}那真不错-一点也不怪异\N{\fnArial\fs48}That'd be nice -- and not creepy at all.
+Dialogue: 0,0:07:29.06,0:07:30.40,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}医院布景不错嘛\N{\fnArial\fs48}Cool hospital setting.
+Dialogue: 100,0:07:30.26,0:07:32.26,Background Dialogue,Vidalia,0,0,0,,{\fn微软雅黑\fs64\pos(960,120)\c&HB9F1FA&}好的，我准备好了\N{\fnArial\fs48}Okay, I'm ready.
+Dialogue: 0,0:07:31.86,0:07:33.38,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}嘿，那是你妈妈\N{\fnArial\fs48}Hey, that's your mom.
+Dialogue: 100,0:07:33.38,0:07:34.16,Background Dialogue,Vidalia,0,0,0,,{\fn微软雅黑\fs64\pos(960,120)\c&HB9F1FA&}我准备好了！\N{\fnArial\fs48}I'm ready!
+Dialogue: 0,0:07:34.30,0:07:35.60,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}她准备好做什么？\N{\fnArial\fs48}What's she getting ready for?
+Dialogue: 100,0:07:35.60,0:07:36.18,Background Dialogue,Vidalia,0,0,0,,{\fn微软雅黑\fs64\pos(960,120)\c&HB9F1FA&}哦\N{\fnArial\fs48}Oh.
+Dialogue: 100,0:07:36.55,0:07:38.66,Background Dialogue,Vidalia,0,0,0,,{\fn微软雅黑\fs64\pos(960,120)\c&HB9F1FA&}哦-黄鳍-我觉得...\N{\fnArial\fs48}Oh, Yellowtail, I think...
+Dialogue: 100,0:07:38.95,0:07:40.78,Background Dialogue,Vidalia,0,0,0,,{\fn微软雅黑\fs64\pos(960,120)\c&HB9F1FA&}哦-他要出来了\N{\fnArial\fs48}Oh, it's happening!
+Dialogue: 0,0:07:41.00,0:07:42.74,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃，等下！发生了什么？！\N{\fnArial\fs48}Ugh, wait! What's going on?!
+Dialogue: 100,0:07:42.88,0:07:43.96,Background Dialogue,Vidalia,0,0,0,,{\fn微软雅黑\fs64\pos(960,120)\c&HB9F1FA&}他来了！\N{\fnArial\fs48}Here he comes!
+Dialogue: 500,0:07:44.80,0:07:46.80,Label Trans,,0,0,0,,{\fn隶书\fs128\frz13.72\pos(974,324)\c&H6143B1&\bord0\shad0}生日快乐，洋葱头
+Dialogue: 0,0:07:47.28,0:07:49.38,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这是你出生的视频吗？！\N{\fnArial\fs48}Is this you being born?!
+Dialogue: 100,0:07:48.48,0:07:51.10,Background Dialogue,Vidalia,0,0,0,,{\fn微软雅黑\fs64\pos(960,120)\c&HB9F1FA&}哦，我坚持不下去了-\N{\fnArial\fs48}Oh, I am never doing this --
+Dialogue: 0,0:07:51.36,0:07:53.28,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我没法再承受了\N{\fnArial\fs48}I can't take much more of this.
+Dialogue: 0,0:07:56.12,0:07:57.41,Hint,,0,0,0,,{\pos(960,50)}这个很明显了，《肖申克的救赎》里的越狱隧道
+Dialogue: 0,0:07:56.47,0:07:57.32,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哪里？\N{\fnArial\fs48}Where?
+Dialogue: 0,0:08:01.60,0:08:02.98,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}好吧，我得走了\N{\fnArial\fs48}Okay, I'm out.
+Dialogue: 0,0:08:02.98,0:08:04.96,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}不能再继续了，得回家了\N{\fnArial\fs48}Can't do this anymore. Need to go home.
+Dialogue: 0,0:08:05.52,0:08:07.58,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}紫晶，对不起，但是时候-\N{\fnArial\fs48}Amethyst, I'm sorry, but it's time to --
+Dialogue: 100,0:08:05.52,0:08:06.78,Background Dialogue,Amethyst,0,0,0,,{\fn微软雅黑\fs64\pos(960,120)\c&HD897C1&}所有事都一团糟\N{\fnArial\fs48}Everything is a mess,
+Dialogue: 100,0:08:07.92,0:08:11.24,Background Dialogue,Amethyst,0,0,0,,{\fn微软雅黑\fs64\pos(960,120)\c&HD897C1&}即使是石榴，就像，我从没见过石榴这么生气过\N{\fnArial\fs48}even Garnet, like, I've never seen Garnet this upset.
+Dialogue: 0,0:08:11.68,0:08:14.04,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}家里感觉非常遭，我感觉非常压抑\N{\fnArial\fs48}It's awful at home. I feel trapped.
+Dialogue: 0,0:08:14.32,0:08:17.00,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}那真是太夸张了，不过我知道你的意思\N{\fnArial\fs48}That's crazy. I know what you mean, though.
+Dialogue: 0,0:08:17.26,0:08:17.82,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}真的？\N{\fnArial\fs48}You do?
+Dialogue: 0,0:08:18.28,0:08:20.66,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}嘿，我们一家并不总是相处的非常愉快\N{\fnArial\fs48}Hey, we don't always get along in this family.
+Dialogue: 0,0:08:21.06,0:08:24.32,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}黄鳍和酸奶油总是相互掐架\N{\fnArial\fs48}Yellowtail and Sour Cream are always at each other's throats.
+Dialogue: 0,0:08:24.48,0:08:25.56,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这让我非常苦恼\N{\fnArial\fs48}It makes me nuts.
+Dialogue: 0,0:08:25.90,0:08:27.33,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}实际上，每当我烦恼时，\N{\fnArial\fs48}Actually, when I get like that,
+Dialogue: 0,0:08:27.54,0:08:28.42,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我总想到你\N{\fnArial\fs48}I think about you
+Dialogue: 0,0:08:28.64,0:08:30.50,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}还有你毫不在乎的态度\N{\fnArial\fs48}and how you could always just roll with it.
+Dialogue: 0,0:08:30.97,0:08:31.92,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}什么？！\N{\fnArial\fs48}What?!
+Dialogue: 0,0:08:31.92,0:08:33.92,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}不！就是你\N{\fnArial\fs48}No! That was you!
+Dialogue: 0,0:08:34.22,0:08:36.10,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你当初是那么...酷\N{\fnArial\fs48}You were so...Cool.
+Dialogue: 0,0:08:36.44,0:08:39.64,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我就像...一个跟着你的蠢海绵\N{\fnArial\fs48}I was just like...A dumb sponge following you around.
+Dialogue: 0,0:08:39.92,0:08:42.56,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但你，遇事沉着，心无畏惧\N{\fnArial\fs48}But you were down for anything, not afraid of anything.
+Dialogue: 0,0:08:42.82,0:08:44.58,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你知道我有多想变成你吗？\N{\fnArial\fs48}You know how much I wanted to be like you?
+Dialogue: 0,0:08:45.00,0:08:46.74,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃，我现在仍然这么认为\N{\fnArial\fs48}Ugh. I still think about it.
+Dialogue: 0,0:08:47.08,0:08:50.12,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}说实话，这也是为什么我再次开始画你的画像\N{\fnArial\fs48}To be honest, that's why I started painting you again.
+Dialogue: 0,0:08:50.54,0:08:53.36,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我-我深受你的激励，紫晶\N{\fnArial\fs48}I'm -- I'm inspired by you, Amethyst.
+Dialogue: 0,0:08:53.72,0:08:55.56,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦，看来我得再泡一杯茶了\N{\fnArial\fs48}Oh, looks like I'm gonna need more tea.
+Dialogue: 0,0:08:55.90,0:08:57.06,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你想吃了茶包吗？\N{\fnArial\fs48}You want to eat this bag?
+Dialogue: 0,0:08:57.34,0:08:58.88,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}当然啊，这可是最爱\N{\fnArial\fs48}Yeah, my favorite.
+Dialogue: 0,0:08:59.12,0:09:00.84,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}好的，我很快就回来\N{\fnArial\fs48}Okay, I'll be right back.
+Dialogue: 0,0:09:01.34,0:09:03.18,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}还好孩子们一直有事情做\N{\fnArial\fs48}Good thing the kids are keeping themselves busy.
+Dialogue: 0,0:09:07.37,0:09:09.52,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}好吧，洋葱头，继续吧\N{\fnArial\fs48}Okay, Onion, let's do this.
+Dialogue: 0,0:09:09.78,0:09:12.52,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}无论你准备了多么怪异或恐怖的东西，\N{\fnArial\fs48}Whatever weird or horrible thing you have planned for me,
+Dialogue: 0,0:09:12.81,0:09:13.70,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我都能接住\N{\fnArial\fs48}I can take it.
+Dialogue: 0,0:09:18.00,0:09:19.44,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}嘿，慢点\N{\fnArial\fs48}Hey, slow down.
+Dialogue: 0,0:09:24.38,0:09:27.34,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦，天哪，这可不会有什么好结果\N{\fnArial\fs48}Oh, boy. This is gonna be bad.
+Dialogue: 0,0:09:24.38,0:09:27.34,Hint,,0,0,0,,{\pos(960,50)}此处画面的移动方式与周边游戏Attack the Light相同
+Dialogue: 0,0:09:28.84,0:09:31.04,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃，呃，洋葱头，你在哪？\N{\fnArial\fs48}Uh, uh, Onion, where are you?
+Dialogue: 0,0:09:33.08,0:09:34.42,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这是什么房间？\N{\fnArial\fs48}What's this room?
+Dialogue: 600,0:09:33.08,0:09:34.42,Hint,,0,0,0,,{\pos(960,50)}洋葱头的秘密房间与位置是皮克斯总部内部酒吧的再现
+Dialogue: 0,0:09:34.82,0:09:36.30,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦！\N{\fnArial\fs48}Oh!
+Dialogue: 0,0:09:37.47,0:09:38.08,Hint,,0,0,0,,{\pos(960,50)}此处洋葱头的画像致敬《2001太空漫游》中的星孩
+Dialogue: 0,0:09:39.34,0:09:41.32,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这里有什么？可怕的东西吗？\N{\fnArial\fs48}What's in there? Something horrible?
+Dialogue: 0,0:09:44.41,0:09:47.20,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}洋葱头！箱子里全是侠盗玩偶！\N{\fnArial\fs48}Onion! It's full of guys!
+Dialogue: 0,0:09:47.36,0:09:48.24,Hint,,0,0,0,,{\pos(960,50)}红色的忍者侠盗致敬洛克人2中的Quickman
+Dialogue: 0,0:09:47.58,0:09:48.40,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}喔～\N{\fnArial\fs48}Wow!
+Dialogue: 0,0:09:48.66,0:09:51.32,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我从没见过红色的忍者侠盗啊\N{\fnArial\fs48}I've never seen this red variant of ninja guy before.
+Dialogue: 0,0:09:51.78,0:09:53.72,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你还有女侠？！\N{\fnArial\fs48}You have gals, too?!
+Dialogue: 0,0:09:54.36,0:09:55.16,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}安全帽女侠！\N{\fnArial\fs48}Hard hat gal!
+Dialogue: 0,0:09:55.50,0:09:56.40,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}三角女侠！\N{\fnArial\fs48}Triangle gal!
+Dialogue: 0,0:09:55.50,0:09:56.40,Hint,,0,0,0,,{\pos(960,50)}粉色三角为同性恋同性恋斗争的标志
+Dialogue: 0,0:09:56.50,0:09:57.36,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}橘子女侠！\N{\fnArial\fs48}Orange gal!
+Dialogue: 0,0:09:57.74,0:09:58.66,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}凯伦！\N{\fnArial\fs48}Karen!
+Dialogue: 0,0:09:59.24,0:09:59.82,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}凯伦...\N{\fnArial\fs48}Karen...
+Dialogue: 0,0:09:57.74,0:09:59.82,Hint,,0,0,0,,{\pos(960,50)}看起来像不像Rebecca Sugar（糖姐）？
+Dialogue: 0,0:10:00.62,0:10:02.76,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你是怎么收集到-不，别告诉我\N{\fnArial\fs48}How'd you get a hold of -- no, don't tell me.
+Dialogue: 0,0:10:03.20,0:10:03.48,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}嗯？\N{\fnArial\fs48}Hmm?
+Dialogue: 0,0:10:04.14,0:10:05.70,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}不可能吧！\N{\fnArial\fs48}No way!
+Dialogue: 0,0:10:06.04,0:10:09.02,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这是探险女侠！\N{\fnArial\fs48}It's explorer gal!
+Dialogue: 0,0:10:09.36,0:10:11.42,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}她看起来可酷了！\N{\fnArial\fs48}She's so cool-looking!
+Dialogue: 0,0:10:11.82,0:10:13.04,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}谢谢你让我看看她-\N{\fnArial\fs48}Thanks for showing her to me --
+Dialogue: 0,0:10:13.70,0:10:15.78,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你-你应该收回你的探险女侠\N{\fnArial\fs48}you -- you should take your explorer gal back.
+Dialogue: 0,0:10:17.08,0:10:19.44,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你是要送给我吗？\N{\fnArial\fs48}Are you giving this to me?
+Dialogue: 0,0:10:20.22,0:10:22.42,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我简直不敢相信！\N{\fnArial\fs48}I can't believe it!
+Dialogue: 0,0:10:22.42,0:10:24.32,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}太感谢你了，洋葱头！\N{\fnArial\fs48}Thank you so much, Onion!
+Dialogue: 0,0:10:24.68,0:10:27.40,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}嗷，天哪！你还有什么侠盗和女侠？！\N{\fnArial\fs48}Aw, man! What other gals and guys you got?!
+Dialogue: 0,0:10:27.90,0:10:29.74,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哈，太酷了-隐身侠盗\N{\fnArial\fs48}Ha, cool -- invisible guy.
+Dialogue: 0,0:10:30.50,0:10:32.08,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你们可以走啦\N{\fnArial\fs48}And stay out.
+Dialogue: 0,0:10:33.24,0:10:36.40,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃，谢谢你们的晚餐-和倾听\N{\fnArial\fs48}Um, thanks for dinner -- and for listening.
+Dialogue: 0,0:10:36.74,0:10:38.52,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}当然，也谢谢你们闯进我家\N{\fnArial\fs48}Well, thanks for breaking into my house.
+Dialogue: 0,0:10:38.90,0:10:40.44,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}同时不要担心那件事\N{\fnArial\fs48}And don't worry about that other stuff.
+Dialogue: 0,0:10:40.80,0:10:41.88,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}那迟早会过去的\N{\fnArial\fs48}It's gonna blow over.
+Dialogue: 0,0:10:42.24,0:10:43.08,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你是块石头\N{\fnArial\fs48}You're a rock.
+Dialogue: 0,0:10:43.72,0:10:44.66,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}不是吗？\N{\fnArial\fs48}That's what you are, right?
+Dialogue: 0,0:10:45.08,0:10:46.92,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃，差不多吧\N{\fnArial\fs48}Uh, something like that.
+Dialogue: 0,0:10:47.28,0:10:49.84,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}那么，不论你是什么，一定不要见外啊\N{\fnArial\fs48}Well, whatever you are, don't be a stranger.
+Dialogue: 0,0:10:49.96,0:10:53.52,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}当然，我随时可以来，只要你需要-\N{\fnArial\fs48}Yeah, I can stop by anytime if you need,
+Dialogue: 0,0:10:53.52,0:10:54.90,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}灵感\N{\fnArial\fs48}inspiration.
+Dialogue: 0,0:10:55.64,0:10:56.70,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}或者如果你需要，\N{\fnArial\fs48}Or if you want,
+Dialogue: 0,0:10:56.94,0:10:59.04,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你也可以偶尔来神庙看看\N{\fnArial\fs48}you could come over to the temple sometime, too.
+Dialogue: 0,0:10:59.56,0:11:01.66,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你也可以带上洋葱头来和史蒂文玩\N{\fnArial\fs48}You could even bring Onion for Steven to hang with.
+Dialogue: 0,0:11:01.98,0:11:04.09,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦，当然，这听起来不错\N{\fnArial\fs48}Oh, well, that sounds great to us.
+Dialogue: 0,0:11:04.38,0:11:05.30,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你呢，史蒂文？\N{\fnArial\fs48}What about you, Steven?
+Dialogue: 0,0:11:05.54,0:11:07.00,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你准备好和他再来一局吗？\N{\fnArial\fs48}You ready for another round with this guy?
+Dialogue: 0,0:11:12.20,0:11:14.34,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}当然啦，改天见\N{\fnArial\fs48}Yeah, we'll see.
 Dialogue: 0,0:11:17.22,0:11:18.72,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}你\N{\fnArial\fs48}♪ You
 Dialogue: 0,0:11:21.72,0:11:24.78,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}爱，如你\N{\fnArial\fs48}♪ love like you
