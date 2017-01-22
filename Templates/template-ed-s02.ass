@@ -11,6 +11,7 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
+Active Line: 8
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,3 +33,8 @@ Dialogue: 0,0:11:02.50,0:11:04.50,Normal Dialog Text,,0,0,0,,-------------------
 Dialogue: 0,0:11:12.80,0:11:14.30,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}你\N{\fnArial\fs48}♪ You
 Dialogue: 0,0:11:17.30,0:11:20.36,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}爱，如你\N{\fnArial\fs48}♪ love like you
 Dialogue: 0,0:11:04.50,0:11:06.50,Normal Dialog Text,,0,0,0,,----------------------------
+Dialogue: 200,0:10:51.70,0:10:54.66,Song Lyrics Text,General,0,0,0,,{\fn华文楷体\fs64}我认为我非常卑微\N{\fnArial\fs48}♪ I always thought I might be bad ♪
+Dialogue: 200,0:10:54.66,0:10:57.34,Song Lyrics Text,General,0,0,0,,{\fn华文楷体\fs64}现在我已确定\N{\fnArial\fs48}♪ now I'm sure that it's true
+Dialogue: 200,0:10:57.70,0:11:00.66,Song Lyrics Text,General,0,0,0,,{\fn华文楷体\fs64}因，你如此完美\N{\fnArial\fs48}♪ 'cause I think you're so good ♪
+Dialogue: 200,0:11:01.15,0:11:03.54,Song Lyrics Text,General,0,0,0,,{\fn华文楷体\fs64}而我却丝毫不如\N{\fnArial\fs48}♪ and I'm nothing like you
+Dialogue: 0,0:11:06.50,0:11:08.50,Normal Dialog Text,,0,0,0,,
