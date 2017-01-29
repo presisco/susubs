@@ -16,19 +16,21 @@ Video File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E10.Rising.Tide
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 9
-Video Position: 42
+Scroll Position: 129
+Active Line: 131
+Video Position: 5686
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00E8E8E8,&H000000FF,&H00000000,&H00DAE0C9,0,0,0,0,100,100,0,0,1,0,2,2,10,10,10,1
-Style: Label Trans,微软雅黑,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Label Trans,微软雅黑,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: Normal Dialog Text,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: SU Title,幼圆,100,&H00AB8D72,&H000000FF,&H00FFFFFF,&H00DBE0C9,-1,0,0,0,100,100,0,0,1,8,12,2,10,10,10,1
 Style: SU Team Title,幼圆,32,&H00B394E1,&H00FFFFFF,&H00FFFFFF,&H00DBE0C9,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: SU Team Member,幼圆,36,&H00A98B79,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: SU Team Background,Arial,20,&H00E8E8E8,&H000000FF,&H00000000,&H00DBE0C9,0,0,0,0,100,100,0,0,1,0,16,2,10,10,10,1
 Style: Song Lyrics Text,华文楷体,20,&H00EAEAEA,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Hint,微软雅黑,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -42,8 +44,8 @@ Dialogue: 1,0:00:01.75,0:00:03.22,SU Team Member,,0,0,0,,{\pos(1700,610)}presisc
 Dialogue: 1,0:00:01.75,0:00:03.22,SU Team Title,,0,0,0,,{\pos(1700,660)}压制
 Dialogue: 1,0:00:01.75,0:00:03.22,SU Team Member,,0,0,0,,{\pos(1700,710)}presisco
 Dialogue: 0,0:00:01.75,0:00:03.22,Default,,0,0,0,,{\pos(1744,776)}{\p1\xshad-0\yshad16}m 72 0 b -46 0 -46 170 72 170 l 115 170 b -37 149 -36 374 115 344 l 72 344 b -46 344 -46 514 72 514 l 285 514 b 394 514 419 323 285 344 l 328 344 l 328 344 b 433 344 433 170 328 170 l 285 170 l 285 170 b 419 191 419 1 285 1 l 72 0 {\p0}
-Dialogue: 1,0:00:03.30,0:00:04.95,Label Trans,,0,0,0,,弗莱曼工作室——呈现
-Dialogue: 1,0:00:06.00,0:00:08.40,Label Trans,,0,0,0,,“沙滩镇不思议”——出品
+Dialogue: 500,0:00:03.30,0:00:04.95,Label Trans,,0,0,0,,{\fn隶书\fs128\c&HEAE7E8&\bord0\shad0\pos(1058,934)}{\pos(940,772)}弗莱曼工作室\N{\fn华文细黑\i0\fs96}呈现
+Dialogue: 500,0:00:06.00,0:00:08.40,Label Trans,,0,0,0,,{\fn华文细黑\fs48\c&HFDEED5&\bord0\shad0\i0\pos(952,800)}{\pos(940,772)}沙滩镇不思议出品
 Dialogue: 0,0:00:09.29,0:00:12.79,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}沙滩镇，一个沉睡着的海边小镇\N{\fnArial\fs48}Beach City -- a sleepy seaside town.
 Dialogue: 0,0:00:12.79,0:00:15.49,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}从远处看，似乎十分平静\N{\fnArial\fs48}From far away, it looks ordinary,
 Dialogue: 0,0:00:15.50,0:00:16.96,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但仔细看，\N{\fnArial\fs48}but take a closer look,
@@ -53,8 +55,8 @@ Dialogue: 0,0:00:25.14,0:00:26.80,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:00:27.87,0:00:29.71,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}吾名为罗尔纳多\N{\fnArial\fs48}My name is Ronaldo.
 Dialogue: 0,0:00:29.71,0:00:33.81,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这些年来，我一直在经营名为“沙滩镇不思议”的博客\N{\fnArial\fs48}For years, I've run a blog called "keep Beach City weird."
 Dialogue: 0,0:00:33.81,0:00:36.71,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我的任务：让沙滩镇“不思议”！\N{\fnArial\fs48}My mission -- keep Beach City weird!
-Dialogue: 1,0:00:37.24,0:00:39.14,Label Trans,,0,0,0,,{\pos(857,786)}也许怀孕了？
-Dialogue: 2,0:00:37.24,0:00:39.14,Label Trans,,0,0,0,,{\pos(960,100)}详见第一季第10集
+Dialogue: 1,0:00:37.24,0:00:39.14,Label Trans,,0,0,0,,{\pos(857,786)\i0\shad0\bord4}也许怀孕了？
+Dialogue: 600,0:00:37.24,0:00:39.14,Hint,,0,0,0,,{\pos(960,50)}详见第一季第10集
 Dialogue: 0,0:00:36.72,0:00:39.52,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}以及揭露不为人知的真相\N{\fnArial\fs48}And also to expose the truth.
 Dialogue: 0,0:00:39.52,0:00:43.95,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}大多数人选择忽视我的劲爆性揭露\N{\fnArial\fs48}Most people choose to ignore my mind-blowing revelations.
 Dialogue: 0,0:00:43.96,0:00:47.22,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但没人能否认真相\N{\fnArial\fs48}But no one could deny it when the truth
@@ -64,16 +66,16 @@ Dialogue: 0,0:00:52.90,0:00:54.33,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:00:54.33,0:00:57.03,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}看那玩意！就在那！\N{\fnArial\fs48}{\i1}Look at that thing!{\i} {\i1}It's right there!{\i}
 Dialogue: 0,0:00:57.04,0:01:00.24,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}沙滩镇需要被拯救\N{\fnArial\fs48}Beach City needed to be saved.
 Dialogue: 0,0:01:00.24,0:01:02.07,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但威胁是什么？\N{\fnArial\fs48}But from what?
-Dialogue: 0,0:01:02.08,0:01:04.71,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}咚——咚——咚\N{\fnArial\fs48}Duhm! Duhm! Duhm!
-Dialogue: 1,0:01:04.70,0:01:13.00,Label Trans,,0,0,0,,{\pos(600,200)}潮起
-Dialogue: 1,0:01:05.80,0:01:13.00,Label Trans,,0,0,0,,{\pos(1220,200)}天塌
-Dialogue: 1,0:01:06.90,0:01:13.00,Label Trans,,0,0,0,,{\pos(600,520)}危险
-Dialogue: 1,0:01:07.40,0:01:13.22,Label Trans,,0,0,0,,{\pos(900,520)}潜藏的
-Dialogue: 1,0:01:08.30,0:01:13.22,Label Trans,,0,0,0,,{\pos(1220,600)}木板路
-Dialogue: 1,0:01:09.10,0:01:13.22,Label Trans,,0,0,0,,{\pos(960,790)}关于最危险的木板路的真相
-Dialogue: 1,0:01:11.30,0:01:13.22,Label Trans,,0,0,0,,{\pos(960,960)}KBCW博客倾情制作 纪录片
-Dialogue: 0,0:01:12.72,0:01:16.02,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃...当时我在为一个大单子洗鱼\N{\fnArial\fs48}Eh, I was just cleaning up some fish for a very big order
-Dialogue: 0,0:01:14.36,0:01:17.36,Label Trans,,0,0,0,,{\pos(230,850)}法奶奶\N当地个体户
+Dialogue: 0,0:01:02.08,0:01:04.71,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}咚-咚-咚\N{\fnArial\fs48}Duhm! Duhm! Duhm!
+Dialogue: 500,0:01:04.70,0:01:13.00,Label Trans,,0,0,0,,{\fn隶书\fs128\c&HE9E9E9&\bord0\shad0}{\pos(600,200)}潮起
+Dialogue: 500,0:01:05.80,0:01:13.00,Label Trans,,0,0,0,,{\fn隶书\fs128\c&HE9E9E9&\bord0\shad0}{\pos(1220,200)}天塌
+Dialogue: 500,0:01:06.90,0:01:13.00,Label Trans,,0,0,0,,{\fn隶书\fs96\c&H2E17D4&\bord0\shad0\frz5.926\pos(594,538)}{\pos(600,520)}危险
+Dialogue: 500,0:01:07.40,0:01:13.22,Label Trans,,0,0,0,,{\fn隶书\fs96\c&H2E17D4&\frz5.926\bord0\shad0\pos(902,520)}{\pos(900,520)}潜藏的
+Dialogue: 500,0:01:08.30,0:01:13.22,Label Trans,,0,0,0,,{\fn隶书\fs96\c&H2E17D4&\frz5.926\bord0\shad0\pos(1250,498)}{\pos(1220,600)}木板路
+Dialogue: 500,0:01:09.10,0:01:13.22,Label Trans,,0,0,0,,{\fn隶书\fs64\c&HE9E9E9&\bord0\shad0\pos(962,764)}{\pos(960,790)}关于最危险的木板路的真相
+Dialogue: 500,0:01:11.30,0:01:13.22,Label Trans,,0,0,0,,{\fn隶书\fs48\c&HE9E9E9&\bord0\shad0\pos(960,930)}{\pos(960,960)}KBCW博客倾情制作 纪录片
+Dialogue: 500,0:01:12.72,0:01:16.02,Label Trans,,0,0,0,,{\fn微软雅黑\fs64}呃...当时我在为一个大单子洗鱼\N{\fnArial\fs48}Eh, I was just cleaning up some fish for a very big order
+Dialogue: 0,0:01:14.36,0:01:17.36,Label Trans,,0,0,0,,{\bord0\shad0}{\pos(230,850)}法奶奶\N当地个体户
 Dialogue: 0,0:01:16.02,0:01:17.25,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}突然那发生了\N{\fnArial\fs48}when it happened.
 Dialogue: 0,0:01:17.26,0:01:19.89,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我听到了很奇怪的隆隆声\N{\fnArial\fs48}I felt this very peculiar rumbling,
 Dialogue: 0,0:01:19.89,0:01:23.03,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}像这样...\N{\fnArial\fs48}like, "boom, boom, boom, boom, boom, boom, boom!"
@@ -87,17 +89,17 @@ Dialogue: 0,0:01:34.67,0:01:37.34,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:01:37.34,0:01:38.71,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}再说一遍这是什么来着？\N{\fnArial\fs48}What is this for, again?
 Dialogue: 0,0:01:38.71,0:01:40.21,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这是“网家“视频，用于我的博--\N{\fnArial\fs48}It's a web-sclusive for my bl--
 Dialogue: 0,0:01:40.21,0:01:42.88,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦，呃，对了！那天简直是世界末日\N{\fnArial\fs48}oh. Uh, yes. That day was crazy.
-Dialogue: 0,0:01:40.21,0:01:43.21,Label Trans,,0,0,0,,{\pos(230,850)}佩迪\N薯条店店员
-Dialogue: 0,0:01:42.88,0:01:44.88,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}市长说——你害怕吗？\N{\fnArial\fs48}The mayor said --  Were you scared?!
+Dialogue: 0,0:01:40.21,0:01:43.21,Label Trans,,0,0,0,,{\bord0\shad0}{\pos(230,850)}佩迪\N薯条店店员
+Dialogue: 0,0:01:42.88,0:01:44.88,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}市长说-你害怕吗？\N{\fnArial\fs48}The mayor said --  Were you scared?!
 Dialogue: 0,0:01:44.88,0:01:46.22,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}蛤？怎么可能！\N{\fnArial\fs48}What?! No!
-Dialogue: 0,0:01:46.22,0:01:48.22,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我并不——我只是担心\N{\fnArial\fs48}I wasn't -- I was just concerned
+Dialogue: 0,0:01:46.22,0:01:48.22,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我并不-我只是担心\N{\fnArial\fs48}I wasn't -- I was just concerned
 Dialogue: 0,0:01:48.22,0:01:50.72,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}商店会发生不太好的事而已\N{\fnArial\fs48}that something bad would happen to the shop.
 Dialogue: 0,0:01:50.72,0:01:52.06,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}所以你哭了个惨？\N{\fnArial\fs48}So you cried a lot?
-Dialogue: 0,0:01:52.06,0:01:53.69,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我只能说——无可奉告！\N{\fnArial\fs48}I don't know what you're talking about.
+Dialogue: 0,0:01:52.06,0:01:53.69,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我只能说-无可奉告！\N{\fnArial\fs48}I don't know what you're talking about.
 Dialogue: 1,0:01:53.69,0:01:58.50,Label Trans,,0,0,0,,{\pos(960,900)}真实影像
 Dialogue: 0,0:01:53.69,0:01:55.06,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}快放手啊！\N{\fnArial\fs48}{\i1}{\i} {\i1}Let it go!{\i}
-Dialogue: 0,0:01:55.06,0:01:57.23,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}爸爸，不——\N{\fnArial\fs48}{\i1}Dad, no!{\i} {\i1}{\i}
-Dialogue: 0,0:01:57.23,0:01:59.23,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}求求你——！\N{\fnArial\fs48}{\i1}Please, no!{\i} {\i1}{\i}
+Dialogue: 0,0:01:55.06,0:01:57.23,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}爸爸，不-\N{\fnArial\fs48}{\i1}Dad, no!{\i} {\i1}{\i}
+Dialogue: 0,0:01:57.23,0:01:59.23,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}求求你-！\N{\fnArial\fs48}{\i1}Please, no!{\i} {\i1}{\i}
 Dialogue: 0,0:01:59.23,0:02:01.90,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我当时可是承受着巨大的压力呢！\N{\fnArial\fs48}I was under a lot of stress at the time!
 Dialogue: 0,0:02:02.94,0:02:04.20,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}噢～嘿\N{\fnArial\fs48}Aww. Hey.
 Dialogue: 0,0:02:04.20,0:02:05.20,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}怎么了？\N{\fnArial\fs48}What?
@@ -122,20 +124,20 @@ Dialogue: 0,0:02:37.10,0:02:40.24,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 1,0:02:37.10,0:02:45.16,Label Trans,,0,0,0,,{\pos(960,900)}重现
 Dialogue: 0,0:02:40.24,0:02:41.81,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}{\i1}Pfff! Whah!{\i}
 Dialogue: 0,0:02:41.81,0:02:43.27,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}疼疼疼疼\N{\fnArial\fs48}{\i1}Ouch. Ouch, ouch, ouch.{\i}
-Dialogue: 0,0:02:43.28,0:02:45.31,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}啊～我的搜！啊——\N{\fnArial\fs48}{\i1}Aaah! {\i} {\i1}My hand! Aah--{\i}
+Dialogue: 0,0:02:43.28,0:02:45.31,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}啊～我的搜！啊-\N{\fnArial\fs48}{\i1}Aaah! {\i} {\i1}My hand! Aah--{\i}
 Dialogue: 0,0:02:45.31,0:02:47.78,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}沙滩镇得救了\N{\fnArial\fs48}Beach City was saved.
 Dialogue: 0,0:02:47.78,0:02:49.41,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但是谁是幕后英雄？\N{\fnArial\fs48}But by whom?
-Dialogue: 0,0:02:49.42,0:02:51.32,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}女士！——蛤？\N{\fnArial\fs48}Miss! Huh?
-Dialogue: 1,0:02:49.29,0:02:52.29,Label Trans,,0,0,0,,{\pos(220,850)}珊迪\N恐怖电影爱好者
+Dialogue: 0,0:02:49.42,0:02:51.32,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}女士！-蛤？\N{\fnArial\fs48}Miss! Huh?
+Dialogue: 1,0:02:49.29,0:02:52.29,Label Trans,,0,0,0,,{\bord0\shad0}{\pos(220,850)}珊迪\N恐怖电影爱好者
 Dialogue: 0,0:02:51.32,0:02:53.15,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你认为是谁拯救了沙滩镇\N{\fnArial\fs48}Who do you think saved Beach City
 Dialogue: 0,0:02:53.15,0:02:54.95,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}解决了太空巨掌？\N{\fnArial\fs48}from the giant hand craft?
 Dialogue: 0,0:02:54.95,0:02:57.15,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦。嘿，罗尔纳多\N{\fnArial\fs48}Oh. Hey, Ronaldo.
-Dialogue: 0,0:02:57.16,0:02:58.76,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}等等。这是——你在录像吗？\N{\fnArial\fs48}Wait. A-- are you filming?
+Dialogue: 0,0:02:57.16,0:02:58.76,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}等等。这是-你在录像吗？\N{\fnArial\fs48}Wait. A-- are you filming?
 Dialogue: 0,0:02:58.76,0:03:00.16,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}请回答问题\N{\fnArial\fs48}Please answer the question.
 Dialogue: 0,0:03:00.16,0:03:02.76,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦。好吧。呃，当然\N{\fnArial\fs48}Oh. Okay. Um, yeah, sure.
 Dialogue: 0,0:03:02.76,0:03:04.03,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}谁拯救了我们？\N{\fnArial\fs48}Who saved us?
 Dialogue: 0,0:03:04.03,0:03:07.13,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃，好吧，难道不是史蒂文...的家人？\N{\fnArial\fs48}Um, well, wasn't it Steven's...Family?
-Dialogue: 0,0:03:07.13,0:03:09.20,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我——我认为她们不喜欢与人接触\N{\fnArial\fs48}I-I think they pretty much keep to themselves.
+Dialogue: 0,0:03:07.13,0:03:09.20,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我-我认为她们不喜欢与人接触\N{\fnArial\fs48}I-I think they pretty much keep to themselves.
 Dialogue: 0,0:03:09.20,0:03:11.70,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}史蒂文说她们在保护地球与人类\N{\fnArial\fs48}Steven says they protect the planet and the human race
 Dialogue: 0,0:03:11.70,0:03:14.14,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}而且她们有魔力\N{\fnArial\fs48} And that they have magic powers.
 Dialogue: 0,0:03:14.14,0:03:15.47,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这听起来难以置信\N{\fnArial\fs48}It sounds hard to believe,
@@ -145,38 +147,38 @@ Dialogue: 0,0:03:17.94,0:03:19.78,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:03:19.78,0:03:21.31,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们相处的很愉快\N{\fnArial\fs48}and we were having a pretty good time.
 Dialogue: 0,0:03:21.31,0:03:24.22,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但接着我们遭到一个巨大生物的攻击\N{\fnArial\fs48}But then we were attacked by a huge creature.
 Dialogue: 0,0:03:24.22,0:03:26.18,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}嘿！你在拍电影吗？\N{\fnArial\fs48}Hey! You making a movie?
-Dialogue: 1,0:03:24.25,0:03:27.25,Label Trans,,0,0,0,,{\pos(1650,850)}珍妮\N令人生畏的小姑娘
+Dialogue: 1,0:03:24.25,0:03:27.25,Label Trans,,0,0,0,,{\bord0\shad0}{\pos(1650,850)}珍妮\N令人生畏的小姑娘
 Dialogue: 0,0:03:26.19,0:03:27.99,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦，别打扰他\N{\fnArial\fs48}Oh, let him be.
 Dialogue: 0,0:03:27.99,0:03:30.89,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这是关于宝石战队的“网录片”\N{\fnArial\fs48}It's a docu-web-umentary about The Crystal Gems.
 Dialogue: 0,0:03:30.89,0:03:33.16,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}她们疯！了！\N{\fnArial\fs48} They are c-ra-zy.
 Dialogue: 0,0:03:33.16,0:03:35.96,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}她们中的一个还差点打到我脸\N{\fnArial\fs48}One of them tried to knock me in the face.
-Dialogue: 0,0:03:33.16,0:03:35.96,Label Trans,,0,0,0,,{\pos(960,100)}详见第二季第2集
+Dialogue: 600,0:03:33.16,0:03:35.96,Hint,,0,0,0,,{\pos(960,50)}详见第二季第2集
 Dialogue: 0,0:03:35.96,0:03:37.33,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但我并不生她们的气\N{\fnArial\fs48}I ain't mad, though.
 Dialogue: 0,0:03:37.33,0:03:39.70,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}杜威市长，您认为是谁\N{\fnArial\fs48}Mayor Dewey, who do {\i1}you{\i} think
-Dialogue: 1,0:03:37.33,0:03:40.33,Label Trans,,0,0,0,,{\pos(520,850)}杜威市长\N杜威市长
+Dialogue: 1,0:03:37.33,0:03:40.33,Label Trans,,0,0,0,,{\bord0\shad0}{\pos(520,850)}杜威市长\N杜威市长
 Dialogue: 0,0:03:39.70,0:03:41.90,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}将沙滩市从巨掌下拯救\N{\fnArial\fs48}saved Beach City from the hand craft?
 Dialogue: 0,0:03:41.90,0:03:43.90,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}什么？年轻人，我将此归功于选民们\N{\fnArial\fs48}Why, young man, I credit the voters
 Dialogue: 0,0:03:43.90,0:03:45.34,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}是他们拯救了沙滩市\N{\fnArial\fs48}with saving Beach City.
 Dialogue: 0,0:03:45.34,0:03:47.24,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我的选民们知道他们任命了\N{\fnArial\fs48}My constituents know they've elected a mayor
 Dialogue: 0,0:03:47.24,0:03:48.81,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}可以信赖的市长\N{\fnArial\fs48}whom they can trust to --
 Dialogue: 0,0:03:48.81,0:03:50.71,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}啊？不，我是指水晶战士\N{\fnArial\fs48}huh? No, I'm talking about The Crystal Gems.
-Dialogue: 0,0:03:50.71,0:03:52.14,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}为——为什么？\N{\fnArial\fs48} W-why?
+Dialogue: 0,0:03:50.71,0:03:52.14,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}为-为什么？\N{\fnArial\fs48} W-why?
 Dialogue: 0,0:03:52.14,0:03:53.88,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我在报道一个故事\N{\fnArial\fs48}Well, I'm covering the story.
 Dialogue: 0,0:03:53.88,0:03:55.51,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}遮掩？！什么遮掩？！\N{\fnArial\fs48}Cover-up?! What cover-up?!
-Dialogue: 0,0:03:55.51,0:03:57.18,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但，市长——保安！\N{\fnArial\fs48}But, mayor -- security!
+Dialogue: 0,0:03:55.51,0:03:57.18,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但，市长-保安！\N{\fnArial\fs48}But, mayor -- security!
 Dialogue: 0,0:03:57.18,0:04:00.18,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}嘿！你掩盖不了真相！\N{\fnArial\fs48}H-hey! You can't suppress the truth!
 Dialogue: 0,0:04:00.19,0:04:03.72,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}显然，水晶战士背景复杂\N{\fnArial\fs48}Obviously, The Crystal Gems were involved,
 Dialogue: 0,0:04:03.72,0:04:07.02,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}甚至与政府最高层有一腿\N{\fnArial\fs48}even at the highest levels of local government.
 Dialogue: 0,0:04:07.03,0:04:09.76,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我决定追根溯源\N{\fnArial\fs48}I decided to go to the source.
-Dialogue: 0,0:04:09.76,0:04:12.03,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}现在，我站在——\N{\fnArial\fs48}Right now, I'm standi--
+Dialogue: 0,0:04:09.76,0:04:12.03,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}现在，我站在-\N{\fnArial\fs48}Right now, I'm standi--
 Dialogue: 0,0:04:12.03,0:04:13.53,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}大声点！\N{\fnArial\fs48}Speak up!
 Dialogue: 0,0:04:13.53,0:04:16.83,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}现在，我就站在\N{\fnArial\fs48} Right now, I'm standing directly below
 Dialogue: 0,0:04:16.84,0:04:19.50,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}水晶战士的城堡下！\N{\fnArial\fs48}the fortress of The Crystal Gems!
 Dialogue: 0,0:04:19.51,0:04:22.74,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我将尝试进行接触\N{\fnArial\fs48}I am now going to attempt to make contact
-Dialogue: 0,0:04:22.74,0:04:26.11,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}神秘，隐蔽和——\N{\fnArial\fs48}with the mysterious, reclusive, and --
+Dialogue: 0,0:04:22.74,0:04:26.11,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}神秘，隐蔽和-\N{\fnArial\fs48}with the mysterious, reclusive, and --
 Dialogue: 0,0:04:26.11,0:04:27.85,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}啊！嗨，罗尔纳多\N{\fnArial\fs48}aah! Hi, Ronaldo.
 Dialogue: 0,0:04:27.85,0:04:29.88,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃，嗨，佩迪。那是个相机？\N{\fnArial\fs48}Uh, hi, peedee. Is that a camera?
-Dialogue: 0,0:04:29.88,0:04:31.75,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}对。我们在做一部影片，关于——\N{\fnArial\fs48}Yeah. We're making a movie about --
+Dialogue: 0,0:04:29.88,0:04:31.75,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}对。我们在做一部影片，关于-\N{\fnArial\fs48}Yeah. We're making a movie about --
 Dialogue: 0,0:04:31.75,0:04:35.95,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这是一部调查报告，纪实摄影\N{\fnArial\fs48}it's an investigative report, shot camera vérité.
 Dialogue: 0,0:04:35.96,0:04:37.52,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}酷！\N{\fnArial\fs48}Cool!
 Dialogue: 0,0:04:37.52,0:04:42.23,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}那么...想参与惊天大采访吗？\N{\fnArial\fs48}So...Want to participate in a groundbreaking interview?
@@ -184,7 +186,7 @@ Dialogue: 0,0:04:42.23,0:04:43.26,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:04:43.26,0:04:45.23,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}除非你肯...\N{\fnArial\fs48}Only if {\i1}you...{\i}
 Dialogue: 0,0:04:45.23,0:04:49.47,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}参与一杯鲜榨柠檬汁！\N{\fnArial\fs48}Participate in a glass of fresh-squeezed lemonade!
 Dialogue: 0,0:04:50.80,0:04:53.20,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}噢～。那个巨掌？\N{\fnArial\fs48}Ohhh. That giant hand?
-Dialogue: 1,0:04:50.80,0:04:53.80,Label Trans,,0,0,0,,{\pos(1500,850)}史蒂文\N热情的主人
+Dialogue: 1,0:04:50.80,0:04:53.80,Label Trans,,0,0,0,,{\bord0\shad0}{\pos(1500,850)}史蒂文\N热情的主人
 Dialogue: 0,0:04:53.20,0:04:55.10,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}那是一个来抓我们的太空船\N{\fnArial\fs48}It was a spaceship coming to get us.
 Dialogue: 0,0:04:55.24,0:04:57.27,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们？！我就知道！\N{\fnArial\fs48}Us?! I knew it!
 Dialogue: 0,0:04:57.28,0:04:59.78,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}史蒂文，我们知道的太多了！\N{\fnArial\fs48}Steven, we know too much!
@@ -213,13 +215,13 @@ Dialogue: 0,0:05:50.13,0:05:52.10,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:05:52.10,0:05:55.30,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}噢。嗯...反正再没有鱼从手里滑掉\N{\fnArial\fs48}Oh. Well, no more fish are getting knocked out of my hands,
 Dialogue: 0,0:05:55.30,0:05:57.03,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}所以我没什么好抱怨的\N{\fnArial\fs48}so I'm not complaining.
 Dialogue: 0,0:05:57.04,0:05:58.30,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}先生！先生！\N{\fnArial\fs48}Sir! Sir!
-Dialogue: 1,0:05:57.04,0:06:00.04,Label Trans,,0,0,0,,{\pos(260,850)}洋葱头\N？？？？？？
+Dialogue: 1,0:05:57.04,0:06:00.04,Label Trans,,0,0,0,,{\bord0\shad0}{\pos(260,850)}洋葱头\N？？？？？？
 Dialogue: 0,0:05:58.30,0:06:00.00,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你对水晶战士\N{\fnArial\fs48}How do you feel about The Crystal Gems
 Dialogue: 0,0:06:00.01,0:06:02.34,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}吸引危险外星生物袭击的事有什么看法？\N{\fnArial\fs48}attracting an onslaught of dangerous space beings?
 Dialogue: 0,0:06:02.34,0:06:03.54,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你感觉安全吗？\N{\fnArial\fs48}Do you feel safe?
 Dialogue: 0,0:06:04.98,0:06:07.28,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}嘿！你不可能永远保持沉默！\N{\fnArial\fs48}Hey! You can't keep quiet forever!
 Dialogue: 0,0:06:07.28,0:06:11.32,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你怎么能安然生活，明知我们正遭受\N{\fnArial\fs48}How can you possibly go on, knowing that we are under siege
-Dialogue: 1,0:06:07.28,0:06:10.28,Label Trans,,0,0,0,,{\pos(1600,850)}爸爸\N监制人
+Dialogue: 1,0:06:07.28,0:06:10.28,Label Trans,,0,0,0,,{\bord0\shad0}{\pos(1600,850)}爸爸\N监制人
 Dialogue: 0,0:06:11.32,0:06:14.45,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}意图打倒水晶战士的力量的围攻？\N{\fnArial\fs48}by forces meant to destroy The Crystal Gems?
 Dialogue: 0,0:06:14.45,0:06:17.49,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你还有多久完成这个项目？\N{\fnArial\fs48}How close are you to being done with this project?
 Dialogue: 0,0:06:17.49,0:06:19.49,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}回答问题，爸爸！\N{\fnArial\fs48}Just answer the question, dad!
@@ -245,9 +247,9 @@ Dialogue: 0,0:06:59.90,0:07:02.17,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:07:02.17,0:07:03.40,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}啊啊啊！\N{\fnArial\fs48}Aaaah!
 Dialogue: 0,0:07:03.40,0:07:04.94,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}回去，弟弟！\N{\fnArial\fs48}Stay back, little bro!
 Dialogue: 0,0:07:04.94,0:07:06.34,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}比比谁先回到打斗区\N{\fnArial\fs48}Race you back to the danger zone.
-Dialogue: 0,0:07:06.34,0:07:08.04,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}等等！——史蒂文！\N{\fnArial\fs48}Wait up! Steven!
+Dialogue: 0,0:07:06.34,0:07:08.04,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}等等！-史蒂文！\N{\fnArial\fs48}Wait up! Steven!
 Dialogue: 0,0:07:08.04,0:07:10.17,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃，嘿，罗尔纳多。嘿，佩迪\N{\fnArial\fs48}Uh, hey, Ronaldo. Hey, peedee.
-Dialogue: 0,0:07:10.18,0:07:11.94,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你们应该小心——\N{\fnArial\fs48}You guys should be careful --
+Dialogue: 0,0:07:10.18,0:07:11.94,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你们应该小心-\N{\fnArial\fs48}You guys should be careful --
 Dialogue: 0,0:07:11.94,0:07:13.71,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}别开玩笑了！\N{\fnArial\fs48} Cut the pleasantries!
 Dialogue: 0,0:07:13.71,0:07:16.05,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你们都是我们市的危险因素！\N{\fnArial\fs48}You're all a danger to our city!
 Dialogue: 0,0:07:16.05,0:07:17.28,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你在说什么？\N{\fnArial\fs48}What are you talking about?
@@ -264,7 +266,7 @@ Dialogue: 0,0:07:35.73,0:07:38.10,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:07:38.10,0:07:41.47,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但所有的怪物只因为你们\N{\fnArial\fs48}But all the monsters just come here to get {\i1}you{\i} guys
 Dialogue: 0,0:07:41.47,0:07:44.44,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}同时四处破坏，让我们处于危险\N{\fnArial\fs48}and then wreck things and put us in danger!
 Dialogue: 0,0:07:44.44,0:07:48.11,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}沙滩市如果没有你们会安全很多！\N{\fnArial\fs48}Beach City would be way safer if you guys weren't here!
-Dialogue: 1,0:07:46.75,0:07:49.75,Label Trans,,0,0,0,,{\pos(1630,850)}水晶战士\N沙滩市没有他们会更安全
+Dialogue: 1,0:07:46.75,0:07:49.75,Label Trans,,0,0,0,,{\bord0\shad0}{\pos(1630,850)}水晶战士\N沙滩市没有他们会更安全
 Dialogue: 0,0:07:48.11,0:07:49.41,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}听着 ，薯条仔，\N{\fnArial\fs48}Listen, frybo.
 Dialogue: 0,0:07:49.42,0:07:51.62,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}魔法生物确实是被我们吸引过来的\N{\fnArial\fs48}Magic beings are indeed drawn to us,
 Dialogue: 0,0:07:51.62,0:07:55.25,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但我们在沙滩市存在前很久就来了\N{\fnArial\fs48}but we were here long before Beach City even existed.
@@ -273,7 +275,7 @@ Dialogue: 0,0:07:57.26,0:07:58.99,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:07:58.99,0:08:00.72,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}只要你们还在这里！\N{\fnArial\fs48}as long as you're hanging around!
 Dialogue: 0,0:08:00.73,0:08:03.29,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你说的对。我觉得我们还是离开吧。\N{\fnArial\fs48}You're right. I guess we'll just leave, then.
 Dialogue: 0,0:08:03.30,0:08:05.10,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}等等？真的？！\N{\fnArial\fs48}Excuse me? Really?!
-Dialogue: 0,0:08:05.10,0:08:06.23,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但，石榴——\N{\fnArial\fs48}But, Garnet --
+Dialogue: 0,0:08:05.10,0:08:06.23,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但，石榴-\N{\fnArial\fs48}But, Garnet --
 Dialogue: 0,0:08:06.23,0:08:08.47,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}别但是了，史蒂文\N{\fnArial\fs48}put your buts away, Steven.
 Dialogue: 0,0:08:08.47,0:08:10.67,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们在这里不受欢迎，那么我们就走呗。\N{\fnArial\fs48}We're not wanted here, so let's just leave.
 Dialogue: 0,0:08:10.67,0:08:13.14,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但，石榴，我们得搬运所有的泡泡\N{\fnArial\fs48}But, Garnet, we'll have to move all the bubbles.
@@ -281,7 +283,7 @@ Dialogue: 0,0:08:13.14,0:08:15.11,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:08:15.11,0:08:18.28,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}天！我还挺喜欢这的\N{\fnArial\fs48}Man! Ugh. I kind of liked it here.
 Dialogue: 0,0:08:18.28,0:08:19.51,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃...\N{\fnArial\fs48}Uh...
 Dialogue: 0,0:08:19.51,0:08:22.28,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}任务完成！\N{\fnArial\fs48}Mission accomplished!
-Dialogue: 0,0:08:22.28,0:08:24.11,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃，你可以把摄像机转向——\N{\fnArial\fs48}Uh, you can turn the camera o--
+Dialogue: 0,0:08:22.28,0:08:24.11,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃，你可以把摄像机转向-\N{\fnArial\fs48}Uh, you can turn the camera o--
 Dialogue: 0,0:08:24.12,0:08:25.35,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}啊....\N{\fnArial\fs48}ahhhhh.
 Dialogue: 1,0:08:24.12,0:08:27.12,Label Trans,,0,0,0,,{\pos(210,850)}罗尔纳多\N成功的纪录片导演
 Dialogue: 0,0:08:25.35,0:08:27.18,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}恩，是的。我做到了。\N{\fnArial\fs48}That's right. I did it.
