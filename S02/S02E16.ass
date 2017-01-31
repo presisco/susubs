@@ -16,9 +16,9 @@ Video File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E16.Onion.Frien
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 202
-Active Line: 205
-Video Position: 11416
+Scroll Position: 6
+Active Line: 20
+Video Position: 650
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -51,11 +51,11 @@ Dialogue: 1,0:00:25.62,0:00:27.11,SU Title,,0,0,0,,{\pos(1160,230)\bord8\xshad-0
 Dialogue: 1,0:00:27.11,0:00:28.47,SU Team Title,,0,0,0,,{\pos(1700,360)\bord0\shad0\c&HB394E1&}翻译
 Dialogue: 1,0:00:27.11,0:00:28.47,SU Team Member,,0,0,0,,{\pos(1700,410)\bord0\shad0\c&HA98B79&}零九/presisco
 Dialogue: 1,0:00:27.11,0:00:28.47,SU Team Title,,0,0,0,,{\pos(1700,460)\bord0\shad0\c&HB394E1&}校对
-Dialogue: 1,0:00:27.11,0:00:28.47,SU Team Member,,0,0,0,,{\pos(1700,510)\bord0\shad0\c&HA98B79&}BBBB
+Dialogue: 1,0:00:27.11,0:00:28.47,SU Team Member,,0,0,0,,{\pos(1700,510)\bord0\shad0\c&HA98B79&}presisco
 Dialogue: 1,0:00:27.11,0:00:28.47,SU Team Title,,0,0,0,,{\pos(1700,560)\bord0\shad0\c&HB394E1&}特效
-Dialogue: 1,0:00:27.11,0:00:28.47,SU Team Member,,0,0,0,,{\pos(1700,610)\bord0\shad0\c&HA98B79&}CCCC
+Dialogue: 1,0:00:27.11,0:00:28.47,SU Team Member,,0,0,0,,{\pos(1700,610)\bord0\shad0\c&HA98B79&}presisco
 Dialogue: 1,0:00:27.11,0:00:28.47,SU Team Title,,0,0,0,,{\pos(1700,660)\bord0\shad0\c&HB394E1&}压制
-Dialogue: 1,0:00:27.11,0:00:28.47,SU Team Member,,0,0,0,,{\pos(1700,710)\bord0\shad0\c&HA98B79&}DDDD
+Dialogue: 1,0:00:27.11,0:00:28.47,SU Team Member,,0,0,0,,{\pos(1700,710)\bord0\shad0\c&HA98B79&}presisco
 Dialogue: 0,0:00:27.11,0:00:28.47,SU Team Background,,0,0,0,,{\pos(1744,776)\bord0\xshad-0\yshad16\c&HFCFCFC&\4c&HEEF3D7}{\p1}m 72 0 b -46 0 -46 170 72 170 l 115 170 b -37 149 -36 374 115 344 l 72 344 b -46 344 -46 514 72 514 l 285 514 b 394 514 419 323 285 344 l 328 344 l 328 344 b 433 344 433 170 328 170 l 285 170 l 285 170 b 419 191 419 1 285 1 l 72 0 {\p0}
 Dialogue: 0,0:00:40.47,0:00:45.22,Normal Dialog Text,Steven,0,0,0,,{\fn微软雅黑\fs64}爽～！完美钟点午后三明治，达成！\N{\fnArial\fs48}Yes! Perfectly timed afternoon sandwich complete.
 Dialogue: 0,0:00:45.82,0:00:49.62,Normal Dialog Text,Steven,0,0,0,,{\fn微软雅黑\fs64}等下，我可不能单独吃如此完美的三明治\N{\fnArial\fs48}Wait, I can't eat such a perfect sandwich all on its own.

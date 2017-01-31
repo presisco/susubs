@@ -16,7 +16,9 @@ Video File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E13.Chille.Tid.
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Video Position: 10
+Scroll Position: 255
+Active Line: 263
+Video Position: 13946
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,6 +30,7 @@ Style: SU Team Member,幼圆,36,&H008F6F1A,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,-1,0
 Style: SU Team Title,幼圆,32,&H00BE9294,&H00FFFFFF,&H00FFFFFF,&H00DBE0C9,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: Song Lyrics Text,华文楷体,20,&H00EAEAEA,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: SU Team Background,Arial,20,&H00E8E8E8,&H000000FF,&H00000000,&H00E8DAB3,0,0,0,0,100,100,0,0,1,0,2,2,10,10,10,1
+Style: Hint,微软雅黑,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -71,7 +74,7 @@ Dialogue: 0,0:01:07.06,0:01:08.36,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:01:08.36,0:01:11.89,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}她们的愤怒会彻底释放，摧毁一切\N{\fnArial\fs48}their anger will take over and destroy.
 Dialogue: 0,0:01:12.86,0:01:14.23,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}不要担心，青金石\N{\fnArial\fs48}Don't worry, Lapis.
 Dialogue: 0,0:01:14.23,0:01:16.46,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们不会让你和鱼群入睡的\N{\fnArial\fs48}We won't let you sleep with the fishes.
-Dialogue: 1,0:01:14.23,0:01:16.46,Label Trans,,0,0,0,,{\pos(960,80)}短语“sleep with the fishes”出自著名黑手党电影“The Godfather”（教父）
+Dialogue: 600,0:01:14.23,0:01:16.46,Hint,,0,0,0,,{\pos(960,50)}短语“sleep with the fishes”出自著名黑手党电影《教父》
 Dialogue: 0,0:01:17.47,0:01:20.00,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们得继续搜索\N{\fnArial\fs48}We're gonna have to keep looking.
 Dialogue: 0,0:01:20.00,0:01:22.67,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但首先，我们要把史蒂文带回家\N{\fnArial\fs48}But first, let's bring Steven home.
 Dialogue: 0,0:01:22.67,0:01:24.30,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃？蛤？\N{\fnArial\fs48}Huh? What? Wha?
@@ -79,7 +82,7 @@ Dialogue: 0,0:01:24.31,0:01:26.81,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:01:26.81,0:01:28.34,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}一起-一起钓鱼吧\N{\fnArial\fs48}Let's -- let's go fishing.
 Dialogue: 0,0:01:28.34,0:01:31.54,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}第一个抓到东西的获胜\N{\fnArial\fs48}First one to catch something wins.
 Dialogue: 0,0:01:31.55,0:01:32.62,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我赢了\N{\fnArial\fs48}I win.
-Dialogue: 1,0:01:31.55,0:01:32.62,Label Trans,,0,0,0,,{\pos(960,80)}此处Steven的姿势致敬”Final Fantasy“（最终幻想系列）中的Cactuar（仙人掌）
+Dialogue: 600,0:01:31.55,0:01:32.62,Hint,,0,0,0,,{\pos(960,50)}此处Steven的姿势致敬《最终幻想》系列中的仙人掌
 Dialogue: 0,0:01:33.34,0:01:35.25,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们本应在外面搜索\N{\fnArial\fs48}We should be out there searching,
 Dialogue: 0,0:01:35.25,0:01:37.98,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}而不是在这里发呆\N{\fnArial\fs48}not in here not searching.
 Dialogue: 0,0:01:38.44,0:01:42.02,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}睡眠是诅咒，一个必须承受的诅咒\N{\fnArial\fs48}Sleep is a curse, and yet a curse I need to live.
@@ -132,7 +135,7 @@ Dialogue: 0,0:03:15.75,0:03:16.94,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:03:17.15,0:03:21.48,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你只要躺下，怎么舒服怎么来，不要乱动\N{\fnArial\fs48}You just lie down, get nice and comfy, don't move,
 Dialogue: 0,0:03:21.82,0:03:26.29,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}而且不要想任何事情\N{\fnArial\fs48}and don't think about anything.
 Dialogue: 0,0:03:26.29,0:03:29.63,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}“宇宙小子”在演播室现场观众面前实时录制\N{\fnArial\fs48}{\i1}Steven Universe was filmed{\i} {\i1}before a live studio audience.{\i}
-Dialogue: 1,0:03:26.29,0:03:29.63,Label Trans,,0,0,0,,{\pos(960,200)}格雷格说的话在美式情景喜剧片头经常使用。第一个梦境是老式美国情景喜剧的风格。\N石榴在梦中的表现类似“Happy Days”（欢乐时光）中的Arthur Fonzarelli（“The Fonz”）
+Dialogue: 600,0:03:26.29,0:03:29.63,Hint,,0,0,0,,{\pos(960,100)}格雷格说的话在美式情景喜剧片头经常使用。第一个梦境是老式美国情景喜剧的风格。\N石榴在梦中的表现类似《欢乐时光》中的Arthur Fonzarelli(“The Fonz”)
 Dialogue: 0,0:03:29.63,0:03:30.68,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦，我的天哪，\N{\fnArial\fs48}Oh, my goodness,
 Dialogue: 0,0:03:30.70,0:03:32.93,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}康妮马上就到了\N{\fnArial\fs48}Connie's going to be here any second now.
 Dialogue: 0,0:03:32.93,0:03:33.97,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我简直不敢相信\N{\fnArial\fs48}I can't believe it.
@@ -143,7 +146,7 @@ Dialogue: 0,0:03:39.34,0:03:41.00,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:03:41.00,0:03:42.68,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}别在屋里滑那个\N{\fnArial\fs48}about riding that thing in the house?
 Dialogue: 0,0:03:42.74,0:03:44.34,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}祝你舞会玩的愉快，伙计\N{\fnArial\fs48}Have fun at your dance, dude.
 Dialogue: 0,0:03:44.35,0:03:46.94,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Oh! Bungacowa!
-Dialogue: 1,0:03:44.35,0:03:46.94,Label Trans,,0,0,0,,{\pos(960,200)}“Bungacowa！”是“Cowabunga！”的倒装词。这是美漫中一个表达兴奋的惯用语。\N最初起源于漫画“Peanuts”（或叫史努比），并由”TMNT“（忍者神龟）和Bart Simpson（巴特-辛普森一家）发扬光大
+Dialogue: 600,0:03:44.35,0:03:46.94,Hint,,0,0,0,,{\pos(960,100)}“Bungacowa！”是“Cowabunga！”的倒装词。这是美漫中一个表达兴奋的惯用语。\N最初起源于漫画《史努比》，并由《忍者神龟》和Bart Simpson（巴特-辛普森一家）发扬光大
 Dialogue: 0,0:03:46.94,0:03:49.42,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}紫晶，别让我抓到你！\N{\fnArial\fs48}Amethyst, I'm gonna get you!
 Dialogue: 0,0:03:49.60,0:03:50.98,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}马上，康妮\N{\fnArial\fs48}Just a second, Connie.
 Dialogue: 0,0:03:51.10,0:03:54.04,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你绝对猜不到紫晶刚刚-蛤？\N{\fnArial\fs48}You won't believe what Amethyst just -- huh?
@@ -187,7 +190,7 @@ Dialogue: 0,0:05:27.25,0:05:31.38,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:05:31.39,0:05:32.78,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}”你甚至不能“\N{\fnArial\fs48}You can't even...
 Dialogue: 0,0:05:32.79,0:05:37.96,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}“你...你都不能给我...我的...”\N{\fnArial\fs48}You...You can't bring...Me...My...
 Dialogue: 0,0:05:39.74,0:05:41.00,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Whoo!
-Dialogue: 1,0:05:39.74,0:05:42.74,Label Trans,,0,0,0,,{\pos(960,200)}此处史蒂文用背上的螺旋桨飞行的画面致敬“Karlsson on the Roof”（屋顶上的小飞人）中的“Karlsson”（卡尔松）。“Karlsson on the Roof”是一部由瑞典作家Astrid Lindgren创作的儿童系列读物
+Dialogue: 600,0:05:39.74,0:05:42.74,Hint,,0,0,0,,{\pos(960,100)}此处史蒂文用背上的螺旋桨飞行的画面致敬《屋顶上的小飞人》中的“Karlsson”（卡尔松）\N《屋顶上的小飞人》是一部由瑞典作家Astrid Lindgren创作的儿童系列读物
 Dialogue: 0,0:05:43.50,0:05:44.70,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}狗升机！\N{\fnArial\fs48} Dogcopter!
 Dialogue: 0,0:05:44.70,0:05:47.68,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}先生，我是您最忠实的粉丝之一！\N{\fnArial\fs48}Mr. copter, sir, I'm one of your biggest fans!
 Dialogue: 0,0:05:47.68,0:05:49.60,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}求求你能给我个签名吗？\N{\fnArial\fs48}Can I please have your autograph?
@@ -199,7 +202,7 @@ Dialogue: 0,0:05:59.82,0:06:01.94,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:06:02.40,0:06:04.32,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}等等...别吃我啊！\N{\fnArial\fs48}Wait...Don't eat me!
 Dialogue: 0,0:06:05.48,0:06:07.32,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}噗！唔！哦，天哪\N{\fnArial\fs48}Ptoo! Ooh! Oh, man.
 Dialogue: 0,0:06:07.50,0:06:09.34,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}谢谢你给的升级组件，珍珠！\N{\fnArial\fs48}Thanks for the upgrade, Pearl!
-Dialogue: 1,0:06:07.50,0:06:09.34,Label Trans,,0,0,0,,{\pos(960,70)}这个很明显了，”Astro Boy“（铁臂阿童木）
+Dialogue: 600,0:06:07.50,0:06:09.34,Hint,,0,0,0,,{\pos(960,50)}这个很明显了，《铁臂阿童木》
 Dialogue: 0,0:06:09.54,0:06:11.38,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}现在我能追上狗-\N{\fnArial\fs48}Now I can catch up with dog--
 Dialogue: 0,0:06:11.79,0:06:13.30,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}喔，紫晶？\N{\fnArial\fs48}whoa. Amethyst?
 Dialogue: 0,0:06:14.93,0:06:16.09,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Hmm.
@@ -221,11 +224,11 @@ Dialogue: 0,0:06:47.80,0:06:48.52,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:06:49.16,0:06:51.10,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}嘿，你在笑什么？\N{\fnArial\fs48}Hey, what are you laughing at?
 Dialogue: 0,0:06:53.88,0:06:57.00,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}噢，罗丝！这真是太好了！\N{\fnArial\fs48}Oh, Rose! This is wonderful!
 Dialogue: 0,0:06:57.00,0:07:01.12,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}跟你在一起非常开心，罗丝！\N{\fnArial\fs48}I'm just having so much fun spending time with you, Rose!
-Dialogue: 1,0:06:57.00,0:06:59.00,Label Trans,,0,0,0,,{\pos(960,80)}这个太明显了，”Titanic“（泰坦尼克号）中Jack和Rose（啧啧）在船首的镜头
+Dialogue: 600,0:06:57.00,0:06:59.00,Hint,,0,0,0,,{\pos(960,50)}这个太明显了，《泰坦尼克号》中Jack和Rose（啧啧）在船首的镜头
 Dialogue: 0,0:07:01.52,0:07:04.64,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}忘了格雷格吧，我们一起在银河系旅游！\N{\fnArial\fs48}Forget about Greg. Let's go travel the galaxy!
 Dialogue: 0,0:07:04.65,0:07:07.88,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}珍珠，非常感谢你...\N{\fnArial\fs48}Pearl, thank you so much...
 Dialogue: 0,0:07:07.88,0:07:10.05,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}修好我的车！\N{\fnArial\fs48}For fixing my van!
-Dialogue: 0,0:07:07.88,0:07:10.05,Label Trans,,0,0,0,,{\pos(960,80)}详见第一季第27集
+Dialogue: 600,0:07:07.88,0:07:10.05,Hint,,0,0,0,,{\pos(960,50)}详见第一季第27集
 Dialogue: 0,0:07:10.05,0:07:11.58,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦！啊！\N{\fnArial\fs48}Oh! Ugh!
 Dialogue: 0,0:07:11.59,0:07:13.22,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呕...\N{\fnArial\fs48}Blegh...
 Dialogue: 0,0:07:13.22,0:07:14.32,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}恶...\N{\fnArial\fs48}Gah!
@@ -271,7 +274,7 @@ Dialogue: 0,0:08:39.57,0:08:42.11,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:08:43.70,0:08:44.44,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}青金石！\N{\fnArial\fs48} Lapis!
 Dialogue: 0,0:08:44.90,0:08:45.56,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}史蒂文！\N{\fnArial\fs48}Steven!
 Dialogue: 0,0:08:45.78,0:08:47.96,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你为什么总是-跑回来?!\N{\fnArial\fs48}Why do you keep coming back?
-Dialogue: 1,0:08:45.78,0:08:47.96,Label Trans,,0,0,0,,{\pos(960,140)}此处青金石与碧玉被链条连接在一起的设定致敬”Jojo's Bizarre Adventure“（Jojo奇幻大冒险）中的Chain Necklace Deathmatch（项链死斗）
+Dialogue: 600,0:08:45.78,0:08:47.96,Hint,,0,0,0,,{\pos(960,50)}此处青金石与碧玉被链条连接在一起的设定致敬《Jojo奇幻大冒险》中的Chain Necklace Deathmatch（颈链死斗）
 Dialogue: 0,0:08:48.12,0:08:49.31,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我不能被分心！\N{\fnArial\fs48}I can't get distracted!
 Dialogue: 0,0:08:49.32,0:08:51.04,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我-我得把我们困在海底\N{\fnArial\fs48}I-I've got to hold us down
 Dialogue: 0,0:08:51.04,0:08:53.30,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}借助你的星球的-海洋-的重量\N{\fnArial\fs48}with the weight of your planet's ocean.
@@ -294,7 +297,7 @@ Dialogue: 0,0:09:33.14,0:09:35.50,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:09:35.66,0:09:37.42,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}就让我为你做这些吧！\N{\fnArial\fs48}just let me do this for you!
 Dialogue: 0,0:09:37.42,0:09:39.30,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}青金石...不！\N{\fnArial\fs48}Lapis... No!
 Dialogue: 0,0:09:39.30,0:09:41.63,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我不再是...青金石了\N{\fnArial\fs48}I'm not Lapis anymore.
-Dialogue: 1,0:09:41.63,0:09:43.54,Label Trans,,0,0,0,,{\pos(960,80)}有没有感觉此处像是“Naruto”（火影忍者）漫画与动画中的Zetsu（绝）吗？
+Dialogue: 600,0:09:41.63,0:09:43.54,Hint,,0,0,0,,{\pos(960,50)}有没有感觉此处像是《火影忍者》中的绝吗？
 Dialogue: 0,0:09:43.54,0:09:45.60,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们现在是，孔雀石\N{\fnArial\fs48}We're Malachite now.
 Dialogue: 0,0:09:45.97,0:09:47.34,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}青金石，不！\N{\fnArial\fs48}Lapis, no!
 Dialogue: 0,0:09:52.98,0:09:55.98,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Oooragh!

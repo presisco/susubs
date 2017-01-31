@@ -10,25 +10,27 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
+Last Style Storage: Default
 Audio File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E15.Keystone.Motel.1080p.WEBRip.h264.AAC-AliQ.mp4
 Video File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E15.Keystone.Motel.1080p.WEBRip.h264.AAC-AliQ.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 39
-Active Line: 60
-Video Position: 2862
+Scroll Position: 54
+Active Line: 136
+Video Position: 7532
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Label Trans,微软雅黑,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Label Trans,微软雅黑,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: Normal Dialog Text,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: SU Title,幼圆,100,&H00AE8E73,&H000000FF,&H00E6E7E9,&H00DADFC8,-1,0,0,0,100,100,0,0,1,8,12,2,10,10,10,1
 Style: SU Team Member,幼圆,36,&H00A98B79,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: SU Team Title,幼圆,32,&H00B394E1,&H00FFFFFF,&H00FFFFFF,&H00DBE0C9,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: SU Team Background,Arial,20,&H00E7E7E7,&H000000FF,&H00000000,&H00D9DFC7,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: Song Lyrics Text,华文楷体,20,&H00EAEAEA,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Hint,微软雅黑,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -59,13 +61,13 @@ Dialogue: 0,0:00:41.14,0:00:42.78,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:00:42.78,0:00:45.12,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}好吧，我要开车去隔壁州-拱顶石\N{\fnArial\fs48}Well, I gotta drive over to the next state, keystone.
 Dialogue: 0,0:00:45.43,0:00:46.52,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你指，拱顶石州？\N{\fnArial\fs48}You mean, the keystone state?
 Dialogue: 0,0:00:46.52,0:00:48.48,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}没错，那个州就叫“拱顶石”\N{\fnArial\fs48}Right, the state named keystone.
-Dialogue: 0,0:00:46.52,0:00:48.48,Label Trans,,0,0,0,,{\pos(960,200)}“拱顶石州”对应现实中的宾夕法尼亚州。\N格雷格手中册子上的轮廓与宾夕法尼亚州相近，\N且宾夕法尼亚处于最初的13个殖民地中央，曾被称为“The Keystone State”。
+Dialogue: 600,0:00:46.52,0:00:48.48,Hint,,0,0,0,,{\pos(960,100)}“拱顶石州”对应现实中的宾夕法尼亚州。格雷格手中册子上的轮廓与宾夕法尼亚州相近，\N且宾夕法尼亚处于最初的13个殖民地中央，曾被称为“The Keystone State”。
 Dialogue: 0,0:00:48.48,0:00:50.66,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我在网上的留言板认识了一个人\N{\fnArial\fs48}I met a guy on an Internet message board
 Dialogue: 0,0:00:50.66,0:00:53.26,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}卖的洗车用的刷子简直白菜价！\N{\fnArial\fs48}who's selling car-wash brushes for real cheap!
 Dialogue: 0,0:00:53.54,0:00:55.78,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我只需要到拱顶石州跟他碰头并拿货就好\N{\fnArial\fs48}I just gotta meet him in keystone and pick 'em up.
 Dialogue: 0,0:00:56.11,0:00:59.16,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我不喜欢那种刷子，用来洗毛发时总感觉怪怪的\N{\fnArial\fs48}I don't like those brushes. They feel weird on your fur.
-Dialogue: 0,0:00:56.11,0:00:59.16,Label Trans,,0,0,0,,{\pos(960,70)}详见第一季第6集 Cat Fingers
-Dialogue: 0,0:00:59.36,0:01:01.16,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}那么，你喜欢汽车旅馆吗？\N{\fnArial\fs48}Well, do you like motels? 
+Dialogue: 600,0:00:56.11,0:00:59.16,Hint,,0,0,0,,{\pos(960,50)}详见第一季第6集 Cat Fingers
+Dialogue: 0,0:00:59.36,0:01:01.16,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}那么，你喜欢汽车旅馆吗？\N{\fnArial\fs48}Well, do you like motels?
 Dialogue: 0,0:01:01.34,0:01:02.16,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}很可能哦！\N{\fnArial\fs48}Probably!
 Dialogue: 0,0:01:02.48,0:01:04.06,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你愿意在汽车旅馆里\N{\fnArial\fs48}Think you'd like to stay at a motel
 Dialogue: 0,0:01:04.06,0:01:05.84,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}陪你最喜欢的老爸吗？\N{\fnArial\fs48}with your favorite dad?
@@ -77,22 +79,22 @@ Dialogue: 0,0:01:14.39,0:01:16.42,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:01:17.13,0:01:18.80,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们要去的是“汽车旅馆”\N{\fnArial\fs48}We're going to a {\i1}motel!{\i}
 Dialogue: 0,0:01:18.80,0:01:21.33,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}那里有泳池和免费冰块\N{\fnArial\fs48}It'll have a pool and free ice.
 Dialogue: 0,0:01:21.33,0:01:25.37,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}而且它就在全世界最好的餐厅旁边！\N{\fnArial\fs48}And it's right next to the best diner in the world!
-Dialogue: 0,0:01:25.37,0:01:26.48,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我也要去\N{\fnArial\fs48}I'm coming, too. 
+Dialogue: 0,0:01:25.37,0:01:26.48,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我也要去\N{\fnArial\fs48}I'm coming, too.
 Dialogue: 0,0:01:26.48,0:01:27.16,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}啊？\N{\fnArial\fs48}What?
 Dialogue: 0,0:01:27.80,0:01:28.88,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}更好了！\N{\fnArial\fs48}Even better!
 Dialogue: 0,0:01:28.88,0:01:31.40,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}嘿，石榴，我知道我有点过度渲染了\N{\fnArial\fs48}Hey, Garnet, I know I'm talking this place up,
 Dialogue: 0,0:01:31.40,0:01:33.38,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}其实没听上去那么好\N{\fnArial\fs48}but it ain't exactly the ritz.
-Dialogue: 0,0:01:31.40,0:01:33.38,Label Trans,,0,0,0,,{\pos(960,75)}“the ritz”可能指的是伦敦的五星级酒店The Ritz hotel(利兹酒店)
+Dialogue: 600,0:01:31.40,0:01:33.38,Hint,,0,0,0,,{\pos(960,50)}“the ritz”可能指的是伦敦的五星级酒店The Ritz hotel(利兹酒店)
 Dialogue: 0,0:01:33.38,0:01:35.08,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我自己会做判断的\N{\fnArial\fs48}I'll be the judge of that.
 Dialogue: 0,0:01:35.36,0:01:38.54,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}那么，这样的话...公路旅行！\N{\fnArial\fs48}Well, in that case... Road trip!
 Dialogue: 0,0:01:38.54,0:01:39.56,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}公路旅行！\N{\fnArial\fs48}Road trip!
 Dialogue: 0,0:01:40.25,0:01:41.06,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}公路旅行\N{\fnArial\fs48}Road trip.
 Dialogue: 0,0:01:41.52,0:01:42.52,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}好极了！\N{\fnArial\fs48}Wonderful!
-Dialogue: 0,0:01:42.52,0:01:44.16,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我会确保紫晶知道要...\N{\fnArial\fs48}I'll make sure Amethyst knows that... 
+Dialogue: 0,0:01:42.52,0:01:44.16,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我会确保紫晶知道要...\N{\fnArial\fs48}I'll make sure Amethyst knows that...
 Dialogue: 0,0:01:45.46,0:01:46.14,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}好吧\N{\fnArial\fs48}Fine.
 Dialogue: 0,0:01:46.60,0:01:48.38,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}那么...再见\N{\fnArial\fs48}Well, goodbye.
 Dialogue: 0,0:01:48.93,0:01:50.58,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这会很有趣，对吧，老爸？\N{\fnArial\fs48}This is gonna be fun, right, dad?
-Dialogue: 0,0:01:59.33,0:02:02.30,Label Trans,,0,0,0,,{\pos(960,200)}现实中也有一家“Keystone Motel”，坐落于St. Pete Beach, Florida。\N那家汽车旅馆曾被宇宙小子的粉丝们恶搞过——有人在Google Plus上\N留下差评，称"马桶被冻住了""披萨是方形的""游泳池被完全蒸发"之类的。
+Dialogue: 600,0:01:59.33,0:02:02.30,Hint,,0,0,0,,{\pos(960,150)}现实中也有一家“Keystone Motel”，坐落于St. Pete Beach, Florida。\N那家汽车旅馆曾被宇宙小子的粉丝们恶搞过——有人在Google Plus上\N留下差评，称"马桶被冻住了""披萨是方形的""游泳池被完全蒸发"之类的。
 Dialogue: 0,0:02:02.84,0:02:04.92,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}另一个汽车旅馆的优势-\N{\fnArial\fs48}Another great thing about motels --
 Dialogue: 0,0:02:04.92,0:02:06.94,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你能直接开到客房门前！\N{\fnArial\fs48}you can drive right up to your door!
 Dialogue: 0,0:02:09.66,0:02:12.66,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我要在泳池里畅游，点播一部大片，享受免费冰块！\N{\fnArial\fs48}I'm gonna swim in the pool, order a movie, get free ice!
@@ -103,15 +105,15 @@ Dialogue: 0,0:02:19.82,0:02:22.14,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:02:22.78,0:02:24.22,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}喔，有消息了\N{\fnArial\fs48}Oop, that's my cue.
 Dialogue: 0,0:02:24.94,0:02:26.94,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}嘿，你不介意在我回来前“守住城堡”吗？\N{\fnArial\fs48}Hey, do you mind holding down the fort till I get back?
 Dialogue: 0,0:02:29.12,0:02:32.04,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}好，那我去和卖隧道刷的人碰面了\N{\fnArial\fs48}Great. I'm off to see a man about a tunnel brush.
-Dialogue: 0,0:02:29.12,0:02:32.04,Label Trans,,0,0,0,,{\pos(960,140)}格雷格此处的话是“see a man about a dog/horse”的变种。\N原话从对比赛下注的委婉表达，演变成为避免流露真实原因，用来结束对话的用语
+Dialogue: 600,0:02:29.12,0:02:32.04,Hint,,0,0,0,,{\pos(960,100)}格雷格此处的话是“see a man about a dog/horse”的变种。\N原话从对比赛下注的委婉表达，演变成为避免流露真实原因，用来结束对话的用语
 Dialogue: 0,0:02:32.44,0:02:34.16,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}一个网友\N{\fnArial\fs48}An Internet man.
 Dialogue: 0,0:02:34.84,0:02:38.20,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}如果一小时内我没回来，记得报警\N{\fnArial\fs48}If I'm not back in an hour, call the police.
-Dialogue: 0,0:02:34.84,0:02:38.20,Label Trans,,0,0,0,,{\pos(960,140)}格雷格此处的话是“If I'm not back [soon], call the police”的变种\N这里应该是致敬默片时代的Keystone Kops
+Dialogue: 600,0:02:34.84,0:02:38.20,Hint,,0,0,0,,{\pos(960,100)}格雷格此处的话是“If I'm not back [soon], call the police”的变种\N这里应该是致敬默片时代的Keystone Kops
 Dialogue: 0,0:02:38.70,0:02:40.10,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}好～的！\N{\fnArial\fs48}Oh-kay!
-Dialogue: 0,0:02:40.84,0:02:41.80,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}跟我一起蹦吧，石榴！\N{\fnArial\fs48}Bounce with me, Garnet! 
+Dialogue: 0,0:02:40.84,0:02:41.80,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}跟我一起蹦吧，石榴！\N{\fnArial\fs48}Bounce with me, Garnet!
 Dialogue: 0,0:02:43.18,0:02:45.00,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}或-或者我们也可以看看宣传册子\N{\fnArial\fs48}O-or we could look at brochures.
 Dialogue: 0,0:02:45.36,0:02:47.46,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}噢～拱顶石洞穴\N{\fnArial\fs48}Ooh, keystone caverns.
-Dialogue: 0,0:02:45.36,0:02:47.46,Label Trans,,0,0,0,,{\pos(960,140)}“Keystone Caverns”可能指的是“Crystal Cave”。\N“Crystal Cave”是宾夕法尼亚州东南部的一处自然景观。
+Dialogue: 600,0:02:45.36,0:02:47.46,Hint,,0,0,0,,{\pos(960,50)}“Keystone Caverns”可能指的是“Crystal Cave”；“Crystal Cave”是宾夕法尼亚州东南部的一处自然景观。
 Dialogue: 0,0:02:47.62,0:02:48.60,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64\c&HE79069&}要冷静\N{\fnArial\fs48}Calm down.
 Dialogue: 0,0:02:49.96,0:02:51.70,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64\c&H5E37D3&}我不想原谅珍珠！\N{\fnArial\fs48}I don't feel like forgiving Pearl!
 Dialogue: 0,0:02:52.04,0:02:53.42,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64\c&HE79069&}我不理解\N{\fnArial\fs48}Don't understand
@@ -168,7 +170,7 @@ Dialogue: 0,0:05:05.50,0:05:08.94,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:05:09.34,0:05:11.90,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}嘿～你能用你的预知能力\N{\fnArial\fs48}Hey, can you use your future powers
 Dialogue: 0,0:05:11.90,0:05:13.82,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}预测一下我最喜欢的频道吗？\N{\fnArial\fs48}to predict what channel I'd love the most?
 Dialogue: 0,0:05:14.12,0:05:17.42,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}嗯...43，但也没什么\N{\fnArial\fs48}Hmm...43. But there's not much on.
-Dialogue: 0,0:05:14.12,0:05:17.42,Label Trans,,0,0,0,,{\pos(960,160)}宾夕法尼亚州的43频道为标清Nickelodeon(尼克)台。Nickelodeon为\NCartoon Network(卡通网络，”宇宙小子“的东家)的竞争对手
+Dialogue: 600,0:05:14.12,0:05:17.42,Hint,,0,0,0,,{\pos(960,100)}宾夕法尼亚州的43频道为标清Nickelodeon(尼克)台\NNickelodeon为Cartoon Network(卡通网络，”宇宙小子“的东家)的竞争对手
 Dialogue: 0,0:05:21.54,0:05:23.12,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}嘿，蓝宝石...\N{\fnArial\fs48}Hey, Sapphire...
 Dialogue: 0,0:05:23.12,0:05:25.80,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}即使我这样做，红宝石也不会听的\N{\fnArial\fs48}Even if I do, Ruby won't listen.
 Dialogue: 0,0:05:25.80,0:05:26.58,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}蛤？\N{\fnArial\fs48}Huh?
@@ -205,9 +207,9 @@ Dialogue: 0,0:06:38.76,0:06:40.54,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:06:40.54,0:06:41.80,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}如果都能让石榴分裂了的话\N{\fnArial\fs48}if it made Garnet split up.
 Dialogue: 0,0:06:42.12,0:06:44.32,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但，嘿，我们仍能高兴起来啊\N{\fnArial\fs48}But hey, we can still have a good time.
 Dialogue: 0,0:06:44.88,0:06:46.38,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}方形的披萨？\N{\fnArial\fs48}Square Pizza?!
-Dialogue: 0,0:06:44.88,0:06:46.38,Label Trans,,0,0,0,,{\pos(960,80)}第二季第2集说好的不介意任何基本形状呢？！
+Dialogue: 600,0:06:44.88,0:06:46.38,Hint,,0,0,0,,{\pos(960,50)}第二季第2集说好的不介意任何基本形状呢？！
 Dialogue: 0,0:06:46.64,0:06:48.66,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这个疯狂的州怎么了？\N{\fnArial\fs48}What's wrong with this crazy state?!
-Dialogue: 0,0:06:46.64,0:06:48.66,Label Trans,,0,0,0,,{\pos(960,194)}“方形披萨”可能指的是宾夕法尼亚州东北部非常流行的“Old Forge style pizza”。\N“Old Forge style pizza”通常使用American cheese，\N而且通常叫"tray"(盘)和"cut"(块)，而非"pie"(张)和"slice"(片)
+Dialogue: 600,0:06:46.64,0:06:48.66,Hint,,0,0,0,,{\pos(960,150)}“方形披萨”可能指的是宾夕法尼亚州东北部非常流行的“Old Forge style pizza”\N“Old Forge style pizza”通常使用American cheese\N而且通常叫"tray"(盘)和"cut"(块)，而非"pie"(张)和"slice"(片)
 Dialogue: 0,0:06:48.98,0:06:51.18,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}儿子，你生命中总有些时候\N{\fnArial\fs48}Son, there'll come a time in your life
 Dialogue: 0,0:06:51.18,0:06:53.40,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}得学会接受所有的披萨\N{\fnArial\fs48}when you learn to accept all Pizza.
 Dialogue: 0,0:06:53.97,0:06:57.20,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}为什么红宝石和蓝宝石直接，和好呢？\N{\fnArial\fs48}Why can't Ruby and Sapphire just make up?
@@ -224,7 +226,7 @@ Dialogue: 0,0:07:15.34,0:07:17.96,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:07:18.26,0:07:20.24,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你确实是我最喜欢的老爸\N{\fnArial\fs48}You really are my favorite dad.
 Dialogue: 0,0:07:20.62,0:07:22.66,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我就知道这份披萨能帮到我\N{\fnArial\fs48}I knew this Pizza would put me over the top.
 Dialogue: 0,0:07:27.16,0:07:27.94,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}嘿！\N{\fnArial\fs48}Hey!
-Dialogue: 0,0:07:24.40,0:07:25.80,Label Trans,,0,0,0,,{\pos(936,152)}“世界上最好的餐厅”
+Dialogue: 500,0:07:24.40,0:07:25.80,Label Trans,,0,0,0,,{\fn隶书\bord0\shad0\frx0\fry336\pos(528,530)\org(688,503.334)}{\fs64\c&HDEEC4D&}世界上\N{\fs128\c&H8232B8&}最好的{\fs64\c&HDEEC4D&}\N餐厅
 Dialogue: 0,0:07:28.38,0:07:29.16,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}谢谢\N{\fnArial\fs48}Thank you.
 Dialogue: 0,0:07:29.88,0:07:30.58,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}谢谢！\N{\fnArial\fs48}Thanks!
 Dialogue: 0,0:07:34.32,0:07:35.76,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}怎么了？不饿吗？\N{\fnArial\fs48}What's the matter? Not hungry?
@@ -243,7 +245,7 @@ Dialogue: 0,0:08:12.62,0:08:15.18,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:08:15.18,0:08:16.56,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}那是你，的，想，法！\N{\fnArial\fs48}That's what you think!
 Dialogue: 0,0:08:16.56,0:08:19.20,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我是永不熄灭的烈焰，baby！\N{\fnArial\fs48}I am an eternal flame, baby!
 Dialogue: 0,0:08:22.00,0:08:23.14,Label Trans,,0,0,0,,{\fn微软雅黑\fs64\pos(960,120)\c&H5E37D3&}你又不了解我！\N{\fnArial\fs48}You don't know me!
-Dialogue: 0,0:08:22.64,0:08:24.06,Label Trans,,0,0,0,,{\fn微软雅黑\fs64\c&HE79069&\pos(960,240)}我怎么可能不了解\N{\fnArial\fs48}How could I possibly not know you 
+Dialogue: 0,0:08:22.64,0:08:24.06,Label Trans,,0,0,0,,{\fn微软雅黑\fs64\c&HE79069&\pos(960,240)}我怎么可能不了解\N{\fnArial\fs48}How could I possibly not know you
 Dialogue: 0,0:08:23.14,0:08:25.88,Label Trans,,0,0,0,,{\fn微软雅黑\fs64\pos(960,120)\c&H5E37D3&}你看看你！嗷～嚎-嚎\N{\fnArial\fs48}Look at you! Awww-haw-haw.
 Dialogue: 0,0:08:24.06,0:08:25.28,Label Trans,,0,0,0,,{\fn微软雅黑\fs64\c&HE79069&\pos(960,240)}我们总是融合在一起\N{\fnArial\fs48}we always fused.
 Dialogue: 0,0:08:26.84,0:08:28.70,Label Trans,,0,0,0,,{\fn微软雅黑\fs64\pos(960,120)\c&H5E37D3&}你都不了解你自己！哈！\N{\fnArial\fs48}You don't even know yourself! Hah!
@@ -278,11 +280,11 @@ Dialogue: 0,0:09:23.32,0:09:25.28,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:09:26.86,0:09:28.68,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我，对不起\N{\fnArial\fs48}I'm,sorry.
 Dialogue: 0,0:09:30.54,0:09:33.58,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你真的认为我对已经发生的毫不在意？\N{\fnArial\fs48}You honestly think I'm not upset about what happened?
 Dialogue: 0,0:09:33.82,0:09:37.02,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我-只是试着做正确的事而已\N{\fnArial\fs48}I was just trying to do the right thing.
-Dialogue: 0,0:09:37.42,0:09:38.36,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我知道\N{\fnArial\fs48}I know. 
+Dialogue: 0,0:09:37.42,0:09:38.36,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我知道\N{\fnArial\fs48}I know.
 Dialogue: 0,0:09:41.36,0:09:43.54,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你知道分开的好处是什么吗？\N{\fnArial\fs48}You know what's nice about being split up?
 Dialogue: 0,0:09:44.02,0:09:44.84,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}是什么？\N{\fnArial\fs48}What?
 Dialogue: 0,0:09:45.44,0:09:47.14,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我能看到你了\N{\fnArial\fs48}I get to look at you.
-Dialogue: 0,0:09:47.46,0:09:47.98,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}噗！\N{\fnArial\fs48}Pfft! 
+Dialogue: 0,0:09:47.46,0:09:47.98,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}噗！\N{\fnArial\fs48}Pfft!
 Dialogue: 0,0:09:49.62,0:09:50.96,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}严肃点！\N{\fnArial\fs48}Be serious!
 Dialogue: 0,0:09:50.96,0:09:52.46,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这才是我的爱笑的小蓝嘛！\N{\fnArial\fs48}There's my laffy saffy!
 Dialogue: 0,0:09:52.46,0:09:55.28,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}嘘！你这是在史蒂文面前放闪光弹啊！\N{\fnArial\fs48}Shh! You're embarrassing me in front of Steven!

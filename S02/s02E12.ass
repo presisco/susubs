@@ -16,8 +16,9 @@ Video File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E12.We.Need.to.
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 2
-Video Position: 40
+Scroll Position: 144
+Active Line: 166
+Video Position: 13380
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -29,6 +30,7 @@ Style: SU Team Member,幼圆,36,&H00A737C9,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,-1,0
 Style: SU Team Title,幼圆,32,&H009065C2,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: Song Lyrics Text,华文楷体,20,&H00EAEAEA,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: SU Team Background,Arial,20,&H00E8E8E8,&H000000FF,&H00000000,&H00DFCCDC,0,0,0,0,100,100,0,0,1,0,2,2,10,10,10,1
+Style: Hint,微软雅黑,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -43,13 +45,13 @@ Dialogue: 1,0:00:01.65,0:00:03.05,SU Team Title,,0,0,0,,{\pos(1700,660)}压制
 Dialogue: 1,0:00:01.65,0:00:03.05,SU Team Member,,0,0,0,,{\pos(1700,710)}presisco
 Dialogue: 0,0:00:01.65,0:00:03.05,SU Team Background,,0,0,0,,{\pos(1744,776)\xshad-0\yshad16}{\p1}m 72 0 b -46 0 -46 170 72 170 l 115 170 b -37 149 -36 374 115 344 l 72 344 b -46 344 -46 514 72 514 l 285 514 b 394 514 419 323 285 344 l 328 344 l 328 344 b 433 344 433 170 328 170 l 285 170 l 285 170 b 419 191 419 1 285 1 l 72 0 {\p0}
 Dialogue: 0,0:00:04.83,0:00:07.37,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这是所有的O.M.O乐队的内容了\N{\fnArial\fs48}Here's all the orange magic orchestra ones.
-Dialogue: 1,0:00:04.83,0:00:07.37,Label Trans,,0,0,0,,{\pos(960,150)}O.M.O致敬日本二十世纪80年代的Yellow Magic Orchestra(Y.M.O)乐队，在日本开创了Techno类型。专辑应该为Naughty Boys
+Dialogue: 600,0:00:04.83,0:00:07.37,Hint,,0,0,0,,{\pos(960,100)}O.M.O致敬日本二十世纪80年代的Yellow Magic Orchestra(Y.M.O)乐队，在日本开创了Techno类型。专辑应该为Naughty Boys
 Dialogue: 0,0:00:07.37,0:00:10.87,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}太好了，将他们放到“出色的太空摇滚”类里\N{\fnArial\fs48}Great, put them in the transcendental space rock pile.
-Dialogue: 1,0:00:07.37,0:00:10.87,Label Trans,,0,0,0,,{\pos(960,138)}QUADRINOMETRY-THE SECRET OF THE WAVE LIES IN CREATION\N曾出现于S01E02的车库中和S01E26的车载音乐
+Dialogue: 600,0:00:07.37,0:00:10.87,Hint,,0,0,0,,{\pos(960,100)}QUADRINOMETRY-THE SECRET OF THE WAVE LIES IN CREATION\N曾出现于S01E02的车库中和S01E26的车载音乐
 Dialogue: 0,0:00:10.87,0:00:13.17,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}在我家，就只有古典乐\N{\fnArial\fs48}At home, we only have classical music
 Dialogue: 0,0:00:13.18,0:00:14.71,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}和电影原声\N{\fnArial\fs48}and movie soundtracks.
 Dialogue: 0,0:00:14.71,0:00:16.84,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我从没听过这些中的任何一种\N{\fnArial\fs48}I've never heard any of these.
-Dialogue: 1,0:00:14.71,0:00:19.05,Label Trans,,0,0,0,,{\pos(960,210)}The Philosophy Majors- Nietzsche's Breakdown封面致敬No Doubt乐队的Tragic Kingdom。No Doubt乐队活跃于2000年左右，主打摇滚乐。The Philosophy Majors的名字致敬加拿大的The Philosopher Kings乐队
+Dialogue: 600,0:00:14.71,0:00:19.05,Hint,,0,0,0,,{\pos(960,100)}The Philosophy Majors- Nietzsche's Breakdown封面致敬No Doubt乐队的Tragic Kingdom。No Doubt乐队活跃于2000年左右，主打摇滚乐。The Philosophy Majors的名字致敬加拿大的The Philosopher Kings乐队
 Dialogue: 0,0:00:16.85,0:00:19.05,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你从没听过The Philosophy Maors的歌？\N{\fnArial\fs48}You've never heard the philosophy majors?
 Dialogue: 0,0:00:19.05,0:00:20.95,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我的天。给我一下\N{\fnArial\fs48}Oh, man. Give it here.
 Dialogue: 0,0:00:20.95,0:00:23.52,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}今天给你开开眼\N{\fnArial\fs48}This will really knock your socks off.Come on.
@@ -73,7 +75,7 @@ Dialogue: 0,0:01:25.95,0:01:27.51,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:01:24.08,0:01:25.64,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}故事！\N{\fnArial\fs48}Story!
 Dialogue: 0,0:01:27.52,0:01:28.65,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们已经准备好了\N{\fnArial\fs48}We're ready.
 Dialogue: 0,0:01:28.65,0:01:30.42,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我没想到会这么早就告诉你\N{\fnArial\fs48}I didn't think I'd be telling you this so soon.
-Dialogue: 1,0:01:30.30,0:01:31.80,Label Trans,,0,0,0,,{\pos(960,100)}电视机上的海报致敬Animal Crossing（动物之森）中的K.K Slider（一只写音乐的狗）
+Dialogue: 600,0:01:30.30,0:01:31.80,Hint,,0,0,0,,{\pos(960,50)}电视机上的海报致敬动物之森中的K.K Slider（一只写音乐的狗）
 Dialogue: 0,0:01:30.42,0:01:34.02,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}也许最好先从这里开始\N{\fnArial\fs48}Probably best to start with this.
 Dialogue: 0,0:01:36.69,0:01:38.26,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}都准备好了吗？\N{\fnArial\fs48}Everybody ready?
 Dialogue: 0,0:01:39.34,0:01:42.70,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}1, 2, 3, 4...
@@ -159,7 +161,7 @@ Dialogue: 0,0:06:44.10,0:06:46.07,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:06:46.07,0:06:48.27,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}做到开放、坦诚\N{\fnArial\fs48}Get open. Get honest.
 Dialogue: 0,0:06:48.27,0:06:52.00,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}坚持自我。这就是融合\N{\fnArial\fs48}Invent yourselves together. That's fusion.
 Dialogue: 0,0:06:52.01,0:06:54.91,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}眼...猜我了解了。\N{\fnArial\fs48}{\i1}Eye...{\i} {\i1}Think I get it.
-Dialogue: 1,0:07:08.00,0:07:11.00,Label Trans,,0,0,0,,{\pos(960,80)}此处舞蹈与布景致敬少女革命：绝对命运默示录
+Dialogue: 600,0:07:08.00,0:07:11.00,Hint,,0,0,0,,{\pos(960,50)}此处舞蹈与布景致敬少女革命：绝对命运默示录
 Dialogue: 0,0:07:38.29,0:07:40.99,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们-我们没融合\N{\fnArial\fs48}We -- we didn't fuse.
 Dialogue: 0,0:07:41.60,0:07:42.69,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}啊？！\N{\fnArial\fs48}What?!
 Dialogue: 0,0:07:44.34,0:07:46.44,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你肯定不能融合\N{\fnArial\fs48}You can't fuse.
@@ -198,7 +200,7 @@ Dialogue: 0,0:09:10.75,0:09:13.58,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:09:13.58,0:09:16.75,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你想念你的母星吗？\N{\fnArial\fs48}Do you miss your home planet?
 Dialogue: 0,0:09:16.75,0:09:18.05,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}不，从不\N{\fnArial\fs48}No. Never.
 Dialogue: 0,0:09:18.05,0:09:21.32,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你最后是怎么和，呃，，走到一起的？\N{\fnArial\fs48}How did you end up with, uh, Harpo, Groucho, and chico?
-Dialogue: 1,0:09:18.05,0:09:21.32,Label Trans,,0,0,0,,{\pos(960,275)}Harpo,Groucho和Chico是Marx Brothers（马克斯兄弟）的成员。Marx Brothers是美国喜剧界早期著名团体，与卓别林，劳埃德齐名，擅长无政府主义风格。\NHarpo对应石榴（沉默寡言），Groucho对应紫晶（直率），\NChico（经常有夸张行为）
+Dialogue: 600,0:09:18.05,0:09:21.32,Hint,,0,0,0,,{\pos(960,150)}Harpo,Groucho和Chico是Marx Brothers（马克斯兄弟）的成员。\NMarx Brothers是美国喜剧界早期著名团体，与卓别林，劳埃德齐名，擅长无政府主义风格。\NHarpo对应石榴（沉默寡言），Groucho对应紫晶（直率），Chico（经常有夸张行为）
 Dialogue: 0,0:09:21.32,0:09:23.32,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}啊？哦，她们\N{\fnArial\fs48}Huh? Oh, them.
 Dialogue: 0,0:09:23.78,0:09:25.48,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}她们三个的故事可长了\N{\fnArial\fs48}Those are three long stories.
 Dialogue: 0,0:09:25.52,0:09:27.06,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}他们在干吗？——嘘！\N{\fnArial\fs48}What are they doing? Shh!

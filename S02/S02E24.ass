@@ -15,8 +15,8 @@ Video File: Steven.Universe.S02E24.Too.Far.1080p.WEBRip.h264.AAC-AliQ.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 272
-Active Line: 185
+Scroll Position: 13
+Active Line: 20
 Video Position: 10194
 
 [V4+ Styles]
@@ -54,18 +54,18 @@ Dialogue: 1,0:00:24.97,0:00:26.33,SU Team Member,,0,0,0,,{\pos(1700,510)\bord0\s
 Dialogue: 1,0:00:24.97,0:00:26.33,SU Team Title,,0,0,0,,{\pos(1700,560)\bord0\shad0\c&HBD9CFA&}特效
 Dialogue: 1,0:00:24.97,0:00:26.33,SU Team Member,,0,0,0,,{\pos(1700,610)\bord0\shad0\c&HA18565&}presisco
 Dialogue: 1,0:00:24.97,0:00:26.33,SU Team Title,,0,0,0,,{\pos(1700,660)\bord0\shad0\c&HBD9CFA&}压制
-Dialogue: 1,0:00:24.97,0:00:26.33,SU Team Member,,0,0,0,,{\pos(1700,710)\bord0\shad0\c&HA18565&}
+Dialogue: 1,0:00:24.97,0:00:26.33,SU Team Member,,0,0,0,,{\pos(1700,710)\bord0\shad0\c&HA18565&}presisco
 Dialogue: 0,0:00:24.97,0:00:26.33,SU Team Background,,0,0,0,,{\pos(1744,776)\bord0\xshad-0\yshad16\c&HFCFCFC&\4c&HF7E985&}{\p1}m 72 0 b -46 0 -46 170 72 170 l 115 170 b -37 149 -36 374 115 344 l 72 344 b -46 344 -46 514 72 514 l 285 514 b 394 514 419 323 285 344 l 328 344 l 328 344 b 433 344 433 170 328 170 l 285 170 l 285 170 b 419 191 419 1 285 1 l 72 0 {\p0}
 Dialogue: 100,0:00:27.88,0:00:30.08,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}记录日期-7-1-1-2\N{\fnArial\fs48}Log date 7-1-1-2.
 Dialogue: 600,0:00:27.88,0:00:30.08,Hint,,0,0,0,,{\pos(960,50)}橄榄石使用录音机的习惯致敬九十年代邪典片《双峰》，其中FBI侦探戴尔·库柏也适用录音机记录
 Dialogue: 100,0:00:30.28,0:00:31.95,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}地球已经自转三圈了，\N{\fnArial\fs48}It's the third rotation of the earth
-Dialogue: 100,0:00:31.95,0:00:33.31,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}从开始进行\N{\fnArial\fs48}since commencements of a 
+Dialogue: 100,0:00:31.95,0:00:33.31,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}从开始进行\N{\fnArial\fs48}since commencements of a
 Dialogue: 100,0:00:34.53,0:00:37.63,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}组织融合簇的合作尝试算起的话\N{\fnArial\fs48}Collaborative approach to stopping the cluster.
 Dialogue: 100,0:00:38.26,0:00:39.40,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}我完成了钻头头部\N{\fnArial\fs48}I've finished drawing up
 Dialogue: 100,0:00:39.40,0:00:40.97,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}蓝图的绘制了\N{\fnArial\fs48}the blueprints for the drill head.
 Dialogue: 100,0:00:41.40,0:00:44.08,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}橄榄石，如果你能来看一眼的话...\N{\fnArial\fs48}Peridot, if you could come take a look at this...
 Dialogue: 100,0:00:45.64,0:00:47.81,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}在提醒我一下为什么我得听你的？\N{\fnArial\fs48}Remind me again why I should listen to you.
-Dialogue: 100,0:00:48.15,0:00:49.35,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}噢，对\N{\fnArial\fs48}Oh, right. 
+Dialogue: 100,0:00:48.15,0:00:49.35,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}噢，对\N{\fnArial\fs48}Oh, right.
 Dialogue: 100,0:00:49.95,0:00:51.11,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}这里的那个珍珠表现出了\N{\fnArial\fs48}The Pearl here has exhibited
 Dialogue: 100,0:00:51.11,0:00:54.31,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}工程学方面的潜质-即使我很不愿承认，\N{\fnArial\fs48}an aptitude for engineering that I begrudgingly respect,
 Dialogue: 100,0:00:54.57,0:00:56.77,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}但这解释不了她没完没了的歌唱，\N{\fnArial\fs48}though that doesn't explain the spontaneous singing,
@@ -102,7 +102,7 @@ Dialogue: 100,0:02:18.93,0:02:20.73,Normal Dialog Text,General,0,0,0,,{\fn微软
 Dialogue: 100,0:02:21.06,0:02:21.82,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}嘿\N{\fnArial\fs48}Hey.
 Dialogue: 100,0:02:21.91,0:02:24.51,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}嘿，橄榄石，你管这个叫什么？\N{\fnArial\fs48}Hey, Peridot, what do you call this?
 Dialogue: 100,0:02:24.64,0:02:25.74,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}气味海绵体\N{\fnArial\fs48}A scent sponge.
-Dialogue: 100,0:02:26.04,0:02:26.46,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}呃？\N{\fnArial\fs48}Huh? 
+Dialogue: 100,0:02:26.04,0:02:26.46,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}呃？\N{\fnArial\fs48}Huh?
 Dialogue: 100,0:02:27.57,0:02:29.26,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}好吧，那这个呢？\N{\fnArial\fs48}Okay, what's this?
 Dialogue: 100,0:02:29.55,0:02:30.40,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}视觉球体\N{\fnArial\fs48}Vision sphere.
 Dialogue: 100,0:02:30.62,0:02:31.71,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}橄榄石，那是-\N{\fnArial\fs48}Peridot, that's --
@@ -224,7 +224,7 @@ Dialogue: 500,0:07:03.37,0:07:05.20,Label Trans,,0,0,0,,{\fn隶书\fs48\c&H6C6F7
 Dialogue: 100,0:07:05.53,0:07:07.57,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}这会让它变得“碳讽”吗？（irony：铁的，讽刺性的；carbon:碳）\N{\fnArial\fs48}Would that make it "carbony"?
 Dialogue: 100,0:07:08.77,0:07:10.16,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}哦，哦，哦！紫晶！\N{\fnArial\fs48}Oh, oh, oh! Amethyst!
 Dialogue: 100,0:07:11.95,0:07:16.91,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}看这个-嗯-节奏性粉碎器！\N{\fnArial\fs48}Check out this -- hmm -- "rhythmatic" pulverizer.
-Dialogue: 100,0:07:18.55,0:07:20.11,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}那真是太好笑了！我太幽默了！\N{\fnArial\fs48}That's funny. I'm so funny. 
+Dialogue: 100,0:07:18.55,0:07:20.11,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}那真是太好笑了！我太幽默了！\N{\fnArial\fs48}That's funny. I'm so funny.
 Dialogue: 100,0:07:22.57,0:07:23.66,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}你高兴就好\N{\fnArial\fs48}Whatever, dude.
 Dialogue: 100,0:07:24.73,0:07:27.51,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}那不是正确的反应啊\N{\fnArial\fs48}That was the incorrect response.
 Dialogue: 100,0:07:27.84,0:07:31.11,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}嘿，我做这些的时候紫晶没笑诶\N{\fnArial\fs48}Hey, Amethyst isn't laughing when I do these things.
@@ -251,14 +251,14 @@ Dialogue: 100,0:08:22.31,0:08:23.17,Normal Dialog Text,General,0,0,0,,{\fn微软
 Dialogue: 100,0:08:23.17,0:08:24.91,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}啊啊！\N{\fnArial\fs48}Aah!
 Dialogue: 100,0:08:28.04,0:08:29.48,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}上面的进展怎么样了？\N{\fnArial\fs48}How's everything going up there?
 Dialogue: 100,0:08:29.77,0:08:31.33,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}我很好，没什么出差错的\N{\fnArial\fs48}I'm fine. There's nothing wrong.
-Dialogue: 100,0:08:31.33,0:08:32.82,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}所有事都非常顺利\N{\fnArial\fs48}Everything's fine. 
+Dialogue: 100,0:08:31.33,0:08:32.82,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}所有事都非常顺利\N{\fnArial\fs48}Everything's fine.
 Dialogue: 100,0:08:33.60,0:08:35.57,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}啊！不不不不！停下！\N{\fnArial\fs48}Aah! No, no, no, no! Stop!
 Dialogue: 100,0:08:35.80,0:08:36.40,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}橄榄石？\N{\fnArial\fs48}Peridot?
 Dialogue: 100,0:08:40.42,0:08:41.11,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}面板！\N{\fnArial\fs48}The panel.
 Dialogue: 100,0:08:43.28,0:08:45.35,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}喔！等等！\N{\fnArial\fs48}Whoa! Wait!
 Dialogue: 100,0:08:47.11,0:08:49.66,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}没事！我能控制住住住！\N{\fnArial\fs48}It's okay! I got I-I-I-t!
 Dialogue: 100,0:08:51.46,0:08:53.02,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}搞毛...啊！\N{\fnArial\fs48}What the...Aah!
-Dialogue: 100,0:08:53.02,0:08:53.91,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}紫晶！\N{\fnArial\fs48}Amethyst! 
+Dialogue: 100,0:08:53.02,0:08:53.91,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}紫晶！\N{\fnArial\fs48}Amethyst!
 Dialogue: 100,0:08:57.84,0:08:58.53,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}啊！\N{\fnArial\fs48}Aah!
 Dialogue: 100,0:09:04.60,0:09:06.86,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}没什么，一切都好\N{\fnArial\fs48}It's okay. Everything's okay.
 Dialogue: 100,0:09:06.86,0:09:08.51,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}这只是个钻头（drill:钻头，演习）\N{\fnArial\fs48}It was just a drill.

@@ -14,10 +14,10 @@ Audio File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E20.Sadies.Song
 Video File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E20.Sadies.Song.1080p.WEBRip.h264.AAC-AliQ.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 199
-Active Line: 217
-Video Position: 11690
+Video Zoom Percent: 0.500000
+Scroll Position: 162
+Active Line: 172
+Video Position: 9085
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -54,7 +54,7 @@ Dialogue: 1,0:00:27.44,0:00:28.80,SU Team Member,,0,0,0,,{\pos(1700,510)\bord0\s
 Dialogue: 1,0:00:27.44,0:00:28.80,SU Team Title,,0,0,0,,{\pos(1700,560)\bord0\shad0\c&HB394E1&}特效
 Dialogue: 1,0:00:27.44,0:00:28.80,SU Team Member,,0,0,0,,{\pos(1700,610)\bord0\shad0\c&HA98B79&}presisco
 Dialogue: 1,0:00:27.44,0:00:28.80,SU Team Title,,0,0,0,,{\pos(1700,660)\bord0\shad0\c&HB394E1&}压制
-Dialogue: 1,0:00:27.44,0:00:28.80,SU Team Member,,0,0,0,,{\pos(1700,710)\bord0\shad0\c&HA98B79&}
+Dialogue: 1,0:00:27.44,0:00:28.80,SU Team Member,,0,0,0,,{\pos(1700,710)\bord0\shad0\c&HA98B79&}presisco
 Dialogue: 0,0:00:27.44,0:00:28.80,SU Team Background,,0,0,0,,{\pos(1744,776)\bord0\xshad-0\yshad16\c&HFCFCFC&\4c&HEEF3D7}{\p1}m 72 0 b -46 0 -46 170 72 170 l 115 170 b -37 149 -36 374 115 344 l 72 344 b -46 344 -46 514 72 514 l 285 514 b 394 514 419 323 285 344 l 328 344 l 328 344 b 433 344 433 170 328 170 l 285 170 l 285 170 b 419 191 419 1 285 1 l 72 0 {\p0}
 Dialogue: 100,0:00:35.34,0:00:37.14,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}给你得，拉尔斯哥们！\N{\fnArial\fs48}Here you arez, my larz!
 Dialogue: 100,0:00:37.46,0:00:39.66,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}呃，我给你放这了\N{\fnArial\fs48}Uh, I'll just leave it here for you.
@@ -204,6 +204,7 @@ Dialogue: 100,0:06:04.96,0:06:06.98,Normal Dialog Text,General,0,0,0,,{\fn微软
 Dialogue: 100,0:06:07.48,0:06:10.54,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}对啊！如果她作为神秘嘉宾呢？\N{\fnArial\fs48}Yeah! What if she was a surprise?!
 Dialogue: 100,0:06:10.54,0:06:12.04,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}这真是个好主意！\N{\fnArial\fs48}That's a great idea!
 Dialogue: 100,0:06:12.18,0:06:14.62,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}她将作为神秘的压轴表演！\N{\fnArial\fs48}She'll be a mystery final act!
+Dialogue: 500,0:06:14.62,0:06:15.70,Label Trans,,0,0,0,,{\fn隶书\fs48\c&HE5BCFA&\bord0\shad0\frz336.6\pos(814,354)}特约神秘嘉宾
 Dialogue: 100,0:06:15.72,0:06:18.52,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}谢谢大家参与沙滩狂欢节！\N{\fnArial\fs48}Thank you, beach-a-palooza!
 Dialogue: 100,0:06:18.90,0:06:22.20,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}你们能从下一组表演者的工作猜到是谁——她们白天可在送披萨哦！\N{\fnArial\fs48}You know this next act from their day job, delivering Pizza!
 Dialogue: 100,0:06:22.36,0:06:24.98,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}但今晚，她们来这里送段子了！\N{\fnArial\fs48}But tonight, they're delivering jokes!
@@ -241,7 +242,7 @@ Dialogue: 100,0:07:28.96,0:07:31.64,Normal Dialog Text,General,0,0,0,,{\fn微软
 Dialogue: 100,0:07:32.04,0:07:34.14,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}你知道我的一个老朋友告诉过我什么？\N{\fnArial\fs48}You know what an old friend of mine told me once?
 Dialogue: 100,0:07:34.40,0:07:36.90,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}伸手不打笑脸人\N{\fnArial\fs48}A little smile never hurt anybody.
 Dialogue: 100,0:07:42.26,0:07:45.04,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}啊～看起来好极了！\N{\fnArial\fs48}Awwww, lookin good!
-Dialogue: 100,0:07:45.20,0:07:46.68,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}谢谢！{\2c&H0000FF&}\N{\fnArial\fs48}Thank you! 
+Dialogue: 100,0:07:45.20,0:07:46.68,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}谢谢！{\2c&H0000FF&}\N{\fnArial\fs48}Thank you!
 Dialogue: 100,0:07:51.86,0:07:52.86,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}多点亮粉！\N{\fnArial\fs48}More sparkles!
 Dialogue: 100,0:07:52.86,0:07:53.58,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}好的！\N{\fnArial\fs48}Yes, sir!
 Dialogue: 100,0:07:53.78,0:07:55.66,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}下一位，先生们，女士们\N{\fnArial\fs48}Next up, ladies and gentlemen,

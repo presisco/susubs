@@ -16,9 +16,9 @@ Video File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E10.Rising.Tide
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 129
-Active Line: 131
-Video Position: 5686
+Scroll Position: 301
+Active Line: 316
+Video Position: 15533
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -51,14 +51,17 @@ Dialogue: 0,0:00:12.79,0:00:15.49,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:00:15.50,0:00:16.96,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但仔细看，\N{\fnArial\fs48}but take a closer look,
 Dialogue: 0,0:00:16.96,0:00:21.53,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你会注意到其中大有奥妙\N{\fnArial\fs48}and you'll start to notice the cracks in the facade.
 Dialogue: 0,0:00:23.80,0:00:25.14,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我是...\N{\fnArial\fs48}My name is --
+Dialogue: 600,0:00:21.44,0:00:23.82,Hint,,0,0,0,,{\pos(960,50)}背景音乐与U2B著名病毒MV“Never Gonna Give You Up”的前奏相同
 Dialogue: 0,0:00:25.14,0:00:26.80,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃...\N{\fnArial\fs48}uh...
 Dialogue: 0,0:00:27.87,0:00:29.71,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}吾名为罗尔纳多\N{\fnArial\fs48}My name is Ronaldo.
 Dialogue: 0,0:00:29.71,0:00:33.81,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这些年来，我一直在经营名为“沙滩镇不思议”的博客\N{\fnArial\fs48}For years, I've run a blog called "keep Beach City weird."
 Dialogue: 0,0:00:33.81,0:00:36.71,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我的任务：让沙滩镇“不思议”！\N{\fnArial\fs48}My mission -- keep Beach City weird!
 Dialogue: 1,0:00:37.24,0:00:39.14,Label Trans,,0,0,0,,{\pos(857,786)\i0\shad0\bord4}也许怀孕了？
+Dialogue: 600,0:00:37.24,0:00:39.14,Hint,,0,0,0,,{\pos(960,100)}此处风格影射好莱坞狗仔佩雷斯·希尔顿惯用的网站与图片编辑风格
 Dialogue: 600,0:00:37.24,0:00:39.14,Hint,,0,0,0,,{\pos(960,50)}详见第一季第10集
 Dialogue: 0,0:00:36.72,0:00:39.52,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}以及揭露不为人知的真相\N{\fnArial\fs48}And also to expose the truth.
 Dialogue: 0,0:00:39.52,0:00:43.95,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}大多数人选择忽视我的劲爆性揭露\N{\fnArial\fs48}Most people choose to ignore my mind-blowing revelations.
+Dialogue: 600,0:00:39.52,0:00:43.95,Hint,,0,0,0,,{\pos(960,50)}此处布景致敬著名脱口秀《蕨间访谈》
 Dialogue: 0,0:00:43.96,0:00:47.22,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但没人能否认真相\N{\fnArial\fs48}But no one could deny it when the truth
 Dialogue: 0,0:00:47.23,0:00:51.86,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}尤其当真相糊了小镇居民一脸时\N{\fnArial\fs48}was pointing right in the town's collective face.
 Dialogue: 1,0:00:51.86,0:01:02.07,Label Trans,,0,0,0,,{\pos(960,900)}真实影像
@@ -74,6 +77,7 @@ Dialogue: 500,0:01:07.40,0:01:13.22,Label Trans,,0,0,0,,{\fn隶书\fs96\c&H2E17D
 Dialogue: 500,0:01:08.30,0:01:13.22,Label Trans,,0,0,0,,{\fn隶书\fs96\c&H2E17D4&\frz5.926\bord0\shad0\pos(1250,498)}{\pos(1220,600)}木板路
 Dialogue: 500,0:01:09.10,0:01:13.22,Label Trans,,0,0,0,,{\fn隶书\fs64\c&HE9E9E9&\bord0\shad0\pos(962,764)}{\pos(960,790)}关于最危险的木板路的真相
 Dialogue: 500,0:01:11.30,0:01:13.22,Label Trans,,0,0,0,,{\fn隶书\fs48\c&HE9E9E9&\bord0\shad0\pos(960,930)}{\pos(960,960)}KBCW博客倾情制作 纪录片
+Dialogue: 600,0:01:11.30,0:01:13.22,Hint,,0,0,0,,{\pos(960,50)}千万不要学Ronaldo使用的标题字体哦！这种字体在三流剪辑爱好者手里已经用烂了
 Dialogue: 500,0:01:12.72,0:01:16.02,Label Trans,,0,0,0,,{\fn微软雅黑\fs64}呃...当时我在为一个大单子洗鱼\N{\fnArial\fs48}Eh, I was just cleaning up some fish for a very big order
 Dialogue: 0,0:01:14.36,0:01:17.36,Label Trans,,0,0,0,,{\bord0\shad0}{\pos(230,850)}法奶奶\N当地个体户
 Dialogue: 0,0:01:16.02,0:01:17.25,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}突然那发生了\N{\fnArial\fs48}when it happened.
@@ -110,6 +114,7 @@ Dialogue: 0,0:02:09.78,0:02:12.08,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:02:12.08,0:02:13.61,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}随着一个太空巨掌接近\N{\fnArial\fs48}With the space hand closing in
 Dialogue: 1,0:02:12.08,0:02:30.39,Label Trans,,0,0,0,,{\pos(960,900)}真实影像
 Dialogue: 0,0:02:13.61,0:02:15.65,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}进行第三类接触什么的\N{\fnArial\fs48}for a high-five of the third kind,
+Dialogue: 600,0:02:13.61,0:02:15.65,Hint,,0,0,0,,{\pos(960,50)}Ronaldo的话致敬著名科幻电影《第三类接触》
 Dialogue: 0,0:02:15.65,0:02:17.28,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们逃离了小镇\N{\fnArial\fs48}we fled the town.
 Dialogue: 0,0:02:17.28,0:02:20.89,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但接着，就像太空巨掌神秘的出现\N{\fnArial\fs48}But then, just as mysteriously as the space hand appeared,
 Dialogue: 0,0:02:20.89,0:02:23.42,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}它爆炸成一场爆炸了\N{\fnArial\fs48}it exploded into an explosion.
@@ -194,6 +199,7 @@ Dialogue: 0,0:04:59.78,0:05:01.31,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:05:01.31,0:05:03.38,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我是指我和水晶战士\N{\fnArial\fs48}I-I meant me and The Crystal Gems.
 Dialogue: 0,0:05:03.38,0:05:05.82,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}等等。所以巨掌并不是来抓人\N{\fnArial\fs48}Wait. So the hand wasn't here to snatch up humans
 Dialogue: 0,0:05:05.82,0:05:07.25,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}组建人类动物园？\N{\fnArial\fs48}for a human zoo?
+Dialogue: 600,0:05:05.82,0:05:07.25,Hint,,0,0,0,,{\pos(960,50)}Ronaldo立Flag的水平真是超一流啊
 Dialogue: 0,0:05:07.25,0:05:09.92,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}或者干预我们有补贴的沙滩市风力电厂？\N{\fnArial\fs48}Or interfere with our subsidized Beach City wind farm?
 Dialogue: 0,0:05:09.92,0:05:13.09,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}或者解冻“1%”的冷冻宠物\N{\fnArial\fs48}Or thaw the cryogenically frozen pets of the one percent?!
 Dialogue: 0,0:05:13.09,0:05:15.46,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃...不，我很确定\N{\fnArial\fs48}Uh... No, I'm pretty sure
@@ -219,6 +225,7 @@ Dialogue: 1,0:05:57.04,0:06:00.04,Label Trans,,0,0,0,,{\bord0\shad0}{\pos(260,85
 Dialogue: 0,0:05:58.30,0:06:00.00,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你对水晶战士\N{\fnArial\fs48}How do you feel about The Crystal Gems
 Dialogue: 0,0:06:00.01,0:06:02.34,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}吸引危险外星生物袭击的事有什么看法？\N{\fnArial\fs48}attracting an onslaught of dangerous space beings?
 Dialogue: 0,0:06:02.34,0:06:03.54,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你感觉安全吗？\N{\fnArial\fs48}Do you feel safe?
+Dialogue: 600,0:06:03.54,0:06:05.04,Hint,,0,0,0,,{\pos(960,50)}此处洋葱头的举动影射了很多动画节目中寡言角色在规避对话时的举动
 Dialogue: 0,0:06:04.98,0:06:07.28,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}嘿！你不可能永远保持沉默！\N{\fnArial\fs48}Hey! You can't keep quiet forever!
 Dialogue: 0,0:06:07.28,0:06:11.32,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你怎么能安然生活，明知我们正遭受\N{\fnArial\fs48}How can you possibly go on, knowing that we are under siege
 Dialogue: 1,0:06:07.28,0:06:10.28,Label Trans,,0,0,0,,{\bord0\shad0}{\pos(1600,850)}爸爸\N监制人
@@ -246,7 +253,8 @@ Dialogue: 0,0:06:58.60,0:06:59.90,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:06:59.90,0:07:02.17,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}啊啊啊！\N{\fnArial\fs48} Aaah!
 Dialogue: 0,0:07:02.17,0:07:03.40,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}啊啊啊！\N{\fnArial\fs48}Aaaah!
 Dialogue: 0,0:07:03.40,0:07:04.94,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}回去，弟弟！\N{\fnArial\fs48}Stay back, little bro!
-Dialogue: 0,0:07:04.94,0:07:06.34,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}比比谁先回到打斗区\N{\fnArial\fs48}Race you back to the danger zone.
+Dialogue: 0,0:07:04.94,0:07:06.34,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}比比谁先回到危险区\N{\fnArial\fs48}Race you back to the danger zone.
+Dialogue: 600,0:07:04.94,0:07:06.34,Hint,,0,0,0,,{\pos(960,50)}Amethyst的话源自电影《壮志凌云》主题曲
 Dialogue: 0,0:07:06.34,0:07:08.04,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}等等！-史蒂文！\N{\fnArial\fs48}Wait up! Steven!
 Dialogue: 0,0:07:08.04,0:07:10.17,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃，嘿，罗尔纳多。嘿，佩迪\N{\fnArial\fs48}Uh, hey, Ronaldo. Hey, peedee.
 Dialogue: 0,0:07:10.18,0:07:11.94,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你们应该小心-\N{\fnArial\fs48}You guys should be careful --
@@ -342,7 +350,8 @@ Dialogue: 0,0:10:39.59,0:10:41.92,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:10:41.92,0:10:43.59,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}看！\N{\fnArial\fs48}See?
 Dialogue: 0,0:10:43.59,0:10:44.82,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}嗯\N{\fnArial\fs48}Hmm.
 Dialogue: 0,0:10:46.26,0:10:47.82,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}赞\N{\fnArial\fs48}Click.
-Dialogue: 0,0:10:49.50,0:10:52.30,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}如果我可以做到\N{\fnArial\fs48}♪ If I could begin to be
+Dialogue: 600,0:10:47.82,0:10:49.57,Hint,,0,0,0,,{\pos(960,100)}整部纪录片的风格与国外九十年代早期“标题党”调查节目（UFO，大脚怪...）类似\N视频剪辑特效像是来自WinXP与Vista自带的Windows Movie Maker
+Dialogue: 0,0:10:49.57,0:10:52.30,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}如果我可以做到\N{\fnArial\fs48}♪ If I could begin to be
 Dialogue: 0,0:10:52.40,0:10:55.47,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}你对我期望的一半\N{\fnArial\fs48}♪ half of what you think of me
 Dialogue: 0,0:10:55.47,0:10:57.45,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我愿意做任何事\N{\fnArial\fs48}♪ I could do about anything
 Dialogue: 0,0:10:57.55,0:11:02.50,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我愿学会像你一样，去爱\N{\fnArial\fs48}♪ I could even learn how to love like you ♪

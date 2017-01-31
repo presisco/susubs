@@ -16,8 +16,9 @@ Video File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E11.Keeping.It.
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Active Line: 12
-Video Position: 564
+Scroll Position: 157
+Active Line: 172
+Video Position: 11895
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -29,6 +30,7 @@ Style: SU Team Member,幼圆,36,&H00A98B79,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,-1,0
 Style: SU Team Title,幼圆,32,&H00B394E1,&H00FFFFFF,&H00FFFFFF,&H00DBE0C9,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: Song Lyrics Text,华文楷体,20,&H00EAEAEA,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: SU Team Background,Arial,20,&H00E8E8E8,&H000000FF,&H00000000,&H00DDE1C7,0,0,0,0,100,100,0,0,1,0,2,2,10,10,10,1
+Style: Hint,微软雅黑,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -44,7 +46,7 @@ Dialogue: 0,0:00:17.95,0:00:18.75,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64
 Dialogue: 0,0:00:18.75,0:00:19.82,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}紫晶\N{\fnArial\fs48}Amethyst: ♪ Amethyst
 Dialogue: 0,0:00:19.82,0:00:21.35,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}和珍珠\N{\fnArial\fs48}Pearl: ♪ and Pearl
 Dialogue: 0,0:00:21.36,0:00:23.06,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}和史蒂文！\N{\fnArial\fs48}and Steven!
-Dialogue: 1,0:00:23.49,0:00:24.94,SU Title,,0,0,0,,{\pos(1150,150)\xshad-0\yshad16}在一起
+Dialogue: 1,0:00:23.49,0:00:24.94,SU Title,,0,0,0,,{\xshad-0\yshad16\pos(1141,181)}在一起
 Dialogue: 1,0:00:24.94,0:00:26.34,SU Team Title,,0,0,0,,{\pos(1700,360)}翻译
 Dialogue: 1,0:00:24.94,0:00:26.34,SU Team Member,,0,0,0,,{\pos(1700,410)}零玖/presisco
 Dialogue: 1,0:00:24.94,0:00:26.34,SU Team Title,,0,0,0,,{\pos(1700,460)}校对
@@ -71,7 +73,6 @@ Dialogue: 0,0:01:01.96,0:01:03.73,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:01:03.73,0:01:05.07,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}嘿！\N{\fnArial\fs48}Hey!
 Dialogue: 0,0:01:05.07,0:01:08.90,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我是个有教养的半人，不谢！\N{\fnArial\fs48}I'm a civilified part-human, thank you very much.
 Dialogue: 0,0:01:08.91,0:01:10.74,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}衣服是必需品\N{\fnArial\fs48}Clothing is a must.
-Dialogue: 0,0:01:10.74,0:01:12.11,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Hmm.
 Dialogue: 0,0:01:12.11,0:01:13.94,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}有点多啊\N{\fnArial\fs48}This {\i1}is{\i} a lot.
 Dialogue: 0,0:01:13.94,0:01:16.28,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我打赌如果红宝石和蓝宝石在的话\N{\fnArial\fs48}I bet this folding would go faster
 Dialogue: 0,0:01:16.28,0:01:18.48,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}叠起来一定会更快的\N{\fnArial\fs48}if Ruby and Sapphire were here.
@@ -83,7 +84,6 @@ Dialogue: 0,0:01:26.59,0:01:29.09,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:01:29.09,0:01:30.66,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们不是她的首要目标\N{\fnArial\fs48}{\i1}We{\i} weren't her priority.
 Dialogue: 0,0:01:30.66,0:01:33.26,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}她被派来完成幼儿园的工作\N{\fnArial\fs48}She was sent here to do something in the kindergarten.
 Dialogue: 0,0:01:33.26,0:01:36.43,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你觉得她还会尝试重启幼儿园？\N{\fnArial\fs48}Do you think she's still going to try to reactivate it?
-Dialogue: 0,0:01:36.43,0:01:37.97,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Mm.
 Dialogue: 0,0:01:37.97,0:01:40.94,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}如果她重启成功了，注射器会重新工作的\N{\fnArial\fs48}If she gets it up and running, the injectors will turn back on.
 Dialogue: 0,0:01:40.94,0:01:42.70,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}注...射器？\N{\fnArial\fs48}In...Jectors?
 Dialogue: 0,0:01:42.71,0:01:43.94,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}那...那是什么？\N{\fnArial\fs48}W-what are those?
@@ -114,12 +114,9 @@ Dialogue: 0,0:02:52.71,0:02:55.04,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:02:55.04,0:02:56.38,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你说的对\N{\fnArial\fs48}You're right.
 Dialogue: 0,0:02:56.38,0:02:58.61,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但只是因为橄榄石还没来这里\N{\fnArial\fs48}But just because Peridot hasn't been here yet
 Dialogue: 0,0:02:58.61,0:03:00.41,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}不意味着她不会来\N{\fnArial\fs48}doesn't mean she won't come.
-Dialogue: 0,0:03:00.42,0:03:01.62,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Hm.
 Dialogue: 0,0:03:01.62,0:03:03.45,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们来对场地做个仔细的检查\N{\fnArial\fs48}Let's do a thorough check of the perimeter.
 Dialogue: 0,0:03:03.45,0:03:06.19,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这样，我们能监视任何将来进入的人\N{\fnArial\fs48}Mm-hmm. That way, we can monitor any future entry.
 Dialogue: 0,0:03:06.19,0:03:08.29,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我觉得不错\N{\fnArial\fs48}Hm. Sounds good to me.
-Dialogue: 0,0:03:08.29,0:03:11.53,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Mm, mmm, mm, mmm, mm, mmm,
-Dialogue: 0,0:03:11.53,0:03:16.93,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}mm, mmm, mm, mmm, mm, mmm, mm, mmm, mm...
 Dialogue: 0,0:03:21.54,0:03:25.37,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}记录日期 陆 贰 伍。我是橄榄石\N{\fnArial\fs48}Log date 652. This is Peridot.
 Dialogue: 0,0:03:25.37,0:03:29.38,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}更新状态——仍在被困在这可悲的星球上\N{\fnArial\fs48}Updating status -- still stuck on miserable planet.
 Dialogue: 0,0:03:29.38,0:03:32.25,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}融合实验的进展十分顺利\N{\fnArial\fs48}The fusion experiments are developing properly.
@@ -167,7 +164,6 @@ Dialogue: 0,0:05:39.18,0:05:40.61,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:05:40.61,0:05:43.18,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}会产生1+1>2的效果\N{\fnArial\fs48}it creates something greater than the sum of their parts.
 Dialogue: 0,0:05:43.18,0:05:45.35,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这就是我如此炫酷掉渣天的原因\N{\fnArial\fs48}That's why I'm so great.
 Dialogue: 0,0:05:45.35,0:05:47.05,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}一直保持合体的感觉——\N{\fnArial\fs48}What's it like to stay fused all the --
-Dialogue: 0,0:05:47.05,0:05:48.42,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}whoa.
 Dialogue: 0,0:05:51.92,0:05:54.72,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}不知为何，这里感觉更瘆人\N{\fnArial\fs48}I don't know how, but this place is even creepier
 Dialogue: 0,0:05:54.72,0:05:56.69,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}相比我们上次来的时候\N{\fnArial\fs48}than the last time we were here.
 Dialogue: 0,0:05:56.69,0:06:00.19,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}对。显然有什么秘密\N{\fnArial\fs48}Yes. There's something going on.
@@ -178,7 +174,6 @@ Dialogue: 0,0:06:07.24,0:06:09.37,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:06:14.88,0:06:16.61,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}石榴？\N{\fnArial\fs48}Garnet?
 Dialogue: 0,0:06:25.39,0:06:28.82,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这里...不止我们吧？\N{\fnArial\fs48}Is there... Something in there?
 Dialogue: 0,0:06:35.56,0:06:36.70,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}啊！\N{\fnArial\fs48}Aah!
-Dialogue: 0,0:06:38.27,0:06:40.03,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Whoa!
 Dialogue: 0,0:06:44.07,0:06:45.27,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}它们是什么？\N{\fnArial\fs48}What are they?
 Dialogue: 0,0:06:45.27,0:06:47.31,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}啊啊啊！\N{\fnArial\fs48}Aaah!
 Dialogue: 0,0:06:47.31,0:06:49.34,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这是什么？\N{\fnArial\fs48}What is it?
@@ -187,10 +182,10 @@ Dialogue: 0,0:06:52.98,0:06:54.15,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:06:58.59,0:07:00.49,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}其它的都这样？\N{\fnArial\fs48}Is that what all these things are?
 Dialogue: 0,0:07:00.49,0:07:02.76,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}宝石...拼到一起？\N{\fnArial\fs48}Gems...Stuck together?
 Dialogue: 0,0:07:02.76,0:07:03.79,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}啊啊！\N{\fnArial\fs48}Aah!
+Dialogue: 600,0:07:02.76,0:07:03.79,Hint,,0,0,0,,{\pos(960,50)}这张脸源自七八十年代动画中常见的吃惊脸
 Dialogue: 0,0:07:03.79,0:07:04.69,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}石榴？\N{\fnArial\fs48}Garnet?
 Dialogue: 0,0:07:06.09,0:07:07.19,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}那是什么？\N{\fnArial\fs48}What was that?
 Dialogue: 0,0:07:07.20,0:07:08.43,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}啊！\N{\fnArial\fs48}Aah!
-Dialogue: 0,0:07:30.15,0:07:31.29,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Mnh-mnh.
 Dialogue: 0,0:07:31.29,0:07:32.45,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}石榴？\N{\fnArial\fs48}Garnet?
 Dialogue: 0,0:07:32.45,0:07:34.15,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃...石榴！\N{\fnArial\fs48}Uh...Garnet!
 Dialogue: 0,0:07:34.16,0:07:35.72,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们该怎么办？\N{\fnArial\fs48}What do we do?!
@@ -210,18 +205,18 @@ Dialogue: 0,0:08:06.99,0:08:08.39,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:08:08.39,0:08:09.49,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}石榴！\N{\fnArial\fs48}Garnet!
 Dialogue: 0,0:08:10.93,0:08:11.86,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}石榴！\N{\fnArial\fs48}Garnet!
 Dialogue: 0,0:08:11.86,0:08:14.36,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}求求你！到底怎么了？！\N{\fnArial\fs48}Please! What's the matter?!
+Dialogue: 600,0:08:23.50,0:08:24.35,Hint,,0,0,0,,{\pos(960,50)}此处怪物眼睛的样式与第十使徒和《交响诗篇》的Antibody Coralians类似
 Dialogue: 0,0:08:14.36,0:08:16.16,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这一点也不像你！\N{\fnArial\fs48}This isn't like you!
 Dialogue: 0,0:08:34.45,0:08:36.15,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们做到了！\N{\fnArial\fs48}We did it!
 Dialogue: 0,0:08:37.05,0:08:38.19,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}石榴？\N{\fnArial\fs48}Garnet?
-Dialogue: 0,0:08:38.19,0:08:41.05,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}所以，这就是母世界看待融合体的态度\N{\fnArial\fs48}So, this is what homeworld thinks of fusion.
-Dialogue: 0,0:08:41.06,0:08:42.86,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们当时不可能知道她们会这么做\N{\fnArial\fs48}We couldn't have known they would do this.
-Dialogue: 0,0:08:42.86,0:08:45.86,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}她们原来在这里——所有我们找不到的人\N{\fnArial\fs48}This is where they've been -- all the ones we couldn't find.
-Dialogue: 0,0:08:45.86,0:08:47.69,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}她们一直都是这样\N{\fnArial\fs48}They've been here the whole time!
-Dialogue: 0,0:08:47.70,0:08:49.06,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}玫瑰不可能知道\N{\fnArial\fs48}Rose couldn't have known.
-Dialogue: 0,0:08:49.06,0:08:50.93,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这是对叛乱的惩罚！这不是我们的错！\N{\fnArial\fs48}This was punishment for the rebellion! It's not our fault!
+Dialogue: 100,0:08:38.19,0:08:41.05,Normal Dialog Text,Ruby,0,0,0,,{\fn微软雅黑\fs64\c&H5500DA&\3c&HFFFFFF&\bord3}所以，这就是母世界看待融合体的态度\N{\fnArial\fs48}So, this is what homeworld thinks of fusion.
+Dialogue: 100,0:08:41.06,0:08:42.86,Normal Dialog Text,Sapphire,0,0,0,,{\fn微软雅黑\fs64\c&HF8732E&\3c&HFFFFFF&\bord3}我们当时不可能知道她们会这么做\N{\fnArial\fs48}We couldn't have known they would do this.
+Dialogue: 100,0:08:42.86,0:08:45.86,Normal Dialog Text,Ruby,0,0,0,,{\fn微软雅黑\fs64\c&H5500DA&\3c&HFFFFFF&\bord3}她们原来在这里——所有我们找不到的人\N{\fnArial\fs48}This is where they've been -- all the ones we couldn't find.
+Dialogue: 100,0:08:45.86,0:08:47.69,Normal Dialog Text,Ruby,0,0,0,,{\fn微软雅黑\fs64\c&H5500DA&\3c&HFFFFFF&\bord3}她们一直都是这样\N{\fnArial\fs48}They've been here the whole time!
+Dialogue: 100,0:08:47.70,0:08:49.06,Normal Dialog Text,Sapphire,0,0,0,,{\fn微软雅黑\fs64\c&HF8732E&\3c&HFFFFFF&\bord3}玫瑰不可能知道\N{\fnArial\fs48}Rose couldn't have known.
+Dialogue: 100,0:08:49.06,0:08:50.93,Normal Dialog Text,Ruby,0,0,0,,{\fn微软雅黑\fs64\c&H5500DA&\3c&HFFFFFF&\bord3}这是对叛乱的惩罚！这不是我们的错！\N{\fnArial\fs48}This was punishment for the rebellion! It's not our fault!
 Dialogue: 0,0:08:53.14,0:08:54.03,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}石榴！\N{\fnArial\fs48}Garnet!
 Dialogue: 0,0:08:56.10,0:08:57.20,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}史-史蒂文\N{\fnArial\fs48}S-Steven.
-Dialogue: 0,0:08:57.21,0:08:58.54,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Yo.
 Dialogue: 0,0:08:58.54,0:08:59.61,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们回来了\N{\fnArial\fs48}We're back.
 Dialogue: 0,0:08:59.61,0:09:01.41,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}石榴，我们跟丢了橄榄石\N{\fnArial\fs48}Garnet, we lost Peridot.
 Dialogue: 0,0:09:01.41,0:09:03.94,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}她的手指对我们来说太快了\N{\fnArial\fs48}Her fingers were too fast for us.

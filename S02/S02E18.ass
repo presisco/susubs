@@ -54,7 +54,7 @@ Dialogue: 1,0:00:27.61,0:00:28.97,SU Team Member,,0,0,0,,{\pos(1700,510)\bord0\s
 Dialogue: 1,0:00:27.61,0:00:28.97,SU Team Title,,0,0,0,,{\pos(1700,560)\bord0\shad0\c&HB394E1&}特效
 Dialogue: 1,0:00:27.61,0:00:28.97,SU Team Member,,0,0,0,,{\pos(1700,610)\bord0\shad0\c&HA98B79&}presisco
 Dialogue: 1,0:00:27.61,0:00:28.97,SU Team Title,,0,0,0,,{\pos(1700,660)\bord0\shad0\c&HB394E1&}压制
-Dialogue: 1,0:00:27.61,0:00:28.97,SU Team Member,,0,0,0,,{\pos(1700,710)\bord0\shad0\c&HA98B79&}
+Dialogue: 1,0:00:27.61,0:00:28.97,SU Team Member,,0,0,0,,{\pos(1700,710)\bord0\shad0\c&HA98B79&}presisco
 Dialogue: 0,0:00:27.61,0:00:28.97,SU Team Background,,0,0,0,,{\pos(1744,776)\bord0\xshad-0\yshad16\c&HFCFCFC&\4c&HEEF3D7}{\p1}m 72 0 b -46 0 -46 170 72 170 l 115 170 b -37 149 -36 374 115 344 l 72 344 b -46 344 -46 514 72 514 l 285 514 b 394 514 419 323 285 344 l 328 344 l 328 344 b 433 344 433 170 328 170 l 285 170 l 285 170 b 419 191 419 1 285 1 l 72 0 {\p0}
 Dialogue: 100,0:00:29.72,0:00:31.54,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}愚蠢破烂损坏传送台\N{\fnArial\fs48}Stupid broken warp.
 Dialogue: 100,0:00:31.90,0:00:33.38,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}先是通讯中枢\N{\fnArial\fs48}First the communication hub.

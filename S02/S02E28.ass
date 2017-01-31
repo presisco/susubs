@@ -15,8 +15,7 @@ Video File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E28.Message.Rec
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 93
-Active Line: 107
+Active Line: 20
 Video Position: 5332
 
 [V4+ Styles]
@@ -54,7 +53,7 @@ Dialogue: 1,0:00:25.31,0:00:26.67,SU Team Member,,0,0,0,,{\pos(1700,510)\bord0\s
 Dialogue: 1,0:00:25.31,0:00:26.67,SU Team Title,,0,0,0,,{\pos(1700,560)\bord0\shad0\c&HC78E95&}特效
 Dialogue: 1,0:00:25.31,0:00:26.67,SU Team Member,,0,0,0,,{\pos(1700,610)\bord0\shad0\c&H99710F&}presisco
 Dialogue: 1,0:00:25.31,0:00:26.67,SU Team Title,,0,0,0,,{\pos(1700,660)\bord0\shad0\c&HC78E95&}压制
-Dialogue: 1,0:00:25.31,0:00:26.67,SU Team Member,,0,0,0,,{\pos(1700,710)\bord0\shad0\c&H99710F&}
+Dialogue: 1,0:00:25.31,0:00:26.67,SU Team Member,,0,0,0,,{\pos(1700,710)\bord0\shad0\c&H99710F&}presisco
 Dialogue: 0,0:00:25.31,0:00:26.67,SU Team Background,,0,0,0,,{\pos(1744,776)\bord0\xshad-0\yshad16\c&HFCFCFC&\4c&HFDECBF&}{\p1}m 72 0 b -46 0 -46 170 72 170 l 115 170 b -37 149 -36 374 115 344 l 72 344 b -46 344 -46 514 72 514 l 285 514 b 394 514 419 323 285 344 l 328 344 l 328 344 b 433 344 433 170 328 170 l 285 170 l 285 170 b 419 191 419 1 285 1 l 72 0 {\p0}
 Dialogue: 100,0:00:27.44,0:00:29.53,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}还要多久我们才能使用钻头？\N{\fnArial\fs48}How much longer till we can use the drill?
 Dialogue: 100,0:00:30.02,0:00:32.84,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}其实，有了我们从月球基地得到的新的坐标，\N{\fnArial\fs48}Well, with the new coordinates we got from the moonbase,
@@ -87,7 +86,7 @@ Dialogue: 100,0:01:27.55,0:01:30.48,Normal Dialog Text,General,0,0,0,,{\fn微软
 Dialogue: 100,0:01:30.73,0:01:31.17,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}啊？\N{\fnArial\fs48}What?
 Dialogue: 100,0:01:32.60,0:01:34.06,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}啊啊，不！\N{\fnArial\fs48}Aah, no!
 Dialogue: 100,0:01:34.55,0:01:35.93,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}别挣扎了！\N{\fnArial\fs48}Save your strength!
-Dialogue: 100,0:01:36.17,0:01:37.37,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}你面对的是地球\N{\fnArial\fs48}You're up against one of the earth's 
+Dialogue: 100,0:01:36.17,0:01:37.37,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}你面对的是地球\N{\fnArial\fs48}You're up against one of the earth's
 Dialogue: 100,0:01:37.37,0:01:39.02,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}最伟大的囚禁技术之一-\N{\fnArial\fs48}greatest trapping technologies --
 Dialogue: 100,0:01:39.26,0:01:41.26,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}儿童安全锁！\N{\fnArial\fs48}the child safety lock!
 Dialogue: 100,0:01:42.64,0:01:43.80,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}不！不！\N{\fnArial\fs48}No! No!

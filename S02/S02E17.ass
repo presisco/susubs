@@ -15,8 +15,7 @@ Video File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E17.Historical.
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 198
-Active Line: 210
+Active Line: 20
 Video Position: 10485
 
 [V4+ Styles]
@@ -54,7 +53,7 @@ Dialogue: 1,0:00:27.30,0:00:28.66,SU Team Member,,0,0,0,,{\pos(1700,510)\bord0\s
 Dialogue: 1,0:00:27.30,0:00:28.66,SU Team Title,,0,0,0,,{\pos(1700,560)\bord0\shad0\c&HB394E1&}特效
 Dialogue: 1,0:00:27.30,0:00:28.66,SU Team Member,,0,0,0,,{\pos(1700,610)\bord0\shad0\c&HA98B79&}presisco
 Dialogue: 1,0:00:27.30,0:00:28.66,SU Team Title,,0,0,0,,{\pos(1700,660)\bord0\shad0\c&HB394E1&}压制
-Dialogue: 1,0:00:27.30,0:00:28.66,SU Team Member,,0,0,0,,{\pos(1700,710)\bord0\shad0\c&HA98B79&}
+Dialogue: 1,0:00:27.30,0:00:28.66,SU Team Member,,0,0,0,,{\pos(1700,710)\bord0\shad0\c&HA98B79&}presisco
 Dialogue: 0,0:00:27.30,0:00:28.66,SU Team Background,,0,0,0,,{\pos(1744,776)\bord0\xshad-0\yshad16\c&HFCFCFC&\4c&HEEF3D7}{\p1}m 72 0 b -46 0 -46 170 72 170 l 115 170 b -37 149 -36 374 115 344 l 72 344 b -46 344 -46 514 72 514 l 285 514 b 394 514 419 323 285 344 l 328 344 l 328 344 b 433 344 433 170 328 170 l 285 170 l 285 170 b 419 191 419 1 285 1 l 72 0 {\p0}
 Dialogue: 100,0:00:29.21,0:00:30.80,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}史蒂文！\N{\fnArial\fs48}Steven.
 Dialogue: 100,0:00:30.80,0:00:32.38,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}杰米！\N{\fnArial\fs48}Jamie.
@@ -79,7 +78,7 @@ Dialogue: 100,0:01:09.04,0:01:11.08,Normal Dialog Text,General,0,0,0,,{\fn微软
 Dialogue: 100,0:01:11.32,0:01:13.66,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}但是，嘿，有的戏只有一个演员，\N{\fnArial\fs48}But, hey, some plays only have one person in them,
 Dialogue: 100,0:01:13.66,0:01:16.34,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}所以我们的阵容可大了一倍哦\N{\fnArial\fs48}so we're already in 200% better shape than that.
 Dialogue: 100,0:01:16.58,0:01:18.78,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}你数学是体育老师教的吧...\N{\fnArial\fs48}That sounds like some strange math...
-Dialogue: 100,0:01:19.04,0:01:19.76,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}但我准备好了\N{\fnArial\fs48}But I'm ready. 
+Dialogue: 100,0:01:19.04,0:01:19.76,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}但我准备好了\N{\fnArial\fs48}But I'm ready.
 Dialogue: 100,0:01:19.92,0:01:20.26,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}好极了\N{\fnArial\fs48}Great.
 Dialogue: 100,0:01:20.74,0:01:21.72,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}这是一份剧本\N{\fnArial\fs48}Here's a copy of the script.
 Dialogue: 100,0:01:22.13,0:01:25.64,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}《沙滩小镇或铩羽而归-威廉·杜威传》\N{\fnArial\fs48}"Beach City or bust: The tale of William Dewey."
@@ -129,7 +128,7 @@ Dialogue: 100,0:03:04.56,0:03:06.94,Normal Dialog Text,General,0,0,0,,{\fn微软
 Dialogue: 100,0:03:07.32,0:03:07.90,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}剧终\N{\fnArial\fs48}The end.
 Dialogue: 100,0:03:08.38,0:03:10.64,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}哇，杜威市长，这个剧本太棒了！\N{\fnArial\fs48}Wow, mayor Dewey. That was really good.
 Dialogue: 100,0:03:11.28,0:03:11.66,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}那当然\N{\fnArial\fs48}Yeah.
-Dialogue: 100,0:03:12.00,0:03:13.26,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}威廉·杜威其实是个...\N{\fnArial\fs48}William Dewey is a really, 
+Dialogue: 100,0:03:12.00,0:03:13.26,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}威廉·杜威其实是个...\N{\fnArial\fs48}William Dewey is a really,
 Dialogue: 100,0:03:13.88,0:03:15.58,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}"好"，人物\N{\fnArial\fs48}good character...
 Dialogue: 100,0:03:15.92,0:03:18.88,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}但也许我们能发掘出威廉·杜威的另一面？\N{\fnArial\fs48}But maybe we could bring out another side of William Dewey?
 Dialogue: 100,0:03:19.32,0:03:20.72,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}他内心的，挣扎？\N{\fnArial\fs48}See his struggles?
@@ -137,10 +136,10 @@ Dialogue: 100,0:03:20.72,0:03:23.94,Normal Dialog Text,General,0,0,0,,{\fn微软
 Dialogue: 100,0:03:24.26,0:03:27.06,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}他做任何事都是一次成功-\N{\fnArial\fs48}He was good at everything on the first try --
 Dialogue: 100,0:03:27.06,0:03:29.28,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}就像我写的剧本\N{\fnArial\fs48}just like me when I wrote this play.
 Dialogue: 100,0:03:29.28,0:03:31.24,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}不用改任何一个字\N{\fnArial\fs48}Not a single word needs to be changed.
-Dialogue: 100,0:03:31.72,0:03:32.38,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}但，也许-\N{\fnArial\fs48}But maybe -- 
+Dialogue: 100,0:03:31.72,0:03:32.38,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}但，也许-\N{\fnArial\fs48}But maybe --
 Dialogue: 100,0:03:32.98,0:03:34.94,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}不要忘了是谁出的钱\N{\fnArial\fs48}Don't forget who's funding this.
 Dialogue: 100,0:03:35.36,0:03:37.26,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}那么，彩排的不错，先生们\N{\fnArial\fs48}Well, nice hustle, gentlemen.
-Dialogue: 100,0:03:37.26,0:03:38.03,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}坚持下去\N{\fnArial\fs48}Keep it up. 
+Dialogue: 100,0:03:37.26,0:03:38.03,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}坚持下去\N{\fnArial\fs48}Keep it up.
 Dialogue: 100,0:03:38.03,0:03:38.92,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}遵命\N{\fnArial\fs48}Aye, aye.
 Dialogue: 100,0:03:39.93,0:03:42.12,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}这会是场灾难\N{\fnArial\fs48}This is gonna be a disaster.
 Dialogue: 100,0:03:42.42,0:03:42.88,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}什么？\N{\fnArial\fs48}What?
@@ -215,7 +214,7 @@ Dialogue: 100,0:06:04.22,0:06:06.30,Normal Dialog Text,General,0,0,0,,{\fn微软
 Dialogue: 100,0:06:06.42,0:06:07.62,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}可-以吧\N{\fnArial\fs48}Okay...
 Dialogue: 100,0:06:07.86,0:06:10.50,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}哦，你造吗，我写的剧本呦\N{\fnArial\fs48}Oh, you know, I wrote this play.
 Dialogue: 100,0:06:15.58,0:06:18.04,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}我希望杜威市长不要对改动太过生气\N{\fnArial\fs48}I hope mayor Dewey isn't mad about the changes
-Dialogue: 100,0:06:18.24,0:06:19.32,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}走一步看一步吧\N{\fnArial\fs48}guess we'll have to see. 
+Dialogue: 100,0:06:18.24,0:06:19.32,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}走一步看一步吧\N{\fnArial\fs48}guess we'll have to see.
 Dialogue: 100,0:06:20.26,0:06:21.36,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}你紧张吗？\N{\fnArial\fs48}Are you nervous?
 Dialogue: 100,0:06:21.36,0:06:22.24,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}当然\N{\fnArial\fs48}Of course.
 Dialogue: 100,0:06:22.74,0:06:25.08,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}这对我的生涯至关重要\N{\fnArial\fs48}This could either make or break my career.
@@ -235,7 +234,7 @@ Dialogue: 100,0:06:50.99,0:06:53.09,Normal Dialog Text,General,0,0,0,,{\fn微软
 Dialogue: 100,0:06:53.09,0:06:55.20,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}但肯定我们会遇到什么的\N{\fnArial\fs48}but surely we'll run into something soon.
 Dialogue: 100,0:06:55.20,0:06:56.96,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}大海肯定没那么宽广吧？\N{\fnArial\fs48}The ocean can't be that big.
 Dialogue: 100,0:06:57.78,0:06:59.84,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}他在那，嗨，史蒂文\N{\fnArial\fs48}There he is. Hi, Steven.
-Dialogue: 100,0:07:00.24,0:07:02.33,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}你是如此的有才啊\N{\fnArial\fs48}You're so talented. 
+Dialogue: 100,0:07:00.24,0:07:02.33,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}你是如此的有才啊\N{\fnArial\fs48}You're so talented.
 Dialogue: 100,0:07:02.52,0:07:05.20,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}在我的老家我被称作“蠢蛋杜威”\N{\fnArial\fs48}Back home they called me "Dewey the dunce,"
 Dialogue: 600,0:07:02.52,0:07:05.20,Hint,,0,0,0,,{\pos(960,100)}此处可猜测威廉·杜威是以哥伦布为原型的——二者都来自于欧洲，都被家乡人蔑视，\N都发现了有原住民的大陆（水晶战士）
 Dialogue: 100,0:07:05.20,0:07:08.00,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}人们说我发现不了陆地，即使我就站在上面\N{\fnArial\fs48}said I couldn't find land even if I was standing on it.

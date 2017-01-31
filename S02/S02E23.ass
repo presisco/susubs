@@ -15,8 +15,7 @@ Video File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E23.Back.to.the
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 198
-Active Line: 203
+Active Line: 8
 Video Position: 13217
 
 [V4+ Styles]
@@ -42,7 +41,7 @@ Dialogue: 1,0:00:01.59,0:00:02.95,SU Team Member,,0,0,0,,{\pos(1700,510)\bord0\s
 Dialogue: 1,0:00:01.59,0:00:02.95,SU Team Title,,0,0,0,,{\pos(1700,560)\bord0\shad0\c&HB394E1&}特效
 Dialogue: 1,0:00:01.59,0:00:02.95,SU Team Member,,0,0,0,,{\pos(1700,610)\bord0\shad0\c&HA98B79&}presisco
 Dialogue: 1,0:00:01.59,0:00:02.95,SU Team Title,,0,0,0,,{\pos(1700,660)\bord0\shad0\c&HB394E1&}压制
-Dialogue: 1,0:00:01.59,0:00:02.95,SU Team Member,,0,0,0,,{\pos(1700,710)\bord0\shad0\c&HA98B79&}
+Dialogue: 1,0:00:01.59,0:00:02.95,SU Team Member,,0,0,0,,{\pos(1700,710)\bord0\shad0\c&HA98B79&}presisco
 Dialogue: 0,0:00:01.59,0:00:02.95,SU Team Background,,0,0,0,,{\pos(1744,776)\bord0\xshad-0\yshad16\c&HFCFCFC&\4c&HEEF3D7}{\p1}m 72 0 b -46 0 -46 170 72 170 l 115 170 b -37 149 -36 374 115 344 l 72 344 b -46 344 -46 514 72 514 l 285 514 b 394 514 419 323 285 344 l 328 344 l 328 344 b 433 344 433 170 328 170 l 285 170 l 285 170 b 419 191 419 1 285 1 l 72 0 {\p0}
 Dialogue: 100,0:00:04.85,0:00:07.64,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}既然看起来我别无选择，\N{\fnArial\fs48}As it seems I have no other options,
 Dialogue: 100,0:00:07.82,0:00:10.53,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}那我容许自己揭露一部分重要信息\N{\fnArial\fs48}I have conceded to reveal some important information
@@ -68,7 +67,7 @@ Dialogue: 100,0:00:58.35,0:01:00.17,Normal Dialog Text,General,0,0,0,,{\fn微软
 Dialogue: 100,0:01:00.31,0:01:01.08,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}但怎么做？\N{\fnArial\fs48}But how?
 Dialogue: 100,0:01:01.24,0:01:03.15,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}我们需要制造某种机器\N{\fnArial\fs48}We'll need to build some sort of machine
 Dialogue: 100,0:01:03.15,0:01:04.71,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}携带我们前往地球中心\N{\fnArial\fs48}to take us to the center of the earth.
-Dialogue: 100,0:01:04.94,0:01:05.50,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}它必须-\N{\fnArial\fs48}It'll have to -- 
+Dialogue: 100,0:01:04.94,0:01:05.50,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}它必须-\N{\fnArial\fs48}It'll have to --
 Dialogue: 100,0:01:05.50,0:01:06.33,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}嘿！\N{\fnArial\fs48}Hey!
 Dialogue: 100,0:01:06.33,0:01:08.13,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}我还没说完呢\N{\fnArial\fs48}I wasn't finished speaking.
 Dialogue: 100,0:01:08.55,0:01:11.35,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}我们需要做的是制造某种机器\N{\fnArial\fs48}What we need is to build some sort of machine
@@ -114,7 +113,7 @@ Dialogue: 100,0:02:42.31,0:02:44.91,Normal Dialog Text,General,0,0,0,,{\fn微软
 Dialogue: 100,0:02:45.11,0:02:46.51,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}够了！\N{\fnArial\fs48}That's enough!
 Dialogue: 100,0:02:46.64,0:02:48.11,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}如果我们要一起工作的话，\N{\fnArial\fs48}If we're going to work together,
 Dialogue: 100,0:02:48.11,0:02:49.51,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}你得听我的\N{\fnArial\fs48}you're going to have to listen to me.
-Dialogue: 100,0:02:49.66,0:02:51.00,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}听你的？\N{\fnArial\fs48}Listen to you? 
+Dialogue: 100,0:02:49.66,0:02:51.00,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}听你的？\N{\fnArial\fs48}Listen to you?
 Dialogue: 100,0:02:53.48,0:02:55.35,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}是你教导她这么说话的？\N{\fnArial\fs48}Did you teach her to talk like this?
 Dialogue: 100,0:02:55.64,0:02:56.77,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}你在说什么啊？\N{\fnArial\fs48}What are you talking about?
 Dialogue: 100,0:02:57.09,0:02:58.57,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}她是个珍珠\N{\fnArial\fs48}She's a Pearl.
@@ -142,10 +141,10 @@ Dialogue: 100,0:03:46.28,0:03:48.60,Normal Dialog Text,General,0,0,0,,{\fn微软
 Dialogue: 100,0:03:48.60,0:03:50.44,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}喔，喔，等下，伙计们！\N{\fnArial\fs48}Whoa, whoa, hang on, guys!
 Dialogue: 100,0:03:50.44,0:03:53.17,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}现在，我们都能同意你们两个都擅长制造东西，\N{\fnArial\fs48}Now, we can all agree that you're both good at building things,
 Dialogue: 100,0:03:53.45,0:03:56.22,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}那么，你们就不能听一听对方的话吗？\N{\fnArial\fs48}so, can't you just try listening to each other?
-Dialogue: 100,0:03:56.45,0:03:57.31,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}不！\N{\fnArial\fs48}No! 
+Dialogue: 100,0:03:56.45,0:03:57.31,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}不！\N{\fnArial\fs48}No!
 Dialogue: 100,0:03:57.51,0:04:00.22,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}我造东西的水平和你一样好，甚至还更高些！\N{\fnArial\fs48}I'm as good at building things as you. Better, even!
 Dialogue: 100,0:04:00.22,0:04:02.66,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}哈！说一件你在工程学方面更好的事来！\N{\fnArial\fs48}Ha! Name one thing you could engineer better.
-Dialogue: 100,0:04:02.82,0:04:03.40,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}说啊！\N{\fnArial\fs48}Go on. 
+Dialogue: 100,0:04:02.82,0:04:03.40,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}说啊！\N{\fnArial\fs48}Go on.
 Dialogue: 100,0:04:03.60,0:04:04.26,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}机器人\N{\fnArial\fs48}Robots.
 Dialogue: 100,0:04:04.26,0:04:04.84,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}嗯？\N{\fnArial\fs48}Hmm?
 Dialogue: 100,0:04:05.08,0:04:08.84,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}你们该制造机器人-巨型机器人\N{\fnArial\fs48}You should build robots -- giant robots.
@@ -208,7 +207,7 @@ Dialogue: 100,0:07:43.08,0:07:44.37,Normal Dialog Text,General,0,0,0,,{\fn微软
 Dialogue: 100,0:07:44.77,0:07:46.04,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}我永远都比你强，\N{\fnArial\fs48}I'll always be better than you,
 Dialogue: 100,0:07:46.06,0:07:48.51,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}并且今天的所见所闻没一样能改变我的想法！\N{\fnArial\fs48}and nothing I've seen today will ever change that!
 Dialogue: 100,0:07:48.68,0:07:51.62,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}那么，你见过一个珍珠做这个嘛？\N{\fnArial\fs48}Well, have you ever seen a Pearl do this?
-Dialogue: 100,0:07:52.48,0:07:53.13,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}唔！\N{\fnArial\fs48}Oof! 
+Dialogue: 100,0:07:52.48,0:07:53.13,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}唔！\N{\fnArial\fs48}Oof!
 Dialogue: 100,0:07:54.57,0:07:56.64,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}那么，你想搞事情？\N{\fnArial\fs48}So, you want to fight?
 Dialogue: 100,0:07:57.13,0:07:57.60,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}好啊\N{\fnArial\fs48}Good.
 Dialogue: 100,0:07:57.91,0:07:59.44,Normal Dialog Text,General,0,0,0,,{\fn微软雅黑\fs64}我们一开始就该这么做！\N{\fnArial\fs48}We should have done this from the beginning!

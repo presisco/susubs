@@ -15,10 +15,10 @@ Audio File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E14.Cry.for.Hel
 Video File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E14.Cry.for.Help.1080p.WEBRip.h264.AAC-AliQ.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 136
-Active Line: 154
-Video Position: 9507
+Video Zoom Percent: 0.500000
+Scroll Position: 249
+Active Line: 252
+Video Position: 15195
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -30,6 +30,7 @@ Style: SU Team Member,幼圆,36,&H008C6FD9,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,-1,0
 Style: SU Team Title,幼圆,32,&H008198D2,&H00FFFFFF,&H00FFFFFF,&H00DBE0C9,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: SU Team Background,Arial,20,&H00E7E7E7,&H000000FF,&H00000000,&H00D0E2E9,0,0,0,0,100,100,0,0,1,0,4,2,10,10,10,1
 Style: Song Lyrics Text,华文楷体,20,&H00EAEAEA,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Hint,微软雅黑,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -106,7 +107,7 @@ Dialogue: 0,0:02:33.16,0:02:35.02,Default,,0,0,0,,{\fn微软雅黑\fs64}融合�
 Dialogue: 0,0:02:36.12,0:02:36.80,Default,,0,0,0,,{\fn微软雅黑\fs64}准备\N{\fnArial\fs48}Ready.
 Dialogue: 0,0:02:38.14,0:02:38.90,Default,,0,0,0,,{\fn微软雅黑\fs64}等等\N{\fnArial\fs48} Hang on.
 Dialogue: 0,0:02:39.29,0:02:41.00,Default,,0,0,0,,{\fn微软雅黑\fs64}恍如隔世啊\N{\fnArial\fs48}It's been such a long time.
-Dialogue: 0,0:02:43.00,0:02:45.00,Label Trans,,0,0,0,,{\pos(960,80)}此处舞蹈参考自韩国歌手sunmi（李宣美），同时与其歌曲Full Moon同步
+Dialogue: 600,0:02:43.00,0:02:45.00,Hint,,0,0,0,,{\pos(960,50)}此处舞蹈参考自韩国歌手sunmi（李宣美），同时与其歌曲Full Moon同步
 Dialogue: 0,0:03:10.88,0:03:13.64,Default,,0,0,0,,{\fn微软雅黑\fs64}观众们晚上好！\N{\fnArial\fs48}Good evening, everybody!
 Dialogue: 0,0:03:15.14,0:03:18.79,Default,,0,0,0,,{\fn微软雅黑\fs64}我是可爱的红玛瑙，\N{\fnArial\fs48}This is the lovely sardonyx, coming to you live
 Dialogue: 0,0:03:18.79,0:03:21.73,Default,,0,0,0,,{\fn微软雅黑\fs64}在即将彻底报废的通讯中枢为你现场直播\N{\fnArial\fs48}from the soon-to-be former communication hub.
@@ -176,7 +177,7 @@ Dialogue: 0,0:05:57.02,0:05:58.34,Default,,0,0,0,,{\fn微软雅黑\fs64}我们�
 Dialogue: 0,0:05:58.34,0:05:59.55,Default,,0,0,0,,{\fn微软雅黑\fs64}好\N{\fnArial\fs48} Right.
 Dialogue: 0,0:05:59.55,0:06:01.05,Default,,0,0,0,,{\fn微软雅黑\fs64}史蒂文，狮子呢？\N{\fnArial\fs48}Steven, where's Lion?
 Dialogue: 0,0:06:01.06,0:06:02.86,Default,,0,0,0,,{\fn微软雅黑\fs64}紫晶，把头从冰箱里收回来\N{\fnArial\fs48}Amethyst, get your head out of the fridge.
-Dialogue: 1,0:06:01.06,0:06:02.86,Label Trans,,0,0,0,,{\pos(960,70)}此处“MooMoo Milk”致敬Pokémon（口袋妖怪）系列中的同名饮料
+Dialogue: 600,0:06:01.06,0:06:02.86,Hint,,0,0,0,,{\pos(960,50)}此处“MooMoo Milk”致敬《口袋妖怪》系列中的同名饮料
 Dialogue: 0,0:06:02.86,0:06:03.90,Default,,0,0,0,,{\fn微软雅黑\fs64}出发吧，各位\N{\fnArial\fs48}Let's go, guys.
 Dialogue: 0,0:06:06.50,0:06:07.68,Default,,0,0,0,,{\fn微软雅黑\fs64}我希望你准备好了\N{\fnArial\fs48}I hope you're ready.
 Dialogue: 0,0:06:07.68,0:06:09.70,Default,,0,0,0,,{\fn微软雅黑\fs64}你知道的\N{\fnArial\fs48}You know I am.
@@ -285,7 +286,7 @@ Dialogue: 0,0:10:21.02,0:10:22.36,Default,,0,0,0,,{\fn微软雅黑\fs64}石榴..
 Dialogue: 0,0:10:22.72,0:10:24.62,Default,,0,0,0,,{\fn微软雅黑\fs64}紫晶，跟我融合\N{\fnArial\fs48}Amethyst, fuse with me.
 Dialogue: 0,0:10:24.62,0:10:25.65,Default,,0,0,0,,{\fn微软雅黑\fs64}但...\N{\fnArial\fs48}But...
 Dialogue: 0,0:10:25.65,0:10:28.45,Default,,0,0,0,,{\fn微软雅黑\fs64}让我们赶紧结束这一切吧\N{\fnArial\fs48}Let's just get this over with.
-Dialogue: 0,0:10:33.75,0:10:36.00,Label Trans,,0,0,0,,{\pos(960,140)}此处苏纪石的出拳动作受Popeye（大力水手）的Twister-Sock Punch与Super Smash Bros（任天堂全明星大乱斗）中Donkey Kong（大金刚）的Giant Punch启发
+Dialogue: 600,0:10:33.75,0:10:36.00,Hint,,0,0,0,,{\pos(960,50)}此处苏纪石的出拳动作受《大力水手》的Twister-Sock Punch与《任天堂全明星大乱斗》中大金刚的Giant Punch启发
 Dialogue: 0,0:10:44.61,0:10:46.91,Label Trans,,0,0,0,,{\fn微软雅黑\fs64}求求你原谅我吧\N{\fnArial\fs48}{\i1}Please forgive me.{\i}
 Dialogue: 0,0:10:46.91,0:10:48.94,Label Trans,,0,0,0,,{\fn微软雅黑\fs64}我当然会原谅你啦\N{\fnArial\fs48}{\i1}Of course I forgive you.{\i}
 Dialogue: 0,0:11:02.42,0:11:03.92,Default,,0,0,0,,{\fn微软雅黑\fs64}我的天\N{\fnArial\fs48}Man.
