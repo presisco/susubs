@@ -32,7 +32,7 @@ Style: Background Dialogue,微软雅黑,20,&H00FFFFFF,&H000000FF,&H00000000,&H00
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 1,0:00:00.00,0:00:01.49,SU Title,,0,0,0,,{\bord8\xshad8\yshad8\c&H705322&\3c&HFDFDFB&\4c&HEEF4D7&\pos(1154,178)}请替换
+Dialogue: 1,0:00:00.00,0:00:01.49,SU Title,,0,0,0,,{\bord8\xshad8\yshad8\c&H705322&\3c&HFCFCFC&\4c&HEEF4D7&\pos(1154,178)}请替换
 Dialogue: 1,0:00:01.49,0:00:02.85,SU Team Title,,0,0,0,,{\pos(1700,360)\bord0\shad0\c&HB79D9A&}翻译
 Dialogue: 1,0:00:01.49,0:00:02.85,SU Team Member,,0,0,0,,{\pos(1700,410)\bord0\shad0\c&H705322&}AAAA
 Dialogue: 1,0:00:01.49,0:00:02.85,SU Team Title,,0,0,0,,{\pos(1700,460)\bord0\shad0\c&HB79D9A&}校对
