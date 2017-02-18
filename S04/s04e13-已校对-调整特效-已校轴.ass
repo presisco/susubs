@@ -17,8 +17,7 @@ Video File: ../../../Steven.Universe/S04/Steven.Universe.S04E13.The.Zoo.1080p.WE
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 184
-Active Line: 188
+Active Line: 8
 Video Position: 11301
 
 [V4+ Styles]
@@ -42,7 +41,7 @@ Dialogue: 1,0:00:03.69,0:00:05.52,SU Team Member,,0,0,0,,{\pos(1700,500)\bord0\s
 Dialogue: 1,0:00:03.69,0:00:05.52,SU Team Title,,0,0,0,,{\pos(1700,560)\bord0\shad0\c&HBEA2A4&}特效
 Dialogue: 1,0:00:03.69,0:00:05.52,SU Team Member,,0,0,0,,{\pos(1700,600)\bord0\shad0\c&H986D0C&}presisco
 Dialogue: 1,0:00:03.69,0:00:05.52,SU Team Title,,0,0,0,,{\pos(1700,660)\bord0\shad0\c&HBEA2A4&}压制
-Dialogue: 1,0:00:03.69,0:00:05.52,SU Team Member,,0,0,0,,{\pos(1700,700)\bord0\shad0\c&H986D0C&}
+Dialogue: 1,0:00:03.69,0:00:05.52,SU Team Member,,0,0,0,,{\pos(1700,700)\bord0\shad0\c&H986D0C&}SG
 Dialogue: 0,0:00:03.69,0:00:05.52,SU Team Background,,0,0,0,,{\pos(1744,776)\bord0\xshad0\yshad16\c&HFCFCFC&\4c&HFCEBA5&}{\p1}m 72 0 b -46 0 -46 170 72 170 l 115 170 b -37 149 -36 374 115 344 l 72 344 b -46 344 -46 514 72 514 l 285 514 b 394 514 419 323 285 344 l 328 344 l 328 344 b 433 344 433 170 328 170 l 285 170 l 285 170 b 419 191 419 1 285 1 l 72 0 0{\p0}
 Dialogue: 0,0:00:12.58,0:00:13.86,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}我现在在哪?\N{\fnArial\fs48}Where am I now?
 Dialogue: 0,0:00:18.68,0:00:19.16,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}爸爸?\N{\fnArial\fs48}Dad?
