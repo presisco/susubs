@@ -1,0 +1,38 @@
+"content"={
+	"双语-默认"={
+		"layer"=(100)
+		"style"="Normal Dialog Text"
+		"text"="{\rCHS}*\N{\rENG}*"
+	}
+	"歌词-默认"={
+		"layer"=(150)
+		"style"="Song Lyrics Text"
+		"text"="{\rCHS_LYC}*\N{\rENG_LYC}*"
+	}
+	"画面内容翻译"={
+		"layer"="500"
+		"style"="Label Trans"
+		"effect"=""
+		"text"="{\fn隶书\fs128\frz13.72\pos(974,324)\c&H6143B1&\bord0\shad0}*"
+	}
+	"紫晶-对话"={
+		"actor"="Amethyst"
+		"text"="{\c&HD897C1&}*"
+	}
+	"背景对话"={
+		"layer"="50"
+		"style"="Background Dialogue"
+		"text"="{\pos(960,120)}"
+	}
+	"提示"={
+		"layer"="600"
+		"style"="Hint"
+		"text"="{\pos(960,50)}*"
+	}
+	"双语-无特效"={
+		"text"="*\N*"
+	}
+}
+"version"="1.00"
+"classname"="subtitle-group-template"
+end of file!

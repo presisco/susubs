@@ -17,265 +17,273 @@ Video File: ../../../Steven.Universe/S04/Steven.Universe.S04E12.Gem.Heist.1080p.
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 18
-Active Line: 20
-Video Position: 826
+Scroll Position: 9
+Active Line: 12
+Video Position: 575
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,3,2,15,15,15,1
 Style: 720p raw eng,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,10.5,4.5,2,15,15,42,1
-Style: Normal Dialog Text,Arial,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.9995,1.9995,2,15,15,15,1
-Style: SU Title,方正粗圆_GBK,99,&H00AB8D72,&H000000FF,&H00FFFFFF,&H00DBE0C9,-1,0,0,0,100,100,0,0,1,12,18,2,15,15,15,1
-Style: SU Team Member,方正粗圆_GBK,42,&H00A98B79,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
-Style: SU Team Title,方正粗圆_GBK,48,&H00B394E1,&H00FFFFFF,&H00FFFFFF,&H00DBE0C9,-1,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
-Style: SU Team Background,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
-Style: Song Lyrics Text,华文楷体,30,&H00EAEAEA,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.9995,1.9995,2,15,15,15,1
-Style: Hint,微软雅黑,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,1
+Style: Normal Dialog Text,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,4,2,10,10,30,1
+Style: SU Title,方正粗圆_GBK,180,&H00D99496,&H000000FF,&H00FBFBFC,&H00FFF9A5,-1,0,0,0,100,100,0,0,1,12,4,2,10,10,10,1
+Style: SU Team Member,方正粗圆_GBK,42,&H00A66502,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
+Style: SU Team Title,方正粗圆_GBK,48,&H00D6979A,&H00FFFFFF,&H00FFFFFF,&H00DBE0C9,-1,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
+Style: SU Team Background,Arial,30,&H00FCFCFC,&H000000FF,&H00000000,&H00FFEDC0,0,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
+Style: Song Lyrics Text,华文楷体,20,&H00EAEAEA,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: Hint,微软雅黑,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: SU Claim,方正粗圆_GBK,48,&H00F0F0F0,&H00FFFFFF,&H00151515,&H00DBE0C9,0,0,0,0,100,100,0,0,1,3,0,8,10,10,20,1
+Style: Background Dialogue,微软雅黑,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,20,1
+Style: CHS,微软雅黑,72,&H00FFFFFF,&H000000FF,&H00171717,&H00171717,0,0,0,0,100,100,0,0,1,6,3,2,10,10,10,1
+Style: ENG,Arial,48,&H00FFFFFF,&H000000FF,&H00171717,&H00171717,0,0,0,0,100,100,0,0,1,6,3,2,10,10,10,1
+Style: CHS_LYC,华文楷体,72,&H00FFFFFF,&H000000FF,&H00171717,&H00171717,0,0,0,0,100,100,0,0,1,6,3,2,10,10,10,1
+Style: ENG_LYC,Arial,48,&H00FFFFFF,&H000000FF,&H00171717,&H00171717,0,0,0,0,100,100,0,0,1,6,3,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.08,0:00:03.58,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs63}我们,是水晶\N{\fnArial\fs48}♪ We ♪ are the crystal
-Dialogue: 0,0:00:03.59,0:00:04.56,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs63}战士\N{\fnArial\fs48}♪ gems
-Dialogue: 0,0:00:04.56,0:00:07.02,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs63}我们总能拯救世界\N{\fnArial\fs48}♪ we'll always save the day
-Dialogue: 0,0:00:07.02,0:00:09.50,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs63}如果你认为我们不行\N{\fnArial\fs48}♪ and if you think we can't, ♪
-Dialogue: 0,0:00:09.50,0:00:12.36,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs63}我们总能找到方法\N{\fnArial\fs48}♪ we'll always find a way
-Dialogue: 0,0:00:12.36,0:00:14.02,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs63}这就是为什么这个世界\N{\fnArial\fs48}♪ that's why the people
-Dialogue: 0,0:00:14.02,0:00:16.12,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs63}的人\N{\fnArial\fs48}♪ of this world
-Dialogue: 0,0:00:16.12,0:00:17.86,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs63}相信\N{\fnArial\fs48}♪ believe in
-Dialogue: 0,0:00:17.86,0:00:18.52,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs63}石榴\N{\fnArial\fs48}♪ Garnet
-Dialogue: 0,0:00:18.52,0:00:19.82,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs63}紫晶\N{\fnArial\fs48}♪ Amethyst
-Dialogue: 0,0:00:19.82,0:00:21.28,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs63}和珍珠\N{\fnArial\fs48}♪ and Pearl
-Dialogue: 0,0:00:21.30,0:00:23.08,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs63}和史蒂文!\N{\fnArial\fs48}and Steven!
-Dialogue: 1,0:00:23.97,0:00:25.46,SU Title,,0,0,0,,{\bord8\xshad0\yshad7.5\c&HC88B91&\3c&HFCFCFC&\4c&HFCEBA5&\pos(1185,145.5)}宝石劫案
-Dialogue: 1,0:00:25.50,0:00:26.93,SU Team Title,,0,0,0,,{\pos(1700,360)\bord0\shad0\c&BEA2A4&}出品
-Dialogue: 1,0:00:25.50,0:00:26.93,SU Team Member,,0,0,0,,{\pos(1700,400)\bord0\shad0\c&H986D0C&}UUU字幕组
-Dialogue: 1,0:00:25.50,0:00:26.93,SU Team Title,,0,0,0,,{\pos(1700,460)\bord0\shad0\c&HBEA2A4&}翻译
-Dialogue: 1,0:00:25.50,0:00:26.93,SU Team Member,,0,0,0,,{\pos(1700,500)\bord0\shad0\c&H986D0C&}presisco
-Dialogue: 1,0:00:25.50,0:00:26.93,SU Team Title,,0,0,0,,{\pos(1700,560)\bord0\shad0\c&HBEA2A4&}特效
-Dialogue: 1,0:00:25.50,0:00:26.93,SU Team Member,,0,0,0,,{\pos(1700,600)\bord0\shad0\c&H986D0C&}presisco
-Dialogue: 1,0:00:25.50,0:00:26.93,SU Team Title,,0,0,0,,{\pos(1700,660)\bord0\shad0\c&HBEA2A4&}压制
-Dialogue: 1,0:00:25.50,0:00:26.93,SU Team Member,,0,0,0,,{\pos(1700,700)\bord0\shad0\c&H986D0C&}SG
-Dialogue: 0,0:00:25.50,0:00:26.93,SU Team Background,,0,0,0,,{\pos(1744,776)\bord0\xshad0\yshad16\c&HFCFCFC&\4c&HFCEBA5&}{\p1}m 72 0 b -46 0 -46 170 72 170 l 115 170 b -37 149 -36 374 115 344 l 72 344 b -46 344 -46 514 72 514 l 285 514 b 394 514 419 323 285 344 l 328 344 l 328 344 b 433 344 433 170 328 170 l 285 170 l 285 170 b 419 191 419 1 285 1 l 72 0 0{\p0}
-Dialogue: 0,0:00:27.51,0:00:32.41,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}人类动物园,我不敢相信居然还存在\N{\fnArial\fs48}The Human Zoo. I can't believe it still exists.
-Dialogue: 0,0:00:32.81,0:00:34.07,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}爸爸肯定在里面\N{\fnArial\fs48}Dad's got to be in there.
-Dialogue: 0,0:00:34.45,0:00:36.21,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}我们只要找到他并将他救出来\N{\fnArial\fs48}We just have to find him and bust him out.
-Dialogue: 0,0:00:45.71,0:00:46.77,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}那些宝石人\N{\fnArial\fs48}Those Gems.
-Dialogue: 0,0:00:47.33,0:00:48.75,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}紫晶守卫\N{\fnArial\fs48}Amethyst guards.
-Dialogue: 0,0:00:49.43,0:00:50.01,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}是啊\N{\fnArial\fs48}Right.
-Dialogue: 0,0:00:50.39,0:00:51.89,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}好像我们能大摇大摆的走进去\N{\fnArial\fs48}Like we could just waltz up
-Dialogue: 0,0:00:51.89,0:00:54.53,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}一个无主的珍珠,一个融合体,\N{\fnArial\fs48}as an ownerless Pearl, a Fusion,
-Dialogue: 0,0:00:54.55,0:00:56.65,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}和-和,你\N{\fnArial\fs48}and -- and you.
-Dialogue: 0,0:00:57.05,0:01:00.33,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}我们只需要伪装,我就叫"艾斯呆板·宇宙老爹"\N{\fnArial\fs48}We just need disguises. I'll be Esteban Universedad.
-Dialogue: 600,0:00:57.05,0:01:00.33,Hint,,0,0,0,,{\pos(960,50)}Esteban在西班牙语中相当于Stephan,而Universedad则是大学
-Dialogue: 0,0:01:00.69,0:01:03.26,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}史蒂文,你的名字并没有用\N{\fnArial\fs48}Steven, it doesn't matter what your name is.
-Dialogue: 0,0:01:03.26,0:01:04.97,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}我们太显眼了\N{\fnArial\fs48}We're all going to stand out.
-Dialogue: 0,0:01:07.41,0:01:08.83,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}不会\N{\fnArial\fs48}We won't stand out
-Dialogue: 0,0:01:08.85,0:01:10.63,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}只要我们的表现与本来的身份一致的话\N{\fnArial\fs48}if we play the roles we were made for.
-Dialogue: 0,0:01:11.17,0:01:12.60,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}红宝石!蓝宝石!\N{\fnArial\fs48}Ruby! Sapphire!
-Dialogue: 0,0:01:12.95,0:01:14.83,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}好吧,各位,听她的\N{\fnArial\fs48}Okay everybody, hear her out.
-Dialogue: 0,0:01:15.57,0:01:19.37,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}今天,我,作为蓝宝石,正在执行公务,伴随我的有红宝石护卫...\N{\fnArial\fs48}Today, I'm a Sapphire traveling with my Ruby guard...
-Dialogue: 0,0:01:19.37,0:01:19.91,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}嗯!\N{\fnArial\fs48}Hm!
-Dialogue: 0,0:01:20.25,0:01:22.09,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}还有我个人的珍珠\N{\fnArial\fs48}And my personal Pearl.
-Dialogue: 0,0:01:22.09,0:01:22.83,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}嗯-哼!\N{\fnArial\fs48}Mm-hmm!
-Dialogue: 0,0:01:23.45,0:01:26.33,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}艾斯呆板,我将你作为献给动物园的大礼\N{\fnArial\fs48}Esteban, I've brought you as an offering for the zoo.
-Dialogue: 0,0:01:26.81,0:01:28.55,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}"可怜的艾斯呆板啊!"\N{\fnArial\fs48}{\i1}Pobrecito Esteban!{\i}
-Dialogue: 0,0:01:28.73,0:01:30.15,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}呃,我呢?\N{\fnArial\fs48}Uh, what about me?
-Dialogue: 0,0:01:30.71,0:01:33.23,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}你作为额外打手陪同我\N{\fnArial\fs48}You're accompanying me as extra muscle.
-Dialogue: 0,0:01:33.57,0:01:34.86,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}像她们那种?\N{\fnArial\fs48}Muscle like them?
-Dialogue: 0,0:01:35.07,0:01:35.91,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}没错\N{\fnArial\fs48}Exactly.
-Dialogue: 0,0:01:36.51,0:01:39.47,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}但我从没看见过其他紫晶\N{\fnArial\fs48}But I've never even seen another Amethyst before.
-Dialogue: 0,0:01:39.63,0:01:42.20,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}那我做什么?如果我说错话了呢?\N{\fnArial\fs48}What do I do? What if I say something wrong?
-Dialogue: 0,0:01:42.43,0:01:43.47,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}看着办吧\N{\fnArial\fs48}Just look the part.
-Dialogue: 0,0:01:43.71,0:01:45.23,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}你too young,我们长者\N{\fnArial\fs48}You're new and we're rusty,
-Dialogue: 0,0:01:45.61,0:01:48.17,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}我们只用坚持到找到格雷格就行\N{\fnArial\fs48}but we just have to sell this long enough to find Greg.
-Dialogue: 0,0:01:48.63,0:01:50.41,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}这真的管用吗?\N{\fnArial\fs48}Is this really going to work?
-Dialogue: 0,0:01:51.09,0:01:51.49,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}不\N{\fnArial\fs48}No.
-Dialogue: 0,0:01:52.95,0:01:55.33,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}我们得呆在一起,直截了当\N{\fnArial\fs48}Just stick together, play it straight.
-Dialogue: 0,0:01:55.63,0:01:57.41,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}让我们改变未来\N{\fnArial\fs48}Let's change the future.
-Dialogue: 0,0:02:01.31,0:02:03.93,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}你们永远不可能关住我的,你们这群石头蛋!\N{\fnArial\fs48}You'll never cage me, ya rock heads!
-Dialogue: 0,0:02:11.51,0:02:12.70,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}说明来意\N{\fnArial\fs48}State your purpose.
-Dialogue: 0,0:02:13.13,0:02:15.43,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}我是来完成动物园的货运任务的\N{\fnArial\fs48}I'm here to make a delivery to the Human Zoo.
-Dialogue: 0,0:02:16.27,0:02:19.71,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}坏消息-人类动物园关闭了\N{\fnArial\fs48}Bad news -- the Human Zoo shut down,
-Dialogue: 0,0:02:20.01,0:02:24.07,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}也就是意味着我们不得不把你直接扔进太空\N{\fnArial\fs48}which means we'll just have to throw you into space.
-Dialogue: 0,0:02:25.01,0:02:28.08,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}哈!看,他居然信了\N{\fnArial\fs48}Ha! Look. It believed me.
-Dialogue: 0,0:02:32.87,0:02:33.71,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}你们在干吗?\N{\fnArial\fs48}What are you doing?
-Dialogue: 0,0:02:34.19,0:02:36.55,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}没什么,霍利蓝玛瑙\N{\fnArial\fs48}Nothing, Holly Blue Agate.
-Dialogue: 0,0:02:41.76,0:02:43.01,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}为什么你不告诉我\N{\fnArial\fs48}Why didn't you tell me
-Dialogue: 0,0:02:43.01,0:02:44.45,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}蓝宝石来这里了?\N{\fnArial\fs48}there was a Sapphire here?
-Dialogue: 0,0:02:44.77,0:02:46.75,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}你对她说了什么不敬的话吗?\N{\fnArial\fs48}What have you miscreants been saying to them?
-Dialogue: 0,0:02:46.97,0:02:48.30,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}没有,长官\N{\fnArial\fs48}Nothing, Holly.
-Dialogue: 0,0:02:48.87,0:02:50.20,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}你一定要见谅啊\N{\fnArial\fs48}You'll have to forgive them.
-Dialogue: 0,0:02:51.47,0:02:52.37,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}他们来自地球\N{\fnArial\fs48}They're from Earth.
-Dialogue: 0,0:02:52.81,0:02:54.87,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}咳!道歉\N{\fnArial\fs48}Ahem! Apologize.
-Dialogue: 0,0:02:55.99,0:02:56.84,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}请原谅我们\N{\fnArial\fs48}Forgive us.
-Dialogue: 0,0:02:56.84,0:02:58.04,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}嗷!\N{\fnArial\fs48}Ow!
-Dialogue: 0,0:02:58.04,0:02:59.84,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}请原谅我们,璧下\N{\fnArial\fs48}Forgive us, Your Clarity.
-Dialogue: 0,0:03:00.27,0:03:01.81,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}没必要再揪着旧事不放\N{\fnArial\fs48}No use dwelling on the past.
-Dialogue: 0,0:03:02.35,0:03:04.05,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}我为收藏集合带来了一个新的人类\N{\fnArial\fs48}I've brought a new human for the collection.
-Dialogue: 0,0:03:05.01,0:03:06.63,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}这多么新奇啊-\N{\fnArial\fs48}How unprecedented --
-Dialogue: 0,0:03:06.68,0:03:08.22,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}一千年来什么都出现\N{\fnArial\fs48}nothing for millennia
-Dialogue: 0,0:03:08.22,0:03:10.76,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}而现在突然两个人类接踵而至!\N{\fnArial\fs48}and then two humans back-to-back!
-Dialogue: 0,0:03:11.07,0:03:12.33,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}也许,这样最好吧\N{\fnArial\fs48}Well, it's probably for the best.
-Dialogue: 0,0:03:12.35,0:03:14.73,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}第一个的状态...并不好\N{\fnArial\fs48}That first one wasn't in the...best condition.
-Dialogue: 0,0:03:15.79,0:03:17.05,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}爸爸!那是他!\N{\fnArial\fs48}Dad! That's him!
-Dialogue: 0,0:03:17.05,0:03:17.47,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}嘘!\N{\fnArial\fs48}Shh!
-Dialogue: 0,0:03:17.97,0:03:21.35,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}哦,人类无尽无休的叫唤!他在叫唤什么啊?\N{\fnArial\fs48}Oh, they're incessant barking! What is it saying?
-Dialogue: 0,0:03:22.91,0:03:24.63,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}-另一个也很吵\N{\fnArial\fs48}- The other one was loud too.
-Dialogue: 0,0:03:24.97,0:03:26.74,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}而且还在不停挣扎\N{\fnArial\fs48}And all that thrashing about.
-Dialogue: 0,0:03:28.07,0:03:30.97,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}我很确定蓝钻石愿意亲自表达谢意\N{\fnArial\fs48}I'm sure Blue Diamond will want to thank you personally,
-Dialogue: 0,0:03:31.31,0:03:33.09,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}但你刚好错过她了\N{\fnArial\fs48}but you just missed her.
-Dialogue: 0,0:03:34.93,0:03:36.57,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}紫晶,带这个人类去-\N{\fnArial\fs48}Amethyst, take this human to the --
-Dialogue: 0,0:03:36.59,0:03:36.97,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}等等!\N{\fnArial\fs48}Wait!
-Dialogue: 0,0:03:37.49,0:03:40.05,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}有件事,我们走了那么远\N{\fnArial\fs48}The thing is we've traveled so far,
-Dialogue: 0,0:03:40.05,0:03:42.79,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}如果就这么离开实在是可惜\N{\fnArial\fs48}and it would be a shame to leave so quickly.
-Dialogue: 0,0:03:43.05,0:03:45.62,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}也许你能带我们参观一下设施?\N{\fnArial\fs48}Perhaps you'd grant us a tour of the facility?
-Dialogue: 0,0:03:46.07,0:03:47.21,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}我非常荣幸\N{\fnArial\fs48}I would be honored.
-Dialogue: 0,0:03:47.57,0:03:49.55,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}来这里,伟大的璧下\N{\fnArial\fs48}Right this way, Your Grand Clarity.
-Dialogue: 0,0:03:50.39,0:03:52.46,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}紫晶得留在这里看门\N{\fnArial\fs48}Amethysts are to stay and guard the door.
-Dialogue: 0,0:03:52.77,0:03:54.15,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}呃,但...\N{\fnArial\fs48}Uh, but...
-Dialogue: 0,0:03:54.17,0:03:55.21,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}大门\N{\fnArial\fs48}The door.
-Dialogue: 0,0:04:02.87,0:04:05.74,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}你的珍珠总是与您肩并肩行走吗?\N{\fnArial\fs48}Does your Pearl always walk next to you?
-Dialogue: 0,0:04:06.67,0:04:08.75,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}我在这就好\N{\fnArial\fs48}I'll just be right here.
-Dialogue: 0,0:04:09.57,0:04:11.19,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}嗯,很贫嘛\N{\fnArial\fs48}Hmm. Chatty.
-Dialogue: 0,0:04:13.05,0:04:15.85,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}此设施原来属于粉钻石\N{\fnArial\fs48}This facility originally belonged to Pink Diamond
-Dialogue: 0,0:04:15.87,0:04:18.69,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}收留并任用本来毫无用处的石英们\N{\fnArial\fs48}and houses and staffs the otherwise useless Quartzes
-Dialogue: 0,0:04:18.69,0:04:20.93,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}那些石英制造于她的殖民地\N{\fnArial\fs48}she produced on what was her colony.
-Dialogue: 0,0:04:21.55,0:04:24.19,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}但蓝钻石与她值得信赖的玛瑙-\N{\fnArial\fs48}But Blue Diamond and her trusted Agate --
-Dialogue: 0,0:04:24.43,0:04:25.30,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}也就是我-\N{\fnArial\fs48}that's me --
-Dialogue: 0,0:04:25.71,0:04:28.41,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}自第二代的曙光后一直在维护这个地方\N{\fnArial\fs48}have been maintaining this place since the dawn of Era 2.
-Dialogue: 0,0:04:33.51,0:04:36.11,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}是她要做什么,还是我要先说什么?\N{\fnArial\fs48}Is she going to do it, or should I say something?
-Dialogue: 0,0:04:36.61,0:04:36.99,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}哦\N{\fnArial\fs48}Oh.
-Dialogue: 0,0:04:37.35,0:04:38.64,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}珍珠,门\N{\fnArial\fs48}Pearl, the door.
-Dialogue: 0,0:04:39.01,0:04:40.15,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}嗯?噢!\N{\fnArial\fs48}Hm? Oh!
-Dialogue: 0,0:04:40.35,0:04:41.27,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}好,好\N{\fnArial\fs48}Right, right.
-Dialogue: 0,0:04:42.07,0:04:42.73,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}我知道了\N{\fnArial\fs48}I got it.
-Dialogue: 0,0:04:45.47,0:04:47.49,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}你对她真是有耐心啊\N{\fnArial\fs48}You are so patient with her.
-Dialogue: 0,0:04:47.49,0:04:48.75,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}你是如何做到的?\N{\fnArial\fs48}How do you do it?
-Dialogue: 0,0:04:48.96,0:04:51.71,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}作为蓝宝石,我知道这肯定会发生的\N{\fnArial\fs48}As a Sapphire, I know it will happen eventually.
-Dialogue: 0,0:04:57.39,0:04:58.15,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}就这样吧\N{\fnArial\fs48}That will be all.
-Dialogue: 0,0:04:59.31,0:04:59.93,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}对不起\N{\fnArial\fs48}Sorry.
-Dialogue: 0,0:05:00.37,0:05:01.35,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}坚持一下\N{\fnArial\fs48}Hang in there.
-Dialogue: 0,0:05:02.31,0:05:03.77,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}跟上啊,珍珠\N{\fnArial\fs48}Do keep up, Pearl.
-Dialogue: 0,0:05:07.73,0:05:09.31,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}这个设施的下半部分\N{\fnArial\fs48}The bottom half of this structure
-Dialogue: 0,0:05:09.31,0:05:12.53,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}完全关注于物种保存\N{\fnArial\fs48}is devoted entirely to specimen containment.
-Dialogue: 0,0:05:12.75,0:05:15.99,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}显然,人类不愿意被拘禁\N{\fnArial\fs48}Apparently, humans don't take well to captivity.
-Dialogue: 0,0:05:16.23,0:05:18.03,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}但只要你了解他们的需求\N{\fnArial\fs48}But once you understand their needs,
-Dialogue: 0,0:05:18.25,0:05:19.83,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}他们很容易控制\N{\fnArial\fs48}they're easy to control.
-Dialogue: 0,0:05:20.41,0:05:23.87,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}这真是个悲剧-粉钻在宇宙中的存在\N{\fnArial\fs48}It's tragic that Pink Diamond's existence in this universe
-Dialogue: 0,0:05:23.87,0:05:25.47,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}居然如此有限\N{\fnArial\fs48}ended up being so finite.
-Dialogue: 0,0:05:25.91,0:05:28.25,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}但蓝钻的表现是如此无私,\N{\fnArial\fs48}But what a selfless act for Blue Diamond
-Dialogue: 0,0:05:28.25,0:05:31.36,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}愿意站出来花费自己的时间与精力\N{\fnArial\fs48}to step forward and spend her own time and energy
-Dialogue: 0,0:05:31.36,0:05:34.47,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}保存这个地方-只为纪念粉钻石\N{\fnArial\fs48}preserving this place in Pink Diamond's memory.
-Dialogue: 0,0:05:34.47,0:05:38.27,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}这是蓝钻石仁慈与友爱\N{\fnArial\fs48}It's a real testament to Blue Diamond's merciful
-Dialogue: 0,0:05:38.27,0:05:40.51,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}真正的纪念碑,你不觉得吗?\N{\fnArial\fs48}and giving nature, don't you think?
-Dialogue: 0,0:05:40.85,0:05:42.59,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}呃,当然\N{\fnArial\fs48}Uh, of course.
-Dialogue: 0,0:05:43.77,0:05:46.61,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}坚持住,红宝石,我们的角色,记得吗?\N{\fnArial\fs48}Hold it together, Ruby. Our roles, remember?
-Dialogue: 0,0:05:44.61,0:05:47.67,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63\pos(960,120)\c&HFABDA0&}然后走这里,是健康保留分区\N{\fnArial\fs48}And pass this way, the health reservation sector,
-Dialogue: 0,0:05:46.97,0:05:48.19,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}一定要"艾斯呆板"住啊\N{\fnArial\fs48}Gotta Esteban it.
-Dialogue: 0,0:05:48.19,0:05:51.11,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}而这里,显然,是人类处理滑槽\N{\fnArial\fs48}And here, of course, is the human disposal chute.
-Dialogue: 0,0:05:51.33,0:05:52.43,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}什-\N{\fnArial\fs48}Wha--
-Dialogue: 0,0:05:52.45,0:05:54.01,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}如-如何进入动物园?\N{\fnArial\fs48}H-How do get in the zoo?
-Dialogue: 0,0:05:54.31,0:05:57.13,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}哦,又是那滑稽的噪音\N{\fnArial\fs48}Oh, there it goes again with its hilarious noises.
-Dialogue: 0,0:05:57.47,0:05:59.16,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}那么,你是如何进入动物园的?\N{\fnArial\fs48}So, how do you get in the zoo?
-Dialogue: 0,0:05:59.49,0:06:02.03,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}非常好的问题,伟大的壁下\N{\fnArial\fs48}Excellent question, Your Grand Clarity.
-Dialogue: 0,0:06:02.45,0:06:04.45,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}在一些特别情况下\N{\fnArial\fs48}On the rare occasion that we would need
-Dialogue: 0,0:06:04.45,0:06:05.96,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}我们进入收容区域\N{\fnArial\fs48}to enter the containment area,
-Dialogue: 0,0:06:05.97,0:06:08.07,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}要通过这个维护大门\N{\fnArial\fs48}we would do so via this service door.
-Dialogue: 0,0:06:08.75,0:06:11.00,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}爸爸,这个门是我们找到爸爸的关键\N{\fnArial\fs48}Dad. That door's how we get to Dad.
-Dialogue: 0,0:06:11.33,0:06:12.87,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}我们只需要分散一下注意力\N{\fnArial\fs48}We just need to come up with a distraction.
-Dialogue: 0,0:06:13.31,0:06:13.75,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}好的!\N{\fnArial\fs48}Got it!
-Dialogue: 0,0:06:14.17,0:06:17.51,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}作为单向接入点,这里并没有发生逃脱的可能性\N{\fnArial\fs48}As one-way access point, there are no risks of an escape.
-Dialogue: 0,0:06:17.51,0:06:19.85,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}实际上,只有一次这里被用于一个人类-\N{\fnArial\fs48}In fact, it's only been used once for a human --
-Dialogue: 0,0:06:19.85,0:06:20.85,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}爆炸!\N{\fnArial\fs48}Explosion!
-Dialogue: 0,0:06:21.37,0:06:22.29,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}对不起?\N{\fnArial\fs48}Pardon me?
-Dialogue: 0,0:06:22.59,0:06:23.21,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}呃...\N{\fnArial\fs48}Uh.
-Dialogue: 0,0:06:23.51,0:06:26.95,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}我刚想起来我忘了关掉引力引擎了\N{\fnArial\fs48}I just remembered I left the gravity engine idling.
-Dialogue: 0,0:06:27.37,0:06:31.79,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}对不起,蓝宝石,我真是健忘和廉价啊\N{\fnArial\fs48}Sorry, my Sapphire, I'm so forgetful and disposable.
-Dialogue: 0,0:06:32.13,0:06:32.57,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}这?\N{\fnArial\fs48}What?
-Dialogue: 0,0:06:35.25,0:06:37.73,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}...是一个我预见到的事件\N{\fnArial\fs48}...a foreseen turn of events.
-Dialogue: 0,0:06:38.15,0:06:40.79,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}是的,它将会过热并爆炸\N{\fnArial\fs48}Yes, it is going to overheat and explode.
-Dialogue: 0,0:06:41.23,0:06:42.71,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}破坏会非常巨大\N{\fnArial\fs48}The damage will be massive.
-Dialogue: 0,0:06:43.04,0:06:43.85,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}我的言辞啊!\N{\fnArial\fs48}My word!
-Dialogue: 0,0:06:44.17,0:06:46.75,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}我不知道为什么有人会将宇宙飞船托付给红宝石\N{\fnArial\fs48}I don't know why anyone trusts Rubies with those ships.
-Dialogue: 0,0:06:46.94,0:06:48.33,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}这就是后果\N{\fnArial\fs48}This is what happens.
-Dialogue: 0,0:06:48.79,0:06:50.67,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}如果我们抓紧,我们能关掉引擎\N{\fnArial\fs48}If we hurry, we can disable the engine
-Dialogue: 0,0:06:50.67,0:06:52.05,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}避免任何破坏\N{\fnArial\fs48}before any damage is done.
-Dialogue: 0,0:06:52.05,0:06:54.31,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}我应该只要五分钟\N{\fnArial\fs48}I should only take five minutes,
-Dialogue: 0,0:06:54.31,0:06:57.01,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}所以每个人要做到行为规矩\N{\fnArial\fs48}so everyone be on your best behavior.
-Dialogue: 0,0:06:58.89,0:06:59.27,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}嗯?\N{\fnArial\fs48}Hm?
-Dialogue: 0,0:07:00.45,0:07:01.19,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}噢!\N{\fnArial\fs48}Oh.
-Dialogue: 0,0:07:02.63,0:07:03.77,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}来这里,璧下\N{\fnArial\fs48}This way, Your Clarity.
-Dialogue: 0,0:07:04.33,0:07:06.99,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}虽然,我确定你不需要我的指引\N{\fnArial\fs48}Although, I'm sure you don't need my guidance.
-Dialogue: 0,0:07:08.01,0:07:08.76,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}啊!\N{\fnArial\fs48}Argh!
-Dialogue: 0,0:07:08.97,0:07:10.35,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}我才不信\N{\fnArial\fs48}I can't believe all that stuff
-Dialogue: 0,0:07:10.35,0:07:12.73,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}蓝宝石有那么仁慈!\N{\fnArial\fs48}about Blue Diamond being merciful!
-Dialogue: 0,0:07:12.97,0:07:14.09,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}她会粉碎宝石啊!\N{\fnArial\fs48}She's a shatterer!
-Dialogue: 0,0:07:14.37,0:07:17.40,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}她对蓝宝石大喊大叫!她憎恨融合!\N{\fnArial\fs48}She yelled at Sapphire! She hates Fusion!
-Dialogue: 0,0:07:17.40,0:07:18.67,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}还有爱!\N{\fnArial\fs48}And love!
-Dialogue: 0,0:07:18.67,0:07:21.07,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}我知道,红宝石,但我们并没有多少时间了!\N{\fnArial\fs48}I know, Ruby, but we don't have much time!
-Dialogue: 0,0:07:21.07,0:07:22.61,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}我们得打开这道门!\N{\fnArial\fs48}We have to open this door!
-Dialogue: 0,0:07:22.91,0:07:23.55,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}好,好\N{\fnArial\fs48}Right, right.
-Dialogue: 0,0:07:23.95,0:07:25.01,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}珍珠,开门!\N{\fnArial\fs48}Pearl, open it!
-Dialogue: 0,0:07:25.27,0:07:27.37,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}当然,我还会做什么?\N{\fnArial\fs48}Of course. What else am I good for?
-Dialogue: 0,0:07:30.43,0:07:32.23,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}这个和其他的不一样\N{\fnArial\fs48}It's different than the other ones.
-Dialogue: 0,0:07:37.47,0:07:38.05,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}啊哈!\N{\fnArial\fs48}Aha!
-Dialogue: 0,0:07:41.51,0:07:43.43,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}我其实根本理解不了这个\N{\fnArial\fs48}I actually can't figure this out at all.
-Dialogue: 0,0:07:43.77,0:07:44.70,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}什么?!\N{\fnArial\fs48}What?!
-Dialogue: 0,0:07:44.91,0:07:46.95,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}但珍珠,你是团队里的骇客\N{\fnArial\fs48}But Pearl, you're our hacker.
-Dialogue: 0,0:07:46.95,0:07:48.07,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}我们没那么多时间!\N{\fnArial\fs48}We don't have time for this!
-Dialogue: 0,0:07:48.09,0:07:49.70,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}史蒂文,帮我打开门!\N{\fnArial\fs48}Steven, help me open the door!
-Dialogue: 0,0:07:49.91,0:07:50.35,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}好的\N{\fnArial\fs48}Okay.
-Dialogue: 0,0:07:50.57,0:07:52.13,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}还有,珍珠,骇得快点!\N{\fnArial\fs48}And Pearl, hack faster!
-Dialogue: 0,0:07:58.98,0:08:02.71,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}我很高兴我们马上就回来了!\N{\fnArial\fs48}I am so glad we're almost back!
-Dialogue: 0,0:08:02.95,0:08:05.55,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}我真的很享受这次行程!\N{\fnArial\fs48}I was really enjoying the tour!
-Dialogue: 0,0:08:06.07,0:08:08.73,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}使得,我能从你的声音里听出来\N{\fnArial\fs48}Yes, I can tell by the tone of your voice.
-Dialogue: 0,0:08:09.09,0:08:12.23,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}再次感谢你避免了这次危机\N{\fnArial\fs48}Thank you so much again for averting that crisis.
-Dialogue: 0,0:08:15.39,0:08:16.53,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}发生了什么?\N{\fnArial\fs48}What is going on?
-Dialogue: 0,0:08:16.93,0:08:19.17,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}哦,呃,我确定这有合理的解释-\N{\fnArial\fs48}Oh, well, I'm sure there's a reasonable --
-Dialogue: 0,0:08:19.17,0:08:21.03,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}你们看到是哪个紫晶做的吗?\N{\fnArial\fs48}Did you see the Amethyst that did this?
-Dialogue: 0,0:08:23.11,0:08:25.13,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}我们可是有客人\N{\fnArial\fs48}Really, we have guests.
-Dialogue: 0,0:08:25.47,0:08:27.89,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}霍利蓝玛瑙-我们有非常重要的消息给你!\N{\fnArial\fs48}Holly Blue Agate, - We have important news for you!
-Dialogue: 0,0:08:28.13,0:08:31.69,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}我们在这些走廊中不能跑动或喧哗!\N{\fnArial\fs48}We do not run or shout in these hallways!
-Dialogue: 0,0:08:32.11,0:08:33.39,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}我对不起,只-只是-\N{\fnArial\fs48}I'm sorry, i-it's just that --
-Dialogue: 0,0:08:33.39,0:08:35.31,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}我怎么听出来你要说什么,\N{\fnArial\fs48}How am I supposed to know what you're saying
-Dialogue: 0,0:08:35.31,0:08:36.59,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}像你这样含混的话?\N{\fnArial\fs48}when you're mumbling?
-Dialogue: 0,0:08:36.82,0:08:39.65,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}呃,对不起,霍利蓝玛瑙,只是-\N{\fnArial\fs48}Uh, I'm sorry, Holly Blue Agate, it's just --
-Dialogue: 0,0:08:39.67,0:08:41.05,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}蓝钻石要来这里!\N{\fnArial\fs48}Blue Diamond is on her way!
-Dialogue: 0,0:08:41.65,0:08:43.99,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}哦 ,我的星星啊!她这就回来了?\N{\fnArial\fs48}Oh, my stars! She's back already?
-Dialogue: 0,0:08:44.42,0:08:46.13,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}你们两个,注意举止!\N{\fnArial\fs48}You two, best behavior!
-Dialogue: 0,0:08:47.15,0:08:48.29,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}肩膀要平!\N{\fnArial\fs48}Shoulders squared!
-Dialogue: 0,0:08:48.97,0:08:49.97,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}头脑专注!\N{\fnArial\fs48}Minds cleared!
-Dialogue: 0,0:08:50.41,0:08:51.65,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}站直了!\N{\fnArial\fs48}Backs straight!
-Dialogue: 0,0:08:51.97,0:08:53.31,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}而且,蓝钻石\N{\fnArial\fs48}And surely, Blue Diamond
-Dialogue: 0,0:08:53.31,0:08:55.43,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}肯定想亲自对您表达谢意\N{\fnArial\fs48}will want to thank you personally
-Dialogue: 0,0:08:55.43,0:08:58.01,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}非常感谢您的特别货物,伟大的璧下\N{\fnArial\fs48}for this special delivery, Your Grand Clarity.
-Dialogue: 0,0:08:58.67,0:09:01.29,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}是的,我觉得她会的\N{\fnArial\fs48}Yes, I suppose she will.
-Dialogue: 0,0:09:03.31,0:09:06.01,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}那么别傻站在这里,你们这群没用的土包子,\N{\fnArial\fs48}Well don't just stand there, you useless chunks of earth,
-Dialogue: 0,0:09:06.39,0:09:08.68,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}做点实事,护送那个人类\N{\fnArial\fs48}make yourself useful and escort that human
-Dialogue: 0,0:09:08.68,0:09:10.01,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}到同化隔间!\N{\fnArial\fs48}to the assimilation bay!
-Dialogue: 0,0:09:10.25,0:09:12.18,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}但是行程\N{\fnArial\fs48}But the tour.
-Dialogue: 0,0:09:12.83,0:09:15.05,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}哦,璧下,您真是太抬举我了\N{\fnArial\fs48}Oh, Your Clarity, you flatter me.
-Dialogue: 0,0:09:15.05,0:09:16.91,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}但我们真的必须得做好准备了\N{\fnArial\fs48}But we really must get ready.
-Dialogue: 0,0:09:16.91,0:09:19.07,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}我们的钻石随时都会到达!\N{\fnArial\fs48}Our Diamond will be here at any moment!
-Dialogue: 0,0:09:19.93,0:09:22.49,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}放开我,你们这群大号的紫晶!\N{\fnArial\fs48}Let me go, you bigger Amethyst!
-Dialogue: 0,0:09:22.49,0:09:25.57,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}哈,这些新鲜的人类真是胆肥啊\N{\fnArial\fs48}Ha. These newer humans are so spunky.
-Dialogue: 0,0:09:25.57,0:09:26.57,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}进去吧!\N{\fnArial\fs48}In you go!
-Dialogue: 0,0:09:48.83,0:09:49.79,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}这是-\N{\fnArial\fs48}What the --
-Dialogue: 0,0:09:50.11,0:09:51.12,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}呃...\N{\fnArial\fs48}Uh...
-Dialogue: 0,0:10:01.77,0:10:02.25,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}嘿!\N{\fnArial\fs48}Hey!
-Dialogue: 0,0:10:07.17,0:10:07.94,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}不!\N{\fnArial\fs48}Nope!
-Dialogue: 0,0:10:08.33,0:10:09.87,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}我自己会脱\N{\fnArial\fs48}I can do that myself.
-Dialogue: 0,0:10:12.21,0:10:14.19,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}看样子只能光着身子找爸爸了\N{\fnArial\fs48}I'll just find my dad without pants.
-Dialogue: 0,0:10:28.47,0:10:29.71,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}兜裆布\N{\fnArial\fs48}Loin cloths.
-Dialogue: 0,0:10:34.63,0:10:37.67,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}好吧,还有什么?你们还想从我这里得到什么?\N{\fnArial\fs48}Okay, what else, huh? What else you got for me?
-Dialogue: 0,0:10:37.95,0:10:39.91,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}我现在处于老爸任务的肾上腺素模式\N{\fnArial\fs48}I'm on that dad-mission adrenalin rush
-Dialogue: 0,0:10:39.91,0:10:42.87,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}随时准备着对付你们接下来的太空狗屁呢\N{\fnArial\fs48}and ready for whatever space junk you have next.
-Dialogue: 0,0:10:42.91,0:10:45.93,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}高科技赶牛棒,人用马掌-\N{\fnArial\fs48}Futuristic cattle prods, human horseshoes --
-Dialogue: 0,0:10:45.93,0:10:48.49,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}随便你,来对付我啊!\N{\fnArial\fs48}whatever you got, come and get me!
-Dialogue: 0,0:11:01.27,0:11:01.87,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}呃?\N{\fnArial\fs48}Huh?
-Dialogue: 0,0:11:02.33,0:11:02.79,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}什么-\N{\fnArial\fs48}What the --
-Dialogue: 0,0:11:05.17,0:11:06.89,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}这是哪里?\N{\fnArial\fs48}What is this place?
-Dialogue: 0,0:11:07.15,0:11:08.03,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}而-而且爸爸在...\N{\fnArial\fs48}A-And where's...
-Dialogue: 0,0:11:11.17,0:11:11.83,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs63}这儿?\N{\fnArial\fs48}Dad?
-Dialogue: 0,0:11:11.83,0:11:13.83,Normal Dialog Text,,0,0,0,,
+Dialogue: 150,0:00:01.08,0:00:03.58,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们,是水晶\N{\rENG_LYC}♪ We ♪ are the crystal
+Dialogue: 150,0:00:03.59,0:00:04.56,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}战士\N{\rENG_LYC}♪ gems
+Dialogue: 150,0:00:04.56,0:00:07.02,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们总能拯救世界\N{\rENG_LYC}♪ we'll always save the day
+Dialogue: 150,0:00:07.02,0:00:09.50,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}如果你认为我们不行\N{\rENG_LYC}♪ and if you think we can't, ♪
+Dialogue: 150,0:00:09.50,0:00:12.36,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们总能找到方法\N{\rENG_LYC}♪ we'll always find a way
+Dialogue: 150,0:00:12.36,0:00:14.02,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}这就是为什么这个世界\N{\rENG_LYC}♪ that's why the people
+Dialogue: 150,0:00:14.02,0:00:16.12,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}的人\N{\rENG_LYC}♪ of this world
+Dialogue: 150,0:00:16.12,0:00:17.86,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}相信\N{\rENG_LYC}♪ believe in
+Dialogue: 150,0:00:17.86,0:00:18.52,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}石榴\N{\rENG_LYC}♪ Garnet
+Dialogue: 150,0:00:18.52,0:00:19.82,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}紫晶\N{\rENG_LYC}♪ Amethyst
+Dialogue: 150,0:00:19.82,0:00:21.28,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}和珍珠\N{\rENG_LYC}♪ and Pearl
+Dialogue: 150,0:00:21.30,0:00:23.08,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}和史蒂文!\N{\rENG_LYC}and Steven!
+Dialogue: 1,0:00:23.97,0:00:25.47,SU Title,,0,0,0,,{\xshad-0\yshad12\pos(1672,540)}宝石\N劫案
+Dialogue: 1,0:00:25.47,0:00:26.97,SU Claim,,0,0,0,,欢迎关注微博@UUU字幕组，获取最新熟肉信息！
+Dialogue: 1,0:00:25.47,0:00:26.97,SU Team Title,,0,0,0,,{\pos(1725,260)}出品
+Dialogue: 1,0:00:25.47,0:00:26.97,SU Team Member,,0,0,0,,{\pos(1725,320)}UUU字幕组
+Dialogue: 1,0:00:25.47,0:00:26.97,SU Team Title,,0,0,0,,{\pos(1725,380)}翻译
+Dialogue: 1,0:00:25.47,0:00:26.97,SU Team Member,,0,0,0,,{\pos(1725,440)}presisco
+Dialogue: 1,0:00:25.47,0:00:26.97,SU Team Title,,0,0,0,,{\pos(1725,500)}校对
+Dialogue: 1,0:00:25.47,0:00:26.97,SU Team Member,,0,0,0,,{\pos(1725,560)}Husky/牙牙
+Dialogue: 1,0:00:25.47,0:00:26.97,SU Team Title,,0,0,0,,{\pos(1725,620)}特效
+Dialogue: 1,0:00:25.47,0:00:26.97,SU Team Member,,0,0,0,,{\pos(1725,680)}presisco
+Dialogue: 1,0:00:25.47,0:00:26.97,SU Team Title,,0,0,0,,{\pos(1725,740)}压制
+Dialogue: 1,0:00:25.47,0:00:26.97,SU Team Member,,0,0,0,,{\pos(1725,800)}presisco
+Dialogue: 0,0:00:25.47,0:00:26.97,SU Team Background,,0,0,0,,{\bord0\xshad-0\yshad16\pos(1725,860)}{\p1}m -1 122 b -1 -19 -19 -1 122 -1 l 251 -1 b 390 -1 377 -19 377 122 l 377 500 b 377 642 390 628 251 628 l 122 628 b -19 628 -1 642 -1 500 l -1 122 {\p0}
+Dialogue: 100,0:00:27.51,0:00:32.41,Normal Dialog Text,,0,0,0,,{\rCHS}人类动物园,我不敢相信居然还存在\N{\rENG}The Human Zoo. I can't believe it still exists.
+Dialogue: 100,0:00:32.81,0:00:34.07,Normal Dialog Text,,0,0,0,,{\rCHS}爸爸肯定在里面\N{\rENG}Dad's got to be in there.
+Dialogue: 100,0:00:34.45,0:00:36.21,Normal Dialog Text,,0,0,0,,{\rCHS}我们只要找到他并将他救出来\N{\rENG}We just have to find him and bust him out.
+Dialogue: 100,0:00:45.71,0:00:46.77,Normal Dialog Text,,0,0,0,,{\rCHS}那些宝石人\N{\rENG}Those Gems.
+Dialogue: 100,0:00:47.33,0:00:48.75,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶守卫\N{\rENG}Amethyst guards.
+Dialogue: 100,0:00:49.43,0:00:50.01,Normal Dialog Text,,0,0,0,,{\rCHS}是啊\N{\rENG}Right.
+Dialogue: 100,0:00:50.39,0:00:51.89,Normal Dialog Text,,0,0,0,,{\rCHS}好像我们能大摇大摆的走进去\N{\rENG}Like we could just waltz up
+Dialogue: 100,0:00:51.89,0:00:54.53,Normal Dialog Text,,0,0,0,,{\rCHS}一个无主的珍珠,一个融合体,\N{\rENG}as an ownerless Pearl, a Fusion,
+Dialogue: 100,0:00:54.55,0:00:56.65,Normal Dialog Text,,0,0,0,,{\rCHS}和-和,你\N{\rENG}and -- and you.
+Dialogue: 100,0:00:57.05,0:01:00.33,Normal Dialog Text,,0,0,0,,{\rCHS}我们只需要伪装,我就叫"艾斯呆板·宇宙老爹"\N{\rENG}We just need disguises. I'll be Esteban Universedad.
+Dialogue: 600,0:00:57.05,0:01:00.33,Hint,,0,0,0,,Esteban在西班牙语中相当于Stephan,而Universedad则是大学
+Dialogue: 100,0:01:00.69,0:01:03.26,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文,你的名字并没有用\N{\rENG}Steven, it doesn't matter what your name is.
+Dialogue: 100,0:01:03.26,0:01:04.97,Normal Dialog Text,,0,0,0,,{\rCHS}我们太显眼了\N{\rENG}We're all going to stand out.
+Dialogue: 100,0:01:07.41,0:01:08.83,Normal Dialog Text,,0,0,0,,{\rCHS}不会\N{\rENG}We won't stand out
+Dialogue: 100,0:01:08.85,0:01:10.63,Normal Dialog Text,,0,0,0,,{\rCHS}只要我们的表现与本来的身份一致的话\N{\rENG}if we play the roles we were made for.
+Dialogue: 100,0:01:11.17,0:01:12.60,Normal Dialog Text,,0,0,0,,{\rCHS}红宝石!蓝宝石!\N{\rENG}Ruby! Sapphire!
+Dialogue: 100,0:01:12.95,0:01:14.83,Normal Dialog Text,,0,0,0,,{\rCHS}好吧,各位,听她的\N{\rENG}Okay everybody, hear her out.
+Dialogue: 100,0:01:15.57,0:01:19.37,Normal Dialog Text,,0,0,0,,{\rCHS}今天,我,作为蓝宝石,正在执行公务,伴随我的有红宝石护卫...\N{\rENG}Today, I'm a Sapphire traveling with my Ruby guard...
+Dialogue: 100,0:01:19.37,0:01:19.91,Normal Dialog Text,,0,0,0,,{\rCHS}嗯!\N{\rENG}Hm!
+Dialogue: 100,0:01:20.25,0:01:22.09,Normal Dialog Text,,0,0,0,,{\rCHS}还有我个人的珍珠\N{\rENG}And my personal Pearl.
+Dialogue: 100,0:01:22.09,0:01:22.83,Normal Dialog Text,,0,0,0,,{\rCHS}嗯-哼!\N{\rENG}Mm-hmm!
+Dialogue: 100,0:01:23.45,0:01:26.33,Normal Dialog Text,,0,0,0,,{\rCHS}艾斯呆板,我将你作为献给动物园的大礼\N{\rENG}Esteban, I've brought you as an offering for the zoo.
+Dialogue: 100,0:01:26.81,0:01:28.55,Normal Dialog Text,,0,0,0,,{\rCHS}"可怜的艾斯呆板啊!"\N{\rENG}Pobrecito Esteban!
+Dialogue: 100,0:01:28.73,0:01:30.15,Normal Dialog Text,,0,0,0,,{\rCHS}呃,我呢?\N{\rENG}Uh, what about me?
+Dialogue: 100,0:01:30.71,0:01:33.23,Normal Dialog Text,,0,0,0,,{\rCHS}你作为额外打手陪同我\N{\rENG}You're accompanying me as extra muscle.
+Dialogue: 100,0:01:33.57,0:01:34.86,Normal Dialog Text,,0,0,0,,{\rCHS}像她们那种?\N{\rENG}Muscle like them?
+Dialogue: 100,0:01:35.07,0:01:35.91,Normal Dialog Text,,0,0,0,,{\rCHS}没错\N{\rENG}Exactly.
+Dialogue: 100,0:01:36.51,0:01:39.47,Normal Dialog Text,,0,0,0,,{\rCHS}但我从没看见过其他紫晶\N{\rENG}But I've never even seen another Amethyst before.
+Dialogue: 100,0:01:39.63,0:01:42.20,Normal Dialog Text,,0,0,0,,{\rCHS}那我做什么?如果我说错话了呢?\N{\rENG}What do I do? What if I say something wrong?
+Dialogue: 100,0:01:42.43,0:01:43.47,Normal Dialog Text,,0,0,0,,{\rCHS}看着办吧\N{\rENG}Just look the part.
+Dialogue: 100,0:01:43.71,0:01:45.23,Normal Dialog Text,,0,0,0,,{\rCHS}你too young,我们长者\N{\rENG}You're new and we're rusty,
+Dialogue: 100,0:01:45.61,0:01:48.17,Normal Dialog Text,,0,0,0,,{\rCHS}我们只用坚持到找到格雷格就行\N{\rENG}but we just have to sell this long enough to find Greg.
+Dialogue: 100,0:01:48.63,0:01:50.41,Normal Dialog Text,,0,0,0,,{\rCHS}这真的管用吗?\N{\rENG}Is this really going to work?
+Dialogue: 100,0:01:51.09,0:01:51.49,Normal Dialog Text,,0,0,0,,{\rCHS}不\N{\rENG}No.
+Dialogue: 100,0:01:52.95,0:01:55.33,Normal Dialog Text,,0,0,0,,{\rCHS}我们得呆在一起,直截了当\N{\rENG}Just stick together, play it straight.
+Dialogue: 100,0:01:55.63,0:01:57.41,Normal Dialog Text,,0,0,0,,{\rCHS}让我们改变未来\N{\rENG}Let's change the future.
+Dialogue: 100,0:02:01.31,0:02:03.93,Normal Dialog Text,,0,0,0,,{\rCHS}你们永远不可能关住我的,你们这群石头蛋!\N{\rENG}You'll never cage me, ya rock heads!
+Dialogue: 100,0:02:11.51,0:02:12.70,Normal Dialog Text,,0,0,0,,{\rCHS}说明来意\N{\rENG}State your purpose.
+Dialogue: 100,0:02:13.13,0:02:15.43,Normal Dialog Text,,0,0,0,,{\rCHS}我是来完成动物园的货运任务的\N{\rENG}I'm here to make a delivery to the Human Zoo.
+Dialogue: 100,0:02:16.27,0:02:19.71,Normal Dialog Text,,0,0,0,,{\rCHS}坏消息-人类动物园关闭了\N{\rENG}Bad news -- the Human Zoo shut down,
+Dialogue: 100,0:02:20.01,0:02:24.07,Normal Dialog Text,,0,0,0,,{\rCHS}也就是意味着我们不得不把你直接扔进太空\N{\rENG}which means we'll just have to throw you into space.
+Dialogue: 100,0:02:25.01,0:02:28.08,Normal Dialog Text,,0,0,0,,{\rCHS}哈!看,他居然信了\N{\rENG}Ha! Look. It believed me.
+Dialogue: 100,0:02:32.87,0:02:33.71,Normal Dialog Text,,0,0,0,,{\rCHS}你们在干吗?\N{\rENG}What are you doing?
+Dialogue: 100,0:02:34.19,0:02:36.55,Normal Dialog Text,,0,0,0,,{\rCHS}没什么,霍利蓝玛瑙\N{\rENG}Nothing, Holly Blue Agate.
+Dialogue: 100,0:02:41.76,0:02:43.01,Normal Dialog Text,,0,0,0,,{\rCHS}为什么你不告诉我\N{\rENG}Why didn't you tell me
+Dialogue: 100,0:02:43.01,0:02:44.45,Normal Dialog Text,,0,0,0,,{\rCHS}蓝宝石来这里了?\N{\rENG}there was a Sapphire here?
+Dialogue: 100,0:02:44.77,0:02:46.75,Normal Dialog Text,,0,0,0,,{\rCHS}你对她说了什么不敬的话吗?\N{\rENG}What have you miscreants been saying to them?
+Dialogue: 100,0:02:46.97,0:02:48.30,Normal Dialog Text,,0,0,0,,{\rCHS}没有,长官\N{\rENG}Nothing, Holly.
+Dialogue: 100,0:02:48.87,0:02:50.20,Normal Dialog Text,,0,0,0,,{\rCHS}你一定要见谅啊\N{\rENG}You'll have to forgive them.
+Dialogue: 100,0:02:51.47,0:02:52.37,Normal Dialog Text,,0,0,0,,{\rCHS}他们来自地球\N{\rENG}They're from Earth.
+Dialogue: 100,0:02:52.81,0:02:54.87,Normal Dialog Text,,0,0,0,,{\rCHS}咳!道歉\N{\rENG}Ahem! Apologize.
+Dialogue: 100,0:02:55.99,0:02:56.84,Normal Dialog Text,,0,0,0,,{\rCHS}请原谅我们\N{\rENG}Forgive us.
+Dialogue: 100,0:02:56.84,0:02:58.04,Normal Dialog Text,,0,0,0,,{\rCHS}嗷!\N{\rENG}Ow!
+Dialogue: 100,0:02:58.04,0:02:59.84,Normal Dialog Text,,0,0,0,,{\rCHS}请原谅我们,璧下\N{\rENG}Forgive us, Your Clarity.
+Dialogue: 100,0:03:00.27,0:03:01.81,Normal Dialog Text,,0,0,0,,{\rCHS}没必要再揪着旧事不放\N{\rENG}No use dwelling on the past.
+Dialogue: 100,0:03:02.35,0:03:04.05,Normal Dialog Text,,0,0,0,,{\rCHS}我为收藏集合带来了一个新的人类\N{\rENG}I've brought a new human for the collection.
+Dialogue: 100,0:03:05.01,0:03:06.63,Normal Dialog Text,,0,0,0,,{\rCHS}这多么新奇啊-\N{\rENG}How unprecedented --
+Dialogue: 100,0:03:06.68,0:03:08.22,Normal Dialog Text,,0,0,0,,{\rCHS}一千年来什么都出现\N{\rENG}nothing for millennia
+Dialogue: 100,0:03:08.22,0:03:10.76,Normal Dialog Text,,0,0,0,,{\rCHS}而现在突然两个人类接踵而至!\N{\rENG}and then two humans back-to-back!
+Dialogue: 100,0:03:11.07,0:03:12.33,Normal Dialog Text,,0,0,0,,{\rCHS}也许,这样最好吧\N{\rENG}Well, it's probably for the best.
+Dialogue: 100,0:03:12.35,0:03:14.73,Normal Dialog Text,,0,0,0,,{\rCHS}第一个的状态...并不好\N{\rENG}That first one wasn't in the...best condition.
+Dialogue: 100,0:03:15.79,0:03:17.05,Normal Dialog Text,,0,0,0,,{\rCHS}爸爸!那是他!\N{\rENG}Dad! That's him!
+Dialogue: 100,0:03:17.05,0:03:17.47,Normal Dialog Text,,0,0,0,,{\rCHS}嘘!\N{\rENG}Shh!
+Dialogue: 100,0:03:17.97,0:03:21.35,Normal Dialog Text,,0,0,0,,{\rCHS}哦,人类无尽无休的叫唤!他在叫唤什么啊?\N{\rENG}Oh, they're incessant barking! What is it saying?
+Dialogue: 100,0:03:22.91,0:03:24.63,Normal Dialog Text,,0,0,0,,{\rCHS}-另一个也很吵\N{\rENG}- The other one was loud too.
+Dialogue: 100,0:03:24.97,0:03:26.74,Normal Dialog Text,,0,0,0,,{\rCHS}而且还在不停挣扎\N{\rENG}And all that thrashing about.
+Dialogue: 100,0:03:28.07,0:03:30.97,Normal Dialog Text,,0,0,0,,{\rCHS}我很确定蓝钻石愿意亲自表达谢意\N{\rENG}I'm sure Blue Diamond will want to thank you personally,
+Dialogue: 100,0:03:31.31,0:03:33.09,Normal Dialog Text,,0,0,0,,{\rCHS}但你刚好错过她了\N{\rENG}but you just missed her.
+Dialogue: 100,0:03:34.93,0:03:36.57,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶,带这个人类去-\N{\rENG}Amethyst, take this human to the --
+Dialogue: 100,0:03:36.59,0:03:36.97,Normal Dialog Text,,0,0,0,,{\rCHS}等等!\N{\rENG}Wait!
+Dialogue: 100,0:03:37.49,0:03:40.05,Normal Dialog Text,,0,0,0,,{\rCHS}有件事,我们走了那么远\N{\rENG}The thing is we've traveled so far,
+Dialogue: 100,0:03:40.05,0:03:42.79,Normal Dialog Text,,0,0,0,,{\rCHS}如果就这么离开实在是可惜\N{\rENG}and it would be a shame to leave so quickly.
+Dialogue: 100,0:03:43.05,0:03:45.62,Normal Dialog Text,,0,0,0,,{\rCHS}也许你能带我们参观一下设施?\N{\rENG}Perhaps you'd grant us a tour of the facility?
+Dialogue: 100,0:03:46.07,0:03:47.21,Normal Dialog Text,,0,0,0,,{\rCHS}我非常荣幸\N{\rENG}I would be honored.
+Dialogue: 100,0:03:47.57,0:03:49.55,Normal Dialog Text,,0,0,0,,{\rCHS}来这里,伟大的璧下\N{\rENG}Right this way, Your Grand Clarity.
+Dialogue: 100,0:03:50.39,0:03:52.46,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶得留在这里看门\N{\rENG}Amethysts are to stay and guard the door.
+Dialogue: 100,0:03:52.77,0:03:54.15,Normal Dialog Text,,0,0,0,,{\rCHS}呃,但...\N{\rENG}Uh, but...
+Dialogue: 100,0:03:54.17,0:03:55.21,Normal Dialog Text,,0,0,0,,{\rCHS}大门\N{\rENG}The door.
+Dialogue: 100,0:04:02.87,0:04:05.74,Normal Dialog Text,,0,0,0,,{\rCHS}你的珍珠总是与您肩并肩行走吗?\N{\rENG}Does your Pearl always walk next to you?
+Dialogue: 100,0:04:06.67,0:04:08.75,Normal Dialog Text,,0,0,0,,{\rCHS}我在这就好\N{\rENG}I'll just be right here.
+Dialogue: 100,0:04:09.57,0:04:11.19,Normal Dialog Text,,0,0,0,,{\rCHS}嗯,很贫嘛\N{\rENG}Hmm. Chatty.
+Dialogue: 100,0:04:13.05,0:04:15.85,Normal Dialog Text,,0,0,0,,{\rCHS}此设施原来属于粉钻石\N{\rENG}This facility originally belonged to Pink Diamond
+Dialogue: 100,0:04:15.87,0:04:18.69,Normal Dialog Text,,0,0,0,,{\rCHS}收留并任用本来毫无用处的石英们\N{\rENG}and houses and staffs the otherwise useless Quartzes
+Dialogue: 100,0:04:18.69,0:04:20.93,Normal Dialog Text,,0,0,0,,{\rCHS}那些石英制造于她的殖民地\N{\rENG}she produced on what was her colony.
+Dialogue: 100,0:04:21.55,0:04:24.19,Normal Dialog Text,,0,0,0,,{\rCHS}但蓝钻石与她值得信赖的玛瑙-\N{\rENG}But Blue Diamond and her trusted Agate --
+Dialogue: 100,0:04:24.43,0:04:25.30,Normal Dialog Text,,0,0,0,,{\rCHS}也就是我-\N{\rENG}that's me --
+Dialogue: 100,0:04:25.71,0:04:28.41,Normal Dialog Text,,0,0,0,,{\rCHS}自第二代的曙光后一直在维护这个地方\N{\rENG}have been maintaining this place since the dawn of Era 2.
+Dialogue: 100,0:04:33.51,0:04:36.11,Normal Dialog Text,,0,0,0,,{\rCHS}是她要做什么,还是我要先说什么?\N{\rENG}Is she going to do it, or should I say something?
+Dialogue: 100,0:04:36.61,0:04:36.99,Normal Dialog Text,,0,0,0,,{\rCHS}哦\N{\rENG}Oh.
+Dialogue: 100,0:04:37.35,0:04:38.64,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠,门\N{\rENG}Pearl, the door.
+Dialogue: 100,0:04:39.01,0:04:40.15,Normal Dialog Text,,0,0,0,,{\rCHS}嗯?噢!\N{\rENG}Hm? Oh!
+Dialogue: 100,0:04:40.35,0:04:41.27,Normal Dialog Text,,0,0,0,,{\rCHS}好,好\N{\rENG}Right, right.
+Dialogue: 100,0:04:42.07,0:04:42.73,Normal Dialog Text,,0,0,0,,{\rCHS}我知道了\N{\rENG}I got it.
+Dialogue: 100,0:04:45.47,0:04:47.49,Normal Dialog Text,,0,0,0,,{\rCHS}你对她真是有耐心啊\N{\rENG}You are so patient with her.
+Dialogue: 100,0:04:47.49,0:04:48.75,Normal Dialog Text,,0,0,0,,{\rCHS}你是如何做到的?\N{\rENG}How do you do it?
+Dialogue: 100,0:04:48.96,0:04:51.71,Normal Dialog Text,,0,0,0,,{\rCHS}作为蓝宝石,我知道这肯定会发生的\N{\rENG}As a Sapphire, I know it will happen eventually.
+Dialogue: 100,0:04:57.39,0:04:58.15,Normal Dialog Text,,0,0,0,,{\rCHS}就这样吧\N{\rENG}That will be all.
+Dialogue: 100,0:04:59.31,0:04:59.93,Normal Dialog Text,,0,0,0,,{\rCHS}对不起\N{\rENG}Sorry.
+Dialogue: 100,0:05:00.37,0:05:01.35,Normal Dialog Text,,0,0,0,,{\rCHS}坚持一下\N{\rENG}Hang in there.
+Dialogue: 100,0:05:02.31,0:05:03.77,Normal Dialog Text,,0,0,0,,{\rCHS}跟上啊,珍珠\N{\rENG}Do keep up, Pearl.
+Dialogue: 100,0:05:07.73,0:05:09.31,Normal Dialog Text,,0,0,0,,{\rCHS}这个设施的下半部分\N{\rENG}The bottom half of this structure
+Dialogue: 100,0:05:09.31,0:05:12.53,Normal Dialog Text,,0,0,0,,{\rCHS}完全关注于物种保存\N{\rENG}is devoted entirely to specimen containment.
+Dialogue: 100,0:05:12.75,0:05:15.99,Normal Dialog Text,,0,0,0,,{\rCHS}显然,人类不愿意被拘禁\N{\rENG}Apparently, humans don't take well to captivity.
+Dialogue: 100,0:05:16.23,0:05:18.03,Normal Dialog Text,,0,0,0,,{\rCHS}但只要你了解他们的需求\N{\rENG}But once you understand their needs,
+Dialogue: 100,0:05:18.25,0:05:19.83,Normal Dialog Text,,0,0,0,,{\rCHS}他们很容易控制\N{\rENG}they're easy to control.
+Dialogue: 100,0:05:20.41,0:05:23.87,Normal Dialog Text,,0,0,0,,{\rCHS}这真是个悲剧-粉钻在宇宙中的存在\N{\rENG}It's tragic that Pink Diamond's existence in this universe
+Dialogue: 100,0:05:23.87,0:05:25.47,Normal Dialog Text,,0,0,0,,{\rCHS}居然如此有限\N{\rENG}ended up being so finite.
+Dialogue: 100,0:05:25.91,0:05:28.25,Normal Dialog Text,,0,0,0,,{\rCHS}但蓝钻的表现是如此无私,\N{\rENG}But what a selfless act for Blue Diamond
+Dialogue: 100,0:05:28.25,0:05:31.36,Normal Dialog Text,,0,0,0,,{\rCHS}愿意站出来花费自己的时间与精力\N{\rENG}to step forward and spend her own time and energy
+Dialogue: 100,0:05:31.36,0:05:34.47,Normal Dialog Text,,0,0,0,,{\rCHS}保存这个地方-只为纪念粉钻石\N{\rENG}preserving this place in Pink Diamond's memory.
+Dialogue: 100,0:05:34.47,0:05:38.27,Normal Dialog Text,,0,0,0,,{\rCHS}这是蓝钻石仁慈与友爱\N{\rENG}It's a real testament to Blue Diamond's merciful
+Dialogue: 100,0:05:38.27,0:05:40.51,Normal Dialog Text,,0,0,0,,{\rCHS}真正的纪念碑,你不觉得吗?\N{\rENG}and giving nature, don't you think?
+Dialogue: 100,0:05:40.85,0:05:42.59,Normal Dialog Text,,0,0,0,,{\rCHS}呃,当然\N{\rENG}Uh, of course.
+Dialogue: 100,0:05:43.77,0:05:46.61,Normal Dialog Text,,0,0,0,,{\rCHS}坚持住,红宝石,我们的角色,记得吗?\N{\rENG}Hold it together, Ruby. Our roles, remember?
+Dialogue: 100,0:05:44.61,0:05:47.67,Normal Dialog Text,,0,0,0,,{\rCHS}然后走这里,是健康保留分区\N{\rENG}And pass this way, the health reservation sector,
+Dialogue: 100,0:05:46.97,0:05:48.19,Normal Dialog Text,,0,0,0,,{\rCHS}一定要"艾斯呆板"住啊\N{\rENG}Gotta Esteban it.
+Dialogue: 100,0:05:48.19,0:05:51.11,Normal Dialog Text,,0,0,0,,{\rCHS}而这里,显然,是人类处理滑槽\N{\rENG}And here, of course, is the human disposal chute.
+Dialogue: 100,0:05:51.33,0:05:52.43,Normal Dialog Text,,0,0,0,,{\rCHS}什-\N{\rENG}Wha--
+Dialogue: 100,0:05:52.45,0:05:54.01,Normal Dialog Text,,0,0,0,,{\rCHS}如-如何进入动物园?\N{\rENG}H-How do get in the zoo?
+Dialogue: 100,0:05:54.31,0:05:57.13,Normal Dialog Text,,0,0,0,,{\rCHS}哦,又是那滑稽的噪音\N{\rENG}Oh, there it goes again with its hilarious noises.
+Dialogue: 100,0:05:57.47,0:05:59.16,Normal Dialog Text,,0,0,0,,{\rCHS}那么,你是如何进入动物园的?\N{\rENG}So, how do you get in the zoo?
+Dialogue: 100,0:05:59.49,0:06:02.03,Normal Dialog Text,,0,0,0,,{\rCHS}非常好的问题,伟大的壁下\N{\rENG}Excellent question, Your Grand Clarity.
+Dialogue: 100,0:06:02.45,0:06:04.45,Normal Dialog Text,,0,0,0,,{\rCHS}在一些特别情况下\N{\rENG}On the rare occasion that we would need
+Dialogue: 100,0:06:04.45,0:06:05.96,Normal Dialog Text,,0,0,0,,{\rCHS}我们进入收容区域\N{\rENG}to enter the containment area,
+Dialogue: 100,0:06:05.97,0:06:08.07,Normal Dialog Text,,0,0,0,,{\rCHS}要通过这个维护大门\N{\rENG}we would do so via this service door.
+Dialogue: 100,0:06:08.75,0:06:11.00,Normal Dialog Text,,0,0,0,,{\rCHS}爸爸,这个门是我们找到爸爸的关键\N{\rENG}Dad. That door's how we get to Dad.
+Dialogue: 100,0:06:11.33,0:06:12.87,Normal Dialog Text,,0,0,0,,{\rCHS}我们只需要分散一下注意力\N{\rENG}We just need to come up with a distraction.
+Dialogue: 100,0:06:13.31,0:06:13.75,Normal Dialog Text,,0,0,0,,{\rCHS}好的!\N{\rENG}Got it!
+Dialogue: 100,0:06:14.17,0:06:17.51,Normal Dialog Text,,0,0,0,,{\rCHS}作为单向接入点,这里并没有发生逃脱的可能性\N{\rENG}As one-way access point, there are no risks of an escape.
+Dialogue: 100,0:06:17.51,0:06:19.85,Normal Dialog Text,,0,0,0,,{\rCHS}实际上,只有一次这里被用于一个人类-\N{\rENG}In fact, it's only been used once for a human --
+Dialogue: 100,0:06:19.85,0:06:20.85,Normal Dialog Text,,0,0,0,,{\rCHS}爆炸!\N{\rENG}Explosion!
+Dialogue: 100,0:06:21.37,0:06:22.29,Normal Dialog Text,,0,0,0,,{\rCHS}对不起?\N{\rENG}Pardon me?
+Dialogue: 100,0:06:22.59,0:06:23.21,Normal Dialog Text,,0,0,0,,{\rCHS}呃...\N{\rENG}Uh.
+Dialogue: 100,0:06:23.51,0:06:26.95,Normal Dialog Text,,0,0,0,,{\rCHS}我刚想起来我忘了关掉引力引擎了\N{\rENG}I just remembered I left the gravity engine idling.
+Dialogue: 100,0:06:27.37,0:06:31.79,Normal Dialog Text,,0,0,0,,{\rCHS}对不起,蓝宝石,我真是健忘和廉价啊\N{\rENG}Sorry, my Sapphire, I'm so forgetful and disposable.
+Dialogue: 100,0:06:32.13,0:06:32.57,Normal Dialog Text,,0,0,0,,{\rCHS}这?\N{\rENG}What?
+Dialogue: 100,0:06:35.25,0:06:37.73,Normal Dialog Text,,0,0,0,,{\rCHS}...是一个我预见到的事件\N{\rENG}...a foreseen turn of events.
+Dialogue: 100,0:06:38.15,0:06:40.79,Normal Dialog Text,,0,0,0,,{\rCHS}是的,它将会过热并爆炸\N{\rENG}Yes, it is going to overheat and explode.
+Dialogue: 100,0:06:41.23,0:06:42.71,Normal Dialog Text,,0,0,0,,{\rCHS}破坏会非常巨大\N{\rENG}The damage will be massive.
+Dialogue: 100,0:06:43.04,0:06:43.85,Normal Dialog Text,,0,0,0,,{\rCHS}我的钻石啊！!\N{\rENG}My word!
+Dialogue: 100,0:06:44.17,0:06:46.75,Normal Dialog Text,,0,0,0,,{\rCHS}我不知道为什么有人会将宇宙飞船托付给红宝石\N{\rENG}I don't know why anyone trusts Rubies with those ships.
+Dialogue: 100,0:06:46.94,0:06:48.33,Normal Dialog Text,,0,0,0,,{\rCHS}这就是后果\N{\rENG}This is what happens.
+Dialogue: 100,0:06:48.79,0:06:50.67,Normal Dialog Text,,0,0,0,,{\rCHS}如果我们抓紧,我们能关掉引擎\N{\rENG}If we hurry, we can disable the engine
+Dialogue: 100,0:06:50.67,0:06:52.05,Normal Dialog Text,,0,0,0,,{\rCHS}避免任何破坏\N{\rENG}before any damage is done.
+Dialogue: 100,0:06:52.05,0:06:54.31,Normal Dialog Text,,0,0,0,,{\rCHS}我应该只要五分钟\N{\rENG}I should only take five minutes,
+Dialogue: 100,0:06:54.31,0:06:57.01,Normal Dialog Text,,0,0,0,,{\rCHS}所以每个人要做到行为规矩\N{\rENG}so everyone be on your best behavior.
+Dialogue: 100,0:06:58.89,0:06:59.27,Normal Dialog Text,,0,0,0,,{\rCHS}嗯?\N{\rENG}Hm?
+Dialogue: 100,0:07:00.45,0:07:01.19,Normal Dialog Text,,0,0,0,,{\rCHS}噢!\N{\rENG}Oh.
+Dialogue: 100,0:07:02.63,0:07:03.77,Normal Dialog Text,,0,0,0,,{\rCHS}来这里,璧下\N{\rENG}This way, Your Clarity.
+Dialogue: 100,0:07:04.33,0:07:06.99,Normal Dialog Text,,0,0,0,,{\rCHS}虽然,我确定你不需要我的指引\N{\rENG}Although, I'm sure you don't need my guidance.
+Dialogue: 100,0:07:08.01,0:07:08.76,Normal Dialog Text,,0,0,0,,{\rCHS}啊!\N{\rENG}Argh!
+Dialogue: 100,0:07:08.97,0:07:10.35,Normal Dialog Text,,0,0,0,,{\rCHS}我才不信\N{\rENG}I can't believe all that stuff
+Dialogue: 100,0:07:10.35,0:07:12.73,Normal Dialog Text,,0,0,0,,{\rCHS}蓝钻石有那么仁慈!\N{\rENG}about Blue Diamond being merciful!
+Dialogue: 100,0:07:12.97,0:07:14.09,Normal Dialog Text,,0,0,0,,{\rCHS}她会粉碎宝石啊!\N{\rENG}She's a shatterer!
+Dialogue: 100,0:07:14.37,0:07:17.40,Normal Dialog Text,,0,0,0,,{\rCHS}她对蓝宝石大喊大叫!她憎恨融合!\N{\rENG}She yelled at Sapphire! She hates Fusion!
+Dialogue: 100,0:07:17.40,0:07:18.67,Normal Dialog Text,,0,0,0,,{\rCHS}还有爱!\N{\rENG}And love!
+Dialogue: 100,0:07:18.67,0:07:21.07,Normal Dialog Text,,0,0,0,,{\rCHS}我知道,红宝石,但我们并没有多少时间了!\N{\rENG}I know, Ruby, but we don't have much time!
+Dialogue: 100,0:07:21.07,0:07:22.61,Normal Dialog Text,,0,0,0,,{\rCHS}我们得打开这道门!\N{\rENG}We have to open this door!
+Dialogue: 100,0:07:22.91,0:07:23.55,Normal Dialog Text,,0,0,0,,{\rCHS}好,好\N{\rENG}Right, right.
+Dialogue: 100,0:07:23.95,0:07:25.01,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠,开门!\N{\rENG}Pearl, open it!
+Dialogue: 100,0:07:25.27,0:07:27.37,Normal Dialog Text,,0,0,0,,{\rCHS}当然,我还会做什么?\N{\rENG}Of course. What else am I good for?
+Dialogue: 100,0:07:30.43,0:07:32.23,Normal Dialog Text,,0,0,0,,{\rCHS}这个和其他的不一样\N{\rENG}It's different than the other ones.
+Dialogue: 100,0:07:37.47,0:07:38.05,Normal Dialog Text,,0,0,0,,{\rCHS}啊哈!\N{\rENG}Aha!
+Dialogue: 100,0:07:41.51,0:07:43.43,Normal Dialog Text,,0,0,0,,{\rCHS}我其实根本理解不了这个\N{\rENG}I actually can't figure this out at all.
+Dialogue: 100,0:07:43.77,0:07:44.70,Normal Dialog Text,,0,0,0,,{\rCHS}什么?!\N{\rENG}What?!
+Dialogue: 100,0:07:44.91,0:07:46.95,Normal Dialog Text,,0,0,0,,{\rCHS}但珍珠,你是团队里的骇客\N{\rENG}But Pearl, you're our hacker.
+Dialogue: 100,0:07:46.95,0:07:48.07,Normal Dialog Text,,0,0,0,,{\rCHS}我们没那么多时间!\N{\rENG}We don't have time for this!
+Dialogue: 100,0:07:48.09,0:07:49.70,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文,帮我打开门!\N{\rENG}Steven, help me open the door!
+Dialogue: 100,0:07:49.91,0:07:50.35,Normal Dialog Text,,0,0,0,,{\rCHS}好的\N{\rENG}Okay.
+Dialogue: 100,0:07:50.57,0:07:52.13,Normal Dialog Text,,0,0,0,,{\rCHS}还有,珍珠,骇得快点!\N{\rENG}And Pearl, hack faster!
+Dialogue: 100,0:07:58.98,0:08:02.71,Normal Dialog Text,,0,0,0,,{\rCHS}我很高兴我们马上就回来了!\N{\rENG}I am so glad we're almost back!
+Dialogue: 100,0:08:02.95,0:08:05.55,Normal Dialog Text,,0,0,0,,{\rCHS}我真的很享受这次行程!\N{\rENG}I was really enjoying the tour!
+Dialogue: 100,0:08:06.07,0:08:08.73,Normal Dialog Text,,0,0,0,,{\rCHS}使得,我能从你的声音里听出来\N{\rENG}Yes, I can tell by the tone of your voice.
+Dialogue: 100,0:08:09.09,0:08:12.23,Normal Dialog Text,,0,0,0,,{\rCHS}再次感谢你避免了这次危机\N{\rENG}Thank you so much again for averting that crisis.
+Dialogue: 100,0:08:15.39,0:08:16.53,Normal Dialog Text,,0,0,0,,{\rCHS}发生了什么?\N{\rENG}What is going on?
+Dialogue: 100,0:08:16.93,0:08:19.17,Normal Dialog Text,,0,0,0,,{\rCHS}哦,呃,我确定这有合理的解释-\N{\rENG}Oh, well, I'm sure there's a reasonable --
+Dialogue: 100,0:08:19.17,0:08:21.03,Normal Dialog Text,,0,0,0,,{\rCHS}你们看到是哪个紫晶做的吗?\N{\rENG}Did you see the Amethyst that did this?
+Dialogue: 100,0:08:23.11,0:08:25.13,Normal Dialog Text,,0,0,0,,{\rCHS}我们可是有客人\N{\rENG}Really, we have guests.
+Dialogue: 100,0:08:25.47,0:08:27.89,Normal Dialog Text,,0,0,0,,{\rCHS}霍利蓝玛瑙-我们有非常重要的消息给你!\N{\rENG}Holly Blue Agate, - We have important news for you!
+Dialogue: 100,0:08:28.13,0:08:31.69,Normal Dialog Text,,0,0,0,,{\rCHS}我们在这些走廊中不能跑动或喧哗!\N{\rENG}We do not run or shout in these hallways!
+Dialogue: 100,0:08:32.11,0:08:33.39,Normal Dialog Text,,0,0,0,,{\rCHS}我对不起,只-只是-\N{\rENG}I'm sorry, i-it's just that --
+Dialogue: 100,0:08:33.39,0:08:35.31,Normal Dialog Text,,0,0,0,,{\rCHS}我怎么听出来你要说什么,\N{\rENG}How am I supposed to know what you're saying
+Dialogue: 100,0:08:35.31,0:08:36.59,Normal Dialog Text,,0,0,0,,{\rCHS}像你这样含混的话?\N{\rENG}when you're mumbling?
+Dialogue: 100,0:08:36.82,0:08:39.65,Normal Dialog Text,,0,0,0,,{\rCHS}呃,对不起,霍利蓝玛瑙,只是-\N{\rENG}Uh, I'm sorry, Holly Blue Agate, it's just --
+Dialogue: 100,0:08:39.67,0:08:41.05,Normal Dialog Text,,0,0,0,,{\rCHS}蓝钻石要来这里!\N{\rENG}Blue Diamond is on her way!
+Dialogue: 100,0:08:41.65,0:08:43.99,Normal Dialog Text,,0,0,0,,{\rCHS}哦 ,我的星星啊!她这就回来了?\N{\rENG}Oh, my stars! She's back already?
+Dialogue: 100,0:08:44.42,0:08:46.13,Normal Dialog Text,,0,0,0,,{\rCHS}你们两个,注意举止!\N{\rENG}You two, best behavior!
+Dialogue: 100,0:08:47.15,0:08:48.29,Normal Dialog Text,,0,0,0,,{\rCHS}肩膀要平!\N{\rENG}Shoulders squared!
+Dialogue: 100,0:08:48.97,0:08:49.97,Normal Dialog Text,,0,0,0,,{\rCHS}头脑专注!\N{\rENG}Minds cleared!
+Dialogue: 100,0:08:50.41,0:08:51.65,Normal Dialog Text,,0,0,0,,{\rCHS}站直了!\N{\rENG}Backs straight!
+Dialogue: 100,0:08:51.97,0:08:53.31,Normal Dialog Text,,0,0,0,,{\rCHS}而且,蓝钻石\N{\rENG}And surely, Blue Diamond
+Dialogue: 100,0:08:53.31,0:08:55.43,Normal Dialog Text,,0,0,0,,{\rCHS}肯定想亲自对您表达谢意\N{\rENG}will want to thank you personally
+Dialogue: 100,0:08:55.43,0:08:58.01,Normal Dialog Text,,0,0,0,,{\rCHS}非常感谢您的特别货物,伟大的璧下\N{\rENG}for this special delivery, Your Grand Clarity.
+Dialogue: 100,0:08:58.67,0:09:01.29,Normal Dialog Text,,0,0,0,,{\rCHS}是的,我觉得她会的\N{\rENG}Yes, I suppose she will.
+Dialogue: 100,0:09:03.31,0:09:06.01,Normal Dialog Text,,0,0,0,,{\rCHS}那么别傻站在这里,你们这群没用的土包子,\N{\rENG}Well don't just stand there, you useless chunks of earth,
+Dialogue: 100,0:09:06.39,0:09:08.68,Normal Dialog Text,,0,0,0,,{\rCHS}做点实事,护送那个人类\N{\rENG}make yourself useful and escort that human
+Dialogue: 100,0:09:08.68,0:09:10.01,Normal Dialog Text,,0,0,0,,{\rCHS}到同化隔间!\N{\rENG}to the assimilation bay!
+Dialogue: 100,0:09:10.25,0:09:12.18,Normal Dialog Text,,0,0,0,,{\rCHS}但是行程\N{\rENG}But the tour.
+Dialogue: 100,0:09:12.83,0:09:15.05,Normal Dialog Text,,0,0,0,,{\rCHS}哦,璧下,您真是太抬举我了\N{\rENG}Oh, Your Clarity, you flatter me.
+Dialogue: 100,0:09:15.05,0:09:16.91,Normal Dialog Text,,0,0,0,,{\rCHS}但我们真的必须得做好准备了\N{\rENG}But we really must get ready.
+Dialogue: 100,0:09:16.91,0:09:19.07,Normal Dialog Text,,0,0,0,,{\rCHS}我们的钻石随时都会到达!\N{\rENG}Our Diamond will be here at any moment!
+Dialogue: 100,0:09:19.93,0:09:22.49,Normal Dialog Text,,0,0,0,,{\rCHS}放开我,你们这群大号的紫晶!\N{\rENG}Let me go, you bigger Amethyst!
+Dialogue: 100,0:09:22.49,0:09:25.57,Normal Dialog Text,,0,0,0,,{\rCHS}哈,这些新鲜的人类真是胆肥啊\N{\rENG}Ha. These newer humans are so spunky.
+Dialogue: 100,0:09:25.57,0:09:26.57,Normal Dialog Text,,0,0,0,,{\rCHS}进去吧!\N{\rENG}In you go!
+Dialogue: 100,0:09:48.83,0:09:49.79,Normal Dialog Text,,0,0,0,,{\rCHS}这是-\N{\rENG}What the --
+Dialogue: 100,0:09:50.11,0:09:51.12,Normal Dialog Text,,0,0,0,,{\rCHS}呃...\N{\rENG}Uh...
+Dialogue: 100,0:10:01.77,0:10:02.25,Normal Dialog Text,,0,0,0,,{\rCHS}嘿!\N{\rENG}Hey!
+Dialogue: 100,0:10:07.17,0:10:07.94,Normal Dialog Text,,0,0,0,,{\rCHS}不!\N{\rENG}Nope!
+Dialogue: 100,0:10:08.33,0:10:09.87,Normal Dialog Text,,0,0,0,,{\rCHS}我自己会脱\N{\rENG}I can do that myself.
+Dialogue: 100,0:10:12.21,0:10:14.19,Normal Dialog Text,,0,0,0,,{\rCHS}看样子只能光着身子找爸爸了\N{\rENG}I'll just find my dad without pants.
+Dialogue: 100,0:10:28.47,0:10:29.71,Normal Dialog Text,,0,0,0,,{\rCHS}兜裆布\N{\rENG}Loin cloths.
+Dialogue: 100,0:10:34.63,0:10:37.67,Normal Dialog Text,,0,0,0,,{\rCHS}好吧,还有什么?你们还想从我这里得到什么?\N{\rENG}Okay, what else, huh? What else you got for me?
+Dialogue: 100,0:10:37.95,0:10:39.91,Normal Dialog Text,,0,0,0,,{\rCHS}我现在处于老爸任务的肾上腺素模式\N{\rENG}I'm on that dad-mission adrenalin rush
+Dialogue: 100,0:10:39.91,0:10:42.87,Normal Dialog Text,,0,0,0,,{\rCHS}随时准备着对付你们接下来的太空狗屁呢\N{\rENG}and ready for whatever space junk you have next.
+Dialogue: 100,0:10:42.91,0:10:45.93,Normal Dialog Text,,0,0,0,,{\rCHS}高科技赶牛棒,人用马掌-\N{\rENG}Futuristic cattle prods, human horseshoes --
+Dialogue: 100,0:10:45.93,0:10:48.49,Normal Dialog Text,,0,0,0,,{\rCHS}随便你,来对付我啊!\N{\rENG}whatever you got, come and get me!
+Dialogue: 100,0:11:01.27,0:11:01.87,Normal Dialog Text,,0,0,0,,{\rCHS}呃?\N{\rENG}Huh?
+Dialogue: 100,0:11:02.33,0:11:02.79,Normal Dialog Text,,0,0,0,,{\rCHS}什么-\N{\rENG}What the --
+Dialogue: 100,0:11:05.17,0:11:06.89,Normal Dialog Text,,0,0,0,,{\rCHS}这是哪里?\N{\rENG}What is this place?
+Dialogue: 100,0:11:07.15,0:11:08.03,Normal Dialog Text,,0,0,0,,{\rCHS}而-而且爸爸在...\N{\rENG}A-And where's...
+Dialogue: 100,0:11:11.17,0:11:11.83,Normal Dialog Text,,0,0,0,,{\rCHS}这儿?\N{\rENG}Dad?

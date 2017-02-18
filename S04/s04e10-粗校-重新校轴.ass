@@ -11,29 +11,31 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: SU Pub
-Audio File: ../../../Steven.Universe/S04/WEBRip/Steven.Universe.S04E10.Stevens.Dream.1080p.WEBRip.h264.AAC-Homemade.mkv
-Video File: ../../../Steven.Universe/S04/WEBRip/Steven.Universe.S04E10.Stevens.Dream.1080p.WEBRip.h264.AAC-Homemade.mkv
+Audio File: ../../../Steven.Universe/S04/Steven.Universe.S04E10.Stevens.Dream.1080p.WEB-DL.AAC2.0.H264-iT00NZ.mkv
+Video File: ../../../Steven.Universe/S04/Steven.Universe.S04E10.Stevens.Dream.1080p.WEB-DL.AAC2.0.H264-iT00NZ.mkv
 Video AR Mode: 4
 Video AR Value: 1.780669
 Video Zoom Percent: 0.500000
-Scroll Position: 9
-Active Line: 21
-Video Position: 607
+Active Line: 12
+Video Position: 571
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.99999,1.99999,2,11,11,11,1
-Style: Label Trans,微软雅黑,65,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.99999,1.99999,2,11,11,11,1
-Style: Normal Dialog Text,Arial,48,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.99999,1.99999,2,11,11,11,1
-Style: SU Title,方正粗圆_GBK,101,&H00AD8C6F,&H000019FF,&H00FFFFFF,&H00DBDDC7,-1,0,0,0,100,100,0,0,1,8,12,2,11,11,11,1
-Style: SU Team Member,方正粗圆_GBK,42,&H00AB8B77,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,2,11,11,11,1
-Style: SU Team Title,方正粗圆_GBK,48,&H00B39DE7,&H00FFFFFF,&H00FFFFFF,&H00DBDDC7,-1,0,0,0,100,100,0,0,1,0,0,2,11,11,11,1
-Style: SU Team Background,Arial,20,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,11,11,11,1
-Style: Song Lyrics Text,华文楷体,20,&H00EAEAEA,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.99999,1.99999,2,11,11,11,1
-Style: CHS,微软雅黑,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
-Style: ENG,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
-Style: CHS_LYC,华文楷体,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
-Style: ENG_LYC,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: Label Trans,微软雅黑,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Normal Dialog Text,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,4,2,10,10,30,1
+Style: SU Title,方正粗圆_GBK,150,&H009F6701,&H000000FF,&H00FBFBFC,&H00FBE4A0,0,0,0,0,100,100,0,0,1,20,4,2,10,10,10,1
+Style: SU Team Member,方正粗圆_GBK,48,&H009B6908,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: SU Team Title,方正粗圆_GBK,48,&H00C49794,&H00FFFFFF,&H00FFFFFF,&H00DBE0C9,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: SU Team Background,Arial,20,&H00FBFAFC,&H000000FF,&H00000000,&H00FEE9B9,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Song Lyrics Text,华文楷体,20,&H00EAEAEA,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: CHS,微软雅黑,72,&H00FFFFFF,&H000000FF,&H00171717,&H00171717,0,0,0,0,100,100,0,0,1,6,3,2,10,10,10,1
+Style: ENG,Arial,48,&H00FFFFFF,&H000000FF,&H00171717,&H00171717,0,0,0,0,100,100,0,0,1,6,3,2,10,10,10,1
+Style: CHS_LYC,华文楷体,72,&H00FFFFFF,&H000000FF,&H00171717,&H00171717,0,0,0,0,100,100,0,0,1,6,3,2,10,10,10,1
+Style: ENG_LYC,Arial,48,&H00FFFFFF,&H000000FF,&H00171717,&H00171717,0,0,0,0,100,100,0,0,1,6,3,2,10,10,10,1
+Style: Hint,微软雅黑,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: Background Dialogue,微软雅黑,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,20,1
+Style: SU Claim,方正粗圆_GBK,48,&H00F0F0F0,&H00FFFFFF,&H00151515,&H00DBE0C9,0,0,0,0,100,100,0,0,1,3,0,8,10,10,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -49,16 +51,19 @@ Dialogue: 150,0:00:17.91,0:00:18.57,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}石榴\N
 Dialogue: 150,0:00:18.57,0:00:19.87,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}紫晶\N{\rENG_LYC}♪ Amethyst
 Dialogue: 150,0:00:19.87,0:00:21.33,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}和珍珠\N{\rENG_LYC}♪ and Pearl
 Dialogue: 150,0:00:21.35,0:00:23.00,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}和史蒂文！\N{\rENG_LYC}and Steven!
-Dialogue: 1,0:00:23.76,0:00:25.25,SU Title,,0,0,0,,{\pos(1170,135)\bord8\xshad0\yshad12\c&HB88983&\3c&HEBE6D9&\4c&HE8CB8D&}史蒂文的梦
-Dialogue: 1,0:00:25.29,0:00:26.82,SU Team Title,,0,0,0,,{\pos(1700,360)\bord0\shad0\c&HC49499&}出品
-Dialogue: 1,0:00:25.29,0:00:26.82,SU Team Member,,0,0,0,,{\pos(1700,400)\bord0\shad0\c&H8B5804&}UUU字幕组
-Dialogue: 1,0:00:25.29,0:00:26.82,SU Team Title,,0,0,0,,{\pos(1700,460)\bord0\shad0\c&HB89E99&}翻译
-Dialogue: 1,0:00:25.29,0:00:26.82,SU Team Member,,0,0,0,,{\pos(1700,500)\bord0\shad0\c&H8B5804&}presisco
-Dialogue: 1,0:00:25.29,0:00:26.82,SU Team Title,,0,0,0,,{\pos(1700,560)\bord0\shad0\c&HB89E99&}特效
-Dialogue: 1,0:00:25.29,0:00:26.82,SU Team Member,,0,0,0,,{\pos(1700,600)\bord0\shad0\c&H8B5804&}presisco
-Dialogue: 1,0:00:25.29,0:00:26.82,SU Team Title,,0,0,0,,{\pos(1700,660)\bord0\shad0\c&HB89E99&}压制
-Dialogue: 1,0:00:25.29,0:00:26.82,SU Team Member,,0,0,0,,{\pos(1700,700)\bord0\shad0\c&H8B5804&}依依
-Dialogue: 0,0:00:25.29,0:00:26.82,SU Team Background,,0,0,0,,{\pos(1744,776)\bord0\xshad0\yshad16\c&HFCFCFC&\4c&HFCE6B7&}{\p1}m 72 0 b -46 0 -46 170 72 170 l 115 170 b -37 149 -36 374 115 344 l 72 344 b -46 344 -46 514 72 514 l 285 514 b 394 514 419 323 285 344 l 328 344 l 328 344 b 433 344 433 170 328 170 l 285 170 l 285 170 b 419 191 419 1 285 1 l 72 0 {\p0}
+Dialogue: 1,0:00:23.81,0:00:25.31,SU Title,,0,0,0,,{\xshad-12\yshad12\pos(1711,477)}史蒂文\N的梦
+Dialogue: 1,0:00:25.31,0:00:26.81,SU Claim,,0,0,0,,欢迎关注微博@UUU字幕组，获取最新熟肉信息！
+Dialogue: 1,0:00:25.31,0:00:26.81,SU Team Title,,0,0,0,,{\pos(1725,260)}出品
+Dialogue: 1,0:00:25.31,0:00:26.81,SU Team Member,,0,0,0,,{\pos(1725,320)}UUU字幕组
+Dialogue: 1,0:00:25.31,0:00:26.81,SU Team Title,,0,0,0,,{\pos(1725,380)}翻译
+Dialogue: 1,0:00:25.31,0:00:26.81,SU Team Member,,0,0,0,,{\pos(1725,440)}presisco
+Dialogue: 1,0:00:25.31,0:00:26.81,SU Team Title,,0,0,0,,{\pos(1725,500)}校对
+Dialogue: 1,0:00:25.31,0:00:26.81,SU Team Member,,0,0,0,,{\pos(1725,560)}SG/Husky
+Dialogue: 1,0:00:25.31,0:00:26.81,SU Team Title,,0,0,0,,{\pos(1725,620)}特效
+Dialogue: 1,0:00:25.31,0:00:26.81,SU Team Member,,0,0,0,,{\pos(1725,680)}presisco
+Dialogue: 1,0:00:25.31,0:00:26.81,SU Team Title,,0,0,0,,{\pos(1725,740)}压制
+Dialogue: 1,0:00:25.31,0:00:26.81,SU Team Member,,0,0,0,,{\pos(1725,800)}presisco
+Dialogue: 0,0:00:25.31,0:00:26.81,SU Team Background,,0,0,0,,{\bord0\xshad-0\yshad16\pos(1725,860)}{\p1}m -1 122 b -1 -19 -19 -1 122 -1 l 251 -1 b 390 -1 377 -19 377 122 l 377 500 b 377 642 390 628 251 628 l 122 628 b -19 628 -1 642 -1 500 l -1 122 {\p0}
 Dialogue: 100,0:00:30.34,0:00:31.10,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文？\N{\rENG}Steven?
 Dialogue: 100,0:00:32.18,0:00:33.04,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文？\N{\rENG}Steven?
 Dialogue: 100,0:00:34.26,0:00:35.63,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文！\N{\rENG}Steven!
