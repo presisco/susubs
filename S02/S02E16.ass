@@ -16,9 +16,9 @@ Video File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E16.Onion.Frien
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 6
-Active Line: 20
-Video Position: 650
+Scroll Position: 192
+Active Line: 197
+Video Position: 10947
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -30,7 +30,7 @@ Style: SU Team Member,幼圆,36,&H00A98B79,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,-1,0
 Style: SU Team Title,幼圆,32,&H00B394E1,&H00FFFFFF,&H00FFFFFF,&H00DBE0C9,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: SU Team Background,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: Song Lyrics Text,华文楷体,20,&H00EAEAEA,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Background Dialogue,微软雅黑,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Background Dialogue,微软雅黑,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
 Style: Hint,微软雅黑,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,1
 
 [Events]
@@ -232,8 +232,8 @@ Dialogue: 0,0:07:31.86,0:07:33.38,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 100,0:07:33.38,0:07:34.16,Background Dialogue,Vidalia,0,0,0,,{\fn微软雅黑\fs64\pos(960,120)\c&HB9F1FA&}我准备好了！\N{\fnArial\fs48}I'm ready!
 Dialogue: 0,0:07:34.30,0:07:35.60,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}她准备好做什么？\N{\fnArial\fs48}What's she getting ready for?
 Dialogue: 100,0:07:35.60,0:07:36.18,Background Dialogue,Vidalia,0,0,0,,{\fn微软雅黑\fs64\pos(960,120)\c&HB9F1FA&}哦\N{\fnArial\fs48}Oh.
-Dialogue: 100,0:07:36.55,0:07:38.66,Background Dialogue,Vidalia,0,0,0,,{\fn微软雅黑\fs64\pos(960,120)\c&HB9F1FA&}哦-黄鳍-我觉得...\N{\fnArial\fs48}Oh, Yellowtail, I think...
-Dialogue: 100,0:07:38.95,0:07:40.78,Background Dialogue,Vidalia,0,0,0,,{\fn微软雅黑\fs64\pos(960,120)\c&HB9F1FA&}哦-他要出来了\N{\fnArial\fs48}Oh, it's happening!
+Dialogue: 100,0:07:36.55,0:07:38.66,Background Dialogue,Vidalia,0,0,0,,{\fn微软雅黑\fs64\c&HB9F1FA&}哦-黄鳍-我觉得...\N{\fnArial\fs48}Oh, Yellowtail, I think...
+Dialogue: 100,0:07:38.95,0:07:40.78,Background Dialogue,Vidalia,0,0,0,,{\fn微软雅黑\fs64\c&HB9F1FA&}哦-他要出来了\N{\fnArial\fs48}Oh, it's happening!
 Dialogue: 0,0:07:41.00,0:07:42.74,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃，等下！发生了什么？！\N{\fnArial\fs48}Ugh, wait! What's going on?!
 Dialogue: 100,0:07:42.88,0:07:43.96,Background Dialogue,Vidalia,0,0,0,,{\fn微软雅黑\fs64\pos(960,120)\c&HB9F1FA&}他来了！\N{\fnArial\fs48}Here he comes!
 Dialogue: 500,0:07:44.80,0:07:46.80,Label Trans,,0,0,0,,{\fn隶书\fs128\frz13.72\pos(974,324)\c&H6143B1&\bord0\shad0}生日快乐，洋葱头

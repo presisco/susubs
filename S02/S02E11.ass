@@ -10,42 +10,48 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
-Last Style Storage: Default
+Last Style Storage: SU Pub
 Audio File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E11.Keeping.It.Together.1080p.WEBRip.h264.AAC-AliQ.mp4
 Video File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E11.Keeping.It.Together.1080p.WEBRip.h264.AAC-AliQ.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 157
-Active Line: 172
-Video Position: 11895
+Video Zoom Percent: 0.500000
+Scroll Position: 217
+Active Line: 11
+Video Position: 513
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Label Trans,微软雅黑,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Normal Dialog Text,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: SU Title,幼圆,100,&H00AB8D72,&H000000FF,&H00FFFFFF,&H00DBE0C9,-1,0,0,0,100,100,0,0,1,8,12,2,10,10,10,1
-Style: SU Team Member,幼圆,36,&H00A98B79,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: SU Team Title,幼圆,32,&H00B394E1,&H00FFFFFF,&H00FFFFFF,&H00DBE0C9,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: Song Lyrics Text,华文楷体,20,&H00EAEAEA,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: SU Team Background,Arial,20,&H00E8E8E8,&H000000FF,&H00000000,&H00DDE1C7,0,0,0,0,100,100,0,0,1,0,2,2,10,10,10,1
-Style: Hint,微软雅黑,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,1
+Style: Label Trans,微软雅黑,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Normal Dialog Text,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,4,2,10,10,30,1
+Style: SU Title,方正粗圆_GBK,120,&H00C49B74,&H000000FF,&H00FBFBFC,&H00FCFFE7,0,0,0,0,100,100,0,0,1,3,4,2,10,10,10,1
+Style: SU Team Member,方正粗圆_GBK,48,&H00AB8F70,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: SU Team Title,方正粗圆_GBK,48,&H00B299D6,&H00FFFFFF,&H00FFFFFF,&H00DBE0C9,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Song Lyrics Text,华文楷体,20,&H00EAEAEA,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: SU Team Background,Arial,20,&H00FBFCFC,&H000000FF,&H00000000,&H00FFFFE7,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Hint,微软雅黑,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: Background Dialogue,微软雅黑,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,20,1
+Style: CHS,微软雅黑,72,&H00FFFFFF,&H000000FF,&H00171717,&H00171717,0,0,0,0,100,100,0,0,1,6,3,2,10,10,10,1
+Style: ENG,Arial,48,&H00FFFFFF,&H000000FF,&H00171717,&H00171717,0,0,0,0,100,100,0,0,1,6,3,2,10,10,10,1
+Style: CHS_LYC,华文楷体,72,&H00FFFFFF,&H000000FF,&H00171717,&H00171717,0,0,0,0,100,100,0,0,1,6,3,2,10,10,10,1
+Style: ENG_LYC,Arial,48,&H00FFFFFF,&H000000FF,&H00171717,&H00171717,0,0,0,0,100,100,0,0,1,6,3,2,10,10,10,1
+Style: SU Claim,方正粗圆_GBK,48,&H00F0F0F0,&H00FFFFFF,&H00151515,&H00DBE0C9,0,0,0,0,100,100,0,0,1,3,0,8,10,10,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.90,0:00:03.40,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我们，是水晶\N{\fnArial\fs48}♪ We ♪ are the crystal
-Dialogue: 0,0:00:03.41,0:00:04.60,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}战士\N{\fnArial\fs48}♪ gems
-Dialogue: 0,0:00:04.61,0:00:06.84,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我们总能拯救世界\N{\fnArial\fs48}♪ we'll always save the day
-Dialogue: 0,0:00:06.84,0:00:09.84,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}如果你认为我们不行\N{\fnArial\fs48}Steven: ♪ and if you think we can't, we'll ♪
-Dialogue: 0,0:00:09.85,0:00:12.18,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我们总能找到方法\N{\fnArial\fs48}♪ always find a way
-Dialogue: 0,0:00:12.18,0:00:14.18,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}这就是为什么这个世界\N{\fnArial\fs48}♪ that's why the people
-Dialogue: 0,0:00:14.18,0:00:16.25,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}的人\N{\fnArial\fs48}♪ of this world
-Dialogue: 0,0:00:16.25,0:00:17.95,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}相信\N{\fnArial\fs48}♪ believe in
-Dialogue: 0,0:00:17.95,0:00:18.75,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}石榴\N{\fnArial\fs48}♪ Garnet
-Dialogue: 0,0:00:18.75,0:00:19.82,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}紫晶\N{\fnArial\fs48}Amethyst: ♪ Amethyst
-Dialogue: 0,0:00:19.82,0:00:21.35,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}和珍珠\N{\fnArial\fs48}Pearl: ♪ and Pearl
-Dialogue: 0,0:00:21.36,0:00:23.06,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}和史蒂文！\N{\fnArial\fs48}and Steven!
+Dialogue: 150,0:00:00.90,0:00:03.40,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们，是水晶\N{\rENG_LYC}♪ We ♪ are the crystal
+Dialogue: 150,0:00:03.41,0:00:04.60,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}战士\N{\rENG_LYC}♪ gems
+Dialogue: 150,0:00:04.61,0:00:06.84,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们总能拯救世界\N{\rENG_LYC}♪ we'll always save the day
+Dialogue: 150,0:00:06.84,0:00:09.84,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}如果你认为我们不行\N{\rENG_LYC}Steven: ♪ and if you think we can't, we'll ♪
+Dialogue: 150,0:00:09.85,0:00:12.18,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们总能找到方法\N{\rENG_LYC}♪ always find a way
+Dialogue: 150,0:00:12.18,0:00:14.18,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}这就是为什么这个世界\N{\rENG_LYC}♪ that's why the people
+Dialogue: 150,0:00:14.18,0:00:16.25,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}的人\N{\rENG_LYC}♪ of this world
+Dialogue: 150,0:00:16.25,0:00:17.95,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}相信\N{\rENG_LYC}♪ believe in
+Dialogue: 150,0:00:17.95,0:00:18.75,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}石榴\N{\rENG_LYC}♪ Garnet
+Dialogue: 150,0:00:18.75,0:00:19.82,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}紫晶\N{\rENG_LYC}Amethyst: ♪ Amethyst
+Dialogue: 150,0:00:19.82,0:00:21.35,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}和珍珠\N{\rENG_LYC}Pearl: ♪ and Pearl
+Dialogue: 150,0:00:21.36,0:00:23.06,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}和史蒂文！\N{\rENG_LYC}and Steven!
 Dialogue: 1,0:00:23.49,0:00:24.94,SU Title,,0,0,0,,{\xshad-0\yshad16\pos(1141,181)}在一起
 Dialogue: 1,0:00:24.94,0:00:26.34,SU Team Title,,0,0,0,,{\pos(1700,360)}翻译
 Dialogue: 1,0:00:24.94,0:00:26.34,SU Team Member,,0,0,0,,{\pos(1700,410)}零玖/presisco
@@ -56,214 +62,214 @@ Dialogue: 1,0:00:24.94,0:00:26.34,SU Team Member,,0,0,0,,{\pos(1700,610)}presisc
 Dialogue: 1,0:00:24.94,0:00:26.34,SU Team Title,,0,0,0,,{\pos(1700,660)}压制
 Dialogue: 1,0:00:24.94,0:00:26.34,SU Team Member,,0,0,0,,{\pos(1700,710)}presisco
 Dialogue: 0,0:00:24.94,0:00:26.34,SU Team Background,,0,0,0,,{\pos(1744,776)\xshad-0\yshad16}{\p1}m 72 0 b -46 0 -46 170 72 170 l 115 170 b -37 149 -36 374 115 344 l 72 344 b -46 344 -46 514 72 514 l 285 514 b 394 514 419 323 285 344 l 328 344 l 328 344 b 433 344 433 170 328 170 l 285 170 l 285 170 b 419 191 419 1 285 1 l 72 0 {\p0}
-Dialogue: 0,0:00:27.93,0:00:30.20,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们必须找到橄榄石\N{\fnArial\fs48}We need to track down Peridot.
-Dialogue: 0,0:00:30.20,0:00:31.40,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们找到了她的逃生舱\N{\fnArial\fs48}We found her pod.
-Dialogue: 0,0:00:31.40,0:00:33.37,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们知道她就在地球上\N{\fnArial\fs48}We know she's out there somewhere.
-Dialogue: 0,0:00:33.37,0:00:35.40,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}她来这里是因为有工作\N{\fnArial\fs48}She came to earth with a job to do,
-Dialogue: 0,0:00:35.40,0:00:38.07,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}而且很可能她还会试着完成\N{\fnArial\fs48}and odds are she's still gonna try to do it.
-Dialogue: 0,0:00:38.07,0:00:39.94,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这是我将大家聚集到这里的原因\N{\fnArial\fs48}That's why I've gathered you here.
-Dialogue: 0,0:00:39.94,0:00:43.61,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我以为是你为了能帮我把衣服都叠了\N{\fnArial\fs48}I thought it was so you could help me fold all this laundry.
-Dialogue: 0,0:00:43.61,0:00:44.75,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}啊，当然\N{\fnArial\fs48}Mm, that too.
-Dialogue: 0,0:00:44.75,0:00:47.58,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你的家务轮的点子很快就失效了\N{\fnArial\fs48}The chore wheel idea you had fell apart fast.
-Dialogue: 0,0:00:47.58,0:00:49.12,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}不是我干的\N{\fnArial\fs48}Wasn't me.
-Dialogue: 0,0:00:51.42,0:00:54.26,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我只是很乐于做这些事\N{\fnArial\fs48}I just really enjoy doing all of those things.
-Dialogue: 0,0:00:54.26,0:00:57.46,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们最好一起做\N{\fnArial\fs48}It's better if we do them {\i1}together.{\i}
-Dialogue: 0,0:00:59.29,0:01:01.96,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}人类应该不穿衣服\N{\fnArial\fs48}Humans should just stop wearing clothes.
-Dialogue: 0,0:01:01.96,0:01:03.73,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这会有趣很多\N{\fnArial\fs48}It'd be a lot funnier.
-Dialogue: 0,0:01:03.73,0:01:05.07,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}嘿！\N{\fnArial\fs48}Hey!
-Dialogue: 0,0:01:05.07,0:01:08.90,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我是个有教养的半人，不谢！\N{\fnArial\fs48}I'm a civilified part-human, thank you very much.
-Dialogue: 0,0:01:08.91,0:01:10.74,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}衣服是必需品\N{\fnArial\fs48}Clothing is a must.
-Dialogue: 0,0:01:12.11,0:01:13.94,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}有点多啊\N{\fnArial\fs48}This {\i1}is{\i} a lot.
-Dialogue: 0,0:01:13.94,0:01:16.28,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我打赌如果红宝石和蓝宝石在的话\N{\fnArial\fs48}I bet this folding would go faster
-Dialogue: 0,0:01:16.28,0:01:18.48,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}叠起来一定会更快的\N{\fnArial\fs48}if Ruby and Sapphire were here.
-Dialogue: 0,0:01:18.48,0:01:20.92,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我肯定她们会乐于见到你，史蒂文\N{\fnArial\fs48}I'm sure they'd be glad to see you, Steven,
-Dialogue: 0,0:01:20.92,0:01:24.35,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我不会为了衣物解体的\N{\fnArial\fs48}but I am not unfusing for laundry.
-Dialogue: 0,0:01:24.35,0:01:25.25,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}嗷\N{\fnArial\fs48}Aw.
-Dialogue: 0,0:01:25.25,0:01:26.59,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}石榴，你不认为\N{\fnArial\fs48}Garnet, you don't think
-Dialogue: 0,0:01:26.59,0:01:29.09,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}橄榄石会来找我们吧？\N{\fnArial\fs48}Peridot would come looking for us, do you?
-Dialogue: 0,0:01:29.09,0:01:30.66,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们不是她的首要目标\N{\fnArial\fs48}{\i1}We{\i} weren't her priority.
-Dialogue: 0,0:01:30.66,0:01:33.26,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}她被派来完成幼儿园的工作\N{\fnArial\fs48}She was sent here to do something in the kindergarten.
-Dialogue: 0,0:01:33.26,0:01:36.43,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你觉得她还会尝试重启幼儿园？\N{\fnArial\fs48}Do you think she's still going to try to reactivate it?
-Dialogue: 0,0:01:37.97,0:01:40.94,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}如果她重启成功了，注射器会重新工作的\N{\fnArial\fs48}If she gets it up and running, the injectors will turn back on.
-Dialogue: 0,0:01:40.94,0:01:42.70,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}注...射器？\N{\fnArial\fs48}In...Jectors?
-Dialogue: 0,0:01:42.71,0:01:43.94,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}那...那是什么？\N{\fnArial\fs48}W-what are those?
-Dialogue: 0,0:01:43.94,0:01:45.94,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你已经看到过了\N{\fnArial\fs48}You've already seen them.
-Dialogue: 0,0:01:45.94,0:01:48.28,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}或者，你看到的是停用的\N{\fnArial\fs48}Well, you've seen them disabled.
-Dialogue: 0,0:01:48.28,0:01:49.68,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}如果橄榄石重新启动了注射器\N{\fnArial\fs48}If Peridot reactivates them,
-Dialogue: 0,0:01:49.68,0:01:51.61,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}它们会继续工作\N{\fnArial\fs48}they'll pick right up where they left off --
-Dialogue: 0,0:01:51.61,0:01:53.71,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}在地壳中种下宝石人\N{\fnArial\fs48}planting gems in the crust of the earth,
-Dialogue: 0,0:01:53.72,0:01:55.02,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}在那里他们会慢慢孵化\N{\fnArial\fs48}where they'll incubate
-Dialogue: 0,0:01:55.02,0:01:57.22,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}并从地表吸光生命\N{\fnArial\fs48}and suck the life right out of the ground.
-Dialogue: 0,0:01:57.22,0:02:00.29,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们不能让橄榄石重启这里的宝石人生产\N{\fnArial\fs48}We can't let Peridot restart gem production here.
-Dialogue: 0,0:02:00.29,0:02:04.39,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}如果失败了，整个星球会变成\N{\fnArial\fs48}If we do, the entire planet will become...
-Dialogue: 0,0:02:04.39,0:02:06.03,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}一片荒芜\N{\fnArial\fs48}Janked.
-Dialogue: 0,0:02:06.03,0:02:09.13,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}石榴！用词不错嘛！\N{\fnArial\fs48}Garnet!  That mouth!
-Dialogue: 0,0:02:10.23,0:02:13.53,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}不用担心。我们会阻止她\N{\fnArial\fs48}Don't worry. We'll stop her.
-Dialogue: 0,0:02:14.64,0:02:16.00,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}来吧，水晶战士\N{\fnArial\fs48}Come on, crystal gems.
-Dialogue: 0,0:02:16.01,0:02:17.30,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}马上\N{\fnArial\fs48}Coming.
-Dialogue: 0,0:02:17.31,0:02:21.18,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃。只要我们不用叠东西\N{\fnArial\fs48}Ugh. As long as we don't have to fold anything.
-Dialogue: 0,0:02:21.18,0:02:22.48,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}史蒂文\N{\fnArial\fs48}Steven.
-Dialogue: 0,0:02:22.48,0:02:25.05,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}来啊。显然也有你，对不对？\N{\fnArial\fs48}Come on. That means you, too, right?
-Dialogue: 0,0:02:28.58,0:02:31.19,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}毕竟你也是一个有教养的半宝石人\N{\fnArial\fs48}You're a civilified part-gem, too, after all.
-Dialogue: 0,0:02:31.19,0:02:33.85,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}石榴，你确定我们可以带上史蒂文？\N{\fnArial\fs48}Garnet, are you sure we should bring Steven?
-Dialogue: 0,0:02:33.86,0:02:35.32,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这可能比较危险\N{\fnArial\fs48}This might be dangerous.
-Dialogue: 0,0:02:35.32,0:02:38.16,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们完全可以对付橄榄石\N{\fnArial\fs48}Peridot's got nothing we can't handle.
-Dialogue: 0,0:02:46.50,0:02:49.54,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}好吧，看起来没有启动的痕迹\N{\fnArial\fs48}Well, nothing {\i1}looks{\i} activated.
-Dialogue: 0,0:02:49.54,0:02:52.71,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}实际上，没有东西看起来被修复过\N{\fnArial\fs48}In fact, it doesn't look like anything's budged
-Dialogue: 0,0:02:52.71,0:02:55.04,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}离上次来都这么长时间了\N{\fnArial\fs48}since the last time we were here.
-Dialogue: 0,0:02:55.04,0:02:56.38,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你说的对\N{\fnArial\fs48}You're right.
-Dialogue: 0,0:02:56.38,0:02:58.61,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但只是因为橄榄石还没来这里\N{\fnArial\fs48}But just because Peridot hasn't been here yet
-Dialogue: 0,0:02:58.61,0:03:00.41,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}不意味着她不会来\N{\fnArial\fs48}doesn't mean she won't come.
-Dialogue: 0,0:03:01.62,0:03:03.45,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们来对场地做个仔细的检查\N{\fnArial\fs48}Let's do a thorough check of the perimeter.
-Dialogue: 0,0:03:03.45,0:03:06.19,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这样，我们能监视任何将来进入的人\N{\fnArial\fs48}Mm-hmm. That way, we can monitor any future entry.
-Dialogue: 0,0:03:06.19,0:03:08.29,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我觉得不错\N{\fnArial\fs48}Hm. Sounds good to me.
-Dialogue: 0,0:03:21.54,0:03:25.37,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}记录日期 陆 贰 伍。我是橄榄石\N{\fnArial\fs48}Log date 652. This is Peridot.
-Dialogue: 0,0:03:25.37,0:03:29.38,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}更新状态——仍在被困在这可悲的星球上\N{\fnArial\fs48}Updating status -- still stuck on miserable planet.
-Dialogue: 0,0:03:29.38,0:03:32.25,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}融合实验的进展十分顺利\N{\fnArial\fs48}The fusion experiments are developing properly.
-Dialogue: 0,0:03:32.25,0:03:34.05,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}一少部分实验品已经提前孵化——\N{\fnArial\fs48}A few have even emerged early --
-Dialogue: 0,0:03:34.05,0:03:35.38,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呀～哈！\N{\fnArial\fs48}eugggh! Huh!
-Dialogue: 0,0:03:39.72,0:03:43.46,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}其他人和你在一起吗？\N{\fnArial\fs48}Are the other ones with you?
-Dialogue: 0,0:03:50.73,0:03:53.17,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}当然。怎么会不呢？\N{\fnArial\fs48}Of course. Why not?
-Dialogue: 0,0:03:53.17,0:03:54.30,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}橄榄石！\N{\fnArial\fs48}Peridot!
-Dialogue: 0,0:03:54.30,0:03:56.52,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}她在那！——啊！\N{\fnArial\fs48}There she is!Aah!
-Dialogue: 0,0:03:57.74,0:03:59.97,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你无处可逃！你已经被包围了！\N{\fnArial\fs48}There's nowhere to go! You're cornered!
-Dialogue: 0,0:04:04.51,0:04:06.95,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}嘿！我做不了这个！\N{\fnArial\fs48}Hey! I can't do that!
-Dialogue: 0,0:04:06.95,0:04:08.65,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}她也别想！\N{\fnArial\fs48}Neither can she!
-Dialogue: 0,0:04:10.85,0:04:12.42,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哈！歪了！\N{\fnArial\fs48}Ha! Missed!
-Dialogue: 0,0:04:17.86,0:04:18.99,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃？\N{\fnArial\fs48}Huh?
-Dialogue: 0,0:04:19.00,0:04:20.96,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}啊啊啊！\N{\fnArial\fs48}Aaah!
-Dialogue: 0,0:04:22.00,0:04:24.43,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}啊啊啊啊！\N{\fnArial\fs48}Aaaah!
-Dialogue: 0,0:04:25.60,0:04:27.10,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你觉得她受伤了吗？\N{\fnArial\fs48}Do you think she's hurt?!
-Dialogue: 0,0:04:29.30,0:04:30.23,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}并没有\N{\fnArial\fs48}Nope.
-Dialogue: 0,0:04:35.28,0:04:36.61,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}喔！鞭子变烫了！\N{\fnArial\fs48}Whoooooa! Hot whip!
-Dialogue: 0,0:04:37.81,0:04:40.78,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你们这群水晶草包！来啊！互相伤害啊！\N{\fnArial\fs48}You crystal clods! Go ahead! Wreck this place!
-Dialogue: 0,0:04:40.78,0:04:43.82,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}看我在不在乎！我已经得到我要的了\N{\fnArial\fs48}See if I care. I already got what I needed.
-Dialogue: 0,0:04:43.82,0:04:45.05,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}回来！\N{\fnArial\fs48}Get back here!
-Dialogue: 0,0:04:55.06,0:04:57.00,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我要给她点颜色瞧瞧！\N{\fnArial\fs48}I'm gonna bop her good!
-Dialogue: 0,0:04:57.00,0:04:58.90,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我也要！\N{\fnArial\fs48}I'll help!
-Dialogue: 0,0:04:58.90,0:05:00.13,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}快点，石榴！\N{\fnArial\fs48}Hurry, Garnet!
-Dialogue: 0,0:05:03.84,0:05:06.97,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}如果橄榄石的任务是重启幼儿园，\N{\fnArial\fs48}If Peridot's mission was to reactivate the kindergarten,
-Dialogue: 0,0:05:06.98,0:05:08.54,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}注射器应该已经开启了\N{\fnArial\fs48}the injectors would be on.
-Dialogue: 0,0:05:08.54,0:05:09.58,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}看\N{\fnArial\fs48}Look.
-Dialogue: 0,0:05:09.58,0:05:11.51,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}它们并没有\N{\fnArial\fs48}They're not.
-Dialogue: 0,0:05:11.51,0:05:12.48,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦\N{\fnArial\fs48}Oh.
-Dialogue: 0,0:05:12.48,0:05:13.68,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}噢\N{\fnArial\fs48}Oh.
-Dialogue: 0,0:05:13.68,0:05:16.85,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们来看看她到底在干什么\N{\fnArial\fs48}Let's see what she was {\i1}actually{\i} doing.
-Dialogue: 0,0:05:18.05,0:05:19.09,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}在下面\N{\fnArial\fs48}Down here.
-Dialogue: 0,0:05:19.09,0:05:20.15,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦\N{\fnArial\fs48}Oh.
-Dialogue: 0,0:05:20.16,0:05:21.86,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}噢！\N{\fnArial\fs48}Oh!
-Dialogue: 0,0:05:21.86,0:05:25.23,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你真是法师战士双修二合一啊！\N{\fnArial\fs48}You're brains {\i1}and{\i} brawn -- the whole package.
-Dialogue: 0,0:05:25.23,0:05:26.53,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}多谢啦\N{\fnArial\fs48}Thank you. Ah.
-Dialogue: 0,0:05:26.53,0:05:28.23,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}是因为你是融合体吗？\N{\fnArial\fs48}Is it 'cause you're a fusion?
-Dialogue: 0,0:05:28.23,0:05:30.66,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我总得有点不能说的秘密吧？\N{\fnArial\fs48}I have to keep {\i1}some{\i} of my secrets.
-Dialogue: 0,0:05:30.67,0:05:33.37,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}噢，求求你了！我想知道！\N{\fnArial\fs48}Aw, please? I want to know!
-Dialogue: 0,0:05:34.54,0:05:36.10,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你战士的能力来自红宝石\N{\fnArial\fs48}Is the strong part of you Ruby
-Dialogue: 0,0:05:36.11,0:05:37.84,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}法师的能力来自蓝宝石？\N{\fnArial\fs48}and the wise part of you Sapphire?
-Dialogue: 0,0:05:37.84,0:05:39.17,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}两个都有\N{\fnArial\fs48}It's all of both.
-Dialogue: 0,0:05:39.18,0:05:40.61,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}当两个宝石人结合时\N{\fnArial\fs48}When two gems combine,
-Dialogue: 0,0:05:40.61,0:05:43.18,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}会产生1+1>2的效果\N{\fnArial\fs48}it creates something greater than the sum of their parts.
-Dialogue: 0,0:05:43.18,0:05:45.35,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这就是我如此炫酷掉渣天的原因\N{\fnArial\fs48}That's why I'm so great.
-Dialogue: 0,0:05:45.35,0:05:47.05,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}一直保持合体的感觉——\N{\fnArial\fs48}What's it like to stay fused all the --
-Dialogue: 0,0:05:51.92,0:05:54.72,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}不知为何，这里感觉更瘆人\N{\fnArial\fs48}I don't know how, but this place is even creepier
-Dialogue: 0,0:05:54.72,0:05:56.69,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}相比我们上次来的时候\N{\fnArial\fs48}than the last time we were here.
-Dialogue: 0,0:05:56.69,0:06:00.19,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}对。显然有什么秘密\N{\fnArial\fs48}Yes. There's something going on.
-Dialogue: 0,0:06:00.20,0:06:02.06,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}电源没有恢复\N{\fnArial\fs48}The power's not on.
-Dialogue: 0,0:06:02.06,0:06:04.03,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}橄榄石当时在做什么？\N{\fnArial\fs48}What was Peridot doing?
-Dialogue: 0,0:06:04.03,0:06:07.23,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}看起来她从墙里把这些拉了出来\N{\fnArial\fs48}It looks like she pulled these out of the walls.
-Dialogue: 0,0:06:07.24,0:06:09.37,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}有事情不对\N{\fnArial\fs48}Something's strange.
-Dialogue: 0,0:06:14.88,0:06:16.61,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}石榴？\N{\fnArial\fs48}Garnet?
-Dialogue: 0,0:06:25.39,0:06:28.82,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这里...不止我们吧？\N{\fnArial\fs48}Is there... Something in there?
-Dialogue: 0,0:06:35.56,0:06:36.70,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}啊！\N{\fnArial\fs48}Aah!
-Dialogue: 0,0:06:44.07,0:06:45.27,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}它们是什么？\N{\fnArial\fs48}What are they?
-Dialogue: 0,0:06:45.27,0:06:47.31,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}啊啊啊！\N{\fnArial\fs48}Aaah!
-Dialogue: 0,0:06:47.31,0:06:49.34,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这是什么？\N{\fnArial\fs48}What is it?
-Dialogue: 0,0:06:49.35,0:06:52.98,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}看起来像两块宝石碎片拼在一起\N{\fnArial\fs48}It looks like two gem shards stuck together.
-Dialogue: 0,0:06:52.98,0:06:54.15,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}恶！\N{\fnArial\fs48}Ugh!
-Dialogue: 0,0:06:58.59,0:07:00.49,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}其它的都这样？\N{\fnArial\fs48}Is that what all these things are?
-Dialogue: 0,0:07:00.49,0:07:02.76,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}宝石...拼到一起？\N{\fnArial\fs48}Gems...Stuck together?
-Dialogue: 0,0:07:02.76,0:07:03.79,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}啊啊！\N{\fnArial\fs48}Aah!
-Dialogue: 600,0:07:02.76,0:07:03.79,Hint,,0,0,0,,{\pos(960,50)}这张脸源自七八十年代动画中常见的吃惊脸
-Dialogue: 0,0:07:03.79,0:07:04.69,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}石榴？\N{\fnArial\fs48}Garnet?
-Dialogue: 0,0:07:06.09,0:07:07.19,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}那是什么？\N{\fnArial\fs48}What was that?
-Dialogue: 0,0:07:07.20,0:07:08.43,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}啊！\N{\fnArial\fs48}Aah!
-Dialogue: 0,0:07:31.29,0:07:32.45,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}石榴？\N{\fnArial\fs48}Garnet?
-Dialogue: 0,0:07:32.45,0:07:34.15,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃...石榴！\N{\fnArial\fs48}Uh...Garnet!
-Dialogue: 0,0:07:34.16,0:07:35.72,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们该怎么办？\N{\fnArial\fs48}What do we do?!
-Dialogue: 0,0:07:35.72,0:07:36.86,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}啊！\N{\fnArial\fs48}Aah!
-Dialogue: 0,0:07:39.13,0:07:41.03,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}求求你！说句话啊！\N{\fnArial\fs48}Please! Talk to me!
-Dialogue: 0,0:07:43.16,0:07:44.60,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃～\N{\fnArial\fs48}Unh!
-Dialogue: 0,0:07:48.04,0:07:51.64,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这些是被打碎的水晶战士\N{\fnArial\fs48}These were crystal gems shattered into pieces.
-Dialogue: 0,0:07:51.64,0:07:53.57,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}它们被埋在一起\N{\fnArial\fs48}They were buried together.
-Dialogue: 0,0:07:53.58,0:07:55.31,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你怎么不动了？！\N{\fnArial\fs48}Why aren't you moving?!
-Dialogue: 0,0:07:55.31,0:07:57.31,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}它们被强制在一起\N{\fnArial\fs48}They were forced together.
-Dialogue: 0,0:07:57.31,0:07:58.55,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}它们被强制融合\N{\fnArial\fs48}They were forced to fuse.
-Dialogue: 0,0:07:58.55,0:07:59.88,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这不对\N{\fnArial\fs48}This is wrong.
-Dialogue: 0,0:08:01.05,0:08:02.92,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我-我-我对不起\N{\fnArial\fs48}I-I-I'm sorry.
-Dialogue: 0,0:08:04.25,0:08:05.55,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}不！不，石榴！\N{\fnArial\fs48}No! No, Garnet!
-Dialogue: 0,0:08:05.55,0:08:06.99,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你快解体了！\N{\fnArial\fs48}You're coming undone!
-Dialogue: 0,0:08:06.99,0:08:08.39,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}石榴！\N{\fnArial\fs48}Garnet!
-Dialogue: 0,0:08:08.39,0:08:09.49,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}石榴！\N{\fnArial\fs48}Garnet!
-Dialogue: 0,0:08:10.93,0:08:11.86,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}石榴！\N{\fnArial\fs48}Garnet!
-Dialogue: 0,0:08:11.86,0:08:14.36,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}求求你！到底怎么了？！\N{\fnArial\fs48}Please! What's the matter?!
-Dialogue: 600,0:08:23.50,0:08:24.35,Hint,,0,0,0,,{\pos(960,50)}此处怪物眼睛的样式与第十使徒和《交响诗篇》的Antibody Coralians类似
-Dialogue: 0,0:08:14.36,0:08:16.16,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这一点也不像你！\N{\fnArial\fs48}This isn't like you!
-Dialogue: 0,0:08:34.45,0:08:36.15,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们做到了！\N{\fnArial\fs48}We did it!
-Dialogue: 0,0:08:37.05,0:08:38.19,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}石榴？\N{\fnArial\fs48}Garnet?
-Dialogue: 100,0:08:38.19,0:08:41.05,Normal Dialog Text,Ruby,0,0,0,,{\fn微软雅黑\fs64\c&H5500DA&\3c&HFFFFFF&\bord3}所以，这就是母世界看待融合体的态度\N{\fnArial\fs48}So, this is what homeworld thinks of fusion.
-Dialogue: 100,0:08:41.06,0:08:42.86,Normal Dialog Text,Sapphire,0,0,0,,{\fn微软雅黑\fs64\c&HF8732E&\3c&HFFFFFF&\bord3}我们当时不可能知道她们会这么做\N{\fnArial\fs48}We couldn't have known they would do this.
-Dialogue: 100,0:08:42.86,0:08:45.86,Normal Dialog Text,Ruby,0,0,0,,{\fn微软雅黑\fs64\c&H5500DA&\3c&HFFFFFF&\bord3}她们原来在这里——所有我们找不到的人\N{\fnArial\fs48}This is where they've been -- all the ones we couldn't find.
-Dialogue: 100,0:08:45.86,0:08:47.69,Normal Dialog Text,Ruby,0,0,0,,{\fn微软雅黑\fs64\c&H5500DA&\3c&HFFFFFF&\bord3}她们一直都是这样\N{\fnArial\fs48}They've been here the whole time!
-Dialogue: 100,0:08:47.70,0:08:49.06,Normal Dialog Text,Sapphire,0,0,0,,{\fn微软雅黑\fs64\c&HF8732E&\3c&HFFFFFF&\bord3}玫瑰不可能知道\N{\fnArial\fs48}Rose couldn't have known.
-Dialogue: 100,0:08:49.06,0:08:50.93,Normal Dialog Text,Ruby,0,0,0,,{\fn微软雅黑\fs64\c&H5500DA&\3c&HFFFFFF&\bord3}这是对叛乱的惩罚！这不是我们的错！\N{\fnArial\fs48}This was punishment for the rebellion! It's not our fault!
-Dialogue: 0,0:08:53.14,0:08:54.03,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}石榴！\N{\fnArial\fs48}Garnet!
-Dialogue: 0,0:08:56.10,0:08:57.20,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}史-史蒂文\N{\fnArial\fs48}S-Steven.
-Dialogue: 0,0:08:58.54,0:08:59.61,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们回来了\N{\fnArial\fs48}We're back.
-Dialogue: 0,0:08:59.61,0:09:01.41,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}石榴，我们跟丢了橄榄石\N{\fnArial\fs48}Garnet, we lost Peridot.
-Dialogue: 0,0:09:01.41,0:09:03.94,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}她的手指对我们来说太快了\N{\fnArial\fs48}Her fingers were too fast for us.
-Dialogue: 0,0:09:04.81,0:09:07.95,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃...这些是什么？\N{\fnArial\fs48}Um... What are these things?
-Dialogue: 0,0:09:07.95,0:09:09.08,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}把它们放下！——什么？\N{\fnArial\fs48}Put them down! What?
-Dialogue: 0,0:09:11.22,0:09:13.55,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们需要将它们打回原形并用泡泡包起来\N{\fnArial\fs48}We need to poof and bubble all of them.
-Dialogue: 0,0:09:13.56,0:09:16.12,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们不能让任何物体离开这里\N{\fnArial\fs48}We can't let any escape.
-Dialogue: 0,0:09:22.00,0:09:23.46,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦。嘿，石榴\N{\fnArial\fs48}Oh. Hey, Garnet.
-Dialogue: 0,0:09:23.47,0:09:25.10,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}感觉怎么样？\N{\fnArial\fs48}How's it going?
-Dialogue: 0,0:09:25.10,0:09:26.57,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}还是很不好\N{\fnArial\fs48}Still damp.
-Dialogue: 0,0:09:29.84,0:09:31.97,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦。好吧——衣服\N{\fnArial\fs48}Oh. Right -- the clothes.
-Dialogue: 0,0:09:31.97,0:09:34.34,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}里面有毛巾\N{\fnArial\fs48}There {\i1}are{\i} towels in there.
-Dialogue: 0,0:09:34.34,0:09:36.11,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们在这有水泵吗？\N{\fnArial\fs48}Do we even have plumbing up here?
-Dialogue: 0,0:09:36.11,0:09:38.91,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你是怎么让洗衣机和甩干机工作的？\N{\fnArial\fs48}How do you get the washer and dryer to work?
-Dialogue: 0,0:09:38.91,0:09:40.18,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}魔法\N{\fnArial\fs48}Magic.
-Dialogue: 0,0:09:45.32,0:09:47.92,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你还...好吗？\N{\fnArial\fs48}Are you...All right?
-Dialogue: 0,0:09:47.92,0:09:50.09,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我希望你没看见那些\N{\fnArial\fs48}I wish you hadn't seen that.
-Dialogue: 0,0:09:50.09,0:09:51.29,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这没什么\N{\fnArial\fs48}Aw, it's okay.
-Dialogue: 0,0:09:51.29,0:09:52.53,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这很重要\N{\fnArial\fs48}It's {\i1}not{\i} okay.
-Dialogue: 0,0:09:52.53,0:09:54.43,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}为-为什么？\N{\fnArial\fs48}W-why?
-Dialogue: 0,0:09:54.43,0:09:56.03,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}母世界所做的——\N{\fnArial\fs48}What homeworld did --
-Dialogue: 0,0:09:56.03,0:09:58.30,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}将消逝的宝石碎片\N{\fnArial\fs48}taking the shattered parts of fallen gems
-Dialogue: 0,0:09:58.30,0:09:59.60,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}拼接到一起\N{\fnArial\fs48}and combining them.
-Dialogue: 0,0:09:59.60,0:10:02.10,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}并没有得到那些宝石人的同意\N{\fnArial\fs48}Those gems weren't asked permission.
-Dialogue: 0,0:10:02.10,0:10:03.60,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}融合是自己的选择\N{\fnArial\fs48}Fusion is a choice.
-Dialogue: 0,0:10:03.61,0:10:05.54,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}那些宝石人没有选择的余地\N{\fnArial\fs48}Those gems weren't given a choice.
-Dialogue: 0,0:10:05.54,0:10:08.28,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这不对！这不是融合！\N{\fnArial\fs48}It isn't right! It isn't fusion!
-Dialogue: 0,0:10:16.85,0:10:19.55,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这是一种什么感受，作为一个融合体？\N{\fnArial\fs48}What's it like, being a fusion?
-Dialogue: 0,0:10:19.56,0:10:21.29,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你融合过\N{\fnArial\fs48}{\i1}You've{\i} fused.
-Dialogue: 0,0:10:21.29,0:10:23.66,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我指，就像，无时无刻\N{\fnArial\fs48}I mean, like, all the time.
-Dialogue: 0,0:10:23.66,0:10:25.79,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你们还记得原来的自己吗？\N{\fnArial\fs48}Do you forget who you used to be?
-Dialogue: 0,0:10:25.79,0:10:28.96,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你只会忘记你曾经的孤独\N{\fnArial\fs48}You forget you were ever alone.
-Dialogue: 0,0:10:28.96,0:10:32.57,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你看，当你融合时，你不会感觉像两个人\N{\fnArial\fs48}You know, when you fuse, you don't feel like two people.
-Dialogue: 0,0:10:32.57,0:10:34.23,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你感觉像是一个个体\N{\fnArial\fs48}You feel like one being.
-Dialogue: 0,0:10:34.24,0:10:36.24,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}而且原来的你\N{\fnArial\fs48}And your old names might as well be names
-Dialogue: 0,0:10:36.24,0:10:38.71,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}感觉就像是左手和右手\N{\fnArial\fs48}for your left arm and your right.
-Dialogue: 0,0:10:38.71,0:10:42.18,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}当你解体时，你是消失了吗？\N{\fnArial\fs48}When you split up, is it like you disappear?
-Dialogue: 0,0:10:42.18,0:10:43.81,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我的存在体现的是我的——\N{\fnArial\fs48}I embody my --
-Dialogue: 0,0:10:43.81,0:10:46.31,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我指，红宝石和蓝宝石的爱\N{\fnArial\fs48}I mean, Ruby and Sapphire's love.
-Dialogue: 0,0:10:46.32,0:10:49.98,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我永远存在于她们之中，即使我解体了\N{\fnArial\fs48}I'll always exist in them, even if I split apart.
-Dialogue: 0,0:10:49.99,0:10:52.65,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但是那种爱的力量让我一直在一起\N{\fnArial\fs48}But the strength of that love keeps me together,
-Dialogue: 0,0:10:52.65,0:10:55.86,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}所以我作为石榴可以保持非常长的时间\N{\fnArial\fs48}so I can stay Garnet for a very long time.
-Dialogue: 0,0:10:55.86,0:10:57.52,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这就是你如此出色的原因！——哦，不！\N{\fnArial\fs48}That's why you're so great.Oh, no!
-Dialogue: 0,0:11:03.83,0:11:06.27,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}不想拆开一对\N{\fnArial\fs48}Don't want to break up a pair.
-Dialogue: 0,0:11:06.27,0:11:08.20,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}是，你说的对\N{\fnArial\fs48}Yeah. You're right.
-Dialogue: 0,0:11:08.20,0:11:10.07,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}它们属于一起\N{\fnArial\fs48}They belong together.
-Dialogue: 0,0:11:13.02,0:11:16.20,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}如果我可以做到\N{\fnArial\fs48}♪ If I could begin to be
-Dialogue: 0,0:11:16.20,0:11:18.96,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}你对我期望的一半\N{\fnArial\fs48}♪ half of what you think of me
-Dialogue: 0,0:11:18.98,0:11:21.06,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我愿意做任何事\N{\fnArial\fs48}♪ I could do about anything
-Dialogue: 0,0:11:21.08,0:11:26.64,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我愿学会像你一样，去爱\N{\fnArial\fs48}♪ I could even learn how to love like you ♪
+Dialogue: 100,0:00:27.93,0:00:30.20,Normal Dialog Text,,0,0,0,,{\rCHS}我们必须找到橄榄石\N{\rENG}We need to track down Peridot.
+Dialogue: 100,0:00:30.20,0:00:31.40,Normal Dialog Text,,0,0,0,,{\rCHS}我们找到了她的逃生舱\N{\rENG}We found her pod.
+Dialogue: 100,0:00:31.40,0:00:33.37,Normal Dialog Text,,0,0,0,,{\rCHS}我们知道她就在地球上\N{\rENG}We know she's out there somewhere.
+Dialogue: 100,0:00:33.37,0:00:35.40,Normal Dialog Text,,0,0,0,,{\rCHS}她来这里是因为有工作\N{\rENG}She came to earth with a job to do,
+Dialogue: 100,0:00:35.40,0:00:38.07,Normal Dialog Text,,0,0,0,,{\rCHS}而且很可能她还会试着完成\N{\rENG}and odds are she's still gonna try to do it.
+Dialogue: 100,0:00:38.07,0:00:39.94,Normal Dialog Text,,0,0,0,,{\rCHS}这是我将大家聚集到这里的原因\N{\rENG}That's why I've gathered you here.
+Dialogue: 100,0:00:39.94,0:00:43.61,Normal Dialog Text,,0,0,0,,{\rCHS}我以为是你为了能帮我把衣服都叠了\N{\rENG}I thought it was so you could help me fold all this laundry.
+Dialogue: 100,0:00:43.61,0:00:44.75,Normal Dialog Text,,0,0,0,,{\rCHS}啊，当然\N{\rENG}Mm, that too.
+Dialogue: 100,0:00:44.75,0:00:47.58,Normal Dialog Text,,0,0,0,,{\rCHS}你的家务轮的点子很快就失效了\N{\rENG}The chore wheel idea you had fell apart fast.
+Dialogue: 100,0:00:47.58,0:00:49.12,Normal Dialog Text,,0,0,0,,{\rCHS}不是我干的\N{\rENG}Wasn't me.
+Dialogue: 100,0:00:51.42,0:00:54.26,Normal Dialog Text,,0,0,0,,{\rCHS}我只是很乐于做这些事\N{\rENG}I just really enjoy doing all of those things.
+Dialogue: 100,0:00:54.26,0:00:57.46,Normal Dialog Text,,0,0,0,,{\rCHS}我们最好一起做\N{\rENG}It's better if we do them together.
+Dialogue: 100,0:00:59.29,0:01:01.96,Normal Dialog Text,,0,0,0,,{\rCHS}人类应该不穿衣服\N{\rENG}Humans should just stop wearing clothes.
+Dialogue: 100,0:01:01.96,0:01:03.73,Normal Dialog Text,,0,0,0,,{\rCHS}这会有趣很多\N{\rENG}It'd be a lot funnier.
+Dialogue: 100,0:01:03.73,0:01:05.07,Normal Dialog Text,,0,0,0,,{\rCHS}嘿！\N{\rENG}Hey!
+Dialogue: 100,0:01:05.07,0:01:08.90,Normal Dialog Text,,0,0,0,,{\rCHS}我是个有教养的半人，不谢！\N{\rENG}I'm a civilified part-human, thank you very much.
+Dialogue: 100,0:01:08.91,0:01:10.74,Normal Dialog Text,,0,0,0,,{\rCHS}衣服是必需品\N{\rENG}Clothing is a must.
+Dialogue: 100,0:01:12.11,0:01:13.94,Normal Dialog Text,,0,0,0,,{\rCHS}有点多啊\N{\rENG}This is a lot.
+Dialogue: 100,0:01:13.94,0:01:16.28,Normal Dialog Text,,0,0,0,,{\rCHS}我打赌如果红宝石和蓝宝石在的话\N{\rENG}I bet this folding would go faster
+Dialogue: 100,0:01:16.28,0:01:18.48,Normal Dialog Text,,0,0,0,,{\rCHS}叠起来一定会更快的\N{\rENG}if Ruby and Sapphire were here.
+Dialogue: 100,0:01:18.48,0:01:20.92,Normal Dialog Text,,0,0,0,,{\rCHS}我肯定她们会乐于见到你，史蒂文\N{\rENG}I'm sure they'd be glad to see you, Steven,
+Dialogue: 100,0:01:20.92,0:01:24.35,Normal Dialog Text,,0,0,0,,{\rCHS}我不会为了衣物解体的\N{\rENG}but I am not unfusing for laundry.
+Dialogue: 100,0:01:24.35,0:01:25.25,Normal Dialog Text,,0,0,0,,{\rCHS}嗷\N{\rENG}Aw.
+Dialogue: 100,0:01:25.25,0:01:26.59,Normal Dialog Text,,0,0,0,,{\rCHS}石榴，你不认为\N{\rENG}Garnet, you don't think
+Dialogue: 100,0:01:26.59,0:01:29.09,Normal Dialog Text,,0,0,0,,{\rCHS}橄榄石会来找我们吧？\N{\rENG}Peridot would come looking for us, do you?
+Dialogue: 100,0:01:29.09,0:01:30.66,Normal Dialog Text,,0,0,0,,{\rCHS}我们不是她的首要目标\N{\rENG}We weren't her priority.
+Dialogue: 100,0:01:30.66,0:01:33.26,Normal Dialog Text,,0,0,0,,{\rCHS}她被派来完成幼儿园的工作\N{\rENG}She was sent here to do something in the kindergarten.
+Dialogue: 100,0:01:33.26,0:01:36.43,Normal Dialog Text,,0,0,0,,{\rCHS}你觉得她还会尝试重启幼儿园？\N{\rENG}Do you think she's still going to try to reactivate it?
+Dialogue: 100,0:01:37.97,0:01:40.94,Normal Dialog Text,,0,0,0,,{\rCHS}如果她重启成功了，注射器会重新工作的\N{\rENG}If she gets it up and running, the injectors will turn back on.
+Dialogue: 100,0:01:40.94,0:01:42.70,Normal Dialog Text,,0,0,0,,{\rCHS}注...射器？\N{\rENG}In...Jectors?
+Dialogue: 100,0:01:42.71,0:01:43.94,Normal Dialog Text,,0,0,0,,{\rCHS}那...那是什么？\N{\rENG}W-what are those?
+Dialogue: 100,0:01:43.94,0:01:45.94,Normal Dialog Text,,0,0,0,,{\rCHS}你已经看到过了\N{\rENG}You've already seen them.
+Dialogue: 100,0:01:45.94,0:01:48.28,Normal Dialog Text,,0,0,0,,{\rCHS}或者，你看到的是停用的\N{\rENG}Well, you've seen them disabled.
+Dialogue: 100,0:01:48.28,0:01:49.68,Normal Dialog Text,,0,0,0,,{\rCHS}如果橄榄石重新启动了注射器\N{\rENG}If Peridot reactivates them,
+Dialogue: 100,0:01:49.68,0:01:51.61,Normal Dialog Text,,0,0,0,,{\rCHS}它们会继续工作\N{\rENG}they'll pick right up where they left off --
+Dialogue: 100,0:01:51.61,0:01:53.71,Normal Dialog Text,,0,0,0,,{\rCHS}在地壳中种下宝石人\N{\rENG}planting gems in the crust of the earth,
+Dialogue: 100,0:01:53.72,0:01:55.02,Normal Dialog Text,,0,0,0,,{\rCHS}在那里他们会慢慢孵化\N{\rENG}where they'll incubate
+Dialogue: 100,0:01:55.02,0:01:57.22,Normal Dialog Text,,0,0,0,,{\rCHS}并从地表吸光生命\N{\rENG}and suck the life right out of the ground.
+Dialogue: 100,0:01:57.22,0:02:00.29,Normal Dialog Text,,0,0,0,,{\rCHS}我们不能让橄榄石重启这里的宝石人生产\N{\rENG}We can't let Peridot restart gem production here.
+Dialogue: 100,0:02:00.29,0:02:04.39,Normal Dialog Text,,0,0,0,,{\rCHS}如果失败了，整个星球会变成\N{\rENG}If we do, the entire planet will become...
+Dialogue: 100,0:02:04.39,0:02:06.03,Normal Dialog Text,,0,0,0,,{\rCHS}一片荒芜\N{\rENG}Janked.
+Dialogue: 100,0:02:06.03,0:02:09.13,Normal Dialog Text,,0,0,0,,{\rCHS}石榴！用词不错嘛！\N{\rENG}Garnet!  That mouth!
+Dialogue: 100,0:02:10.23,0:02:13.53,Normal Dialog Text,,0,0,0,,{\rCHS}不用担心。我们会阻止她\N{\rENG}Don't worry. We'll stop her.
+Dialogue: 100,0:02:14.64,0:02:16.00,Normal Dialog Text,,0,0,0,,{\rCHS}来吧，水晶战士\N{\rENG}Come on, crystal gems.
+Dialogue: 100,0:02:16.01,0:02:17.30,Normal Dialog Text,,0,0,0,,{\rCHS}马上\N{\rENG}Coming.
+Dialogue: 100,0:02:17.31,0:02:21.18,Normal Dialog Text,,0,0,0,,{\rCHS}呃。只要我们不用叠东西\N{\rENG}Ugh. As long as we don't have to fold anything.
+Dialogue: 100,0:02:21.18,0:02:22.48,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文\N{\rENG}Steven.
+Dialogue: 100,0:02:22.48,0:02:25.05,Normal Dialog Text,,0,0,0,,{\rCHS}来啊。显然也有你，对不对？\N{\rENG}Come on. That means you, too, right?
+Dialogue: 100,0:02:28.58,0:02:31.19,Normal Dialog Text,,0,0,0,,{\rCHS}毕竟你也是一个有教养的半宝石人\N{\rENG}You're a civilified part-gem, too, after all.
+Dialogue: 100,0:02:31.19,0:02:33.85,Normal Dialog Text,,0,0,0,,{\rCHS}石榴，你确定我们可以带上史蒂文？\N{\rENG}Garnet, are you sure we should bring Steven?
+Dialogue: 100,0:02:33.86,0:02:35.32,Normal Dialog Text,,0,0,0,,{\rCHS}这可能比较危险\N{\rENG}This might be dangerous.
+Dialogue: 100,0:02:35.32,0:02:38.16,Normal Dialog Text,,0,0,0,,{\rCHS}我们完全可以对付橄榄石\N{\rENG}Peridot's got nothing we can't handle.
+Dialogue: 100,0:02:46.50,0:02:49.54,Normal Dialog Text,,0,0,0,,{\rCHS}好吧，看起来没有启动的痕迹\N{\rENG}Well, nothing looks activated.
+Dialogue: 100,0:02:49.54,0:02:52.71,Normal Dialog Text,,0,0,0,,{\rCHS}实际上，没有东西看起来被修复过\N{\rENG}In fact, it doesn't look like anything's budged
+Dialogue: 100,0:02:52.71,0:02:55.04,Normal Dialog Text,,0,0,0,,{\rCHS}离上次来都这么长时间了\N{\rENG}since the last time we were here.
+Dialogue: 100,0:02:55.04,0:02:56.38,Normal Dialog Text,,0,0,0,,{\rCHS}你说的对\N{\rENG}You're right.
+Dialogue: 100,0:02:56.38,0:02:58.61,Normal Dialog Text,,0,0,0,,{\rCHS}但只是因为橄榄石还没来这里\N{\rENG}But just because Peridot hasn't been here yet
+Dialogue: 100,0:02:58.61,0:03:00.41,Normal Dialog Text,,0,0,0,,{\rCHS}不意味着她不会来\N{\rENG}doesn't mean she won't come.
+Dialogue: 100,0:03:01.62,0:03:03.45,Normal Dialog Text,,0,0,0,,{\rCHS}我们来对场地做个仔细的检查\N{\rENG}Let's do a thorough check of the perimeter.
+Dialogue: 100,0:03:03.45,0:03:06.19,Normal Dialog Text,,0,0,0,,{\rCHS}这样，我们能监视任何将来进入的人\N{\rENG}Mm-hmm. That way, we can monitor any future entry.
+Dialogue: 100,0:03:06.19,0:03:08.29,Normal Dialog Text,,0,0,0,,{\rCHS}我觉得不错\N{\rENG}Hm. Sounds good to me.
+Dialogue: 100,0:03:21.54,0:03:25.37,Normal Dialog Text,,0,0,0,,{\rCHS}记录日期 陆 贰 伍。我是橄榄石\N{\rENG}Log date 652. This is Peridot.
+Dialogue: 100,0:03:25.37,0:03:29.38,Normal Dialog Text,,0,0,0,,{\rCHS}更新状态——仍在被困在这可悲的星球上\N{\rENG}Updating status -- still stuck on miserable planet.
+Dialogue: 100,0:03:29.38,0:03:32.25,Normal Dialog Text,,0,0,0,,{\rCHS}融合实验的进展十分顺利\N{\rENG}The fusion experiments are developing properly.
+Dialogue: 100,0:03:32.25,0:03:34.05,Normal Dialog Text,,0,0,0,,{\rCHS}一少部分实验品已经提前孵化——\N{\rENG}A few have even emerged early --
+Dialogue: 100,0:03:34.05,0:03:35.38,Normal Dialog Text,,0,0,0,,{\rCHS}呀～哈！\N{\rENG}eugggh! Huh!
+Dialogue: 100,0:03:39.72,0:03:43.46,Normal Dialog Text,,0,0,0,,{\rCHS}其他人和你在一起吗？\N{\rENG}Are the other ones with you?
+Dialogue: 100,0:03:50.73,0:03:53.17,Normal Dialog Text,,0,0,0,,{\rCHS}当然。怎么会不呢？\N{\rENG}Of course. Why not?
+Dialogue: 100,0:03:53.17,0:03:54.30,Normal Dialog Text,,0,0,0,,{\rCHS}橄榄石！\N{\rENG}Peridot!
+Dialogue: 100,0:03:54.30,0:03:56.52,Normal Dialog Text,,0,0,0,,{\rCHS}她在那！——啊！\N{\rENG}There she is!Aah!
+Dialogue: 100,0:03:57.74,0:03:59.97,Normal Dialog Text,,0,0,0,,{\rCHS}你无处可逃！你已经被包围了！\N{\rENG}There's nowhere to go! You're cornered!
+Dialogue: 100,0:04:04.51,0:04:06.95,Normal Dialog Text,,0,0,0,,{\rCHS}嘿！我做不了这个！\N{\rENG}Hey! I can't do that!
+Dialogue: 100,0:04:06.95,0:04:08.65,Normal Dialog Text,,0,0,0,,{\rCHS}她也别想！\N{\rENG}Neither can she!
+Dialogue: 100,0:04:10.85,0:04:12.42,Normal Dialog Text,,0,0,0,,{\rCHS}哈！歪了！\N{\rENG}Ha! Missed!
+Dialogue: 100,0:04:17.86,0:04:18.99,Normal Dialog Text,,0,0,0,,{\rCHS}呃？\N{\rENG}Huh?
+Dialogue: 100,0:04:19.00,0:04:20.96,Normal Dialog Text,,0,0,0,,{\rCHS}啊啊啊！\N{\rENG}Aaah!
+Dialogue: 100,0:04:22.00,0:04:24.43,Normal Dialog Text,,0,0,0,,{\rCHS}啊啊啊啊！\N{\rENG}Aaaah!
+Dialogue: 100,0:04:25.60,0:04:27.10,Normal Dialog Text,,0,0,0,,{\rCHS}你觉得她受伤了吗？\N{\rENG}Do you think she's hurt?!
+Dialogue: 100,0:04:29.30,0:04:30.23,Normal Dialog Text,,0,0,0,,{\rCHS}并没有\N{\rENG}Nope.
+Dialogue: 100,0:04:35.28,0:04:36.61,Normal Dialog Text,,0,0,0,,{\rCHS}喔！鞭子变烫了！\N{\rENG}Whoooooa! Hot whip!
+Dialogue: 100,0:04:37.81,0:04:40.78,Normal Dialog Text,,0,0,0,,{\rCHS}你们这群水晶草包！来啊！互相伤害啊！\N{\rENG}You crystal clods! Go ahead! Wreck this place!
+Dialogue: 100,0:04:40.78,0:04:43.82,Normal Dialog Text,,0,0,0,,{\rCHS}看我在不在乎！我已经得到我要的了\N{\rENG}See if I care. I already got what I needed.
+Dialogue: 100,0:04:43.82,0:04:45.05,Normal Dialog Text,,0,0,0,,{\rCHS}回来！\N{\rENG}Get back here!
+Dialogue: 100,0:04:55.06,0:04:57.00,Normal Dialog Text,,0,0,0,,{\rCHS}我要给她点颜色瞧瞧！\N{\rENG}I'm gonna bop her good!
+Dialogue: 100,0:04:57.00,0:04:58.90,Normal Dialog Text,,0,0,0,,{\rCHS}我也要！\N{\rENG}I'll help!
+Dialogue: 100,0:04:58.90,0:05:00.13,Normal Dialog Text,,0,0,0,,{\rCHS}快点，石榴！\N{\rENG}Hurry, Garnet!
+Dialogue: 100,0:05:03.84,0:05:06.97,Normal Dialog Text,,0,0,0,,{\rCHS}如果橄榄石的任务是重启幼儿园，\N{\rENG}If Peridot's mission was to reactivate the kindergarten,
+Dialogue: 100,0:05:06.98,0:05:08.54,Normal Dialog Text,,0,0,0,,{\rCHS}注射器应该已经开启了\N{\rENG}the injectors would be on.
+Dialogue: 100,0:05:08.54,0:05:09.58,Normal Dialog Text,,0,0,0,,{\rCHS}看\N{\rENG}Look.
+Dialogue: 100,0:05:09.58,0:05:11.51,Normal Dialog Text,,0,0,0,,{\rCHS}它们并没有\N{\rENG}They're not.
+Dialogue: 100,0:05:11.51,0:05:12.48,Normal Dialog Text,,0,0,0,,{\rCHS}哦\N{\rENG}Oh.
+Dialogue: 100,0:05:12.48,0:05:13.68,Normal Dialog Text,,0,0,0,,{\rCHS}噢\N{\rENG}Oh.
+Dialogue: 100,0:05:13.68,0:05:16.85,Normal Dialog Text,,0,0,0,,{\rCHS}我们来看看她到底在干什么\N{\rENG}Let's see what she was actually doing.
+Dialogue: 100,0:05:18.05,0:05:19.09,Normal Dialog Text,,0,0,0,,{\rCHS}在下面\N{\rENG}Down here.
+Dialogue: 100,0:05:19.09,0:05:20.15,Normal Dialog Text,,0,0,0,,{\rCHS}哦\N{\rENG}Oh.
+Dialogue: 100,0:05:20.16,0:05:21.86,Normal Dialog Text,,0,0,0,,{\rCHS}噢！\N{\rENG}Oh!
+Dialogue: 100,0:05:21.86,0:05:25.23,Normal Dialog Text,,0,0,0,,{\rCHS}你真是法师战士双修二合一啊！\N{\rENG}You're brains and brawn -- the whole package.
+Dialogue: 100,0:05:25.23,0:05:26.53,Normal Dialog Text,,0,0,0,,{\rCHS}多谢啦\N{\rENG}Thank you. Ah.
+Dialogue: 100,0:05:26.53,0:05:28.23,Normal Dialog Text,,0,0,0,,{\rCHS}是因为你是融合体吗？\N{\rENG}Is it 'cause you're a fusion?
+Dialogue: 100,0:05:28.23,0:05:30.66,Normal Dialog Text,,0,0,0,,{\rCHS}我总得有点不能说的秘密吧？\N{\rENG}I have to keep some of my secrets.
+Dialogue: 100,0:05:30.67,0:05:33.37,Normal Dialog Text,,0,0,0,,{\rCHS}噢，求求你了！我想知道！\N{\rENG}Aw, please? I want to know!
+Dialogue: 100,0:05:34.54,0:05:36.10,Normal Dialog Text,,0,0,0,,{\rCHS}你战士的能力来自红宝石\N{\rENG}Is the strong part of you Ruby
+Dialogue: 100,0:05:36.11,0:05:37.84,Normal Dialog Text,,0,0,0,,{\rCHS}法师的能力来自蓝宝石？\N{\rENG}and the wise part of you Sapphire?
+Dialogue: 100,0:05:37.84,0:05:39.17,Normal Dialog Text,,0,0,0,,{\rCHS}两个都有\N{\rENG}It's all of both.
+Dialogue: 100,0:05:39.18,0:05:40.61,Normal Dialog Text,,0,0,0,,{\rCHS}当两个宝石人结合时\N{\rENG}When two gems combine,
+Dialogue: 100,0:05:40.61,0:05:43.18,Normal Dialog Text,,0,0,0,,{\rCHS}会产生1+1>2的效果\N{\rENG}it creates something greater than the sum of their parts.
+Dialogue: 100,0:05:43.18,0:05:45.35,Normal Dialog Text,,0,0,0,,{\rCHS}这就是我如此炫酷掉渣天的原因\N{\rENG}That's why I'm so great.
+Dialogue: 100,0:05:45.35,0:05:47.05,Normal Dialog Text,,0,0,0,,{\rCHS}一直保持合体的感觉——\N{\rENG}What's it like to stay fused all the --
+Dialogue: 100,0:05:51.92,0:05:54.72,Normal Dialog Text,,0,0,0,,{\rCHS}不知为何，这里感觉更瘆人\N{\rENG}I don't know how, but this place is even creepier
+Dialogue: 100,0:05:54.72,0:05:56.69,Normal Dialog Text,,0,0,0,,{\rCHS}相比我们上次来的时候\N{\rENG}than the last time we were here.
+Dialogue: 100,0:05:56.69,0:06:00.19,Normal Dialog Text,,0,0,0,,{\rCHS}对。显然有什么秘密\N{\rENG}Yes. There's something going on.
+Dialogue: 100,0:06:00.20,0:06:02.06,Normal Dialog Text,,0,0,0,,{\rCHS}电源没有恢复\N{\rENG}The power's not on.
+Dialogue: 100,0:06:02.06,0:06:04.03,Normal Dialog Text,,0,0,0,,{\rCHS}橄榄石当时在做什么？\N{\rENG}What was Peridot doing?
+Dialogue: 100,0:06:04.03,0:06:07.23,Normal Dialog Text,,0,0,0,,{\rCHS}看起来她从墙里把这些拉了出来\N{\rENG}It looks like she pulled these out of the walls.
+Dialogue: 100,0:06:07.24,0:06:09.37,Normal Dialog Text,,0,0,0,,{\rCHS}有事情不对\N{\rENG}Something's strange.
+Dialogue: 100,0:06:14.88,0:06:16.61,Normal Dialog Text,,0,0,0,,{\rCHS}石榴？\N{\rENG}Garnet?
+Dialogue: 100,0:06:25.39,0:06:28.82,Normal Dialog Text,,0,0,0,,{\rCHS}这里...不止我们吧？\N{\rENG}Is there... Something in there?
+Dialogue: 100,0:06:35.56,0:06:36.70,Normal Dialog Text,,0,0,0,,{\rCHS}啊！\N{\rENG}Aah!
+Dialogue: 100,0:06:44.07,0:06:45.27,Normal Dialog Text,,0,0,0,,{\rCHS}它们是什么？\N{\rENG}What are they?
+Dialogue: 100,0:06:45.27,0:06:47.31,Normal Dialog Text,,0,0,0,,{\rCHS}啊啊啊！\N{\rENG}Aaah!
+Dialogue: 100,0:06:47.31,0:06:49.34,Normal Dialog Text,,0,0,0,,{\rCHS}这是什么？\N{\rENG}What is it?
+Dialogue: 100,0:06:49.35,0:06:52.98,Normal Dialog Text,,0,0,0,,{\rCHS}看起来像两块宝石碎片拼在一起\N{\rENG}It looks like two gem shards stuck together.
+Dialogue: 100,0:06:52.98,0:06:54.15,Normal Dialog Text,,0,0,0,,{\rCHS}恶！\N{\rENG}Ugh!
+Dialogue: 100,0:06:58.59,0:07:00.49,Normal Dialog Text,,0,0,0,,{\rCHS}其它的都这样？\N{\rENG}Is that what all these things are?
+Dialogue: 100,0:07:00.49,0:07:02.76,Normal Dialog Text,,0,0,0,,{\rCHS}宝石...拼到一起？\N{\rENG}Gems...Stuck together?
+Dialogue: 100,0:07:02.76,0:07:03.79,Normal Dialog Text,,0,0,0,,{\rCHS}啊啊！\N{\rENG}Aah!
+Dialogue: 600,0:07:02.76,0:07:03.79,Hint,,0,0,0,,这张脸源自七八十年代动画中常见的吃惊脸
+Dialogue: 100,0:07:03.79,0:07:04.69,Normal Dialog Text,,0,0,0,,{\rCHS}石榴？\N{\rENG}Garnet?
+Dialogue: 100,0:07:06.09,0:07:07.19,Normal Dialog Text,,0,0,0,,{\rCHS}那是什么？\N{\rENG}What was that?
+Dialogue: 100,0:07:07.20,0:07:08.43,Normal Dialog Text,,0,0,0,,{\rCHS}啊！\N{\rENG}Aah!
+Dialogue: 100,0:07:31.29,0:07:32.45,Normal Dialog Text,,0,0,0,,{\rCHS}石榴？\N{\rENG}Garnet?
+Dialogue: 100,0:07:32.45,0:07:34.15,Normal Dialog Text,,0,0,0,,{\rCHS}呃...石榴！\N{\rENG}Uh...Garnet!
+Dialogue: 100,0:07:34.16,0:07:35.72,Normal Dialog Text,,0,0,0,,{\rCHS}我们该怎么办？\N{\rENG}What do we do?!
+Dialogue: 100,0:07:35.72,0:07:36.86,Normal Dialog Text,,0,0,0,,{\rCHS}啊！\N{\rENG}Aah!
+Dialogue: 100,0:07:39.13,0:07:41.03,Normal Dialog Text,,0,0,0,,{\rCHS}求求你！说句话啊！\N{\rENG}Please! Talk to me!
+Dialogue: 100,0:07:43.16,0:07:44.60,Normal Dialog Text,,0,0,0,,{\rCHS}呃～\N{\rENG}Unh!
+Dialogue: 100,0:07:48.04,0:07:51.64,Normal Dialog Text,,0,0,0,,{\rCHS}这些是被打碎的水晶战士\N{\rENG}These were crystal gems shattered into pieces.
+Dialogue: 100,0:07:51.64,0:07:53.57,Normal Dialog Text,,0,0,0,,{\rCHS}它们被埋在一起\N{\rENG}They were buried together.
+Dialogue: 100,0:07:53.58,0:07:55.31,Normal Dialog Text,,0,0,0,,{\rCHS}你怎么不动了？！\N{\rENG}Why aren't you moving?!
+Dialogue: 100,0:07:55.31,0:07:57.31,Normal Dialog Text,,0,0,0,,{\rCHS}它们被强制在一起\N{\rENG}They were forced together.
+Dialogue: 100,0:07:57.31,0:07:58.55,Normal Dialog Text,,0,0,0,,{\rCHS}它们被强制融合\N{\rENG}They were forced to fuse.
+Dialogue: 100,0:07:58.55,0:07:59.88,Normal Dialog Text,,0,0,0,,{\rCHS}这不对\N{\rENG}This is wrong.
+Dialogue: 100,0:08:01.05,0:08:02.92,Normal Dialog Text,,0,0,0,,{\rCHS}我-我-我对不起\N{\rENG}I-I-I'm sorry.
+Dialogue: 100,0:08:04.25,0:08:05.55,Normal Dialog Text,,0,0,0,,{\rCHS}不！不，石榴！\N{\rENG}No! No, Garnet!
+Dialogue: 100,0:08:05.55,0:08:06.99,Normal Dialog Text,,0,0,0,,{\rCHS}你快解体了！\N{\rENG}You're coming undone!
+Dialogue: 100,0:08:06.99,0:08:08.39,Normal Dialog Text,,0,0,0,,{\rCHS}石榴！\N{\rENG}Garnet!
+Dialogue: 100,0:08:08.39,0:08:09.49,Normal Dialog Text,,0,0,0,,{\rCHS}石榴！\N{\rENG}Garnet!
+Dialogue: 100,0:08:10.93,0:08:11.86,Normal Dialog Text,,0,0,0,,{\rCHS}石榴！\N{\rENG}Garnet!
+Dialogue: 100,0:08:11.86,0:08:14.36,Normal Dialog Text,,0,0,0,,{\rCHS}求求你！到底怎么了？！\N{\rENG}Please! What's the matter?!
+Dialogue: 600,0:08:23.50,0:08:24.35,Hint,,0,0,0,,此处怪物眼睛的样式与第十使徒和《交响诗篇》的Antibody Coralians类似
+Dialogue: 100,0:08:14.36,0:08:16.16,Normal Dialog Text,,0,0,0,,{\rCHS}这一点也不像你！\N{\rENG}This isn't like you!
+Dialogue: 100,0:08:34.45,0:08:36.15,Normal Dialog Text,,0,0,0,,{\rCHS}我们做到了！\N{\rENG}We did it!
+Dialogue: 100,0:08:37.05,0:08:38.19,Normal Dialog Text,,0,0,0,,{\rCHS}石榴？\N{\rENG}Garnet?
+Dialogue: 100,0:08:38.19,0:08:41.05,Normal Dialog Text,Ruby,0,0,0,,{\rCHS}{\c&H5500DA&}所以，这就是母世界看待融合体的态度\N{\rENG}{\c&H5500DA&}So, this is what homeworld thinks of fusion.
+Dialogue: 100,0:08:41.06,0:08:42.86,Normal Dialog Text,Sapphire,0,0,0,,{\rCHS}{\c&HF8732E&}我们当时不可能知道她们会这么做\N{\rENG}{\c&HF8732E&}We couldn't have known they would do this.
+Dialogue: 100,0:08:42.86,0:08:45.86,Normal Dialog Text,Ruby,0,0,0,,{\rCHS}{\c&H5500DA&}她们原来在这里——所有我们找不到的人\N{\rENG}{\c&H5500DA&}This is where they've been -- all the ones we couldn't find.
+Dialogue: 100,0:08:45.86,0:08:47.69,Normal Dialog Text,Ruby,0,0,0,,{\rCHS}{\c&H5500DA&}她们一直都是这样\N{\rENG}{\c&H5500DA&}They've been here the whole time!
+Dialogue: 100,0:08:47.70,0:08:49.06,Normal Dialog Text,Sapphire,0,0,0,,{\rCHS}{\c&HF8732E&}玫瑰不可能知道\N{\rENG}{\c&HF8732E&}Rose couldn't have known.
+Dialogue: 100,0:08:49.06,0:08:50.93,Normal Dialog Text,Ruby,0,0,0,,{\rCHS}{\c&H5500DA&}这是对叛乱的惩罚！这不是我们的错！\N{\rENG}{\c&H5500DA&}This was punishment for the rebellion! It's not our fault!
+Dialogue: 100,0:08:53.14,0:08:54.03,Normal Dialog Text,,0,0,0,,{\rCHS}石榴！\N{\rENG}Garnet!
+Dialogue: 100,0:08:56.10,0:08:57.20,Normal Dialog Text,,0,0,0,,{\rCHS}史-史蒂文\N{\rENG}S-Steven.
+Dialogue: 100,0:08:58.54,0:08:59.61,Normal Dialog Text,,0,0,0,,{\rCHS}我们回来了\N{\rENG}We're back.
+Dialogue: 100,0:08:59.61,0:09:01.41,Normal Dialog Text,,0,0,0,,{\rCHS}石榴，我们跟丢了橄榄石\N{\rENG}Garnet, we lost Peridot.
+Dialogue: 100,0:09:01.41,0:09:03.94,Normal Dialog Text,,0,0,0,,{\rCHS}她的手指对我们来说太快了\N{\rENG}Her fingers were too fast for us.
+Dialogue: 100,0:09:04.81,0:09:07.95,Normal Dialog Text,,0,0,0,,{\rCHS}呃...这些是什么？\N{\rENG}Um... What are these things?
+Dialogue: 100,0:09:07.95,0:09:09.08,Normal Dialog Text,,0,0,0,,{\rCHS}把它们放下！——什么？\N{\rENG}Put them down! What?
+Dialogue: 100,0:09:11.22,0:09:13.55,Normal Dialog Text,,0,0,0,,{\rCHS}我们需要将它们打回原形并用泡泡包起来\N{\rENG}We need to poof and bubble all of them.
+Dialogue: 100,0:09:13.56,0:09:16.12,Normal Dialog Text,,0,0,0,,{\rCHS}我们不能让任何物体离开这里\N{\rENG}We can't let any escape.
+Dialogue: 100,0:09:22.00,0:09:23.46,Normal Dialog Text,,0,0,0,,{\rCHS}哦。嘿，石榴\N{\rENG}Oh. Hey, Garnet.
+Dialogue: 100,0:09:23.47,0:09:25.10,Normal Dialog Text,,0,0,0,,{\rCHS}感觉怎么样？\N{\rENG}How's it going?
+Dialogue: 100,0:09:25.10,0:09:26.57,Normal Dialog Text,,0,0,0,,{\rCHS}还是很不好\N{\rENG}Still damp.
+Dialogue: 100,0:09:29.84,0:09:31.97,Normal Dialog Text,,0,0,0,,{\rCHS}哦。好吧——衣服\N{\rENG}Oh. Right -- the clothes.
+Dialogue: 100,0:09:31.97,0:09:34.34,Normal Dialog Text,,0,0,0,,{\rCHS}里面有毛巾\N{\rENG}There are towels in there.
+Dialogue: 100,0:09:34.34,0:09:36.11,Normal Dialog Text,,0,0,0,,{\rCHS}我们在这有水泵吗？\N{\rENG}Do we even have plumbing up here?
+Dialogue: 100,0:09:36.11,0:09:38.91,Normal Dialog Text,,0,0,0,,{\rCHS}你是怎么让洗衣机和甩干机工作的？\N{\rENG}How do you get the washer and dryer to work?
+Dialogue: 100,0:09:38.91,0:09:40.18,Normal Dialog Text,,0,0,0,,{\rCHS}魔法\N{\rENG}Magic.
+Dialogue: 100,0:09:45.32,0:09:47.92,Normal Dialog Text,,0,0,0,,{\rCHS}你还...好吗？\N{\rENG}Are you...All right?
+Dialogue: 100,0:09:47.92,0:09:50.09,Normal Dialog Text,,0,0,0,,{\rCHS}我希望你没看见那些\N{\rENG}I wish you hadn't seen that.
+Dialogue: 100,0:09:50.09,0:09:51.29,Normal Dialog Text,,0,0,0,,{\rCHS}这没什么\N{\rENG}Aw, it's okay.
+Dialogue: 100,0:09:51.29,0:09:52.53,Normal Dialog Text,,0,0,0,,{\rCHS}这很重要\N{\rENG}It's not okay.
+Dialogue: 100,0:09:52.53,0:09:54.43,Normal Dialog Text,,0,0,0,,{\rCHS}为-为什么？\N{\rENG}W-why?
+Dialogue: 100,0:09:54.43,0:09:56.03,Normal Dialog Text,,0,0,0,,{\rCHS}母世界所做的——\N{\rENG}What homeworld did --
+Dialogue: 100,0:09:56.03,0:09:58.30,Normal Dialog Text,,0,0,0,,{\rCHS}将消逝的宝石碎片\N{\rENG}taking the shattered parts of fallen gems
+Dialogue: 100,0:09:58.30,0:09:59.60,Normal Dialog Text,,0,0,0,,{\rCHS}拼接到一起\N{\rENG}and combining them.
+Dialogue: 100,0:09:59.60,0:10:02.10,Normal Dialog Text,,0,0,0,,{\rCHS}并没有得到那些宝石人的同意\N{\rENG}Those gems weren't asked permission.
+Dialogue: 100,0:10:02.10,0:10:03.60,Normal Dialog Text,,0,0,0,,{\rCHS}融合是自己的选择\N{\rENG}Fusion is a choice.
+Dialogue: 100,0:10:03.61,0:10:05.54,Normal Dialog Text,,0,0,0,,{\rCHS}那些宝石人没有选择的余地\N{\rENG}Those gems weren't given a choice.
+Dialogue: 100,0:10:05.54,0:10:08.28,Normal Dialog Text,,0,0,0,,{\rCHS}这不对！这不是融合！\N{\rENG}It isn't right! It isn't fusion!
+Dialogue: 100,0:10:16.85,0:10:19.55,Normal Dialog Text,,0,0,0,,{\rCHS}这是一种什么感受，作为一个融合体？\N{\rENG}What's it like, being a fusion?
+Dialogue: 100,0:10:19.56,0:10:21.29,Normal Dialog Text,,0,0,0,,{\rCHS}你融合过\N{\rENG}You've fused.
+Dialogue: 100,0:10:21.29,0:10:23.66,Normal Dialog Text,,0,0,0,,{\rCHS}我指，就像，无时无刻\N{\rENG}I mean, like, all the time.
+Dialogue: 100,0:10:23.66,0:10:25.79,Normal Dialog Text,,0,0,0,,{\rCHS}你们还记得原来的自己吗？\N{\rENG}Do you forget who you used to be?
+Dialogue: 100,0:10:25.79,0:10:28.96,Normal Dialog Text,,0,0,0,,{\rCHS}你只会忘记你曾经的孤独\N{\rENG}You forget you were ever alone.
+Dialogue: 100,0:10:28.96,0:10:32.57,Normal Dialog Text,,0,0,0,,{\rCHS}你看，当你融合时，你不会感觉像两个人\N{\rENG}You know, when you fuse, you don't feel like two people.
+Dialogue: 100,0:10:32.57,0:10:34.23,Normal Dialog Text,,0,0,0,,{\rCHS}你感觉像是一个个体\N{\rENG}You feel like one being.
+Dialogue: 100,0:10:34.24,0:10:36.24,Normal Dialog Text,,0,0,0,,{\rCHS}而且原来的你\N{\rENG}And your old names might as well be names
+Dialogue: 100,0:10:36.24,0:10:38.71,Normal Dialog Text,,0,0,0,,{\rCHS}感觉就像是左手和右手\N{\rENG}for your left arm and your right.
+Dialogue: 100,0:10:38.71,0:10:42.18,Normal Dialog Text,,0,0,0,,{\rCHS}当你解体时，你是消失了吗？\N{\rENG}When you split up, is it like you disappear?
+Dialogue: 100,0:10:42.18,0:10:43.81,Normal Dialog Text,,0,0,0,,{\rCHS}我的存在体现的是我的——\N{\rENG}I embody my --
+Dialogue: 100,0:10:43.81,0:10:46.31,Normal Dialog Text,,0,0,0,,{\rCHS}我指，红宝石和蓝宝石的爱\N{\rENG}I mean, Ruby and Sapphire's love.
+Dialogue: 100,0:10:46.32,0:10:49.98,Normal Dialog Text,,0,0,0,,{\rCHS}我永远存在于她们之中，即使我解体了\N{\rENG}I'll always exist in them, even if I split apart.
+Dialogue: 100,0:10:49.99,0:10:52.65,Normal Dialog Text,,0,0,0,,{\rCHS}但是那种爱的力量让我一直在一起\N{\rENG}But the strength of that love keeps me together,
+Dialogue: 100,0:10:52.65,0:10:55.86,Normal Dialog Text,,0,0,0,,{\rCHS}所以我作为石榴可以保持非常长的时间\N{\rENG}so I can stay Garnet for a very long time.
+Dialogue: 100,0:10:55.86,0:10:57.52,Normal Dialog Text,,0,0,0,,{\rCHS}这就是你如此出色的原因！——哦，不！\N{\rENG}That's why you're so great.Oh, no!
+Dialogue: 100,0:11:03.83,0:11:06.27,Normal Dialog Text,,0,0,0,,{\rCHS}不想拆开一对\N{\rENG}Don't want to break up a pair.
+Dialogue: 100,0:11:06.27,0:11:08.20,Normal Dialog Text,,0,0,0,,{\rCHS}是，你说的对\N{\rENG}Yeah. You're right.
+Dialogue: 100,0:11:08.20,0:11:10.07,Normal Dialog Text,,0,0,0,,{\rCHS}它们属于一起\N{\rENG}They belong together.
+Dialogue: 150,0:11:13.02,0:11:16.20,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}如果我可以做到\N{\rENG_LYC}♪ If I could begin to be
+Dialogue: 150,0:11:16.20,0:11:18.96,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}你对我期望的一半\N{\rENG_LYC}♪ half of what you think of me
+Dialogue: 150,0:11:18.98,0:11:21.06,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我愿意做任何事\N{\rENG_LYC}♪ I could do about anything
+Dialogue: 150,0:11:21.08,0:11:26.64,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我愿学会像你一样，去爱\N{\rENG_LYC}♪ I could even learn how to love like you ♪

@@ -10,15 +10,15 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
-Last Style Storage: Default
+Last Style Storage: SU Pub
 Audio File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E15.Keystone.Motel.1080p.WEBRip.h264.AAC-AliQ.mp4
 Video File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E15.Keystone.Motel.1080p.WEBRip.h264.AAC-AliQ.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 54
-Active Line: 136
-Video Position: 7532
+Video Zoom Percent: 0.625000
+Scroll Position: 203
+Active Line: 210
+Video Position: 12036
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -31,6 +31,9 @@ Style: SU Team Title,幼圆,32,&H00B394E1,&H00FFFFFF,&H00FFFFFF,&H00DBE0C9,-1,0,
 Style: SU Team Background,Arial,20,&H00E7E7E7,&H000000FF,&H00000000,&H00D9DFC7,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: Song Lyrics Text,华文楷体,20,&H00EAEAEA,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: Hint,微软雅黑,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,1
+Style: Background Dialogue,微软雅黑,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
+Style: CHS_BKG,华文楷体,54,&H00FFFFFF,&H000000FF,&H00171717,&H00171717,0,0,0,0,100,100,0,0,1,4,2,2,10,10,10,1
+Style: ENG_BKG,Arial,36,&H00FFFFFF,&H000000FF,&H00171717,&H00171717,0,0,0,0,100,100,0,0,1,4,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -244,13 +247,13 @@ Dialogue: 0,0:08:11.52,0:08:12.62,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs
 Dialogue: 0,0:08:12.62,0:08:15.18,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}她迟早会让自己熄火的\N{\fnArial\fs48}She'll eventually just burn herself out.
 Dialogue: 0,0:08:15.18,0:08:16.56,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}那是你，的，想，法！\N{\fnArial\fs48}That's what you think!
 Dialogue: 0,0:08:16.56,0:08:19.20,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我是永不熄灭的烈焰，baby！\N{\fnArial\fs48}I am an eternal flame, baby!
-Dialogue: 0,0:08:22.00,0:08:23.14,Label Trans,,0,0,0,,{\fn微软雅黑\fs64\pos(960,120)\c&H5E37D3&}你又不了解我！\N{\fnArial\fs48}You don't know me!
-Dialogue: 0,0:08:22.64,0:08:24.06,Label Trans,,0,0,0,,{\fn微软雅黑\fs64\c&HE79069&\pos(960,240)}我怎么可能不了解\N{\fnArial\fs48}How could I possibly not know you
-Dialogue: 0,0:08:23.14,0:08:25.88,Label Trans,,0,0,0,,{\fn微软雅黑\fs64\pos(960,120)\c&H5E37D3&}你看看你！嗷～嚎-嚎\N{\fnArial\fs48}Look at you! Awww-haw-haw.
-Dialogue: 0,0:08:24.06,0:08:25.28,Label Trans,,0,0,0,,{\fn微软雅黑\fs64\c&HE79069&\pos(960,240)}我们总是融合在一起\N{\fnArial\fs48}we always fused.
-Dialogue: 0,0:08:26.84,0:08:28.70,Label Trans,,0,0,0,,{\fn微软雅黑\fs64\pos(960,120)\c&H5E37D3&}你都不了解你自己！哈！\N{\fnArial\fs48}You don't even know yourself! Hah!
+Dialogue: 0,0:08:22.00,0:08:23.14,Background Dialogue,,0,0,0,,{\rCHS_BKG}{\c&H5E37D3&}你又不了解我！\N{\rENG_BKG}{\c&H5E37D3&}You don't know me!
+Dialogue: 0,0:08:22.64,0:08:24.06,Background Dialogue,,0,0,0,,{\fn微软雅黑\fs64\c&HE79069&\pos(960,240)}我怎么可能不了解\N{\fnArial\fs48}How could I possibly not know you
+Dialogue: 0,0:08:23.14,0:08:25.88,Background Dialogue,,0,0,0,,{\fn微软雅黑\fs64\pos(960,120)\c&H5E37D3&}你看看你！嗷～嚎-嚎\N{\fnArial\fs48}Look at you! Awww-haw-haw.
+Dialogue: 0,0:08:24.06,0:08:25.28,Background Dialogue,,0,0,0,,{\fn微软雅黑\fs64\c&HE79069&\pos(960,240)}我们总是融合在一起\N{\fnArial\fs48}we always fused.
+Dialogue: 0,0:08:26.84,0:08:28.70,Background Dialogue,,0,0,0,,{\fn微软雅黑\fs64\pos(960,120)\c&H5E37D3&}你都不了解你自己！哈！\N{\fnArial\fs48}You don't even know yourself! Hah!
 Dialogue: 0,0:08:25.08,0:08:26.70,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}嘿，这没什么，伙计！\N{\fnArial\fs48}Hey, it's okay, pal!
-Dialogue: 0,0:08:25.28,0:08:27.30,Label Trans,,0,0,0,,{\fn微软雅黑\fs64\c&HE79069&\pos(960,240)}看看你自己，看看你在干什么...\N{\fnArial\fs48}Look at you. Look at what you're going on about...
+Dialogue: 0,0:08:25.28,0:08:27.30,Background Dialogue,,0,0,0,,{\fn微软雅黑\fs64\c&HE79069&\pos(960,240)}看看你自己，看看你在干什么...\N{\fnArial\fs48}Look at you. Look at what you're going on about...
 Dialogue: 0,0:08:26.90,0:08:28.30,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们仍然能解决的！\N{\fnArial\fs48}We can still save this!
 Dialogue: 0,0:08:28.30,0:08:31.06,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们为什么不讲这些打包带走然后-\N{\fnArial\fs48}Why don't we just bag these up to go and --
 Dialogue: 0,0:08:33.16,0:08:34.30,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}噢，天哪\N{\fnArial\fs48}ah, geez.

@@ -16,16 +16,14 @@ Video File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E13.Chille.Tid.
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 255
-Active Line: 263
-Video Position: 13946
+Video Position: 10
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: Label Trans,微软雅黑,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: Normal Dialog Text,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: SU Title,幼圆,100,&H00AB8D72,&H000000FF,&H00FFFFFF,&H00DBE0C9,-1,0,0,0,100,100,0,0,1,8,12,2,10,10,10,1
+Style: SU Title,幼圆,100,&H00966F18,&H000000FF,&H00E6E9E5,&H00E8D9A0,-1,0,0,0,100,100,0,0,1,8,12,2,10,10,10,1
 Style: SU Team Member,幼圆,36,&H008F6F1A,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: SU Team Title,幼圆,32,&H00BE9294,&H00FFFFFF,&H00FFFFFF,&H00DBE0C9,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: Song Lyrics Text,华文楷体,20,&H00EAEAEA,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1

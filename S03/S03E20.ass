@@ -1,0 +1,506 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: Default Aegisub file
+Original Script: 漫游字幕组
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+Timer: 100.0000
+Synch Point: 0
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,3,2,15,15,15,1
+Style: 720p raw eng,Microsoft YaHei,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,10,4,2,15,15,42,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:24.48,0:00:25.65,720p raw eng,NTP,0000,0000,0000,,噢，我的天哪！\N{\fs48}Oh, my goodness!{\r}
+Dialogue: 0,0:00:25.65,0:00:26.68,720p raw eng,NTP,0000,0000,0000,,加油，steven！\N{\fs48}Go for it, bro!{\r}
+Dialogue: 0,0:00:26.68,0:00:28.73,720p raw eng,NTP,0000,0000,0000,,这是你的最后一次机会\N{\fs48}This is your last chance.{\r}
+Dialogue: 0,0:00:28.73,0:00:30.32,720p raw eng,NTP,0000,0000,0000,,不，不\N{\fs48}No, no.{\r}
+Dialogue: 0,0:00:30.32,0:00:32.25,720p raw eng,NTP,0000,0000,0000,,跳，足...兆！\N{\fs48}Jump, ju...mp!{\r}
+Dialogue: 0,0:00:32.26,0:00:32.85,720p raw eng,NTP,0000,0000,0000,,-噢！-哎！\N{\fs48}-Oh!-Blehh!{\r}
+Dialogue: 0,0:00:33.53,0:00:36.53,720p raw eng,NTP,0000,0000,0000,,在游戏里死好几次也是个体力活\N{\fs48}Dying a bunch in a video games is emotionally exhausting.{\r}
+Dialogue: 0,0:00:36.70,0:00:37.57,720p raw eng,NTP,0000,0000,0000,,啥？\N{\fs48}Huh?{\r}
+Dialogue: 0,0:00:40.48,0:00:41.41,720p raw eng,NTP,0000,0000,0000,,狮子！\N{\fs48}Lion!{\r}
+Dialogue: 0,0:00:42.95,0:00:44.04,720p raw eng,NTP,0000,0000,0000,,把它放下！\N{\fs48}Drop it!{\r}
+Dialogue: 0,0:00:44.83,0:00:46.46,720p raw eng,NTP,0000,0000,0000,,狮子，你不能啃它\N{\fs48}Lion, you can't chew this up.{\r}
+Dialogue: 0,0:00:46.79,0:00:48.67,720p raw eng,NTP,0000,0000,0000,,我还怎么记住我在\N{\fs48}How else am I going to remember the time{\r}
+Dialogue: 0,0:00:48.67,0:00:50.71,720p raw eng,NTP,0000,0000,0000,,乐园骑雷鸟的那段时光啊？\N{\fs48}I rode the Thunder Bird at Funland?{\r}
+Dialogue: 0,0:00:51.99,0:00:54.19,720p raw eng,NTP,0000,0000,0000,,好啦，这次不会...\N{\fs48}Okay, I'm sure this time --{\r}
+Dialogue: 0,0:00:54.79,0:00:56.09,720p raw eng,NTP,0000,0000,0000,,狮子！\N{\fs48}Lion!{\r}
+Dialogue: 0,0:00:56.84,0:00:58.76,720p raw eng,NTP,0000,0000,0000,,休想\N{\fs48}Don't even think about it.{\r}
+Dialogue: 0,0:01:00.18,0:01:02.85,720p raw eng,NTP,0000,0000,0000,,既然你不乖，我就把它放到\N{\fs48}Since you can't play nice,I'm gonna have to put this{\r}
+Dialogue: 0,0:01:02.85,0:01:03.89,720p raw eng,NTP,0000,0000,0000,,你拿不到的地方：\N{\fs48}where you can't get it:{\r}
+Dialogue: 0,0:01:04.30,0:01:06.35,720p raw eng,NTP,0000,0000,0000,,在你的鬃毛里\N{\fs48}in your mane.{\r}
+Dialogue: 0,0:01:07.52,0:01:08.81,720p raw eng,NTP,0000,0000,0000,,谢了，伙计\N{\fs48}Thank you, boo.{\r}
+Dialogue: 0,0:01:14.86,0:01:15.99,720p raw eng,NTP,0000,0000,0000,,（好了）\N{\fs48}(There we go.){\r}
+Dialogue: 0,0:01:16.36,0:01:17.82,720p raw eng,NTP,0000,0000,0000,,（现在它安全了）\N{\fs48}(Now, it'll be safe forever){\r}
+Dialogue: 0,0:01:17.90,0:01:21.45,720p raw eng,NTP,0000,0000,0000,,（挂在这棵结实的魔法树上）\N{\fs48}(hanging in this perfectly stable, magic tree.){\r}
+Dialogue: 0,0:01:22.08,0:01:23.20,720p raw eng,NTP,0000,0000,0000,,口阿阿阿阿阿！\N{\fs48}Ohhhhh!{\r}
+Dialogue: 0,0:01:23.97,0:01:25.04,720p raw eng,NTP,0000,0000,0000,,唔？\N{\fs48}Hmm?{\r}
+Dialogue: 0,0:01:26.11,0:01:27.50,720p raw eng,NTP,0000,0000,0000,,口阿阿阿阿阿！\N{\fs48}Ahhhhh!{\r}
+Dialogue: 0,0:01:27.50,0:01:28.67,720p raw eng,NTP,0000,0000,0000,,跳，跳\N{\fs48}Jump, jump.{\r}
+Dialogue: 0,0:01:28.67,0:01:29.92,720p raw eng,NTP,0000,0000,0000,,我在跳\N{\fs48}I am jumping.{\r}
+Dialogue: 0,0:01:31.31,0:01:33.05,720p raw eng,NTP,0000,0000,0000,,我犯了一个严重的的错误！\N{\fs48}I made a horrible mistake!{\r}
+Dialogue: 0,0:01:33.34,0:01:34.09,720p raw eng,NTP,0000,0000,0000,,啥？！\N{\fs48}What?!{\r}
+Dialogue: 0,0:01:34.26,0:01:35.92,720p raw eng,NTP,0000,0000,0000,,噢，老兄\N{\fs48}Aw, man.{\r}
+Dialogue: 0,0:01:36.05,0:01:37.63,720p raw eng,NTP,0000,0000,0000,,等一下,我能补救\N{\fs48}Hold on. I can fix it.{\r}
+Dialogue: 0,0:01:46.30,0:01:47.19,720p raw eng,NTP,0000,0000,0000,,啊！\N{\fs48}Agh!{\r}
+Dialogue: 0,0:02:02.90,0:02:05.12,720p raw eng,NTP,0000,0000,0000,,在狮子的鬃毛里有一个宝石人！\N{\fs48}There's a Gem inside of Lion's mane!{\r}
+Dialogue: 0,0:02:05.12,0:02:06.00,720p raw eng,NTP,0000,0000,0000,,一个宝石人？\N{\fs48}A Gem?{\r}
+Dialogue: 0,0:02:06.00,0:02:07.00,720p raw eng,NTP,0000,0000,0000,,描述一下她\N{\fs48}Describe her.{\r}
+Dialogue: 0,0:02:07.00,0:02:08.41,720p raw eng,NTP,0000,0000,0000,,额，等一下\N{\fs48}Uh, hang on a sec.{\r}
+Dialogue: 0,0:02:10.13,0:02:11.08,720p raw eng,NTP,0000,0000,0000,,嘿，等等！\N{\fs48}Hey, wait!{\r}
+Dialogue: 0,0:02:11.58,0:02:12.67,720p raw eng,NTP,0000,0000,0000,,她很高\N{\fs48}She's big.{\r}
+Dialogue: 0,0:02:14.05,0:02:15.38,720p raw eng,NTP,0000,0000,0000,,哈？嘿，不要走！\N{\fs48}Huh? Hey, don't go!{\r}
+Dialogue: 0,0:02:15.88,0:02:17.93,720p raw eng,NTP,0000,0000,0000,,她有彩虹色的头发和纹身\N{\fs48}With rainbow hair and tattoos.{\r}
+Dialogue: 0,0:02:18.22,0:02:20.05,720p raw eng,NTP,0000,0000,0000,,彩虹色的头发？\N{\fs48}Rainbow hair?{\r}
+Dialogue: 0,0:02:20.22,0:02:21.76,720p raw eng,NTP,0000,0000,0000,,她的宝石是什么样的？\N{\fs48}What does her gem look like?{\r}
+Dialogue: 0,0:02:21.97,0:02:23.64,720p raw eng,NTP,0000,0000,0000,,是个内陷的形状？\N{\fs48}It's...an innie?{\r}
+Dialogue: 0,0:02:24.26,0:02:25.52,720p raw eng,NTP,0000,0000,0000,,不可能\N{\fs48}It can't be.{\r}
+Dialogue: 0,0:02:25.53,0:02:26.68,720p raw eng,NTP,0000,0000,0000,,什么不可能？\N{\fs48}Can't be what?{\r}
+Dialogue: 0,0:02:26.89,0:02:28.52,720p raw eng,NTP,0000,0000,0000,,史蒂文，带她出来\N{\fs48}Steven, bring her out.{\r}
+Dialogue: 0,0:02:29.00,0:02:29.73,720p raw eng,NTP,0000,0000,0000,,好哒\N{\fs48}Okay.{\r}
+Dialogue: 0,0:02:35.91,0:02:37.74,720p raw eng,NTP,0000,0000,0000,,嘿！朋友\N{\fs48}Hey! Little friend.{\r}
+Dialogue: 0,0:02:37.74,0:02:38.11,720p raw eng,NTP,0000,0000,0000,,噢！\N{\fs48}Ah!{\r}
+Dialogue: 0,0:02:38.53,0:02:39.45,720p raw eng,NTP,0000,0000,0000,,不要走！\N{\fs48}No, don't go!{\r}
+Dialogue: 0,0:02:39.80,0:02:43.37,720p raw eng,NTP,0000,0000,0000,,我好像迷路了，这里只有我们两个\N{\fs48}I believe I'm lost and there's no one here but us,{\r}
+Dialogue: 0,0:02:43.37,0:02:45.08,720p raw eng,NTP,0000,0000,0000,,所以帮我一下怎么样？\N{\fs48}so how about a little help?{\r}
+Dialogue: 0,0:02:54.76,0:02:56.75,720p raw eng,NTP,0000,0000,0000,,哇！一个陌生人\N{\fs48}Wow! A total stranger.{\r}
+Dialogue: 0,0:02:58.13,0:03:01.05,720p raw eng,NTP,0000,0000,0000,,珍珠...石榴\N{\fs48}Pearl...Garnet.{\r}
+Dialogue: 0,0:03:01.05,0:03:03.39,720p raw eng,NTP,0000,0000,0000,,铋-必-斯...女母-姆！\N{\fs48}Bi-i-s...mu-u-th!{\r}
+Dialogue: 0,0:03:03.39,0:03:05.60,720p raw eng,NTP,0000,0000,0000,,啊哈哈哈！你回来了！\N{\fs48}Ah ha ha ha! You're back!{\r}
+Dialogue: 0,0:03:05.76,0:03:08.00,720p raw eng,NTP,0000,0000,0000,,哇哦！嘿！\N{\fs48}Whoa! Hey!{\r}
+Dialogue: 0,0:03:08.00,0:03:10.41,720p raw eng,NTP,0000,0000,0000,,我认识的那个珍珠才不会跳进我的怀里\N{\fs48}The Pearl I know never jumps into my arms.{\r}
+Dialogue: 0,0:03:10.48,0:03:12.02,720p raw eng,NTP,0000,0000,0000,,嘿，谁家珍珠丢了？\N{\fs48}Hey, did somebody lose a pearl?{\r}
+Dialogue: 0,0:03:12.40,0:03:13.48,720p raw eng,NTP,0000,0000,0000,,你属于谁？\N{\fs48}Who do you belong to?{\r}
+Dialogue: 0,0:03:13.61,0:03:14.69,720p raw eng,NTP,0000,0000,0000,,谁也不属于\N{\fs48}Nobody.{\r}
+Dialogue: 0,0:03:14.69,0:03:16.02,720p raw eng,NTP,0000,0000,0000,,哈哈\N{\fs48}Ha ha!{\r}
+Dialogue: 0,0:03:16.23,0:03:18.36,720p raw eng,NTP,0000,0000,0000,,好了，好了，冷静下来\N{\fs48}All right, all right. Settle down.{\r}
+Dialogue: 0,0:03:18.65,0:03:19.94,720p raw eng,NTP,0000,0000,0000,,看看是谁在说话\N{\fs48}Oh, you're one to talk.{\r}
+Dialogue: 0,0:03:19.94,0:03:21.32,720p raw eng,NTP,0000,0000,0000,,噢，噢，抱歉\N{\fs48}Oh, oh, excuse me.{\r}
+Dialogue: 0,0:03:21.36,0:03:23.00,720p raw eng,NTP,0000,0000,0000,,是谁“们”在说话\N{\fs48}You're two to talk.{\r}
+Dialogue: 0,0:03:25.00,0:03:26.08,720p raw eng,NTP,0000,0000,0000,,嘿，冷静\N{\fs48}Hey, cool it.{\r}
+Dialogue: 0,0:03:26.41,0:03:27.74,720p raw eng,NTP,0000,0000,0000,,你的红宝石性格显露出来了哦\N{\fs48}Your ruby is showing.{\r}
+Dialogue: 0,0:03:28.00,0:03:29.50,720p raw eng,NTP,0000,0000,0000,,你去哪了？\N{\fs48}Where have you been?{\r}
+Dialogue: 0,0:03:29.75,0:03:31.33,720p raw eng,NTP,0000,0000,0000,,我们以为你被捕了\N{\fs48}We thought you'd been captured.{\r}
+Dialogue: 0,0:03:31.58,0:03:33.58,720p raw eng,NTP,0000,0000,0000,,或者更糟，被粉碎了\N{\fs48}Or, worse, shattered.{\r}
+Dialogue: 0,0:03:34.00,0:03:35.96,720p raw eng,NTP,0000,0000,0000,,粉碎我？噗！\N{\fs48}Shatter me? Pssh!{\r}
+Dialogue: 0,0:03:36.17,0:03:39.30,720p raw eng,NTP,0000,0000,0000,,母星不能在这颗宝石上留下任何划痕\N{\fs48}Homeworld couldn't lay a scratch on this Gem.{\r}
+Dialogue: 0,0:03:39.34,0:03:40.47,720p raw eng,NTP,0000,0000,0000,,咳咳！\N{\fs48}Ahem!{\r}
+Dialogue: 0,0:03:40.76,0:03:41.63,720p raw eng,NTP,0000,0000,0000,,这是谁？\N{\fs48}Who is this?{\r}
+Dialogue: 0,0:03:41.84,0:03:44.34,720p raw eng,NTP,0000,0000,0000,,大家，这是铋斯姆\N{\fs48}Guys, this is Bismuth.{\r}
+Dialogue: 0,0:03:44.34,0:03:46.51,720p raw eng,NTP,0000,0000,0000,,她是最早入队的宝石战士之一\N{\fs48}She's one of the original Crystal Gems.{\r}
+Dialogue: 0,0:03:46.64,0:03:48.50,720p raw eng,NTP,0000,0000,0000,,噢，嘿，新成员！\N{\fs48}Oh, hey, new recruits!{\r}
+Dialogue: 0,0:03:48.85,0:03:49.89,720p raw eng,NTP,0000,0000,0000,,欢迎加入\N{\fs48}Welcome aboard.{\r}
+Dialogue: 0,0:03:49.89,0:03:51.68,720p raw eng,NTP,0000,0000,0000,,我们永远不嫌紫晶太多\N{\fs48}We can always use more amethysts.{\r}
+Dialogue: 0,0:03:52.10,0:03:54.35,720p raw eng,NTP,0000,0000,0000,,这个肉丸子是谁？\N{\fs48}And who's this meatball?{\r}
+Dialogue: 0,0:03:54.85,0:03:55.86,720p raw eng,NTP,0000,0000,0000,,嗨！我是史蒂文\N{\fs48}Hi. I'm Steven.{\r}
+Dialogue: 0,0:03:56.16,0:03:57.94,720p raw eng,NTP,0000,0000,0000,,你刚才在我的狮子里，现在你在我的房子里\N{\fs48}You were in my lion and, now, you're in my house.{\r}
+Dialogue: 0,0:03:58.57,0:04:00.11,720p raw eng,NTP,0000,0000,0000,,好吧，谢谢你收留我\N{\fs48}Well, thanks for having me.{\r}
+Dialogue: 0,0:04:00.23,0:04:01.95,720p raw eng,NTP,0000,0000,0000,,我不敢相信！\N{\fs48}I can't believe it!{\r}
+Dialogue: 0,0:04:03.24,0:04:04.57,720p raw eng,NTP,0000,0000,0000,,玫瑰说她在金字塔那一战中\N{\fs48}Rose said she lost track of you{\r}
+Dialogue: 0,0:04:04.57,0:04:06.12,720p raw eng,NTP,0000,0000,0000,,丢失了你的踪迹\N{\fs48}at the battle for the Ziggaurat.{\r}
+Dialogue: 0,0:04:06.12,0:04:07.83,720p raw eng,NTP,0000,0000,0000,,她担心极了！\N{\fs48}She was worried sick!{\r}
+Dialogue: 0,0:04:09.95,0:04:10.66,720p raw eng,NTP,0000,0000,0000,,等一下\N{\fs48}Wait.{\r}
+Dialogue: 0,0:04:10.95,0:04:11.87,720p raw eng,NTP,0000,0000,0000,,玫瑰呢？\N{\fs48}Where is Rose?{\r}
+Dialogue: 0,0:04:12.16,0:04:15.75,720p raw eng,NTP,0000,0000,0000,,嗨，额，实际上，我是玫瑰的儿子\N{\fs48}Hi, um. Actually, I'm Rose's son.{\r}
+Dialogue: 0,0:04:15.75,0:04:17.67,720p raw eng,NTP,0000,0000,0000,,她某种意义上变成了我\N{\fs48}She kind of turned into me.{\r}
+Dialogue: 0,0:04:17.67,0:04:20.84,720p raw eng,NTP,0000,0000,0000,,我有她的宝石，其他部分来自我爸爸\N{\fs48}Well, I have her gem. The rest is from my dad.{\r}
+Dialogue: 0,0:04:21.00,0:04:22.01,720p raw eng,NTP,0000,0000,0000,,哦\N{\fs48}Oh.{\r}
+Dialogue: 0,0:04:22.01,0:04:23.34,720p raw eng,NTP,0000,0000,0000,,她在这\N{\fs48}There she is.{\r}
+Dialogue: 0,0:04:24.20,0:04:25.26,720p raw eng,NTP,0000,0000,0000,,你...\N{\fs48}You...{\r}
+Dialogue: 0,0:04:25.80,0:04:26.84,720p raw eng,NTP,0000,0000,0000,,你认识我吗？\N{\fs48}Do you know me?{\r}
+Dialogue: 0,0:04:27.25,0:04:28.18,720p raw eng,NTP,0000,0000,0000,,并不\N{\fs48}No.{\r}
+Dialogue: 0,0:04:28.18,0:04:29.42,720p raw eng,NTP,0000,0000,0000,,抱歉\N{\fs48}I'm so sorry.{\r}
+Dialogue: 0,0:04:29.42,0:04:33.10,720p raw eng,NTP,0000,0000,0000,,玫瑰的选择不总是很容易理解，\N{\fs48}It's not always easy  understand Rose's choices,{\r}
+Dialogue: 0,0:04:33.60,0:04:35.90,720p raw eng,NTP,0000,0000,0000,,但是我们必须支持她\N{\fs48}but we have to stand behind them.{\r}
+Dialogue: 0,0:04:36.35,0:04:39.73,720p raw eng,NTP,0000,0000,0000,,玫瑰真的变成了别人\N{\fs48}Rose really is somethin' else.{\r}
+Dialogue: 0,0:04:41.07,0:04:42.69,720p raw eng,NTP,0000,0000,0000,,我是说看看这！\N{\fs48}I mean, look at this!{\r}
+Dialogue: 0,0:04:42.69,0:04:44.99,720p raw eng,NTP,0000,0000,0000,,玫瑰真的变成了别人\N{\fs48}She really is somethin' else.{\r}
+Dialogue: 0,0:04:47.47,0:04:49.41,720p raw eng,NTP,0000,0000,0000,,哇！所有的事物都变了！\N{\fs48}Wow! Everything's changing!{\r}
+Dialogue: 0,0:04:49.41,0:04:52.37,720p raw eng,NTP,0000,0000,0000,,我们的基地现在是木制的了？\N{\fs48}And we're buildin' bases out of wood now?!{\r}
+Dialogue: 0,0:04:53.75,0:04:55.60,720p raw eng,NTP,0000,0000,0000,,这是谁的坏点子？\N{\fs48}Whose terrible idea was this?{\r}
+Dialogue: 0,0:04:55.60,0:04:57.33,720p raw eng,NTP,0000,0000,0000,,其他人呢？\N{\fs48}And where is everybody else?{\r}
+Dialogue: 0,0:04:57.33,0:04:58.84,720p raw eng,NTP,0000,0000,0000,,其他人？\N{\fs48}Everybody else?{\r}
+Dialogue: 0,0:04:59.00,0:05:01.09,720p raw eng,NTP,0000,0000,0000,,是啊，剩余的宝石战士！\N{\fs48}Yeah, the rest of the Crystal Gems!{\r}
+Dialogue: 0,0:05:01.55,0:05:03.63,720p raw eng,NTP,0000,0000,0000,,疯狂的老花边,比格斯,雪花\N{\fs48}Old Crazy Lace, Biggs, Snowflake.{\r}
+Dialogue: 0,0:05:07.18,0:05:07.93,720p raw eng,NTP,0000,0000,0000,,不\N{\fs48}No.{\r}
+Dialogue: 0,0:05:08.00,0:05:09.14,720p raw eng,NTP,0000,0000,0000,,不可能！\N{\fs48}No way!{\r}
+Dialogue: 0,0:05:09.55,0:05:11.43,720p raw eng,NTP,0000,0000,0000,,我们刚刚...还在这\N{\fs48}We were...just here.{\r}
+Dialogue: 0,0:05:11.97,0:05:13.14,720p raw eng,NTP,0000,0000,0000,,我失踪了多久？\N{\fs48}How long was I out?{\r}
+Dialogue: 0,0:05:13.30,0:05:16.14,720p raw eng,NTP,0000,0000,0000,,大约有5300年了\N{\fs48}It's been about 5,300 years.{\r}
+Dialogue: 0,0:05:16.60,0:05:18.77,720p raw eng,NTP,0000,0000,0000,,我们，宝石战士们，\N{\fs48}We, the Crystal Gems,{\r}
+Dialogue: 0,0:05:18.77,0:05:20.90,720p raw eng,NTP,0000,0000,0000,,成功拯救了地球\N{\fs48}were able to save the Earth.{\r}
+Dialogue: 0,0:05:21.15,0:05:23.65,720p raw eng,NTP,0000,0000,0000,,但是我们是仅存的反叛军了不是吗？\N{\fs48}But we're all that's left of the Rebellion, huh?{\r}
+Dialogue: 0,0:05:25.35,0:05:27.28,720p raw eng,NTP,0000,0000,0000,,哦，别呀珍珠\N{\fs48}Aw, come on, Pearl.{\r}
+Dialogue: 0,0:05:27.57,0:05:30.24,720p raw eng,NTP,0000,0000,0000,,你知道我看不得你哭\N{\fs48}You know I can't take it when you cry like that.{\r}
+Dialogue: 0,0:05:30.74,0:05:31.75,720p raw eng,NTP,0000,0000,0000,,抱歉\N{\fs48}I'm sorry.{\r}
+Dialogue: 0,0:05:31.75,0:05:34.29,720p raw eng,NTP,0000,0000,0000,,不，不需要道歉\N{\fs48}No. No need to apologize.{\r}
+Dialogue: 0,0:05:34.62,0:05:36.62,720p raw eng,NTP,0000,0000,0000,,母星对地球最后的攻击\N{\fs48}Homeworld's final attack on Earth{\r}
+Dialogue: 0,0:05:36.91,0:05:39.42,720p raw eng,NTP,0000,0000,0000,,毁了所有的宝石战士\N{\fs48}wiped out all of the Crystal Gems.{\r}
+Dialogue: 0,0:05:39.63,0:05:42.00,720p raw eng,NTP,0000,0000,0000,,玫瑰设法保护了石榴和我\N{\fs48}Rose was able to protect Garnet and myself{\r}
+Dialogue: 0,0:05:42.09,0:05:43.38,720p raw eng,NTP,0000,0000,0000,,看起来，\N{\fs48}and, by the looks of it,{\r}
+Dialogue: 0,0:05:43.38,0:05:45.07,720p raw eng,NTP,0000,0000,0000,,她也保护了你\N{\fs48}she was able to protect you as well.{\r}
+Dialogue: 0,0:05:45.53,0:05:46.38,720p raw eng,NTP,0000,0000,0000,,啊！\N{\fs48}Ah!{\r}
+Dialogue: 0,0:05:46.51,0:05:49.55,720p raw eng,NTP,0000,0000,0000,,我就知道那些母星的精英心理扭曲\N{\fs48}I knew those Homeworld elites were twisted.{\r}
+Dialogue: 0,0:05:49.84,0:05:51.51,720p raw eng,NTP,0000,0000,0000,,她们粉碎了我们多少人？！\N{\fs48}How many of us did they shatter?!{\r}
+Dialogue: 0,0:05:51.73,0:05:54.14,720p raw eng,NTP,0000,0000,0000,,老花边？比格斯！\N{\fs48}Crazy Lace? Biggs!{\r}
+Dialogue: 0,0:05:54.14,0:05:55.84,720p raw eng,NTP,0000,0000,0000,,雪花？！\N{\fs48}Snowflake?!{\r}
+Dialogue: 0,0:05:55.84,0:05:58.35,720p raw eng,NTP,0000,0000,0000,,如果我当时在这，我--能阻止他们！\N{\fs48}If I was there, I --I could've stopped it!{\r}
+Dialogue: 0,0:05:58.46,0:06:00.32,720p raw eng,NTP,0000,0000,0000,,他们从没停止过尝试\N{\fs48}It's not like they've stopped trying.{\r}
+Dialogue: 0,0:06:00.32,0:06:01.85,720p raw eng,NTP,0000,0000,0000,,你说啥？\N{\fs48}What's that?{\r}
+Dialogue: 0,0:06:01.85,0:06:04.18,720p raw eng,NTP,0000,0000,0000,,母星从未停止对地球的监视\N{\fs48}Homeworld still hasits eyes on this planet.{\r}
+Dialogue: 0,0:06:04.18,0:06:06.25,720p raw eng,NTP,0000,0000,0000,,我们不断粉碎他们的阴谋\N{\fs48}We continue to thwarttheir plans,{\r}
+Dialogue: 0,0:06:06.25,0:06:07.48,720p raw eng,NTP,0000,0000,0000,,一遍又一遍\N{\fs48}over and over.{\r}
+Dialogue: 0,0:06:07.49,0:06:09.39,720p raw eng,NTP,0000,0000,0000,,但是他们还是不断卷土重来！\N{\fs48}But they just keep\Ncoming back!{\r}
+Dialogue: 0,0:06:09.39,0:06:11.69,720p raw eng,NTP,0000,0000,0000,,对，他们超想我们挂掉\N{\fs48}Yep,they want us, bad.{\r}
+Dialogue: 0,0:06:11.69,0:06:12.72,720p raw eng,NTP,0000,0000,0000,,不错\N{\fs48}Good.{\r}
+Dialogue: 0,0:06:12.73,0:06:14.33,720p raw eng,NTP,0000,0000,0000,,我还以为没有第二次机会\N{\fs48}I thought I wouldn't get another chance{\r}
+Dialogue: 0,0:06:14.33,0:06:16.73,720p raw eng,NTP,0000,0000,0000,,来让那些高层昏庸们见识下谁是老大！\N{\fs48}to show those upper crusts who's boss!{\r}
+Dialogue: 0,0:06:16.73,0:06:21.83,720p raw eng,NTP,0000,0000,0000,,我们来让他们看看惹恼水晶战士们后会有什么后果!\N{\fs48}Let's show 'em what happens when you mess with the Crystal Gems.{\r}
+Dialogue: 0,0:06:23.57,0:06:24.97,720p raw eng,NTP,0000,0000,0000,,棒\N{\fs48}Yeah.{\r}
+Dialogue: 0,0:06:24.97,0:06:26.77,720p raw eng,NTP,0000,0000,0000,,铋斯姆，母星的宝石人\N{\fs48}Bismuth,the Gems on Homeworld{\r}
+Dialogue: 0,0:06:26.77,0:06:29.57,720p raw eng,NTP,0000,0000,0000,,数量比我们多到不知道哪里去了\N{\fs48}outnumber us by a huge amount.{\r}
+Dialogue: 0,0:06:29.58,0:06:31.61,720p raw eng,NTP,0000,0000,0000,,还有他们的科技水平\N{\fs48}And their technology far surpasses{\r}
+Dialogue: 0,0:06:31.61,0:06:34.31,720p raw eng,NTP,0000,0000,0000,,也远超地球上的所有\N{\fs48}anything we have available on Earth.{\r}
+Dialogue: 0,0:06:36.45,0:06:38.18,720p raw eng,NTP,0000,0000,0000,,这也能算新闻？\N{\fs48}What else is new?{\r}
+Dialogue: 0,0:06:38.18,0:06:40.02,720p raw eng,NTP,0000,0000,0000,,石榴，记不记得那次你和我\N{\fs48}Garnet,remember when you and I{\r}
+Dialogue: 0,0:06:40.02,0:06:42.89,720p raw eng,NTP,0000,0000,0000,,打掉了一个营的石英战士？\N{\fs48}took on a battalion of Quartz soldiers?{\r}
+Dialogue: 0,0:06:42.89,0:06:45.29,720p raw eng,NTP,0000,0000,0000,,走出战场那时候，咱们身上的宝石\N{\fs48}We walked out with our stones shining brighter{\r}
+Dialogue: 0,0:06:45.29,0:06:46.96,720p raw eng,NTP,0000,0000,0000,,比战斗前还要闪亮\N{\fs48}than when we walked in.{\r}
+Dialogue: 0,0:06:46.96,0:06:49.88,720p raw eng,NTP,0000,0000,0000,,我可是记得咱们打掉了三个营\N{\fs48}As I recall, it was three battalions.{\r}
+Dialogue: 0,0:06:49.88,0:06:53.28,720p raw eng,NTP,0000,0000,0000,,还有珍珠，记得那次咱俩停住了那艘登陆舰？\N{\fs48}And, Pearl, remember when we stopped that drop ship?{\r}
+Dialogue: 0,0:06:53.28,0:06:56.28,720p raw eng,NTP,0000,0000,0000,,瞧瞧当时那只闪玉脸上的表情！\N{\fs48}I'll never forget the look on that Nephrite's face{\r}
+Dialogue: 0,0:06:56.28,0:06:58.40,720p raw eng,NTP,0000,0000,0000,,你直接就把她从那鸡窝里拽出来了！\N{\fs48}when you pulled her out of the cockpit!{\r}
+Dialogue: 0,0:06:58.40,0:07:00.44,720p raw eng,NTP,0000,0000,0000,,我记得\N{\fs48}I know.{\r}
+Dialogue: 0,0:07:00.44,0:07:02.67,720p raw eng,NTP,0000,0000,0000,,当时她超尴尬的\N{\fs48}How embarrassing for her.{\r}
+Dialogue: 0,0:07:02.68,0:07:03.77,720p raw eng,NTP,0000,0000,0000,,哈——哈！\N{\fs48}Ha-ha!{\r}
+Dialogue: 0,0:07:03.78,0:07:06.18,720p raw eng,NTP,0000,0000,0000,,现在咱们从落下的地方重新开始吧！\N{\fs48}So let's pick up where we left off!{\r}
+Dialogue: 0,0:07:06.18,0:07:08.15,720p raw eng,NTP,0000,0000,0000,,锻造车间，出发！\N{\fs48}To the forge!{\r}
+Dialogue: 0,0:07:08.15,0:07:09.18,720p raw eng,NTP,0000,0000,0000,,耶！\N{\fs48}Yay!{\r}
+Dialogue: 0,0:07:09.18,0:07:10.38,720p raw eng,NTP,0000,0000,0000,,锻造车间,出发！\N{\fs48}To the forge!{\r}
+Dialogue: 0,0:07:10.38,0:07:12.15,720p raw eng,NTP,0000,0000,0000,,喂，啥是锻造车间啊\N{\fs48}Yo, what's a forge?{\r}
+Dialogue: 0,0:07:19.28,0:07:21.95,720p raw eng,NTP,0000,0000,0000,,多么令人怀念啊！\N{\fs48}That brings back memories, huh?{\r}
+Dialogue: 0,0:07:21.95,0:07:23.28,720p raw eng,NTP,0000,0000,0000,,这就是锻造车间？\N{\fs48}Is this the forge?{\r}
+Dialogue: 0,0:07:23.28,0:07:24.35,720p raw eng,NTP,0000,0000,0000,,还没到呢\N{\fs48}Not yet.{\r}
+Dialogue: 0,0:07:24.35,0:07:26.38,720p raw eng,NTP,0000,0000,0000,,跟我来\N{\fs48}Follow me.{\r}
+Dialogue: 0,0:07:28.19,0:07:30.15,720p raw eng,NTP,0000,0000,0000,,到锻造车间了吗\N{\fs48}Is this the forge?{\r}
+Dialogue: 0,0:07:30.16,0:07:33.02,720p raw eng,NTP,0000,0000,0000,,呃，别问我啊，我又没来过\N{\fs48}Ugh. Don't ask me.I've never been here before.{\r}
+Dialogue: 0,0:07:33.03,0:07:35.66,720p raw eng,NTP,0000,0000,0000,,嗯，自打铋斯姆失踪之后\N{\fs48}Well, since Bismuth was gone,{\r}
+Dialogue: 0,0:07:35.66,0:07:37.56,720p raw eng,NTP,0000,0000,0000,,我们也没来这里的理由了\N{\fs48}we've had no reasn to come back here.{\r}
+Dialogue: 0,0:07:37.56,0:07:41.03,720p raw eng,NTP,0000,0000,0000,,可不是吗，这个地方离了我什么都不是\N{\fs48}Let's just say this place ain't the same without me.{\r}
+Dialogue: 0,0:07:41.03,0:07:42.47,720p raw eng,NTP,0000,0000,0000,,什么意思\N{\fs48}What does that mean?{\r}
+Dialogue: 0,0:07:42.47,0:07:44.00,720p raw eng,NTP,0000,0000,0000,,紫晶！你觉得那是什么意思？\N{\fs48}Amethyst! What do think you that means?{\r}
+Dialogue: 0,0:07:44.00,0:07:45.17,720p raw eng,NTP,0000,0000,0000,,我也不造啊，宝\N{\fs48}I don't know, dude.{\r}
+Dialogue: 0,0:07:45.17,0:07:47.54,720p raw eng,NTP,0000,0000,0000,,今天是我第一次见这只宝石人\N{\fs48}I've never even seen this Gem before today.{\r}
+Dialogue: 0,0:07:47.54,0:07:49.97,720p raw eng,NTP,0000,0000,0000,,母星把我们打得稀里哗啦\N{\fs48}We took a huge blow from Homeworld.{\r}
+Dialogue: 0,0:07:49.98,0:07:53.24,720p raw eng,NTP,0000,0000,0000,,但是今天我们又重新“铋”入正轨了！\N{\fs48}But, now, we're back in Bismuth (business).{\r}
+Dialogue: 0,0:07:54.38,0:07:56.11,720p raw eng,NTP,0000,0000,0000,,她真会讲笑话\N{\fs48}She's got jokes!{\r}
+Dialogue: 0,0:07:56.11,0:07:58.18,720p raw eng,NTP,0000,0000,0000,,这就是锻造车间了？\N{\fs48}Is this the forge?{\r}
+Dialogue: 0,0:07:58.18,0:07:59.45,720p raw eng,NTP,0000,0000,0000,,差一点\N{\fs48}Not quite.{\r}
+Dialogue: 0,0:08:07.98,0:08:09.10,720p raw eng,NTP,0000,0000,0000,,嗒—哒！\N{\fs48}Ta-da!{\r}
+Dialogue: 0,0:08:09.10,0:08:11.13,720p raw eng,NTP,0000,0000,0000,,哇哦，瞧瞧这绝赞的大门！\N{\fs48}Wow.Now, that's an entrance.{\r}
+Dialogue: 0,0:08:11.13,0:08:13.10,720p raw eng,NTP,0000,0000,0000,,超棒!铋斯姆!\N{\fs48}Bravo, Bismuth!{\r}
+Dialogue: 0,0:08:14.33,0:08:17.10,720p raw eng,NTP,0000,0000,0000,,啊!铋斯姆!\N{\fs48}Aaaah! Bismuth.{\r}
+Dialogue: 0,0:08:17.10,0:08:18.77,720p raw eng,NTP,0000,0000,0000,,哇！\N{\fs48}Whoa!{\r}
+Dialogue: 0,0:08:18.77,0:08:21.27,720p raw eng,NTP,0000,0000,0000,,和之前一点没变啊\N{\fs48}It's just like I remember it.{\r}
+Dialogue: 0,0:08:21.27,0:08:23.77,720p raw eng,NTP,0000,0000,0000,,这里热得和烤炉一样\N{\fs48}It feels like an oven in here.{\r}
+Dialogue: 0,0:08:23.78,0:08:25.68,720p raw eng,NTP,0000,0000,0000,,你以为这就算热了？\N{\fs48}You think it's hot now?{\r}
+Dialogue: 0,0:08:25.68,0:08:27.85,720p raw eng,NTP,0000,0000,0000,,对啊，烤炉一样热\N{\fs48}Yeah, like an oven.{\r}
+Dialogue: 0,0:08:28.98,0:08:32.95,720p raw eng,NTP,0000,0000,0000,,等下还会更---热呢！\N{\fs48}Well, it's about to get way hotter!{\r}
+Dialogue: 0,0:08:39.86,0:08:42.09,720p raw eng,NTP,0000,0000,0000,,赞！\N{\fs48}Ah, cool!{\r}
+Dialogue: 0,0:08:42.09,0:08:42.93,720p raw eng,NTP,0000,0000,0000,,哈！\N{\fs48}Ooh. Hah!{\r}
+Dialogue: 0,0:08:42.93,0:08:47.46,720p raw eng,NTP,0000,0000,0000,,没什么比淋个岩浆浴更能焕发精神的了\N{\fs48}Nothing like a hot lava bath to get into a working mood.{\r}
+Dialogue: 0,0:08:50.60,0:08:53.13,720p raw eng,NTP,0000,0000,0000,,呃，你在这里都做些什么？\N{\fs48}Uh, what, exactly, do you do here?{\r}
+Dialogue: 0,0:08:53.13,0:08:57.08,720p raw eng,NTP,0000,0000,0000,,母星使唤我们这些铋斯姆来建造尖塔和庙宇\N{\fs48}Homeworld used us Bismuths to erect spires and temples{\r}
+Dialogue: 0,0:08:57.08,0:08:59.98,720p raw eng,NTP,0000,0000,0000,,供那些宝石精英们享受\N{\fs48}for the Gem elites to enjoy.{\r}
+Dialogue: 0,0:09:02.28,0:09:05.45,720p raw eng,NTP,0000,0000,0000,,但是玫瑰告诉我们可以主宰自己的命运\N{\fs48}But Rose taught me that my life was my own,{\r}
+Dialogue: 0,0:09:05.45,0:09:07.25,720p raw eng,NTP,0000,0000,0000,,可以自己选择\N{\fs48}that I could choose{\r}
+Dialogue: 0,0:09:07.25,0:09:08.55,720p raw eng,NTP,0000,0000,0000,,去做\N{\fs48}to do{\r}
+Dialogue: 0,0:09:08.55,0:09:10.49,720p raw eng,NTP,0000,0000,0000,,自己想做的所有事\N{\fs48}whatever I wanted.{\r}
+Dialogue: 0,0:09:12.52,0:09:15.02,720p raw eng,NTP,0000,0000,0000,,所以我选择做这个\N{\fs48}So I chose this.{\r}
+Dialogue: 0,0:09:16.00,0:09:19.03,720p raw eng,NTP,0000,0000,0000,,铋斯姆，你是做...武器的？\N{\fs48}Bismuth, you make...weapons?!{\r}
+Dialogue: 0,0:09:19.03,0:09:20.16,720p raw eng,NTP,0000,0000,0000,,不错!\N{\fs48}That's right!{\r}
+Dialogue: 0,0:09:20.17,0:09:23.03,720p raw eng,NTP,0000,0000,0000,,我打造了叛军的所有武器\N{\fs48}I outfitted the entire Rebellion.{\r}
+Dialogue: 0,0:09:23.04,0:09:25.87,720p raw eng,NTP,0000,0000,0000,,每一件水晶战士们用的武器\N{\fs48}Every material weapon used by the Crystal Gems{\r}
+Dialogue: 0,0:09:25.87,0:09:28.34,720p raw eng,NTP,0000,0000,0000,,都是在这里制作的\N{\fs48}was made right here in this forge.{\r}
+Dialogue: 0,0:09:28.34,0:09:31.37,720p raw eng,NTP,0000,0000,0000,,等下，那个东西还在吗\N{\fs48}Wait.Is it still here?{\r}
+Dialogue: 0,0:09:31.38,0:09:33.64,720p raw eng,NTP,0000,0000,0000,,啊哈！还在！\N{\fs48}Aha! Yes!{\r}
+Dialogue: 0,0:09:33.65,0:09:33.75,720p raw eng,NTP,0000,0000,0000,,给\N{\fs48}Here.{\r}
+Dialogue: 0,0:09:34.87,0:09:36.84,720p raw eng,NTP,0000,0000,0000,,这个东西能辅助你出拳\N{\fs48}Something to pack a little extra punch.{\r}
+Dialogue: 0,0:09:36.84,0:09:39.71,720p raw eng,NTP,0000,0000,0000,,你为什么不试试三叉戟呢\N{\fs48}And why don't you try a trident.{\r}
+Dialogue: 0,0:09:39.71,0:09:42.12,720p raw eng,NTP,0000,0000,0000,,哦，铋斯姆，没必要这么客气\N{\fs48}Oh, Bismuth,you shouldn't have.{\r}
+Dialogue: 0,0:09:42.42,0:09:43.89,720p raw eng,NTP,0000,0000,0000,,没啥大不了的\N{\fs48}It's no big deal.{\r}
+Dialogue: 0,0:09:43.89,0:09:45.60,720p raw eng,NTP,0000,0000,0000,,我做这些东西好长时间了，自打...\N{\fs48}I was working on them since before...{\r}
+Dialogue: 0,0:09:46.41,0:09:48.72,720p raw eng,NTP,0000,0000,0000,,呃，现在给你们也无妨\N{\fs48}Well, may as well give them to you now.{\r}
+Dialogue: 0,0:09:49.21,0:09:50.36,720p raw eng,NTP,0000,0000,0000,,等多久都值得\N{\fs48}It was worth the wait.{\r}
+Dialogue: 0,0:09:51.06,0:09:53.93,720p raw eng,NTP,0000,0000,0000,,嘿，和你们打交道“铋”然开心啊\N{\fs48}Hey, it's a pleasure doing Bismuth with you.{\r}
+Dialogue: 0,0:09:53.93,0:09:56.93,720p raw eng,NTP,0000,0000,0000,,铋斯姆超搞笑的\N{\fs48}Bismuth is so funny.{\r}
+Dialogue: 0,0:09:56.94,0:09:58.34,720p raw eng,NTP,0000,0000,0000,,不好说\N{\fs48}I don't know.{\r}
+Dialogue: 0,0:09:58.34,0:09:59.94,720p raw eng,NTP,0000,0000,0000,,她一个梗用了两次了\N{\fs48}Same joke twice?{\r}
+Dialogue: 0,0:09:59.94,0:10:01.50,720p raw eng,NTP,0000,0000,0000,,嗯，她如果用这个梗三次\N{\fs48}Well, it'll be really funny{\r}
+Dialogue: 0,0:10:01.51,0:10:02.84,720p raw eng,NTP,0000,0000,0000,,那才叫搞笑\N{\fs48}if she does it a third time.{\r}
+Dialogue: 0,0:10:02.84,0:10:03.91,720p raw eng,NTP,0000,0000,0000,,好吧\N{\fs48}Right.{\r}
+Dialogue: 0,0:10:03.91,0:10:05.81,720p raw eng,NTP,0000,0000,0000,,对不起，这个很不好说\N{\fs48}Sorry, I -- I don't know.{\r}
+Dialogue: 0,0:10:05.81,0:10:08.58,720p raw eng,NTP,0000,0000,0000,,我意思是，她是最初的水晶战士之一\N{\fs48}I mean, she's one of the original Crystal Gems{\r}
+Dialogue: 0,0:10:08.58,0:10:10.41,720p raw eng,NTP,0000,0000,0000,,但是却没人提到过她？\N{\fs48}and no one ever mentioned her to me,{\r}
+Dialogue: 0,0:10:10.42,0:10:11.75,720p raw eng,NTP,0000,0000,0000,,甚至玫瑰都没说过？\N{\fs48}not even Rose?{\r}
+Dialogue: 0,0:10:11.75,0:10:13.92,720p raw eng,NTP,0000,0000,0000,,你不觉得有点，呃\N{\fs48}Don't you think that's a little bit, uh..{\r}
+Dialogue: 0,0:10:13.92,0:10:15.52,720p raw eng,NTP,0000,0000,0000,,可疑吗？\N{\fs48}suspicious?{\r}
+Dialogue: 0,0:10:15.52,0:10:18.32,720p raw eng,NTP,0000,0000,0000,,是有点奇怪了\N{\fs48}I guess that is a little strange.{\r}
+Dialogue: 0,0:10:18.32,0:10:20.56,720p raw eng,NTP,0000,0000,0000,,嘿，小家伙，别以为我把你忘了\N{\fs48}Hey, deep cut, don't think I forgot about yo.{\r}
+Dialogue: 0,0:10:20.56,0:10:22.19,720p raw eng,NTP,0000,0000,0000,,你的武器是啥\N{\fs48}What you packin'?{\r}
+Dialogue: 0,0:10:22.19,0:10:23.89,720p raw eng,NTP,0000,0000,0000,,哦，这个老物件而已\N{\fs48}Oh, this old thing?{\r}
+Dialogue: 0,0:10:23.90,0:10:25.30,720p raw eng,NTP,0000,0000,0000,,哦，哇\N{\fs48}Oh, wow.{\r}
+Dialogue: 0,0:10:25.31,0:10:27.41,720p raw eng,NTP,0000,0000,0000,,-怎么了？ -额\N{\fs48}-What is it? -Well...{\r}
+Dialogue: 0,0:10:27.42,0:10:29.38,720p raw eng,NTP,0000,0000,0000,,没见过别的石英用这种鞭子的\N{\fs48}Not every Quartz can make a whip like this.{\r}
+Dialogue: 0,0:10:29.63,0:10:31.14,720p raw eng,NTP,0000,0000,0000,,介意我拿来看下吗?\N{\fs48}You mind if I take a look?{\r}
+Dialogue: 0,0:10:31.14,0:10:32.04,720p raw eng,NTP,0000,0000,0000,,随便观赏咯\N{\fs48}Knock yourself out.{\r}
+Dialogue: 0,0:10:32.04,0:10:34.34,720p raw eng,NTP,0000,0000,0000,,等下！我有个主意\N{\fs48}Hold on! I've got an idea.{\r}
+Dialogue: 0,0:10:35.94,0:10:40.14,720p raw eng,NTP,0000,0000,0000,,给，有了这个，你破坏力能提升不少\N{\fs48}Here. With this, you can really do some damage.{\r}
+Dialogue: 0,0:10:43.68,0:10:45.38,720p raw eng,NTP,0000,0000,0000,,哦液，宝贝儿！\N{\fs48}Aw, yeah, baby.{\r}
+Dialogue: 0,0:10:45.38,0:10:48.59,720p raw eng,NTP,0000,0000,0000,,铋斯姆坠棒！\N{\fs48}Bismuth's the best!{\r}
+Dialogue: 0,0:10:48.59,0:10:50.52,720p raw eng,NTP,0000,0000,0000,,母星把我们当作泥土看待\N{\fs48}Homeworld treats us like dirt{\r}
+Dialogue: 0,0:10:50.52,0:10:52.72,720p raw eng,NTP,0000,0000,0000,,因为我们不像那些精英一般闪耀\N{\fs48}because we don't shine like the elites.{\r}
+Dialogue: 0,0:10:52.72,0:10:54.66,720p raw eng,NTP,0000,0000,0000,,但现在水晶战士们卷土重来了\N{\fs48}But the Crystal Gems are back{\r}
+Dialogue: 0,0:10:54.66,0:10:55.99,720p raw eng,NTP,0000,0000,0000,,我们会给那些钻石们\N{\fs48}and we'll give those Diamonds{\r}
+Dialogue: 0,0:10:55.99,0:10:58.03,720p raw eng,NTP,0000,0000,0000,,一些颜色看看！\N{\fs48}another taste of what's coming!{\r}
+Dialogue: 0,0:10:59.03,0:11:01.33,720p raw eng,NTP,0000,0000,0000,,好，现在给我瞧瞧你们有什么能耐，战士们！\N{\fs48}Now, show me what you got, soldiers.{\r}
+Dialogue: 0,0:11:02.74,0:11:05.30,720p raw eng,NTP,0000,0000,0000,,噢，我认为这红蓝宝石\N{\fs48}Unh! I think the power couple's{\r}
+Dialogue: 0,0:11:05.30,0:11:06.94,720p raw eng,NTP,0000,0000,0000,,失去了她们的力量！\N{\fs48}losin' their spark.{\r}
+Dialogue: 0,0:11:08.07,0:11:09.44,720p raw eng,NTP,0000,0000,0000,,谁是下一个？\N{\fs48}Who's next?{\r}
+Dialogue: 0,0:11:09.44,0:11:10.74,720p raw eng,NTP,0000,0000,0000,,哈啊—啊—啊！\N{\fs48}Ha ha-a-a!{\r}
+Dialogue: 0,0:11:10.74,0:11:12.78,720p raw eng,NTP,0000,0000,0000,,珍珠，我可没让你\N{\fs48}Pearl, I don't recall{\r}
+Dialogue: 0,0:11:12.78,0:11:15.01,720p raw eng,NTP,0000,0000,0000,,带给我一支矛\N{\fs48}asking you to bring me a spear.{\r}
+Dialogue: 0,0:11:16.08,0:11:18.21,720p raw eng,NTP,0000,0000,0000,,你可不会喜欢我如何把它带给你\N{\fs48}You won't like how I give it to you.{\r}
+Dialogue: 0,0:11:18.22,0:11:19.75,720p raw eng,NTP,0000,0000,0000,,哇哦，激光？\N{\fs48}Ah! Lasers?{\r}
+Dialogue: 0,0:11:19.75,0:11:21.25,720p raw eng,NTP,0000,0000,0000,,什么时候变成这样的？\N{\fs48}When did that happen?{\r}
+Dialogue: 0,0:11:21.25,0:11:22.52,720p raw eng,NTP,0000,0000,0000,,什....\N{\fs48}Wha...?!{\r}
+Dialogue: 0,0:11:22.52,0:11:26.42,720p raw eng,NTP,0000,0000,0000,,我要破坏你的“铋”需品！\N{\fs48}I'm gonna wreck your Bismuth.{\r}
+Dialogue: 0,0:11:28.56,0:11:30.23,720p raw eng,NTP,0000,0000,0000,,你很有创意\N{\fs48}Very creative.{\r}
+Dialogue: 0,0:11:30.23,0:11:33.23,720p raw eng,NTP,0000,0000,0000,,哦耶，我想我还是挺不错的\N{\fs48}Yeah, I guess I am pretty great.{\r}
+Dialogue: 0,0:11:33.23,0:11:34.56,720p raw eng,NTP,0000,0000,0000,,这就对了！\N{\fs48}That's right!{\r}
+Dialogue: 0,0:11:34.57,0:11:35.83,720p raw eng,NTP,0000,0000,0000,,我们是力量的象征！\N{\fs48}We are powerful.{\r}
+Dialogue: 0,0:11:35.83,0:11:37.47,720p raw eng,NTP,0000,0000,0000,,我们是重要的代表！\N{\fs48}We are important.{\r}
+Dialogue: 0,0:11:37.47,0:11:39.14,720p raw eng,NTP,0000,0000,0000,,我们是！\N{\fs48}We! are!{\r}
+Dialogue: 0,0:11:39.14,0:11:40.47,720p raw eng,NTP,0000,0000,0000,,水晶！\N{\fs48}the Crystal{\r}
+Dialogue: 0,0:11:40.47,0:11:43.24,720p raw eng,NTP,0000,0000,0000,,——战士！\N{\fs48}Ge-e-e-e-e-ms!{\r}
+Dialogue: 0,0:11:43.24,0:11:46.78,720p raw eng,NTP,0000,0000,0000,,史蒂文，快来让我看看你有什么能耐\N{\fs48}Steven, come down and show me what you're made of!{\r}
+Dialogue: 0,0:11:46.78,0:11:50.51,720p raw eng,NTP,0000,0000,0000,,噢，我会的，但这对我来说太激烈了\N{\fs48}Uh, I would, but this is a little intense for me.{\r}
+Dialogue: 0,0:11:50.52,0:11:52.65,720p raw eng,NTP,0000,0000,0000,,这可是我们在战斗之前\N{\fs48}But it's a ritual for us Crystal Gems{\r}
+Dialogue: 0,0:11:52.65,0:11:54.05,720p raw eng,NTP,0000,0000,0000,,所需的试炼\N{\fs48}to spar before battle.{\r}
+Dialogue: 0,0:11:54.05,0:11:55.92,720p raw eng,NTP,0000,0000,0000,,事实上，我有一些更好的\N{\fs48}Well, actually,I have some rituals{\r}
+Dialogue: 0,0:11:55.92,0:11:57.69,720p raw eng,NTP,0000,0000,0000,,训练方法\N{\fs48}I like a little better.{\r}
+Dialogue: 0,0:11:57.69,0:11:59.12,720p raw eng,NTP,0000,0000,0000,,噢是吗？\N{\fs48}Oh, yeah?{\r}
+Dialogue: 0,0:11:59.12,0:12:00.46,720p raw eng,NTP,0000,0000,0000,,让我瞧瞧\N{\fs48}Let me see 'em.{\r}
+Dialogue: 0,0:12:12.27,0:12:15.87,720p raw eng,NTP,0000,0000,0000,,什么...\N{\fs48}Wha...?{\r}
+Dialogue: 0,0:12:27.02,0:12:29.89,720p raw eng,NTP,0000,0000,0000,,传说中的充满力量的恶魔之刃\N{\fs48}The powerful,legendary demon blade,{\r}
+Dialogue: 0,0:12:29.89,0:12:31.62,720p raw eng,NTP,0000,0000,0000,,被村正附体...\N{\fs48}possessed by Muramasa.{\r}
+Dialogue: 0,0:12:31.62,0:12:33.76,720p raw eng,NTP,0000,0000,0000,,一旦我拥有了这把恶魔之刃，我就能成为\N{\fs48}With this demon blade, I will be{\r}
+Dialogue: 0,0:12:33.76,0:12:36.03,720p raw eng,NTP,0000,0000,0000,,世界上最强大的战士！\N{\fs48}the most powerful fighter in all the world!{\r}
+Dialogue: 0,0:12:36.03,0:12:38.36,720p raw eng,NTP,0000,0000,0000,,不！孤刃，不要使用它！\N{\fs48}No, Lonely Blade!Don't use it!{\r}
+Dialogue: 0,0:12:38.36,0:12:39.21,720p raw eng,NTP,0000,0000,0000,,什么？\N{\fs48}What?{\r}
+Dialogue: 0,0:12:39.21,0:12:40.78,720p raw eng,NTP,0000,0000,0000,,如果那把刀真有无穷的力量，\N{\fs48}If that thing's got infinite power,{\r}
+Dialogue: 0,0:12:40.78,0:12:43.05,720p raw eng,NTP,0000,0000,0000,,孤刃肯定使用它啊，\N{\fs48}then, of courseLonely Blade should use it.{\r}
+Dialogue: 0,0:12:43.15,0:12:44.68,720p raw eng,NTP,0000,0000,0000,,这肯定说得通\N{\fs48}It just makes sense.{\r}
+Dialogue: 0,0:12:44.68,0:12:46.25,720p raw eng,NTP,0000,0000,0000,,不需要说通，\N{\fs48}It doesn't have to make sense.{\r}
+Dialogue: 0,0:12:46.25,0:12:48.02,720p raw eng,NTP,0000,0000,0000,,这只是演戏而已\N{\fs48}It's entertainment.{\r}
+Dialogue: 0,0:12:48.79,0:12:49.71,720p raw eng,NTP,0000,0000,0000,,无穷的...\N{\fs48}Infinite...{\r}
+Dialogue: 0,0:12:49.90,0:12:52.18,720p raw eng,NTP,0000,0000,0000,,力量！！！\N{\fs48}powe-e-e-e-r!{\r}
+Dialogue: 0,0:12:52.71,0:12:54.76,720p raw eng,NTP,0000,0000,0000,,铋斯姆今晚你可以在这里休息，\N{\fs48}Bismuth, you can chill out here tonight{\r}
+Dialogue: 0,0:12:54.76,0:12:57.16,720p raw eng,NTP,0000,0000,0000,,如果你想的话你还能睡一觉\N{\fs48}and...sleep,if you want to.{\r}
+Dialogue: 0,0:12:57.17,0:12:58.26,720p raw eng,NTP,0000,0000,0000,,你知道吗\N{\fs48}You know what?{\r}
+Dialogue: 0,0:12:58.27,0:12:59.70,720p raw eng,NTP,0000,0000,0000,,我决定试一试\N{\fs48}I think I'll give it a try.{\r}
+Dialogue: 0,0:12:59.70,0:13:02.27,720p raw eng,NTP,0000,0000,0000,,我喜欢水晶战士的这些新惯例\N{\fs48}I like these new Crystal Gem rituals.{\r}
+Dialogue: 0,0:13:03.54,0:13:05.60,720p raw eng,NTP,0000,0000,0000,,你知道的，通常我遇上一个新的宝石\N{\fs48}You know, usually,when I meet a new Gem,{\r}
+Dialogue: 0,0:13:05.61,0:13:07.74,720p raw eng,NTP,0000,0000,0000,,她们通常都试图干掉我，跟她们混熟\N{\fs48}they try and kill me and it takes me forever{\r}
+Dialogue: 0,0:13:07.74,0:13:09.28,720p raw eng,NTP,0000,0000,0000,,简直要用一辈子时间\N{\fs48}to become friends with them.{\r}
+Dialogue: 0,0:13:09.28,0:13:12.14,720p raw eng,NTP,0000,0000,0000,,我的意思是，我很高兴你能加入我们\N{\fs48}I guess I mean I'm really glad you're here.{\r}
+Dialogue: 0,0:13:12.15,0:13:13.41,720p raw eng,NTP,0000,0000,0000,,我也是\N{\fs48}Me, too.{\r}
+Dialogue: 0,0:13:13.42,0:13:14.78,720p raw eng,NTP,0000,0000,0000,,我很高兴能再有一次机会重来\N{\fs48}Glad to have another chance.{\r}
+Dialogue: 0,0:13:14.78,0:13:16.78,720p raw eng,NTP,0000,0000,0000,,那明天\N{\fs48}So, tomorrow,you gonna show me{\r}
+Dialogue: 0,0:13:16.78,0:13:18.35,720p raw eng,NTP,0000,0000,0000,,你要向我展示你在战场上有什么本事吗？\N{\fs48}what you goton the battlefield?{\r}
+Dialogue: 0,0:13:18.35,0:13:20.65,720p raw eng,NTP,0000,0000,0000,,哦，我是可以\N{\fs48}Oh, I mean,I-I would,{\r}
+Dialogue: 0,0:13:20.66,0:13:23.02,720p raw eng,NTP,0000,0000,0000,,不过我的武器大多都是防御用的\N{\fs48}but, most of my weapons are for defense.{\r}
+Dialogue: 0,0:13:23.02,0:13:24.86,720p raw eng,NTP,0000,0000,0000,,噢！除了那一个\N{\fs48}Oh, except for one.{\r}
+Dialogue: 0,0:13:29.06,0:13:30.93,720p raw eng,NTP,0000,0000,0000,,玫瑰的剑\N{\fs48}Rose's sword.{\r}
+Dialogue: 0,0:13:30.93,0:13:32.97,720p raw eng,NTP,0000,0000,0000,,我最好的作品\N{\fs48}My finest piece of work.{\r}
+Dialogue: 0,0:13:32.97,0:13:34.73,720p raw eng,NTP,0000,0000,0000,,你制造了它？\N{\fs48}You made this?{\r}
+Dialogue: 0,0:13:34.74,0:13:37.68,720p raw eng,NTP,0000,0000,0000,,你真的不记得了，对吧\N{\fs48}You really don't remember, huh?{\r}
+Dialogue: 0,0:13:38.78,0:13:41.91,720p raw eng,NTP,0000,0000,0000,,玫瑰石英改变了我的一生\N{\fs48}Rose Quartz changed my life.{\r}
+Dialogue: 0,0:13:42.96,0:13:45.73,720p raw eng,NTP,0000,0000,0000,,我刚来到地球时认为这里不过是另一个殖民地\N{\fs48}I came to Earth thinking this was just another colony.{\r}
+Dialogue: 0,0:13:45.73,0:13:47.88,720p raw eng,NTP,0000,0000,0000,,建造竞技场训练那些精英的战士\N{\fs48}Build another arena for important fighters to fight in,{\r}
+Dialogue: 0,0:13:47.88,0:13:51.39,720p raw eng,NTP,0000,0000,0000,,建造尖塔给重要的冥想者去思考\N{\fs48}build another spire for important thinkers to think in,{\r}
+Dialogue: 0,0:13:51.39,0:13:52.80,720p raw eng,NTP,0000,0000,0000,,然后，我遇见了她\N{\fs48}and then, I met her.{\r}
+Dialogue: 0,0:13:53.23,0:13:56.78,720p raw eng,NTP,0000,0000,0000,,她只是一名石英战士，诞生于这片土地\N{\fs48}Just another Quartz soldier,made right here in the dirt,{\r}
+Dialogue: 0,0:13:56.78,0:13:58.49,720p raw eng,NTP,0000,0000,0000,,但她却与众不同\N{\fs48}but she was different.{\r}
+Dialogue: 0,0:13:58.49,0:14:01.81,720p raw eng,NTP,0000,0000,0000,,因为她选择了一条不同的道路\N{\fs48}And she was different because she decided to be.{\r}
+Dialogue: 0,0:14:01.82,0:14:04.98,720p raw eng,NTP,0000,0000,0000,,她问我，什么是我想去创造的\N{\fs48}And she asked me what I wanted to build,{\r}
+Dialogue: 0,0:14:04.99,0:14:06.52,720p raw eng,NTP,0000,0000,0000,,而我以前从未听过这样的话\N{\fs48}and I'd never heard that before.{\r}
+Dialogue: 0,0:14:06.52,0:14:08.99,720p raw eng,NTP,0000,0000,0000,,宝石们从来没听过她们可以选择自己的命运\N{\fs48}And Gems never hear they can be anything{\r}
+Dialogue: 0,0:14:08.99,0:14:13.86,720p raw eng,NTP,0000,0000,0000,,但是玫瑰为我们打开了新的大门\N{\fs48}other than what they are,but Rose opened our eyes.{\r}
+Dialogue: 0,0:14:13.86,0:14:16.90,720p raw eng,NTP,0000,0000,0000,,大家总是告诉我我的母亲有多么优秀\N{\fs48}Everybody always tells mehow great Mom was.{\r}
+Dialogue: 0,0:14:16.90,0:14:19.57,720p raw eng,NTP,0000,0000,0000,,我感觉自己永远比不上她\N{\fs48}I just don't feel like Ican ever measure up to her.{\r}
+Dialogue: 0,0:14:20.97,0:14:22.40,720p raw eng,NTP,0000,0000,0000,,我真是不敢相信\N{\fs48}I can't believe this,{\r}
+Dialogue: 0,0:14:22.40,0:14:26.54,720p raw eng,NTP,0000,0000,0000,,我会在这里鼓励玫瑰的...\N{\fs48}that I'm the one givingthe pep talk to Rose's...{\r}
+Dialogue: 0,0:14:26.54,0:14:27.81,720p raw eng,NTP,0000,0000,0000,,玫瑰的？\N{\fs48}Rose's...?{\r}
+Dialogue: 0,0:14:27.81,0:14:28.91,720p raw eng,NTP,0000,0000,0000,,儿子\N{\fs48}Son.{\r}
+Dialogue: 0,0:14:28.91,0:14:30.14,720p raw eng,NTP,0000,0000,0000,,对\N{\fs48}Right.{\r}
+Dialogue: 0,0:14:30.15,0:14:31.55,720p raw eng,NTP,0000,0000,0000,,你是与众不同的\N{\fs48}You are different.{\r}
+Dialogue: 0,0:14:31.55,0:14:33.05,720p raw eng,NTP,0000,0000,0000,,这就是重点\N{\fs48}That's what's so exciting.{\r}
+Dialogue: 0,0:14:33.05,0:14:35.82,720p raw eng,NTP,0000,0000,0000,,你不需要像玫瑰石英一样\N{\fs48}You don't have to be like Rose Quartz.{\r}
+Dialogue: 0,0:14:35.82,0:14:37.52,720p raw eng,NTP,0000,0000,0000,,你能够成为比她更优秀的人\N{\fs48}You can be someoneeven better.{\r}
+Dialogue: 0,0:14:37.52,0:14:40.05,720p raw eng,NTP,0000,0000,0000,,你能够做你自己\N{\fs48}You can be you.{\r}
+Dialogue: 0,0:14:40.05,0:14:41.29,720p raw eng,NTP,0000,0000,0000,,还有你知道吗\N{\fs48}And you know what?{\r}
+Dialogue: 0,0:14:41.29,0:14:43.56,720p raw eng,NTP,0000,0000,0000,,你理应得到更好的武器\N{\fs48}You deserve an even better weapon.{\r}
+Dialogue: 0,0:14:45.79,0:14:48.93,720p raw eng,NTP,0000,0000,0000,,我设计这把剑为的是一场公平的较量\N{\fs48}I designed this swordfor a fair fight.{\r}
+Dialogue: 0,0:14:49.29,0:14:53.37,720p raw eng,NTP,0000,0000,0000,,它可以瞬间穿透宝石人的身体\N{\fs48}It can cut through a Gem's physical form in an instant!{\r}
+Dialogue: 0,0:14:53.37,0:14:57.24,720p raw eng,NTP,0000,0000,0000,,但不能破坏宝石本体\N{\fs48}Destroying the body,but never the Gem.{\r}
+Dialogue: 0,0:14:57.24,0:14:58.67,720p raw eng,NTP,0000,0000,0000,,好厉害\N{\fs48}Cool.{\r}
+Dialogue: 0,0:14:58.67,0:15:00.04,720p raw eng,NTP,0000,0000,0000,,然而\N{\fs48}But...{\r}
+Dialogue: 0,0:15:00.04,0:15:02.51,720p raw eng,NTP,0000,0000,0000,,母星从不公平对待战争\N{\fs48}Homeworld doesn't fight fair.{\r}
+Dialogue: 0,0:15:02.51,0:15:05.08,720p raw eng,NTP,0000,0000,0000,,这就是我们需要不同战略的原因\N{\fs48}That's why we need a different strategy.{\r}
+Dialogue: 0,0:15:06.35,0:15:08.38,720p raw eng,NTP,0000,0000,0000,,喔，哇\N{\fs48}Ohh. Whoa.{\r}
+Dialogue: 0,0:15:13.06,0:15:16.06,720p raw eng,NTP,0000,0000,0000,,我之前在做一个能够改变战争局势的武器\N{\fs48}I was working on a weapon thatwould've been a gamechanger.{\r}
+Dialogue: 0,0:15:16.06,0:15:18.63,720p raw eng,NTP,0000,0000,0000,,母星知道怎么一击必杀\N{\fs48}Homeworld knows how to hit us where it counts,{\r}
+Dialogue: 0,0:15:18.63,0:15:21.50,720p raw eng,NTP,0000,0000,0000,,但我们可以做到她们能做到的一切，甚至更好\N{\fs48}but we can do everythingthey can do, and better.{\r}
+Dialogue: 0,0:15:21.50,0:15:26.13,720p raw eng,NTP,0000,0000,0000,,就是这个，这件可以给我们带来胜利的武器\N{\fs48}Here it is: the weapon that would've won the war.{\r}
+Dialogue: 0,0:15:29.30,0:15:30.47,720p raw eng,NTP,0000,0000,0000,,哇噢噢噢！\N{\fs48}Whoa!{\r}
+Dialogue: 0,0:15:30.47,0:15:31.57,720p raw eng,NTP,0000,0000,0000,,这是什么？\N{\fs48}What is it?{\r}
+Dialogue: 0,0:15:31.57,0:15:34.87,720p raw eng,NTP,0000,0000,0000,,我叫它“断裂极限”\N{\fs48}I call it a Breaking Point.{\r}
+Dialogue: 0,0:15:34.88,0:15:36.64,720p raw eng,NTP,0000,0000,0000,,赞！它能做什么？\N{\fs48}Cool!What does it do?{\r}
+Dialogue: 0,0:15:36.64,0:15:37.98,720p raw eng,NTP,0000,0000,0000,,好好瞧着吧\N{\fs48}Just watch.{\r}
+Dialogue: 0,0:15:37.98,0:15:39.28,720p raw eng,NTP,0000,0000,0000,,哈！\N{\fs48}Hah!{\r}
+Dialogue: 0,0:15:55.76,0:15:58.53,720p raw eng,NTP,0000,0000,0000,,听好了，你们这些母星的昏君\N{\fs48}Listen up, you Homeworld upper crusts!{\r}
+Dialogue: 0,0:15:58.53,0:16:00.47,720p raw eng,NTP,0000,0000,0000,,我们！可是！\N{\fs48}We! are!{\r}
+Dialogue: 0,0:16:00.47,0:16:01.47,720p raw eng,NTP,0000,0000,0000,,宝石！\N{\fs48}the Crystal{\r}
+Dialogue: 0,0:16:01.47,0:16:03.27,720p raw eng,NTP,0000,0000,0000,,战士！\N{\fs48}Gems!{\r}
+Dialogue: 0,0:16:04.41,0:16:05.54,720p raw eng,NTP,0000,0000,0000,,啊！\N{\fs48}Unh!{\r}
+Dialogue: 0,0:16:12.21,0:16:14.11,720p raw eng,NTP,0000,0000,0000,,所以，你怎么看？\N{\fs48}So, what do you think?{\r}
+Dialogue: 0,0:16:14.12,0:16:16.05,720p raw eng,NTP,0000,0000,0000,,你……你粉碎了它\N{\fs48}Y-You shattered it.{\r}
+Dialogue: 0,0:16:16.05,0:16:17.45,720p raw eng,NTP,0000,0000,0000,,没错！\N{\fs48}That's right!{\r}
+Dialogue: 0,0:16:17.45,0:16:19.72,720p raw eng,NTP,0000,0000,0000,,这个神器可以一眨眼的瞬间\N{\fs48}One shot from this baby will shatter any Gem{\r}
+Dialogue: 0,0:16:19.72,0:16:22.56,720p raw eng,NTP,0000,0000,0000,,粉碎星系中任何一个宝石\N{\fs48}in the galaxy, in the blink of an eye.{\r}
+Dialogue: 0,0:16:23.06,0:16:26.83,720p raw eng,NTP,0000,0000,0000,,粉碎本体意味着永远消灭宝石人\N{\fs48}Shattering a Gem would destroy them forever.{\r}
+Dialogue: 0,0:16:26.93,0:16:27.93,720p raw eng,NTP,0000,0000,0000,,当然！\N{\fs48}Exactly!{\r}
+Dialogue: 0,0:16:27.93,0:16:29.50,720p raw eng,NTP,0000,0000,0000,,母星的家伙们\N{\fs48}The Homeworld Gems won't be able{\r}
+Dialogue: 0,0:16:29.50,0:16:32.80,720p raw eng,NTP,0000,0000,0000,,被打成碎片后就不能占领地球了\N{\fs48}to retake this planet when they're reduced to shards.{\r}
+Dialogue: 0,0:16:32.80,0:16:34.03,720p raw eng,NTP,0000,0000,0000,,这儿\N{\fs48}There.{\r}
+Dialogue: 0,0:16:34.04,0:16:38.37,720p raw eng,NTP,0000,0000,0000,,{\an8}*此处为双关语，bismuth为business 你现在已经准备充分了
+Dialogue: 0,0:16:34.04,0:16:38.37,720p raw eng,NTP,0000,0000,0000,,现在，*你可真像个真正意义上的铋斯姆\N{\fs48}Now, you look like you really mean Bismuth.{\r}
+Dialogue: 0,0:16:44.79,0:16:47.33,720p raw eng,NTP,0000,0000,0000,,瞧瞧，这才叫真正的武器\N{\fs48}Now, that's a real weapon.{\r}
+Dialogue: 0,0:16:47.33,0:16:49.16,720p raw eng,NTP,0000,0000,0000,,为何你不给它一次测试射？\N{\fs48}Why don't you give it a test run?{\r}
+Dialogue: 0,0:16:49.17,0:16:51.27,720p raw eng,NTP,0000,0000,0000,,这玩意儿就是你的专属测试目标啦\N{\fs48}This one's got your name on it.{\r}
+Dialogue: 0,0:16:52.77,0:16:54.64,720p raw eng,NTP,0000,0000,0000,,等下，让我靠边站站\N{\fs48}Wait, let me get out of your way.{\r}
+Dialogue: 0,0:16:54.64,0:16:56.00,720p raw eng,NTP,0000,0000,0000,,呼呜！\N{\fs48}Hooh!{\r}
+Dialogue: 0,0:17:04.65,0:17:07.78,720p raw eng,NTP,0000,0000,0000,,唉，铋斯姆，我不能用这个\N{\fs48}Ah. Bismuth, I can't use this.{\r}
+Dialogue: 0,0:17:07.78,0:17:08.92,720p raw eng,NTP,0000,0000,0000,,你说什么？\N{\fs48}What?{\r}
+Dialogue: 0,0:17:08.92,0:17:10.05,720p raw eng,NTP,0000,0000,0000,,为什么不行？\N{\fs48}Why not?{\r}
+Dialogue: 0,0:17:10.05,0:17:12.22,720p raw eng,NTP,0000,0000,0000,,粉碎宝石，\N{\fs48}Shattering Gems,{\r}
+Dialogue: 0,0:17:12.22,0:17:14.59,720p raw eng,NTP,0000,0000,0000,,做了这个我们和母星的人不是没有区别了吗？\N{\fs48}wouldn't that make us the same as Homeworld?{\r}
+Dialogue: 0,0:17:14.59,0:17:16.27,720p raw eng,NTP,0000,0000,0000,,当然有！\N{\fs48}Of course not!{\r}
+Dialogue: 0,0:17:16.27,0:17:19.23,720p raw eng,NTP,0000,0000,0000,,我们粉碎他们是因为我们拥有正义的理由与目的！\N{\fs48}We'd be shattering them for the sake of our cause,{\r}
+Dialogue: 0,0:17:19.23,0:17:21.50,720p raw eng,NTP,0000,0000,0000,,为了守护我们的盟军！我们的朋友！\N{\fs48}to protect our allies, our friends,{\r}
+Dialogue: 0,0:17:21.50,0:17:24.80,720p raw eng,NTP,0000,0000,0000,,为了让所有的宝石从母星的暴政中获得自由！\N{\fs48}to free all Gems from Homeworld's tyranny!{\r}
+Dialogue: 0,0:17:24.80,0:17:25.98,720p raw eng,NTP,0000,0000,0000,,可它…\N{\fs48}It's just, it--{\r}
+Dialogue: 0,0:17:25.98,0:17:28.30,720p raw eng,NTP,0000,0000,0000,,这不是一个宝石战士会去做的\N{\fs48}it's not what a Crystal Gem would do.{\r}
+Dialogue: 0,0:17:28.30,0:17:31.37,720p raw eng,NTP,0000,0000,0000,,不用告诉我一个宝石战士会去做些什么\N{\fs48}Don't tell me what a Crystal Gem would do.{\r}
+Dialogue: 0,0:17:31.37,0:17:34.48,720p raw eng,NTP,0000,0000,0000,,我这个宝石战士名副其实\N{\fs48}Nobody's more Crystal Gem than I am.{\r}
+Dialogue: 0,0:17:34.48,0:17:37.28,720p raw eng,NTP,0000,0000,0000,,如果你不用它，那么就我用\N{\fs48}If you won't take it, I'll just use it myself.{\r}
+Dialogue: 0,0:17:37.28,0:17:41.48,720p raw eng,NTP,0000,0000,0000,,不行！没有人能用它！\N{\fs48}No! No one is using it!{\r}
+Dialogue: 0,0:17:42.62,0:17:45.39,720p raw eng,NTP,0000,0000,0000,,对不起，铋斯姆，但这不对\N{\fs48}I'm sorry, Bismuth, but it's not right.{\r}
+Dialogue: 0,0:17:47.42,0:17:50.36,720p raw eng,NTP,0000,0000,0000,,她也曾如此说过\N{\fs48}That's exactly what she said.{\r}
+Dialogue: 0,0:17:50.36,0:17:51.49,720p raw eng,NTP,0000,0000,0000,,哈？\N{\fs48}Huh?{\r}
+Dialogue: 0,0:17:51.49,0:17:55.70,720p raw eng,NTP,0000,0000,0000,,就如同你这般说的\N{\fs48}That's exactly what you said.{\r}
+Dialogue: 0,0:17:55.70,0:17:56.83,720p raw eng,NTP,0000,0000,0000,,呃，呃嗯...\N{\fs48}Uh, uh...{\r}
+Dialogue: 0,0:17:56.83,0:17:59.00,720p raw eng,NTP,0000,0000,0000,,是你对吧，玫瑰？\N{\fs48}It is you, isn't it, Rose?{\r}
+Dialogue: 0,0:17:59.00,0:18:01.57,720p raw eng,NTP,0000,0000,0000,,你-你到底在说什么？\N{\fs48}Wha-What are you talking about?{\r}
+Dialogue: 0,0:18:01.57,0:18:03.50,720p raw eng,NTP,0000,0000,0000,,别骗我\N{\fs48}Don't lie to me.{\r}
+Dialogue: 0,0:18:03.51,0:18:05.97,720p raw eng,NTP,0000,0000,0000,,你在隐瞒了一切后，\N{\fs48}You can't expect me to believe you now,{\r}
+Dialogue: 0,0:18:05.98,0:18:07.84,720p raw eng,NTP,0000,0000,0000,,就不要指望我再相信你了\N{\fs48}after you lied about everything?{\r}
+Dialogue: 0,0:18:07.84,0:18:09.74,720p raw eng,NTP,0000,0000,0000,,你隐藏了你的新形态，\N{\fs48}You're lying about this new form,{\r}
+Dialogue: 0,0:18:09.75,0:18:13.38,720p raw eng,NTP,0000,0000,0000,,就像你向她们隐瞒着我的事！\N{\fs48}just like you lied to the others about me!{\r}
+Dialogue: 0,0:18:13.38,0:18:15.98,720p raw eng,NTP,0000,0000,0000,,但我还没消失，对不对？\N{\fs48}But I didn't just disappear, did I?{\r}
+Dialogue: 0,0:18:15.99,0:18:18.65,720p raw eng,NTP,0000,0000,0000,,你明明知道在我身上发生过什么！\N{\fs48}You know what happened to me!{\r}
+Dialogue: 0,0:18:19.72,0:18:20.79,720p raw eng,NTP,0000,0000,0000,,-嗯! -哈啊!\N{\fs48}-Mnh! -Unh!{\r}
+Dialogue: 0,0:18:20.79,0:18:21.96,720p raw eng,NTP,0000,0000,0000,,啊！\N{\fs48}Uh!{\r}
+Dialogue: 0,0:18:21.96,0:18:23.29,720p raw eng,NTP,0000,0000,0000,,等等！铋斯姆！\N{\fs48}Wait! Bismuth!{\r}
+Dialogue: 0,0:18:23.29,0:18:24.99,720p raw eng,NTP,0000,0000,0000,,这是个天大的误会！\N{\fs48}This is just a big misunderstanding!{\r}
+Dialogue: 0,0:18:24.99,0:18:27.83,720p raw eng,NTP,0000,0000,0000,,骗子！不要和我玩游戏，玫瑰\N{\fs48}Liar! Don't play games with me, Rose.{\r}
+Dialogue: 0,0:18:27.83,0:18:30.03,720p raw eng,NTP,0000,0000,0000,,当时我们就在这个地方\N{\fs48}We were right. here.{\r}
+Dialogue: 0,0:18:30.03,0:18:34.04,720p raw eng,NTP,0000,0000,0000,,我曾经在这儿告诉你成功的秘诀，但你拒绝了\N{\fs48}I offered you the secret to victory, and you refused.{\r}
+Dialogue: 0,0:18:34.04,0:18:37.17,720p raw eng,NTP,0000,0000,0000,,断裂极限将会改变所有\N{\fs48}The Breaking Point would've changed everything.{\r}
+Dialogue: 0,0:18:37.17,0:18:39.07,720p raw eng,NTP,0000,0000,0000,,我不想与你战斗\N{\fs48}I didn't want to fight you,{\r}
+Dialogue: 0,0:18:39.08,0:18:42.54,720p raw eng,NTP,0000,0000,0000,,可你让我无路！可走！\N{\fs48}but you left me no! choice!{\r}
+Dialogue: 0,0:18:45.15,0:18:47.08,720p raw eng,NTP,0000,0000,0000,,什么样的领袖\N{\fs48}What type of leader{\r}
+Dialogue: 0,0:18:47.08,0:18:49.88,720p raw eng,NTP,0000,0000,0000,,会不给她的军队可以获胜的机会？！\N{\fs48}doesn't give her army the best chance to win?!{\r}
+Dialogue: 0,0:18:49.89,0:18:51.75,720p raw eng,NTP,0000,0000,0000,,哈！哈！\N{\fs48}Ah! Ah!{\r}
+Dialogue: 0,0:18:53.16,0:18:55.59,720p raw eng,NTP,0000,0000,0000,,你怎么可以珍视敌人\N{\fs48}How could you value the gems of our enemies{\r}
+Dialogue: 0,0:18:55.59,0:18:56.96,720p raw eng,NTP,0000,0000,0000,,多过我们？\N{\fs48}more than our own?{\r}
+Dialogue: 0,0:18:56.96,0:18:59.19,720p raw eng,NTP,0000,0000,0000,,看看没有我你都做成了点什么，\N{\fs48}And look what you've done without me,{\r}
+Dialogue: 0,0:18:59.20,0:19:01.60,720p raw eng,NTP,0000,0000,0000,,没有断裂极限！\N{\fs48}without the Breaking Point!{\r}
+Dialogue: 0,0:19:01.60,0:19:02.86,720p raw eng,NTP,0000,0000,0000,,哈！哈！\N{\fs48}Ah! Ah!{\r}
+Dialogue: 0,0:19:02.87,0:19:04.70,720p raw eng,NTP,0000,0000,0000,,你……输了！\N{\fs48}You...lost!{\r}
+Dialogue: 0,0:19:04.70,0:19:05.73,720p raw eng,NTP,0000,0000,0000,,啊！\N{\fs48}Ah!{\r}
+Dialogue: 0,0:19:05.73,0:19:07.20,720p raw eng,NTP,0000,0000,0000,,啊嗯嗯嗯嗯！\N{\fs48}Annnnh!{\r}
+Dialogue: 0,0:19:07.20,0:19:08.07,720p raw eng,NTP,0000,0000,0000,,呜哇！\N{\fs48}Unh.{\r}
+Dialogue: 0,0:19:08.07,0:19:10.14,720p raw eng,NTP,0000,0000,0000,,等-等等，我不是我妈妈！\N{\fs48}W-Wait. I'm not my mom!{\r}
+Dialogue: 0,0:19:10.14,0:19:11.57,720p raw eng,NTP,0000,0000,0000,,我-我不知道她到底做了些什么，\N{\fs48}I-I don't know what she did,{\r}
+Dialogue: 0,0:19:11.57,0:19:13.84,720p raw eng,NTP,0000,0000,0000,,但是，我确信她不是想要伤害你\N{\fs48}but, I'm sure she didn't want to hurt you.{\r}
+Dialogue: 0,0:19:13.84,0:19:15.28,720p raw eng,NTP,0000,0000,0000,,太迟了\N{\fs48}It's too late.{\r}
+Dialogue: 0,0:19:15.28,0:19:17.65,720p raw eng,NTP,0000,0000,0000,,我再也不会相信你了！\N{\fs48}I don't believe you anymore!{\r}
+Dialogue: 0,0:19:18.75,0:19:20.21,720p raw eng,NTP,0000,0000,0000,,呵，哈！\N{\fs48}Huh! Huh!{\r}
+Dialogue: 0,0:19:20.22,0:19:23.08,720p raw eng,NTP,0000,0000,0000,,你说的那些话，那些关于宝石们可以\N{\fs48}All that talk about how Gems could take control{\r}
+Dialogue: 0,0:19:23.09,0:19:24.46,720p raw eng,NTP,0000,0000,0000,,掌控自己身份的话\N{\fs48}of their own identities,{\r}
+Dialogue: 0,0:19:24.46,0:19:28.02,720p raw eng,NTP,0000,0000,0000,,那些宝石们不该忽视自身潜力的话\N{\fs48}how we'd been convinced to ignore our own potential.{\r}
+Dialogue: 0,0:19:28.02,0:19:29.22,720p raw eng,NTP,0000,0000,0000,,啊！好烫！\N{\fs48}Ah! Hot!{\r}
+Dialogue: 0,0:19:29.23,0:19:31.09,720p raw eng,NTP,0000,0000,0000,,仅此而已，不是吗？\N{\fs48}That's all it was, wasn't it?{\r}
+Dialogue: 0,0:19:31.09,0:19:34.56,720p raw eng,NTP,0000,0000,0000,,说说而已！啊！\N{\fs48}Just! talk! Unh!{\r}
+Dialogue: 0,0:19:34.56,0:19:35.76,720p raw eng,NTP,0000,0000,0000,,呃啊！\N{\fs48}Uh!{\r}
+Dialogue: 0,0:19:41.34,0:19:43.94,720p raw eng,NTP,0000,0000,0000,,你应该听从于我，玫瑰\N{\fs48}You should've listened to me, Rose.{\r}
+Dialogue: 0,0:19:43.94,0:19:46.74,720p raw eng,NTP,0000,0000,0000,,我早就会向母星发起战争\N{\fs48}I would've taken the war to Homeworld{\r}
+Dialogue: 0,0:19:46.74,0:19:49.14,720p raw eng,NTP,0000,0000,0000,,并摧毁那些钻石！\N{\fs48}and shattered the Diamonds.{\r}
+Dialogue: 0,0:19:49.14,0:19:51.45,720p raw eng,NTP,0000,0000,0000,,我早就能解放--\N{\fs48}I would've liberated --{\r}
+Dialogue: 0,0:19:51.45,0:19:53.68,720p raw eng,NTP,0000,0000,0000,,呵！每个人！\N{\fs48}unh! -- everyone.{\r}
+Dialogue: 0,0:19:53.68,0:19:54.85,720p raw eng,NTP,0000,0000,0000,,啊！\N{\fs48}Ah!{\r}
+Dialogue: 0,0:19:54.85,0:19:56.18,720p raw eng,NTP,0000,0000,0000,,呃！\N{\fs48}Unh!{\r}
+Dialogue: 0,0:20:06.93,0:20:08.13,720p raw eng,NTP,0000,0000,0000,,呃啊！\N{\fs48}Ah!{\r}
+Dialogue: 0,0:20:08.13,0:20:12.60,720p raw eng,NTP,0000,0000,0000,,呃啊啊！铋斯姆，看！招！\N{\fs48}Annh! Bismuth, watch! out!{\r}
+Dialogue: 0,0:20:13.97,0:20:15.57,720p raw eng,NTP,0000,0000,0000,,呃呃！\N{\fs48}Uh!{\r}
+Dialogue: 0,0:20:15.57,0:20:16.60,720p raw eng,NTP,0000,0000,0000,,哦！\N{\fs48}Oh.{\r}
+Dialogue: 0,0:20:19.38,0:20:21.24,720p raw eng,NTP,0000,0000,0000,,啊--!\N{\fs48}Aggh!{\r}
+Dialogue: 0,0:20:21.24,0:20:24.25,720p raw eng,NTP,0000,0000,0000,,铋斯姆，别这样\N{\fs48}Bismuth, this has to stop.{\r}
+Dialogue: 0,0:20:24.25,0:20:27.05,720p raw eng,NTP,0000,0000,0000,,所以呢？你要怎样？粉碎我？\N{\fs48}So, what are you gonna do, shatter me?{\r}
+Dialogue: 0,0:20:27.05,0:20:29.48,720p raw eng,NTP,0000,0000,0000,,上啊！\N{\fs48}Go ahead!{\r}
+Dialogue: 0,0:20:29.49,0:20:30.95,720p raw eng,NTP,0000,0000,0000,,粉碎我！\N{\fs48}Just do it!{\r}
+Dialogue: 0,0:20:31.95,0:20:32.69,720p raw eng,NTP,0000,0000,0000,,不！\N{\fs48}No!{\r}
+Dialogue: 0,0:20:32.69,0:20:36.32,720p raw eng,NTP,0000,0000,0000,,即使我们不能达成共识，也没有人应当被粉碎\N{\fs48}Even if we don't agree, nobody deserves this.{\r}
+Dialogue: 0,0:20:38.19,0:20:40.59,720p raw eng,NTP,0000,0000,0000,,哼！\N{\fs48}Uhh.{\r}
+Dialogue: 0,0:20:47.90,0:20:49.20,720p raw eng,NTP,0000,0000,0000,,哈!\N{\fs48}Uh!{\r}
+Dialogue: 0,0:20:52.04,0:20:54.34,720p raw eng,NTP,0000,0000,0000,,你当初就应该粉碎了我\N{\fs48}You should've shattered me back then.{\r}
+Dialogue: 0,0:20:54.34,0:20:58.08,720p raw eng,NTP,0000,0000,0000,,至少，如果我成为了碎片，便不知道\N{\fs48}At least, if I were in pieces, I wouldn't have to know{\r}
+Dialogue: 0,0:20:58.08,0:21:00.35,720p raw eng,NTP,0000,0000,0000,,我在你的心中是多么的无足轻重\N{\fs48}how little I mattered to you.{\r}
+Dialogue: 0,0:21:00.35,0:21:01.98,720p raw eng,NTP,0000,0000,0000,,你甚至没有告诉她们\N{\fs48}You didn't even tell them.{\r}
+Dialogue: 0,0:21:02.26,0:21:06.79,720p raw eng,NTP,0000,0000,0000,,你把我泡泡收容后甚至没有告诉你的伙伴们--\N{\fs48}You bubbled me away and didn't ever tell your friends --{\r}
+Dialogue: 0,0:21:06.79,0:21:08.92,720p raw eng,NTP,0000,0000,0000,,我的伙伴\N{\fs48}my friends.{\r}
+Dialogue: 0,0:21:08.92,0:21:10.93,720p raw eng,NTP,0000,0000,0000,,我会告诉她们的\N{\fs48}I'm going to tell them.{\r}
+Dialogue: 0,0:21:10.93,0:21:13.09,720p raw eng,NTP,0000,0000,0000,,我会告诉她们所有事情\N{\fs48}I'm gonna tell them everything.{\r}
+Dialogue: 0,0:21:16.23,0:21:19.67,720p raw eng,NTP,0000,0000,0000,,你真的比她好太多\N{\fs48}Then you really are better than her.{\r}
+Dialogue: 0,0:21:35.88,0:21:36.88,720p raw eng,NTP,0000,0000,0000,,史蒂文！\N{\fs48}Steven!{\r}
+Dialogue: 0,0:21:36.89,0:21:38.45,720p raw eng,NTP,0000,0000,0000,,哦，嘿，伙计\N{\fs48}Oh, hey, dude.{\r}
+Dialogue: 0,0:21:39.86,0:21:41.86,720p raw eng,NTP,0000,0000,0000,,-哦！ -昂？\N{\fs48}-Oh! -What?{\r}
+Dialogue: 0,0:21:41.86,0:21:43.79,720p raw eng,NTP,0000,0000,0000,,这有一些事情我需要告诉你们\N{\fs48}There's something I need to tell you.{\r}
+

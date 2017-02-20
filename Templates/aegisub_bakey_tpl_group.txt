@@ -15,22 +15,38 @@
 		"effect"=""
 		"text"="{\fn隶书\fs128\frz13.72\pos(974,324)\c&H6143B1&\bord0\shad0}*"
 	}
-	"紫晶-对话"={
-		"actor"="Amethyst"
-		"text"="{\c&HD897C1&}*"
-	}
 	"背景对话"={
 		"layer"="50"
 		"style"="Background Dialogue"
 		"text"="{\pos(960,120)}"
 	}
-	"提示"={
-		"layer"="600"
-		"style"="Hint"
-		"text"="{\pos(960,50)}*"
+	"紫晶-对话"={
+		"actor"="Amethyst"
+		"text"="{\c&HD897C1&}*"
 	}
 	"双语-无特效"={
 		"text"="*\N*"
+	}
+	"红宝石-对话"={
+		"layer"=(100)
+		"actor"="Ruby"
+		"style"="Normal Dialog Text"
+		"text"="{\rCHS}{\c&H5500DA&}*\N{\rENG}{\c&H5500DA&}*"
+	}
+	"提示"={
+		"layer"=(600)
+		"style"="Hint"
+		"text"="*"
+	}
+	"蓝宝石-对话"={
+		"layer"=(100)
+		"have_text"=[true]
+		"have_actor"=[true]
+		"have_layer"=[true]
+		"have_style"=[true]
+		"text"="{\rCHS}{\c&HF8732E&}*\N{\rENG}{\c&HF8732E&}*"
+		"style"="Normal Dialog Text"
+		"actor"="Sapphire"
 	}
 }
 "version"="1.00"

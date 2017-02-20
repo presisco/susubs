@@ -10,239 +10,247 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
-Last Style Storage: Default
+Last Style Storage: SU Pub
 Audio File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E12.We.Need.to.Talk.1080p.WEBRip.h264.AAC-AliQ.mp4
 Video File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E12.We.Need.to.Talk.1080p.WEBRip.h264.AAC-AliQ.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 144
-Active Line: 166
-Video Position: 13380
+Active Line: 12
+Video Position: 44
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Label Trans,微软雅黑,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Normal Dialog Text,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: SU Title,幼圆,100,&H00A43AC6,&H000000FF,&H00E8E8E8,&H00DDCDDB,-1,0,0,0,100,100,0,0,1,8,12,2,10,10,10,1
-Style: SU Team Member,幼圆,36,&H00A737C9,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: SU Team Title,幼圆,32,&H009065C2,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: Song Lyrics Text,华文楷体,20,&H00EAEAEA,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: SU Team Background,Arial,20,&H00E8E8E8,&H000000FF,&H00000000,&H00DFCCDC,0,0,0,0,100,100,0,0,1,0,2,2,10,10,10,1
-Style: Hint,微软雅黑,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,1
+Style: Label Trans,微软雅黑,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Normal Dialog Text,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,4,2,10,10,30,1
+Style: SU Title,方正粗圆_GBK,150,&H00A638C8,&H000000FF,&H00E8E7E8,&H00DDCCDC,0,0,0,0,100,100,0,0,1,12,4,2,10,10,10,1
+Style: SU Team Member,方正粗圆_GBK,48,&H00A539C3,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: SU Team Title,方正粗圆_GBK,48,&H009163CB,&H00FFFFFF,&H00FFFFFF,&H00DBE0C9,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Song Lyrics Text,华文楷体,20,&H00EAEAEA,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: SU Team Background,Arial,20,&H00E8E8E8,&H000000FF,&H00000000,&H00DFCCDC,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Hint,微软雅黑,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: Background Dialogue,微软雅黑,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,20,1
+Style: CHS,微软雅黑,72,&H00FFFFFF,&H000000FF,&H00171717,&H00171717,0,0,0,0,100,100,0,0,1,6,3,2,10,10,10,1
+Style: ENG,Arial,48,&H00FFFFFF,&H000000FF,&H00171717,&H00171717,0,0,0,0,100,100,0,0,1,6,3,2,10,10,10,1
+Style: CHS_LYC,华文楷体,72,&H00FFFFFF,&H000000FF,&H00171717,&H00171717,0,0,0,0,100,100,0,0,1,6,3,2,10,10,10,1
+Style: ENG_LYC,Arial,48,&H00FFFFFF,&H000000FF,&H00171717,&H00171717,0,0,0,0,100,100,0,0,1,6,3,2,10,10,10,1
+Style: SU Claim,方正粗圆_GBK,48,&H00F0F0F0,&H00FFFFFF,&H00151515,&H00DBE0C9,0,0,0,0,100,100,0,0,1,3,0,8,10,10,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 1,0:00:00.20,0:00:01.65,SU Title,,0,0,0,,{\pos(1150,250)\xshad-0\yshad16}我们需要谈谈
-Dialogue: 1,0:00:01.65,0:00:03.05,SU Team Title,,0,0,0,,{\pos(1700,360)}翻译
-Dialogue: 1,0:00:01.65,0:00:03.05,SU Team Member,,0,0,0,,{\pos(1700,410)}零玖/presisco
-Dialogue: 1,0:00:01.65,0:00:03.05,SU Team Title,,0,0,0,,{\pos(1700,460)}校对
-Dialogue: 1,0:00:01.65,0:00:03.05,SU Team Member,,0,0,0,,{\pos(1700,510)}presisco
-Dialogue: 1,0:00:01.65,0:00:03.05,SU Team Title,,0,0,0,,{\pos(1700,560)}特效
-Dialogue: 1,0:00:01.65,0:00:03.05,SU Team Member,,0,0,0,,{\pos(1700,610)}presisco
-Dialogue: 1,0:00:01.65,0:00:03.05,SU Team Title,,0,0,0,,{\pos(1700,660)}压制
-Dialogue: 1,0:00:01.65,0:00:03.05,SU Team Member,,0,0,0,,{\pos(1700,710)}presisco
-Dialogue: 0,0:00:01.65,0:00:03.05,SU Team Background,,0,0,0,,{\pos(1744,776)\xshad-0\yshad16}{\p1}m 72 0 b -46 0 -46 170 72 170 l 115 170 b -37 149 -36 374 115 344 l 72 344 b -46 344 -46 514 72 514 l 285 514 b 394 514 419 323 285 344 l 328 344 l 328 344 b 433 344 433 170 328 170 l 285 170 l 285 170 b 419 191 419 1 285 1 l 72 0 {\p0}
-Dialogue: 0,0:00:04.83,0:00:07.37,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这是所有的O.M.O乐队的内容了\N{\fnArial\fs48}Here's all the orange magic orchestra ones.
-Dialogue: 600,0:00:04.83,0:00:07.37,Hint,,0,0,0,,{\pos(960,100)}O.M.O致敬日本二十世纪80年代的Yellow Magic Orchestra(Y.M.O)乐队，在日本开创了Techno类型。专辑应该为Naughty Boys
-Dialogue: 0,0:00:07.37,0:00:10.87,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}太好了，将他们放到“出色的太空摇滚”类里\N{\fnArial\fs48}Great, put them in the transcendental space rock pile.
-Dialogue: 600,0:00:07.37,0:00:10.87,Hint,,0,0,0,,{\pos(960,100)}QUADRINOMETRY-THE SECRET OF THE WAVE LIES IN CREATION\N曾出现于S01E02的车库中和S01E26的车载音乐
-Dialogue: 0,0:00:10.87,0:00:13.17,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}在我家，就只有古典乐\N{\fnArial\fs48}At home, we only have classical music
-Dialogue: 0,0:00:13.18,0:00:14.71,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}和电影原声\N{\fnArial\fs48}and movie soundtracks.
-Dialogue: 0,0:00:14.71,0:00:16.84,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我从没听过这些中的任何一种\N{\fnArial\fs48}I've never heard any of these.
-Dialogue: 600,0:00:14.71,0:00:19.05,Hint,,0,0,0,,{\pos(960,100)}The Philosophy Majors- Nietzsche's Breakdown封面致敬No Doubt乐队的Tragic Kingdom。No Doubt乐队活跃于2000年左右，主打摇滚乐。The Philosophy Majors的名字致敬加拿大的The Philosopher Kings乐队
-Dialogue: 0,0:00:16.85,0:00:19.05,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你从没听过The Philosophy Maors的歌？\N{\fnArial\fs48}You've never heard the philosophy majors?
-Dialogue: 0,0:00:19.05,0:00:20.95,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我的天。给我一下\N{\fnArial\fs48}Oh, man. Give it here.
-Dialogue: 0,0:00:20.95,0:00:23.52,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}今天给你开开眼\N{\fnArial\fs48}This will really knock your socks off.Come on.
-Dialogue: 0,0:00:32.86,0:00:35.86,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Whoa!
-Dialogue: 0,0:00:51.78,0:00:53.21,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Aah! Aah!
-Dialogue: 0,0:00:54.08,0:00:55.92,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你们俩能融合？！\N{\fnArial\fs48}You two can fuse?!
-Dialogue: 0,0:00:55.92,0:00:57.92,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃...是的？\N{\fnArial\fs48}Uh...Yes?
-Dialogue: 0,0:00:57.92,0:01:00.25,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃，呃，呃，那真是叼-碉堡了！\N{\fnArial\fs48}Uh, uh, uh, that's in-- incredible!
-Dialogue: 0,0:01:00.26,0:01:03.99,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}从什么时候？等等，这怎么可能？\N{\fnArial\fs48}Since when? Wait, how is this even possible?
-Dialogue: 0,0:01:03.99,0:01:05.66,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}宝石人们认为是由于我是半人\N{\fnArial\fs48}The gems think it's 'cause I'm half-human.
-Dialogue: 0,0:01:05.66,0:01:08.16,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}求求你后不要告诉我家长，宇宙先生！\N{\fnArial\fs48}Please don't tell my parents, Mr. Universe.
-Dialogue: 0,0:01:08.16,0:01:10.50,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}他们不知道我一直在和史蒂文与魔法打交道\N{\fnArial\fs48}They don't know I've been doing magic stuff with Steven.
-Dialogue: 0,0:01:10.50,0:01:13.10,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我不能告诉他们。他们理解不了-我-\N{\fnArial\fs48}I can't tell them. They're not going to understand -- I --
-Dialogue: 0,0:01:13.10,0:01:15.10,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}whoa, whoa, it -- it's okay.
-Dialogue: 0,0:01:15.10,0:01:16.97,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我或许是地球上唯一的一个人\N{\fnArial\fs48}I may be the only human being on the planet
-Dialogue: 0,0:01:16.97,0:01:18.61,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}能理解这些\N{\fnArial\fs48}who's gonna understand.
-Dialogue: 0,0:01:18.61,0:01:19.94,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你-你是指？\N{\fnArial\fs48}W-what do you mean?
-Dialogue: 0,0:01:19.94,0:01:21.98,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}对，你是指什么？\N{\fnArial\fs48}Yeah, what {\i1}do{\i} you mean?
-Dialogue: 0,0:01:21.98,0:01:23.22,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃...\N{\fnArial\fs48}Well...
-Dialogue: 0,0:01:25.95,0:01:27.51,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}来吧\N{\fnArial\fs48}Come on.
-Dialogue: 0,0:01:24.08,0:01:25.64,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}故事！\N{\fnArial\fs48}Story!
-Dialogue: 0,0:01:27.52,0:01:28.65,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们已经准备好了\N{\fnArial\fs48}We're ready.
-Dialogue: 0,0:01:28.65,0:01:30.42,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我没想到会这么早就告诉你\N{\fnArial\fs48}I didn't think I'd be telling you this so soon.
-Dialogue: 600,0:01:30.30,0:01:31.80,Hint,,0,0,0,,{\pos(960,50)}电视机上的海报致敬动物之森中的K.K Slider（一只写音乐的狗）
-Dialogue: 0,0:01:30.42,0:01:34.02,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}也许最好先从这里开始\N{\fnArial\fs48}Probably best to start with this.
-Dialogue: 0,0:01:36.69,0:01:38.26,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}都准备好了吗？\N{\fnArial\fs48}Everybody ready?
-Dialogue: 0,0:01:39.34,0:01:42.70,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}1, 2, 3, 4...
-Dialogue: 0,0:01:52.97,0:01:57.41,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我能做什么，为你？\N{\fnArial\fs48}♪ What can I do for you?
-Dialogue: 0,0:01:59.15,0:02:02.05,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我能做什么\N{\fnArial\fs48}♪ What can I do that
-Dialogue: 0,0:02:02.05,0:02:05.72,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}是别人做不了的？\N{\fnArial\fs48}♪ no one else can do?
-Dialogue: 0,0:02:05.72,0:02:10.39,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我能做什么，为你？\N{\fnArial\fs48}♪ What can I do for you?
-Dialogue: 0,0:02:11.33,0:02:17.86,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我能做什么，为你？\N{\fnArial\fs48}♪ What can I do for you?
-Dialogue: 0,0:02:17.87,0:02:20.00,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}人类啊\N{\fnArial\fs48}♪ Human man
-Dialogue: 0,0:02:20.00,0:02:23.87,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}你如此有趣\N{\fnArial\fs48}♪ you are so much fun
-Dialogue: 0,0:02:23.87,0:02:30.98,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我从未料到，你如此赏心悦目\N{\fnArial\fs48}♪ I hadn't planned on finding you quite this entertaining ♪
-Dialogue: 0,0:02:30.98,0:02:32.51,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我喜欢你的乐队\N{\fnArial\fs48}♪ I like your band
-Dialogue: 0,0:02:32.51,0:02:33.85,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}\N{\fnArial\fs48}whoo!
-Dialogue: 0,0:02:33.85,0:02:36.65,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}而且我喜欢你的歌\N{\fnArial\fs48}♪ And I like your song
-Dialogue: 0,0:02:36.65,0:02:42.66,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我喜欢这种，人类嬉笑的方式\N{\fnArial\fs48}♪ I like the way human beings play ♪
-Dialogue: 0,0:02:43.66,0:02:46.19,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我喜欢参与其中\N{\fnArial\fs48}♪ I like playing along
-Dialogue: 0,0:02:46.19,0:02:48.90,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}\N{\fnArial\fs48}♪ oh, oh, oh, oh, whoa-ho ♪
-Dialogue: 0,0:02:48.90,0:02:53.10,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我能做什么，为你？\N{\fnArial\fs48}♪ what can I do for you?
-Dialogue: 0,0:02:54.77,0:02:57.87,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我能做什么\N{\fnArial\fs48}♪ What can I do that
-Dialogue: 0,0:02:57.87,0:03:01.24,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}是别人做不了的？\N{\fnArial\fs48}♪ no one else can do?
-Dialogue: 0,0:03:01.24,0:03:06.28,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我能做什么，为你？\N{\fnArial\fs48}♪ What can I do for you?
-Dialogue: 0,0:03:07.05,0:03:14.02,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我能做什么，为你？\N{\fnArial\fs48}♪ What can I do for you?
-Dialogue: 0,0:03:17.89,0:03:19.39,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}咦～\N{\fnArial\fs48}Tsk.
-Dialogue: 0,0:04:07.94,0:04:10.44,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我不敢相信我录到了那个！\N{\fnArial\fs48}I can't believe I got that on video!
-Dialogue: 0,0:04:10.45,0:04:12.28,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}地球上有这玩意？\N{\fnArial\fs48}What on earth was that?!
-Dialogue: 0,0:04:12.28,0:04:14.95,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}那是彩虹石英啊\N{\fnArial\fs48}That was rainbow Quartz.
-Dialogue: 0,0:04:14.95,0:04:16.28,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}珍珠觉得融合体\N{\fnArial\fs48}Pearl thought a fusion
-Dialogue: 0,0:04:16.28,0:04:18.95,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}能给你的视频加点料\N{\fnArial\fs48}might give your video a little something extra.
-Dialogue: 0,0:04:18.95,0:04:21.49,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这很酷，对吧？\N{\fnArial\fs48}Pretty cool, right?
-Dialogue: 0,0:04:21.49,0:04:25.26,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我得走了，但晚些时候忙吗吗？\N{\fnArial\fs48}I have to go, but are you doing anything later?
-Dialogue: 0,0:04:25.26,0:04:27.03,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你知道我没事\N{\fnArial\fs48}You know I'm not.
-Dialogue: 0,0:04:28.13,0:04:30.16,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你真可爱，宇宙先生\N{\fnArial\fs48}You're adorable, Mr. Universe.
-Dialogue: 0,0:04:30.17,0:04:31.70,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}一会见\N{\fnArial\fs48}See you later.
-Dialogue: 0,0:04:31.70,0:04:34.67,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}拜拜\N{\fnArial\fs48}Bye.
-Dialogue: 0,0:04:34.67,0:04:39.01,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}嘿，我打鼓了，赶紧付钱\N{\fnArial\fs48}Hey, I hit the drums, so pay up.
-Dialogue: 0,0:04:39.01,0:04:40.71,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这个给你\N{\fnArial\fs48}Here you go.
-Dialogue: 0,0:04:44.48,0:04:48.68,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你只是个过客。你知道吧？——不\N{\fnArial\fs48}You're just a phase. You know that, right? No.
-Dialogue: 0,0:04:50.65,0:04:52.32,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我实际上不知道，珍珠\N{\fnArial\fs48}I actually don't know that, Pearl.
-Dialogue: 0,0:04:52.56,0:04:54.40,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哈，当然你不知道\N{\fnArial\fs48}Well, of course you don't.
-Dialogue: 0,0:04:54.49,0:04:56.49,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你一点也不了解玫瑰\N{\fnArial\fs48}You don't know anything about Rose.
-Dialogue: 0,0:04:56.49,0:04:58.49,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我知道那超喜欢我\N{\fnArial\fs48}I know she's super into me.
-Dialogue: 0,0:04:58.49,0:05:01.19,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}听着，宇宙先生\N{\fnArial\fs48}Listen Mr. {\i1}Universe.{\i}
-Dialogue: 0,0:05:01.20,0:05:03.53,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}玫瑰也许觉得你很有魅力\N{\fnArial\fs48}Rose may find you charming,
-Dialogue: 0,0:05:03.53,0:05:05.83,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但这只是因为你是个人类\N{\fnArial\fs48}but that's only because you're human.
-Dialogue: 0,0:05:05.83,0:05:08.07,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你最多只是新奇而已\N{\fnArial\fs48}You're a novelty at best.
-Dialogue: 0,0:05:08.07,0:05:10.00,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你怎么这么确定？\N{\fnArial\fs48}What makes you so sure?
-Dialogue: 0,0:05:10.00,0:05:12.34,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦，很明显。\N{\fnArial\fs48}Oh it's very simple.
-Dialogue: 0,0:05:12.38,0:05:14.12,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}人类不能融合\N{\fnArial\fs48}Humans can't fuse.
-Dialogue: 0,0:05:14.34,0:05:18.14,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}融合是宝石人之间最终极的联系\N{\fnArial\fs48}Fusion is the ultimate connection between gems.
-Dialogue: 0,0:05:18.15,0:05:20.92,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}而你不是宝石人\N{\fnArial\fs48}And you are not a gem.
-Dialogue: 0,0:05:22.25,0:05:26.02,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}那么，就没有任何人类尝试过与宝石人融合吗？\N{\fnArial\fs48}Well, has any human ever tried fusing with a gem?
-Dialogue: 0,0:05:26.02,0:05:30.02,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃，没有，我-我不觉得会有\N{\fnArial\fs48}Uh, no, I-I don't think so.
-Dialogue: 0,0:05:30.02,0:05:32.83,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}好，那么，我会！\N{\fnArial\fs48}Well, then, {\i1}i{\i} will try!
-Dialogue: 0,0:05:36.33,0:05:37.50,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦，天哪，我在干嘛？\N{\fnArial\fs48}Aw, geez, what am I doing?
-Dialogue: 0,0:05:37.50,0:05:39.37,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这些东西很贵的\N{\fnArial\fs48}These things are expensive.
-Dialogue: 0,0:05:43.20,0:05:46.67,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}天哪！她是怎么把腿抬成那样的？\N{\fnArial\fs48}Oh, geez! How did she get her legs to do that?
-Dialogue: 0,0:05:48.21,0:05:49.34,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}嘿。你挂了吗？\N{\fnArial\fs48}Hey. Are you dead?
-Dialogue: 0,0:05:49.34,0:05:52.04,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}蛤？哦，不，不。我还活着\N{\fnArial\fs48}What? Oh, no no. I'm alive.
-Dialogue: 0,0:05:52.05,0:05:53.55,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}喔，酷！\N{\fnArial\fs48}Whoa, cool!
-Dialogue: 0,0:05:53.55,0:05:55.92,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这是刚才的我们\N{\fnArial\fs48}Aah. It's us from before.
-Dialogue: 0,0:05:55.92,0:05:57.58,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}对，我正试着\N{\fnArial\fs48}Yeah, I was just trying to
-Dialogue: 0,0:05:57.59,0:05:59.59,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}用脑子搞清楚融合舞呢\N{\fnArial\fs48}get my head around this fusion dance.
-Dialogue: 0,0:05:59.59,0:06:02.12,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}融合舞和脑子没关系！\N{\fnArial\fs48}A fusion dance ain't about your head!
-Dialogue: 0,0:06:03.36,0:06:05.53,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}等等，你们是宝石人\N{\fnArial\fs48}Wait, you guys are gems.
-Dialogue: 0,0:06:05.53,0:06:06.86,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你们一定要帮帮我啊\N{\fnArial\fs48}You've got to help me out here.
-Dialogue: 0,0:06:06.86,0:06:09.40,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我想要和罗丝融合\N{\fnArial\fs48}I need to be able to fuse with Rose.
-Dialogue: 0,0:06:09.40,0:06:11.90,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}首先，你需要有一个宝石作为存在的基础\N{\fnArial\fs48}First, you need the gem at the core of your being.
-Dialogue: 0,0:06:11.90,0:06:14.43,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}然后，你需要一个能变成光的身体\N{\fnArial\fs48}Then you need the body that could turn into light.
-Dialogue: 0,0:06:14.44,0:06:17.27,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}之后，你需要一个你能信任的变成光的同伴\N{\fnArial\fs48}Then you need the partner who you trust with that light.
-Dialogue: 0,0:06:17.27,0:06:18.94,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这是比喻？\N{\fnArial\fs48}Metaphorically?
-Dialogue: 0,0:06:18.94,0:06:20.24,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}并不\N{\fnArial\fs48}Literally.
-Dialogue: 0,0:06:20.24,0:06:23.41,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}嘘。别啊，我还想看他试试\N{\fnArial\fs48}Shh. Come on. I still want to see him try.
-Dialogue: 0,0:06:23.41,0:06:26.58,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃，珍珠是对的。我完全做不到\N{\fnArial\fs48}Ugh, so it's true. I really can't do it.
-Dialogue: 0,0:06:26.58,0:06:28.61,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我简直在跟自己开玩笑\N{\fnArial\fs48}I'm kidding myself with this.
-Dialogue: 0,0:06:28.62,0:06:30.65,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我永远也不可能变成宝石人\N{\fnArial\fs48}I'm never gonna be a gem.
-Dialogue: 0,0:06:31.29,0:06:34.29,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}紫晶，给我们点私密空间\N{\fnArial\fs48}Amethyst, give us some privacy!
-Dialogue: 0,0:06:34.29,0:06:36.29,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}好！\N{\fnArial\fs48}Yeah!
-Dialogue: 0,0:06:36.29,0:06:38.39,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我告诉你点秘密，宇宙先生\N{\fnArial\fs48}Let me tell you something, Mr. Universe.
-Dialogue: 0,0:06:38.39,0:06:39.79,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我觉得你能做到\N{\fnArial\fs48}{\i1}I{\i} think you can do it.
-Dialogue: 0,0:06:39.79,0:06:42.06,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但像珍珠那样跳舞并没有用\N{\fnArial\fs48}But it won't work if you dance like Pearl.
-Dialogue: 0,0:06:42.06,0:06:44.10,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你要跳出自己的风格\N{\fnArial\fs48}You have to dance like {\i1}you.{\i}
-Dialogue: 0,0:06:44.10,0:06:46.07,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你要有自己的融合的方式\N{\fnArial\fs48}You have to fuse your way.
-Dialogue: 0,0:06:46.07,0:06:48.27,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}做到开放、坦诚\N{\fnArial\fs48}Get open. Get honest.
-Dialogue: 0,0:06:48.27,0:06:52.00,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}坚持自我。这就是融合\N{\fnArial\fs48}Invent yourselves together. That's fusion.
-Dialogue: 0,0:06:52.01,0:06:54.91,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}眼...猜我了解了。\N{\fnArial\fs48}{\i1}Eye...{\i} {\i1}Think I get it.
-Dialogue: 600,0:07:08.00,0:07:11.00,Hint,,0,0,0,,{\pos(960,50)}此处舞蹈与布景致敬少女革命：绝对命运默示录
-Dialogue: 0,0:07:38.29,0:07:40.99,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们-我们没融合\N{\fnArial\fs48}We -- we didn't fuse.
-Dialogue: 0,0:07:41.60,0:07:42.69,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}啊？！\N{\fnArial\fs48}What?!
-Dialogue: 0,0:07:44.34,0:07:46.44,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你肯定不能融合\N{\fnArial\fs48}You can't fuse.
-Dialogue: 0,0:07:46.90,0:07:48.83,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你是人类\N{\fnArial\fs48}You're a human.
-Dialogue: 0,0:07:48.83,0:07:51.00,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我知道！这就是问题！\N{\fnArial\fs48}I know! That's the problem!
-Dialogue: 0,0:07:51.00,0:07:52.20,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我只是个人类\N{\fnArial\fs48}I'm just a human.
-Dialogue: 0,0:07:52.20,0:07:55.97,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这不是问题。我爱人类\N{\fnArial\fs48}That's not a problem. I love humans.
-Dialogue: 0,0:07:55.97,0:07:57.84,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你们都那么有趣\N{\fnArial\fs48}You're all so funny.
-Dialogue: 0,0:07:57.84,0:07:58.76,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}啊\N{\fnArial\fs48}Ugh.
-Dialogue: 0,0:07:58.80,0:08:01.84,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}听着，过去几个月非常美好——哦，是的\N{\fnArial\fs48}Look, these last few months have been great. Oh, yes.
-Dialogue: 0,0:08:01.84,0:08:04.04,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但我开始对将来有些担心\N{\fnArial\fs48}But I'm getting a little worried about the future.
-Dialogue: 0,0:08:04.05,0:08:05.68,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦，那问问石榴\N{\fnArial\fs48}Oh, just ask Garnet.
-Dialogue: 0,0:08:05.68,0:08:09.25,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我开始怀疑你是否...在乎我？\N{\fnArial\fs48}I'm starting to wonder if you...Respect me?
-Dialogue: 0,0:08:11.59,0:08:15.19,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦，你真幽默，宇宙先生\N{\fnArial\fs48}Oh, you're hilarious, Mr. Universe.
-Dialogue: 0,0:08:15.19,0:08:17.19,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}罗丝，求求你\N{\fnArial\fs48}Rose, please.
-Dialogue: 0,0:08:17.19,0:08:19.06,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你能不能\N{\fnArial\fs48}Can you just...
-Dialogue: 0,0:08:19.06,0:08:23.30,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}和我说人话，哪怕是一秒？\N{\fnArial\fs48}Talk to me for one second like a real person?!
-Dialogue: 0,0:08:27.03,0:08:30.84,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我...不是人类\N{\fnArial\fs48}I'm {\i1}not{\i}a real person.
-Dialogue: 0,0:08:31.94,0:08:34.74,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我以为-我们难道还没-\N{\fnArial\fs48}I thought -- haven't we --
-Dialogue: 0,0:08:34.74,0:08:37.28,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}难道不该这样吗？\N{\fnArial\fs48}is this not how it works?
-Dialogue: 0,0:08:37.98,0:08:38.62,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}噢\N{\fnArial\fs48}Oh.
-Dialogue: 0,0:08:39.40,0:08:40.40,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}哦，天哪\N{\fnArial\fs48}Oh, boy.
-Dialogue: 0,0:08:40.75,0:08:43.85,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这太诡异了。你真是个外星人\N{\fnArial\fs48}This is so weird. You really are an alien.
-Dialogue: 0,0:08:45.89,0:08:47.42,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你为什么笑了？\N{\fnArial\fs48}Why are you laughing?
-Dialogue: 0,0:08:49.06,0:08:50.56,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你怎么又哭了？\N{\fnArial\fs48}Why are you crying?
-Dialogue: 0,0:08:50.56,0:08:53.69,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们该怎么办？\N{\fnArial\fs48}How are we gonna make this work?
-Dialogue: 0,0:08:53.70,0:08:54.73,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}融合？\N{\fnArial\fs48}Fusion?
-Dialogue: 0,0:08:54.73,0:08:56.23,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}不，是我们的关系\N{\fnArial\fs48}No, us.
-Dialogue: 0,0:08:56.23,0:08:59.30,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们真的，非常不同\N{\fnArial\fs48}We're really, really different.
-Dialogue: 0,0:08:59.30,0:09:01.43,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们现在该怎么办？\N{\fnArial\fs48}What do we do now?
-Dialogue: 0,0:09:01.44,0:09:06.24,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们先...聊聊吧\N{\fnArial\fs48}Let's just...Talk.
-Dialogue: 0,0:09:06.24,0:09:07.91,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我根本不了解你\N{\fnArial\fs48}I barely know you.
-Dialogue: 0,0:09:07.91,0:09:08.87,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这是个好事\N{\fnArial\fs48}That's a good thing.
-Dialogue: 0,0:09:08.88,0:09:10.74,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们的关系进展的真有点快了\N{\fnArial\fs48}We really rushed into this.
-Dialogue: 0,0:09:10.75,0:09:13.58,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}地球上的一切对我来讲都太快了\N{\fnArial\fs48}Everything on earth seems fast to me.
-Dialogue: 0,0:09:13.58,0:09:16.75,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你想念你的母星吗？\N{\fnArial\fs48}Do you miss your home planet?
-Dialogue: 0,0:09:16.75,0:09:18.05,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}不，从不\N{\fnArial\fs48}No. Never.
-Dialogue: 0,0:09:18.05,0:09:21.32,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你最后是怎么和，呃，，走到一起的？\N{\fnArial\fs48}How did you end up with, uh, Harpo, Groucho, and chico?
-Dialogue: 600,0:09:18.05,0:09:21.32,Hint,,0,0,0,,{\pos(960,150)}Harpo,Groucho和Chico是Marx Brothers（马克斯兄弟）的成员。\NMarx Brothers是美国喜剧界早期著名团体，与卓别林，劳埃德齐名，擅长无政府主义风格。\NHarpo对应石榴（沉默寡言），Groucho对应紫晶（直率），Chico（经常有夸张行为）
-Dialogue: 0,0:09:21.32,0:09:23.32,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}啊？哦，她们\N{\fnArial\fs48}Huh? Oh, them.
-Dialogue: 0,0:09:23.78,0:09:25.48,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}她们三个的故事可长了\N{\fnArial\fs48}Those are three long stories.
-Dialogue: 0,0:09:25.52,0:09:27.06,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}他们在干吗？——嘘！\N{\fnArial\fs48}What are they doing? Shh!
-Dialogue: 0,0:09:27.26,0:09:29.96,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你喜欢过其他人类吗？\N{\fnArial\fs48}Have you loved other humans?
-Dialogue: 0,0:09:30.62,0:09:31.66,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你呢？\N{\fnArial\fs48}Have you?
-Dialogue: 0,0:09:31.93,0:09:33.63,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}有——有\N{\fnArial\fs48}Yes. Yes.
-Dialogue: 0,0:09:33.64,0:09:37.14,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}那你，爱过，人类吗？\N{\fnArial\fs48}Have you ever been {\i1}in{\i} love with a human?
-Dialogue: 0,0:09:37.14,0:09:38.44,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我怎么知道？\N{\fnArial\fs48}How would I know?
-Dialogue: 0,0:09:38.44,0:09:40.14,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这是一种折磨\N{\fnArial\fs48}It's torture.
-Dialogue: 0,0:09:42.94,0:09:44.01,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}格雷格\N{\fnArial\fs48}Greg.
-Dialogue: 0,0:09:44.01,0:09:45.58,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}罗丝\N{\fnArial\fs48}Rose.
-Dialogue: 0,0:09:45.58,0:09:47.45,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这是折磨吗？\N{\fnArial\fs48}Is this torture?
-Dialogue: 0,0:09:47.45,0:09:48.81,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}最可怕的那种\N{\fnArial\fs48}The worst.
-Dialogue: 0,0:09:48.82,0:09:50.92,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我实在对不起\N{\fnArial\fs48}I'm so sorry.
-Dialogue: 0,0:09:50.92,0:09:53.02,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}啊？不，不用\N{\fnArial\fs48}Huh? No. Don't be.
-Dialogue: 0,0:09:53.02,0:09:55.02,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}为什么？！\N{\fnArial\fs48}What?! Why not?!
-Dialogue: 0,0:09:55.02,0:09:57.26,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}噢，我太困惑了！\N{\fnArial\fs48}Me, too.
-Dialogue: 0,0:09:57.26,0:09:58.46,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我也是\N{\fnArial\fs48}Me, too.
-Dialogue: 0,0:09:58.59,0:10:00.59,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}那么，呃，这不错\N{\fnArial\fs48}Well, uh, this is good.
-Dialogue: 0,0:10:00.60,0:10:02.96,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我们总算有一个共同点了\N{\fnArial\fs48}We've got one thing in common.
-Dialogue: 0,0:10:02.96,0:10:04.30,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}\N{\fnArial\fs48}Ha!Ohh!
-Dialogue: 0,0:10:06.27,0:10:07.60,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}他们还在跳舞？\N{\fnArial\fs48}Why are they still dancing?
-Dialogue: 0,0:10:07.60,0:10:08.93,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}那-那-那根本行不通啊\N{\fnArial\fs48}I-I-it didn't work.
-Dialogue: 0,0:10:08.94,0:10:11.37,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}不，他们成了。——啊？！\N{\fnArial\fs48}Yes, it did. What?!
-Dialogue: 0,0:10:11.37,0:10:12.87,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}已经成功了\N{\fnArial\fs48}It worked.
-Dialogue: 0,0:10:12.87,0:10:15.61,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我觉得这是我最喜欢的人类\N{\fnArial\fs48}I think this one's my favorite.
-Dialogue: 0,0:10:15.61,0:10:19.01,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}我觉得他也是她最喜欢的人了\N{\fnArial\fs48}I think he's {\i1}her{\i} favorite, too.
-Dialogue: 0,0:10:21.78,0:10:23.12,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}喔\N{\fnArial\fs48}Whoa.
-Dialogue: 0,0:10:23.12,0:10:25.48,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}那么，你们一直都不能融合？\N{\fnArial\fs48}So, you guys were never able to fuse?
-Dialogue: 0,0:10:25.49,0:10:26.89,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}呃，不能\N{\fnArial\fs48}Uh, no.
-Dialogue: 0,0:10:26.89,0:10:29.40,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}但那不如与对方沟通重要\N{\fnArial\fs48}But that wasn't as important as talking to each other.
-Dialogue: 0,0:10:29.60,0:10:31.69,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}听着，人类和宝石人——\N{\fnArial\fs48}Look, humans and gems --
-Dialogue: 0,0:10:31.69,0:10:33.79,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}这仍是一个未知的领域\N{\fnArial\fs48}it's still some pretty new territory.
-Dialogue: 0,0:10:33.80,0:10:35.80,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你们需要共同探索\N{\fnArial\fs48}You're gonna have to work it out together.
-Dialogue: 0,0:10:35.80,0:10:37.80,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}而且，康妮，如果你需要\N{\fnArial\fs48}And, Connie, if you ever need to talk
-Dialogue: 0,0:10:37.80,0:10:39.50,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}向另一个人类谈论此事\N{\fnArial\fs48}to another human being about this,
-Dialogue: 0,0:10:39.50,0:10:41.70,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}你永远可以找我\N{\fnArial\fs48}you can always talk to me.
-Dialogue: 0,0:10:41.70,0:10:42.50,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}嗯\N{\fnArial\fs48}Mm.
-Dialogue: 0,0:10:42.50,0:10:44.04,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}人类一族？\N{\fnArial\fs48}Human beings?
-Dialogue: 0,0:10:44.04,0:10:45.50,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}人类一族\N{\fnArial\fs48}Human beings.
-Dialogue: 0,0:10:45.92,0:10:47.28,Normal Dialog Text,,0,0,0,,{\fn微软雅黑\fs64}人类一族\N{\fnArial\fs48}Human beings.
-Dialogue: 0,0:10:49.14,0:10:52.32,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}如果我可以做到\N{\fnArial\fs48}♪ If I could begin to be
-Dialogue: 0,0:10:52.32,0:10:55.08,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}你对我期望的一半\N{\fnArial\fs48}♪ half of what you think of me
-Dialogue: 0,0:10:55.10,0:10:57.24,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我愿意做任何事\N{\fnArial\fs48}♪ I could do about anything
-Dialogue: 0,0:10:57.30,0:11:02.76,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我愿学会像你一样，去爱\N{\fnArial\fs48}♪ I could even learn how to love like you ♪
+Dialogue: 1,0:00:00.30,0:00:01.80,SU Title,,0,0,0,,{\xshad-0\yshad12\pos(1134,252)}我们得谈谈
+Dialogue: 1,0:00:01.80,0:00:03.30,SU Claim,,0,0,0,,欢迎关注微博@UUU字幕组，获取最新熟肉信息！
+Dialogue: 1,0:00:01.80,0:00:03.30,SU Team Title,,0,0,0,,{\pos(1725,260)}出品
+Dialogue: 1,0:00:01.80,0:00:03.30,SU Team Member,,0,0,0,,{\pos(1725,320)}UUU字幕组
+Dialogue: 1,0:00:01.80,0:00:03.30,SU Team Title,,0,0,0,,{\pos(1725,380)}翻译
+Dialogue: 1,0:00:01.80,0:00:03.30,SU Team Member,,0,0,0,,{\pos(1725,440)}零玖/presisco
+Dialogue: 1,0:00:01.80,0:00:03.30,SU Team Title,,0,0,0,,{\pos(1725,500)}校对
+Dialogue: 1,0:00:01.80,0:00:03.30,SU Team Member,,0,0,0,,{\pos(1725,560)}presisco
+Dialogue: 1,0:00:01.80,0:00:03.30,SU Team Title,,0,0,0,,{\pos(1725,620)}特效
+Dialogue: 1,0:00:01.80,0:00:03.30,SU Team Member,,0,0,0,,{\pos(1725,680)}presisco
+Dialogue: 1,0:00:01.80,0:00:03.30,SU Team Title,,0,0,0,,{\pos(1725,740)}压制
+Dialogue: 1,0:00:01.80,0:00:03.30,SU Team Member,,0,0,0,,{\pos(1725,800)}presisco
+Dialogue: 0,0:00:01.80,0:00:03.30,SU Team Background,,0,0,0,,{\bord0\xshad-0\yshad16\pos(1725,860)}{\p1}m -1 122 b -1 -19 -19 -1 122 -1 l 251 -1 b 390 -1 377 -19 377 122 l 377 500 b 377 642 390 628 251 628 l 122 628 b -19 628 -1 642 -1 500 l -1 122 {\p0}
+Dialogue: 100,0:00:04.83,0:00:07.37,Normal Dialog Text,,0,0,0,,{\rCHS}这是所有的O.M.O乐队的内容了\N{\rENG}Here's all the orange magic orchestra ones.
+Dialogue: 600,0:00:04.83,0:00:07.37,Hint,,0,0,0,,O.M.O致敬日本二十世纪80年代的Yellow Magic Orchestra(Y.M.O)乐队，在日本开创了Techno类型。专辑应该为Naughty Boys
+Dialogue: 100,0:00:07.37,0:00:10.87,Normal Dialog Text,,0,0,0,,{\rCHS}太好了，将他们放到“出色的太空摇滚”类里\N{\rENG}Great, put them in the transcendental space rock pile.
+Dialogue: 600,0:00:07.37,0:00:10.87,Hint,,0,0,0,,QUADRINOMETRY-THE SECRET OF THE WAVE LIES IN CREATION\N曾出现于S01E02的车库中和S01E26的车载音乐
+Dialogue: 100,0:00:10.87,0:00:13.17,Normal Dialog Text,,0,0,0,,{\rCHS}在我家，就只有古典乐\N{\rENG}At home, we only have classical music
+Dialogue: 100,0:00:13.18,0:00:14.71,Normal Dialog Text,,0,0,0,,{\rCHS}和电影原声\N{\rENG}and movie soundtracks.
+Dialogue: 100,0:00:14.71,0:00:16.84,Normal Dialog Text,,0,0,0,,{\rCHS}我从没听过这些中的任何一种\N{\rENG}I've never heard any of these.
+Dialogue: 600,0:00:14.71,0:00:19.05,Hint,,0,0,0,,The Philosophy Majors- Nietzsche's Breakdown封面致敬No Doubt乐队的Tragic Kingdom。No Doubt乐队活跃于2000年左右，主打摇滚乐。The Philosophy Majors的名字致敬加拿大的The Philosopher Kings乐队
+Dialogue: 100,0:00:16.85,0:00:19.05,Normal Dialog Text,,0,0,0,,{\rCHS}你从没听过The Philosophy Maors的歌？\N{\rENG}You've never heard the philosophy majors?
+Dialogue: 100,0:00:19.05,0:00:20.95,Normal Dialog Text,,0,0,0,,{\rCHS}我的天。给我一下\N{\rENG}Oh, man. Give it here.
+Dialogue: 100,0:00:20.95,0:00:23.52,Normal Dialog Text,,0,0,0,,{\rCHS}今天给你开开眼\N{\rENG}This will really knock your socks off.Come on.
+Dialogue: 100,0:00:32.86,0:00:35.86,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Whoa!
+Dialogue: 100,0:00:51.78,0:00:53.21,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Aah! Aah!
+Dialogue: 100,0:00:54.08,0:00:55.92,Normal Dialog Text,,0,0,0,,{\rCHS}你们俩能融合？！\N{\rENG}You two can fuse?!
+Dialogue: 100,0:00:55.92,0:00:57.92,Normal Dialog Text,,0,0,0,,{\rCHS}呃...是的？\N{\rENG}Uh...Yes?
+Dialogue: 100,0:00:57.92,0:01:00.25,Normal Dialog Text,,0,0,0,,{\rCHS}呃，呃，呃，那真是叼-碉堡了！\N{\rENG}Uh, uh, uh, that's in-- incredible!
+Dialogue: 100,0:01:00.26,0:01:03.99,Normal Dialog Text,,0,0,0,,{\rCHS}从什么时候？等等，这怎么可能？\N{\rENG}Since when? Wait, how is this even possible?
+Dialogue: 100,0:01:03.99,0:01:05.66,Normal Dialog Text,,0,0,0,,{\rCHS}宝石人们认为是由于我是半人\N{\rENG}The gems think it's 'cause I'm half-human.
+Dialogue: 100,0:01:05.66,0:01:08.16,Normal Dialog Text,,0,0,0,,{\rCHS}求求你后不要告诉我家长，宇宙先生！\N{\rENG}Please don't tell my parents, Mr. Universe.
+Dialogue: 100,0:01:08.16,0:01:10.50,Normal Dialog Text,,0,0,0,,{\rCHS}他们不知道我一直在和史蒂文与魔法打交道\N{\rENG}They don't know I've been doing magic stuff with Steven.
+Dialogue: 100,0:01:10.50,0:01:13.10,Normal Dialog Text,,0,0,0,,{\rCHS}我不能告诉他们。他们理解不了-我-\N{\rENG}I can't tell them. They're not going to understand -- I --
+Dialogue: 100,0:01:13.10,0:01:15.10,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}whoa, whoa, it -- it's okay.
+Dialogue: 100,0:01:15.10,0:01:16.97,Normal Dialog Text,,0,0,0,,{\rCHS}我或许是地球上唯一的一个人\N{\rENG}I may be the only human being on the planet
+Dialogue: 100,0:01:16.97,0:01:18.61,Normal Dialog Text,,0,0,0,,{\rCHS}能理解这些\N{\rENG}who's gonna understand.
+Dialogue: 100,0:01:18.61,0:01:19.94,Normal Dialog Text,,0,0,0,,{\rCHS}你-你是指？\N{\rENG}W-what do you mean?
+Dialogue: 100,0:01:19.94,0:01:21.98,Normal Dialog Text,,0,0,0,,{\rCHS}对，你是指什么？\N{\rENG}Yeah, what do you mean?
+Dialogue: 100,0:01:21.98,0:01:23.22,Normal Dialog Text,,0,0,0,,{\rCHS}呃...\N{\rENG}Well...
+Dialogue: 100,0:01:25.95,0:01:27.51,Normal Dialog Text,,0,0,0,,{\rCHS}来吧\N{\rENG}Come on.
+Dialogue: 100,0:01:24.08,0:01:25.64,Normal Dialog Text,,0,0,0,,{\rCHS}故事！\N{\rENG}Story!
+Dialogue: 100,0:01:27.52,0:01:28.65,Normal Dialog Text,,0,0,0,,{\rCHS}我们已经准备好了\N{\rENG}We're ready.
+Dialogue: 100,0:01:28.65,0:01:30.42,Normal Dialog Text,,0,0,0,,{\rCHS}我没想到会这么早就告诉你\N{\rENG}I didn't think I'd be telling you this so soon.
+Dialogue: 600,0:01:30.30,0:01:31.80,Hint,,0,0,0,,电视机上的海报致敬动物之森中的K.K Slider（一只写音乐的狗）
+Dialogue: 100,0:01:30.42,0:01:34.02,Normal Dialog Text,,0,0,0,,{\rCHS}也许最好先从这里开始\N{\rENG}Probably best to start with this.
+Dialogue: 100,0:01:36.69,0:01:38.26,Normal Dialog Text,,0,0,0,,{\rCHS}都准备好了吗？\N{\rENG}Everybody ready?
+Dialogue: 100,0:01:39.34,0:01:42.70,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}1, 2, 3, 4...
+Dialogue: 150,0:01:52.97,0:01:57.41,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我能做什么，为你？\N{\rENG_LYC}♪ What can I do for you?
+Dialogue: 150,0:01:59.15,0:02:02.05,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我能做什么\N{\rENG_LYC}♪ What can I do that
+Dialogue: 150,0:02:02.05,0:02:05.72,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}是别人做不了的？\N{\rENG_LYC}♪ no one else can do?
+Dialogue: 150,0:02:05.72,0:02:10.39,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我能做什么，为你？\N{\rENG_LYC}♪ What can I do for you?
+Dialogue: 150,0:02:11.33,0:02:17.86,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我能做什么，为你？\N{\rENG_LYC}♪ What can I do for you?
+Dialogue: 150,0:02:17.87,0:02:20.00,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}人类啊\N{\rENG_LYC}♪ Human man
+Dialogue: 150,0:02:20.00,0:02:23.87,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}你如此有趣\N{\rENG_LYC}♪ you are so much fun
+Dialogue: 150,0:02:23.87,0:02:30.98,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我从未料到，你如此赏心悦目\N{\rENG_LYC}♪ I hadn't planned on finding you quite this entertaining ♪
+Dialogue: 150,0:02:30.98,0:02:32.51,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我喜欢你的乐队\N{\rENG_LYC}♪ I like your band
+Dialogue: 150,0:02:32.51,0:02:33.85,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}\N{\rENG_LYC}whoo!
+Dialogue: 150,0:02:33.85,0:02:36.65,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}而且我喜欢你的歌\N{\rENG_LYC}♪ And I like your song
+Dialogue: 150,0:02:36.65,0:02:42.66,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我喜欢这种，人类嬉笑的方式\N{\rENG_LYC}♪ I like the way human beings play ♪
+Dialogue: 150,0:02:43.66,0:02:46.19,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我喜欢参与其中\N{\rENG_LYC}♪ I like playing along
+Dialogue: 150,0:02:46.19,0:02:48.90,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}\N{\rENG_LYC}♪ oh, oh, oh, oh, whoa-ho ♪
+Dialogue: 150,0:02:48.90,0:02:53.10,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我能做什么，为你？\N{\rENG_LYC}♪ what can I do for you?
+Dialogue: 150,0:02:54.77,0:02:57.87,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我能做什么\N{\rENG_LYC}♪ What can I do that
+Dialogue: 150,0:02:57.87,0:03:01.24,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}是别人做不了的？\N{\rENG_LYC}♪ no one else can do?
+Dialogue: 150,0:03:01.24,0:03:06.28,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我能做什么，为你？\N{\rENG_LYC}♪ What can I do for you?
+Dialogue: 150,0:03:07.05,0:03:14.02,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我能做什么，为你？\N{\rENG_LYC}♪ What can I do for you?
+Dialogue: 100,0:03:17.89,0:03:19.39,Normal Dialog Text,,0,0,0,,{\rCHS}咦～\N{\rENG}Tsk.
+Dialogue: 100,0:04:07.94,0:04:10.44,Normal Dialog Text,,0,0,0,,{\rCHS}我不敢相信我录到了那个！\N{\rENG}I can't believe I got that on video!
+Dialogue: 100,0:04:10.45,0:04:12.28,Normal Dialog Text,,0,0,0,,{\rCHS}地球上有这玩意？\N{\rENG}What on earth was that?!
+Dialogue: 100,0:04:12.28,0:04:14.95,Normal Dialog Text,,0,0,0,,{\rCHS}那是彩虹石英啊\N{\rENG}That was rainbow Quartz.
+Dialogue: 100,0:04:14.95,0:04:16.28,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠觉得融合体\N{\rENG}Pearl thought a fusion
+Dialogue: 100,0:04:16.28,0:04:18.95,Normal Dialog Text,,0,0,0,,{\rCHS}能给你的视频加点料\N{\rENG}might give your video a little something extra.
+Dialogue: 100,0:04:18.95,0:04:21.49,Normal Dialog Text,,0,0,0,,{\rCHS}这很酷，对吧？\N{\rENG}Pretty cool, right?
+Dialogue: 100,0:04:21.49,0:04:25.26,Normal Dialog Text,,0,0,0,,{\rCHS}我得走了，但晚些时候忙吗吗？\N{\rENG}I have to go, but are you doing anything later?
+Dialogue: 100,0:04:25.26,0:04:27.03,Normal Dialog Text,,0,0,0,,{\rCHS}你知道我没事\N{\rENG}You know I'm not.
+Dialogue: 100,0:04:28.13,0:04:30.16,Normal Dialog Text,,0,0,0,,{\rCHS}你真可爱，宇宙先生\N{\rENG}You're adorable, Mr. Universe.
+Dialogue: 100,0:04:30.17,0:04:31.70,Normal Dialog Text,,0,0,0,,{\rCHS}一会见\N{\rENG}See you later.
+Dialogue: 100,0:04:31.70,0:04:34.67,Normal Dialog Text,,0,0,0,,{\rCHS}拜拜\N{\rENG}Bye.
+Dialogue: 100,0:04:34.67,0:04:39.01,Normal Dialog Text,,0,0,0,,{\rCHS}嘿，我打鼓了，赶紧付钱\N{\rENG}Hey, I hit the drums, so pay up.
+Dialogue: 100,0:04:39.01,0:04:40.71,Normal Dialog Text,,0,0,0,,{\rCHS}这个给你\N{\rENG}Here you go.
+Dialogue: 100,0:04:44.48,0:04:48.68,Normal Dialog Text,,0,0,0,,{\rCHS}你只是个过客。你知道吧？——不\N{\rENG}You're just a phase. You know that, right? No.
+Dialogue: 100,0:04:50.65,0:04:52.32,Normal Dialog Text,,0,0,0,,{\rCHS}我实际上不知道，珍珠\N{\rENG}I actually don't know that, Pearl.
+Dialogue: 100,0:04:52.56,0:04:54.40,Normal Dialog Text,,0,0,0,,{\rCHS}哈，当然你不知道\N{\rENG}Well, of course you don't.
+Dialogue: 100,0:04:54.49,0:04:56.49,Normal Dialog Text,,0,0,0,,{\rCHS}你一点也不了解玫瑰\N{\rENG}You don't know anything about Rose.
+Dialogue: 100,0:04:56.49,0:04:58.49,Normal Dialog Text,,0,0,0,,{\rCHS}我知道那超喜欢我\N{\rENG}I know she's super into me.
+Dialogue: 100,0:04:58.49,0:05:01.19,Normal Dialog Text,,0,0,0,,{\rCHS}听着，宇宙先生\N{\rENG}Listen Mr. Universe.
+Dialogue: 100,0:05:01.20,0:05:03.53,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰也许觉得你很有魅力\N{\rENG}Rose may find you charming,
+Dialogue: 100,0:05:03.53,0:05:05.83,Normal Dialog Text,,0,0,0,,{\rCHS}但这只是因为你是个人类\N{\rENG}but that's only because you're human.
+Dialogue: 100,0:05:05.83,0:05:08.07,Normal Dialog Text,,0,0,0,,{\rCHS}你最多只是新奇而已\N{\rENG}You're a novelty at best.
+Dialogue: 100,0:05:08.07,0:05:10.00,Normal Dialog Text,,0,0,0,,{\rCHS}你怎么这么确定？\N{\rENG}What makes you so sure?
+Dialogue: 100,0:05:10.00,0:05:12.34,Normal Dialog Text,,0,0,0,,{\rCHS}哦，很明显。\N{\rENG}Oh it's very simple.
+Dialogue: 100,0:05:12.38,0:05:14.12,Normal Dialog Text,,0,0,0,,{\rCHS}人类不能融合\N{\rENG}Humans can't fuse.
+Dialogue: 100,0:05:14.34,0:05:18.14,Normal Dialog Text,,0,0,0,,{\rCHS}融合是宝石人之间最终极的联系\N{\rENG}Fusion is the ultimate connection between gems.
+Dialogue: 100,0:05:18.15,0:05:20.92,Normal Dialog Text,,0,0,0,,{\rCHS}而你不是宝石人\N{\rENG}And you are not a gem.
+Dialogue: 100,0:05:22.25,0:05:26.02,Normal Dialog Text,,0,0,0,,{\rCHS}那么，就没有任何人类尝试过与宝石人融合吗？\N{\rENG}Well, has any human ever tried fusing with a gem?
+Dialogue: 100,0:05:26.02,0:05:30.02,Normal Dialog Text,,0,0,0,,{\rCHS}呃，没有，我-我不觉得会有\N{\rENG}Uh, no, I-I don't think so.
+Dialogue: 100,0:05:30.02,0:05:32.83,Normal Dialog Text,,0,0,0,,{\rCHS}好，那么，我会！\N{\rENG}Well, then, i will try!
+Dialogue: 100,0:05:36.33,0:05:37.50,Normal Dialog Text,,0,0,0,,{\rCHS}哦，天哪，我在干嘛？\N{\rENG}Aw, geez, what am I doing?
+Dialogue: 100,0:05:37.50,0:05:39.37,Normal Dialog Text,,0,0,0,,{\rCHS}这些东西很贵的\N{\rENG}These things are expensive.
+Dialogue: 100,0:05:43.20,0:05:46.67,Normal Dialog Text,,0,0,0,,{\rCHS}天哪！她是怎么把腿抬成那样的？\N{\rENG}Oh, geez! How did she get her legs to do that?
+Dialogue: 100,0:05:48.21,0:05:49.34,Normal Dialog Text,,0,0,0,,{\rCHS}嘿。你挂了吗？\N{\rENG}Hey. Are you dead?
+Dialogue: 100,0:05:49.34,0:05:52.04,Normal Dialog Text,,0,0,0,,{\rCHS}蛤？哦，不，不。我还活着\N{\rENG}What? Oh, no no. I'm alive.
+Dialogue: 100,0:05:52.05,0:05:53.55,Normal Dialog Text,,0,0,0,,{\rCHS}喔，酷！\N{\rENG}Whoa, cool!
+Dialogue: 100,0:05:53.55,0:05:55.92,Normal Dialog Text,,0,0,0,,{\rCHS}这是刚才的我们\N{\rENG}Aah. It's us from before.
+Dialogue: 100,0:05:55.92,0:05:57.58,Normal Dialog Text,,0,0,0,,{\rCHS}对，我正试着\N{\rENG}Yeah, I was just trying to
+Dialogue: 100,0:05:57.59,0:05:59.59,Normal Dialog Text,,0,0,0,,{\rCHS}用脑子搞清楚融合舞呢\N{\rENG}get my head around this fusion dance.
+Dialogue: 100,0:05:59.59,0:06:02.12,Normal Dialog Text,,0,0,0,,{\rCHS}融合舞和脑子没关系！\N{\rENG}A fusion dance ain't about your head!
+Dialogue: 100,0:06:03.36,0:06:05.53,Normal Dialog Text,,0,0,0,,{\rCHS}等等，你们是宝石人\N{\rENG}Wait, you guys are gems.
+Dialogue: 100,0:06:05.53,0:06:06.86,Normal Dialog Text,,0,0,0,,{\rCHS}你们一定要帮帮我啊\N{\rENG}You've got to help me out here.
+Dialogue: 100,0:06:06.86,0:06:09.40,Normal Dialog Text,,0,0,0,,{\rCHS}我想要和罗丝融合\N{\rENG}I need to be able to fuse with Rose.
+Dialogue: 100,0:06:09.40,0:06:11.90,Normal Dialog Text,,0,0,0,,{\rCHS}首先，你需要有一个宝石作为存在的基础\N{\rENG}First, you need the gem at the core of your being.
+Dialogue: 100,0:06:11.90,0:06:14.43,Normal Dialog Text,,0,0,0,,{\rCHS}然后，你需要一个能变成光的身体\N{\rENG}Then you need the body that could turn into light.
+Dialogue: 100,0:06:14.44,0:06:17.27,Normal Dialog Text,,0,0,0,,{\rCHS}之后，你需要一个你能信任的变成光的同伴\N{\rENG}Then you need the partner who you trust with that light.
+Dialogue: 100,0:06:17.27,0:06:18.94,Normal Dialog Text,,0,0,0,,{\rCHS}这是比喻？\N{\rENG}Metaphorically?
+Dialogue: 100,0:06:18.94,0:06:20.24,Normal Dialog Text,,0,0,0,,{\rCHS}并不\N{\rENG}Literally.
+Dialogue: 100,0:06:20.24,0:06:23.41,Normal Dialog Text,,0,0,0,,{\rCHS}嘘。别啊，我还想看他试试\N{\rENG}Shh. Come on. I still want to see him try.
+Dialogue: 100,0:06:23.41,0:06:26.58,Normal Dialog Text,,0,0,0,,{\rCHS}呃，珍珠是对的。我完全做不到\N{\rENG}Ugh, so it's true. I really can't do it.
+Dialogue: 100,0:06:26.58,0:06:28.61,Normal Dialog Text,,0,0,0,,{\rCHS}我简直在跟自己开玩笑\N{\rENG}I'm kidding myself with this.
+Dialogue: 100,0:06:28.62,0:06:30.65,Normal Dialog Text,,0,0,0,,{\rCHS}我永远也不可能变成宝石人\N{\rENG}I'm never gonna be a gem.
+Dialogue: 100,0:06:31.29,0:06:34.29,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶，给我们点私密空间\N{\rENG}Amethyst, give us some privacy!
+Dialogue: 100,0:06:34.29,0:06:36.29,Normal Dialog Text,,0,0,0,,{\rCHS}好！\N{\rENG}Yeah!
+Dialogue: 100,0:06:36.29,0:06:38.39,Normal Dialog Text,,0,0,0,,{\rCHS}我告诉你点秘密，宇宙先生\N{\rENG}Let me tell you something, Mr. Universe.
+Dialogue: 100,0:06:38.39,0:06:39.79,Normal Dialog Text,,0,0,0,,{\rCHS}我觉得你能做到\N{\rENG}I think you can do it.
+Dialogue: 100,0:06:39.79,0:06:42.06,Normal Dialog Text,,0,0,0,,{\rCHS}但像珍珠那样跳舞并没有用\N{\rENG}But it won't work if you dance like Pearl.
+Dialogue: 100,0:06:42.06,0:06:44.10,Normal Dialog Text,,0,0,0,,{\rCHS}你要跳出自己的风格\N{\rENG}You have to dance like you.
+Dialogue: 100,0:06:44.10,0:06:46.07,Normal Dialog Text,,0,0,0,,{\rCHS}你要有自己的融合的方式\N{\rENG}You have to fuse your way.
+Dialogue: 100,0:06:46.07,0:06:48.27,Normal Dialog Text,,0,0,0,,{\rCHS}做到开放、坦诚\N{\rENG}Get open. Get honest.
+Dialogue: 100,0:06:48.27,0:06:52.00,Normal Dialog Text,,0,0,0,,{\rCHS}坚持自我。这就是融合\N{\rENG}Invent yourselves together. That's fusion.
+Dialogue: 100,0:06:52.01,0:06:54.91,Normal Dialog Text,,0,0,0,,{\rCHS}眼...猜我了解了。\N{\rENG}Eye... Think I get it.
+Dialogue: 600,0:07:08.00,0:07:11.00,Hint,,0,0,0,,此处舞蹈与布景致敬少女革命：绝对命运默示录
+Dialogue: 100,0:07:38.29,0:07:40.99,Normal Dialog Text,,0,0,0,,{\rCHS}我们-我们没融合\N{\rENG}We -- we didn't fuse.
+Dialogue: 100,0:07:41.60,0:07:42.69,Normal Dialog Text,,0,0,0,,{\rCHS}啊？！\N{\rENG}What?!
+Dialogue: 100,0:07:44.34,0:07:46.44,Normal Dialog Text,,0,0,0,,{\rCHS}你肯定不能融合\N{\rENG}You can't fuse.
+Dialogue: 100,0:07:46.90,0:07:48.83,Normal Dialog Text,,0,0,0,,{\rCHS}你是人类\N{\rENG}You're a human.
+Dialogue: 100,0:07:48.83,0:07:51.00,Normal Dialog Text,,0,0,0,,{\rCHS}我知道！这就是问题！\N{\rENG}I know! That's the problem!
+Dialogue: 100,0:07:51.00,0:07:52.20,Normal Dialog Text,,0,0,0,,{\rCHS}我只是个人类\N{\rENG}I'm just a human.
+Dialogue: 100,0:07:52.20,0:07:55.97,Normal Dialog Text,,0,0,0,,{\rCHS}这不是问题。我爱人类\N{\rENG}That's not a problem. I love humans.
+Dialogue: 100,0:07:55.97,0:07:57.84,Normal Dialog Text,,0,0,0,,{\rCHS}你们都那么有趣\N{\rENG}You're all so funny.
+Dialogue: 100,0:07:57.84,0:07:58.76,Normal Dialog Text,,0,0,0,,{\rCHS}啊\N{\rENG}Ugh.
+Dialogue: 100,0:07:58.80,0:08:01.84,Normal Dialog Text,,0,0,0,,{\rCHS}听着，过去几个月非常美好——哦，是的\N{\rENG}Look, these last few months have been great. Oh, yes.
+Dialogue: 100,0:08:01.84,0:08:04.04,Normal Dialog Text,,0,0,0,,{\rCHS}但我开始对将来有些担心\N{\rENG}But I'm getting a little worried about the future.
+Dialogue: 100,0:08:04.05,0:08:05.68,Normal Dialog Text,,0,0,0,,{\rCHS}哦，那问问石榴\N{\rENG}Oh, just ask Garnet.
+Dialogue: 100,0:08:05.68,0:08:09.25,Normal Dialog Text,,0,0,0,,{\rCHS}我开始怀疑你是否...在乎我？\N{\rENG}I'm starting to wonder if you...Respect me?
+Dialogue: 100,0:08:11.59,0:08:15.19,Normal Dialog Text,,0,0,0,,{\rCHS}哦，你真幽默，宇宙先生\N{\rENG}Oh, you're hilarious, Mr. Universe.
+Dialogue: 100,0:08:15.19,0:08:17.19,Normal Dialog Text,,0,0,0,,{\rCHS}罗丝，求求你\N{\rENG}Rose, please.
+Dialogue: 100,0:08:17.19,0:08:19.06,Normal Dialog Text,,0,0,0,,{\rCHS}你能不能\N{\rENG}Can you just...
+Dialogue: 100,0:08:19.06,0:08:23.30,Normal Dialog Text,,0,0,0,,{\rCHS}和我说人话，哪怕是一秒？\N{\rENG}Talk to me for one second like a real person?!
+Dialogue: 100,0:08:27.03,0:08:30.84,Normal Dialog Text,,0,0,0,,{\rCHS}我...不是人类\N{\rENG}I'm nota real person.
+Dialogue: 100,0:08:31.94,0:08:34.74,Normal Dialog Text,,0,0,0,,{\rCHS}我以为-我们难道还没-\N{\rENG}I thought -- haven't we --
+Dialogue: 100,0:08:34.74,0:08:37.28,Normal Dialog Text,,0,0,0,,{\rCHS}难道不该这样吗？\N{\rENG}is this not how it works?
+Dialogue: 100,0:08:37.98,0:08:38.62,Normal Dialog Text,,0,0,0,,{\rCHS}噢\N{\rENG}Oh.
+Dialogue: 100,0:08:39.40,0:08:40.40,Normal Dialog Text,,0,0,0,,{\rCHS}哦，天哪\N{\rENG}Oh, boy.
+Dialogue: 100,0:08:40.75,0:08:43.85,Normal Dialog Text,,0,0,0,,{\rCHS}这太诡异了。你真是个外星人\N{\rENG}This is so weird. You really are an alien.
+Dialogue: 100,0:08:45.89,0:08:47.42,Normal Dialog Text,,0,0,0,,{\rCHS}你为什么笑了？\N{\rENG}Why are you laughing?
+Dialogue: 100,0:08:49.06,0:08:50.56,Normal Dialog Text,,0,0,0,,{\rCHS}你怎么又哭了？\N{\rENG}Why are you crying?
+Dialogue: 100,0:08:50.56,0:08:53.69,Normal Dialog Text,,0,0,0,,{\rCHS}我们该怎么办？\N{\rENG}How are we gonna make this work?
+Dialogue: 100,0:08:53.70,0:08:54.73,Normal Dialog Text,,0,0,0,,{\rCHS}融合？\N{\rENG}Fusion?
+Dialogue: 100,0:08:54.73,0:08:56.23,Normal Dialog Text,,0,0,0,,{\rCHS}不，是我们的关系\N{\rENG}No, us.
+Dialogue: 100,0:08:56.23,0:08:59.30,Normal Dialog Text,,0,0,0,,{\rCHS}我们真的，非常不同\N{\rENG}We're really, really different.
+Dialogue: 100,0:08:59.30,0:09:01.43,Normal Dialog Text,,0,0,0,,{\rCHS}我们现在该怎么办？\N{\rENG}What do we do now?
+Dialogue: 100,0:09:01.44,0:09:06.24,Normal Dialog Text,,0,0,0,,{\rCHS}我们先...聊聊吧\N{\rENG}Let's just...Talk.
+Dialogue: 100,0:09:06.24,0:09:07.91,Normal Dialog Text,,0,0,0,,{\rCHS}我根本不了解你\N{\rENG}I barely know you.
+Dialogue: 100,0:09:07.91,0:09:08.87,Normal Dialog Text,,0,0,0,,{\rCHS}这是个好事\N{\rENG}That's a good thing.
+Dialogue: 100,0:09:08.88,0:09:10.74,Normal Dialog Text,,0,0,0,,{\rCHS}我们的关系进展的真有点快了\N{\rENG}We really rushed into this.
+Dialogue: 100,0:09:10.75,0:09:13.58,Normal Dialog Text,,0,0,0,,{\rCHS}地球上的一切对我来讲都太快了\N{\rENG}Everything on earth seems fast to me.
+Dialogue: 100,0:09:13.58,0:09:16.75,Normal Dialog Text,,0,0,0,,{\rCHS}你想念你的母星吗？\N{\rENG}Do you miss your home planet?
+Dialogue: 100,0:09:16.75,0:09:18.05,Normal Dialog Text,,0,0,0,,{\rCHS}不，从不\N{\rENG}No. Never.
+Dialogue: 100,0:09:18.05,0:09:21.32,Normal Dialog Text,,0,0,0,,{\rCHS}你最后是怎么和，呃，，走到一起的？\N{\rENG}How did you end up with, uh, Harpo, Groucho, and chico?
+Dialogue: 600,0:09:18.05,0:09:21.32,Hint,,0,0,0,,Harpo,Groucho和Chico是Marx Brothers（马克斯兄弟）的成员。\NMarx Brothers是美国喜剧界早期著名团体，与卓别林，劳埃德齐名，擅长无政府主义风格。\NHarpo对应石榴（沉默寡言），Groucho对应紫晶（直率），Chico（经常有夸张行为）
+Dialogue: 100,0:09:21.32,0:09:23.32,Normal Dialog Text,,0,0,0,,{\rCHS}啊？哦，她们\N{\rENG}Huh? Oh, them.
+Dialogue: 100,0:09:23.78,0:09:25.48,Normal Dialog Text,,0,0,0,,{\rCHS}她们三个的故事可长了\N{\rENG}Those are three long stories.
+Dialogue: 100,0:09:25.52,0:09:27.06,Normal Dialog Text,,0,0,0,,{\rCHS}他们在干吗？——嘘！\N{\rENG}What are they doing? Shh!
+Dialogue: 100,0:09:27.26,0:09:29.96,Normal Dialog Text,,0,0,0,,{\rCHS}你喜欢过其他人类吗？\N{\rENG}Have you loved other humans?
+Dialogue: 100,0:09:30.62,0:09:31.66,Normal Dialog Text,,0,0,0,,{\rCHS}你呢？\N{\rENG}Have you?
+Dialogue: 100,0:09:31.93,0:09:33.63,Normal Dialog Text,,0,0,0,,{\rCHS}有——有\N{\rENG}Yes. Yes.
+Dialogue: 100,0:09:33.64,0:09:37.14,Normal Dialog Text,,0,0,0,,{\rCHS}那你，爱过，人类吗？\N{\rENG}Have you ever been in love with a human?
+Dialogue: 100,0:09:37.14,0:09:38.44,Normal Dialog Text,,0,0,0,,{\rCHS}我怎么知道？\N{\rENG}How would I know?
+Dialogue: 100,0:09:38.44,0:09:40.14,Normal Dialog Text,,0,0,0,,{\rCHS}这是一种折磨\N{\rENG}It's torture.
+Dialogue: 100,0:09:42.94,0:09:44.01,Normal Dialog Text,,0,0,0,,{\rCHS}格雷格\N{\rENG}Greg.
+Dialogue: 100,0:09:44.01,0:09:45.58,Normal Dialog Text,,0,0,0,,{\rCHS}罗丝\N{\rENG}Rose.
+Dialogue: 100,0:09:45.58,0:09:47.45,Normal Dialog Text,,0,0,0,,{\rCHS}这是折磨吗？\N{\rENG}Is this torture?
+Dialogue: 100,0:09:47.45,0:09:48.81,Normal Dialog Text,,0,0,0,,{\rCHS}最可怕的那种\N{\rENG}The worst.
+Dialogue: 100,0:09:48.82,0:09:50.92,Normal Dialog Text,,0,0,0,,{\rCHS}我实在对不起\N{\rENG}I'm so sorry.
+Dialogue: 100,0:09:50.92,0:09:53.02,Normal Dialog Text,,0,0,0,,{\rCHS}啊？不，不用\N{\rENG}Huh? No. Don't be.
+Dialogue: 100,0:09:53.02,0:09:55.02,Normal Dialog Text,,0,0,0,,{\rCHS}为什么？！\N{\rENG}What?! Why not?!
+Dialogue: 100,0:09:55.02,0:09:57.26,Normal Dialog Text,,0,0,0,,{\rCHS}噢，我太困惑了！\N{\rENG}Me, too.
+Dialogue: 100,0:09:57.26,0:09:58.46,Normal Dialog Text,,0,0,0,,{\rCHS}我也是\N{\rENG}Me, too.
+Dialogue: 100,0:09:58.59,0:10:00.59,Normal Dialog Text,,0,0,0,,{\rCHS}那么，呃，这不错\N{\rENG}Well, uh, this is good.
+Dialogue: 100,0:10:00.60,0:10:02.96,Normal Dialog Text,,0,0,0,,{\rCHS}我们总算有一个共同点了\N{\rENG}We've got one thing in common.
+Dialogue: 100,0:10:02.96,0:10:04.30,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Ha!Ohh!
+Dialogue: 100,0:10:06.27,0:10:07.60,Normal Dialog Text,,0,0,0,,{\rCHS}他们还在跳舞？\N{\rENG}Why are they still dancing?
+Dialogue: 100,0:10:07.60,0:10:08.93,Normal Dialog Text,,0,0,0,,{\rCHS}那-那-那根本行不通啊\N{\rENG}I-I-it didn't work.
+Dialogue: 100,0:10:08.94,0:10:11.37,Normal Dialog Text,,0,0,0,,{\rCHS}不，他们成了。——啊？！\N{\rENG}Yes, it did. What?!
+Dialogue: 100,0:10:11.37,0:10:12.87,Normal Dialog Text,,0,0,0,,{\rCHS}已经成功了\N{\rENG}It worked.
+Dialogue: 100,0:10:12.87,0:10:15.61,Normal Dialog Text,,0,0,0,,{\rCHS}我觉得这是我最喜欢的人类\N{\rENG}I think this one's my favorite.
+Dialogue: 100,0:10:15.61,0:10:19.01,Normal Dialog Text,,0,0,0,,{\rCHS}我觉得他也是她最喜欢的人了\N{\rENG}I think he's her favorite, too.
+Dialogue: 100,0:10:21.78,0:10:23.12,Normal Dialog Text,,0,0,0,,{\rCHS}喔\N{\rENG}Whoa.
+Dialogue: 100,0:10:23.12,0:10:25.48,Normal Dialog Text,,0,0,0,,{\rCHS}那么，你们一直都不能融合？\N{\rENG}So, you guys were never able to fuse?
+Dialogue: 100,0:10:25.49,0:10:26.89,Normal Dialog Text,,0,0,0,,{\rCHS}呃，不能\N{\rENG}Uh, no.
+Dialogue: 100,0:10:26.89,0:10:29.40,Normal Dialog Text,,0,0,0,,{\rCHS}但那不如与对方沟通重要\N{\rENG}But that wasn't as important as talking to each other.
+Dialogue: 100,0:10:29.60,0:10:31.69,Normal Dialog Text,,0,0,0,,{\rCHS}听着，人类和宝石人——\N{\rENG}Look, humans and gems --
+Dialogue: 100,0:10:31.69,0:10:33.79,Normal Dialog Text,,0,0,0,,{\rCHS}这仍是一个未知的领域\N{\rENG}it's still some pretty new territory.
+Dialogue: 100,0:10:33.80,0:10:35.80,Normal Dialog Text,,0,0,0,,{\rCHS}你们需要共同探索\N{\rENG}You're gonna have to work it out together.
+Dialogue: 100,0:10:35.80,0:10:37.80,Normal Dialog Text,,0,0,0,,{\rCHS}而且，康妮，如果你需要\N{\rENG}And, Connie, if you ever need to talk
+Dialogue: 100,0:10:37.80,0:10:39.50,Normal Dialog Text,,0,0,0,,{\rCHS}向另一个人类谈论此事\N{\rENG}to another human being about this,
+Dialogue: 100,0:10:39.50,0:10:41.70,Normal Dialog Text,,0,0,0,,{\rCHS}你永远可以找我\N{\rENG}you can always talk to me.
+Dialogue: 100,0:10:41.70,0:10:42.50,Normal Dialog Text,,0,0,0,,{\rCHS}嗯\N{\rENG}Mm.
+Dialogue: 100,0:10:42.50,0:10:44.04,Normal Dialog Text,,0,0,0,,{\rCHS}人类一族？\N{\rENG}Human beings?
+Dialogue: 100,0:10:44.04,0:10:45.50,Normal Dialog Text,,0,0,0,,{\rCHS}人类一族\N{\rENG}Human beings.
+Dialogue: 100,0:10:45.92,0:10:47.28,Normal Dialog Text,,0,0,0,,{\rCHS}人类一族\N{\rENG}Human beings.
+Dialogue: 150,0:10:49.14,0:10:52.32,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}如果我可以做到\N{\rENG_LYC}♪ If I could begin to be
+Dialogue: 150,0:10:52.32,0:10:55.08,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}你对我期望的一半\N{\rENG_LYC}♪ half of what you think of me
+Dialogue: 150,0:10:55.10,0:10:57.24,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我愿意做任何事\N{\rENG_LYC}♪ I could do about anything
+Dialogue: 150,0:10:57.30,0:11:02.76,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我愿学会像你一样，去爱\N{\rENG_LYC}♪ I could even learn how to love like you ♪
