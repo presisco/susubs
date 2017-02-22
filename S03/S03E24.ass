@@ -12,14 +12,14 @@ Aegisub Video Aspect Ratio: c1.777778
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: S03E24.mkv
-Video File: S03E24.mkv
+Audio File: ../../../Steven.Universe/S03/Steven.Universe.S03E24.Bubbled.1080p.WEB-DL.AAC2.0.H.264-iT00NZ.mkv
+Video File: ../../../Steven.Universe/S03/Steven.Universe.S03E24.Bubbled.1080p.WEB-DL.AAC2.0.H.264-iT00NZ.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 194
-Active Line: 205
-Video Position: 15549
+Scroll Position: 175
+Active Line: 190
+Video Position: 13483
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -216,18 +216,23 @@ Dialogue: 100,0:08:11.88,0:08:15.11,Normal Dialog Text,,0,0,0,,{\rCHS}你打算�
 Dialogue: 100,0:08:15.11,0:08:18.45,Normal Dialog Text,,0,0,0,,{\rCHS}我已经拿定主意了\N{\rENG}I've already made up my mind.
 Dialogue: 100,0:08:20.79,0:08:23.66,Normal Dialog Text,,0,0,0,,{\rCHS}哇\N{\rENG}Whoa!
 Dialogue: 600,0:08:43.41,0:08:48.41,Hint,,0,0,0,,这里史蒂文的动作类似"新世纪福音战士"中碇真嗣被独自密封在Entry Plug时的动作
-Dialogue: 200,0:09:22.35,0:09:23.51,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}若我能\N{\rENG_LYC}♪ If I could ♪
-Dialogue: 600,0:09:22.35,0:09:24.35,Hint,,0,0,0,,这一段的设置与新世纪福音战士的结局相似
-Dialogue: 200,0:09:23.52,0:09:25.15,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}能做到\N{\rENG_LYC}♪ Begin to be ♪
-Dialogue: 200,0:09:25.15,0:09:28.02,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}你对我期望的一半\N{\rENG_LYC}♪ Half of what you think of me ♪
-Dialogue: 200,0:09:28.02,0:09:30.29,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我能不计一切\N{\rENG_LYC}♪ I could do about anything ♪
-Dialogue: 200,0:09:30.29,0:09:34.16,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我甚至愿学着去爱\N{\rENG_LYC}♪ I could even learn how to love ♪
-Dialogue: 200,0:09:34.16,0:09:35.93,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}当我看到\N{\rENG_LYC}♪ When I see ♪
-Dialogue: 200,0:09:35.93,0:09:37.43,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}你的举止\N{\rENG_LYC}♪ The way you act ♪
-Dialogue: 200,0:09:37.43,0:09:40.30,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}期盼着我的归来\N{\rENG_LYC}♪ Wondering when I'm coming back ♪
-Dialogue: 200,0:09:40.30,0:09:42.30,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我愿倾尽一切\N{\rENG_LYC}♪ I could do about anything ♪
-Dialogue: 200,0:09:42.30,0:09:46.14,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我甚至愿学着去爱\N{\rENG_LYC}♪ I could even learnhow to love ♪
-Dialogue: 200,0:09:46.14,0:09:48.17,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}像你一样\N{\rENG_LYC}♪ Like you ♪
+Dialogue: 150,0:09:22.08,0:09:25.19,Background Dialogue,,0,0,0,,{\rCHS_LYC}若我能开始改变\N{\rENG_LYC}If I could begin to be
+Dialogue: 150,0:09:25.19,0:09:28.03,Background Dialogue,,0,0,0,,{\rCHS_LYC}到你期望的一半\N{\rENG_LYC}Half of what you think of me
+Dialogue: 150,0:09:28.03,0:09:30.28,Background Dialogue,,0,0,0,,{\rCHS_LYC}我愿付出我的一切\N{\rENG_LYC}I could do about anything
+Dialogue: 150,0:09:30.28,0:09:33.83,Background Dialogue,,0,0,0,,{\rCHS_LYC}我甚至能学着去爱\N{\rENG_LYC}I could even learn how to love
+Dialogue: 150,0:09:34.30,0:09:37.45,Background Dialogue,,0,0,0,,{\rCHS_LYC}我看到你的举止\N{\rENG_LYC}When I see the way you act
+Dialogue: 150,0:09:37.45,0:09:40.19,Background Dialogue,,0,0,0,,{\rCHS_LYC}期盼着我的归来\N{\rENG_LYC}Wondering when I'm coming back
+Dialogue: 150,0:09:40.19,0:09:42.34,Background Dialogue,,0,0,0,,{\rCHS_LYC}我愿付出我的一切\N{\rENG_LYC}I could do about anything
+Dialogue: 150,0:09:42.34,0:09:47.36,Background Dialogue,,0,0,0,,{\rCHS_LYC}我甚至能学着去爱,如你\N{\rENG_LYC}I could even learn how to love like you
+Dialogue: 150,0:09:57.16,0:09:59.59,Background Dialogue,,0,0,0,,{\rCHS_LYC}爱,如你\N{\rENG_LYC}Love like you
+Dialogue: 150,0:10:09.79,0:10:12.76,Background Dialogue,,0,0,0,,{\rCHS_LYC}我总认为我非常卑微\N{\rENG_LYC}I always thought I might be bad
+Dialogue: 150,0:10:12.76,0:10:15.41,Background Dialogue,,0,0,0,,{\rCHS_LYC}现在深信不疑\N{\rENG_LYC}Now I'm sure that it's true
+Dialogue: 150,0:10:15.83,0:10:18.85,Background Dialogue,,0,0,0,,{\rCHS_LYC}因你如此完美\N{\rENG_LYC}'cause I think you're so good
+Dialogue: 150,0:10:19.32,0:10:21.83,Background Dialogue,,0,0,0,,{\rCHS_LYC}而我一点不如\N{\rENG_LYC}And I'm nothing like you
+Dialogue: 150,0:10:21.83,0:10:25.45,Background Dialogue,,0,0,0,,{\rCHS_LYC}你的举止,我都很欣赏\N{\rENG_LYC}Look at you go, I just adore you
+Dialogue: 150,0:10:25.45,0:10:28.34,Background Dialogue,,0,0,0,,{\rCHS_LYC}我希望知道\N{\rENG_LYC}I wish that I knew
+Dialogue: 150,0:10:28.34,0:10:34.21,Background Dialogue,,0,0,0,,{\rCHS_LYC}为什么认为我特殊\N{\rENG_LYC}What makes you think I'm so special
+Dialogue: 600,0:09:22.35,0:09:24.35,Hint,,0,0,0,,{\an2}这一段的设置与新世纪福音战士的结局相似
 Dialogue: 100,0:09:56.38,0:09:59.52,Normal Dialog Text,,0,0,0,,{\rCHS}为什么没有人跟我讲过粉钻的事情?\N{\rENG}How come nobody told me about Pink Diamond?
 Dialogue: 100,0:10:00.35,0:10:02.75,Normal Dialog Text,,0,0,0,,{\rCHS}战争期间我们做了很多不得已的事\N{\rENG}We all did what we had to during the war.
 Dialogue: 100,0:10:02.76,0:10:04.52,Normal Dialog Text,,0,0,0,,{\rCHS}但是现在一切都已经变了\N{\rENG}Everything's different now.
@@ -248,3 +253,4 @@ Dialogue: 100,0:10:37.06,0:10:38.69,Normal Dialog Text,,0,0,0,,{\rCHS}是的\N{\
 Dialogue: 100,0:10:43.53,0:10:45.10,Normal Dialog Text,,0,0,0,,{\rCHS}谢谢你们能告诉我\N{\rENG}Thanks for telling me.
 Dialogue: 600,0:10:48.50,0:10:51.55,Hint,,0,0,0,,整集的设定类似"金银岛"--两者都是主角与反派被困在一起，而反派试图杀死主教
 Dialogue: 600,0:10:48.50,0:10:51.55,Hint,,0,0,0,,片头的镜头设计应该是借鉴了电影"地心引力"
+Dialogue: 150,0:10:49.00,0:10:51.76,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}爱我,如你\N{\rENG_LYC}Love me like you
