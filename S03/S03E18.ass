@@ -6,201 +6,242 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
-PlayResX: 1280
-PlayResY: 720
+PlayResX: 1920
+PlayResY: 1080
 Aegisub Video Aspect Ratio: c1.777778
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: steven universe/Steven Universe S03E18 Crack The Whip HDTV-rip.Vila.eng.mp4
-Video File: steven universe/Steven Universe S03E18 Crack The Whip HDTV-rip.Vila.eng.mp4
-Video Zoom Percent: 1.000000
-Scroll Position: 139
-Active Line: 145
-Video Position: 20101
+Audio File: S03E18.mkv
+Video File: S03E18.mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 11
+Active Line: 27
+Video Position: 642
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: 720p raw eng,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,7,3,2,10,10,30,1
+Style: CHS,微软雅黑,72,&H00FFFFFF,&H000000FF,&H00171717,&H00171717,0,0,0,0,100,100,0,0,1,6,3,2,10,10,10,1
+Style: CHS_BKG,微软雅黑,54,&H00FFFFFF,&H000000FF,&H00171717,&H00171717,0,0,0,0,100,100,0,0,1,4,2,2,10,10,10,1
+Style: SU Team Background,Arial,20,&H00FCFCFC,&H000000FF,&H00000000,&H00EAF4D5,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Label Trans,微软雅黑,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: ENG_LYC,Arial,48,&H00FFFFFF,&H000000FF,&H00171717,&H00171717,0,0,0,0,100,100,0,0,1,6,3,2,10,10,10,1
+Style: SU Claim,方正粗圆_GBK,48,&H00F0F0F0,&H00FFFFFF,&H00151515,&H00DBE0C9,0,0,0,0,100,100,0,0,1,3,0,8,10,10,20,1
+Style: Song Lyrics Text,华文楷体,20,&H00EAEAEA,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: CHS_LYC,华文楷体,72,&H00FFFFFF,&H000000FF,&H00171717,&H00171717,0,0,0,0,100,100,0,0,1,6,3,2,10,10,10,1
+Style: SU Team Title,方正粗圆_GBK,48,&H00B299D6,&H00FFFFFF,&H00FFFFFF,&H00DBE0C9,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Background Dialogue,微软雅黑,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
+Style: ENG,Arial,48,&H00FFFFFF,&H000000FF,&H00171717,&H00171717,0,0,0,0,100,100,0,0,1,6,3,2,10,10,10,1
+Style: SU Team Member,方正粗圆_GBK,48,&H00AB8F70,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: SU Title,方正粗圆_GBK,160,&H00C292F7,&H000000FF,&H00FBFBFC,&H00ECF2DA,0,0,0,0,100,100,0,0,1,12,4,2,10,10,10,1
+Style: ENG_BKG,Arial,36,&H00FFFFFF,&H000000FF,&H00171717,&H00171717,0,0,0,0,100,100,0,0,1,4,2,2,10,10,10,1
+Style: Normal Dialog Text,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,4,2,10,10,30,1
+Style: Hint,微软雅黑,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:03.57,0:00:08.00,Default,,0,0,0,,翻译 牙牙 右翼部鸣明 校对 Linn Husky 草草
-Dialogue: 0,0:00:08.00,0:00:12.00,Default,,0,0,0,,时间轴 SG 填字 右翼部鸣明Matisse
-Dialogue: 0,0:00:12.00,0:00:16.00,Default,,0,0,0,,资源搬运 yoyo 文本处理 谷子 yoyo
-Dialogue: 0,0:00:26.60,0:00:28.95,720p raw eng,,0,0,0,,史蒂文 我们可能要离开一段时间\NAll right, we may be a while.
-Dialogue: 0,0:00:28.96,0:00:30.54,720p raw eng,,0,0,0,,可是...紫晶！\NBut --Amethyst!
-Dialogue: 0,0:00:30.54,0:00:32.88,720p raw eng,,0,0,0,,啥事？我忙着呢ˊ_>ˋ\NWhat? I'm busy.
-Dialogue: 0,0:00:32.88,0:00:35.24,720p raw eng,,0,0,0,,紫晶，保持警惕\NAmethyst,hold down the fort.
-Dialogue: 0,0:00:35.25,0:00:36.88,720p raw eng,,0,0,0,,知道啦～长官\NAye, aye, Captain.
-Dialogue: 0,0:00:36.88,0:00:39.16,720p raw eng,,0,0,0,,我负责期间绝不会有任何意外\NNo surprises while I'm on duty.
-Dialogue: 0,0:00:39.17,0:00:40.25,720p raw eng,,0,0,0,,啥！\NWha--!
-Dialogue: 0,0:00:40.25,0:00:42.02,720p raw eng,,0,0,0,,萨普莱斯!我早到啦～\NSurprise! I'm early!
-Dialogue: 0,0:00:42.02,0:00:45.35,720p raw eng,,0,0,0,,我刚想告诉你 康妮约好了在今天进行剑术训练的\NI was trying to tell you Connie has sword training today.
-Dialogue: 0,0:00:45.36,0:00:47.66,720p raw eng,,0,0,0,,OMG 我全忘了！\NOh! I completely forgot.
-Dialogue: 0,0:00:47.66,0:00:49.56,720p raw eng,,0,0,0,,非常抱歉 康妮\NI'm so sorry, Connie.
-Dialogue: 0,0:00:49.56,0:00:52.59,720p raw eng,,0,0,0,,噗嗤 ，“珍”不靠谱\N Very irresponsible, Pearl.
-Dialogue: 0,0:00:52.60,0:00:53.56,720p raw eng,,0,0,0,,哼\N Mnh.
-Dialogue: 0,0:00:53.56,0:00:55.30,720p raw eng,,0,0,0,,你们是要去找铁石英吗？\NIs this because of Jasper?
-Dialogue: 0,0:00:55.30,0:00:56.57,720p raw eng,,0,0,0,,要调头去北方吗？\NAre you headed back north?
-Dialogue: 0,0:00:56.57,0:00:58.27,720p raw eng,,0,0,0,,她依然在四处活动\NShe's on the move.
-Dialogue: 0,0:00:58.27,0:00:59.90,720p raw eng,,0,0,0,,我们不能任由\NWe can't have her just out there,
-Dialogue: 0,0:00:59.90,0:01:02.80,720p raw eng,,0,0,0,,她到处刷怪！\Nattacking random monsters for whatever reason.
-Dialogue: 0,0:01:02.81,0:01:05.27,720p raw eng,,0,0,0,,当然了！注意安全喔\NOf course. Be safe.
-Dialogue: 0,0:01:05.28,0:01:06.68,720p raw eng,,0,0,0,,那可是我的专属台词\NThat's my line.
-Dialogue: 0,0:01:06.68,0:01:08.58,720p raw eng,,0,0,0,,紫晶？-知道啦\NAmethyst? Got it.
-Dialogue: 0,0:01:08.58,0:01:09.88,720p raw eng,,0,0,0,,我们下周再进行训练吧\NWe'll train next week
-Dialogue: 0,0:01:09.88,0:01:12.25,720p raw eng,,0,0,0,,只要铁石英不再让我们头疼\Nwithout Jasper hanging over our heads.
-Dialogue: 0,0:01:12.25,0:01:13.75,720p raw eng,,0,0,0,,这是最理想的了\NBest-case scenario.
-Dialogue: 0,0:01:15.29,0:01:18.87,720p raw eng,,0,0,0,,你们这些幸运的家伙，逃过了训练日！\NLucky break for you guys --You get the training day off.
-Dialogue: 0,0:01:18.87,0:01:20.84,720p raw eng,,0,0,0,,所以 接下来你们想干啥？\NSo, what do you want to do?
-Dialogue: 0,0:01:30.50,0:01:31.77,720p raw eng,,0,0,0,,噢？哈？\NOh? Huh?
-Dialogue: 0,0:01:31.77,0:01:33.67,720p raw eng,,0,0,0,,嘿 你开挂！\NHey, no fair.
-Dialogue: 0,0:01:33.67,0:01:37.22,720p raw eng,,0,0,0,,嘿嘿 紫晶 你看见那招了吗？\N Hey, Amethyst, did you see that?
-Dialogue: 0,0:01:37.22,0:01:39.73,720p raw eng,,0,0,0,,紫晶？\NAmethyst?
-Dialogue: 0,0:01:39.73,0:01:41.56,720p raw eng,,0,0,0,,咋了？\N'Sup?
-Dialogue: 0,0:01:41.56,0:01:44.11,720p raw eng,,0,0,0,,你有在看我们训练吗？\NAre you even watching?
-Dialogue: 0,0:01:44.12,0:01:45.91,720p raw eng,,0,0,0,,当然咯 不然你觉得我在干嘛\NSure. What's it look like?
-Dialogue: 0,0:01:45.92,0:01:48.35,720p raw eng,,0,0,0,,我觉得你没在看\NLike you're not watching.
-Dialogue: 0,0:01:48.35,0:01:50.42,720p raw eng,,0,0,0,,唔 尊讨厌\NOh, all right.
-Dialogue: 0,0:01:50.42,0:01:51.99,720p raw eng,,0,0,0,,被你逮到了\NYou got me.
-Dialogue: 0,0:01:53.21,0:01:54.52,720p raw eng,,0,0,0,,现在好多了吧～\NIs that better?
-Dialogue: 0,0:01:54.53,0:01:57.36,720p raw eng,,0,0,0,,噫！-好恶\NEw! Gross. Ew! Gross.
-Dialogue: 0,0:01:57.36,0:01:58.83,720p raw eng,,0,0,0,,但是-唔 确实好多了\NBut, yeah, that's better.
-Dialogue: 0,0:01:58.83,0:02:01.23,720p raw eng,,0,0,0,,来吧康妮  我们从头再来一遍\NCome on, Connie. Let's take it from the top.
-Dialogue: 0,0:02:01.23,0:02:02.25,720p raw eng,,0,0,0,,好的！\N Okay!
-Dialogue: 0,0:02:14.35,0:02:16.26,720p raw eng,,0,0,0,,你看到了吗？\N Did you see  that?
-Dialogue: 0,0:02:16.26,0:02:19.21,720p raw eng,,0,0,0,,噢 那！\NExcellent! Amazing!
-Dialogue: 0,0:02:19.22,0:02:21.07,720p raw eng,,0,0,0,,珍是极好的\NPearl-fect.
-Dialogue: 0,0:02:22.05,0:02:25.72,720p raw eng,,0,0,0,,没有啦/w\ \NOhh. I don't know. Not really.
-Dialogue: 0,0:02:25.72,0:02:29.42,720p raw eng,,0,0,0,,我的站姿完全是错的-力度也不够！\NMy stance is all wrong, and my grip is a little soft.
-Dialogue: 0,0:02:30.61,0:02:33.00,720p raw eng,,0,0,0,,你为什么要纠结于这些小事？\NWhat are you worried about that little stuff for?
-Dialogue: 0,0:02:33.00,0:02:35.40,720p raw eng,,0,0,0,,在战场上 这些根本无关紧要\NIt's not gonna matter in a real fight.
-Dialogue: 0,0:02:35.40,0:02:36.97,720p raw eng,,0,0,0,,但这确实很重要\NIt does, though.
-Dialogue: 0,0:02:36.97,0:02:40.17,720p raw eng,,0,0,0,,我毁掉了我第一次魔法任务\NI blew it on my first real magical mission.
-Dialogue: 0,0:02:40.17,0:02:44.24,720p raw eng,,0,0,0,,我直面那只宝石怪兽 却手足无措\NI was face-to-face with a monster, and I froze.
-Dialogue: 0,0:02:44.24,0:02:49.81,720p raw eng,,0,0,0,,我之前用心一点训练的话 那次任务就不会失败了\NMaybe if I'd trained a little harder, I could have handled it.
-Dialogue: 0,0:02:49.81,0:02:53.02,720p raw eng,,0,0,0,,在我看来 你就是想的太多了\NSounds to me like you're too in your own head.
-Dialogue: 0,0:02:53.02,0:02:56.08,720p raw eng,,0,0,0,,真正战斗的时候-每一秒都是难以预测的\NIn a fight, you never know what's gonna happen.
-Dialogue: 0,0:02:56.09,0:02:57.75,720p raw eng,,0,0,0,,你只有临场发挥\NYou just got to go with it.
-Dialogue: 0,0:02:57.75,0:02:59.77,720p raw eng,,0,0,0,,不然你怎么能为那些\NHow can you get ready when you don't even know
-Dialogue: 0,0:02:59.77,0:03:02.06,720p raw eng,,0,0,0,,你根本不知道的事做准备？what you're getting ready for, huh?
-Dialogue: 0,0:03:02.06,0:03:04.36,720p raw eng,,0,0,0,,没错 根本没有时间准备\NYeah, you can't be ready.
-Dialogue: 0,0:03:04.36,0:03:06.30,720p raw eng,,0,0,0,,你唯一需要做的事情 就是 放～轻～松～\NWhat you got to be is loose.
-Dialogue: 0,0:03:08.13,0:03:09.70,720p raw eng,,0,0,0,,我也想放轻松！\NI want to be loose!
-Dialogue: 0,0:03:09.70,0:03:11.27,720p raw eng,,0,0,0,,然后你就可以跟着感觉走了！\NThen you got to go with the flow.
-Dialogue: 0,0:03:11.27,0:03:14.80,720p raw eng,,0,0,0,,战斗靠的就是肚子深处的那种感觉！！\NFighting's all about that feeling deep in your guts.
-Dialogue: 0,0:03:14.81,0:03:16.77,720p raw eng,,0,0,0,,你的肚肚感觉怎么样？\NWhat do your guts feel like?!
-Dialogue: 0,0:03:18.98,0:03:20.18,720p raw eng,,0,0,0,,饿！\NHungry.
-Dialogue: 0,0:03:21.41,0:03:22.74,720p raw eng,,0,0,0,,我也一样\NMine, too.
-Dialogue: 0,0:03:22.75,0:03:25.15,720p raw eng,,0,0,0,,来点零食！来点零食！\N Snack break. Snack break.
-Dialogue: 0,0:03:25.15,0:03:28.75,720p raw eng,,0,0,0,,唔 我们的训练需要进食来补充能量\NWell, we do need energy to practice.
-Dialogue: 0,0:03:28.75,0:03:33.19,720p raw eng,,0,0,0,,来点零食！来点零食！来点零食！\N Snack break! Snack break!Snack break! Snack break!
-Dialogue: 0,0:03:36.48,0:03:38.79,720p raw eng,,0,0,0,,谁要吃甜甜圈？\NWho wants doughnuts?
-Dialogue: 0,0:03:38.80,0:03:40.96,720p raw eng,,0,0,0,,我要我要！也许一个就够了\NI do! Maybe just one!
-Dialogue: 0,0:03:40.96,0:03:43.52,720p raw eng,,0,0,0,,OK 我请客\NGreat.It's on me.
-Dialogue: 0,0:03:43.52,0:03:45.77,720p raw eng,,0,0,0,,像一个汉堡\N♪ Like a burger ♪
-Dialogue: 0,0:03:45.77,0:03:48.32,720p raw eng,,0,0,0,,马上就来！\NBe right there!
-Dialogue: 0,0:03:48.32,0:03:52.32,720p raw eng,,0,0,0,,欢迎光临大甜甜圈！想来点什-----哈？\NWelcome to the Big Donut. How can I hel-- Wha-- Huh?
-Dialogue: 0,0:03:52.33,0:03:54.69,720p raw eng,,0,0,0,,呦～甜甜圈女孩儿\NHey, donut girl.
-Dialogue: 0,0:03:54.70,0:03:57.03,720p raw eng,,0,0,0,,是我 甜甜圈男孩\NIt's me, Donut Boy.
-Dialogue: 0,0:03:57.03,0:04:00.12,720p raw eng,,0,0,0,,介意我拿几个酥脆甜甜圈吗？\NYou mind if I grab a couple of crullers?
-Dialogue: 0,0:04:00.12,0:04:03.95,720p raw eng,,0,0,0,,拿了也没关系，我就在这工作呢！\NIt's cool.I totally work here.
-Dialogue: 0,0:04:03.95,0:04:04.70,720p raw eng,,0,0,0,,什么情况.....\NWhat the...
-Dialogue: 0,0:04:04.71,0:04:05.92,720p raw eng,,0,0,0,,莎蒂 抱歉\NSorry, Sadie.
-Dialogue: 0,0:04:05.92,0:04:07.67,720p raw eng,,0,0,0,,紫晶又用\NIt's just Amethyst bein' Amethyst
-Dialogue: 0,0:04:07.68,0:04:09.84,720p raw eng,,0,0,0,,她的一贯作风捣乱了\Nby not...bein' Amethyst.
-Dialogue: 0,0:04:09.84,0:04:11.51,720p raw eng,,0,0,0,, 没关系的 史蒂文\NEh, it's no problem, Steven.
-Dialogue: 0,0:04:11.51,0:04:13.26,720p raw eng,,0,0,0,,只是一点甜甜圈罢了\NIt's just a couple of donuts.
-Dialogue: 0,0:04:15.63,0:04:17.67,720p raw eng,,0,0,0,,！(◎_◎;)好吧 这可是个大问题 \NOkay,maybe it's a problem.
-Dialogue: 0,0:05:12.41,0:05:15.32,720p raw eng,,0,0,0,,来呀\NCome on!
-Dialogue: 0,0:05:15.33,0:05:17.94,720p raw eng,,0,0,0,,快来吧\NCome on!
-Dialogue: 0,0:05:17.95,0:05:20.41,720p raw eng,,0,0,0,,我没有带泳衣啦\NI didn't bring a swimsuit!
-Dialogue: 0,0:05:20.41,0:05:22.11,720p raw eng,,0,0,0,,在战斗的热潮中\NIn the heat of battle,
-Dialogue: 0,0:05:22.12,0:05:25.57,720p raw eng,,0,0,0,,你是不会有什么泳衣的 康妮\Nyou're not gonna have a swimsuit, Connie.
-Dialogue: 0,0:05:25.57,0:05:28.25,720p raw eng,,0,0,0,,我的老天 你说的太对了\NBy Jove, I guess you're right.
-Dialogue: 0,0:05:30.37,0:05:33.51,720p raw eng,,0,0,0,,我从来不记得哪天我有这么开心过\NI don't think I've ever had this much fun in one day.
-Dialogue: 0,0:05:35.35,0:05:37.68,720p raw eng,,0,0,0,,我们应该经常找紫晶玩\NWe should spend more time with Amethyst.
-Dialogue: 0,0:05:37.68,0:05:38.93,720p raw eng,,0,0,0,,她最棒了\NShe's the best!
-Dialogue: 0,0:05:38.93,0:05:40.42,720p raw eng,,0,0,0,,你才最棒\NYou're  the best.
-Dialogue: 0,0:05:40.42,0:05:42.18,720p raw eng,,0,0,0,,不不不 你才最棒\NNuh-uh, you're the best.
-Dialogue: 0,0:06:00.79,0:06:04.32,720p raw eng,,0,0,0,,呃 我也还记得你呢 哥们儿\NUhhh... I remember you, too, buddy.
-Dialogue: 0,0:06:26.06,0:06:28.13,720p raw eng,,0,0,0,,紫晶 你刚才太给力了\NAmethyst, that was amazing!
-Dialogue: 0,0:06:28.13,0:06:29.82,720p raw eng,,0,0,0,,哇 你没事儿吧\NWhoa! Are you okay?
-Dialogue: 0,0:06:29.82,0:06:33.15,720p raw eng,,0,0,0,,赢得不太漂亮 不过无所谓啦\NNot a pretty win, but I'll take it.
-Dialogue: 0,0:06:33.15,0:06:35.82,720p raw eng,,0,0,0,,这就是那天我们在雪地里打过的怪兽\NThat was the monster we fought in the snow.
-Dialogue: 0,0:06:35.82,0:06:38.07,720p raw eng,,0,0,0,,起码…看上去是的\NAt least, it looked like it was.
-Dialogue: 0,0:06:38.08,0:06:40.58,720p raw eng,,0,0,0,,我觉得你没认错\NI think you'd remember a face like that.
-Dialogue: 0,0:06:40.58,0:06:42.66,720p raw eng,,0,0,0,,呃 当初是有两只\NWell, there were two of them.
-Dialogue: 0,0:06:42.66,0:06:44.83,720p raw eng,,0,0,0,,两只\NTwo of them?
-Dialogue: 0,0:06:48.67,0:06:50.62,720p raw eng,,0,0,0,,玫瑰\NRose.
-Dialogue: 0,0:06:50.62,0:06:51.65,720p raw eng,,0,0,0,,铁石英\NJasper!
-Dialogue: 0,0:06:51.66,0:06:53.21,720p raw eng,,0,0,0,,找到你真是令人喜悦啊\NGlad I found you.
-Dialogue: 0,0:06:53.21,0:06:55.62,720p raw eng,,0,0,0,,我已经决定要建立我自己的军队了\NI've decided to build my own army.
-Dialogue: 0,0:06:55.63,0:06:57.76,720p raw eng,,0,0,0,,你的又在哪\NWhere's the rest of yours?
-Dialogue: 0,0:06:57.76,0:06:59.46,720p raw eng,,0,0,0,,她们现在不在这儿\NThey're not here right now!
-Dialogue: 0,0:06:59.46,0:07:00.60,720p raw eng,,0,0,0,,嘘\NShh!
-Dialogue: 0,0:07:00.60,0:07:02.30,720p raw eng,,0,0,0,,那么就只有你们了\NSo, it's just you lot?
-Dialogue: 0,0:07:02.30,0:07:03.77,720p raw eng,,0,0,0,,那又如何\NDoesn't matter.
-Dialogue: 0,0:07:03.77,0:07:07.14,720p raw eng,,0,0,0,,我自己照样可以抽得你满地滚\NI'm gonna whip your butt all by myself!
-Dialogue: 0,0:07:10.47,0:07:13.17,720p raw eng,,0,0,0,,铁石英交给我 你们去搞定那玩意\NI got Jasper. You guys handle that dope.
-Dialogue: 0,0:07:13.18,0:07:16.73,720p raw eng,,0,0,0,,好了 这是我们第二次的机会\NOkay, we get a second chance at this.
-Dialogue: 0,0:07:16.73,0:07:18.36,720p raw eng,,0,0,0,,我们只需要团结一致\NJust stay together.
-Dialogue: 0,0:07:19.48,0:07:23.07,720p raw eng,,0,0,0,,我是来和玫瑰决斗的 而非你这侏儒\NI came here to fight Rose, not some runt!
-Dialogue: 0,0:07:23.07,0:07:25.19,720p raw eng,,0,0,0,,你认为你现在就只能不断\NYou think you can just keep showing up
-Dialogue: 0,0:07:25.19,0:07:27.52,720p raw eng,,0,0,0,,冒出来寻衅打架 哈\Nand picking fights with us?! Ha!
-Dialogue: 0,0:07:27.52,0:07:29.32,720p raw eng,,0,0,0,,你就不能去享受下生活吗\NWhy don't you get a life?!
-Dialogue: 0,0:07:29.33,0:07:31.38,720p raw eng,,0,0,0,,战斗就是我生活的全部\NFighting is my life!
-Dialogue: 0,0:07:31.38,0:07:33.16,720p raw eng,,0,0,0,,我为此而生\NIt's what I was made for.
-Dialogue: 0,0:07:33.16,0:07:36.03,720p raw eng,,0,0,0,,你也一样 侏儒\NIt's what you were made for too, runt.
-Dialogue: 0,0:07:36.03,0:07:38.55,720p raw eng,,0,0,0,,那又怎样 我的生活可是无比丰富多彩\NSo? I've got other stuff goin' on.
-Dialogue: 0,0:07:38.55,0:07:40.55,720p raw eng,,0,0,0,,是因为你觉得你自己已经是个失败者了吗\NIt is because you know you're already a failure?
-Dialogue: 0,0:07:53.07,0:07:55.43,720p raw eng,,0,0,0,,你压根没尽力\NYou're not even trying.
-Dialogue: 0,0:07:55.44,0:07:59.05,720p raw eng,,0,0,0,,是因为你觉得自己已经是个失败者了吗\NIs it because you know you're already a failure?
-Dialogue: 0,0:07:59.06,0:08:01.86,720p raw eng,,0,0,0,,你和我一样 都是石英战士\NYou're a Quartz Soldier, just like me.
-Dialogue: 0,0:08:01.86,0:08:04.76,720p raw eng,,0,0,0,,但是你跟我一点都不像 不是吗\NBut you're not like me, are you?
-Dialogue: 0,0:08:06.53,0:08:08.86,720p raw eng,,0,0,0,,你太渺小了\NYou're small!
-Dialogue: 0,0:08:10.92,0:08:12.37,720p raw eng,,0,0,0,,紫晶\NAmethyst?!
-Dialogue: 0,0:08:12.37,0:08:15.34,720p raw eng,,0,0,0,,你已经渴望一支军队渴望到了\NAre you that desperate for troops, Rose,
-Dialogue: 0,0:08:15.34,0:08:17.87,720p raw eng,,0,0,0,,连这种残废都要留着的地步吗 玫瑰\Nthat you keep a defect like this?!
-Dialogue: 0,0:08:17.88,0:08:22.79,720p raw eng,,0,0,0,,玫瑰说了…这样的我…是最完美的\NRose said...I'm perfect... the way I am.
-Dialogue: 0,0:08:22.80,0:08:25.51,720p raw eng,,0,0,0,,那她的眼光可有够低的\NThen she had low standards.
-Dialogue: 0,0:08:27.55,0:08:29.80,720p raw eng,,0,0,0,,你…本可以成为与我一样的存在\NYou...could have been me!
-Dialogue: 0,0:08:32.59,0:08:35.31,720p raw eng,,0,0,0,,但是看看现在的你算什么东西\NAnd what are you instead?
-Dialogue: 0,0:08:35.31,0:08:37.89,720p raw eng,,0,0,0,,紫晶\NAmethyst!
-Dialogue: 0,0:08:37.90,0:08:40.11,720p raw eng,,0,0,0,,不过是个笑话而已\NJust a joke.
-Dialogue: 0,0:08:49.61,0:08:50.97,720p raw eng,,0,0,0,,快来\NCome on!
-Dialogue: 0,0:08:50.97,0:08:53.54,720p raw eng,,0,0,0,,是时候结束这场闹剧了\NTime to get rid of this embarrassment.
-Dialogue: 0,0:08:59.08,0:09:01.75,720p raw eng,,0,0,0,,你们融合了？！\NYou fused?!
-Dialogue: 0,0:09:01.75,0:09:02.92,720p raw eng,,0,0,0,,哇\NWhoa!
-Dialogue: 0,0:09:02.92,0:09:04.39,720p raw eng,,0,0,0,,我-我融合了\NI-I did.
-Dialogue: 0,0:09:04.39,0:09:07.51,720p raw eng,,0,0,0,,你们水晶宝石居然还跟人类融合\NYou Crystal Gems would even fuse with a human?!
-Dialogue: 0,0:09:07.51,0:09:10.63,720p raw eng,,0,0,0,,我不想再听你的一句废话\NI don't want to hear anything you say
-Dialogue: 0,0:09:10.63,0:09:12.59,720p raw eng,,0,0,0,,除非你准备道歉\Nunless it's, "Sorry."
-Dialogue: 0,0:09:22.81,0:09:23.94,720p raw eng,,0,0,0,,你给我回来 败家玩意\NOh, no, you don't.
-Dialogue: 0,0:09:28.78,0:09:31.36,720p raw eng,,0,0,0,,在这等着 我会保护你的\NWait here. I'll protect you.
-Dialogue: 0,0:09:32.82,0:09:35.87,720p raw eng,,0,0,0,,一对一 我喜欢\NHead-to-head, just like I like it.
-Dialogue: 0,0:09:35.87,0:09:37.75,720p raw eng,,0,0,0,,准备好了就尽管上吧\NReady when you are.
-Dialogue: 0,0:10:02.70,0:10:04.31,720p raw eng,,0,0,0,,史蒂文 康妮 我回来了\NSteven, Connie, I'm back!
-Dialogue: 0,0:10:04.31,0:10:06.70,720p raw eng,,0,0,0,,呃 一切都会没事 \N--Uh, everything's gonna be fi--
-Dialogue: 0,0:10:13.69,0:10:15.66,720p raw eng,,0,0,0,,融合 融合\NFusion! Fusion!
-Dialogue: 0,0:10:15.66,0:10:17.88,720p raw eng,,0,0,0,,又特么是融合\NIt's always fusion!
-Dialogue: 0,0:10:17.88,0:10:20.36,720p raw eng,,0,0,0,,你准备好道歉了没\NAre you ready to apologize?
-Dialogue: 0,0:10:20.36,0:10:22.73,720p raw eng,,0,0,0,,这只是热身\NThis was just a warm-up.
-Dialogue: 0,0:10:22.73,0:10:25.00,720p raw eng,,0,0,0,,我还会回来的 玫瑰\NGet ready for next time, Rose.
-Dialogue: 0,0:10:25.00,0:10:26.60,720p raw eng,,0,0,0,,俺们铁石英从来不会放弃\NJaspers don't give up!
-Dialogue: 0,0:10:26.60,0:10:31.17,720p raw eng,,0,0,0,,谁也阻止不了俺们铁石英…得到俺们想要的东西\NJaspers keep going... until we get what we want.
-Dialogue: 0,0:10:31.17,0:10:33.17,720p raw eng,,0,0,0,,我想她现在可算是住海里了\NHmm. I guess she lives in the ocean now.
-Dialogue: 1,0:10:41.72,0:10:43.07,720p raw eng,,0,0,0,,你们…赢了\NYou guys...won?
-Dialogue: 0,0:10:44.27,0:10:46.10,720p raw eng,,0,0,0,,-你回来了 -你没事\NYou're back! You're okay!
-Dialogue: 0,0:10:46.11,0:10:47.44,720p raw eng,,0,0,0,,谢天谢地\NThank goodness!
-Dialogue: 0,0:10:47.44,0:10:49.89,720p raw eng,,0,0,0,,呃 谢谢了伙计们\NUh, thank you,guys.
-Dialogue: 0,0:10:49.89,0:10:52.28,720p raw eng,,0,0,0,,你刚才看见我们了吗 就真的像你说的\N--Did you see us? It was just like you said --
-Dialogue: 0,0:10:52.28,0:10:54.45,720p raw eng,,0,0,0,,你陷入麻烦 我们只要战斗就行了\Nyou were in trouble, and we just had to fight!
-Dialogue: 0,0:10:54.45,0:10:56.83,720p raw eng,,0,0,0,,我们所知的一切就会自动拼凑在一起\NEverything we knew just came together.
-Dialogue: 0,0:10:56.83,0:10:58.03,720p raw eng,,0,0,0,,我们融合了\NWe fused!
-Dialogue: 0,0:10:58.04,0:10:59.53,720p raw eng,,0,0,0,,然后我们就赢了\NWe won!
-Dialogue: 0,0:10:59.54,0:11:01.12,720p raw eng,,0,0,0,,我等不及要告诉其他人了！\NI can't wait to tell the others!
-Dialogue: 0,0:11:03.51,0:11:05.37,720p raw eng,,0,0,0,,噢 太好了\NOh, good.
-Dialogue: 0,0:11:07.21,0:11:10.13,720p raw eng,,0,0,0,,你们根本不需要我\NYou didn't need me at all.
+Dialogue: 150,0:00:01.00,0:00:03.50,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们，是水晶\N{\rENG_LYC}♪ We ♪ are the crystal
+Dialogue: 150,0:00:03.51,0:00:04.48,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}战士\N{\rENG_LYC}♪ gems
+Dialogue: 150,0:00:04.48,0:00:06.94,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们总能拯救世界\N{\rENG_LYC}♪ we'll always save the day
+Dialogue: 150,0:00:06.94,0:00:09.42,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}如果你认为我们不行\N{\rENG_LYC}♪ and if you think we can't, ♪
+Dialogue: 150,0:00:09.42,0:00:12.28,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们总能找到方法\N{\rENG_LYC}♪ we'll always find a way
+Dialogue: 150,0:00:12.28,0:00:13.94,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}这就是为什么这个世界\N{\rENG_LYC}♪ that's why the people
+Dialogue: 150,0:00:13.94,0:00:16.04,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}的人\N{\rENG_LYC}♪ of this world
+Dialogue: 150,0:00:16.04,0:00:17.78,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}相信\N{\rENG_LYC}♪ believe in
+Dialogue: 150,0:00:17.78,0:00:18.44,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}石榴\N{\rENG_LYC}♪ Garnet
+Dialogue: 150,0:00:18.44,0:00:19.74,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}紫晶\N{\rENG_LYC}♪ Amethyst
+Dialogue: 150,0:00:19.74,0:00:21.20,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}和珍珠\N{\rENG_LYC}♪ and Pearl
+Dialogue: 150,0:00:21.22,0:00:22.54,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}和史蒂文！\N{\rENG_LYC}and Steven!
+Dialogue: 1,0:00:23.77,0:00:25.27,SU Title,,0,0,0,,{\xshad-0\yshad12\pos(1692,498)}挥鞭\N示警
+Dialogue: 1,0:00:25.27,0:00:26.77,SU Claim,,0,0,0,,欢迎关注微博@UUU字幕组，获取最新熟肉信息！
+Dialogue: 1,0:00:25.27,0:00:26.77,SU Team Title,,0,0,0,,{\pos(1725,260)}出品
+Dialogue: 1,0:00:25.27,0:00:26.77,SU Team Member,,0,0,0,,{\pos(1725,320)}UUU字幕组
+Dialogue: 1,0:00:25.27,0:00:26.77,SU Team Title,,0,0,0,,{\pos(1725,380)}翻译
+Dialogue: 1,0:00:25.27,0:00:26.77,SU Team Member,,0,0,0,,{\pos(1725,440)}牙牙/右翼部鸣明
+Dialogue: 1,0:00:25.27,0:00:26.77,SU Team Title,,0,0,0,,{\pos(1725,500)}校对
+Dialogue: 1,0:00:25.27,0:00:26.77,SU Team Member,,0,0,0,,{\pos(1725,560)}Linn/Husky/草草
+Dialogue: 1,0:00:25.27,0:00:26.77,SU Team Title,,0,0,0,,{\pos(1725,620)}特效
+Dialogue: 1,0:00:25.27,0:00:26.77,SU Team Member,,0,0,0,,{\pos(1725,680)}presisco
+Dialogue: 1,0:00:25.27,0:00:26.77,SU Team Title,,0,0,0,,{\pos(1725,740)}压制
+Dialogue: 1,0:00:25.27,0:00:26.77,SU Team Member,,0,0,0,,{\pos(1725,800)}presisco
+Dialogue: 0,0:00:25.27,0:00:26.77,SU Team Background,,0,0,0,,{\bord0\xshad-0\yshad16\pos(1725,860)}{\p1}m -1 122 b -1 -19 -19 -1 122 -1 l 251 -1 b 390 -1 377 -19 377 122 l 377 500 b 377 642 390 628 251 628 l 122 628 b -19 628 -1 642 -1 500 l -1 122 {\p0}
+Dialogue: 1,0:00:25.27,0:00:26.77,Hint,,0,0,0,,时间轴 SG 填字 右翼部鸣明Matisse
+Dialogue: 1,0:00:25.27,0:00:26.77,Hint,,0,0,0,,文本处理 谷子 yoyo
+Dialogue: 600,0:00:26.77,0:00:28.77,Hint,,0,0,0,,Crack the Whip在美国俚语中是上级对下级口头警告的意思，同时也是一种户外定位游戏
+Dialogue: 100,0:00:28.30,0:00:30.65,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文 我们可能要离开一段时间\N{\rENG}All right, we may be a while.
+Dialogue: 100,0:00:30.66,0:00:32.24,Normal Dialog Text,,0,0,0,,{\rCHS}可是...紫晶!\N{\rENG}But --Amethyst!
+Dialogue: 100,0:00:32.24,0:00:34.58,Normal Dialog Text,,0,0,0,,{\rCHS}啥事?我忙着呢ˊ_>ˋ\N{\rENG}What? I'm busy.
+Dialogue: 100,0:00:34.58,0:00:36.94,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶,保持警惕\N{\rENG}Amethyst,hold down the fort.
+Dialogue: 100,0:00:36.95,0:00:38.58,Normal Dialog Text,,0,0,0,,{\rCHS}知道啦～长官\N{\rENG}Aye, aye, Captain.
+Dialogue: 100,0:00:38.58,0:00:40.86,Normal Dialog Text,,0,0,0,,{\rCHS}我负责期间绝不会有任何意外\N{\rENG}No surprises while I'm on duty.
+Dialogue: 100,0:00:40.87,0:00:41.95,Normal Dialog Text,,0,0,0,,{\rCHS}啥!\N{\rENG}Wha--!
+Dialogue: 100,0:00:41.95,0:00:43.72,Normal Dialog Text,,0,0,0,,{\rCHS}萨普莱斯!我早到啦～\N{\rENG}Surprise! I'm early!
+Dialogue: 100,0:00:43.72,0:00:47.05,Normal Dialog Text,,0,0,0,,{\rCHS}我刚想告诉你 康妮约好了在今天进行剑术训练的\N{\rENG}I was trying to tell you Connie has sword training today.
+Dialogue: 100,0:00:47.06,0:00:49.36,Normal Dialog Text,,0,0,0,,{\rCHS}OMG 我全忘了!\N{\rENG}Oh! I completely forgot.
+Dialogue: 100,0:00:49.36,0:00:51.26,Normal Dialog Text,,0,0,0,,{\rCHS}非常抱歉 康妮\N{\rENG}I'm so sorry, Connie.
+Dialogue: 100,0:00:51.26,0:00:54.29,Normal Dialog Text,,0,0,0,,{\rCHS}噗嗤 ,"珍"不靠谱\N{\rENG} Very irresponsible, Pearl.
+Dialogue: 100,0:00:54.30,0:00:55.26,Normal Dialog Text,,0,0,0,,{\rCHS}哼\N{\rENG} Mnh.
+Dialogue: 100,0:00:55.26,0:00:57.00,Normal Dialog Text,,0,0,0,,{\rCHS}你们是要去找铁石英吗?\N{\rENG}Is this because of Jasper?
+Dialogue: 100,0:00:57.00,0:00:58.27,Normal Dialog Text,,0,0,0,,{\rCHS}要调头去北方吗?\N{\rENG}Are you headed back north?
+Dialogue: 100,0:00:58.27,0:00:59.97,Normal Dialog Text,,0,0,0,,{\rCHS}她依然在四处活动\N{\rENG}She's on the move.
+Dialogue: 100,0:00:59.97,0:01:01.60,Normal Dialog Text,,0,0,0,,{\rCHS}我们不能任由\N{\rENG}We can't have her just out there,
+Dialogue: 100,0:01:01.60,0:01:04.50,Normal Dialog Text,,0,0,0,,{\rCHS}她到处刷怪!\N{\rENG}attacking random monsters for whatever reason.
+Dialogue: 100,0:01:04.51,0:01:06.97,Normal Dialog Text,,0,0,0,,{\rCHS}当然了!注意安全喔\N{\rENG}Of course. Be safe.
+Dialogue: 100,0:01:06.98,0:01:08.38,Normal Dialog Text,,0,0,0,,{\rCHS}那可是我的专属台词\N{\rENG}That's my line.
+Dialogue: 100,0:01:08.38,0:01:10.28,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶?-知道啦\N{\rENG}Amethyst? Got it.
+Dialogue: 100,0:01:10.28,0:01:11.58,Normal Dialog Text,,0,0,0,,{\rCHS}我们下周再进行训练吧\N{\rENG}We'll train next week
+Dialogue: 100,0:01:11.58,0:01:13.95,Normal Dialog Text,,0,0,0,,{\rCHS}只要铁石英不再让我们头疼\N{\rENG}without Jasper hanging over our heads.
+Dialogue: 100,0:01:13.95,0:01:15.45,Normal Dialog Text,,0,0,0,,{\rCHS}这是最理想的了\N{\rENG}Best-case scenario.
+Dialogue: 100,0:01:16.99,0:01:20.57,Normal Dialog Text,,0,0,0,,{\rCHS}你们这些幸运的家伙,逃过了训练日!\N{\rENG}Lucky break for you guys --You get the training day off.
+Dialogue: 100,0:01:20.57,0:01:22.54,Normal Dialog Text,,0,0,0,,{\rCHS}所以 接下来你们想干啥?\N{\rENG}So, what do you want to do?
+Dialogue: 100,0:01:32.20,0:01:33.47,Normal Dialog Text,,0,0,0,,{\rCHS}噢?哈?\N{\rENG}Oh? Huh?
+Dialogue: 100,0:01:33.47,0:01:35.37,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 你开挂!\N{\rENG}Hey, no fair.
+Dialogue: 100,0:01:35.37,0:01:38.92,Normal Dialog Text,,0,0,0,,{\rCHS}嘿嘿 紫晶 你看见那招了吗?\N{\rENG} Hey, Amethyst, did you see that?
+Dialogue: 100,0:01:38.92,0:01:41.43,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶?\N{\rENG}Amethyst?
+Dialogue: 100,0:01:41.43,0:01:43.26,Normal Dialog Text,,0,0,0,,{\rCHS}咋了?\N{\rENG}'Sup?
+Dialogue: 100,0:01:43.26,0:01:45.81,Normal Dialog Text,,0,0,0,,{\rCHS}你有在看我们训练吗?\N{\rENG}Are you even watching?
+Dialogue: 100,0:01:45.82,0:01:47.61,Normal Dialog Text,,0,0,0,,{\rCHS}当然咯 不然你觉得我在干嘛\N{\rENG}Sure. What's it look like?
+Dialogue: 100,0:01:47.62,0:01:50.05,Normal Dialog Text,,0,0,0,,{\rCHS}我觉得你没在看\N{\rENG}Like you're not watching.
+Dialogue: 100,0:01:50.05,0:01:52.12,Normal Dialog Text,,0,0,0,,{\rCHS}唔 尊讨厌\N{\rENG}Oh, all right.
+Dialogue: 100,0:01:52.12,0:01:53.69,Normal Dialog Text,,0,0,0,,{\rCHS}被你逮到了\N{\rENG}You got me.
+Dialogue: 100,0:01:54.91,0:01:56.22,Normal Dialog Text,,0,0,0,,{\rCHS}现在好多了吧～\N{\rENG}Is that better?
+Dialogue: 100,0:01:56.23,0:01:59.06,Normal Dialog Text,,0,0,0,,{\rCHS}噫!-好恶\N{\rENG}Ew! Gross. Ew! Gross.
+Dialogue: 100,0:01:59.06,0:02:00.53,Normal Dialog Text,,0,0,0,,{\rCHS}但是-唔 确实好多了\N{\rENG}But, yeah, that's better.
+Dialogue: 100,0:02:00.53,0:02:02.93,Normal Dialog Text,,0,0,0,,{\rCHS}来吧康妮  我们从头再来一遍\N{\rENG}Come on, Connie. Let's take it from the top.
+Dialogue: 100,0:02:02.93,0:02:03.95,Normal Dialog Text,,0,0,0,,{\rCHS}好的!\N{\rENG} Okay!
+Dialogue: 100,0:02:16.05,0:02:17.96,Normal Dialog Text,,0,0,0,,{\rCHS}你看到了吗?\N{\rENG} Did you see  that?
+Dialogue: 100,0:02:17.96,0:02:20.91,Normal Dialog Text,,0,0,0,,{\rCHS}噢 那!\N{\rENG}Excellent! Amazing!
+Dialogue: 100,0:02:20.92,0:02:22.77,Normal Dialog Text,,0,0,0,,{\rCHS}珍是极好的\N{\rENG}Pearl-fect.
+Dialogue: 100,0:02:23.75,0:02:27.42,Normal Dialog Text,,0,0,0,,{\rCHS}没有啦/w\ \N{\rENG}Ohh. I don't know. Not really.
+Dialogue: 100,0:02:27.42,0:02:31.12,Normal Dialog Text,,0,0,0,,{\rCHS}我的站姿完全是错的-力度也不够!\N{\rENG}My stance is all wrong, and my grip is a little soft.
+Dialogue: 100,0:02:32.31,0:02:34.70,Normal Dialog Text,,0,0,0,,{\rCHS}你为什么要纠结于这些小事?\N{\rENG}What are you worried about that little stuff for?
+Dialogue: 100,0:02:34.70,0:02:37.10,Normal Dialog Text,,0,0,0,,{\rCHS}在战场上 这些根本无关紧要\N{\rENG}It's not gonna matter in a real fight.
+Dialogue: 100,0:02:37.10,0:02:38.67,Normal Dialog Text,,0,0,0,,{\rCHS}但这确实很重要\N{\rENG}It does, though.
+Dialogue: 100,0:02:38.67,0:02:41.87,Normal Dialog Text,,0,0,0,,{\rCHS}我毁掉了我第一次魔法任务\N{\rENG}I blew it on my first real magical mission.
+Dialogue: 100,0:02:41.87,0:02:45.94,Normal Dialog Text,,0,0,0,,{\rCHS}我直面那只宝石怪兽 却手足无措\N{\rENG}I was face-to-face with a monster, and I froze.
+Dialogue: 100,0:02:45.94,0:02:51.51,Normal Dialog Text,,0,0,0,,{\rCHS}我之前用心一点训练的话 那次任务就不会失败了\N{\rENG}Maybe if I'd trained a little harder, I could have handled it.
+Dialogue: 100,0:02:51.51,0:02:54.72,Normal Dialog Text,,0,0,0,,{\rCHS}在我看来 你就是想的太多了\N{\rENG}Sounds to me like you're too in your own head.
+Dialogue: 100,0:02:54.72,0:02:57.78,Normal Dialog Text,,0,0,0,,{\rCHS}真正战斗的时候-每一秒都是难以预测的\N{\rENG}In a fight, you never know what's gonna happen.
+Dialogue: 100,0:02:57.79,0:02:59.45,Normal Dialog Text,,0,0,0,,{\rCHS}你只有临场发挥\N{\rENG}You just got to go with it.
+Dialogue: 100,0:02:59.45,0:03:01.47,Normal Dialog Text,,0,0,0,,{\rCHS}不然你怎么能为那些\N{\rENG}How can you get ready when you don't even know
+Dialogue: 600,0:03:01.47,0:03:03.76,Hint,,0,0,0,,你根本不知道的事做准备？what you're getting ready for, huh?
+Dialogue: 100,0:03:03.76,0:03:06.06,Normal Dialog Text,,0,0,0,,{\rCHS}没错 根本没有时间准备\N{\rENG}Yeah, you can't be ready.
+Dialogue: 100,0:03:06.06,0:03:08.00,Normal Dialog Text,,0,0,0,,{\rCHS}你唯一需要做的事情 就是 放～轻～松～\N{\rENG}What you got to be is loose.
+Dialogue: 100,0:03:09.83,0:03:11.40,Normal Dialog Text,,0,0,0,,{\rCHS}我也想放轻松!\N{\rENG}I want to be loose!
+Dialogue: 100,0:03:11.40,0:03:12.97,Normal Dialog Text,,0,0,0,,{\rCHS}然后你就可以跟着感觉走了!\N{\rENG}Then you got to go with the flow.
+Dialogue: 100,0:03:12.97,0:03:16.50,Normal Dialog Text,,0,0,0,,{\rCHS}战斗靠的就是肚子深处的那种感觉!!\N{\rENG}Fighting's all about that feeling deep in your guts.
+Dialogue: 100,0:03:16.51,0:03:18.47,Normal Dialog Text,,0,0,0,,{\rCHS}你的肚肚感觉怎么样?\N{\rENG}What do your guts feel like?!
+Dialogue: 100,0:03:20.68,0:03:21.88,Normal Dialog Text,,0,0,0,,{\rCHS}饿!\N{\rENG}Hungry.
+Dialogue: 100,0:03:23.11,0:03:24.44,Normal Dialog Text,,0,0,0,,{\rCHS}我也一样\N{\rENG}Mine, too.
+Dialogue: 100,0:03:24.45,0:03:26.85,Normal Dialog Text,,0,0,0,,{\rCHS}来点零食!来点零食!\N{\rENG} Snack break. Snack break.
+Dialogue: 100,0:03:26.85,0:03:30.45,Normal Dialog Text,,0,0,0,,{\rCHS}唔 我们的训练需要进食来补充能量\N{\rENG}Well, we do need energy to practice.
+Dialogue: 100,0:03:30.45,0:03:34.89,Normal Dialog Text,,0,0,0,,{\rCHS}来点零食!来点零食!来点零食!\N{\rENG} Snack break! Snack break!Snack break! Snack break!
+Dialogue: 100,0:03:38.18,0:03:40.49,Normal Dialog Text,,0,0,0,,{\rCHS}谁要吃甜甜圈?\N{\rENG}Who wants doughnuts?
+Dialogue: 100,0:03:40.50,0:03:42.66,Normal Dialog Text,,0,0,0,,{\rCHS}我要我要!也许一个就够了\N{\rENG}I do! Maybe just one!
+Dialogue: 100,0:03:42.66,0:03:45.22,Normal Dialog Text,,0,0,0,,{\rCHS}OK 我请客\N{\rENG}Great.It's on me.
+Dialogue: 200,0:03:45.22,0:03:47.47,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}像一个汉堡\N{\rENG_LYC}♪ Like a burger ♪
+Dialogue: 100,0:03:47.47,0:03:50.02,Normal Dialog Text,,0,0,0,,{\rCHS}马上就来!\N{\rENG}Be right there!
+Dialogue: 100,0:03:50.02,0:03:54.02,Normal Dialog Text,,0,0,0,,{\rCHS}欢迎光临大甜甜圈!想来点什-----哈?\N{\rENG}Welcome to the Big Donut. How can I hel-- Wha-- Huh?
+Dialogue: 100,0:03:54.03,0:03:56.39,Normal Dialog Text,,0,0,0,,{\rCHS}呦～甜甜圈女孩儿\N{\rENG}Hey, donut girl.
+Dialogue: 100,0:03:56.40,0:03:58.73,Normal Dialog Text,,0,0,0,,{\rCHS}是我 甜甜圈男孩\N{\rENG}It's me, Donut Boy.
+Dialogue: 100,0:03:58.73,0:04:01.82,Normal Dialog Text,,0,0,0,,{\rCHS}介意我拿几个酥脆甜甜圈吗?\N{\rENG}You mind if I grab a couple of crullers?
+Dialogue: 100,0:04:01.82,0:04:05.65,Normal Dialog Text,,0,0,0,,{\rCHS}拿了也没关系,我就在这工作呢!\N{\rENG}It's cool.I totally work here.
+Dialogue: 100,0:04:05.65,0:04:06.40,Normal Dialog Text,,0,0,0,,{\rCHS}什么情况.....\N{\rENG}What the...
+Dialogue: 100,0:04:06.41,0:04:07.62,Normal Dialog Text,,0,0,0,,{\rCHS}莎蒂 抱歉\N{\rENG}Sorry, Sadie.
+Dialogue: 100,0:04:07.62,0:04:09.37,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶又用\N{\rENG}It's just Amethyst bein' Amethyst
+Dialogue: 100,0:04:09.38,0:04:11.54,Normal Dialog Text,,0,0,0,,{\rCHS}她的一贯作风捣乱了\N{\rENG}by not...bein' Amethyst.
+Dialogue: 100,0:04:11.54,0:04:13.21,Normal Dialog Text,,0,0,0,,{\rCHS} 没关系的 史蒂文\N{\rENG}Eh, it's no problem, Steven.
+Dialogue: 100,0:04:13.21,0:04:14.96,Normal Dialog Text,,0,0,0,,{\rCHS}只是一点甜甜圈罢了\N{\rENG}It's just a couple of donuts.
+Dialogue: 100,0:04:17.33,0:04:19.37,Normal Dialog Text,,0,0,0,,{\rCHS}!(◎_◎;)好吧 这可是个大问题 \N{\rENG}Okay,maybe it's a problem.
+Dialogue: 100,0:05:14.11,0:05:17.02,Normal Dialog Text,,0,0,0,,{\rCHS}来呀\N{\rENG}Come on!
+Dialogue: 100,0:05:17.03,0:05:19.64,Normal Dialog Text,,0,0,0,,{\rCHS}快来吧\N{\rENG}Come on!
+Dialogue: 100,0:05:19.65,0:05:22.11,Normal Dialog Text,,0,0,0,,{\rCHS}我没有带泳衣啦\N{\rENG}I didn't bring a swimsuit!
+Dialogue: 100,0:05:22.11,0:05:23.81,Normal Dialog Text,,0,0,0,,{\rCHS}在战斗的热潮中\N{\rENG}In the heat of battle,
+Dialogue: 100,0:05:23.82,0:05:27.27,Normal Dialog Text,,0,0,0,,{\rCHS}你是不会有什么泳衣的 康妮\N{\rENG}you're not gonna have a swimsuit, Connie.
+Dialogue: 100,0:05:27.27,0:05:29.95,Normal Dialog Text,,0,0,0,,{\rCHS}我的老天 你说的太对了\N{\rENG}By Jove, I guess you're right.
+Dialogue: 100,0:05:32.07,0:05:35.21,Normal Dialog Text,,0,0,0,,{\rCHS}我从来不记得哪天我有这么开心过\N{\rENG}I don't think I've ever had this much fun in one day.
+Dialogue: 100,0:05:37.05,0:05:39.38,Normal Dialog Text,,0,0,0,,{\rCHS}我们应该经常找紫晶玩\N{\rENG}We should spend more time with Amethyst.
+Dialogue: 100,0:05:39.38,0:05:40.63,Normal Dialog Text,,0,0,0,,{\rCHS}她最棒了\N{\rENG}She's the best!
+Dialogue: 100,0:05:40.63,0:05:42.12,Normal Dialog Text,,0,0,0,,{\rCHS}你才最棒\N{\rENG}You're  the best.
+Dialogue: 100,0:05:42.12,0:05:43.88,Normal Dialog Text,,0,0,0,,{\rCHS}不不不 你才最棒\N{\rENG}Nuh-uh, you're the best.
+Dialogue: 100,0:06:02.49,0:06:06.02,Normal Dialog Text,,0,0,0,,{\rCHS}呃 我也还记得你呢 哥们儿\N{\rENG}Uhhh... I remember you, too, buddy.
+Dialogue: 100,0:06:27.76,0:06:29.83,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶 你刚才太给力了\N{\rENG}Amethyst, that was amazing!
+Dialogue: 100,0:06:29.83,0:06:31.52,Normal Dialog Text,,0,0,0,,{\rCHS}哇 你没事儿吧\N{\rENG}Whoa! Are you okay?
+Dialogue: 100,0:06:31.52,0:06:34.85,Normal Dialog Text,,0,0,0,,{\rCHS}赢得不太漂亮 不过无所谓啦\N{\rENG}Not a pretty win, but I'll take it.
+Dialogue: 100,0:06:34.85,0:06:37.52,Normal Dialog Text,,0,0,0,,{\rCHS}这就是那天我们在雪地里打过的怪兽\N{\rENG}That was the monster we fought in the snow.
+Dialogue: 100,0:06:37.52,0:06:39.77,Normal Dialog Text,,0,0,0,,{\rCHS}起码...看上去是的\N{\rENG}At least, it looked like it was.
+Dialogue: 100,0:06:39.78,0:06:42.28,Normal Dialog Text,,0,0,0,,{\rCHS}我觉得你没认错\N{\rENG}I think you'd remember a face like that.
+Dialogue: 100,0:06:42.28,0:06:44.36,Normal Dialog Text,,0,0,0,,{\rCHS}呃 当初是有两只\N{\rENG}Well, there were two of them.
+Dialogue: 100,0:06:44.36,0:06:46.53,Normal Dialog Text,,0,0,0,,{\rCHS}两只\N{\rENG}Two of them?
+Dialogue: 100,0:06:50.37,0:06:52.32,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰\N{\rENG}Rose.
+Dialogue: 100,0:06:52.32,0:06:53.35,Normal Dialog Text,,0,0,0,,{\rCHS}铁石英\N{\rENG}Jasper!
+Dialogue: 100,0:06:53.36,0:06:54.91,Normal Dialog Text,,0,0,0,,{\rCHS}找到你真是令人喜悦啊\N{\rENG}Glad I found you.
+Dialogue: 100,0:06:54.91,0:06:57.32,Normal Dialog Text,,0,0,0,,{\rCHS}我已经决定要建立我自己的军队了\N{\rENG}I've decided to build my own army.
+Dialogue: 100,0:06:57.33,0:06:59.46,Normal Dialog Text,,0,0,0,,{\rCHS}你的又在哪\N{\rENG}Where's the rest of yours?
+Dialogue: 100,0:06:59.46,0:07:01.16,Normal Dialog Text,,0,0,0,,{\rCHS}她们现在不在这儿\N{\rENG}They're not here right now!
+Dialogue: 100,0:07:01.16,0:07:02.30,Normal Dialog Text,,0,0,0,,{\rCHS}嘘\N{\rENG}Shh!
+Dialogue: 100,0:07:02.30,0:07:04.00,Normal Dialog Text,,0,0,0,,{\rCHS}那么就只有你们了\N{\rENG}So, it's just you lot?
+Dialogue: 100,0:07:04.00,0:07:05.47,Normal Dialog Text,,0,0,0,,{\rCHS}那又如何\N{\rENG}Doesn't matter.
+Dialogue: 100,0:07:05.47,0:07:08.84,Normal Dialog Text,,0,0,0,,{\rCHS}我自己照样可以抽得你满地滚\N{\rENG}I'm gonna whip your butt all by myself!
+Dialogue: 100,0:07:12.17,0:07:14.87,Normal Dialog Text,,0,0,0,,{\rCHS}铁石英交给我 你们去搞定那玩意\N{\rENG}I got Jasper. You guys handle that dope.
+Dialogue: 100,0:07:14.88,0:07:18.43,Normal Dialog Text,,0,0,0,,{\rCHS}好了 这是我们第二次的机会\N{\rENG}Okay, we get a second chance at this.
+Dialogue: 100,0:07:18.43,0:07:20.06,Normal Dialog Text,,0,0,0,,{\rCHS}我们只需要团结一致\N{\rENG}Just stay together.
+Dialogue: 100,0:07:21.18,0:07:24.77,Normal Dialog Text,,0,0,0,,{\rCHS}我是来和玫瑰决斗的 而非你这侏儒\N{\rENG}I came here to fight Rose, not some runt!
+Dialogue: 100,0:07:24.77,0:07:26.89,Normal Dialog Text,,0,0,0,,{\rCHS}你认为你现在就只能不断\N{\rENG}You think you can just keep showing up
+Dialogue: 100,0:07:26.89,0:07:29.22,Normal Dialog Text,,0,0,0,,{\rCHS}冒出来寻衅打架 哈\N{\rENG}and picking fights with us?! Ha!
+Dialogue: 100,0:07:29.22,0:07:31.02,Normal Dialog Text,,0,0,0,,{\rCHS}你就不能去享受下生活吗\N{\rENG}Why don't you get a life?!
+Dialogue: 100,0:07:31.03,0:07:33.08,Normal Dialog Text,,0,0,0,,{\rCHS}战斗就是我生活的全部\N{\rENG}Fighting is my life!
+Dialogue: 100,0:07:33.08,0:07:34.86,Normal Dialog Text,,0,0,0,,{\rCHS}我为此而生\N{\rENG}It's what I was made for.
+Dialogue: 100,0:07:34.86,0:07:37.73,Normal Dialog Text,,0,0,0,,{\rCHS}你也一样 侏儒\N{\rENG}It's what you were made for too, runt.
+Dialogue: 100,0:07:37.73,0:07:40.25,Normal Dialog Text,,0,0,0,,{\rCHS}那又怎样 我的生活可是无比丰富多彩\N{\rENG}So? I've got other stuff goin' on.
+Dialogue: 100,0:07:40.25,0:07:42.25,Normal Dialog Text,,0,0,0,,{\rCHS}是因为你觉得你自己已经是个失败者了吗\N{\rENG}It is because you know you're already a failure?
+Dialogue: 100,0:07:54.77,0:07:57.13,Normal Dialog Text,,0,0,0,,{\rCHS}你压根没尽力\N{\rENG}You're not even trying.
+Dialogue: 100,0:07:57.14,0:08:00.75,Normal Dialog Text,,0,0,0,,{\rCHS}是因为你觉得自己已经是个失败者了吗\N{\rENG}Is it because you know you're already a failure?
+Dialogue: 100,0:08:00.76,0:08:03.56,Normal Dialog Text,,0,0,0,,{\rCHS}你和我一样 都是石英战士\N{\rENG}You're a Quartz Soldier, just like me.
+Dialogue: 100,0:08:03.56,0:08:06.46,Normal Dialog Text,,0,0,0,,{\rCHS}但是你跟我一点都不像 不是吗\N{\rENG}But you're not like me, are you?
+Dialogue: 100,0:08:08.23,0:08:10.56,Normal Dialog Text,,0,0,0,,{\rCHS}你太渺小了\N{\rENG}You're small!
+Dialogue: 100,0:08:12.62,0:08:14.07,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶\N{\rENG}Amethyst?!
+Dialogue: 100,0:08:14.07,0:08:17.04,Normal Dialog Text,,0,0,0,,{\rCHS}你已经渴望一支军队渴望到了\N{\rENG}Are you that desperate for troops, Rose,
+Dialogue: 100,0:08:17.04,0:08:19.57,Normal Dialog Text,,0,0,0,,{\rCHS}连这种残废都要留着的地步吗 玫瑰\N{\rENG}that you keep a defect like this?!
+Dialogue: 100,0:08:19.58,0:08:24.49,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰说了...这样的我...是最完美的\N{\rENG}Rose said...I'm perfect... the way I am.
+Dialogue: 100,0:08:24.50,0:08:27.21,Normal Dialog Text,,0,0,0,,{\rCHS}那她的眼光可有够低的\N{\rENG}Then she had low standards.
+Dialogue: 100,0:08:29.25,0:08:31.50,Normal Dialog Text,,0,0,0,,{\rCHS}你...本可以成为与我一样的存在\N{\rENG}You...could have been me!
+Dialogue: 100,0:08:34.29,0:08:37.01,Normal Dialog Text,,0,0,0,,{\rCHS}但是看看现在的你算什么东西\N{\rENG}And what are you instead?
+Dialogue: 100,0:08:37.01,0:08:39.59,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶\N{\rENG}Amethyst!
+Dialogue: 100,0:08:39.60,0:08:41.81,Normal Dialog Text,,0,0,0,,{\rCHS}不过是个笑话而已\N{\rENG}Just a joke.
+Dialogue: 100,0:08:51.31,0:08:52.67,Normal Dialog Text,,0,0,0,,{\rCHS}快来\N{\rENG}Come on!
+Dialogue: 100,0:08:52.67,0:08:55.24,Normal Dialog Text,,0,0,0,,{\rCHS}是时候结束这场闹剧了\N{\rENG}Time to get rid of this embarrassment.
+Dialogue: 100,0:09:00.78,0:09:03.45,Normal Dialog Text,,0,0,0,,{\rCHS}你们融合了?!\N{\rENG}You fused?!
+Dialogue: 100,0:09:03.45,0:09:04.62,Normal Dialog Text,,0,0,0,,{\rCHS}哇\N{\rENG}Whoa!
+Dialogue: 100,0:09:04.62,0:09:06.09,Normal Dialog Text,,0,0,0,,{\rCHS}我-我融合了\N{\rENG}I-I did.
+Dialogue: 100,0:09:06.09,0:09:09.21,Normal Dialog Text,,0,0,0,,{\rCHS}你们水晶宝石居然还跟人类融合\N{\rENG}You Crystal Gems would even fuse with a human?!
+Dialogue: 100,0:09:09.21,0:09:12.33,Normal Dialog Text,,0,0,0,,{\rCHS}我不想再听你的一句废话\N{\rENG}I don't want to hear anything you say
+Dialogue: 100,0:09:12.33,0:09:14.29,Normal Dialog Text,,0,0,0,,{\rCHS}除非你准备道歉\N{\rENG}unless it's, "Sorry."
+Dialogue: 100,0:09:24.51,0:09:25.64,Normal Dialog Text,,0,0,0,,{\rCHS}你给我回来 败家玩意\N{\rENG}Oh, no, you don't.
+Dialogue: 100,0:09:30.48,0:09:33.06,Normal Dialog Text,,0,0,0,,{\rCHS}在这等着 我会保护你的\N{\rENG}Wait here. I'll protect you.
+Dialogue: 100,0:09:34.52,0:09:37.57,Normal Dialog Text,,0,0,0,,{\rCHS}一对一 我喜欢\N{\rENG}Head-to-head, just like I like it.
+Dialogue: 100,0:09:37.57,0:09:39.45,Normal Dialog Text,,0,0,0,,{\rCHS}准备好了就尽管上吧\N{\rENG}Ready when you are.
+Dialogue: 100,0:10:04.40,0:10:06.01,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文 康妮 我回来了\N{\rENG}Steven, Connie, I'm back!
+Dialogue: 100,0:10:06.01,0:10:08.40,Normal Dialog Text,,0,0,0,,{\rCHS}呃 一切都会没事 \N{\rENG}--Uh, everything's gonna be fi--
+Dialogue: 100,0:10:15.39,0:10:17.36,Normal Dialog Text,,0,0,0,,{\rCHS}融合 融合\N{\rENG}Fusion! Fusion!
+Dialogue: 100,0:10:17.36,0:10:19.58,Normal Dialog Text,,0,0,0,,{\rCHS}又特么是融合\N{\rENG}It's always fusion!
+Dialogue: 100,0:10:19.58,0:10:22.06,Normal Dialog Text,,0,0,0,,{\rCHS}你准备好道歉了没\N{\rENG}Are you ready to apologize?
+Dialogue: 100,0:10:22.06,0:10:24.43,Normal Dialog Text,,0,0,0,,{\rCHS}这只是热身\N{\rENG}This was just a warm-up.
+Dialogue: 100,0:10:24.43,0:10:26.70,Normal Dialog Text,,0,0,0,,{\rCHS}我还会回来的 玫瑰\N{\rENG}Get ready for next time, Rose.
+Dialogue: 100,0:10:26.70,0:10:28.30,Normal Dialog Text,,0,0,0,,{\rCHS}俺们铁石英从来不会放弃\N{\rENG}Jaspers don't give up!
+Dialogue: 100,0:10:28.30,0:10:32.87,Normal Dialog Text,,0,0,0,,{\rCHS}谁也阻止不了俺们铁石英...得到俺们想要的东西\N{\rENG}Jaspers keep going... until we get what we want.
+Dialogue: 100,0:10:32.87,0:10:34.87,Normal Dialog Text,,0,0,0,,{\rCHS}我想她现在可算是住海里了\N{\rENG}Hmm. I guess she lives in the ocean now.
+Dialogue: 100,0:10:43.42,0:10:44.77,Normal Dialog Text,,0,0,0,,{\rCHS}你们...赢了\N{\rENG}You guys...won?
+Dialogue: 100,0:10:45.97,0:10:47.80,Normal Dialog Text,,0,0,0,,{\rCHS}-你回来了 -你没事\N{\rENG}You're back! You're okay!
+Dialogue: 100,0:10:47.81,0:10:49.14,Normal Dialog Text,,0,0,0,,{\rCHS}谢天谢地\N{\rENG}Thank goodness!
+Dialogue: 100,0:10:49.14,0:10:51.59,Normal Dialog Text,,0,0,0,,{\rCHS}呃 谢谢了伙计们\N{\rENG}Uh, thank you,guys.
+Dialogue: 100,0:10:51.59,0:10:53.98,Normal Dialog Text,,0,0,0,,{\rCHS}你刚才看见我们了吗 就真的像你说的\N{\rENG}--Did you see us? It was just like you said --
+Dialogue: 100,0:10:53.98,0:10:56.15,Normal Dialog Text,,0,0,0,,{\rCHS}你陷入麻烦 我们只要战斗就行了\N{\rENG}you were in trouble, and we just had to fight!
+Dialogue: 100,0:10:56.15,0:10:58.53,Normal Dialog Text,,0,0,0,,{\rCHS}我们所知的一切就会自动拼凑在一起\N{\rENG}Everything we knew just came together.
+Dialogue: 100,0:10:58.53,0:10:59.73,Normal Dialog Text,,0,0,0,,{\rCHS}我们融合了\N{\rENG}We fused!
+Dialogue: 100,0:10:59.74,0:11:01.23,Normal Dialog Text,,0,0,0,,{\rCHS}然后我们就赢了\N{\rENG}We won!
+Dialogue: 100,0:11:01.24,0:11:02.82,Normal Dialog Text,,0,0,0,,{\rCHS}我等不及要告诉其他人了!\N{\rENG}I can't wait to tell the others!
+Dialogue: 100,0:11:05.21,0:11:07.07,Normal Dialog Text,,0,0,0,,{\rCHS}噢 太好了\N{\rENG}Oh, good.
+Dialogue: 100,0:11:08.91,0:11:11.83,Normal Dialog Text,,0,0,0,,{\rCHS}你们根本不需要我\N{\rENG}You didn't need me at all.

@@ -5,227 +5,264 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: None
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
 
 [Aegisub Project Garbage]
-Active Line: 2
+Audio File: S03E15.mkv
+Video File: S03E15.mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 144
+Active Line: 147
+Video Position: 10020
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: CHS,微软雅黑,72,&H00FFFFFF,&H000000FF,&H00171717,&H00171717,0,0,0,0,100,100,0,0,1,6,3,2,10,10,10,1
+Style: CHS_BKG,微软雅黑,54,&H00FFFFFF,&H000000FF,&H00171717,&H00171717,0,0,0,0,100,100,0,0,1,4,2,2,10,10,10,1
+Style: SU Team Background,Arial,20,&H00FBFCFC,&H000000FF,&H00000000,&H00FFFFE7,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Label Trans,微软雅黑,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: ENG_LYC,Arial,48,&H00FFFFFF,&H000000FF,&H00171717,&H00171717,0,0,0,0,100,100,0,0,1,6,3,2,10,10,10,1
+Style: SU Claim,方正粗圆_GBK,48,&H00F0F0F0,&H00FFFFFF,&H00151515,&H00DBE0C9,0,0,0,0,100,100,0,0,1,3,0,8,10,10,20,1
+Style: Song Lyrics Text,华文楷体,20,&H00EAEAEA,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: CHS_LYC,华文楷体,72,&H00FFFFFF,&H000000FF,&H00171717,&H00171717,0,0,0,0,100,100,0,0,1,6,3,2,10,10,10,1
+Style: SU Team Title,方正粗圆_GBK,48,&H00B299D6,&H00FFFFFF,&H00FFFFFF,&H00DBE0C9,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Background Dialogue,微软雅黑,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
+Style: ENG,Arial,48,&H00FFFFFF,&H000000FF,&H00171717,&H00171717,0,0,0,0,100,100,0,0,1,6,3,2,10,10,10,1
+Style: SU Team Member,方正粗圆_GBK,48,&H00AB8F70,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: SU Title,方正粗圆_GBK,180,&H00C49B74,&H000000FF,&H00FBFBFC,&H00FCFFE7,0,0,0,0,100,100,0,0,1,12,4,2,10,10,10,1
+Style: ENG_BKG,Arial,36,&H00FFFFFF,&H000000FF,&H00171717,&H00171717,0,0,0,0,100,100,0,0,1,4,2,2,10,10,10,1
+Style: Normal Dialog Text,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,4,2,10,10,30,1
+Style: Hint,微软雅黑,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:03.57,0:00:08.00,Default,,0,0,0,,翻译 右翼部鸣明 校对 牙牙 Husky
-Dialogue: 0,0:00:08.00,0:00:12.00,Default,,0,0,0,,时间轴 SG 文本处理 谷子 yoyo
-Dialogue: 0,0:00:12.00,0:00:16.00,Default,,0,0,0,,资源搬运 yoyo 特别参考帮助 考生 09
-Dialogue: 0,0:00:25.76,0:00:28.83,Default,,0,0,0,,史蒂文 我已经快猜到这个惊喜是什么了\NI'm starting to guess the surprise, Steven.
-Dialogue: 0,0:00:28.83,0:00:30.83,Default,,0,0,0,,我跟你说了要闭上眼睛噢\NI told you to close your eyes!
-Dialogue: 0,0:00:30.83,0:00:32.53,Default,,0,0,0,,不好意思\NSorry.
-Dialogue: 0,0:00:32.54,0:00:34.50,Default,,0,0,0,,好了 在这等着\NOkay, wait here!
-Dialogue: 0,0:00:35.44,0:00:37.24,Default,,0,0,0,,萨普莱斯！\NSurprise!
-Dialogue: 0,0:00:39.64,0:00:41.01,Default,,0,0,0,,我们买了一艘船！\NWe bought a boat!
-Dialogue: 0,0:00:41.01,0:00:44.01,Default,,0,0,0,,呃 纠正一下 --我们租了一艘船\NUh, correction --We rented a boat.
-Dialogue: 0,0:00:44.01,0:00:46.48,Default,,0,0,0,,我虽然现在是暴富了 但是买一艘船\NI may be rich, but buying a boat would be going
-Dialogue: 0,0:00:46.48,0:00:48.98,Default,,0,0,0,,未免也太过了\Na bit overboard.
-Dialogue: 0,0:00:54.59,0:00:57.09,Default,,0,0,0,,就是一个我从水手们那学的笑话啦\NJust a joke I picked up from some sailors.
-Dialogue: 0,0:00:57.09,0:00:59.86,Default,,0,0,0,,他们的幽默感总是令人惊讶\NThey have a surprisingly clean sense of humor.
-Dialogue: 0,0:00:59.86,0:01:01.36,Default,,0,0,0,,史蒂文 这是谁啊\NSteven,who is this?
-Dialogue: 0,0:01:01.36,0:01:03.03,Default,,0,0,0,,呃 葛雷格·宇宙\NUh,Greg Universe.
-Dialogue: 0,0:01:03.03,0:01:05.07,Default,,0,0,0,,你曾经弄断我的腿 试着利用海洋\NYou broke my leg trying to use the ocean
-Dialogue: 0,0:01:05.07,0:01:06.83,Default,,0,0,0,,飞回你的母星\Nto fly back to your homeworld.
-Dialogue: 0,0:01:06.84,0:01:10.01,Default,,0,0,0,,这里青金石壁琉璃 很高兴认识你\NLapis Lazuli. Nice to meet you.
-Dialogue: 0,0:01:12.01,0:01:15.08,Default,,0,0,0,,很好 那么 我要去启动这艘船了\NGreat! Well,I'll get the boat started.
-Dialogue: 0,0:01:15.08,0:01:16.81,Default,,0,0,0,,那么你觉得怎么样\NSo what do you think?
-Dialogue: 0,0:01:16.81,0:01:18.71,Default,,0,0,0,,这很好了 史蒂文\NIt's nice, Steven...
-Dialogue: 0,0:01:18.72,0:01:19.41,Default,,0,0,0,,但是 我不确定自己是怎么考虑的\Nbut I don't know.
-Dialogue: 0,0:01:19.42,0:01:24.09,Default,,0,0,0,,青金石 我知道你和铁石英\NLook, Lapis, I know you spent a really long time fused
-Dialogue: 0,0:01:24.09,0:01:26.09,Default,,0,0,0,,在海底融合了相当久\Nwith Jasper at the bottom of the ocean,
-Dialogue: 0,0:01:26.09,0:01:28.09,Default,,0,0,0,,但是你现在已经不再是孔雀石了\Nbut you're not Malachite anymore.
-Dialogue: 0,0:01:28.09,0:01:29.12,Default,,0,0,0,,而水是你自身的一部分\NAnd water is a part of who you are.
-Dialogue: 0,0:01:29.13,0:01:33.59,Default,,0,0,0,,你不能因为一次糟糕的经历就放弃这部分\NYou can't let one bad experience take that away from you.
-Dialogue: 0,0:01:33.60,0:01:35.23,Default,,0,0,0,,不止一次\NIt was more than one.
-Dialogue: 0,0:01:35.23,0:01:35.70,Default,,0,0,0,,就当只是尝试好了\NJust give it a chance.
-Dialogue: 0,0:01:35.70,0:01:39.70,Default,,0,0,0,,我发誓你会感到前所未有的乐趣\NI promise we'll make this the most fun you've ever had.
-Dialogue: 0,0:01:39.70,0:01:42.60,Default,,0,0,0,,史蒂文 我…不配拥有这些\NSteven,I...don't deserve this.
-Dialogue: 0,0:01:42.61,0:01:44.07,Default,,0,0,0,,你当然配了！\NOf course you do!
-Dialogue: 0,0:01:44.07,0:01:47.71,Default,,0,0,0,,我们甚至给这艘船命名为小琉璃号\NWe even named her Li'l Lappy.
-Dialogue: 0,0:01:51.41,0:01:53.78,Default,,0,0,0,,好吧 我会尝试一下的\NOkay. I'll give it a chance.
-Dialogue: 0,0:01:53.78,0:01:55.32,Default,,0,0,0,,但是 就一下\NBut, just one.
-Dialogue: 0,0:01:59.82,0:02:01.89,Default,,0,0,0,,你们两个准备好启程了吗\NYou two ready to set sail?
-Dialogue: 0,0:02:01.89,0:02:03.89,Default,,0,0,0,,是的 船长！\NAye, aye, Captain!
-Dialogue: 0,0:02:03.89,0:02:05.09,Default,,0,0,0,,是的\NYes.
-Dialogue: 0,0:02:07.30,0:02:09.80,Default,,0,0,0,,全速前进--\NFull speed ahe--
-Dialogue: 0,0:02:10.87,0:02:13.77,Default,,0,0,0,,哎呀 你觉得会有人发现吗\NAh, geez, you think anyone will notice?
-Dialogue: 0,0:02:15.94,0:02:17.44,Default,,0,0,0,,喔啊 我想我真的重创了那个码头\NWow, I think I did a number on that dock.
-Dialogue: 0,0:02:17.44,0:02:21.11,Default,,0,0,0,,也许其他人应该试试当船长\NMaybe somebody else should take a shot at being captain.
-Dialogue: 0,0:02:21.11,0:02:24.28,Default,,0,0,0,,你怎么看 青金石船长？\NWhat do you say, Captain Lazuli?
-Dialogue: 0,0:02:24.28,0:02:25.61,Default,,0,0,0,,我不该当\NI shouldn't.
-Dialogue: 0,0:02:25.62,0:02:26.91,Default,,0,0,0,,上嘛 青金石\NGo for it, Lapis.
-Dialogue: 0,0:02:26.92,0:02:28.45,Default,,0,0,0,,不要把控制权给我！\NDon't put me in charge!
-Dialogue: 0,0:02:28.45,0:02:29.92,Default,,0,0,0,,噢 对不起\NOh, sorry.
-Dialogue: 0,0:02:29.92,0:02:32.82,Default,,0,0,0,,我是说 我-我不懂驾船的事\NI mean, y-you shouldn't trust me with the boat.
-Dialogue: 0,0:02:32.82,0:02:34.02,Default,,0,0,0,,呃 没关系 不用困扰\NUh, that's okay. Don't worry about it.
-Dialogue: 0,0:02:34.02,0:02:37.79,Default,,0,0,0,,我们可以都当大副 这样就没有竞争压力了\NWe can all be first mates so there's no pressure.
-Dialogue: 0,0:02:37.79,0:02:39.76,Default,,0,0,0,,今天只能用来嗨！\NOnly fun stuff today!
-Dialogue: 0,0:02:39.76,0:02:42.80,Default,,0,0,0,,青金石 如果你想的话还是可以戴这顶帽子的\NLapis, you can still wear the hat, if you want.
-Dialogue: 0,0:02:42.80,0:02:45.83,Default,,0,0,0,,谢谢 但是我不想让那东西戴在我身上\NThanks, but I'm not putting that on my body.
-Dialogue: 0,0:02:46.70,0:02:49.74,Default,,0,0,0,,让我们嗨起来 --\NLet's set a course for f-u-u-un!
-Dialogue: 0,0:03:27.28,0:03:29.01,Default,,0,0,0,,老爹 老爹\NDad! Dad!
-Dialogue: 0,0:03:29.01,0:03:32.08,Default,,0,0,0,,嘿 你们俩终于玩腻那个喇叭了？\NHey, you two. Finally get enough of that horn?
-Dialogue: 0,0:03:32.08,0:03:33.41,Default,,0,0,0,,啥\NWhat?!
-Dialogue: 0,0:03:34.75,0:03:36.25,Default,,0,0,0,,你在干什么？\NWhat are you doing?
-Dialogue: 0,0:03:36.25,0:03:37.69,Default,,0,0,0,,钓鱼\NCatching fish.
-Dialogue: 0,0:03:38.89,0:03:40.39,Default,,0,0,0,,噢 我来帮忙\NOh, I can help!
-Dialogue: 0,0:03:45.76,0:03:48.00,Default,,0,0,0,,什么鬼?!!?\NWhat the?!
-Dialogue: 0,0:03:55.97,0:03:59.87,Default,,0,0,0,,这确实是一种 呃 非常拽的钓鱼法\NThat's a pretty uh...fancy way of catching fish.
-Dialogue: 0,0:03:59.88,0:04:02.94,Default,,0,0,0,,那是因为青金石超厉害的！\NThat's 'cause Lapis is supa' strong!
-Dialogue: 0,0:04:02.95,0:04:05.35,Default,,0,0,0,,我 呃 感谢你的好意\NWell, I, uh, appreciate the gesture,
-Dialogue: 0,0:04:05.35,0:04:07.18,Default,,0,0,0,,但是我觉得坚持用\Nbut I-I think it would be safer to stick
-Dialogue: 0,0:04:07.18,0:04:09.78,Default,,0,0,0,,传统的方法比较安全\Nto the old-fashioned way of doing it.
-Dialogue: 0,0:04:09.79,0:04:12.25,Default,,0,0,0,,噢 呃…当然\NOh, uh...sure.
-Dialogue: 0,0:04:17.36,0:04:20.80,Default,,0,0,0,,哇 青金石 那太了不起了\NWow, Lapis!That was ama...zing...
-Dialogue: 0,0:04:20.80,0:04:24.06,Default,,0,0,0,,那么 你们传统的方法是怎么样的\NSo, how do you fish the old-fashioned way?
-Dialogue: 0,0:04:24.07,0:04:25.87,Default,,0,0,0,,噢 非常简单\NOh, it's pretty simple.
-Dialogue: 0,0:04:25.87,0:04:27.10,Default,,0,0,0,,你先准备一根钓鱼竿\NYou start with a rod,
-Dialogue: 0,0:04:27.10,0:04:29.24,Default,,0,0,0,,在鱼线末端绑上一个钩子\Nand you put a hook on the end of your line.
-Dialogue: 0,0:04:29.24,0:04:30.77,Default,,0,0,0,,然后 当你感觉到鱼咬钩了\NAnd then,when you feel a nibble,
-Dialogue: 0,0:04:30.77,0:04:32.11,Default,,0,0,0,,你就收线把它拉上来\Nyou reel it in.
-Dialogue: 0,0:04:33.34,0:04:34.34,Default,,0,0,0,,就这样\NAnd there it is.
-Dialogue: 0,0:04:34.34,0:04:36.08,Default,,0,0,0,,你给自己钓了一条鱼来吃！\NYou've caught yourself a fish to eat!
-Dialogue: 0,0:04:36.08,0:04:38.81,Default,,0,0,0,,但是鱼为什么要咬钩\NBut why would a fish ever bite a hook?
-Dialogue: 0,0:04:38.82,0:04:40.95,Default,,0,0,0,,你要放上鱼饵\NYou got to bait it --put something on it
-Dialogue: 0,0:04:40.95,0:04:44.95,Default,,0,0,0,,你知道鱼喜欢什么 像虫子或者20刀的纸币之类的\Nyou know it wants,like a worm or a $20 bill.
-Dialogue: 0,0:04:44.95,0:04:47.22,Default,,0,0,0,,来 我示范给你看\NHere, I'll show you.
-Dialogue: 0,0:04:47.22,0:04:49.09,Default,,0,0,0,,钓鱼\NFishing.
-Dialogue: 0,0:04:54.26,0:04:56.60,Default,,0,0,0,,上钩的那一部分要什么时候开始\NWhen does the fish part happen?
-Dialogue: 0,0:04:56.60,0:04:59.13,Default,,0,0,0,,有些时候 钓鱼的意义不在于渔获多少\NWell, sometimes it isn't about the fish you keep,
-Dialogue: 0,0:04:59.14,0:05:01.47,Default,,0,0,0,,而在于你与身边的人共度的好时光\Nbut the company you catch.
-Dialogue: 0,0:05:01.47,0:05:02.90,Default,,0,0,0,,哇 鱼咬钩了!\NWhoa!I got a bite.
-Dialogue: 0,0:05:04.04,0:05:05.87,Default,,0,0,0,,青金石 来试试\NLapis, here!Give it a try!
-Dialogue: 0,0:05:05.88,0:05:08.81,Default,,0,0,0,,就像那样拿着竿然后收线\NHold it just like that and reel it in slowly.
-Dialogue: 0,0:05:08.81,0:05:11.95,Default,,0,0,0,,像这样？\NLike this?
-Dialogue: 0,0:05:11.95,0:05:14.28,Default,,0,0,0,,完全没错 看起来是条大鱼！\NYou got it. It looks like a big one!
-Dialogue: 0,0:05:15.62,0:05:16.75,Default,,0,0,0,,青金石\NLapis!
-Dialogue: 0,0:05:16.75,0:05:17.89,Default,,0,0,0,,史蒂文\NSteven!
-Dialogue: 0,0:05:17.89,0:05:19.99,Default,,0,0,0,,你能做到的 青金石\NYou got it, Lapis!
-Dialogue: 0,0:05:19.99,0:05:21.26,Default,,0,0,0,,把它钓上来\NReel it in!
-Dialogue: 0,0:05:21.26,0:05:24.46,Default,,0,0,0,,它…拽的…力气好大！\NIt's...pulling...so hard!
-Dialogue: 0,0:05:35.90,0:05:38.07,Default,,0,0,0,,看来租鱼竿\NLooks likethis pole rental turned
-Dialogue: 0,0:05:38.07,0:05:39.91,Default,,0,0,0,,得变成买鱼竿了\Ninto a pole purchase.
-Dialogue: 0,0:05:39.91,0:05:42.94,Default,,0,0,0,,但是你在与那野兽的斗争中非常给力\NBut you did a great job tangling with that beast.
-Dialogue: 0,0:05:42.95,0:05:44.28,Default,,0,0,0,,是-是啊\NY-Yeah.
-Dialogue: 0,0:05:44.28,0:05:46.35,Default,,0,0,0,,不用为没钓上的那条鱼失落\NDon't worry about that one getting away.
-Dialogue: 0,0:05:46.35,0:05:48.45,Default,,0,0,0,,噢 谢谢你\NOh, thank you.
-Dialogue: 0,0:05:48.45,0:05:51.25,Default,,0,0,0,,好吧 今天我的冒险任务也到上限了\NWelp, that's my adventure quota for the day.
-Dialogue: 0,0:05:51.25,0:05:54.12,Default,,0,0,0,,我去驾驶室 有什么事找我就吆喝一声\NI'll be at the controls. Holler if you need me.
-Dialogue: 0,0:05:54.12,0:05:56.96,Default,,0,0,0,,是 长官 青金石 你…\NYes, sir!Lapis, what do you...
-Dialogue: 0,0:05:57.79,0:05:59.13,Default,,0,0,0,,青金石？\NLapis?
-Dialogue: 0,0:06:02.66,0:06:05.10,Default,,0,0,0,,嘿 你在干什么呢\NHey. Whatcha doing?
-Dialogue: 0,0:06:05.10,0:06:07.84,Default,,0,0,0,,我只是觉得我需要坐一会儿\NI just thought I'd sit for a bit.
-Dialogue: 0,0:06:07.84,0:06:10.04,Default,,0,0,0,,在鱼竿折断之前 你看起来\NYou looked like a real pro fisher
-Dialogue: 0,0:06:10.04,0:06:11.71,Default,,0,0,0,,简直是个钓鱼行家\Nbefore the pole snapped.
-Dialogue: 0,0:06:11.71,0:06:13.44,Default,,0,0,0,,谢谢\NThanks.
-Dialogue: 0,0:06:14.81,0:06:16.41,Default,,0,0,0,,钓鱼确实扫兴了点\NSo, fishing was a bust.
-Dialogue: 0,0:06:16.41,0:06:18.85,Default,,0,0,0,,但是我们还有其他的项目可以嗨\NBut I-I got something that'll cheer you up.
-Dialogue: 0,0:06:18.85,0:06:20.58,Default,,0,0,0,,沙壶球\NShuffleboard!
-Dialogue: 0,0:06:20.58,0:06:21.78,Default,,0,0,0,,你怎么看\NWhat do you say?
-Dialogue: 0,0:06:24.42,0:06:26.65,Default,,0,0,0,,刚才怎么了\NWhat was that?
-Dialogue: 0,0:06:28.06,0:06:29.66,Default,,0,0,0,,你没事吧\NAre you okay?
-Dialogue: 0,0:06:29.66,0:06:31.46,Default,,0,0,0,,没事 怎么了\NYeah. What's going on?
-Dialogue: 0,0:06:31.46,0:06:33.83,Default,,0,0,0,,史蒂文 你可以过来一下吗\NSteven!You got a moment?
-Dialogue: 0,0:06:34.90,0:06:36.66,Default,,0,0,0,,都没事吧 大副老爹\NIs everything okay,First Mate Dad?
-Dialogue: 0,0:06:36.67,0:06:38.80,Default,,0,0,0,,嘘 你听到了吗\NShh!You hear that?
-Dialogue: 0,0:06:38.80,0:06:40.94,Default,,0,0,0,,呃 没有\NUhhh...no.
-Dialogue: 0,0:06:40.94,0:06:42.27,Default,,0,0,0,,船好像停下了\NI guess it stopped.
-Dialogue: 0,0:06:42.27,0:06:43.77,Default,,0,0,0,,我想船应该是哪里坏了\NI think something's wrong with the boat.
-Dialogue: 0,0:06:45.14,0:06:48.18,Default,,0,0,0,,啊天哪 舵叶被卡住了\NAw, geez, something's throwing off the rudder.
-Dialogue: 0,0:06:48.18,0:06:49.51,Default,,0,0,0,,我不知道现在是什么情况\NI don't know what's going on,
-Dialogue: 0,0:06:49.51,0:06:52.05,Default,,0,0,0,,使用指南也没有用\Nand this owner's manual is no help.
-Dialogue: 0,0:06:52.05,0:06:54.08,Default,,0,0,0,,那上面基本上是关于日光浴\NIt's mostly advice on sun tanning
-Dialogue: 0,0:06:54.08,0:06:56.22,Default,,0,0,0,,还有鱼子酱要配什么饼干的建议\Nand what crackers go with caviar.
-Dialogue: 0,0:06:56.22,0:06:58.29,Default,,0,0,0,,那鱼子酱要配什么饼干？\NWell, what crackers go with caviar?
-Dialogue: 0,0:06:58.29,0:07:00.15,Default,,0,0,0,,水饼干\NWater crackers.
-Dialogue: 0,0:07:04.66,0:07:06.06,Default,,0,0,0,,就是这个声音\NThere it is.
-Dialogue: 0,0:07:14.07,0:07:16.30,Default,,0,0,0,,诶玛 我的引擎啊\NOh, crud!The engine!
-Dialogue: 0,0:07:16.31,0:07:18.14,Default,,0,0,0,,我可不懂怎么修引擎\NI don't know how to fix an engine.
-Dialogue: 0,0:07:18.14,0:07:19.77,Default,,0,0,0,,这次旅程可能要多耽误一会儿了\NThis trip might be a Little longer
-Dialogue: 0,0:07:19.78,0:07:21.51,Default,,0,0,0,,我的小伙计\Nthan we thought,little buddy.
-Dialogue: 0,0:07:25.38,0:07:26.41,Default,,0,0,0,,青金石\NLapis?
-Dialogue: 0,0:07:26.42,0:07:30.55,Default,,0,0,0,,呃 我有些不那么好的消息\NUm...I have some not-so-good news.
-Dialogue: 0,0:07:30.55,0:07:32.15,Default,,0,0,0,,引擎出了问题\NThere's trouble with the engine,
-Dialogue: 0,0:07:32.16,0:07:34.39,Default,,0,0,0,,我们可能要在海上困一阵子了\Nand we might be stuck out here for a while.
-Dialogue: 0,0:07:35.83,0:07:37.32,Default,,0,0,0,,我很抱歉\NI'm so sorry!
-Dialogue: 0,0:07:37.33,0:07:38.26,Default,,0,0,0,,这都是我的错\NThis whole thing is my fault.
-Dialogue: 0,0:07:38.26,0:07:42.26,Default,,0,0,0,,我只想让你开心 但是现在一切都搞砸了\NI just wanted you to have fun. but e-everything's a mess.
-Dialogue: 0,0:07:42.26,0:07:44.43,Default,,0,0,0,,早知道我不应该拉你来的\NI shouldn't have made you come on this trip.
-Dialogue: 0,0:07:47.17,0:07:50.20,Default,,0,0,0,,这是我的错 我才应该被怪罪\NIt's my fault. I'm the one to blame.
-Dialogue: 0,0:07:50.21,0:07:51.57,Default,,0,0,0,,不是的\NThat's not true.
-Dialogue: 0,0:07:51.57,0:07:53.34,Default,,0,0,0,,我真的努力试着享受这次旅行\NI'm really trying to enjoy it out here, but...
-Dialogue: 0,0:07:53.34,0:07:55.94,Default,,0,0,0,,但是我无法停止回忆融合成孔雀石的时候\NI can't stop thinking about being fused as Malachite,
-Dialogue: 0,0:07:55.95,0:08:00.15,Default,,0,0,0,,我是如何把她困在海底\Nhow I used all my strength to hold her down in the ocean,
-Dialogue: 0,0:08:00.15,0:08:02.35,Default,,0,0,0,,又是如何努力对抗铁石英\Nand how I was always battling against Jasper
-Dialogue: 0,0:08:02.35,0:08:03.58,Default,,0,0,0,,让她不能与我分开\Nto keep her bound to me.
-Dialogue: 0,0:08:03.59,0:08:05.92,Default,,0,0,0,,但是现在不再是这样了\NBut it's not like that anymore.
-Dialogue: 0,0:08:05.92,0:08:07.99,Default,,0,0,0,,你不用和铁石英在一起了\NYou don't have to be with Jasper.
-Dialogue: 0,0:08:07.99,0:08:10.02,Default,,0,0,0,,那不是重点 我 --\NThat's not it. I --
-Dialogue: 0,0:08:10.03,0:08:11.63,Default,,0,0,0,,我想她了\NI miss her.
-Dialogue: 0,0:08:11.63,0:08:12.76,Default,,0,0,0,,啥？！\NWhat?!
-Dialogue: 0,0:08:12.76,0:08:16.00,Default,,0,0,0,,我们融合太久了\NWe were fused for so long.
-Dialogue: 0,0:08:16.00,0:08:18.27,Default,,0,0,0,,但是…她很坏\NBut...she's terrible.
-Dialogue: 0,0:08:18.27,0:08:20.57,Default,,0,0,0,,我才是更坏的那个 我已经做了很多坏事\NI'm terrible! I did horrible things!
-Dialogue: 0,0:08:20.57,0:08:23.50,Default,,0,0,0,,我-我弄断了你爸爸的腿 我盗走了你们地球上的海水\NI-I broke your dad's leg. I stole Earth's ocean!
-Dialogue: 0,0:08:23.51,0:08:25.67,Default,,0,0,0,,继续 继续反驳我啊\NGo on!Tell me I'm wrong!
-Dialogue: 0,0:08:39.49,0:08:42.62,Default,,0,0,0,,终于啊\NFinally!
-Dialogue: 0,0:08:42.63,0:08:43.62,Default,,0,0,0,,铁石英\NJasper!
-Dialogue: 0,0:08:43.63,0:08:46.03,Default,,0,0,0,,我还以为我再也赶不上你了\NI thought I'd never catch up to you!
-Dialogue: 0,0:08:46.03,0:08:47.93,Default,,0,0,0,,你一直在跟踪我们？\NYou've been following us?
-Dialogue: 0,0:08:47.93,0:08:51.13,Default,,0,0,0,,我只是在跟踪你\NI've been following you.
-Dialogue: 0,0:08:51.13,0:08:53.57,Default,,0,0,0,,退后\NStay back!
-Dialogue: 0,0:08:54.97,0:08:59.47,Default,,0,0,0,,现在你终于打算用盗版玫瑰的技能了？\NThis dulled-down version of Rose Quartz works for you now?
-Dialogue: 0,0:08:59.48,0:09:03.68,Default,,0,0,0,,你的盾不应该指向我\NYou're pointing that shield the wrong way.
-Dialogue: 0,0:09:03.68,0:09:06.08,Default,,0,0,0,,她才是你应该害怕的人\NShe's the one you should be afraid of.
-Dialogue: 0,0:09:06.08,0:09:07.35,Default,,0,0,0,,你说的不对\NThat's not true.
-Dialogue: 0,0:09:07.35,0:09:09.48,Default,,0,0,0,,你可骗不了我\NYou can't lie to me.
-Dialogue: 0,0:09:09.49,0:09:12.15,Default,,0,0,0,,我已经见识过你的力量了\NI've seen what you're capable of.
-Dialogue: 0,0:09:12.16,0:09:14.89,Default,,0,0,0,,我以为我已经很残暴了 但是你 --\NI thought I was a brute, but you --
-Dialogue: 0,0:09:14.89,0:09:17.79,Default,,0,0,0,,你简直是怪物\Nyou're a monster.
-Dialogue: 0,0:09:17.79,0:09:19.19,Default,,0,0,0,,我…\NI...
-Dialogue: 0,0:09:20.23,0:09:22.86,Default,,0,0,0,,青金石不想再与你有任何瓜葛了\NLapis doesn't want anything to do with you!
-Dialogue: 0,0:09:22.87,0:09:24.87,Default,,0,0,0,,这是我们…\NThis is between...
-Dialogue: 0,0:09:24.87,0:09:26.23,Default,,0,0,0,,两个人之间的事！\Nus!
-Dialogue: 0,0:09:28.94,0:09:30.14,Default,,0,0,0,,史蒂文！\NSteven!
-Dialogue: 0,0:09:32.84,0:09:34.81,Default,,0,0,0,,请再次与我融合吧\NLet's be Malachite again.
-Dialogue: 0,0:09:36.01,0:09:38.48,Default,,0,0,0,,为什么…你要这么做\NWhy...would you want that?
-Dialogue: 0,0:09:38.48,0:09:42.62,Default,,0,0,0,,我之前对融合的观念完全是错的 但是你让我理解了\NI was wrong about fusion. You made me understand!
-Dialogue: 0,0:09:42.62,0:09:46.22,Default,,0,0,0,,孔雀石比我们两个都更强 更大\NMalachite was bigger and stronger than both of us!
-Dialogue: 0,0:09:46.22,0:09:47.42,Default,,0,0,0,,我们能上天！\NWe could fly!
-Dialogue: 0,0:09:47.42,0:09:50.16,Default,,0,0,0,,青金石 别听她的\NLapis, don't listen to her!
-Dialogue: 0,0:09:50.16,0:09:51.96,Default,,0,0,0,,少管闲事！\NStay out of this!
-Dialogue: 0,0:09:51.96,0:09:53.79,Default,,0,0,0,,我之前对你很坏\NI was terrible to you.
-Dialogue: 0,0:09:53.80,0:09:56.53,Default,,0,0,0,,我喜欢夺取你的一切\NI liked taking everything out on you.
-Dialogue: 0,0:09:56.53,0:09:59.80,Default,,0,0,0,,但是我必须这么做 我- 我讨厌你\NI needed to. I-I hated you.
-Dialogue: 0,0:09:59.80,0:10:01.27,Default,,0,0,0,,我们的融合太糟糕了\NIt was bad!
-Dialogue: 0,0:10:01.27,0:10:04.10,Default,,0,0,0,,这次不会再是那样了 我已经改变了\NIt'll be better this time. I've changed.
-Dialogue: 0,0:10:04.11,0:10:04.57,Default,,0,0,0,,你已经改变了我\NYou've changed me.
-Dialogue: 0,0:10:04.57,0:10:07.78,Default,,0,0,0,,只有我才可以驾驭你这样的力量\NI'm the only one who can handle your kind of power.
-Dialogue: 0,0:10:08.98,0:10:12.21,Default,,0,0,0,,我们在一起将无人能挡\NTogether,we'll be unstoppable!
-Dialogue: 0,0:10:16.42,0:10:17.59,Default,,0,0,0,,我拒绝\NNo.
-Dialogue: 0,0:10:17.59,0:10:18.52,Default,,0,0,0,,什么\NWhat?
-Dialogue: 0,0:10:18.52,0:10:19.62,Default,,0,0,0,,我们这样的关系是不健康的\NWhat we had wasn't healthy.
-Dialogue: 0,0:10:19.62,0:10:23.92,Default,,0,0,0,,我从来没喜欢过跟你在一起的感觉 我跟你再也不可能了\NI never want to feel like I felt with you -- never again!
-Dialogue: 0,0:10:23.93,0:10:25.83,Default,,0,0,0,,你走吧\NSo just go.
-Dialogue: 0,0:10:25.83,0:10:28.06,Default,,0,0,0,,-青金石 -她已经说拒绝了\N-Lapis! -She said, "No"!
-Dialogue: 0,0:10:28.06,0:10:29.70,Default,,0,0,0,,不要纠缠她了\NLeave her alone!
-Dialogue: 0,0:10:29.70,0:10:32.23,Default,,0,0,0,,这全是你的错\NThis is your fault.
-Dialogue: 0,0:10:32.23,0:10:34.17,Default,,0,0,0,,我要灭了你\NI'll shatter you!
-Dialogue: 0,0:10:41.28,0:10:43.28,Default,,0,0,0,,青金石 你做到了\NLapis, you did it!
-Dialogue: 0,0:10:43.28,0:10:44.95,Default,,0,0,0,,你们俩没事吧\NAre you two okay?!
-Dialogue: 0,0:10:44.95,0:10:46.08,Default,,0,0,0,,啥\NWhat?!
-Dialogue: 0,0:10:48.82,0:10:50.45,Default,,0,0,0,,刚才发生了啥\NWhat happened?
-Dialogue: 0,0:10:50.45,0:10:53.25,Default,,0,0,0,,呃 说来话长\NUh, it's kind of a long story.
-Dialogue: 0,0:10:55.69,0:10:58.23,Default,,0,0,0,,我想最后我还是得买那船\NI guess I bought a boat after all.
-Dialogue: 0,0:10:58.23,0:10:59.96,Default,,0,0,0,,呃 对不起 老爹\NEhh, sorry, Dad.
-Dialogue: 0,0:10:59.96,0:11:03.86,Default,,0,0,0,,不过 嘿 从这上面看海倒是挺美的\NBut, hey, the ocean's really beautiful from up here.
-Dialogue: 0,0:11:03.87,0:11:05.87,Default,,0,0,0,,是啊\NYeah.
-Dialogue: 0,0:11:05.87,0:11:08.47,Default,,0,0,0,,确实\NIt is.
+Dialogue: 1,0:00:00.00,0:00:01.50,SU Title,,0,0,0,,{\xshad-0\yshad8\pos(1698,494)}独在\N大海
+Dialogue: 1,0:00:01.50,0:00:03.00,SU Claim,,0,0,0,,欢迎关注微博@UUU字幕组，获取最新熟肉信息！
+Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,260)}出品
+Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,320)}UUU字幕组
+Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,380)}翻译
+Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,440)}右翼部鸣明
+Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,500)}校对
+Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,560)}牙牙/Husky
+Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,620)}特效
+Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,680)}presisco
+Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,740)}压制
+Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,800)}presisco
+Dialogue: 0,0:00:01.50,0:00:03.00,SU Team Background,,0,0,0,,{\bord0\xshad-0\yshad16\pos(1725,860)}{\p1}m -1 122 b -1 -19 -19 -1 122 -1 l 251 -1 b 390 -1 377 -19 377 122 l 377 500 b 377 642 390 628 251 628 l 122 628 b -19 628 -1 642 -1 500 l -1 122 {\p0}
+Dialogue: 1,0:00:01.50,0:00:03.00,Hint,,0,0,0,,时间轴 SG presisco 文本处理 谷子 yoyo
+Dialogue: 1,0:00:01.50,0:00:03.00,Hint,,0,0,0,,资源搬运 yoyo 特别参考帮助 考生 09
+Dialogue: 100,0:00:03.86,0:00:06.93,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文 我已经快猜到这个惊喜是什么了\N{\rENG}I'm starting to guess the surprise, Steven.
+Dialogue: 100,0:00:06.93,0:00:08.93,Normal Dialog Text,,0,0,0,,{\rCHS}我跟你说了要闭上眼睛噢\N{\rENG}I told you to close your eyes!
+Dialogue: 100,0:00:08.93,0:00:10.63,Normal Dialog Text,,0,0,0,,{\rCHS}不好意思\N{\rENG}Sorry.
+Dialogue: 100,0:00:10.64,0:00:12.60,Normal Dialog Text,,0,0,0,,{\rCHS}好了 在这等着\N{\rENG}Okay, wait here!
+Dialogue: 100,0:00:13.54,0:00:15.34,Normal Dialog Text,,0,0,0,,{\rCHS}萨普莱斯!\N{\rENG}Surprise!
+Dialogue: 100,0:00:17.74,0:00:19.11,Normal Dialog Text,,0,0,0,,{\rCHS}我们买了一艘船!\N{\rENG}We bought a boat!
+Dialogue: 100,0:00:19.11,0:00:22.11,Normal Dialog Text,,0,0,0,,{\rCHS}呃 纠正一下 --我们租了一艘船\N{\rENG}Uh, correction --We rented a boat.
+Dialogue: 100,0:00:22.11,0:00:24.58,Normal Dialog Text,,0,0,0,,{\rCHS}我虽然现在是暴富了 但是买一艘船\N{\rENG}I may be rich, but buying a boat would be going
+Dialogue: 100,0:00:24.58,0:00:27.08,Normal Dialog Text,,0,0,0,,{\rCHS}未免也太过了\N{\rENG}a bit overboard.
+Dialogue: 100,0:00:32.69,0:00:35.19,Normal Dialog Text,,0,0,0,,{\rCHS}就是一个我从水手们那学的笑话啦\N{\rENG}Just a joke I picked up from some sailors.
+Dialogue: 100,0:00:35.19,0:00:37.96,Normal Dialog Text,,0,0,0,,{\rCHS}他们的幽默感总是令人惊讶\N{\rENG}They have a surprisingly clean sense of humor.
+Dialogue: 100,0:00:37.96,0:00:39.46,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文 这是谁啊\N{\rENG}Steven,who is this?
+Dialogue: 100,0:00:39.46,0:00:41.13,Normal Dialog Text,,0,0,0,,{\rCHS}呃 葛雷格·宇宙\N{\rENG}Uh,Greg Universe.
+Dialogue: 100,0:00:41.13,0:00:43.17,Normal Dialog Text,,0,0,0,,{\rCHS}你曾经弄断我的腿 试着利用海洋\N{\rENG}You broke my leg trying to use the ocean
+Dialogue: 100,0:00:43.17,0:00:44.93,Normal Dialog Text,,0,0,0,,{\rCHS}飞回你的母星\N{\rENG}to fly back to your homeworld.
+Dialogue: 100,0:00:44.94,0:00:48.11,Normal Dialog Text,,0,0,0,,{\rCHS}这里青金石壁琉璃 很高兴认识你\N{\rENG}Lapis Lazuli. Nice to meet you.
+Dialogue: 100,0:00:50.11,0:00:53.18,Normal Dialog Text,,0,0,0,,{\rCHS}很好 那么 我要去启动这艘船了\N{\rENG}Great! Well,I'll get the boat started.
+Dialogue: 100,0:00:53.18,0:00:54.91,Normal Dialog Text,,0,0,0,,{\rCHS}那么你觉得怎么样\N{\rENG}So what do you think?
+Dialogue: 100,0:00:54.91,0:00:56.81,Normal Dialog Text,,0,0,0,,{\rCHS}这很好了 史蒂文\N{\rENG}It's nice, Steven...
+Dialogue: 100,0:00:56.82,0:00:57.51,Normal Dialog Text,,0,0,0,,{\rCHS}但是 我不确定自己是怎么考虑的\N{\rENG}but I don't know.
+Dialogue: 100,0:00:57.52,0:01:02.19,Normal Dialog Text,,0,0,0,,{\rCHS}青金石 我知道你和铁石英\N{\rENG}Look, Lapis, I know you spent a really long time fused
+Dialogue: 100,0:01:02.19,0:01:04.19,Normal Dialog Text,,0,0,0,,{\rCHS}在海底融合了相当久\N{\rENG}with Jasper at the bottom of the ocean,
+Dialogue: 100,0:01:04.19,0:01:06.19,Normal Dialog Text,,0,0,0,,{\rCHS}但是你现在已经不再是孔雀石了\N{\rENG}but you're not Malachite anymore.
+Dialogue: 100,0:01:06.19,0:01:07.22,Normal Dialog Text,,0,0,0,,{\rCHS}而水是你自身的一部分\N{\rENG}And water is a part of who you are.
+Dialogue: 100,0:01:07.23,0:01:11.69,Normal Dialog Text,,0,0,0,,{\rCHS}你不能因为一次糟糕的经历就放弃这部分\N{\rENG}You can't let one bad experience take that away from you.
+Dialogue: 100,0:01:11.70,0:01:13.33,Normal Dialog Text,,0,0,0,,{\rCHS}不止一次\N{\rENG}It was more than one.
+Dialogue: 100,0:01:13.33,0:01:13.80,Normal Dialog Text,,0,0,0,,{\rCHS}就当只是尝试好了\N{\rENG}Just give it a chance.
+Dialogue: 100,0:01:13.80,0:01:17.80,Normal Dialog Text,,0,0,0,,{\rCHS}我发誓你会感到前所未有的乐趣\N{\rENG}I promise we'll make this the most fun you've ever had.
+Dialogue: 100,0:01:17.80,0:01:20.70,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文 我...不配拥有这些\N{\rENG}Steven,I...don't deserve this.
+Dialogue: 100,0:01:20.71,0:01:22.17,Normal Dialog Text,,0,0,0,,{\rCHS}你当然配了!\N{\rENG}Of course you do!
+Dialogue: 100,0:01:22.17,0:01:25.81,Normal Dialog Text,,0,0,0,,{\rCHS}我们甚至给这艘船命名为小琉璃号\N{\rENG}We even named her Li'l Lappy.
+Dialogue: 100,0:01:29.51,0:01:31.88,Normal Dialog Text,,0,0,0,,{\rCHS}好吧 我会尝试一下的\N{\rENG}Okay. I'll give it a chance.
+Dialogue: 100,0:01:31.88,0:01:33.42,Normal Dialog Text,,0,0,0,,{\rCHS}但是 就一下\N{\rENG}But, just one.
+Dialogue: 100,0:01:37.92,0:01:39.99,Normal Dialog Text,,0,0,0,,{\rCHS}你们两个准备好启程了吗\N{\rENG}You two ready to set sail?
+Dialogue: 100,0:01:39.99,0:01:41.99,Normal Dialog Text,,0,0,0,,{\rCHS}是的 船长!\N{\rENG}Aye, aye, Captain!
+Dialogue: 100,0:01:41.99,0:01:43.19,Normal Dialog Text,,0,0,0,,{\rCHS}是的\N{\rENG}Yes.
+Dialogue: 100,0:01:45.40,0:01:47.90,Normal Dialog Text,,0,0,0,,{\rCHS}全速前进--\N{\rENG}Full speed ahe--
+Dialogue: 100,0:01:48.97,0:01:51.87,Normal Dialog Text,,0,0,0,,{\rCHS}哎呀 你觉得会有人发现吗\N{\rENG}Ah, geez, you think anyone will notice?
+Dialogue: 100,0:01:54.04,0:01:55.54,Normal Dialog Text,,0,0,0,,{\rCHS}喔啊 我想我真的重创了那个码头\N{\rENG}Wow, I think I did a number on that dock.
+Dialogue: 100,0:01:55.54,0:01:59.21,Normal Dialog Text,,0,0,0,,{\rCHS}也许其他人应该试试当船长\N{\rENG}Maybe somebody else should take a shot at being captain.
+Dialogue: 100,0:01:59.21,0:02:02.38,Normal Dialog Text,,0,0,0,,{\rCHS}你怎么看 青金石船长?\N{\rENG}What do you say, Captain Lazuli?
+Dialogue: 100,0:02:02.38,0:02:03.71,Normal Dialog Text,,0,0,0,,{\rCHS}我不该当\N{\rENG}I shouldn't.
+Dialogue: 100,0:02:03.72,0:02:05.01,Normal Dialog Text,,0,0,0,,{\rCHS}上嘛 青金石\N{\rENG}Go for it, Lapis.
+Dialogue: 100,0:02:05.02,0:02:06.55,Normal Dialog Text,,0,0,0,,{\rCHS}不要把控制权给我!\N{\rENG}Don't put me in charge!
+Dialogue: 100,0:02:06.55,0:02:08.02,Normal Dialog Text,,0,0,0,,{\rCHS}噢 对不起\N{\rENG}Oh, sorry.
+Dialogue: 100,0:02:08.02,0:02:10.92,Normal Dialog Text,,0,0,0,,{\rCHS}我是说 我-我不懂驾船的事\N{\rENG}I mean, y-you shouldn't trust me with the boat.
+Dialogue: 100,0:02:10.92,0:02:12.12,Normal Dialog Text,,0,0,0,,{\rCHS}呃 没关系 不用困扰\N{\rENG}Uh, that's okay. Don't worry about it.
+Dialogue: 100,0:02:12.12,0:02:15.89,Normal Dialog Text,,0,0,0,,{\rCHS}我们可以都当大副 这样就没有竞争压力了\N{\rENG}We can all be first mates so there's no pressure.
+Dialogue: 100,0:02:15.89,0:02:17.86,Normal Dialog Text,,0,0,0,,{\rCHS}今天只能用来嗨!\N{\rENG}Only fun stuff today!
+Dialogue: 100,0:02:17.86,0:02:20.90,Normal Dialog Text,,0,0,0,,{\rCHS}青金石 如果你想的话还是可以戴这顶帽子的\N{\rENG}Lapis, you can still wear the hat, if you want.
+Dialogue: 100,0:02:20.90,0:02:23.93,Normal Dialog Text,,0,0,0,,{\rCHS}谢谢 但是我不想让那东西戴在我身上\N{\rENG}Thanks, but I'm not putting that on my body.
+Dialogue: 100,0:02:24.80,0:02:27.84,Normal Dialog Text,,0,0,0,,{\rCHS}让我们嗨起来 --\N{\rENG}Let's set a course for f-u-u-un!
+Dialogue: 100,0:03:05.38,0:03:07.11,Normal Dialog Text,,0,0,0,,{\rCHS}老爹 老爹\N{\rENG}Dad! Dad!
+Dialogue: 100,0:03:07.11,0:03:10.18,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 你们俩终于玩腻那个喇叭了?\N{\rENG}Hey, you two. Finally get enough of that horn?
+Dialogue: 100,0:03:10.18,0:03:11.51,Normal Dialog Text,,0,0,0,,{\rCHS}啥\N{\rENG}What?!
+Dialogue: 100,0:03:12.85,0:03:14.35,Normal Dialog Text,,0,0,0,,{\rCHS}你在干什么?\N{\rENG}What are you doing?
+Dialogue: 100,0:03:14.35,0:03:15.79,Normal Dialog Text,,0,0,0,,{\rCHS}钓鱼\N{\rENG}Catching fish.
+Dialogue: 100,0:03:16.99,0:03:18.49,Normal Dialog Text,,0,0,0,,{\rCHS}噢 我来帮忙\N{\rENG}Oh, I can help!
+Dialogue: 100,0:03:23.86,0:03:26.10,Normal Dialog Text,,0,0,0,,{\rCHS}什么鬼?!!?\N{\rENG}What the?!
+Dialogue: 100,0:03:34.07,0:03:37.97,Normal Dialog Text,,0,0,0,,{\rCHS}这确实是一种 呃 非常拽的钓鱼法\N{\rENG}That's a pretty uh...fancy way of catching fish.
+Dialogue: 100,0:03:37.98,0:03:41.04,Normal Dialog Text,,0,0,0,,{\rCHS}那是因为青金石超厉害的!\N{\rENG}That's 'cause Lapis is supa' strong!
+Dialogue: 100,0:03:41.05,0:03:43.45,Normal Dialog Text,,0,0,0,,{\rCHS}我 呃 感谢你的好意\N{\rENG}Well, I, uh, appreciate the gesture,
+Dialogue: 100,0:03:43.45,0:03:45.28,Normal Dialog Text,,0,0,0,,{\rCHS}但是我觉得坚持用\N{\rENG}but I-I think it would be safer to stick
+Dialogue: 100,0:03:45.28,0:03:47.88,Normal Dialog Text,,0,0,0,,{\rCHS}传统的方法比较安全\N{\rENG}to the old-fashioned way of doing it.
+Dialogue: 100,0:03:47.89,0:03:50.35,Normal Dialog Text,,0,0,0,,{\rCHS}噢 呃...当然\N{\rENG}Oh, uh...sure.
+Dialogue: 100,0:03:55.46,0:03:58.90,Normal Dialog Text,,0,0,0,,{\rCHS}哇 青金石 那太了不起了\N{\rENG}Wow, Lapis!That was ama...zing...
+Dialogue: 100,0:03:58.90,0:04:02.16,Normal Dialog Text,,0,0,0,,{\rCHS}那么 你们传统的方法是怎么样的\N{\rENG}So, how do you fish the old-fashioned way?
+Dialogue: 100,0:04:02.17,0:04:03.97,Normal Dialog Text,,0,0,0,,{\rCHS}噢 非常简单\N{\rENG}Oh, it's pretty simple.
+Dialogue: 100,0:04:03.97,0:04:05.20,Normal Dialog Text,,0,0,0,,{\rCHS}你先准备一根钓鱼竿\N{\rENG}You start with a rod,
+Dialogue: 100,0:04:05.20,0:04:07.34,Normal Dialog Text,,0,0,0,,{\rCHS}在鱼线末端绑上一个钩子\N{\rENG}and you put a hook on the end of your line.
+Dialogue: 100,0:04:07.34,0:04:08.87,Normal Dialog Text,,0,0,0,,{\rCHS}然后 当你感觉到鱼咬钩了\N{\rENG}And then,when you feel a nibble,
+Dialogue: 100,0:04:08.87,0:04:10.21,Normal Dialog Text,,0,0,0,,{\rCHS}你就收线把它拉上来\N{\rENG}you reel it in.
+Dialogue: 100,0:04:11.44,0:04:12.44,Normal Dialog Text,,0,0,0,,{\rCHS}就这样\N{\rENG}And there it is.
+Dialogue: 100,0:04:12.44,0:04:14.18,Normal Dialog Text,,0,0,0,,{\rCHS}你给自己钓了一条鱼来吃!\N{\rENG}You've caught yourself a fish to eat!
+Dialogue: 100,0:04:14.18,0:04:16.91,Normal Dialog Text,,0,0,0,,{\rCHS}但是鱼为什么要咬钩\N{\rENG}But why would a fish ever bite a hook?
+Dialogue: 100,0:04:16.92,0:04:19.05,Normal Dialog Text,,0,0,0,,{\rCHS}你要放上鱼饵\N{\rENG}You got to bait it --put something on it
+Dialogue: 100,0:04:19.05,0:04:23.05,Normal Dialog Text,,0,0,0,,{\rCHS}你知道鱼喜欢什么 像虫子或者20刀的纸币之类的\N{\rENG}you know it wants,like a worm or a $20 bill.
+Dialogue: 100,0:04:23.05,0:04:25.32,Normal Dialog Text,,0,0,0,,{\rCHS}来 我示范给你看\N{\rENG}Here, I'll show you.
+Dialogue: 100,0:04:25.32,0:04:27.19,Normal Dialog Text,,0,0,0,,{\rCHS}钓鱼\N{\rENG}Fishing.
+Dialogue: 100,0:04:32.36,0:04:34.70,Normal Dialog Text,,0,0,0,,{\rCHS}上钩的那一部分要什么时候开始\N{\rENG}When does the fish part happen?
+Dialogue: 100,0:04:34.70,0:04:37.23,Normal Dialog Text,,0,0,0,,{\rCHS}有些时候 钓鱼的意义不在于渔获多少\N{\rENG}Well, sometimes it isn't about the fish you keep,
+Dialogue: 100,0:04:37.24,0:04:39.57,Normal Dialog Text,,0,0,0,,{\rCHS}而在于你与身边的人共度的好时光\N{\rENG}but the company you catch.
+Dialogue: 100,0:04:39.57,0:04:41.00,Normal Dialog Text,,0,0,0,,{\rCHS}哇 鱼咬钩了!\N{\rENG}Whoa!I got a bite.
+Dialogue: 100,0:04:42.14,0:04:43.97,Normal Dialog Text,,0,0,0,,{\rCHS}青金石 来试试\N{\rENG}Lapis, here!Give it a try!
+Dialogue: 100,0:04:43.98,0:04:46.91,Normal Dialog Text,,0,0,0,,{\rCHS}就像那样拿着竿然后收线\N{\rENG}Hold it just like that and reel it in slowly.
+Dialogue: 100,0:04:46.91,0:04:50.05,Normal Dialog Text,,0,0,0,,{\rCHS}像这样?\N{\rENG}Like this?
+Dialogue: 100,0:04:50.05,0:04:52.38,Normal Dialog Text,,0,0,0,,{\rCHS}完全没错 看起来是条大鱼!\N{\rENG}You got it. It looks like a big one!
+Dialogue: 100,0:04:53.72,0:04:54.85,Normal Dialog Text,,0,0,0,,{\rCHS}青金石\N{\rENG}Lapis!
+Dialogue: 100,0:04:54.85,0:04:55.99,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文\N{\rENG}Steven!
+Dialogue: 100,0:04:55.99,0:04:58.09,Normal Dialog Text,,0,0,0,,{\rCHS}你能做到的 青金石\N{\rENG}You got it, Lapis!
+Dialogue: 100,0:04:58.09,0:04:59.36,Normal Dialog Text,,0,0,0,,{\rCHS}把它钓上来\N{\rENG}Reel it in!
+Dialogue: 100,0:04:59.36,0:05:02.56,Normal Dialog Text,,0,0,0,,{\rCHS}它...拽的...力气好大!\N{\rENG}It's...pulling...so hard!
+Dialogue: 100,0:05:14.00,0:05:16.17,Normal Dialog Text,,0,0,0,,{\rCHS}看来租鱼竿\N{\rENG}Looks likethis pole rental turned
+Dialogue: 100,0:05:16.17,0:05:18.01,Normal Dialog Text,,0,0,0,,{\rCHS}得变成买鱼竿了\N{\rENG}into a pole purchase.
+Dialogue: 100,0:05:18.01,0:05:21.04,Normal Dialog Text,,0,0,0,,{\rCHS}但是你在与那野兽的斗争中非常给力\N{\rENG}But you did a great job tangling with that beast.
+Dialogue: 100,0:05:21.05,0:05:22.38,Normal Dialog Text,,0,0,0,,{\rCHS}是-是啊\N{\rENG}Y-Yeah.
+Dialogue: 100,0:05:22.38,0:05:24.45,Normal Dialog Text,,0,0,0,,{\rCHS}不用为没钓上的那条鱼失落\N{\rENG}Don't worry about that one getting away.
+Dialogue: 100,0:05:24.45,0:05:26.55,Normal Dialog Text,,0,0,0,,{\rCHS}噢 谢谢你\N{\rENG}Oh, thank you.
+Dialogue: 100,0:05:26.55,0:05:29.35,Normal Dialog Text,,0,0,0,,{\rCHS}好吧 今天我的冒险任务也到上限了\N{\rENG}Welp, that's my adventure quota for the day.
+Dialogue: 100,0:05:29.35,0:05:32.22,Normal Dialog Text,,0,0,0,,{\rCHS}我去驾驶室 有什么事找我就吆喝一声\N{\rENG}I'll be at the controls. Holler if you need me.
+Dialogue: 100,0:05:32.22,0:05:35.06,Normal Dialog Text,,0,0,0,,{\rCHS}是 长官 青金石 你...\N{\rENG}Yes, sir!Lapis, what do you...
+Dialogue: 100,0:05:35.89,0:05:37.23,Normal Dialog Text,,0,0,0,,{\rCHS}青金石?\N{\rENG}Lapis?
+Dialogue: 100,0:05:40.76,0:05:43.20,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 你在干什么呢\N{\rENG}Hey. Whatcha doing?
+Dialogue: 100,0:05:43.20,0:05:45.94,Normal Dialog Text,,0,0,0,,{\rCHS}我只是觉得我需要坐一会儿\N{\rENG}I just thought I'd sit for a bit.
+Dialogue: 100,0:05:45.94,0:05:48.14,Normal Dialog Text,,0,0,0,,{\rCHS}在鱼竿折断之前 你看起来\N{\rENG}You looked like a real pro fisher
+Dialogue: 100,0:05:48.14,0:05:49.81,Normal Dialog Text,,0,0,0,,{\rCHS}简直是个钓鱼行家\N{\rENG}before the pole snapped.
+Dialogue: 100,0:05:49.81,0:05:51.54,Normal Dialog Text,,0,0,0,,{\rCHS}谢谢\N{\rENG}Thanks.
+Dialogue: 100,0:05:52.91,0:05:54.51,Normal Dialog Text,,0,0,0,,{\rCHS}钓鱼确实扫兴了点\N{\rENG}So, fishing was a bust.
+Dialogue: 100,0:05:54.51,0:05:56.95,Normal Dialog Text,,0,0,0,,{\rCHS}但是我们还有其他的项目可以嗨\N{\rENG}But I-I got something that'll cheer you up.
+Dialogue: 100,0:05:56.95,0:05:58.68,Normal Dialog Text,,0,0,0,,{\rCHS}沙壶球\N{\rENG}Shuffleboard!
+Dialogue: 100,0:05:58.68,0:05:59.88,Normal Dialog Text,,0,0,0,,{\rCHS}你怎么看\N{\rENG}What do you say?
+Dialogue: 100,0:06:02.52,0:06:04.75,Normal Dialog Text,,0,0,0,,{\rCHS}刚才怎么了\N{\rENG}What was that?
+Dialogue: 100,0:06:06.16,0:06:07.76,Normal Dialog Text,,0,0,0,,{\rCHS}你没事吧\N{\rENG}Are you okay?
+Dialogue: 100,0:06:07.76,0:06:09.56,Normal Dialog Text,,0,0,0,,{\rCHS}没事 怎么了\N{\rENG}Yeah. What's going on?
+Dialogue: 100,0:06:09.56,0:06:11.93,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文 你可以过来一下吗\N{\rENG}Steven!You got a moment?
+Dialogue: 100,0:06:13.00,0:06:14.76,Normal Dialog Text,,0,0,0,,{\rCHS}都没事吧 大副老爹\N{\rENG}Is everything okay,First Mate Dad?
+Dialogue: 100,0:06:14.77,0:06:16.90,Normal Dialog Text,,0,0,0,,{\rCHS}嘘 你听到了吗\N{\rENG}Shh!You hear that?
+Dialogue: 100,0:06:16.90,0:06:19.04,Normal Dialog Text,,0,0,0,,{\rCHS}呃 没有\N{\rENG}Uhhh...no.
+Dialogue: 100,0:06:19.04,0:06:20.37,Normal Dialog Text,,0,0,0,,{\rCHS}船好像停下了\N{\rENG}I guess it stopped.
+Dialogue: 100,0:06:20.37,0:06:21.87,Normal Dialog Text,,0,0,0,,{\rCHS}我想船应该是哪里坏了\N{\rENG}I think something's wrong with the boat.
+Dialogue: 100,0:06:23.24,0:06:26.28,Normal Dialog Text,,0,0,0,,{\rCHS}啊天哪 舵叶被卡住了\N{\rENG}Aw, geez, something's throwing off the rudder.
+Dialogue: 100,0:06:26.28,0:06:27.61,Normal Dialog Text,,0,0,0,,{\rCHS}我不知道现在是什么情况\N{\rENG}I don't know what's going on,
+Dialogue: 100,0:06:27.61,0:06:30.15,Normal Dialog Text,,0,0,0,,{\rCHS}使用指南也没有用\N{\rENG}and this owner's manual is no help.
+Dialogue: 100,0:06:30.15,0:06:32.18,Normal Dialog Text,,0,0,0,,{\rCHS}那上面基本上是关于日光浴\N{\rENG}It's mostly advice on sun tanning
+Dialogue: 100,0:06:32.18,0:06:34.32,Normal Dialog Text,,0,0,0,,{\rCHS}还有鱼子酱要配什么饼干的建议\N{\rENG}and what crackers go with caviar.
+Dialogue: 100,0:06:34.32,0:06:36.39,Normal Dialog Text,,0,0,0,,{\rCHS}那鱼子酱要配什么饼干?\N{\rENG}Well, what crackers go with caviar?
+Dialogue: 100,0:06:36.39,0:06:38.25,Normal Dialog Text,,0,0,0,,{\rCHS}水饼干\N{\rENG}Water crackers.
+Dialogue: 100,0:06:42.76,0:06:44.16,Normal Dialog Text,,0,0,0,,{\rCHS}就是这个声音\N{\rENG}There it is.
+Dialogue: 100,0:06:52.17,0:06:54.40,Normal Dialog Text,,0,0,0,,{\rCHS}诶玛 我的引擎啊\N{\rENG}Oh, crud!The engine!
+Dialogue: 100,0:06:54.41,0:06:56.24,Normal Dialog Text,,0,0,0,,{\rCHS}我可不懂怎么修引擎\N{\rENG}I don't know how to fix an engine.
+Dialogue: 100,0:06:56.24,0:06:57.87,Normal Dialog Text,,0,0,0,,{\rCHS}这次旅程可能要多耽误一会儿了\N{\rENG}This trip might be a Little longer
+Dialogue: 100,0:06:57.88,0:06:59.61,Normal Dialog Text,,0,0,0,,{\rCHS}我的小伙计\N{\rENG}than we thought,little buddy.
+Dialogue: 600,0:06:57.88,0:06:59.61,Hint,,0,0,0,,格雷格的话出自经典电视剧"Gilligan's Island"(格里甘岛),其中Skipper喜欢戴船长帽并称呼主角为little buddy
+Dialogue: 100,0:07:03.48,0:07:04.51,Normal Dialog Text,,0,0,0,,{\rCHS}青金石\N{\rENG}Lapis?
+Dialogue: 100,0:07:04.52,0:07:08.65,Normal Dialog Text,,0,0,0,,{\rCHS}呃 我有些不那么好的消息\N{\rENG}Um...I have some not-so-good news.
+Dialogue: 100,0:07:08.65,0:07:10.25,Normal Dialog Text,,0,0,0,,{\rCHS}引擎出了问题\N{\rENG}There's trouble with the engine,
+Dialogue: 100,0:07:10.26,0:07:12.49,Normal Dialog Text,,0,0,0,,{\rCHS}我们可能要在海上困一阵子了\N{\rENG}and we might be stuck out here for a while.
+Dialogue: 100,0:07:13.93,0:07:15.42,Normal Dialog Text,,0,0,0,,{\rCHS}我很抱歉\N{\rENG}I'm so sorry!
+Dialogue: 100,0:07:15.43,0:07:16.36,Normal Dialog Text,,0,0,0,,{\rCHS}这都是我的错\N{\rENG}This whole thing is my fault.
+Dialogue: 100,0:07:16.36,0:07:20.36,Normal Dialog Text,,0,0,0,,{\rCHS}我只想让你开心 但是现在一切都搞砸了\N{\rENG}I just wanted you to have fun. but e-everything's a mess.
+Dialogue: 100,0:07:20.36,0:07:22.53,Normal Dialog Text,,0,0,0,,{\rCHS}早知道我不应该拉你来的\N{\rENG}I shouldn't have made you come on this trip.
+Dialogue: 100,0:07:25.27,0:07:28.30,Normal Dialog Text,,0,0,0,,{\rCHS}这是我的错 我才应该被怪罪\N{\rENG}It's my fault. I'm the one to blame.
+Dialogue: 100,0:07:28.31,0:07:29.67,Normal Dialog Text,,0,0,0,,{\rCHS}不是的\N{\rENG}That's not true.
+Dialogue: 100,0:07:29.67,0:07:31.44,Normal Dialog Text,,0,0,0,,{\rCHS}我真的努力试着享受这次旅行\N{\rENG}I'm really trying to enjoy it out here, but...
+Dialogue: 100,0:07:31.44,0:07:34.04,Normal Dialog Text,,0,0,0,,{\rCHS}但是我无法停止回忆融合成孔雀石的时候\N{\rENG}I can't stop thinking about being fused as Malachite,
+Dialogue: 100,0:07:34.05,0:07:38.25,Normal Dialog Text,,0,0,0,,{\rCHS}我是如何把她困在海底\N{\rENG}how I used all my strength to hold her down in the ocean,
+Dialogue: 100,0:07:38.25,0:07:40.45,Normal Dialog Text,,0,0,0,,{\rCHS}又是如何努力对抗铁石英\N{\rENG}and how I was always battling against Jasper
+Dialogue: 100,0:07:40.45,0:07:41.68,Normal Dialog Text,,0,0,0,,{\rCHS}让她不能与我分开\N{\rENG}to keep her bound to me.
+Dialogue: 100,0:07:41.69,0:07:44.02,Normal Dialog Text,,0,0,0,,{\rCHS}但是现在不再是这样了\N{\rENG}But it's not like that anymore.
+Dialogue: 100,0:07:44.02,0:07:46.09,Normal Dialog Text,,0,0,0,,{\rCHS}你不用和铁石英在一起了\N{\rENG}You don't have to be with Jasper.
+Dialogue: 100,0:07:46.09,0:07:48.12,Normal Dialog Text,,0,0,0,,{\rCHS}那不是重点 我 --\N{\rENG}That's not it. I --
+Dialogue: 100,0:07:48.13,0:07:49.73,Normal Dialog Text,,0,0,0,,{\rCHS}我想她了\N{\rENG}I miss her.
+Dialogue: 100,0:07:49.73,0:07:50.86,Normal Dialog Text,,0,0,0,,{\rCHS}啥?!\N{\rENG}What?!
+Dialogue: 100,0:07:50.86,0:07:54.10,Normal Dialog Text,,0,0,0,,{\rCHS}我们融合太久了\N{\rENG}We were fused for so long.
+Dialogue: 100,0:07:54.10,0:07:56.37,Normal Dialog Text,,0,0,0,,{\rCHS}但是...她很坏\N{\rENG}But...she's terrible.
+Dialogue: 100,0:07:56.37,0:07:58.67,Normal Dialog Text,,0,0,0,,{\rCHS}我才是更坏的那个 我已经做了很多坏事\N{\rENG}I'm terrible! I did horrible things!
+Dialogue: 100,0:07:58.67,0:08:01.60,Normal Dialog Text,,0,0,0,,{\rCHS}我-我弄断了你爸爸的腿 我盗走了你们地球上的海水\N{\rENG}I-I broke your dad's leg. I stole Earth's ocean!
+Dialogue: 100,0:08:01.61,0:08:03.77,Normal Dialog Text,,0,0,0,,{\rCHS}继续 继续反驳我啊\N{\rENG}Go on!Tell me I'm wrong!
+Dialogue: 100,0:08:17.59,0:08:20.72,Normal Dialog Text,,0,0,0,,{\rCHS}终于啊\N{\rENG}Finally!
+Dialogue: 100,0:08:20.73,0:08:21.72,Normal Dialog Text,,0,0,0,,{\rCHS}铁石英\N{\rENG}Jasper!
+Dialogue: 100,0:08:21.73,0:08:24.13,Normal Dialog Text,,0,0,0,,{\rCHS}我还以为我再也赶不上你了\N{\rENG}I thought I'd never catch up to you!
+Dialogue: 100,0:08:24.13,0:08:26.03,Normal Dialog Text,,0,0,0,,{\rCHS}你一直在跟踪我们?\N{\rENG}You've been following us?
+Dialogue: 100,0:08:26.03,0:08:29.23,Normal Dialog Text,,0,0,0,,{\rCHS}我只是在跟踪你\N{\rENG}I've been following you.
+Dialogue: 100,0:08:29.23,0:08:31.67,Normal Dialog Text,,0,0,0,,{\rCHS}退后\N{\rENG}Stay back!
+Dialogue: 100,0:08:33.07,0:08:37.57,Normal Dialog Text,,0,0,0,,{\rCHS}现在你终于打算用盗版玫瑰的技能了?\N{\rENG}This dulled-down version of Rose Quartz works for you now?
+Dialogue: 100,0:08:37.58,0:08:41.78,Normal Dialog Text,,0,0,0,,{\rCHS}你的盾不应该指向我\N{\rENG}You're pointing that shield the wrong way.
+Dialogue: 100,0:08:41.78,0:08:44.18,Normal Dialog Text,,0,0,0,,{\rCHS}她才是你应该害怕的人\N{\rENG}She's the one you should be afraid of.
+Dialogue: 100,0:08:44.18,0:08:45.45,Normal Dialog Text,,0,0,0,,{\rCHS}你说的不对\N{\rENG}That's not true.
+Dialogue: 100,0:08:45.45,0:08:47.58,Normal Dialog Text,,0,0,0,,{\rCHS}你可骗不了我\N{\rENG}You can't lie to me.
+Dialogue: 100,0:08:47.59,0:08:50.25,Normal Dialog Text,,0,0,0,,{\rCHS}我已经见识过你的力量了\N{\rENG}I've seen what you're capable of.
+Dialogue: 100,0:08:50.26,0:08:52.99,Normal Dialog Text,,0,0,0,,{\rCHS}我以为我已经很残暴了 但是你 --\N{\rENG}I thought I was a brute, but you --
+Dialogue: 100,0:08:52.99,0:08:55.89,Normal Dialog Text,,0,0,0,,{\rCHS}你简直是怪物\N{\rENG}you're a monster.
+Dialogue: 100,0:08:55.89,0:08:57.29,Normal Dialog Text,,0,0,0,,{\rCHS}我...\N{\rENG}I...
+Dialogue: 100,0:08:58.33,0:09:00.96,Normal Dialog Text,,0,0,0,,{\rCHS}青金石不想再与你有任何瓜葛了\N{\rENG}Lapis doesn't want anything to do with you!
+Dialogue: 100,0:09:00.97,0:09:02.97,Normal Dialog Text,,0,0,0,,{\rCHS}这是我们...\N{\rENG}This is between...
+Dialogue: 100,0:09:02.97,0:09:04.33,Normal Dialog Text,,0,0,0,,{\rCHS}两个人之间的事!\N{\rENG}us!
+Dialogue: 100,0:09:07.04,0:09:08.24,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文!\N{\rENG}Steven!
+Dialogue: 100,0:09:10.94,0:09:12.91,Normal Dialog Text,,0,0,0,,{\rCHS}请再次与我融合吧\N{\rENG}Let's be Malachite again.
+Dialogue: 100,0:09:14.11,0:09:16.58,Normal Dialog Text,,0,0,0,,{\rCHS}为什么...你要这么做\N{\rENG}Why...would you want that?
+Dialogue: 100,0:09:16.58,0:09:20.72,Normal Dialog Text,,0,0,0,,{\rCHS}我之前对融合的观念完全是错的 但是你让我理解了\N{\rENG}I was wrong about fusion. You made me understand!
+Dialogue: 100,0:09:20.72,0:09:24.32,Normal Dialog Text,,0,0,0,,{\rCHS}孔雀石比我们两个都更强 更大\N{\rENG}Malachite was bigger and stronger than both of us!
+Dialogue: 100,0:09:24.32,0:09:25.52,Normal Dialog Text,,0,0,0,,{\rCHS}我们能上天!\N{\rENG}We could fly!
+Dialogue: 100,0:09:25.52,0:09:28.26,Normal Dialog Text,,0,0,0,,{\rCHS}青金石 别听她的\N{\rENG}Lapis, don't listen to her!
+Dialogue: 100,0:09:28.26,0:09:30.06,Normal Dialog Text,,0,0,0,,{\rCHS}少管闲事!\N{\rENG}Stay out of this!
+Dialogue: 100,0:09:30.06,0:09:31.89,Normal Dialog Text,,0,0,0,,{\rCHS}我之前对你很坏\N{\rENG}I was terrible to you.
+Dialogue: 100,0:09:31.90,0:09:34.63,Normal Dialog Text,,0,0,0,,{\rCHS}我喜欢夺取你的一切\N{\rENG}I liked taking everything out on you.
+Dialogue: 100,0:09:34.63,0:09:37.90,Normal Dialog Text,,0,0,0,,{\rCHS}但是我必须这么做 我- 我讨厌你\N{\rENG}I needed to. I-I hated you.
+Dialogue: 100,0:09:37.90,0:09:39.37,Normal Dialog Text,,0,0,0,,{\rCHS}我们的融合太糟糕了\N{\rENG}It was bad!
+Dialogue: 100,0:09:39.37,0:09:42.20,Normal Dialog Text,,0,0,0,,{\rCHS}这次不会再是那样了 我已经改变了\N{\rENG}It'll be better this time. I've changed.
+Dialogue: 100,0:09:42.21,0:09:42.67,Normal Dialog Text,,0,0,0,,{\rCHS}你已经改变了我\N{\rENG}You've changed me.
+Dialogue: 100,0:09:42.67,0:09:45.88,Normal Dialog Text,,0,0,0,,{\rCHS}只有我才可以驾驭你这样的力量\N{\rENG}I'm the only one who can handle your kind of power.
+Dialogue: 100,0:09:47.08,0:09:50.31,Normal Dialog Text,,0,0,0,,{\rCHS}我们在一起将无人能挡\N{\rENG}Together,we'll be unstoppable!
+Dialogue: 100,0:09:54.52,0:09:55.69,Normal Dialog Text,,0,0,0,,{\rCHS}我拒绝\N{\rENG}No.
+Dialogue: 100,0:09:55.69,0:09:56.62,Normal Dialog Text,,0,0,0,,{\rCHS}什么\N{\rENG}What?
+Dialogue: 100,0:09:56.62,0:09:57.72,Normal Dialog Text,,0,0,0,,{\rCHS}我们这样的关系是不健康的\N{\rENG}What we had wasn't healthy.
+Dialogue: 100,0:09:57.72,0:10:02.02,Normal Dialog Text,,0,0,0,,{\rCHS}我从来没喜欢过跟你在一起的感觉 我跟你再也不可能了\N{\rENG}I never want to feel like I felt with you -- never again!
+Dialogue: 100,0:10:02.03,0:10:03.93,Normal Dialog Text,,0,0,0,,{\rCHS}你走吧\N{\rENG}So just go.
+Dialogue: 100,0:10:03.93,0:10:06.16,Normal Dialog Text,,0,0,0,,{\rCHS}-青金石 -她已经说拒绝了\N{\rENG}-Lapis! -She said, "No"!
+Dialogue: 100,0:10:06.16,0:10:07.80,Normal Dialog Text,,0,0,0,,{\rCHS}不要纠缠她了\N{\rENG}Leave her alone!
+Dialogue: 100,0:10:07.80,0:10:10.33,Normal Dialog Text,,0,0,0,,{\rCHS}这全是你的错\N{\rENG}This is your fault.
+Dialogue: 100,0:10:10.33,0:10:12.27,Normal Dialog Text,,0,0,0,,{\rCHS}我要灭了你\N{\rENG}I'll shatter you!
+Dialogue: 100,0:10:19.38,0:10:21.38,Normal Dialog Text,,0,0,0,,{\rCHS}青金石 你做到了\N{\rENG}Lapis, you did it!
+Dialogue: 100,0:10:21.38,0:10:23.05,Normal Dialog Text,,0,0,0,,{\rCHS}你们俩没事吧\N{\rENG}Are you two okay?!
+Dialogue: 100,0:10:23.05,0:10:24.18,Normal Dialog Text,,0,0,0,,{\rCHS}啥\N{\rENG}What?!
+Dialogue: 100,0:10:26.92,0:10:28.55,Normal Dialog Text,,0,0,0,,{\rCHS}刚才发生了啥\N{\rENG}What happened?
+Dialogue: 100,0:10:28.55,0:10:31.35,Normal Dialog Text,,0,0,0,,{\rCHS}呃 说来话长\N{\rENG}Uh, it's kind of a long story.
+Dialogue: 100,0:10:33.79,0:10:36.33,Normal Dialog Text,,0,0,0,,{\rCHS}我想最后我还是得买那船\N{\rENG}I guess I bought a boat after all.
+Dialogue: 100,0:10:36.33,0:10:38.06,Normal Dialog Text,,0,0,0,,{\rCHS}呃 对不起 老爹\N{\rENG}Ehh, sorry, Dad.
+Dialogue: 100,0:10:38.06,0:10:41.96,Normal Dialog Text,,0,0,0,,{\rCHS}不过 嘿 从这上面看海倒是挺美的\N{\rENG}But, hey, the ocean's really beautiful from up here.
+Dialogue: 100,0:10:41.97,0:10:43.97,Normal Dialog Text,,0,0,0,,{\rCHS}是啊\N{\rENG}Yeah.
+Dialogue: 100,0:10:43.97,0:10:46.57,Normal Dialog Text,,0,0,0,,{\rCHS}确实\N{\rENG}It is.
