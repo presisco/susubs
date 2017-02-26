@@ -28,19 +28,6 @@ Style: SU Claim,方正粗圆_GBK,48,&H00F0F0F0,&H00FFFFFF,&H00151515,&H00DBE0C9,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 1,0:00:00.30,0:00:01.80,SU Title,,0,0,0,,{\xshad-0\yshad12\pos(1160,278)}潮起，天塌
-Dialogue: 1,0:00:01.80,0:00:03.30,SU Claim,,0,0,0,,欢迎关注微博@UUU字幕组，获取最新熟肉信息！
-Dialogue: 1,0:00:01.80,0:00:03.30,SU Team Title,,0,0,0,,{\pos(1725,260)}出品
-Dialogue: 1,0:00:01.80,0:00:03.30,SU Team Member,,0,0,0,,{\pos(1725,320)}UUU字幕组
-Dialogue: 1,0:00:01.80,0:00:03.30,SU Team Title,,0,0,0,,{\pos(1725,380)}翻译
-Dialogue: 1,0:00:01.80,0:00:03.30,SU Team Member,,0,0,0,,{\pos(1725,440)}零玖/presisco
-Dialogue: 1,0:00:01.80,0:00:03.30,SU Team Title,,0,0,0,,{\pos(1725,500)}校对
-Dialogue: 1,0:00:01.80,0:00:03.30,SU Team Member,,0,0,0,,{\pos(1725,560)}presisco
-Dialogue: 1,0:00:01.80,0:00:03.30,SU Team Title,,0,0,0,,{\pos(1725,620)}特效
-Dialogue: 1,0:00:01.80,0:00:03.30,SU Team Member,,0,0,0,,{\pos(1725,680)}presisco
-Dialogue: 1,0:00:01.80,0:00:03.30,SU Team Title,,0,0,0,,{\pos(1725,740)}压制
-Dialogue: 1,0:00:01.80,0:00:03.30,SU Team Member,,0,0,0,,{\pos(1725,800)}presisco
-Dialogue: 0,0:00:01.80,0:00:03.30,SU Team Background,,0,0,0,,{\bord0\xshad-0\yshad16\pos(1725,860)}{\p1}m -1 122 b -1 -19 -19 -1 122 -1 l 251 -1 b 390 -1 377 -19 377 122 l 377 500 b 377 642 390 628 251 628 l 122 628 b -19 628 -1 642 -1 500 l -1 122 {\p0}
 Dialogue: 1,0:00:00.00,0:00:01.50,SU Title,,0,0,0,,{\xshad-0\yshad16\pos(1158,264)}请替换
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Claim,,0,0,0,,欢迎关注微博@UUU字幕组，获取最新熟肉信息！
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,260)}出品
