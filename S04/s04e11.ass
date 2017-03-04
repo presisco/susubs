@@ -17,6 +17,8 @@ Video File: ../../../Steven.Universe/S04/Steven.Universe.S04E11.Adventures.in.Li
 Video AR Mode: 4
 Video AR Value: 1.780669
 Video Zoom Percent: 0.500000
+Scroll Position: 224
+Active Line: 239
 Video Position: 13
 
 [V4+ Styles]
@@ -62,7 +64,7 @@ Dialogue: 100,0:00:14.33,0:00:15.04,Normal Dialog Text,,0,0,0,,{\rCHS}什么?\N{
 Dialogue: 100,0:00:15.04,0:00:15.45,Normal Dialog Text,,0,0,0,,{\rCHS}谁?\N{\rENG}Who?
 Dialogue: 100,0:00:15.79,0:00:16.67,Normal Dialog Text,,0,0,0,,{\rCHS}蓝钻石\N{\rENG}Blue Diamond.
 Dialogue: 100,0:00:16.67,0:00:18.47,Normal Dialog Text,,0,0,0,,{\rCHS}蓝钻石?\N{\rENG}Blue Diamond?
-Dialogue: 100,0:00:18.71,0:00:20.79,Normal Dialog Text,,0,0,0,,{\rCHS}噢,哦,不,在地球?\N{\rENG}Oh, oh, on Earth?
+Dialogue: 100,0:00:18.71,0:00:20.79,Normal Dialog Text,,0,0,0,,{\rCHS}噢,哦,不,她在地球?\N{\rENG}Oh, oh, on Earth?
 Dialogue: 100,0:00:21.11,0:00:22.49,Normal Dialog Text,,0,0,0,,{\rCHS}我的天!\N{\rENG}Holy smokes!
 Dialogue: 100,0:00:22.51,0:00:23.99,Normal Dialog Text,,0,0,0,,{\rCHS}她们总算要现身了\N{\rENG}They're all coming out of the woodwork.
 Dialogue: 100,0:00:24.19,0:00:25.79,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶,变成把椅子\N{\rENG}Amethyst, turn into a chair.
@@ -73,7 +75,7 @@ Dialogue: 100,0:00:31.67,0:00:33.25,Normal Dialog Text,,0,0,0,,{\rCHS}她抓走�
 Dialogue: 100,0:00:33.25,0:00:34.72,Normal Dialog Text,,0,0,0,,{\rCHS}我们的格雷格?\N{\rENG}Our Greg?
 Dialogue: 100,0:00:35.09,0:00:36.45,Normal Dialog Text,,0,0,0,,{\rCHS}难道还有别的格雷格?\N{\rENG}What other Greg is there?
 Dialogue: 100,0:00:36.65,0:00:38.13,Normal Dialog Text,,0,0,0,,{\rCHS}我们该怎么将他带回来?\N{\rENG}How are we gonna get him back?
-Dialogue: 100,0:00:38.49,0:00:39.99,Normal Dialog Text,,0,0,0,,{\rCHS}她甚至要他有什么用?\N{\rENG}What does she even want him for?
+Dialogue: 100,0:00:38.49,0:00:39.99,Normal Dialog Text,,0,0,0,,{\rCHS}她要他有什么用?\N{\rENG}What does she even want him for?
 Dialogue: 100,0:00:40.27,0:00:42.61,Normal Dialog Text,,0,0,0,,{\rCHS}吃掉他?将他放进动物园?\N{\rENG}To eat him? To put him in a zoo?
 Dialogue: 100,0:00:43.21,0:00:43.73,Normal Dialog Text,,0,0,0,,{\rCHS}等等\N{\rENG}Wait.
 Dialogue: 100,0:00:44.35,0:00:45.51,Normal Dialog Text,,0,0,0,,{\rCHS}还真可能是这样\N{\rENG}That might be it.
@@ -85,19 +87,19 @@ Dialogue: 100,0:00:53.89,0:00:54.87,Normal Dialog Text,,0,0,0,,{\rCHS}至少从�
 Dialogue: 100,0:00:54.87,0:00:55.49,Normal Dialog Text,,0,0,0,,{\rCHS}对啊\N{\rENG}That's right.
 Dialogue: 100,0:00:55.69,0:00:58.21,Normal Dialog Text,,0,0,0,,{\rCHS}粉钻石隐秘的人类动物园\N{\rENG}Pink Diamond's insidious human zoo.
 Dialogue: 100,0:00:58.75,0:00:59.31,Normal Dialog Text,,0,0,0,,{\rCHS}什么?\N{\rENG}What?
-Dialogue: 100,0:00:59.57,0:01:00.87,Normal Dialog Text,,0,0,0,,{\rCHS}当她还在地球时,\N{\rENG}During her reign on Earth,
+Dialogue: 100,0:00:59.57,0:01:00.87,Normal Dialog Text,,0,0,0,,{\rCHS}当她还在统治地球的时候,\N{\rENG}During her reign on Earth,
 Dialogue: 100,0:01:01.09,0:01:03.41,Normal Dialog Text,,0,0,0,,{\rCHS}粉钻石将人类从他们的家人旁掠走\N{\rENG}Pink Diamond stole humans from their families
-Dialogue: 100,0:01:03.41,0:01:05.45,Normal Dialog Text,,0,0,0,,{\rCHS}作为她征程的一个奖杯\N{\rENG}as trophies of her conquests.
+Dialogue: 100,0:01:03.41,0:01:05.45,Normal Dialog Text,,0,0,0,,{\rCHS}作为她征程的奖杯\N{\rENG}as trophies of her conquests.
 Dialogue: 100,0:01:05.65,0:01:06.76,Normal Dialog Text,,0,0,0,,{\rCHS}你一定是在开玩笑吧?\N{\rENG}You got to be kidding.
 Dialogue: 100,0:01:06.76,0:01:07.53,Normal Dialog Text,,0,0,0,,{\rCHS}哦,不\N{\rENG}Oh, no.
 Dialogue: 100,0:01:07.75,0:01:09.07,Normal Dialog Text,,0,0,0,,{\rCHS}这是真的\N{\rENG}It was very serious.
-Dialogue: 100,0:01:09.33,0:01:11.45,Normal Dialog Text,,0,0,0,,{\rCHS}当我还在服务于...母世界\N{\rENG}When I still served... Homeworld,
+Dialogue: 100,0:01:09.33,0:01:11.45,Normal Dialog Text,,0,0,0,,{\rCHS}当我还效忠...母世界那时\N{\rENG}When I still served... Homeworld,
 Dialogue: 100,0:01:11.73,0:01:12.87,Normal Dialog Text,,0,0,0,,{\rCHS}我亲眼看到的\N{\rENG}I saw it myself.
 Dialogue: 100,0:01:12.87,0:01:15.62,Normal Dialog Text,,0,0,0,,{\rCHS}一个深空中的私人野生动物园\N{\rENG}A private menagerie deep in space.
 Dialogue: 100,0:01:15.63,0:01:17.23,Normal Dialog Text,,0,0,0,,{\rCHS}人类被困在其中\N{\rENG}Humans in captivity.
 Dialogue: 100,0:01:17.23,0:01:19.23,Normal Dialog Text,,0,0,0,,{\rCHS}我们一直没能救他们出来\N{\rENG}We were never able to rescue them.
 Dialogue: 100,0:01:19.23,0:01:21.73,Normal Dialog Text,,0,0,0,,{\rCHS}战争开始后我们一直没有能力接近他们\N{\rENG}We had no way to get to them after the war.
-Dialogue: 100,0:01:22.21,0:01:25.21,Normal Dialog Text,,0,0,0,,{\rCHS}但这是五千年前了\N{\rENG}But that was over 5,000 years ago.
+Dialogue: 100,0:01:22.21,0:01:25.21,Normal Dialog Text,,0,0,0,,{\rCHS}但那都是五千年前的事了\N{\rENG}But that was over 5,000 years ago.
 Dialogue: 100,0:01:25.47,0:01:26.99,Normal Dialog Text,,0,0,0,,{\rCHS}你真的确定格雷格在那里?\N{\rENG}You really think Greg's there?
 Dialogue: 100,0:01:27.31,0:01:29.64,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文,蓝钻石想让他活着?\N{\rENG}Steven, Blue Diamond wanted him alive?
 Dialogue: 100,0:01:30.05,0:01:31.61,Normal Dialog Text,,0,0,0,,{\rCHS}对,是的!她很喜欢他!\N{\rENG}Yes, yes! She liked him!
@@ -150,7 +152,6 @@ Dialogue: 100,0:03:09.21,0:03:10.09,Normal Dialog Text,,0,0,0,,{\rCHS}我们已�
 Dialogue: 100,0:03:11.91,0:03:13.48,Normal Dialog Text,,0,0,0,,{\rCHS}我真希望他能看到这样的风景\N{\rENG}I hope he got to see some of this.
 Dialogue: 100,0:03:13.85,0:03:14.71,Normal Dialog Text,,0,0,0,,{\rCHS}这里的风光足够填满\N{\rENG}There's enough out here
 Dialogue: 100,0:03:14.71,0:03:16.59,Normal Dialog Text,,0,0,0,,{\rCHS}一整个有关宇宙的专辑了\N{\rENG}for a whole album about the cosmos.
-Dialogue: 100,0:03:17.79,0:03:19.15,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Oh, oh!
 Dialogue: 100,0:03:19.15,0:03:20.35,Normal Dialog Text,,0,0,0,,{\rCHS}太空涡流\N{\rENG}Space turbulence.
 Dialogue: 100,0:03:30.51,0:03:31.99,Normal Dialog Text,,0,0,0,,{\rCHS}飞的不错嘛\N{\rENG}Sweet moves.
 Dialogue: 100,0:03:31.99,0:03:33.01,Normal Dialog Text,,0,0,0,,{\rCHS}等等\N{\rENG}Hold on.
@@ -238,11 +239,11 @@ Dialogue: 100,0:07:38.19,0:07:42.01,Normal Dialog Text,,0,0,0,,{\rCHS}如果还�
 Dialogue: 100,0:07:44.19,0:07:45.08,Normal Dialog Text,,0,0,0,,{\rCHS}上啊,史蒂文\N{\rENG}Come on, Steven.
 Dialogue: 100,0:07:45.09,0:07:46.31,Normal Dialog Text,,0,0,0,,{\rCHS}你能做到的\N{\rENG}You can do it.
 Dialogue: 100,0:07:47.17,0:07:47.63,Normal Dialog Text,,0,0,0,,{\rCHS}这没什么\N{\rENG}It's okay.
-Dialogue: 100,0:07:48.07,0:07:49.33,Normal Dialog Text,,0,0,0,,{\rCHS}宝石人们没事的\N{\rENG}The gems are gonna be fine.
+Dialogue: 100,0:07:48.07,0:07:49.33,Normal Dialog Text,,0,0,0,,{\rCHS}宝石们没事的\N{\rENG}The gems are gonna be fine.
 Dialogue: 100,0:07:51.47,0:07:52.85,Normal Dialog Text,,0,0,0,,{\rCHS}她们不会出事的\N{\rENG}They got to be fine.
 Dialogue: 100,0:07:54.39,0:07:55.81,Normal Dialog Text,,0,0,0,,{\rCHS}爸爸也不会出事的\N{\rENG}Dad's gonna be fine, too.
 Dialogue: 100,0:07:56.83,0:07:58.77,Normal Dialog Text,,0,0,0,,{\rCHS}虽然现在看起来不是这样,\N{\rENG}It doesn't seem like it right now,
-Dialogue: 100,0:07:58.79,0:08:01.95,Normal Dialog Text,,0,0,0,,{\rCHS}但待会,我们会在一起欢笑的\N{\rENG}but later, we're gonna laugh.
+Dialogue: 100,0:07:58.79,0:08:01.95,Normal Dialog Text,,0,0,0,,{\rCHS}但待会我们回想起来一定会觉得很好笑的\N{\rENG}but later, we're gonna laugh.
 Dialogue: 100,0:08:02.31,0:08:04.70,Normal Dialog Text,,0,0,0,,{\rCHS}只要我能让太空船停下\N{\rENG}If I could just stop the ship.
 Dialogue: 100,0:08:24.13,0:08:25.23,Normal Dialog Text,,0,0,0,,{\rCHS}它不会停下的\N{\rENG}It isn't going to stop.
 Dialogue: 100,0:08:25.82,0:08:27.29,Normal Dialog Text,,0,0,0,,{\rCHS}没法解决这个问题\N{\rENG}There's no fixing this.
@@ -251,9 +252,9 @@ Dialogue: 100,0:08:30.11,0:08:30.97,Normal Dialog Text,,0,0,0,,{\rCHS}我太着�
 Dialogue: 100,0:08:31.21,0:08:35.01,Normal Dialog Text,,0,0,0,,{\rCHS}我逼着大家做出愚蠢又错误的决定\N{\rENG}I pushed us into making stupid mistakes.
 Dialogue: 100,0:08:37.49,0:08:38.87,Normal Dialog Text,,0,0,0,,{\rCHS}本不用这样的\N{\rENG}It didn't have to be this way.
 Dialogue: 100,0:08:39.49,0:08:41.21,Normal Dialog Text,,0,0,0,,{\rCHS}我本应听石榴的话\N{\rENG}I didn't have to not listen to Garnet.
-Dialogue: 100,0:08:41.77,0:08:43.23,Normal Dialog Text,,0,0,0,,{\rCHS}我不应去韩国\N{\rENG}I didn't have to go to Korea.
+Dialogue: 100,0:08:41.77,0:08:43.23,Normal Dialog Text,,0,0,0,,{\rCHS}我不该去韩国\N{\rENG}I didn't have to go to Korea.
 Dialogue: 100,0:08:44.11,0:08:45.24,Normal Dialog Text,,0,0,0,,{\rCHS}爸爸\N{\rENG}Dad.
-Dialogue: 100,0:08:47.51,0:08:50.33,Normal Dialog Text,,0,0,0,,{\rCHS}我不应让你被蓝钻石永远带走\N{\rENG}I didn't have to get you taken away forever by Blue Diamond.
+Dialogue: 100,0:08:47.51,0:08:50.33,Normal Dialog Text,,0,0,0,,{\rCHS}我不该让你被蓝钻石带走\N{\rENG}I didn't have to get you taken away forever by Blue Diamond.
 Dialogue: 100,0:08:50.57,0:08:52.77,Normal Dialog Text,,0,0,0,,{\rCHS}我-我不是出于自私\N{\rENG}I-I wasn't trying to be selfish.
 Dialogue: 100,0:08:53.23,0:08:57.63,Normal Dialog Text,,0,0,0,,{\rCHS}我这次只是想搞清都发生了什么\N{\rENG}I just wanted to know what was going on for myself for once.
 Dialogue: 100,0:08:59.57,0:09:02.55,Normal Dialog Text,,0,0,0,,{\rCHS}但现在我失去了所有人\N{\rENG}But now I lost everyone.
