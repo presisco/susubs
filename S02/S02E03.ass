@@ -10,22 +10,22 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
-Last Style Storage: Steven Universe Styles
-Audio File: Steven.Universe.S02E03.Joy.Ride.1080p.WEBRip.h264.AAC-AliQ.mp4
-Video File: Steven.Universe.S02E03.Joy.Ride.1080p.WEBRip.h264.AAC-AliQ.mp4
+Last Style Storage: Default
+Audio File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E03.Joy.Ride.1080p.WEBRip.h264.AAC-AliQ.mp4
+Video File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E03.Joy.Ride.1080p.WEBRip.h264.AAC-AliQ.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 18
-Active Line: 25
-Video Position: 833
+Video Zoom Percent: 0.500000
+Scroll Position: 192
+Active Line: 203
+Video Position: 13031
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Label Trans,微软雅黑,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Label Trans,黑体,64,&H00D975E8,&H000000FF,&H00FCFCFA,&H00FEF4FF,0,0,0,0,100,100,0,0,1,2,2,2,10,10,0,1
 Style: Normal Dialog Text,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,4,2,10,10,30,1
-Style: SU Title,方正粗圆_GBK,120,&H00C49B74,&H000000FF,&H00FBFBFC,&H00FCFFE7,0,0,0,0,100,100,0,0,1,3,4,2,10,10,10,1
+Style: SU Title,方正粗圆_GBK,210,&H00C49B74,&H000000FF,&H00FBFBFC,&H00EEF3D7,0,0,0,0,100,100,0,0,1,12,8,2,10,10,10,1
 Style: SU Team Member,方正粗圆_GBK,48,&H00AB8F70,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: SU Team Title,方正粗圆_GBK,48,&H00B299D6,&H00FFFFFF,&H00FFFFFF,&H00DBE0C9,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: SU Team Background,Arial,20,&H00FBFCFC,&H000000FF,&H00000000,&H00FFFFE7,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
@@ -54,260 +54,250 @@ Dialogue: 150,0:00:17.58,0:00:18.24,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}石榴\N
 Dialogue: 150,0:00:18.24,0:00:18.28,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}紫晶\N{\rENG_LYC}♪ Amethyst
 Dialogue: 150,0:00:19.54,0:00:21.00,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}和珍珠\N{\rENG_LYC}♪ and Pearl
 Dialogue: 150,0:00:21.02,0:00:22.34,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}和史蒂文!\N{\rENG_LYC}and Steven!
-Dialogue: 1,0:00:00.00,0:00:01.50,SU Title,,0,0,0,,{\xshad-0\yshad16\pos(1158,264)}请替换
-Dialogue: 1,0:00:01.50,0:00:03.00,SU Claim,,0,0,0,,欢迎关注微博@UUU字幕组，获取最新熟肉信息！
-Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,260)}出品
-Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,320)}UUU字幕组
-Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,380)}翻译
-Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,440)}AAAA
-Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,500)}校对
-Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,560)}BBBB
-Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,620)}特效
-Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,680)}CCCC
-Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,740)}压制
-Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,800)}DDDD
-Dialogue: 0,0:00:01.50,0:00:03.00,SU Team Background,,0,0,0,,{\bord0\xshad-0\yshad16\pos(1725,860)}{\p1}m -1 122 b -1 -19 -19 -1 122 -1 l 251 -1 b 390 -1 377 -19 377 122 l 377 500 b 377 642 390 628 251 628 l 122 628 b -19 628 -1 642 -1 500 l -1 122 {\p0}
-Dialogue: 100,0:00:34.74,0:00:37.24,Normal Dialog Text,,0,0,0,,{\rCHS}我们真的非得拾起每块碎片吗?\N{\rENG}Do we really have to get every piece?
-Dialogue: 100,0:00:39.11,0:00:40.71,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Yes! Yes.
-Dialogue: 100,0:00:40.71,0:00:43.71,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Having a wrecked gem ship lying around is too dangerous.
-Dialogue: 100,0:00:43.71,0:00:46.04,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}We've got to take care of it -- all of it.
-Dialogue: 100,0:00:46.05,0:00:49.38,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}And we'll need to start looking for Peridot's escape pod, too,
-Dialogue: 100,0:00:49.38,0:00:51.38,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}assuming she even made it to earth.
-Dialogue: 100,0:00:51.39,0:00:53.79,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}We've got lots of work ahead of us.
-Dialogue: 100,0:00:53.79,0:00:55.62,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}On it.
-Dialogue: 100,0:01:01.56,0:01:03.40,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Whoa, that's a big one.
-Dialogue: 100,0:01:06.23,0:01:08.07,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Jenny: Steven?
-Dialogue: 100,0:01:08.07,0:01:10.07,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Steven?
-Dialogue: 100,0:01:10.07,0:01:11.14,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Steven! Huh?
-Dialogue: 100,0:01:11.14,0:01:12.40,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Yo.
-Dialogue: 100,0:01:12.41,0:01:14.47,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Hey, Steven. Welcome back to earth.
-Dialogue: 100,0:01:14.48,0:01:16.41,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}What? Who told you?
-Dialogue: 100,0:01:16.41,0:01:18.24,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}You looked a million miles away, man.
-Dialogue: 100,0:01:18.25,0:01:19.75,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Oh. 
-Dialogue: 100,0:01:19.75,0:01:21.91,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Sorry. I was zoning out.
-Dialogue: 100,0:01:21.92,0:01:23.78,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}We were about to go chill at a parking lot
-Dialogue: 100,0:01:23.78,0:01:25.15,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}and freak out some squares.
-Dialogue: 100,0:01:25.15,0:01:26.75,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}You should come with.
-Dialogue: 100,0:01:26.75,0:01:30.42,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Oh, but I-I don't really have anything against squares.
-Dialogue: 100,0:01:30.42,0:01:32.09,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}I like all basic shapes.
-Dialogue: 100,0:01:32.09,0:01:33.09,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Yeah.
-Dialogue: 100,0:01:33.09,0:01:34.59,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}That's what I'm talking about.
-Dialogue: 100,0:01:34.60,0:01:36.43,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}You got that much-needed counter-point
-Dialogue: 100,0:01:36.43,0:01:37.60,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}to our cynical world-view.
-Dialogue: 100,0:01:37.60,0:01:38.93,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}You have to come.
-Dialogue: 100,0:01:38.93,0:01:41.93,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}It's good energy flow. Sorry, guys.
-Dialogue: 100,0:01:41.94,0:01:44.27,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}I've got a lot of important gem work to do.
-Dialogue: 100,0:01:44.27,0:01:45.44,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Maybe later.
-Dialogue: 100,0:01:45.44,0:01:46.77,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Aww. Bummer.
-Dialogue: 100,0:01:46.77,0:01:49.74,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Well, we'll catch you later, then.
-Dialogue: 100,0:01:55.52,0:01:59.95,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}The calluses on my hands have calluses.
-Dialogue: 100,0:02:01.16,0:02:04.29,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}The working man's burden is truly a heavy one.
-Dialogue: 100,0:02:10.46,0:02:12.36,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Pizza rain.
-Dialogue: 100,0:02:12.37,0:02:15.17,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}But no Pizza clouds.
-Dialogue: 100,0:02:15.17,0:02:17.47,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Wha--
-Dialogue: 100,0:02:17.47,0:02:19.64,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}what are you guys doing here?
-Dialogue: 100,0:02:19.64,0:02:21.97,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}And why are you making it Pizza rain?
-Dialogue: 100,0:02:21.98,0:02:24.48,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}I only wanted to see you laughing...
-Dialogue: 100,0:02:24.48,0:02:25.81,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}In the Pizza rain.
-Dialogue: 100,0:02:25.81,0:02:27.85,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Is that a reference to something?
-Dialogue: 100,0:02:27.85,0:02:29.85,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Come on. It's time to hang out.
-Dialogue: 100,0:02:29.85,0:02:31.35,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}You can't hang out at night.
-Dialogue: 100,0:02:31.35,0:02:32.65,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Night is for dreaming.
-Dialogue: 100,0:02:32.65,0:02:34.72,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Night's whatever you want it to be.
-Dialogue: 100,0:02:34.72,0:02:36.05,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Time's an illusion.
-Dialogue: 100,0:02:36.06,0:02:37.49,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Hmm.
-Dialogue: 100,0:02:37.49,0:02:39.32,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Aren't you done working for the day?
-Dialogue: 100,0:02:39.33,0:02:41.06,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Mm. Yeah, okay.
-Dialogue: 100,0:02:41.06,0:02:42.83,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Let's hang out.
-Dialogue: 100,0:02:42.83,0:02:44.16,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Nice.
-Dialogue: 100,0:02:44.16,0:02:46.16,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}But first we need to deliver the rest of this Pizza
-Dialogue: 100,0:02:46.17,0:02:47.67,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}to Mr. Smiley.
-Dialogue: 100,0:02:49.00,0:02:50.84,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Whoo! Wind in your face --
-Dialogue: 100,0:02:50.84,0:02:52.50,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}that's what I'm talkin' about.
-Dialogue: 100,0:02:52.51,0:02:53.67,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Breathe deep, Steven.
-Dialogue: 100,0:02:53.67,0:02:55.51,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}This is the smell of freedom.
-Dialogue: 100,0:02:56.68,0:02:58.58,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Freedom smells like pepperoni.
-Dialogue: 100,0:02:59.68,0:03:01.38,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}That's just the car.
-Dialogue: 100,0:03:01.38,0:03:02.58,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}You know what food
-Dialogue: 100,0:03:02.58,0:03:05.25,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}definitely doesn't smell like freedom?
-Dialogue: 100,0:03:05.25,0:03:06.42,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Fish.
-Dialogue: 100,0:03:06.42,0:03:07.52,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Why fish?
-Dialogue: 100,0:03:07.52,0:03:09.59,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Uh-oh. Here we go.
-Dialogue: 100,0:03:09.59,0:03:11.52,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}I just don't get what's wrong
-Dialogue: 100,0:03:11.53,0:03:13.09,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}with wanting to be a deejay.
-Dialogue: 100,0:03:13.09,0:03:16.40,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}But my step-dad was all on my case again today, sayin'...
-Dialogue: 100,0:03:19.20,0:03:20.37,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Ugh.
-Dialogue: 100,0:03:20.37,0:03:22.60,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}I'm just like, "I don't want to be a fisherman.
-Dialogue: 100,0:03:22.60,0:03:25.87,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Everyone knows you can't rave in a raincoat, step-dad."
-Dialogue: 100,0:03:25.87,0:03:28.24,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}At least he only bugs you about one thing.
-Dialogue: 100,0:03:28.24,0:03:31.38,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}My dad's got to say something about everything I do
-Dialogue: 100,0:03:31.38,0:03:32.78,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}'cause I'm the mayor's son.
-Dialogue: 100,0:03:32.78,0:03:35.41,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}And I'm like, "you can't tell me what to do.
-Dialogue: 100,0:03:35.42,0:03:37.22,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}I'm the mayor's..."
-Dialogue: 100,0:03:37.22,0:03:38.05,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Wait.
-Dialogue: 100,0:03:38.05,0:03:40.39,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Puh-lease!
-Dialogue: 100,0:03:40.39,0:03:43.39,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}You're just walking in cake with that talk.
-Dialogue: 100,0:03:43.39,0:03:47.39,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}You guys don't even know what bad is until you have a sister.
-Dialogue: 100,0:03:47.39,0:03:49.46,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}But I don't know why I have to spell it out
-Dialogue: 100,0:03:49.46,0:03:51.80,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}that I'm the evil twin and she's the good one.
-Dialogue: 100,0:03:51.80,0:03:54.73,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Don't ask me to help you with your homework.
-Dialogue: 100,0:03:54.74,0:03:56.60,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}I'm at some metal concert.
-Dialogue: 100,0:03:56.60,0:03:58.27,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Family stuff is tricky.
-Dialogue: 100,0:03:58.27,0:03:59.44,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Mm-hmm. Yeah.
-Dialogue: 100,0:03:59.44,0:04:00.74,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}A few months back,
-Dialogue: 100,0:04:00.74,0:04:03.28,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}my dad and the gems grounded me from TV.
-Dialogue: 100,0:04:03.28,0:04:04.94,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Bummer. That's the worst. No way!
-Dialogue: 100,0:04:04.95,0:04:07.25,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}And then I found out that the gems are alien rebels
-Dialogue: 100,0:04:07.25,0:04:09.25,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}and that there are other gems out in space
-Dialogue: 100,0:04:09.25,0:04:11.75,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}that want us dead 'cause they think we're traitors.
-Dialogue: 100,0:04:11.75,0:04:13.45,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}And they tried to take me hostage
-Dialogue: 100,0:04:13.45,0:04:14.92,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}'cause they think I'm my mom.
-Dialogue: 100,0:04:14.92,0:04:17.92,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}And...Maybe I kinda am?
-Dialogue: 100,0:04:17.93,0:04:20.43,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}I wish I could talk to Garnet, Amethyst, and Pearl about it,
-Dialogue: 100,0:04:20.43,0:04:24.83,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}but I think they kinda blame me for my mom not being around.
-Dialogue: 100,0:04:30.10,0:04:31.30,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}That's heavy.
-Dialogue: 100,0:04:31.31,0:04:32.64,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}I guess.
-Dialogue: 100,0:04:32.64,0:04:34.61,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}But you always seem so upbeat.
-Dialogue: 100,0:04:34.61,0:04:36.94,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}You're a real champ, Steven Universe.
-Dialogue: 100,0:04:36.94,0:04:38.28,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Sour Cream: Yeah, man.
-Dialogue: 100,0:04:38.28,0:04:40.68,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}I'd turn to fishing in a heartbeat
-Dialogue: 100,0:04:40.68,0:04:43.18,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}if it meant not dealing with tha-- that!
-Dialogue: 100,0:04:43.18,0:04:44.48,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Look at that!
-Dialogue: 100,0:04:44.49,0:04:45.62,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}What?! What did I hit it?
-Dialogue: 100,0:04:45.62,0:04:47.12,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}What is it?!
-Dialogue: 100,0:04:47.12,0:04:50.32,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Gloooowing.
-Dialogue: 100,0:04:50.32,0:04:52.12,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}We got to check it out.
-Dialogue: 100,0:04:52.13,0:04:52.96,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}I'm down.
-Dialogue: 100,0:04:52.96,0:04:55.06,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}All right. Hold on.
-Dialogue: 100,0:04:58.13,0:05:02.03,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}That's as bright as like 600 glow sticks.
-Dialogue: 100,0:05:05.67,0:05:07.51,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Peridot's escape pod!
-Dialogue: 100,0:05:07.51,0:05:11.48,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Okay, everybody step back!
-Dialogue: 100,0:05:11.48,0:05:12.64,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}This is a gem machine
-Dialogue: 100,0:05:12.65,0:05:14.65,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}and could be extremely dangerous.
-Dialogue: 100,0:05:14.65,0:05:15.68,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Check it out.
-Dialogue: 100,0:05:15.68,0:05:16.68,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}What are you doing?
-Dialogue: 100,0:05:18.22,0:05:19.22,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Boom!
-Dialogue: 100,0:05:19.22,0:05:20.15,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Whoa, stop!
-Dialogue: 100,0:05:20.15,0:05:22.39,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Peridot might still be in there!
-Dialogue: 100,0:05:22.39,0:05:24.49,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Peri-what?
-Dialogue: 100,0:05:24.49,0:05:25.72,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}This biz is empty.
-Dialogue: 100,0:05:25.73,0:05:28.06,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}It looks so busted.
-Dialogue: 100,0:05:28.06,0:05:30.00,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}You need to get away from there!
-Dialogue: 100,0:05:30.00,0:05:30.83,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Whoa!
-Dialogue: 100,0:05:30.83,0:05:32.53,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}You need to relax.
-Dialogue: 100,0:05:32.53,0:05:34.67,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}It's not doing anything.
-Dialogue: 100,0:05:34.67,0:05:36.33,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}It's not just the pod.
-Dialogue: 100,0:05:36.34,0:05:39.50,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}This means Peridot is just out there somewhere,
-Dialogue: 100,0:05:39.51,0:05:40.84,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}trying to hurt the earth.
-Dialogue: 100,0:05:40.84,0:05:42.84,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Not cool. Earth forever.
-Dialogue: 100,0:05:42.84,0:05:45.41,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Here come the rocks.
-Dialogue: 100,0:05:45.41,0:05:48.75,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Steven, come take a selfie with me and this thing.
-Dialogue: 100,0:05:48.75,0:05:50.35,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}No, Jenny, I'm serious.
-Dialogue: 100,0:05:50.35,0:05:51.35,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}So am I.
-Dialogue: 100,0:05:51.35,0:05:53.85,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Sour Cream, what about you?
-Dialogue: 100,0:05:53.85,0:05:56.02,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Sure. I'm down for whatever.
-Dialogue: 100,0:05:56.02,0:05:57.69,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Buck? Nah.
-Dialogue: 100,0:05:57.69,0:06:00.76,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}I like to just experience the moment for what it is sometimes.
-Dialogue: 100,0:06:00.76,0:06:02.19,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Plus, the lighting is weird.
-Dialogue: 100,0:06:02.20,0:06:05.20,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Ugh, okay. Steven? Last call.
-Dialogue: 100,0:06:05.20,0:06:07.07,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Mmmm....
-Dialogue: 100,0:06:07.07,0:06:09.10,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}I got funny stickers!
-Dialogue: 100,0:06:15.78,0:06:18.04,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}These are so good!
-Dialogue: 100,0:06:18.05,0:06:19.88,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}How do I look? You look great!
-Dialogue: 100,0:06:19.88,0:06:21.21,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Look, stay right there.
-Dialogue: 100,0:06:21.22,0:06:23.38,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}I wanna take one mor-- 
-Dialogue: 100,0:06:23.38,0:06:25.72,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Steven, get in it!
-Dialogue: 100,0:06:25.72,0:06:27.22,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}W-what?
-Dialogue: 100,0:06:27.22,0:06:29.96,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Just for a second! One picture.
-Dialogue: 100,0:06:37.10,0:06:39.23,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Okay, ready.
-Dialogue: 100,0:06:39.23,0:06:41.07,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Three, two...
-Dialogue: 100,0:06:42.40,0:06:43.74,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Wha--
-Dialogue: 100,0:06:45.94,0:06:48.44,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Dude! Oh, my gosh, Steven!
-Dialogue: 100,0:06:48.44,0:06:51.91,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Wha? This is so cool!
-Dialogue: 100,0:06:53.58,0:06:56.92,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Whoa! Aah! Whoa!
-Dialogue: 100,0:06:57.92,0:06:59.08,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Jenny: Steven!
-Dialogue: 100,0:06:59.09,0:07:00.09,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Whoa!
-Dialogue: 100,0:07:00.09,0:07:02.42,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}How are you doing that?
-Dialogue: 100,0:07:02.42,0:07:03.49,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Uh...
-Dialogue: 100,0:07:04.76,0:07:06.93,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}I think it listens to what my hands do.
-Dialogue: 100,0:07:06.93,0:07:09.16,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}I really shouldn't be playing with this.
-Dialogue: 100,0:07:09.16,0:07:12.10,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}I have to take this back to the temple immediately.
-Dialogue: 100,0:07:12.10,0:07:14.13,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}No way. You just got it working!
-Dialogue: 100,0:07:14.13,0:07:16.27,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Come on, aren't you your own mom?
-Dialogue: 100,0:07:16.27,0:07:18.27,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}You can do whatever you want.
-Dialogue: 100,0:07:18.27,0:07:21.11,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Yeah, you got to do some donuts in that thing.
-Dialogue: 100,0:07:21.11,0:07:23.28,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}At least a dozen. Baker's dozen.
-Dialogue: 100,0:07:23.28,0:07:27.15,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Seriously, Steven, you've been under a lot of pressure.
-Dialogue: 100,0:07:27.15,0:07:30.25,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Don't you think you deserve to have a little fun?
-Dialogue: 100,0:07:34.32,0:07:36.86,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Whoo!
-Dialogue: 100,0:07:45.46,0:07:46.80,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Hey!
-Dialogue: 100,0:07:49.14,0:07:52.54,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}You really got the hang of that thing, huh?
-Dialogue: 100,0:07:52.54,0:07:54.01,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Yeah!
-Dialogue: 100,0:07:54.01,0:07:55.47,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}It always hooks to the left.
-Dialogue: 100,0:07:55.48,0:07:56.81,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Whoa!
-Dialogue: 100,0:07:56.81,0:07:59.48,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}I should really get it back to the gems, though.
-Dialogue: 100,0:07:59.48,0:08:01.81,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}No! No! No, no, no, no.
-Dialogue: 100,0:08:01.82,0:08:04.15,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Or right after I jump that haystack!
-Dialogue: 100,0:08:04.15,0:08:05.52,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Yeah! Come on! Yeah! Do it! Yeah! Do it!
-Dialogue: 100,0:08:05.52,0:08:07.32,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Mess it up! Wreck it, Steven! Go, Steven!
-Dialogue: 100,0:08:07.32,0:08:09.32,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Yeah! Yeah! Yeah! Whoo!
-Dialogue: 100,0:08:12.16,0:08:13.99,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}I'm okay.
-Dialogue: 100,0:08:15.50,0:08:17.86,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}It's not actually so bad if you just give it a little --
-Dialogue: 100,0:08:20.67,0:08:21.67,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Aah!
-Dialogue: 100,0:08:24.84,0:08:26.34,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Steven?
-Dialogue: 100,0:08:26.34,0:08:27.67,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Aah!
-Dialogue: 100,0:08:27.67,0:08:28.67,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Guys?
-Dialogue: 100,0:08:28.68,0:08:31.04,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Aah!
-Dialogue: 100,0:08:48.36,0:08:50.66,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Aah!
-Dialogue: 100,0:09:00.11,0:09:03.78,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Steven! What's going on?
-Dialogue: 100,0:09:03.78,0:09:06.24,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Guys, can you hear me? 
-Dialogue: 100,0:09:06.25,0:09:09.71,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}I knew it! That flare led us right to the escape pod!
-Dialogue: 100,0:09:09.72,0:09:11.38,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}What's going on here?
-Dialogue: 100,0:09:11.39,0:09:13.12,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Help! Help us! Over here!
-Dialogue: 100,0:09:13.12,0:09:15.39,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Garnet, Amethyst, Pearl!
-Dialogue: 100,0:09:15.39,0:09:17.72,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}We'll save you, humans!
-Dialogue: 100,0:09:17.72,0:09:19.39,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Aah!
-Dialogue: 100,0:09:19.39,0:09:22.06,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}I can't believe it. Peridot's still inside.
-Dialogue: 100,0:09:22.06,0:09:24.46,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}She's probably weak from the landing.
-Dialogue: 100,0:09:24.46,0:09:25.56,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Don't hold back.
-Dialogue: 100,0:09:25.57,0:09:27.03,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Got it!
-Dialogue: 100,0:09:28.90,0:09:30.27,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}No! No! No!
-Dialogue: 100,0:09:30.27,0:09:31.44,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Whoa!
-Dialogue: 100,0:09:31.44,0:09:33.81,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Garnet: You got a lot of nerve taking refuge here,
-Dialogue: 100,0:09:33.81,0:09:35.74,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}of all places!
-Dialogue: 100,0:09:35.74,0:09:36.78,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Garnet?
-Dialogue: 100,0:09:36.78,0:09:38.74,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}But I don't know where you get off
-Dialogue: 100,0:09:38.75,0:09:41.61,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}attacking defenseless humans in your deadbeat escape pod.
-Dialogue: 100,0:09:41.62,0:09:44.28,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Garnet! It's me, Steven!
-Dialogue: 100,0:09:44.28,0:09:46.48,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Can you hear me? Garnet!
-Dialogue: 100,0:09:46.49,0:09:49.92,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}And if you think you're safe here, well, I got news for you.
-Dialogue: 100,0:09:49.92,0:09:51.66,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}You lost!
-Dialogue: 100,0:09:51.66,0:09:52.66,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Now...
-Dialogue: 100,0:09:52.66,0:09:54.46,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Garnet! Garnet! Garnet!
-Dialogue: 100,0:09:54.46,0:09:56.36,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}...stay off my planet!
-Dialogue: 100,0:09:56.93,0:09:58.66,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Stop!
-Dialogue: 100,0:09:59.43,0:10:02.50,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Steven's in there.
-Dialogue: 100,0:10:12.61,0:10:13.61,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Pearl: Oh, Steven!
-Dialogue: 100,0:10:13.61,0:10:15.85,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Amethyst: Steven, what were you doing?!
-Dialogue: 100,0:10:15.85,0:10:17.62,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}You found Peridot's escape pod,
-Dialogue: 100,0:10:17.62,0:10:20.12,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}and you didn't come get us immediately?
-Dialogue: 100,0:10:20.12,0:10:21.95,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Dude, we almost wrecked you.
-Dialogue: 100,0:10:21.96,0:10:24.12,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Steven, this is unacceptable.
-Dialogue: 100,0:10:24.12,0:10:26.29,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}I'm very disappointed in you.
-Dialogue: 100,0:10:26.29,0:10:28.46,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}You're right.
-Dialogue: 100,0:10:28.46,0:10:30.63,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Hey! Cut him some slack.
-Dialogue: 100,0:10:30.63,0:10:31.96,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}It's not his fault!
-Dialogue: 100,0:10:31.97,0:10:34.20,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Just let him be a deejay!
-Dialogue: 100,0:10:34.20,0:10:35.47,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Wha?
-Dialogue: 100,0:10:35.47,0:10:38.00,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}We just wanted Steven to have some fun.
-Dialogue: 100,0:10:38.00,0:10:40.47,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}I don't know what's going on with aliens
-Dialogue: 100,0:10:40.47,0:10:43.34,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}trying to abduct him and him being his own mom,
-Dialogue: 100,0:10:43.34,0:10:46.21,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}but it sounds like he's got a lot on his mind.
-Dialogue: 100,0:10:46.21,0:10:49.15,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}I'm sure whatever you're having him do is important,
-Dialogue: 100,0:10:49.15,0:10:51.68,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}but everyone needs a break once in a while.
-Dialogue: 100,0:10:51.69,0:10:53.45,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}He's just a kid.
-Dialogue: 100,0:10:55.15,0:10:58.49,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Oh, maybe we have been a little hard on him.
-Dialogue: 100,0:10:58.49,0:11:01.66,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}He did just break us out of space jail.
-Dialogue: 100,0:11:01.66,0:11:03.56,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Steven.
-Dialogue: 100,0:11:03.56,0:11:05.46,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}You're ungrounded from TV.
-Dialogue: 100,0:11:11.74,0:11:13.27,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Sour Cream: I'm invincible!
+Dialogue: 1,0:00:25.67,0:00:27.17,SU Title,,0,0,0,,{\xshad-0\yshad16\pos(1612,586)}兜\N风
+Dialogue: 1,0:00:27.17,0:00:28.67,SU Claim,,0,0,0,,欢迎关注微博@UUU字幕组,获取最新熟肉信息!
+Dialogue: 1,0:00:27.17,0:00:28.67,SU Team Title,,0,0,0,,{\pos(1725,260)}出品
+Dialogue: 1,0:00:27.17,0:00:28.67,SU Team Member,,0,0,0,,{\pos(1725,320)}UUU字幕组
+Dialogue: 1,0:00:27.17,0:00:28.67,SU Team Title,,0,0,0,,{\pos(1725,380)}翻译
+Dialogue: 1,0:00:27.17,0:00:28.67,SU Team Member,,0,0,0,,{\pos(1725,440)}presisco
+Dialogue: 1,0:00:27.17,0:00:28.67,SU Team Title,,0,0,0,,{\pos(1725,500)}校对
+Dialogue: 1,0:00:27.17,0:00:28.67,SU Team Member,,0,0,0,,{\pos(1725,560)}
+Dialogue: 1,0:00:27.17,0:00:28.67,SU Team Title,,0,0,0,,{\pos(1725,620)}特效
+Dialogue: 1,0:00:27.17,0:00:28.67,SU Team Member,,0,0,0,,{\pos(1725,680)}presisco
+Dialogue: 1,0:00:27.17,0:00:28.67,SU Team Title,,0,0,0,,{\pos(1725,740)}压制
+Dialogue: 1,0:00:27.17,0:00:28.67,SU Team Member,,0,0,0,,{\pos(1725,800)}
+Dialogue: 0,0:00:27.17,0:00:28.67,SU Team Background,,0,0,0,,{\bord0\xshad-0\yshad16\pos(1725,860)}{\p1}m -1 122 b -1 -19 -19 -1 122 -1 l 251 -1 b 390 -1 377 -19 377 122 l 377 500 b 377 642 390 628 251 628 l 122 628 b -19 628 -1 642 -1 500 l -1 122 {\p0}
+Dialogue: 100,0:00:34.70,0:00:36.70,Normal Dialog Text,,0,0,0,,{\rCHS}我们真的非得拾起每块碎片吗?\N{\rENG}Do we really have to get every piece?
+Dialogue: 100,0:00:39.84,0:00:40.41,Normal Dialog Text,,0,0,0,,{\rCHS}没错!\N{\rENG}Yes!
+Dialogue: 100,0:00:40.41,0:00:43.10,Normal Dialog Text,,0,0,0,,{\rCHS}放任宝石飞船残骸四处散布非常危险\N{\rENG}Having a wrecked gem ship lying around is too dangerous.
+Dialogue: 100,0:00:43.41,0:00:45.74,Normal Dialog Text,,0,0,0,,{\rCHS}我们得尽快收拾碎片--所有的碎片\N{\rENG}We've got to take care of it -- all of it.
+Dialogue: 100,0:00:45.75,0:00:49.08,Normal Dialog Text,,0,0,0,,{\rCHS}而且我们得开始搜寻橄榄石的逃生仓了\N{\rENG}And we'll need to start looking for Peridot's escape pod, too,
+Dialogue: 100,0:00:49.08,0:00:51.08,Normal Dialog Text,,0,0,0,,{\rCHS}如果她真的逃到了地球上的话\N{\rENG}assuming she even made it to earth.
+Dialogue: 100,0:00:51.09,0:00:53.49,Normal Dialog Text,,0,0,0,,{\rCHS}我们有很多的工作要完成\N{\rENG}We've got lots of work ahead of us.
+Dialogue: 100,0:00:53.49,0:00:55.32,Normal Dialog Text,,0,0,0,,{\rCHS}收到\N{\rENG}On it.
+Dialogue: 100,0:01:01.26,0:01:03.10,Normal Dialog Text,,0,0,0,,{\rCHS}喔,这块可有点大\N{\rENG}Whoa, that's a big one.
+Dialogue: 100,0:01:05.70,0:01:06.54,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文?\N{\rENG}Steven?
+Dialogue: 100,0:01:07.46,0:01:08.48,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文?\N{\rENG}Steven?
+Dialogue: 100,0:01:09.42,0:01:10.18,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文!\N{\rENG}Steven!
+Dialogue: 100,0:01:12.11,0:01:14.17,Normal Dialog Text,,0,0,0,,{\rCHS}嘿,史蒂文,欢迎回到地球\N{\rENG}Hey, Steven. Welcome back to earth.
+Dialogue: 100,0:01:14.18,0:01:16.11,Normal Dialog Text,,0,0,0,,{\rCHS}搞毛?谁说的?\N{\rENG}What? Who told you?
+Dialogue: 100,0:01:16.11,0:01:17.94,Normal Dialog Text,,0,0,0,,{\rCHS}你看起来灵魂出窍了,兄弟\N{\rENG}You looked a million miles away, man.
+Dialogue: 100,0:01:17.95,0:01:19.45,Normal Dialog Text,,0,0,0,,{\rCHS}哦\N{\rENG}Oh.
+Dialogue: 100,0:01:19.45,0:01:21.61,Normal Dialog Text,,0,0,0,,{\rCHS}对不起,我只是走神了\N{\rENG}Sorry. I was zoning out.
+Dialogue: 100,0:01:21.62,0:01:23.48,Normal Dialog Text,,0,0,0,,{\rCHS}我们打算去停车场放松一下\N{\rENG}We were about to go chill at a parking lot
+Dialogue: 100,0:01:23.48,0:01:24.85,Normal Dialog Text,,0,0,0,,{\rCHS}逗逗老顽固们\N{\rENG}and freak out some squares.
+Dialogue: 600,0:01:23.48,0:01:24.85,Hint,,0,0,0,,"squares"本意"方形",在俚语中指思维死板陈旧的人
+Dialogue: 100,0:01:24.85,0:01:26.45,Normal Dialog Text,,0,0,0,,{\rCHS}你该跟我们一起去\N{\rENG}You should come with.
+Dialogue: 100,0:01:26.45,0:01:30.12,Normal Dialog Text,,0,0,0,,{\rCHS}噢,但我-我对方形没什么意见啊\N{\rENG}Oh, but I-I don't really have anything against squares.
+Dialogue: 100,0:01:30.12,0:01:31.79,Normal Dialog Text,,0,0,0,,{\rCHS}我喜欢所有的基本形状\N{\rENG}I like all basic shapes.
+Dialogue: 100,0:01:32.79,0:01:34.29,Normal Dialog Text,,0,0,0,,{\rCHS}这才像话嘛\N{\rENG}That's what I'm talking about.
+Dialogue: 100,0:01:34.30,0:01:36.13,Normal Dialog Text,,0,0,0,,{\rCHS}你有着急需的平衡物\N{\rENG}You got that much-needed counter-point
+Dialogue: 100,0:01:36.13,0:01:37.30,Normal Dialog Text,,0,0,0,,{\rCHS}平衡我们的愤世嫉俗\N{\rENG}to our cynical world-view.
+Dialogue: 100,0:01:37.30,0:01:38.14,Normal Dialog Text,,0,0,0,,{\rCHS}你非来不可\N{\rENG}You have to come.
+Dialogue: 100,0:01:38.52,0:01:40.28,Normal Dialog Text,,0,0,0,,{\rCHS}这是好的情绪能量波动\N{\rENG}It's good energy flow.
+Dialogue: 100,0:01:40.62,0:01:41.72,Normal Dialog Text,,0,0,0,,{\rCHS}对不起,伙计们\N{\rENG}Sorry, guys.
+Dialogue: 100,0:01:41.88,0:01:43.97,Normal Dialog Text,,0,0,0,,{\rCHS}我有很多重要的宝石人工作要做\N{\rENG}I've got a lot of important gem work to do.
+Dialogue: 100,0:01:43.97,0:01:45.14,Normal Dialog Text,,0,0,0,,{\rCHS}以后再说吧\N{\rENG}Maybe later.
+Dialogue: 100,0:01:46.10,0:01:46.90,Normal Dialog Text,,0,0,0,,{\rCHS}真恼人啊\N{\rENG}Bummer.
+Dialogue: 100,0:01:47.02,0:01:48.72,Normal Dialog Text,,0,0,0,,{\rCHS}那么,我们之后见\N{\rENG}Well, we'll catch you later, then.
+Dialogue: 100,0:01:55.48,0:01:58.52,Normal Dialog Text,,0,0,0,,{\rCHS}我手上的茧子生出了茧子\N{\rENG}The calluses on my hands have calluses.
+Dialogue: 100,0:02:01.08,0:02:03.99,Normal Dialog Text,,0,0,0,,{\rCHS}劳动者的负担真是沉重啊\N{\rENG}The working man's burden is truly a heavy one.
+Dialogue: 100,0:02:10.16,0:02:10.96,Normal Dialog Text,,0,0,0,,{\rCHS}批萨雨\N{\rENG}Pizza rain.
+Dialogue: 100,0:02:12.44,0:02:14.50,Normal Dialog Text,,0,0,0,,{\rCHS}但没有批萨云\N{\rENG}But no Pizza clouds.
+Dialogue: 100,0:02:15.08,0:02:15.46,Normal Dialog Text,,0,0,0,,{\rCHS}搞--\N{\rENG}Wha--
+Dialogue: 100,0:02:18.02,0:02:19.34,Normal Dialog Text,,0,0,0,,{\rCHS}你们在这里做什么?\N{\rENG}what are you guys doing here?
+Dialogue: 100,0:02:19.60,0:02:21.67,Normal Dialog Text,,0,0,0,,{\rCHS}还有为什么你们要弄个批萨雨?\N{\rENG}And why are you making a Pizza rain?
+Dialogue: 100,0:02:21.92,0:02:23.52,Normal Dialog Text,,0,0,0,,{\rCHS}我只愿看到你的笑容...\N{\rENG}I only wanted to see you laughing...
+Dialogue: 100,0:02:24.18,0:02:25.16,Normal Dialog Text,,0,0,0,,{\rCHS}在批萨雨中\N{\rENG}In the Pizza rain.
+Dialogue: 100,0:02:26.02,0:02:27.55,Normal Dialog Text,,0,0,0,,{\rCHS}这句话出自什么地方吗?\N{\rENG}Is that a reference to something?
+Dialogue: 600,0:02:26.02,0:02:27.55,Hint,,0,0,0,,"laughing in the Pizza rain"出自歌手Prince的著名歌曲"Purple Rain"
+Dialogue: 100,0:02:27.72,0:02:29.55,Normal Dialog Text,,0,0,0,,{\rCHS}来吧,该出来玩一下了\N{\rENG}Come on. It's time to hang out.
+Dialogue: 100,0:02:29.55,0:02:31.05,Normal Dialog Text,,0,0,0,,{\rCHS}你不该在晚上浪啊\N{\rENG}You can't hang out at night.
+Dialogue: 100,0:02:31.05,0:02:32.35,Normal Dialog Text,,0,0,0,,{\rCHS}晚上该睡觉的\N{\rENG}Night is for dreaming.
+Dialogue: 100,0:02:32.35,0:02:34.42,Normal Dialog Text,,0,0,0,,{\rCHS}夜晚是你自己定义的\N{\rENG}Night's whatever you want it to be.
+Dialogue: 100,0:02:34.42,0:02:35.75,Normal Dialog Text,,0,0,0,,{\rCHS}时间是幻觉\N{\rENG}Time's an illusion.
+Dialogue: 100,0:02:37.52,0:02:38.84,Normal Dialog Text,,0,0,0,,{\rCHS}你白天的工作做完了?\N{\rENG}Aren't you done working for the day?
+Dialogue: 100,0:02:39.28,0:02:41.28,Normal Dialog Text,,0,0,0,,{\rCHS}嗯...对啊,好吧\N{\rENG}Mm. Yeah, okay.
+Dialogue: 100,0:02:41.56,0:02:42.18,Normal Dialog Text,,0,0,0,,{\rCHS}我们去浪吧\N{\rENG}Let's hang out.
+Dialogue: 100,0:02:42.53,0:02:43.08,Normal Dialog Text,,0,0,0,,{\rCHS}爽\N{\rENG}Nice.
+Dialogue: 100,0:02:43.28,0:02:47.02,Normal Dialog Text,,0,0,0,,{\rCHS}但首先我们得将剩下的批萨送到笑脸先生手中\N{\rENG}But first we need to deliver the rest of this Pizza to Mr. Smiley.
+Dialogue: 100,0:02:48.42,0:02:50.54,Normal Dialog Text,,0,0,0,,{\rCHS}喔!拂面的狂风--\N{\rENG}Whoo! Wind in your face --
+Dialogue: 100,0:02:50.54,0:02:52.04,Normal Dialog Text,,0,0,0,,{\rCHS}这才是我要的\N{\rENG}that's what I'm talkin' about.
+Dialogue: 100,0:02:52.32,0:02:53.52,Normal Dialog Text,,0,0,0,,{\rCHS}深深的吸一口吧,史蒂文\N{\rENG}Breathe deep, Steven.
+Dialogue: 100,0:02:53.70,0:02:55.21,Normal Dialog Text,,0,0,0,,{\rCHS}这可是自由的味道\N{\rENG}This is the smell of freedom.
+Dialogue: 100,0:02:56.76,0:02:58.28,Normal Dialog Text,,0,0,0,,{\rCHS}自由闻起来像意大利肠\N{\rENG}Freedom smells like pepperoni.
+Dialogue: 100,0:02:59.80,0:03:00.88,Normal Dialog Text,,0,0,0,,{\rCHS}这只是车的味道\N{\rENG}That's just the car.
+Dialogue: 100,0:03:01.82,0:03:04.58,Normal Dialog Text,,0,0,0,,{\rCHS}你知道什么食物闻起来绝对不像自由吗?\N{\rENG}You know what food definitely doesn't smell like freedom?
+Dialogue: 100,0:03:05.12,0:03:05.90,Normal Dialog Text,,0,0,0,,{\rCHS}鱼肉\N{\rENG}Fish.
+Dialogue: 100,0:03:06.12,0:03:07.04,Normal Dialog Text,,0,0,0,,{\rCHS}为什么是鱼肉?\N{\rENG}Why fish?
+Dialogue: 100,0:03:07.22,0:03:09.29,Normal Dialog Text,,0,0,0,,{\rCHS}呃哦,又来了\N{\rENG}Uh-oh. Here we go.
+Dialogue: 100,0:03:09.64,0:03:10.96,Normal Dialog Text,,0,0,0,,{\rCHS}我只是不知道\N{\rENG}I just don't get what's wrong
+Dialogue: 100,0:03:10.96,0:03:12.60,Normal Dialog Text,,0,0,0,,{\rCHS}想当DJ有什么错\N{\rENG}with wanting to be a deejay.
+Dialogue: 100,0:03:12.79,0:03:15.54,Normal Dialog Text,,0,0,0,,{\rCHS}但我的继父今天又针对我了,他说...\N{\rENG}But my step-dad was all on my case again today, sayin'...
+Dialogue: 100,0:03:20.00,0:03:22.58,Normal Dialog Text,,0,0,0,,{\rCHS}我说,"我不想当渔民"\N{\rENG}I'm just like, "I don't want to be a fisherman.
+Dialogue: 100,0:03:22.72,0:03:26.24,Normal Dialog Text,,0,0,0,,{\rCHS}每个人都知道你不能穿雨衣锐舞,继父"\N{\rENG}Everyone knows you can't rave in a raincoat, step-dad."
+Dialogue: 100,0:03:26.38,0:03:28.48,Normal Dialog Text,,0,0,0,,{\rCHS}至少他只是在一件事上烦你\N{\rENG}At least he only bugs you about one thing.
+Dialogue: 100,0:03:28.48,0:03:31.08,Normal Dialog Text,,0,0,0,,{\rCHS}我爸爸对我的任何作为都指手画脚\N{\rENG}My dad's got to say something about everything I do
+Dialogue: 100,0:03:31.08,0:03:32.48,Normal Dialog Text,,0,0,0,,{\rCHS}因为我是市长的儿子\N{\rENG}'cause I'm the mayor's son.
+Dialogue: 100,0:03:32.86,0:03:35.11,Normal Dialog Text,,0,0,0,,{\rCHS}而我反驳,"你不能决定我要做什么\N{\rENG}And I'm like, "you can't tell me what to do.
+Dialogue: 100,0:03:35.12,0:03:36.26,Normal Dialog Text,,0,0,0,,{\rCHS}我是市长的..."\N{\rENG}I'm the mayor's..."
+Dialogue: 100,0:03:37.16,0:03:37.52,Normal Dialog Text,,0,0,0,,{\rCHS}等等\N{\rENG}Wait.
+Dialogue: 100,0:03:39.20,0:03:40.22,Normal Dialog Text,,0,0,0,,{\rCHS}得了吧!\N{\rENG}Puh-lease!
+Dialogue: 100,0:03:40.22,0:03:42.54,Normal Dialog Text,,0,0,0,,{\rCHS}你们的那些对话简直easy\N{\rENG}You're just walking in cake with that talk.
+Dialogue: 100,0:03:42.54,0:03:46.52,Normal Dialog Text,,0,0,0,,{\rCHS}你们有了姐妹才会知道什么叫遭\N{\rENG}You guys don't even know what bad is until you have a sister.
+Dialogue: 100,0:03:46.92,0:03:49.04,Normal Dialog Text,,0,0,0,,{\rCHS}我不得不说为什么我总是\N{\rENG}But I don't know why I have to spell it out
+Dialogue: 100,0:03:49.04,0:03:51.50,Normal Dialog Text,,0,0,0,,{\rCHS}双胞胎中邪恶的那个,而她是善良的那个\N{\rENG}that I'm the evil twin and she's the good one.
+Dialogue: 100,0:03:52.08,0:03:54.10,Normal Dialog Text,,0,0,0,,{\rCHS}别求我帮你完成你的作业\N{\rENG}Don't ask me to help you with your homework.
+Dialogue: 100,0:03:54.44,0:03:55.94,Normal Dialog Text,,0,0,0,,{\rCHS}我在听金属摇滚音乐会\N{\rENG}I'm at some metal concert.
+Dialogue: 100,0:03:56.54,0:03:57.86,Normal Dialog Text,,0,0,0,,{\rCHS}清官难断家务事\N{\rENG}Family stuff is tricky.
+Dialogue: 100,0:03:59.34,0:04:00.44,Normal Dialog Text,,0,0,0,,{\rCHS}几个月前,\N{\rENG}A few months back,
+Dialogue: 100,0:04:00.44,0:04:02.98,Normal Dialog Text,,0,0,0,,{\rCHS}我爸爸和水晶战士禁止我看电视\N{\rENG}my dad and the gems grounded me from TV.
+Dialogue: 100,0:04:02.98,0:04:04.64,Normal Dialog Text,,0,0,0,,{\rCHS}--真闹心 --这真是糟糕 --不可能吧!\N{\rENG}Bummer. That's the worst. No way!
+Dialogue: 100,0:04:04.94,0:04:07.44,Normal Dialog Text,,0,0,0,,{\rCHS}然后我发现水晶战士是外星起义者\N{\rENG}And then I found out that the gems are alien rebels
+Dialogue: 100,0:04:07.44,0:04:09.28,Normal Dialog Text,,0,0,0,,{\rCHS}然后太空中还有其他宝石人\N{\rENG}and that there are other gems out in space
+Dialogue: 100,0:04:09.28,0:04:11.45,Normal Dialog Text,,0,0,0,,{\rCHS}想弄死我们,因为她们认为我们是叛徒\N{\rENG}that want us dead 'cause they think we're traitors.
+Dialogue: 100,0:04:11.74,0:04:13.24,Normal Dialog Text,,0,0,0,,{\rCHS}而她们试图绑架我\N{\rENG}And they tried to take me hostage
+Dialogue: 100,0:04:13.24,0:04:14.36,Normal Dialog Text,,0,0,0,,{\rCHS}因为她们认为我是我母亲\N{\rENG}'cause they think I'm my mom.
+Dialogue: 100,0:04:14.82,0:04:16.92,Normal Dialog Text,,0,0,0,,{\rCHS}而且...或许我算是?\N{\rENG}And...Maybe I kinda am?
+Dialogue: 100,0:04:18.00,0:04:20.56,Normal Dialog Text,,0,0,0,,{\rCHS}我希望我能和石榴,紫晶与珍珠谈谈这个问题,\N{\rENG}I wish I could talk to Garnet, Amethyst, and Pearl about it,
+Dialogue: 100,0:04:20.56,0:04:23.88,Normal Dialog Text,,0,0,0,,{\rCHS}但我认为她们有点责怪我害得母亲消失了\N{\rENG}but I think they kinda blame me for my mom not being around.
+Dialogue: 100,0:04:29.64,0:04:30.62,Normal Dialog Text,,0,0,0,,{\rCHS}这有点沉重啊\N{\rENG}That's heavy.
+Dialogue: 100,0:04:31.16,0:04:31.96,Normal Dialog Text,,0,0,0,,{\rCHS}我想也是\N{\rENG}I guess.
+Dialogue: 100,0:04:32.58,0:04:34.52,Normal Dialog Text,,0,0,0,,{\rCHS}但你看起来总是那么积极\N{\rENG}But you always seem so upbeat.
+Dialogue: 100,0:04:35.22,0:04:37.00,Normal Dialog Text,,0,0,0,,{\rCHS}你才是真正的大佬,史蒂文·宇宙\N{\rENG}You're a real champ, Steven Universe.
+Dialogue: 100,0:04:37.40,0:04:38.02,Normal Dialog Text,,0,0,0,,{\rCHS}没错,伙计\N{\rENG}Yeah, man.
+Dialogue: 100,0:04:38.02,0:04:39.94,Normal Dialog Text,,0,0,0,,{\rCHS}我宁愿在心跳间转去打渔\N{\rENG}I'd turn to fishing in a heartbeat
+Dialogue: 100,0:04:39.94,0:04:43.34,Normal Dialog Text,,0,0,0,,{\rCHS}如果我能避免那--那个!\N{\rENG}if it meant not dealing with tha-- that!
+Dialogue: 100,0:04:43.34,0:04:44.20,Normal Dialog Text,,0,0,0,,{\rCHS}快看!\N{\rENG}Look at that!
+Dialogue: 100,0:04:44.20,0:04:45.88,Normal Dialog Text,,0,0,0,,{\rCHS}什么?!我撞上什么了?怎么了?!\N{\rENG}What?! What did I hit it? What is it?!
+Dialogue: 100,0:04:46.64,0:04:48.90,Normal Dialog Text,,0,0,0,,{\rCHS}在发-----光\N{\rENG}Gloooowing.
+Dialogue: 100,0:04:50.22,0:04:51.30,Normal Dialog Text,,0,0,0,,{\rCHS}我们得去看看\N{\rENG}We got to check it out.
+Dialogue: 100,0:04:51.62,0:04:52.24,Normal Dialog Text,,0,0,0,,{\rCHS}我支持\N{\rENG}I'm down.
+Dialogue: 100,0:04:52.80,0:04:54.48,Normal Dialog Text,,0,0,0,,{\rCHS}好吧,抓紧\N{\rENG}All right. Hold on.
+Dialogue: 100,0:04:58.70,0:05:01.80,Normal Dialog Text,,0,0,0,,{\rCHS}那看起来像600个荧光棒的亮度\N{\rENG}That's as bright as like 600 glow sticks.
+Dialogue: 100,0:05:05.50,0:05:07.00,Normal Dialog Text,,0,0,0,,{\rCHS}橄榄石的逃生舱!\N{\rENG}Peridot's escape pod!
+Dialogue: 100,0:05:08.96,0:05:11.14,Normal Dialog Text,,0,0,0,,{\rCHS}好吧,所有人往后站!\N{\rENG}Okay, everybody step back!
+Dialogue: 100,0:05:11.40,0:05:14.54,Normal Dialog Text,,0,0,0,,{\rCHS}这是个宝石人机械,可能非常危险\N{\rENG}This is a gem machine and could be extremely dangerous.
+Dialogue: 100,0:05:14.72,0:05:15.38,Normal Dialog Text,,0,0,0,,{\rCHS}看我\N{\rENG}Check it out.
+Dialogue: 100,0:05:15.38,0:05:16.28,Normal Dialog Text,,0,0,0,,{\rCHS}你在干嘛?\N{\rENG}What are you doing?
+Dialogue: 100,0:05:19.16,0:05:20.24,Normal Dialog Text,,0,0,0,,{\rCHS}喔,停下!\N{\rENG}Whoa, stop!
+Dialogue: 100,0:05:20.24,0:05:22.00,Normal Dialog Text,,0,0,0,,{\rCHS}橄榄石可能还在里面!\N{\rENG}Peridot might still be in there!
+Dialogue: 100,0:05:22.14,0:05:22.76,Normal Dialog Text,,0,0,0,,{\rCHS}橄榄蛤?\N{\rENG}Peri-what?
+Dialogue: 100,0:05:24.28,0:05:25.98,Normal Dialog Text,,0,0,0,,{\rCHS}这个东西是空的\N{\rENG}This biz is empty.
+Dialogue: 100,0:05:26.64,0:05:27.70,Normal Dialog Text,,0,0,0,,{\rCHS}看起来真是完蛋了\N{\rENG}It looks so busted.
+Dialogue: 100,0:05:28.02,0:05:29.82,Normal Dialog Text,,0,0,0,,{\rCHS}你们得远离那里!\N{\rENG}You need to get away from there!
+Dialogue: 100,0:05:30.74,0:05:32.14,Normal Dialog Text,,0,0,0,,{\rCHS}你得放松一下\N{\rENG}You need to relax.
+Dialogue: 100,0:05:32.34,0:05:34.08,Normal Dialog Text,,0,0,0,,{\rCHS}它又没什么动作\N{\rENG}It's not doing anything.
+Dialogue: 100,0:05:34.62,0:05:36.03,Normal Dialog Text,,0,0,0,,{\rCHS}这不仅是逃生舱的事\N{\rENG}It's not just the pod.
+Dialogue: 100,0:05:36.22,0:05:39.10,Normal Dialog Text,,0,0,0,,{\rCHS}这意味着橄榄石就在地球上的某处\N{\rENG}This means Peridot is just out there somewhere,
+Dialogue: 100,0:05:39.10,0:05:40.36,Normal Dialog Text,,0,0,0,,{\rCHS}试图伤害地球\N{\rENG}trying to hurt the earth.
+Dialogue: 100,0:05:40.54,0:05:42.54,Normal Dialog Text,,0,0,0,,{\rCHS}这不酷,地球万岁\N{\rENG}Not cool. Earth forever.
+Dialogue: 100,0:05:42.54,0:05:45.11,Normal Dialog Text,,0,0,0,,{\rCHS}石头来也\N{\rENG}Here come the rocks.
+Dialogue: 100,0:05:45.11,0:05:48.45,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文,跟我与这个东西来个合影吧\N{\rENG}Steven, come take a selfie with me and this thing.
+Dialogue: 100,0:05:48.45,0:05:50.05,Normal Dialog Text,,0,0,0,,{\rCHS}不,珍妮,我是认真的\N{\rENG}No, Jenny, I'm serious.
+Dialogue: 100,0:05:50.05,0:05:51.05,Normal Dialog Text,,0,0,0,,{\rCHS}我也是\N{\rENG}So am I.
+Dialogue: 100,0:05:51.05,0:05:53.55,Normal Dialog Text,,0,0,0,,{\rCHS}酸奶油,你呢?\N{\rENG}Sour Cream, what about you?
+Dialogue: 100,0:05:53.78,0:05:56.04,Normal Dialog Text,,0,0,0,,{\rCHS}当然,我支持任何建议\N{\rENG}Sure. I'm down for whatever.
+Dialogue: 100,0:05:56.22,0:05:56.56,Normal Dialog Text,,0,0,0,,{\rCHS}巴克?\N{\rENG}Buck?
+Dialogue: 100,0:05:57.76,0:06:00.32,Normal Dialog Text,,0,0,0,,{\rCHS}我愿意有时仅仅享受当下\N{\rENG}I like to just experience the moment for what it is sometimes.
+Dialogue: 100,0:06:00.46,0:06:01.89,Normal Dialog Text,,0,0,0,,{\rCHS}而且,这光罩有点诡异\N{\rENG}Plus, the lighting is weird.
+Dialogue: 100,0:06:02.14,0:06:05.96,Normal Dialog Text,,0,0,0,,{\rCHS}呃,好吧,史蒂文?最后问你一次\N{\rENG}Ugh, okay. Steven? Last call.
+Dialogue: 100,0:06:06.77,0:06:08.66,Normal Dialog Text,,0,0,0,,{\rCHS}我有滑稽的贴纸!\N{\rENG}I got funny stickers!
+Dialogue: 500,0:06:14.39,0:06:15.39,Label Trans,,0,0,0,,{\fn隶书\c&HD975E8&\3c&HFCFCFA&\4c&HFEF4FF&\fs128\bord8\shad2\frz352\pos(1192,1066)}叛逆\N女子
+Dialogue: 100,0:06:16.72,0:06:18.20,Normal Dialog Text,,0,0,0,,{\rCHS}这些真是太好了!\N{\rENG}These are so good!
+Dialogue: 100,0:06:18.40,0:06:19.18,Normal Dialog Text,,0,0,0,,{\rCHS}我看起来怎么样?\N{\rENG}How do I look?
+Dialogue: 100,0:06:19.46,0:06:20.28,Normal Dialog Text,,0,0,0,,{\rCHS}好极了!\N{\rENG}You look great!
+Dialogue: 100,0:06:20.28,0:06:21.42,Normal Dialog Text,,0,0,0,,{\rCHS}听着,呆在这里,\N{\rENG}Look, stay right there.
+Dialogue: 100,0:06:21.42,0:06:22.82,Normal Dialog Text,,0,0,0,,{\rCHS}我想再拍一--\N{\rENG}I wanna take one mor--
+Dialogue: 100,0:06:23.16,0:06:25.06,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文,进去吧!\N{\rENG}Steven, get in it!
+Dialogue: 100,0:06:26.02,0:06:26.92,Normal Dialog Text,,0,0,0,,{\rCHS}啊?\N{\rENG}W-what?
+Dialogue: 100,0:06:27.22,0:06:29.24,Normal Dialog Text,,0,0,0,,{\rCHS}就一下就好!拍个照\N{\rENG}Just for a second! One picture.
+Dialogue: 100,0:06:37.04,0:06:38.70,Normal Dialog Text,,0,0,0,,{\rCHS}好吧,准备\N{\rENG}Okay, ready.
+Dialogue: 100,0:06:39.02,0:06:40.60,Normal Dialog Text,,0,0,0,,{\rCHS}三,二...\N{\rENG}Three, two...
+Dialogue: 100,0:06:42.26,0:06:42.76,Normal Dialog Text,,0,0,0,,{\rCHS}什么--\N{\rENG}Wha--
+Dialogue: 100,0:06:46.24,0:06:48.04,Normal Dialog Text,,0,0,0,,{\rCHS}天辣撸!史蒂文!\N{\rENG}Oh, my gosh, Steven!
+Dialogue: 100,0:06:48.16,0:06:51.34,Normal Dialog Text,,0,0,0,,{\rCHS}蛤?这真是太酷了!\N{\rENG}Wha? This is so cool!
+Dialogue: 100,0:06:57.74,0:06:58.62,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文!\N{\rENG}Steven!
+Dialogue: 100,0:06:59.92,0:07:01.86,Normal Dialog Text,,0,0,0,,{\rCHS}你是怎么做到的?\N{\rENG}How are you doing that?
+Dialogue: 100,0:07:04.28,0:07:06.40,Normal Dialog Text,,0,0,0,,{\rCHS}我想它跟随我的手势而动\N{\rENG}I think it listens to what my hands do.
+Dialogue: 100,0:07:07.14,0:07:08.86,Normal Dialog Text,,0,0,0,,{\rCHS}我真的不应该玩弄这个\N{\rENG}I really shouldn't be playing with this.
+Dialogue: 100,0:07:09.26,0:07:11.54,Normal Dialog Text,,0,0,0,,{\rCHS}我必须得将这个立即带回神庙\N{\rENG}I have to take this back to the temple immediately.
+Dialogue: 100,0:07:12.00,0:07:14.58,Normal Dialog Text,,0,0,0,,{\rCHS}别啊,你刚让它正常工作!\N{\rENG}No way. You just got it working!
+Dialogue: 100,0:07:14.58,0:07:16.46,Normal Dialog Text,,0,0,0,,{\rCHS}老兄,你不是你的妈妈吗?\N{\rENG}Come on, aren't you your own mom?
+Dialogue: 100,0:07:16.66,0:07:17.76,Normal Dialog Text,,0,0,0,,{\rCHS}你可以随心所欲\N{\rENG}You can do whatever you want.
+Dialogue: 100,0:07:17.97,0:07:20.54,Normal Dialog Text,,0,0,0,,{\rCHS}没错,你得用这个画几个甜甜圈\N{\rENG}Yeah, you got to do some donuts in that thing.
+Dialogue: 100,0:07:20.81,0:07:22.90,Normal Dialog Text,,0,0,0,,{\rCHS}至少一打,烘焙师的一打\N{\rENG}At least a dozen. Baker's dozen.
+Dialogue: 100,0:07:23.46,0:07:26.85,Normal Dialog Text,,0,0,0,,{\rCHS}说真的,史蒂文,你一直都承受着巨大的压力\N{\rENG}Seriously, Steven, you've been under a lot of pressure.
+Dialogue: 100,0:07:27.14,0:07:29.58,Normal Dialog Text,,0,0,0,,{\rCHS}你不认为你该享受点乐趣吗?\N{\rENG}Don't you think you deserve to have a little fun?
+Dialogue: 100,0:07:45.34,0:07:46.00,Normal Dialog Text,,0,0,0,,{\rCHS}嘿!\N{\rENG}Hey!
+Dialogue: 100,0:07:49.40,0:07:51.82,Normal Dialog Text,,0,0,0,,{\rCHS}你看来掌握了那个东西了?\N{\rENG}You really got the hang of that thing, huh?
+Dialogue: 100,0:07:52.86,0:07:53.42,Normal Dialog Text,,0,0,0,,{\rCHS}当然!\N{\rENG}Yeah!
+Dialogue: 100,0:07:53.62,0:07:54.92,Normal Dialog Text,,0,0,0,,{\rCHS}它总是向左倾\N{\rENG}It always hooks to the left.
+Dialogue: 100,0:07:56.98,0:07:59.42,Normal Dialog Text,,0,0,0,,{\rCHS}不过我真的该把它带回给水晶战士了\N{\rENG}I should really get it back to the gems, though.
+Dialogue: 100,0:07:59.42,0:08:01.51,Normal Dialog Text,,0,0,0,,{\rCHS}不!\N{\rENG}No!
+Dialogue: 100,0:08:01.52,0:08:03.85,Normal Dialog Text,,0,0,0,,{\rCHS}或者就在我跳过那个干草堆之后!\N{\rENG}Or right after I jump that haystack!
+Dialogue: 100,0:08:04.16,0:08:05.78,Normal Dialog Text,,0,0,0,,{\rCHS}没错!上吧!\N{\rENG}Yeah! Come on!Do it!
+Dialogue: 100,0:08:05.78,0:08:07.18,Normal Dialog Text,,0,0,0,,{\rCHS}毁了它,史蒂文!\N{\rENG}Wreck it up, Steven!
+Dialogue: 100,0:08:12.60,0:08:13.46,Normal Dialog Text,,0,0,0,,{\rCHS}我很好\N{\rENG}I'm okay.
+Dialogue: 100,0:08:14.96,0:08:17.64,Normal Dialog Text,,0,0,0,,{\rCHS}其实这还不算遭,如果你能给它一点点--\N{\rENG}It's not actually so bad if you just give it a little --
+Dialogue: 100,0:08:20.68,0:08:21.12,Normal Dialog Text,,0,0,0,,{\rCHS}啊!\N{\rENG}Aah!
+Dialogue: 100,0:08:24.96,0:08:25.54,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文?\N{\rENG}Steven?
+Dialogue: 100,0:08:27.46,0:08:28.16,Normal Dialog Text,,0,0,0,,{\rCHS}伙计们?\N{\rENG}Guys?
+Dialogue: 600,0:08:31.65,0:08:33.53,Hint,,0,0,0,,这里史蒂文对呼吸液的反应类似"新世纪福音战士"中的碇真嗣
+Dialogue: 100,0:09:00.14,0:09:03.48,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文!发生了什么?\N{\rENG}Steven! What's going on?
+Dialogue: 100,0:09:03.48,0:09:05.94,Normal Dialog Text,,0,0,0,,{\rCHS}伙计们,能听到我吗?\N{\rENG}Guys, can you hear me?
+Dialogue: 100,0:09:06.28,0:09:09.48,Normal Dialog Text,,0,0,0,,{\rCHS}我就知道!那个信号弹直接带我们到达了逃生舱!\N{\rENG}I knew it! That flare led us right to the escape pod!
+Dialogue: 100,0:09:09.70,0:09:11.08,Normal Dialog Text,,0,0,0,,{\rCHS}这里发生了什么?\N{\rENG}What's going on here?
+Dialogue: 100,0:09:11.36,0:09:12.92,Normal Dialog Text,,0,0,0,,{\rCHS}救命!帮帮我们!在这!\N{\rENG}Help! Help us! Over here!
+Dialogue: 100,0:09:12.92,0:09:15.09,Normal Dialog Text,,0,0,0,,{\rCHS}石榴,紫晶,珍珠!\N{\rENG}Garnet, Amethyst, Pearl!
+Dialogue: 100,0:09:15.34,0:09:16.90,Normal Dialog Text,,0,0,0,,{\rCHS}我们会救你们的,人类!\N{\rENG}We'll save you, humans!
+Dialogue: 100,0:09:19.34,0:09:21.90,Normal Dialog Text,,0,0,0,,{\rCHS}难以置信!橄榄石还在里面\N{\rENG}I can't believe it. Peridot's still inside.
+Dialogue: 100,0:09:22.08,0:09:23.74,Normal Dialog Text,,0,0,0,,{\rCHS}她很可能因为迫降非常虚弱\N{\rENG}She's probably weak from the landing.
+Dialogue: 100,0:09:24.02,0:09:25.06,Normal Dialog Text,,0,0,0,,{\rCHS}毫不留情\N{\rENG}Don't hold back.
+Dialogue: 100,0:09:25.32,0:09:25.86,Normal Dialog Text,,0,0,0,,{\rCHS}了解!\N{\rENG}Got it!
+Dialogue: 100,0:09:28.60,0:09:29.60,Normal Dialog Text,,0,0,0,,{\rCHS}不!\N{\rENG}No!
+Dialogue: 100,0:09:30.48,0:09:31.34,Normal Dialog Text,,0,0,0,,{\rCHS}喔!\N{\rENG}Whoa!
+Dialogue: 100,0:09:31.34,0:09:33.52,Normal Dialog Text,,0,0,0,,{\rCHS}你来这里避难真是嚣张啊,\N{\rENG}You got a lot of nerve taking refuge here,
+Dialogue: 100,0:09:33.76,0:09:34.88,Normal Dialog Text,,0,0,0,,{\rCHS}那么多地方可去!\N{\rENG}of all places!
+Dialogue: 100,0:09:35.70,0:09:36.48,Normal Dialog Text,,0,0,0,,{\rCHS}石榴?\N{\rENG}Garnet?
+Dialogue: 100,0:09:36.48,0:09:38.44,Normal Dialog Text,,0,0,0,,{\rCHS}但我不知道你居然敢\N{\rENG}But I don't know where you get off
+Dialogue: 100,0:09:38.45,0:09:41.31,Normal Dialog Text,,0,0,0,,{\rCHS}使用你那渣渣逃生舱攻击毫无防护的人类\N{\rENG}attacking defenseless humans in your deadbeat escape pod.
+Dialogue: 100,0:09:41.32,0:09:43.98,Normal Dialog Text,,0,0,0,,{\rCHS}石榴!是我,史蒂文!\N{\rENG}Garnet! It's me, Steven!
+Dialogue: 100,0:09:44.24,0:09:46.18,Normal Dialog Text,,0,0,0,,{\rCHS}能听到我吗?石榴!\N{\rENG}Can you hear me? Garnet!
+Dialogue: 100,0:09:46.40,0:09:49.62,Normal Dialog Text,,0,0,0,,{\rCHS}并且如果你以为你在这很安全,那么,我告诉你个事情\N{\rENG}And if you think you're safe here, well, I got news for you.
+Dialogue: 100,0:09:49.90,0:09:51.12,Normal Dialog Text,,0,0,0,,{\rCHS}你输了!\N{\rENG}You lost!
+Dialogue: 100,0:09:51.80,0:09:52.36,Normal Dialog Text,,0,0,0,,{\rCHS}现在...\N{\rENG}Now...
+Dialogue: 100,0:09:52.36,0:09:54.16,Normal Dialog Text,,0,0,0,,{\rCHS}石榴!石榴!石榴!\N{\rENG}Garnet! Garnet! Garnet!
+Dialogue: 100,0:09:54.32,0:09:55.78,Normal Dialog Text,,0,0,0,,{\rCHS}...滚出我的星球!\N{\rENG}...stay off my planet!
+Dialogue: 100,0:09:56.63,0:09:57.60,Normal Dialog Text,,0,0,0,,{\rCHS}停下!\N{\rENG}Stop!
+Dialogue: 100,0:10:00.48,0:10:01.76,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文在里头\N{\rENG}Steven's in there.
+Dialogue: 100,0:10:12.31,0:10:13.31,Normal Dialog Text,,0,0,0,,{\rCHS}噢,史蒂文!\N{\rENG}Oh, Steven!
+Dialogue: 100,0:10:13.90,0:10:15.36,Normal Dialog Text,,0,0,0,,{\rCHS}你刚才在干吗?!\N{\rENG}what were you doing?!
+Dialogue: 100,0:10:15.52,0:10:17.74,Normal Dialog Text,,0,0,0,,{\rCHS}你发现了橄榄石的逃生舱,\N{\rENG}You found Peridot's escape pod,
+Dialogue: 100,0:10:17.74,0:10:19.82,Normal Dialog Text,,0,0,0,,{\rCHS}而你没有立即呼叫我们?\N{\rENG}and you didn't come get us immediately?
+Dialogue: 100,0:10:19.98,0:10:21.65,Normal Dialog Text,,0,0,0,,{\rCHS}兄弟,我们差点废了你\N{\rENG}Dude, we almost wrecked you.
+Dialogue: 100,0:10:21.78,0:10:23.82,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文,这不可接受\N{\rENG}Steven, this is unacceptable.
+Dialogue: 100,0:10:24.34,0:10:25.80,Normal Dialog Text,,0,0,0,,{\rCHS}我对你非常失望\N{\rENG}I'm very disappointed in you.
+Dialogue: 100,0:10:27.30,0:10:27.84,Normal Dialog Text,,0,0,0,,{\rCHS}你没错\N{\rENG}You're right.
+Dialogue: 100,0:10:28.16,0:10:30.33,Normal Dialog Text,,0,0,0,,{\rCHS}嘿!让他放松一下\N{\rENG}Hey! Cut him some slack.
+Dialogue: 100,0:10:30.33,0:10:31.66,Normal Dialog Text,,0,0,0,,{\rCHS}这又不是他的错!\N{\rENG}It's not his fault!
+Dialogue: 100,0:10:31.90,0:10:33.72,Normal Dialog Text,,0,0,0,,{\rCHS}就让他成为一个DJ吧!\N{\rENG}Just let him be a deejay!
+Dialogue: 100,0:10:34.34,0:10:34.88,Normal Dialog Text,,0,0,0,,{\rCHS}蛤?\N{\rENG}Wha?
+Dialogue: 100,0:10:35.34,0:10:37.58,Normal Dialog Text,,0,0,0,,{\rCHS}我们只是想让史蒂文高兴一下\N{\rENG}We just wanted Steven to have some fun.
+Dialogue: 100,0:10:37.92,0:10:39.94,Normal Dialog Text,,0,0,0,,{\rCHS}我不了解外星人试图\N{\rENG}I don't know what's going on with aliens
+Dialogue: 100,0:10:40.17,0:10:43.04,Normal Dialog Text,,0,0,0,,{\rCHS}绑架他与他是自己的母亲的事,\N{\rENG}trying to abduct him and him being his own mom,
+Dialogue: 100,0:10:43.04,0:10:45.91,Normal Dialog Text,,0,0,0,,{\rCHS}但听上去他心里有很多事情\N{\rENG}but it sounds like he's got a lot on his mind.
+Dialogue: 100,0:10:45.91,0:10:48.54,Normal Dialog Text,,0,0,0,,{\rCHS}我知道不论你们让他做的是什么都很重要,\N{\rENG}I'm sure whatever you're having him do is important,
+Dialogue: 100,0:10:48.54,0:10:51.38,Normal Dialog Text,,0,0,0,,{\rCHS}但任何人都有需要休息的时候\N{\rENG}but everyone needs a break once in a while.
+Dialogue: 100,0:10:51.39,0:10:52.54,Normal Dialog Text,,0,0,0,,{\rCHS}他还只是个孩子\N{\rENG}He's just a kid.
+Dialogue: 100,0:10:54.52,0:10:57.70,Normal Dialog Text,,0,0,0,,{\rCHS}哦,也许我们之前是有点太过严格了\N{\rENG}Oh, maybe we have been a little hard on him.
+Dialogue: 100,0:10:57.96,0:11:00.64,Normal Dialog Text,,0,0,0,,{\rCHS}他的确才带我们逃出太空监狱\N{\rENG}He did just break us out of space jail.
+Dialogue: 100,0:11:01.68,0:11:02.20,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文\N{\rENG}Steven.
+Dialogue: 100,0:11:03.66,0:11:05.00,Normal Dialog Text,,0,0,0,,{\rCHS}你从现在起可以看电视了\N{\rENG}You're ungrounded from TV.
+Dialogue: 100,0:11:11.44,0:11:12.68,Normal Dialog Text,,0,0,0,,{\rCHS}我是无敌的!\N{\rENG}I'm invincible!
+Dialogue: 500,0:11:12.68,0:11:14.32,Label Trans,,0,0,0,,{\fn黑体\fs128\c&HE0FF7A&\3c&HD7BDAA&\bord8\be8\shad0\frz341.9\pos(1006,736)}地球万岁!!
+Dialogue: 150,0:11:17.38,0:11:20.49,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}若我能开始改变\N{\rENG_LYC}If I could begin to be
+Dialogue: 150,0:11:20.49,0:11:23.33,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}到你期望的一半\N{\rENG_LYC}Half of what you think of me
+Dialogue: 150,0:11:23.33,0:11:25.58,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我愿付出我的一切\N{\rENG_LYC}I could do about anything
+Dialogue: 150,0:11:25.58,0:11:29.02,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我甚至能学着去爱\N{\rENG_LYC}I could even learn how to love
+Dialogue: 150,0:11:29.02,0:11:30.18,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}如你\N{\rENG_LYC}like you
