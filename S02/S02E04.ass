@@ -11,7 +11,6 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Steven Universe Styles
-<<<<<<< HEAD
 Audio File: E:/SU/season 2/[AliQ] S02E04 - Say Uncle.mkv
 Video File: E:/SU/season 2/[AliQ] S02E04 - Say Uncle.mkv
 Video AR Mode: 4
@@ -19,16 +18,6 @@ Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
 Active Line: 257
 Video Position: 16059
-=======
-Audio File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E04.Say.Uncle.1080p.WEBRip.h264.AAC-AliQ.mp4
-Video File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E04.Say.Uncle.1080p.WEBRip.h264.AAC-AliQ.mp4
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 156
-Active Line: 173
-Video Position: 10735
->>>>>>> refs/remotes/presisco/master
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -78,11 +67,7 @@ Dialogue: 1,0:00:27.55,0:00:29.05,SU Team Title,,0,0,0,,{\pos(1725,740)}压制
 Dialogue: 1,0:00:27.55,0:00:29.05,SU Team Member,,0,0,0,,{\pos(1725,800)}
 Dialogue: 0,0:00:27.55,0:00:29.05,SU Team Background,,0,0,0,,{\bord0\xshad-0\yshad16\pos(1725,860)}{\p1}m -1 122 b -1 -19 -19 -1 122 -1 l 251 -1 b 390 -1 377 -19 377 122 l 377 500 b 377 642 390 628 251 628 l 122 628 b -19 628 -1 642 -1 500 l -1 122 {\p0}
 Dialogue: 100,0:00:34.22,0:00:34.94,Normal Dialog Text,,0,0,0,,{\rCHS}护盾\N{\rENG}Shield.
-<<<<<<< HEAD
 Dialogue: 100,0:00:42.20,0:00:44.74,Normal Dialog Text,,0,0,0,,{\rCHS}不,不是泡泡 是盾啊!\N{\rENG}No, not bubble shield!
-=======
-Dialogue: 100,0:00:42.20,0:00:44.74,Normal Dialog Text,,0,0,0,,{\rCHS}不,不是泡泡啊!\N{\rENG}No, not bubble shield!
->>>>>>> refs/remotes/presisco/master
 Dialogue: 100,0:00:50.30,0:00:51.82,Normal Dialog Text,,0,0,0,,{\rCHS}我到底哪里做错了?\N{\rENG}What am I doing wrong?
 Dialogue: 100,0:00:52.00,0:00:53.66,Normal Dialog Text,,0,0,0,,{\rCHS}水晶战士们都可以召唤她们的武器\N{\rENG}The gems can all summon their weapons.
 Dialogue: 100,0:00:53.66,0:00:54.58,Normal Dialog Text,,0,0,0,,{\rCHS}为什么我不行?!\N{\rENG}Why can't I?!
@@ -101,16 +86,11 @@ Dialogue: 600,0:01:40.42,0:01:42.48,Hint,,0,0,0,,"canon"本意大炮,同时也�
 Dialogue: 100,0:01:42.84,0:01:44.00,Normal Dialog Text,,0,0,0,,{\rCHS}但这个是!\N{\rENG}But this is!
 Dialogue: 100,0:01:54.24,0:01:55.40,Normal Dialog Text,,0,0,0,,{\rCHS}哦,不!\N{\rENG}Oh, no!
 Dialogue: 100,0:01:55.44,0:01:57.44,Normal Dialog Text,,0,0,0,,{\rCHS}我们的船!\N{\rENG}Our ship!
-<<<<<<< HEAD
 Dialogue: 600,0:01:55.44,0:01:57.44,Hint,,0,0,0,,此处源自"泰坦尼克号",同时官方暗指珊迪和拉尔斯之间有关系
-=======
-Dialogue: 600,0:01:55.44,0:01:57.44,Hint,,0,0,0,,此处源自"泰坦尼克号",同时官方暗指珊迪和拉尔斯之间有不一样的关系(relation-ship)
->>>>>>> refs/remotes/presisco/master
 Dialogue: 100,0:01:57.70,0:02:00.42,Normal Dialog Text,,0,0,0,,{\rCHS}那么,我听说你心里有一丝沮丧\N{\rENG}So, I hear your belly's being a bit of a bummer.
 Dialogue: 100,0:02:00.76,0:02:02.78,Normal Dialog Text,,0,0,0,,{\rCHS}没错,我一个早上都在尝试从我的宝石中\N{\rENG}Yeah. I've been trying to pull my shield
 Dialogue: 100,0:02:02.80,0:02:03.98,Normal Dialog Text,,0,0,0,,{\rCHS}召唤我的护盾\N{\rENG}out of my gem all morning.
 Dialogue: 100,0:02:04.36,0:02:06.74,Normal Dialog Text,,0,0,0,,{\rCHS}嗯...那让我们看一眼\N{\rENG}Hmm. Well, let's take a looksee.
-<<<<<<< HEAD
 Dialogue: 100,0:02:06.95,0:02:08.74,Normal Dialog Text,,0,0,0,,{\rCHS}你该给你这东西抛抛光\N{\rENG}You should make sure you get this thing polished
 Dialogue: 100,0:02:08.75,0:02:09.92,Normal Dialog Text,,0,0,0,,{\rCHS}至少一年两次\N{\rENG}at least twice a year.
 Dialogue: 100,0:02:13.50,0:02:15.32,Normal Dialog Text,,0,0,0,,{\rCHS}那么,你认为你能帮到我吗?\N{\rENG}So, do you think you can help me?
@@ -119,25 +99,11 @@ Dialogue: 100,0:02:18.00,0:02:20.12,Normal Dialog Text,,0,0,0,,{\rCHS}嗯...没�
 Dialogue: 100,0:02:20.32,0:02:21.72,Normal Dialog Text,,0,0,0,,{\rCHS}我以前见过\N{\rENG}I've definitely seen this before.
 Dialogue: 100,0:02:21.96,0:02:22.40,Normal Dialog Text,,0,0,0,,{\rCHS}真的?\N{\rENG}Really?
 Dialogue: 100,0:02:22.62,0:02:24.12,Normal Dialog Text,,0,0,0,,{\rCHS}我当时在场!你不记得吗?\N{\rENG}I was there! Don't you remember?
-=======
-Dialogue: 100,0:02:06.95,0:02:08.52,Normal Dialog Text,,0,0,0,,{\rCHS}你应该确保这个东西被打磨\N{\rENG}You should make sure you get this thing polished
-Dialogue: 100,0:02:08.52,0:02:09.92,Normal Dialog Text,,0,0,0,,{\rCHS}至少一年两次\N{\rENG}at least twice a year.
-Dialogue: 100,0:02:13.50,0:02:15.32,Normal Dialog Text,,0,0,0,,{\rCHS}那么,你认为你能帮到我吗?\N{\rENG}So, do you think you can help me?
-Dialogue: 100,0:02:15.53,0:02:17.70,Normal Dialog Text,,0,0,0,,{\rCHS}我只是想有能力保护我的朋友\N{\rENG}I just want to be able to protect my friends.
-Dialogue: 100,0:02:18.00,0:02:20.12,Normal Dialog Text,,0,0,0,,{\rCHS}嗯...没错,这是肚皮抑郁\N{\rENG}Hmm. Yep. It's the belly blues.
-Dialogue: 100,0:02:20.32,0:02:21.72,Normal Dialog Text,,0,0,0,,{\rCHS}我之间绝对见到过\N{\rENG}I've definitely seen this before.
-Dialogue: 100,0:02:21.96,0:02:22.40,Normal Dialog Text,,0,0,0,,{\rCHS}真的?\N{\rENG}Really?
-Dialogue: 100,0:02:22.62,0:02:24.12,Normal Dialog Text,,0,0,0,,{\rCHS}我就在那里!你还记得吗?\N{\rENG}I was there! Don't you remember?
->>>>>>> refs/remotes/presisco/master
 Dialogue: 100,0:02:25.22,0:02:26.56,Normal Dialog Text,,0,0,0,,{\rCHS}喔!嘿!\N{\rENG} Whoa! Hey!
 Dialogue: 100,0:02:26.58,0:02:28.76,Normal Dialog Text,,0,0,0,,{\rCHS}是个超新奇的卡通图片节目!\N{\rENG} It's a rad new cartoon picture show!
 Dialogue: 100,0:02:29.44,0:02:31.28,Normal Dialog Text,,0,0,0,,{\rCHS}嘿!嘿!你好!\N{\rENG} Hey! Hey! Hi, there!
 Dialogue: 100,0:02:32.24,0:02:33.76,Normal Dialog Text,,0,0,0,,{\rCHS}嘿,早上好?\N{\rENG}Hey, good morning?
-<<<<<<< HEAD
 Dialogue: 100,0:02:34.26,0:02:35.48,Normal Dialog Text,,0,0,0,,{\rCHS}我一点印象也没有\N{\rENG}I don't remember that at all.
-=======
-Dialogue: 100,0:02:34.26,0:02:35.48,Normal Dialog Text,,0,0,0,,{\rCHS}我对于那个一点印象也没有\N{\rENG}I don't remember that at all.
->>>>>>> refs/remotes/presisco/master
 Dialogue: 100,0:02:35.92,0:02:37.60,Normal Dialog Text,,0,0,0,,{\rCHS}那么你的护盾只在\N{\rENG}So, your shield only comes out
 Dialogue: 100,0:02:37.62,0:02:39.18,Normal Dialog Text,,0,0,0,,{\rCHS}你需要保护自己时出现\N{\rENG}when you need to protect yourself.
 Dialogue: 100,0:02:39.36,0:02:40.05,Normal Dialog Text,,0,0,0,,{\rCHS}没错\N{\rENG}Yeah.
@@ -161,11 +127,7 @@ Dialogue: 100,0:03:20.64,0:03:22.42,Normal Dialog Text,,0,0,0,,{\rCHS}我猜他�
 Dialogue: 100,0:03:27.66,0:03:29.36,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文!\N{\rENG}Steven!
 Dialogue: 100,0:03:34.56,0:03:36.30,Normal Dialog Text,,0,0,0,,{\rCHS}不,不是泡泡\N{\rENG}No, not bubble
 Dialogue: 100,0:03:36.30,0:03:37.60,Normal Dialog Text,,0,0,0,,{\rCHS}护盾!\N{\rENG}shield!
-<<<<<<< HEAD
 Dialogue: 100,0:03:38.64,0:03:40.61,Normal Dialog Text,,0,0,0,,{\rCHS}嗯...我真的以为\N{\rENG}Hmm. I would have sworn
-=======
-Dialogue: 100,0:03:38.64,0:03:40.61,Normal Dialog Text,,0,0,0,,{\rCHS}嗯...我发誓\N{\rENG}Hmm. I would have sworn
->>>>>>> refs/remotes/presisco/master
 Dialogue: 100,0:03:40.64,0:03:43.20,Normal Dialog Text,,0,0,0,,{\rCHS}一个毁灭性超卑鄙破坏死亡射线会起作用\N{\rENG}a doomtastic death ray of dastardly destruction would have worked.
 Dialogue: 100,0:03:43.64,0:03:44.98,Normal Dialog Text,,0,0,0,,{\rCHS}你想再试试蜜蜂吗?\N{\rENG}You want to try the bees again?
 Dialogue: 100,0:03:45.22,0:03:45.88,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文!\N{\rENG}Steven!
@@ -202,15 +164,9 @@ Dialogue: 100,0:04:52.78,0:04:53.68,Normal Dialog Text,,0,0,0,,{\rCHS}不,呃...
 Dialogue: 100,0:04:53.68,0:04:55.08,Normal Dialog Text,,0,0,0,,{\rCHS}绕圈跑吗?\N{\rENG}run around in circles?
 Dialogue: 100,0:04:55.12,0:04:56.02,Normal Dialog Text,,0,0,0,,{\rCHS}不\N{\rENG}No.
 Dialogue: 100,0:04:56.02,0:04:57.52,Normal Dialog Text,,0,0,0,,{\rCHS}吃个三叉堡?\N{\rENG}Eat a threeway sub?
-<<<<<<< HEAD
 Dialogue: 100,0:04:58.28,0:04:59.22,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶\N{\rENG}Amethyst!
 Dialogue: 100,0:05:00.30,0:05:00.84,Normal Dialog Text,,0,0,0,,{\rCHS}不\N{\rENG}No.
 Dialogue: 100,0:05:01.14,0:05:02.00,Normal Dialog Text,,0,0,0,,{\rCHS}我们已经决定\N{\rENG}We have decided
-=======
-Dialogue: 100,0:04:58.28,0:04:59.22,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Amethyst!
-Dialogue: 100,0:05:00.30,0:05:00.84,Normal Dialog Text,,0,0,0,,{\rCHS}不\N{\rENG}No.
-Dialogue: 100,0:05:01.14,0:05:02.00,Normal Dialog Text,,0,0,0,,{\rCHS}我们已经确定\N{\rENG}We have decided
->>>>>>> refs/remotes/presisco/master
 Dialogue: 100,0:05:01.98,0:05:04.20,Normal Dialog Text,,0,0,0,,{\rCHS}你对地球与史蒂文是个威胁\N{\rENG}that you are a danger to Steven and the planet earth
 Dialogue: 100,0:05:04.20,0:05:05.76,Normal Dialog Text,,0,0,0,,{\rCHS}而我们必须摧毁你\N{\rENG}and we must destroy you.
 Dialogue: 100,0:05:05.86,0:05:06.42,Normal Dialog Text,,0,0,0,,{\rCHS}啊?!\N{\rENG}What?!
@@ -229,11 +185,7 @@ Dialogue: 100,0:05:46.38,0:05:47.77,Normal Dialog Text,,0,0,0,,{\rCHS}早上好!
 Dialogue: 100,0:05:51.42,0:05:53.36,Normal Dialog Text,,0,0,0,,{\rCHS}现在,我把那个小子放哪了?\N{\rENG}Now, where'd I put that little kid?
 Dialogue: 100,0:05:53.78,0:05:55.91,Normal Dialog Text,,0,0,0,,{\rCHS}哦,对!早上好!\N{\rENG}Oh, yeah! Good morning!
 Dialogue: 100,0:05:56.26,0:05:57.68,Normal Dialog Text,,0,0,0,,{\rCHS}哦,让我帮你一把吧\N{\rENG}Oh, let me give you a hand there.
-<<<<<<< HEAD
 Dialogue: 100,0:06:00.30,0:06:02.14,Normal Dialog Text,,0,0,0,,{\rCHS}喔,我在哪?\N{\rENG}Whoa. Where am I?
-=======
-Dialogue: 100,0:06:00.30,0:06:02.14,Normal Dialog Text,,0,0,0,,{\rCHS}喔,我在那?\N{\rENG}Whoa. Where am I?
->>>>>>> refs/remotes/presisco/master
 Dialogue: 100,0:06:02.40,0:06:04.25,Normal Dialog Text,,0,0,0,,{\rCHS}欢迎来到UGRV!\N{\rENG}Welcome to the ugrv!
 Dialogue: 100,0:06:04.78,0:06:05.76,Normal Dialog Text,,0,0,0,,{\rCHS}什么?\N{\rENG}The wha?
 Dialogue: 100,0:06:06.22,0:06:08.80,Normal Dialog Text,,0,0,0,,{\rCHS}天才叔公娱乐用载具\N{\rENG}The Uncle Grandpa recreational vehicle.
@@ -266,17 +218,10 @@ Dialogue: 500,0:07:27.72,0:07:30.07,Label Trans,,0,0,0,,{\fn华文宋体\fs80\fr
 Dialogue: 100,0:07:30.50,0:07:35.34,Normal Dialog Text,,0,0,0,,{\rCHS}我的宝石在尾巴上,而我的武器则是炸锅\N{\rENG}My gem is on my tail, and my weapon is a frying pan.
 Dialogue: 100,0:07:35.60,0:07:37.90,Normal Dialog Text,,0,0,0,,{\rCHS}线条不错嘛,嘎斯先生!\N{\rENG}Nice line work, Mr. Gus!
 Dialogue: 100,0:07:38.24,0:07:39.78,Normal Dialog Text,,0,0,0,,{\rCHS}那很酷啊,嘎斯先生\N{\rENG}That's really cool, Mr. Gus.
-<<<<<<< HEAD
 Dialogue: 100,0:07:40.10,0:07:41.90,Normal Dialog Text,,0,0,0,,{\rCHS}我希望能像你的画那么酷\N{\rENG}I wish I was as cool as your drawing.
 Dialogue: 100,0:07:42.14,0:07:43.26,Normal Dialog Text,,0,0,0,,{\rCHS}有什么问题吗?\N{\rENG}Something wrong?
 Dialogue: 100,0:07:43.60,0:07:45.59,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文不知道怎么召唤他的护盾\N{\rENG}Steven doesn't know how to summon his shield.
 Dialogue: 100,0:07:45.90,0:07:46.88,Normal Dialog Text,,0,0,0,,{\rCHS}是这样啊?\N{\rENG}You don't say?
-=======
-Dialogue: 100,0:07:40.10,0:07:41.90,Normal Dialog Text,,0,0,0,,{\rCHS}我希望我能像你画得那么酷\N{\rENG}I wish I was as cool as your drawing.
-Dialogue: 100,0:07:42.14,0:07:43.26,Normal Dialog Text,,0,0,0,,{\rCHS}有什么问题吗?\N{\rENG}Something wrong?
-Dialogue: 100,0:07:43.60,0:07:45.59,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文不知道怎么召唤他的护盾\N{\rENG}Steven doesn't know how to summon his shield.
-Dialogue: 100,0:07:45.90,0:07:46.88,Normal Dialog Text,,0,0,0,,{\rCHS}你不早说?\N{\rENG}You don't say?
->>>>>>> refs/remotes/presisco/master
 Dialogue: 100,0:07:47.22,0:07:50.14,Normal Dialog Text,,0,0,0,,{\rCHS}哦,这很简单,史蒂文的能力源自母亲\N{\rENG}Oh, that's simple. Steven's powers are maternal.
 Dialogue: 100,0:07:50.14,0:07:53.03,Normal Dialog Text,,0,0,0,,{\rCHS}对他宝石的控制力源自他的情绪状态\N{\rENG}Control of his gem is based on emotional clarity.
 Dialogue: 100,0:07:53.36,0:07:54.72,Normal Dialog Text,,0,0,0,,{\rCHS}他的护盾只会在\N{\rENG}His shield only comes out
@@ -296,11 +241,7 @@ Dialogue: 100,0:08:37.22,0:08:41.34,Normal Dialog Text,,0,0,0,,{\rCHS}我们永�
 Dialogue: 100,0:08:41.36,0:08:42.90,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠,你反应过激了\N{\rENG}Pearl, you're overreacting.
 Dialogue: 100,0:08:42.92,0:08:44.62,Normal Dialog Text,,0,0,0,,{\rCHS}我才没反应过激!\N{\rENG}I'm not overreacting!
 Dialogue: 100,0:08:51.58,0:08:52.90,Normal Dialog Text,,0,0,0,,{\rCHS}嘿,史蒂文呢?\N{\rENG}Hey, where's Steven?
-<<<<<<< HEAD
 Dialogue: 100,0:08:53.20,0:08:56.78,Normal Dialog Text,,0,0,0,,{\rCHS}在找我吗?批萨·史蒂文·宇宙?\N{\rENG}Looking for me, Pizza Steven Universe?
-=======
-Dialogue: 100,0:08:53.20,0:08:56.78,Normal Dialog Text,,0,0,0,,{\rCHS}再找我吗?批萨·史蒂文·宇宙?\N{\rENG}Looking for me, Pizza Steven Universe?
->>>>>>> refs/remotes/presisco/master
 Dialogue: 100,0:08:57.44,0:08:58.40,Normal Dialog Text,,0,0,0,,{\rCHS}那才不是我家宝宝!\N{\rENG}That's not my baby!
 Dialogue: 100,0:08:58.64,0:09:00.48,Normal Dialog Text,,0,0,0,,{\rCHS}噢,爽!\N{\rENG}Aw, nice!
 Dialogue: 100,0:09:00.48,0:09:01.76,Normal Dialog Text,,0,0,0,,{\rCHS}喔!等下!\N{\rENG}Whoa! Hold on!
