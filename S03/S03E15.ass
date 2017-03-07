@@ -15,8 +15,8 @@ Video File: S03E15.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 144
-Active Line: 147
+Scroll Position: 201
+Active Line: 200
 Video Position: 10020
 
 [V4+ Styles]
@@ -59,7 +59,7 @@ Dialogue: 100,0:00:03.86,0:00:06.93,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文 
 Dialogue: 100,0:00:06.93,0:00:08.93,Normal Dialog Text,,0,0,0,,{\rCHS}我跟你说了要闭上眼睛噢\N{\rENG}I told you to close your eyes!
 Dialogue: 100,0:00:08.93,0:00:10.63,Normal Dialog Text,,0,0,0,,{\rCHS}不好意思\N{\rENG}Sorry.
 Dialogue: 100,0:00:10.64,0:00:12.60,Normal Dialog Text,,0,0,0,,{\rCHS}好了 在这等着\N{\rENG}Okay, wait here!
-Dialogue: 100,0:00:13.54,0:00:15.34,Normal Dialog Text,,0,0,0,,{\rCHS}萨普莱斯!\N{\rENG}Surprise!
+Dialogue: 100,0:00:13.54,0:00:15.34,Normal Dialog Text,,0,0,0,,{\rCHS}惊喜!\N{\rENG}Surprise!
 Dialogue: 100,0:00:17.74,0:00:19.11,Normal Dialog Text,,0,0,0,,{\rCHS}我们买了一艘船!\N{\rENG}We bought a boat!
 Dialogue: 100,0:00:19.11,0:00:22.11,Normal Dialog Text,,0,0,0,,{\rCHS}呃 纠正一下 --我们租了一艘船\N{\rENG}Uh, correction --We rented a boat.
 Dialogue: 100,0:00:22.11,0:00:24.58,Normal Dialog Text,,0,0,0,,{\rCHS}我虽然现在是暴富了 但是买一艘船\N{\rENG}I may be rich, but buying a boat would be going
@@ -74,14 +74,14 @@ Dialogue: 100,0:00:44.94,0:00:48.11,Normal Dialog Text,,0,0,0,,{\rCHS}这里青�
 Dialogue: 100,0:00:50.11,0:00:53.18,Normal Dialog Text,,0,0,0,,{\rCHS}很好 那么 我要去启动这艘船了\N{\rENG}Great! Well,I'll get the boat started.
 Dialogue: 100,0:00:53.18,0:00:54.91,Normal Dialog Text,,0,0,0,,{\rCHS}那么你觉得怎么样\N{\rENG}So what do you think?
 Dialogue: 100,0:00:54.91,0:00:56.81,Normal Dialog Text,,0,0,0,,{\rCHS}这很好了 史蒂文\N{\rENG}It's nice, Steven...
-Dialogue: 100,0:00:56.82,0:00:57.51,Normal Dialog Text,,0,0,0,,{\rCHS}但是 我不确定自己是怎么考虑的\N{\rENG}but I don't know.
+Dialogue: 100,0:00:56.82,0:00:57.51,Normal Dialog Text,,0,0,0,,{\rCHS}但是 我不确定\N{\rENG}but I don't know.
 Dialogue: 100,0:00:57.52,0:01:02.19,Normal Dialog Text,,0,0,0,,{\rCHS}青金石 我知道你和铁石英\N{\rENG}Look, Lapis, I know you spent a really long time fused
 Dialogue: 100,0:01:02.19,0:01:04.19,Normal Dialog Text,,0,0,0,,{\rCHS}在海底融合了相当久\N{\rENG}with Jasper at the bottom of the ocean,
 Dialogue: 100,0:01:04.19,0:01:06.19,Normal Dialog Text,,0,0,0,,{\rCHS}但是你现在已经不再是孔雀石了\N{\rENG}but you're not Malachite anymore.
 Dialogue: 100,0:01:06.19,0:01:07.22,Normal Dialog Text,,0,0,0,,{\rCHS}而水是你自身的一部分\N{\rENG}And water is a part of who you are.
 Dialogue: 100,0:01:07.23,0:01:11.69,Normal Dialog Text,,0,0,0,,{\rCHS}你不能因为一次糟糕的经历就放弃这部分\N{\rENG}You can't let one bad experience take that away from you.
 Dialogue: 100,0:01:11.70,0:01:13.33,Normal Dialog Text,,0,0,0,,{\rCHS}不止一次\N{\rENG}It was more than one.
-Dialogue: 100,0:01:13.33,0:01:13.80,Normal Dialog Text,,0,0,0,,{\rCHS}就当只是尝试好了\N{\rENG}Just give it a chance.
+Dialogue: 100,0:01:13.33,0:01:13.80,Normal Dialog Text,,0,0,0,,{\rCHS}试一试\N{\rENG}Just give it a chance.
 Dialogue: 100,0:01:13.80,0:01:17.80,Normal Dialog Text,,0,0,0,,{\rCHS}我发誓你会感到前所未有的乐趣\N{\rENG}I promise we'll make this the most fun you've ever had.
 Dialogue: 100,0:01:17.80,0:01:20.70,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文 我...不配拥有这些\N{\rENG}Steven,I...don't deserve this.
 Dialogue: 100,0:01:20.71,0:01:22.17,Normal Dialog Text,,0,0,0,,{\rCHS}你当然配了!\N{\rENG}Of course you do!
@@ -240,7 +240,7 @@ Dialogue: 100,0:09:24.32,0:09:25.52,Normal Dialog Text,,0,0,0,,{\rCHS}我们能�
 Dialogue: 100,0:09:25.52,0:09:28.26,Normal Dialog Text,,0,0,0,,{\rCHS}青金石 别听她的\N{\rENG}Lapis, don't listen to her!
 Dialogue: 100,0:09:28.26,0:09:30.06,Normal Dialog Text,,0,0,0,,{\rCHS}少管闲事!\N{\rENG}Stay out of this!
 Dialogue: 100,0:09:30.06,0:09:31.89,Normal Dialog Text,,0,0,0,,{\rCHS}我之前对你很坏\N{\rENG}I was terrible to you.
-Dialogue: 100,0:09:31.90,0:09:34.63,Normal Dialog Text,,0,0,0,,{\rCHS}我喜欢夺取你的一切\N{\rENG}I liked taking everything out on you.
+Dialogue: 100,0:09:31.90,0:09:34.63,Normal Dialog Text,,0,0,0,,{\rCHS}我总是发泄到你身上\N{\rENG}I liked taking everything out on you.
 Dialogue: 100,0:09:34.63,0:09:37.90,Normal Dialog Text,,0,0,0,,{\rCHS}但是我必须这么做 我- 我讨厌你\N{\rENG}I needed to. I-I hated you.
 Dialogue: 100,0:09:37.90,0:09:39.37,Normal Dialog Text,,0,0,0,,{\rCHS}我们的融合太糟糕了\N{\rENG}It was bad!
 Dialogue: 100,0:09:39.37,0:09:42.20,Normal Dialog Text,,0,0,0,,{\rCHS}这次不会再是那样了 我已经改变了\N{\rENG}It'll be better this time. I've changed.
