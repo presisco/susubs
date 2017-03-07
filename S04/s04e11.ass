@@ -17,8 +17,8 @@ Video File: ../../../Steven.Universe/S04/Steven.Universe.S04E11.Adventures.in.Li
 Video AR Mode: 4
 Video AR Value: 1.780669
 Video Zoom Percent: 0.500000
-Scroll Position: 224
-Active Line: 239
+Scroll Position: 216
+Active Line: 244
 Video Position: 13
 
 [V4+ Styles]
@@ -114,7 +114,7 @@ Dialogue: 100,0:01:45.25,0:01:45.97,Normal Dialog Text,,0,0,0,,{\rCHS}对啊\N{\
 Dialogue: 100,0:01:46.47,0:01:47.47,Normal Dialog Text,,0,0,0,,{\rCHS}我们要前往太空了,\N{\rENG}We're going into space,
 Dialogue: 100,0:01:47.75,0:01:50.81,Normal Dialog Text,,0,0,0,,{\rCHS}而且我们一定要带回格雷格\N{\rENG}and we're not coming back without Greg.
 Dialogue: 100,0:01:52.25,0:01:53.11,Normal Dialog Text,,0,0,0,,{\rCHS}我们看看\N{\rENG}Let's see.
-Dialogue: 100,0:01:53.55,0:01:56.07,Normal Dialog Text,,0,0,0,,{\rCHS}你们的中子星定位器仍然在定位\N{\rENG}Your pulsar trackers are tracking pulsars.
+Dialogue: 100,0:01:53.55,0:01:56.07,Normal Dialog Text,,0,0,0,,{\rCHS}你们的脉冲星定位器仍然在定位\N{\rENG}Your pulsar trackers are tracking pulsars.
 Dialogue: 100,0:01:56.07,0:01:57.91,Normal Dialog Text,,0,0,0,,{\rCHS}大气防护层看起来还能工作\N{\rENG}The atmosphere shield seems functional,
 Dialogue: 100,0:01:57.93,0:02:00.89,Normal Dialog Text,,0,0,0,,{\rCHS}但你们在太空中用不到那个,显然\N{\rENG}but you're not going to need that in space, obviously.
 Dialogue: 100,0:02:01.21,0:02:02.67,Normal Dialog Text,,0,0,0,,{\rCHS}确保这对史蒂文是安全的\N{\rENG}Make sure it's safe for Steven.
@@ -285,7 +285,7 @@ Dialogue: 100,0:10:19.91,0:10:21.44,Normal Dialog Text,,0,0,0,,{\rCHS}这都是�
 Dialogue: 100,0:10:22.37,0:10:24.63,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文,不是你绑架的格雷格\N{\rENG}Steven, you didn't kidnap Greg.
 Dialogue: 100,0:10:25.33,0:10:26.29,Normal Dialog Text,,0,0,0,,{\rCHS}是蓝钻石做的\N{\rENG}Blue Diamond did.
 Dialogue: 100,0:10:27.63,0:10:29.95,Normal Dialog Text,,0,0,0,,{\rCHS}喔,你们看到了吗?\N{\rENG}Whoa. Do you guys see that?
-Dialogue: 100,0:10:34.83,0:10:37.15,Normal Dialog Text,,0,0,0,,{\rCHS}你所做的带我们到了动物园\N{\rENG}What you did got us to the zoo.
+Dialogue: 100,0:10:34.83,0:10:37.15,Normal Dialog Text,,0,0,0,,{\rCHS}你把我们带到了动物园\N{\rENG}What you did got us to the zoo.
 Dialogue: 100,0:10:37.95,0:10:38.52,Normal Dialog Text,,0,0,0,,{\rCHS}是吗?\N{\rENG}Yeah?
 Dialogue: 100,0:10:38.87,0:10:41.39,Normal Dialog Text,,0,0,0,,{\rCHS}而且只是提前了70人类年而已\N{\rENG}And only 70 human years ahead of schedule.
 Dialogue: 100,0:10:43.07,0:10:44.47,Normal Dialog Text,,0,0,0,,{\rCHS}我很快会见到你的,爸爸\N{\rENG}I'll see you really soon, Dad.
