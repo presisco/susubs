@@ -17,8 +17,7 @@ Video File: S03E17.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 63
-Active Line: 75
+Active Line: 209
 Video Position: 3849
 
 [V4+ Styles]
@@ -47,7 +46,7 @@ Dialogue: 1,0:00:01.50,0:00:03.00,SU Claim,,0,0,0,,欢迎关注微博@UUU字幕�
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,260)}出品
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,320)}UUU字幕组
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,380)}翻译
-Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,440)}饼干一枚/右翼部鸣明 
+Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,440)}饼干一枚/右翼部鸣明
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,500)}校对
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,560)}牙牙/Husky/Linn
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,620)}特效
@@ -63,7 +62,7 @@ Dialogue: 100,0:00:14.58,0:00:16.78,Normal Dialog Text,,0,0,0,,{\rCHS}好啦 笑
 Dialogue: 100,0:00:16.78,0:00:18.34,Normal Dialog Text,,0,0,0,,{\rCHS}好 现在做出你们\N{\rENG}Okay, now one where it looks like
 Dialogue: 100,0:00:18.35,0:00:20.01,Normal Dialog Text,,0,0,0,,{\rCHS}在找怪物的样子\N{\rENG}you're looking for a monster!
 Dialogue: 100,0:00:21.18,0:00:23.38,Normal Dialog Text,,0,0,0,,{\rCHS}不错 现在做出像是在讲笑话的样子\N{\rENG}Okay, now one like you made a joke!
-Dialogue: 100,0:00:24.82,0:00:27.69,Normal Dialog Text,,0,0,0,,{\rCHS}行 那么现在 做出那个笑话咋一听不那么好笑\N{\rENG}Okay, now, do one where the joke's not that funny,
+Dialogue: 100,0:00:24.82,0:00:27.69,Normal Dialog Text,,0,0,0,,{\rCHS}行 那么现在 做出那个笑话乍一听不那么好笑\N{\rENG}Okay, now, do one where the joke's not that funny,
 Dialogue: 100,0:00:27.69,0:00:31.29,Normal Dialog Text,,0,0,0,,{\rCHS}但是要想一会才get到笑点的样子\N{\rENG}but it's more like a joke that makes you think.
 Dialogue: 100,0:00:31.29,0:00:34.33,Normal Dialog Text,,0,0,0,,{\rCHS}好啦 我认为差不多也照够了吧\N{\rENG}Okay, I think that's enough photography.
 Dialogue: 100,0:00:34.33,0:00:36.10,Normal Dialog Text,,0,0,0,,{\rCHS}但这可是康妮小天使的第一次任务啊\N{\rENG}But it's Connie's first mission!
@@ -88,7 +87,7 @@ Dialogue: 100,0:01:16.84,0:01:18.42,Normal Dialog Text,,0,0,0,,{\rCHS}你的人�
 Dialogue: 100,0:01:18.42,0:01:19.76,Normal Dialog Text,,0,0,0,,{\rCHS}适应严寒\N{\rENG}to last in this cold,
 Dialogue: 100,0:01:19.76,0:01:21.54,Normal Dialog Text,,0,0,0,,{\rCHS}所以我们必须要特别小心\N{\rENG}so we'll have to be extra careful.
 Dialogue: 100,0:01:21.54,0:01:23.89,Normal Dialog Text,,0,0,0,,{\rCHS}那没问题 我的背包里已经装满了\N{\rENG}That's okay. I've got this backpack filled
-Dialogue: 100,0:01:23.90,0:01:26.40,Normal Dialog Text,,0,0,0,,{\rCHS}能让我们在这个鸟不拉屎的地方多活一会儿的东西\N{\rENG}with everything we need to survive in the wilderness.
+Dialogue: 100,0:01:23.90,0:01:26.40,Normal Dialog Text,,0,0,0,,{\rCHS}能让我们在野外多活一会儿的东西\N{\rENG}with everything we need to survive in the wilderness.
 Dialogue: 100,0:01:26.40,0:01:29.07,Normal Dialog Text,,0,0,0,,{\rCHS}我还带来三国杀以免我们无聊\N{\rENG}And I brought board games in case we get bored.
 Dialogue: 100,0:01:29.07,0:01:31.22,Normal Dialog Text,,0,0,0,,{\rCHS}啊 可以 很不错\N{\rENG}Ah, yes. Very good.
 Dialogue: 100,0:01:31.22,0:01:35.15,Normal Dialog Text,,0,0,0,,{\rCHS}所以,我们该怎么知道这些损坏了的宝石在附近?\N{\rENG}So, how will we know if this corrupted gem is nearby?
@@ -102,18 +101,18 @@ Dialogue: 100,0:02:07.59,0:02:09.72,Normal Dialog Text,,0,0,0,,{\rCHS}它们...�
 Dialogue: 100,0:02:09.72,0:02:11.82,Normal Dialog Text,,0,0,0,,{\rCHS}本来不应该有两只才对\N{\rENG}There weren't supposed to be two.
 Dialogue: 100,0:02:11.83,0:02:13.66,Normal Dialog Text,,0,0,0,,{\rCHS}噢 噢-- 我有个主意\N{\rENG}Oh, oh -- I have an idea!
 Dialogue: 100,0:02:13.66,0:02:15.29,Normal Dialog Text,,0,0,0,,{\rCHS}我们可以分头行动\N{\rENG}We could split up!
-Dialogue: 100,0:02:15.30,0:02:16.80,Normal Dialog Text,,0,0,0,,{\rCHS}你可以去跟踪他们中的其中一只 珍珠\N{\rENG}You can go after one of them, Pearl,
-Dialogue: 100,0:02:16.80,0:02:19.33,Normal Dialog Text,,0,0,0,,{\rCHS}而我和史蒂文去跟踪另一只\N{\rENG}and Steven and I will go after the other one.
+Dialogue: 100,0:02:15.30,0:02:16.80,Normal Dialog Text,,0,0,0,,{\rCHS}你去追那一只 珍珠\N{\rENG}You can go after one of them, Pearl,
+Dialogue: 100,0:02:16.80,0:02:19.33,Normal Dialog Text,,0,0,0,,{\rCHS}我和史蒂文去追另一只\N{\rENG}and Steven and I will go after the other one.
 Dialogue: 100,0:02:19.33,0:02:21.37,Normal Dialog Text,,0,0,0,,{\rCHS}康妮 你是我的学生\N{\rENG}Connie, you are my pupil,
 Dialogue: 100,0:02:21.37,0:02:23.74,Normal Dialog Text,,0,0,0,,{\rCHS}所以我清楚你的战斗技术很优秀\N{\rENG}so I know your combat skills are excellent.
 Dialogue: 100,0:02:23.74,0:02:25.87,Normal Dialog Text,,0,0,0,,{\rCHS}但是我担心这样太冒险了\N{\rENG}But I'm afraid this is too risky.
 Dialogue: 100,0:02:25.87,0:02:28.27,Normal Dialog Text,,0,0,0,,{\rCHS}你们之前还没有参加过真正的战斗\N{\rENG}You've never been in a real fight before.
-Dialogue: 100,0:02:28.28,0:02:29.78,Normal Dialog Text,,0,0,0,,{\rCHS}嗯 但那并不是真的\N{\rENG}Well, that's not true.
-Dialogue: 100,0:02:29.78,0:02:31.84,Normal Dialog Text,,0,0,0,,{\rCHS}康妮在医院和那些泼猴般的宝石大战过\N{\rENG}Connie defeated those gem experiments at the hospital.
+Dialogue: 100,0:02:28.28,0:02:29.78,Normal Dialog Text,,0,0,0,,{\rCHS}这个 也不完全对\N{\rENG}Well, that's not true.
+Dialogue: 100,0:02:29.78,0:02:31.84,Normal Dialog Text,,0,0,0,,{\rCHS}康妮打败过那些宝石实验体\N{\rENG}Connie defeated those gem experiments at the hospital.
 Dialogue: 100,0:02:31.85,0:02:32.71,Normal Dialog Text,,0,0,0,,{\rCHS}但--\N{\rENG}But--
 Dialogue: 100,0:02:32.71,0:02:33.81,Normal Dialog Text,,0,0,0,,{\rCHS}还有你看\N{\rENG}And look!
 Dialogue: 100,0:02:33.82,0:02:35.28,Normal Dialog Text,,0,0,0,,{\rCHS}我带了这些对讲机\N{\rENG}I brought these walkie-talkies
-Dialogue: 100,0:02:35.28,0:02:37.25,Normal Dialog Text,,0,0,0,,{\rCHS}这样如果出现意外 我们可以互相联系\N{\rENG}so we can talk to each other in case something happens!
+Dialogue: 100,0:02:35.28,0:02:37.25,Normal Dialog Text,,0,0,0,,{\rCHS}如果出现意外 我们可以互相联系\N{\rENG}so we can talk to each other in case something happens!
 Dialogue: 100,0:02:37.25,0:02:38.89,Normal Dialog Text,,0,0,0,,{\rCHS}可--\N{\rENG}But--
 Dialogue: 100,0:02:38.89,0:02:42.56,Normal Dialog Text,,0,0,0,,{\rCHS}我已经在之前已经读了这本书至少20次 \N{\rENG}And I've read this book front to back, at least 20 times!
 Dialogue: 500,0:02:40.53,0:02:42.41,Label Trans,,0,0,0,,{\fn黑体\fs72\c&H2B1D65&\bord0\shad0\frz348.7\pos(818,296)}如何求生
@@ -125,7 +124,7 @@ Dialogue: 100,0:02:52.87,0:02:55.23,Normal Dialog Text,,0,0,0,,{\rCHS}再问一�
 Dialogue: 100,0:02:55.24,0:02:56.44,Normal Dialog Text,,0,0,0,,{\rCHS}怪兽\N{\rENG} A monster.
 Dialogue: 100,0:02:56.44,0:02:57.97,Normal Dialog Text,,0,0,0,,{\rCHS}找到它后你们会做什么\N{\rENG}What do you do when you find it?
 Dialogue: 100,0:02:57.97,0:02:59.31,Normal Dialog Text,,0,0,0,,{\rCHS}联系你\N{\rENG}Call you.
-Dialogue: 100,0:02:59.31,0:03:00.74,Normal Dialog Text,,0,0,0,,{\rCHS}谁是你们最喜欢的宝石战士\N{\rENG}And who's your favorite gem?
+Dialogue: 100,0:02:59.31,0:03:00.74,Normal Dialog Text,,0,0,0,,{\rCHS}谁是你们最喜欢的宝石\N{\rENG}And who's your favorite gem?
 Dialogue: 100,0:03:00.74,0:03:02.21,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠啦啦啦啦\N{\rENG}Pearl!
 Dialogue: 100,0:03:02.21,0:03:03.84,Normal Dialog Text,,0,0,0,,{\rCHS}哎呀 谢谢啦\N{\rENG}Why, thank you!
 Dialogue: 100,0:03:06.25,0:03:07.51,Normal Dialog Text,,0,0,0,,{\rCHS}那么 注意安全\N{\rENG}Now, be safe!
@@ -141,15 +140,15 @@ Dialogue: 100,0:03:35.44,0:03:37.78,Normal Dialog Text,,0,0,0,,{\rCHS}是啊 我
 Dialogue: 100,0:03:37.78,0:03:40.15,Normal Dialog Text,,0,0,0,,{\rCHS}事态对人类来说会非常失控\N{\rENG}things could get pretty crazy for humanity.
 Dialogue: 100,0:03:40.15,0:03:41.61,Normal Dialog Text,,0,0,0,,{\rCHS}别管宝石了\N{\rENG}Forget gems.
 Dialogue: 100,0:03:41.62,0:03:45.15,Normal Dialog Text,,0,0,0,,{\rCHS}人类已经迎来了他们自己造成的末日\N{\rENG}Humans are already starting their own demise!
-Dialogue: 100,0:03:45.15,0:03:46.82,Normal Dialog Text,,0,0,0,,{\rCHS}石油危机啊 史蒂文真主\N{\rENG}Peak oil, Steven!
+Dialogue: 100,0:03:45.15,0:03:46.82,Normal Dialog Text,,0,0,0,,{\rCHS}石油危机啊 史蒂文\N{\rENG}Peak oil, Steven!
 Dialogue: 100,0:03:46.82,0:03:48.79,Normal Dialog Text,,0,0,0,,{\rCHS}吾等该如何解决这祸灾\N{\rENG}How do we handle terminal decline
 Dialogue: 100,0:03:48.79,0:03:51.39,Normal Dialog Text,,0,0,0,,{\rCHS}而不需要备用能源\N{\rENG}without alternate energy sources?!
 Dialogue: 100,0:03:52.59,0:03:54.33,Normal Dialog Text,,0,0,0,,{\rCHS}你俩在做什么\N{\rENG}How are you two doing?
 Dialogue: 100,0:03:54.33,0:03:55.49,Normal Dialog Text,,0,0,0,,{\rCHS}你们饿了吗\N{\rENG}Are you hungry?
 Dialogue: 100,0:03:55.50,0:03:58.06,Normal Dialog Text,,0,0,0,,{\rCHS}别忘了 你们人类是需要吃东西的\N{\rENG}Remember,you humans need to eat!
 Dialogue: 100,0:03:58.07,0:03:59.20,Normal Dialog Text,,0,0,0,,{\rCHS}是的 长官\N{\rENG}Yes, ma'am!
-Dialogue: 100,0:03:59.20,0:04:01.93,Normal Dialog Text,,0,0,0,,{\rCHS}还好我装备了好多哒生存'燃料'\N{\rENG}Luckily, I packed plenty of survival fuel.
-Dialogue: 100,0:04:01.94,0:04:04.20,Normal Dialog Text,,0,0,0,,{\rCHS}士力架,横扫饥饿,做回自己\N{\rENG} Time to get our protein on!
+Dialogue: 100,0:03:59.20,0:04:01.93,Normal Dialog Text,,0,0,0,,{\rCHS}还好我装备了好多的生存'燃料'\N{\rENG}Luckily, I packed plenty of survival fuel.
+Dialogue: 100,0:04:01.94,0:04:04.20,Normal Dialog Text,,0,0,0,,{\rCHS}是时候补充蛋白质了!\N{\rENG} Time to get our protein on!
 Dialogue: 100,0:04:07.58,0:04:09.71,Normal Dialog Text,,0,0,0,,{\rCHS}还好这里刚下了雪\N{\rENG}Good thing this snow is here --
 Dialogue: 100,0:04:09.71,0:04:12.18,Normal Dialog Text,,0,0,0,,{\rCHS}这样更方便我们追踪怪兽\N{\rENG}it makes following tracks a lot easier.
 Dialogue: 100,0:04:12.18,0:04:13.91,Normal Dialog Text,,0,0,0,,{\rCHS}当然\N{\rENG}I'll say!
@@ -200,7 +199,7 @@ Dialogue: 100,0:06:22.36,0:06:23.56,Normal Dialog Text,,0,0,0,,{\rCHS}很难喝\
 Dialogue: 100,0:06:23.56,0:06:24.78,Normal Dialog Text,,0,0,0,,{\rCHS}当然了\N{\rENG}Well, yeah.
 Dialogue: 100,0:06:24.78,0:06:26.70,Normal Dialog Text,,0,0,0,,{\rCHS}好不好喝不重要\N{\rENG}It's not about tasting good, Steven,
 Dialogue: 100,0:06:26.70,0:06:29.70,Normal Dialog Text,,0,0,0,,{\rCHS}重要的是在大自然的惩罚下生存下来\N{\rENG}it's about surviving the punishment of nature.
-Dialogue: 100,0:06:33.20,0:06:36.82,Normal Dialog Text,,0,0,0,,{\rCHS}所以说 为什么那里会有人的脚印\N{\rENG}So, why were there humanoid tracks out there?
+Dialogue: 100,0:06:33.20,0:06:36.82,Normal Dialog Text,,0,0,0,,{\rCHS}所以说 为什么那里会有人形的脚印\N{\rENG}So, why were there humanoid tracks out there?
 Dialogue: 100,0:06:36.82,0:06:39.83,Normal Dialog Text,,0,0,0,,{\rCHS}那不是我们的 也不是珍珠的\N{\rENG}They weren't ours, and they weren't Pearl's.
 Dialogue: 100,0:06:39.83,0:06:41.86,Normal Dialog Text,,0,0,0,,{\rCHS}更不可能是怪兽的\N{\rENG}It couldn't have been the monster.
 Dialogue: 100,0:06:41.86,0:06:44.71,Normal Dialog Text,,0,0,0,,{\rCHS}除非是一个装扮成怪兽的人\N{\rENG}Unless it's just some guy in a monster suit.
@@ -208,7 +207,7 @@ Dialogue: 100,0:06:44.72,0:06:46.72,Normal Dialog Text,,0,0,0,,{\rCHS}但那种�
 Dialogue: 100,0:06:46.72,0:06:49.05,Normal Dialog Text,,0,0,0,,{\rCHS}而且通常是因财产纠纷引发的\N{\rENG}usually over a property dispute.
 Dialogue: 100,0:06:49.05,0:06:52.09,Normal Dialog Text,,0,0,0,,{\rCHS}也许就是一个装扮成怪兽的人呢\N{\rENG}Maybe it is a guy in a monster costume.
 Dialogue: 100,0:06:52.09,0:06:53.06,Normal Dialog Text,,0,0,0,,{\rCHS}你也这么认为?\N{\rENG}You think so?
-Dialogue: 100,0:06:53.06,0:06:54.51,Normal Dialog Text,,0,0,0,,{\rCHS}当然不是同意字面上的意思了 傻瓜 \N{\rENG}I don't mean literally, silly.
+Dialogue: 100,0:06:53.06,0:06:54.51,Normal Dialog Text,,0,0,0,,{\rCHS}当然不是字面上的意思了 傻瓜 \N{\rENG}I don't mean literally, silly.
 Dialogue: 100,0:06:54.51,0:06:57.51,Normal Dialog Text,,0,0,0,,{\rCHS}我的意思是也许在那怪兽的外表之下\N{\rENG}What I mean is there might be a conscious gem
 Dialogue: 100,0:06:57.51,0:06:59.18,Normal Dialog Text,,0,0,0,,{\rCHS}还有一个神志清醒的宝石人\N{\rENG}still inside there somewhere.
 Dialogue: 100,0:06:59.18,0:07:00.51,Normal Dialog Text,,0,0,0,,{\rCHS}这可能吗\N{\rENG}Is that possible?
@@ -229,7 +228,7 @@ Dialogue: 100,0:07:40.10,0:07:42.61,Normal Dialog Text,,0,0,0,,{\rCHS}你们好�
 Dialogue: 100,0:07:42.61,0:07:44.19,Normal Dialog Text,,0,0,0,,{\rCHS}那里进展如何\N{\rENG}How's it going?
 Dialogue: 100,0:07:44.19,0:07:46.64,Normal Dialog Text,,0,0,0,,{\rCHS}天气真的变得越来越恶劣了\N{\rENG}This weather has really taken a turn for the worse,
 Dialogue: 100,0:07:46.64,0:07:47.89,Normal Dialog Text,,0,0,0,,{\rCHS}我可不想为\N{\rENG}and I would hate to be responsible
-Dialogue: 100,0:07:47.90,0:07:49.73,Normal Dialog Text,,0,0,0,,{\rCHS}你们陷入的危险负责\N{\rENG}for putting you two in danger.
+Dialogue: 100,0:07:47.90,0:07:49.73,Normal Dialog Text,,0,0,0,,{\rCHS}你们陷入危险负责\N{\rENG}for putting you two in danger.
 Dialogue: 100,0:07:49.73,0:07:51.10,Normal Dialog Text,,0,0,0,,{\rCHS}确保你们穿得 --\N{\rENG}Make sure you bundle up with--
 Dialogue: 100,0:07:51.10,0:07:53.82,Normal Dialog Text,,0,0,0,,{\rCHS}-史蒂文 快关掉 -我正在关呢\N{\rENG}Steven! Turn it off! I'm trying!
 Dialogue: 100,0:07:53.82,0:07:56.10,Normal Dialog Text,,0,0,0,,{\rCHS}噢 还有 别忘了 如果你们找到了怪兽\N{\rENG}Oh! And, remember, if you find the monster,
@@ -251,7 +250,7 @@ Dialogue: 100,0:08:48.16,0:08:48.65,Normal Dialog Text,,0,0,0,,{\rCHS}我...\N{\
 Dialogue: 100,0:08:48.66,0:08:50.21,Normal Dialog Text,,0,0,0,,{\rCHS}我不知道\N{\rENG}I don't know.
 Dialogue: 100,0:08:50.21,0:08:52.88,Normal Dialog Text,,0,0,0,,{\rCHS}我还没有准备好\N{\rENG}I...wasn't prepared for this.
 Dialogue: 100,0:08:52.88,0:08:55.99,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文 康妮\N{\rENG} Steven, Connie?!
-Dialogue: 100,0:08:56.00,0:08:58.38,Normal Dialog Text,,0,0,0,,{\rCHS}你们不说话是因为我问的"你最喜欢的宝石战士"吗\N{\rENG}Is this because of the "favorite gem" thing?
+Dialogue: 100,0:08:56.00,0:08:58.38,Normal Dialog Text,,0,0,0,,{\rCHS}你们不说话是因为我问的"你最喜欢的宝石"吗\N{\rENG}Is this because of the "favorite gem" thing?
 Dialogue: 100,0:08:58.38,0:09:00.85,Normal Dialog Text,,0,0,0,,{\rCHS}哈 那只是开玩笑而已啦\N{\rENG}Heh, that was just a joke!
 Dialogue: 100,0:09:00.85,0:09:02.50,Normal Dialog Text,,0,0,0,,{\rCHS}千万别告诉石榴\N{\rENG}Don't tell garnet.
 Dialogue: 100,0:09:02.50,0:09:03.94,Normal Dialog Text,,0,0,0,,{\rCHS}康妮\N{\rENG}Connie!
