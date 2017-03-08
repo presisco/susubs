@@ -17,7 +17,8 @@ Video File: baiduyundownload/Steven.Universe.S04E18.Tiger.Philanthropist.720p.HD
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Active Line: 19
+Scroll Position: 201
+Active Line: 210
 Video Position: 16081
 
 [V4+ Styles]
@@ -71,14 +72,14 @@ Dialogue: 100,0:00:25.60,0:00:27.40,Normal Dialog Text,,0,0,0,,{\rCHS}他们是�
 Dialogue: 100,0:00:27.40,0:00:28.96,Normal Dialog Text,,0,0,0,,{\rCHS}又恨又爱的团队\N{\rENG}but also hate to love.
 Dialogue: 100,0:00:29.52,0:00:30.72,Normal Dialog Text,,0,0,0,,{\rCHS}我爱摔角\N{\rENG}I love wrestling!
 Dialogue: 100,0:00:31.80,0:00:35.92,Normal Dialog Text,,0,0,0,,{\rCHS}紫色美洲狮和虎百万又使出了毁灭性的一击\N{\rENG}Another devastating move by Purple Puma and Tiger Millionaire tonight, folks.
-Dialogue: 100,0:00:36.08,0:00:39.36,Normal Dialog Text,,0,0,0,,{\rCHS}看来狂暴鲨鱼经过这一重创也眼冒海星了\N{\rENG}Looks like Shark-O-Mania's seeing starfish after that last one.
+Dialogue: 100,0:00:36.08,0:00:39.36,Normal Dialog Text,,0,0,0,,{\rCHS}看来狂暴悍鲨经过这一重创也眼冒海星了\N{\rENG}Looks like Shark-O-Mania's seeing starfish after that last one.
 Dialogue: 100,0:00:39.64,0:00:41.92,Normal Dialog Text,,0,0,0,,{\rCHS}我们使出绝招来了结他吧\N{\rENG}Let's finish him off with our special move.
 Dialogue: 100,0:00:42.28,0:00:43.80,Normal Dialog Text,,0,0,0,,{\rCHS}哦 好啊\N{\rENG}Yeah, why not?
 Dialogue: 100,0:00:43.80,0:00:45.04,Normal Dialog Text,,0,0,0,,{\rCHS}抓住我的手\N{\rENG}Take my hand.
 Dialogue: 100,0:00:45.24,0:00:46.56,Normal Dialog Text,,0,0,0,,{\rCHS}向您呈现\N{\rENG}Here it comes, y'all...
 Dialogue: 100,0:00:46.56,0:00:50.32,Normal Dialog Text,,0,0,0,,{\rCHS}紫色百万\N{\rENG}...the Purple Millionaire
 Dialogue: 100,0:00:50.32,0:00:52.76,Normal Dialog Text,,0,0,0,,{\rCHS}之踢\N{\rENG}Kick!
-Dialogue: 100,0:00:53.40,0:00:55.96,Normal Dialog Text,,0,0,0,,{\rCHS}狂暴鲨鱼昏过去了\N{\rENG}And Shark-O-Mania's out cold.
+Dialogue: 100,0:00:53.40,0:00:55.96,Normal Dialog Text,,0,0,0,,{\rCHS}狂暴悍鲨昏过去了\N{\rENG}And Shark-O-Mania's out cold.
 Dialogue: 100,0:00:55.96,0:00:58.76,Normal Dialog Text,,0,0,0,,{\rCHS}快来人把那条鱼丢到冰块上 免得发臭了\N{\rENG}Somebody put that fish on ice before it stinks up the joint.
 Dialogue: 100,0:00:58.92,0:01:02.47,Normal Dialog Text,,0,0,0,,{\rCHS}朋友们 虎百万和紫色美洲狮再一次做到了\N{\rENG}Folks, Tiger Millionaire and Purple Puma have done it again.
 Dialogue: 100,0:01:02.68,0:01:05.82,Normal Dialog Text,,0,0,0,,{\rCHS}他们仍然是你们的双打联赛冠军\N{\rENG}They are still your tag-team champions.
@@ -166,10 +167,10 @@ Dialogue: 100,0:04:57.80,0:04:59.72,Normal Dialog Text,,0,0,0,,{\rCHS}资金透�
 Dialogue: 100,0:04:59.96,0:05:02.38,Normal Dialog Text,,0,0,0,,{\rCHS}这些应该够付你们的医药费了\N{\rENG}This should cover your medical bills.
 Dialogue: 100,0:05:02.48,0:05:04.44,Normal Dialog Text,,0,0,0,,{\rCHS}多么慷慨的摔角手\N{\rENG}What a generous wrestler.
 Dialogue: 100,0:05:04.44,0:05:05.20,Normal Dialog Text,,0,0,0,,{\rCHS}哦 怎么\N{\rENG}Oh, what?
-Dialogue: 100,0:05:05.20,0:05:08.48,Normal Dialog Text,,0,0,0,,{\rCHS}看来狂暴鲨鱼回来报仇了\N{\rENG}Looks like Shark-O-Mania is back for revenge
+Dialogue: 100,0:05:05.20,0:05:08.48,Normal Dialog Text,,0,0,0,,{\rCHS}看来狂暴悍鲨回来报仇了\N{\rENG}Looks like Shark-O-Mania is back for revenge
 Dialogue: 100,0:05:08.48,0:05:10.12,Normal Dialog Text,,0,0,0,,{\rCHS}还带来了个新搭档\N{\rENG}with a new partner --
-Dialogue: 100,0:05:10.44,0:05:11.84,Normal Dialog Text,,0,0,0,,{\rCHS}海黄蜂\N{\rENG}the Sea Wasp,
-Dialogue: 600,0:05:10.44,0:05:11.84,Hint,,0,0,0,,海黄蜂, 澳洲箱水母的绰号
+Dialogue: 100,0:05:10.44,0:05:11.84,Normal Dialog Text,,0,0,0,,{\rCHS}海黄毒蜂\N{\rENG}the Sea Wasp,
+Dialogue: 600,0:05:10.44,0:05:11.84,Hint,,0,0,0,,海黄毒蜂, 澳洲箱水母的绰号
 Dialogue: 100,0:05:12.20,0:05:14.68,Normal Dialog Text,,0,0,0,,{\rCHS}一种带有剧毒的水母\N{\rENG}which is a very poisonous type of jellyfish.
 Dialogue: 100,0:05:15.68,0:05:18.24,Normal Dialog Text,,0,0,0,,{\rCHS}看来我们得让他们尝尝紫色美洲...\N{\rENG}Looks like we'll have to give 'em the ol' Purple Pu--
 Dialogue: 100,0:05:19.64,0:05:23.40,Normal Dialog Text,,0,0,0,,{\rCHS}天呐 老虎将如何搞定这个充满鱼腥味的状况\N{\rENG}Man, how's Tiger gonna get out of this fishy situation?
@@ -249,10 +250,10 @@ Dialogue: 100,0:08:33.80,0:08:36.76,Normal Dialog Text,,0,0,0,,{\rCHS}这些腰�
 Dialogue: 100,0:08:36.79,0:08:38.04,Normal Dialog Text,,0,0,0,,{\rCHS}从来如此\N{\rENG}They never did.
 Dialogue: 100,0:08:41.28,0:08:42.60,Normal Dialog Text,,0,0,0,,{\rCHS}我知道这声音\N{\rENG}I know that sound.
 Dialogue: 100,0:08:42.88,0:08:45.32,Normal Dialog Text,,0,0,0,,{\rCHS}是好哥们施工队\N{\rENG}It's the Brothers Construction --
-Dialogue: 100,0:08:45.32,0:08:49.64,Normal Dialog Text,,0,0,0,,{\rCHS}热力混凝土和大卡车\N{\rENG}Concrete Heat and Chunk Truck.
+Dialogue: 100,0:08:45.32,0:08:49.64,Normal Dialog Text,,0,0,0,,{\rCHS}炽烈水泥和巨肌重卡\N{\rENG}Concrete Heat and Chunk Truck.
 Dialogue: 100,0:08:49.92,0:08:52.57,Normal Dialog Text,,0,0,0,,{\rCHS}真遗憾老虎就这么放弃了腰带\N{\rENG}So sad to see Tiger giving up those belts
 Dialogue: 100,0:08:52.57,0:08:54.48,Normal Dialog Text,,0,0,0,,{\rCHS}居然连一场战斗都没展开\N{\rENG}without at least putting up a fight.
-Dialogue: 100,0:08:57.16,0:08:59.32,Normal Dialog Text,,0,0,0,,{\rCHS}是美型男的出场音乐\N{\rENG}It's the Good-Looking Guys' music.
+Dialogue: 100,0:08:57.16,0:08:59.32,Normal Dialog Text,,0,0,0,,{\rCHS}是帅爆徒的出场音乐\N{\rENG}It's the Good-Looking Guys' music.
 Dialogue: 100,0:08:59.76,0:09:02.52,Normal Dialog Text,,0,0,0,,{\rCHS}他们是回来夺取最后的头衔的\N{\rENG}They're back to finally claim the tag titles.
 Dialogue: 100,0:09:02.52,0:09:04.88,Normal Dialog Text,,0,0,0,,{\rCHS}看来擂台上正在预热\N{\rENG}Looks like things are heating up in the ring.
 Dialogue: 100,0:09:04.88,0:09:08.16,Normal Dialog Text,,0,0,0,,{\rCHS}谁会是下一届的双打联赛冠军\N{\rENG}Who will be the next tag-team champion?!
@@ -277,7 +278,7 @@ Dialogue: 100,0:09:58.60,0:09:59.72,Normal Dialog Text,,0,0,0,,{\rCHS}轰轰烈�
 Dialogue: 100,0:10:00.68,0:10:04.15,Normal Dialog Text,,0,0,0,,{\rCHS}看来腰带之争的战斗仍在继续\N{\rENG}It looks like this fight for the belt is still on.
 Dialogue: 100,0:10:04.36,0:10:09.12,Normal Dialog Text,,0,0,0,,{\rCHS}好哥们施工队看样子正准备打下一个痛苦的地基\N{\rENG}The Brothers Construction look like they're ready to lay down a foundation of pain.
 Dialogue: 100,0:10:09.12,0:10:10.24,Normal Dialog Text,,0,0,0,,{\rCHS}然而\N{\rENG}But, oh.
-Dialogue: 100,0:10:10.28,0:10:12.32,Normal Dialog Text,,0,0,0,,{\rCHS}狂暴鲨鱼再度回到赛场\N{\rENG}Shark-O-Mania is back again.
+Dialogue: 100,0:10:10.28,0:10:12.32,Normal Dialog Text,,0,0,0,,{\rCHS}狂暴悍鲨再度回到赛场\N{\rENG}Shark-O-Mania is back again.
 Dialogue: 100,0:10:12.32,0:10:14.00,Normal Dialog Text,,0,0,0,,{\rCHS}他甚至都不是比赛选手\N{\rENG}He's not even in the match.
 Dialogue: 100,0:10:15.16,0:10:17.32,Normal Dialog Text,,0,0,0,,{\rCHS}虎善士倒下了\N{\rENG}Tiger Philanthropist is down.
 Dialogue: 100,0:10:17.32,0:10:18.16,Normal Dialog Text,,0,0,0,,{\rCHS}什么\N{\rENG}What?!
@@ -285,11 +286,11 @@ Dialogue: 100,0:10:28.92,0:10:31.64,Normal Dialog Text,,0,0,0,,{\rCHS}这不公�
 Dialogue: 100,0:10:31.64,0:10:34.00,Normal Dialog Text,,0,0,0,,{\rCHS}他们会被摧毁的\N{\rENG}They're gonna be destroyed.
 Dialogue: 100,0:10:35.36,0:10:36.74,Normal Dialog Text,,0,0,0,,{\rCHS}做个了断\N{\rENG}Finish it.
 Dialogue: 100,0:10:40.48,0:10:41.33,Normal Dialog Text,,0,0,0,,{\rCHS}不\N{\rENG}No!
-Dialogue: 100,0:10:41.35,0:10:45.48,Normal Dialog Text,,0,0,0,,{\rCHS}美型党用苦命恋人击倒了美洲狮和老虎\N{\rENG}The Good-Looking Gang hit the star-crossed lovers on Puma and Tiger.
+Dialogue: 100,0:10:41.35,0:10:45.48,Normal Dialog Text,,0,0,0,,{\rCHS}帅爆帮用苦命恋人击倒了美洲狮和老虎\N{\rENG}The Good-Looking Gang hit the star-crossed lovers on Puma and Tiger.
 Dialogue: 100,0:10:45.84,0:10:47.00,Normal Dialog Text,,0,0,0,,{\rCHS}他们的机会来了\N{\rENG}This is their chance.
 Dialogue: 100,0:10:47.00,0:10:48.84,Normal Dialog Text,,0,0,0,,{\rCHS}腰带就赤裸裸地挂在那儿\N{\rENG}The belts are hanging free and clear.
 Dialogue: 100,0:10:48.84,0:10:50.84,Normal Dialog Text,,0,0,0,,{\rCHS}他们拿到了 官方认证\N{\rENG}They've got it. It's official.
-Dialogue: 100,0:10:50.84,0:10:53.04,Normal Dialog Text,,0,0,0,,{\rCHS}美型党是新一届海滩市\N{\rENG}The Good-Looking Gang are the new Beach City
+Dialogue: 100,0:10:50.84,0:10:53.04,Normal Dialog Text,,0,0,0,,{\rCHS}帅爆帮是新一届海滩市\N{\rENG}The Good-Looking Gang are the new Beach City
 Dialogue: 100,0:10:53.04,0:10:55.28,Normal Dialog Text,,0,0,0,,{\rCHS}地下双打摔角联赛的冠军\N{\rENG}Underground Tag-Team Wrestling Champions.
 Dialogue: 100,0:10:55.28,0:10:59.43,Normal Dialog Text,,0,0,0,,{\rCHS}虎百万和紫色美洲狮的时代真的要告一段落了\N{\rENG}This is truly the end for Tiger Millionaire and Purple Puma.
 Dialogue: 100,0:10:59.64,0:11:01.68,Normal Dialog Text,,0,0,0,,{\rCHS}多么完美的谢幕\N{\rENG}What a way to go out.
