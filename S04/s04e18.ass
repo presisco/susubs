@@ -12,24 +12,24 @@ Aegisub Video Aspect Ratio: c1.777778
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: baiduyundownload/Steven.Universe.S04E18.Tiger.Philanthropist.720p.HDTVRip.x264-VILA.mp4
-Video File: baiduyundownload/Steven.Universe.S04E18.Tiger.Philanthropist.720p.HDTVRip.x264-VILA.mp4
+Audio File: ../../../Steven.Universe/S04/Steven.Universe.S04E18.Tiger.Philanthropist.1080p.WEB-DL.AAC2.0.H264-iT00NZ[rarbg]/Steven.Universe.S04E18.Tiger.Philanthropist.1080p.WEB-DL.AAC2.0.H264-iT00NZ.mkv
+Video File: ../../../Steven.Universe/S04/Steven.Universe.S04E18.Tiger.Philanthropist.1080p.WEB-DL.AAC2.0.H264-iT00NZ[rarbg]/Steven.Universe.S04E18.Tiger.Philanthropist.1080p.WEB-DL.AAC2.0.H264-iT00NZ.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 201
-Active Line: 210
-Video Position: 16081
+Video Zoom Percent: 0.500000
+Scroll Position: 10
+Active Line: 23
+Video Position: 609
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,13,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.33333,2,7,7,7,1
 Style: Normal Dialog Text,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,4,2,10,10,30,1
 Style: Label Trans,微软雅黑,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: SU Title,方正粗圆_GBK,120,&H00C49B74,&H000000FF,&H00FBFBFC,&H00FCFFE7,0,0,0,0,100,100,0,0,1,3,4,2,10,10,10,1
-Style: SU Team Member,方正粗圆_GBK,48,&H00AB8F70,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: SU Team Title,方正粗圆_GBK,48,&H00B299D6,&H00FFFFFF,&H00FFFFFF,&H00DBE0C9,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: SU Team Background,Arial,20,&H00FBFCFC,&H000000FF,&H00000000,&H00FFFFE7,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: SU Title,方正粗圆_GBK,180,&H00A36B0B,&H000000FF,&H00FBFBFC,&H00FEFFAB,0,0,0,0,100,100,0,0,1,12,4,2,10,10,10,1
+Style: SU Team Member,方正粗圆_GBK,48,&H00AE6C06,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: SU Team Title,方正粗圆_GBK,48,&H00D69AA0,&H00FFFFFF,&H00FFFFFF,&H00DBE0C9,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: SU Team Background,Arial,20,&H00FCFBFC,&H000000FF,&H00000000,&H00FEFFCC,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: Song Lyrics Text,华文楷体,20,&H00EAEAEA,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
 Style: Hint,微软雅黑,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
 Style: Background Dialogue,微软雅黑,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
@@ -43,258 +43,258 @@ Style: ENG_BKG,Arial,36,&H00FFFFFF,&H000000FF,&H00171717,&H00171717,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 150,0:00:00.00,0:00:02.50,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们,是水晶\N{\rENG_LYC}♪ We ♪ are the crystal
-Dialogue: 150,0:00:02.51,0:00:03.48,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}战士\N{\rENG_LYC}♪ gems
-Dialogue: 150,0:00:03.48,0:00:05.94,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们总能拯救世界\N{\rENG_LYC}♪ we'll always save the day
-Dialogue: 150,0:00:05.94,0:00:08.42,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}如果你认为我们不行\N{\rENG_LYC}♪ and if you think we can't, ♪
-Dialogue: 150,0:00:08.42,0:00:11.28,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们总能找到方法\N{\rENG_LYC}♪ we'll always find a way
-Dialogue: 150,0:00:11.28,0:00:12.94,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}这就是为什么这个世界\N{\rENG_LYC}♪ that's why the people
-Dialogue: 150,0:00:12.94,0:00:15.04,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}的人\N{\rENG_LYC}♪ of this world
-Dialogue: 150,0:00:15.04,0:00:16.78,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}相信\N{\rENG_LYC}♪ believe in
-Dialogue: 150,0:00:16.78,0:00:17.44,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}石榴\N{\rENG_LYC}♪ Garnet
-Dialogue: 150,0:00:17.44,0:00:18.74,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}紫晶\N{\rENG_LYC}♪ Amethyst
-Dialogue: 150,0:00:18.74,0:00:20.20,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}和珍珠\N{\rENG_LYC}♪ and Pearl
-Dialogue: 150,0:00:20.22,0:00:21.54,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}和史蒂文!\N{\rENG_LYC}and Steven!
-Dialogue: 1,0:00:00.00,0:00:01.50,SU Title,,0,0,0,,{\xshad-0\yshad16\pos(1158,264)}请替换
-Dialogue: 1,0:00:01.50,0:00:03.00,SU Claim,,0,0,0,,欢迎关注微博@UUU字幕组，获取最新熟肉信息！
-Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,260)}出品
-Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,320)}UUU字幕组
-Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,380)}翻译
-Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,440)}FL1.2
-Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,500)}校对
-Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,560)}Husky
-Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,620)}特效
-Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,680)}presisco
-Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,740)}压制
-Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,800)}
-Dialogue: 0,0:00:01.50,0:00:03.00,SU Team Background,,0,0,0,,{\bord0\xshad-0\yshad16\pos(1725,860)}{\p1}m -1 122 b -1 -19 -19 -1 122 -1 l 251 -1 b 390 -1 377 -19 377 122 l 377 500 b 377 642 390 628 251 628 l 122 628 b -19 628 -1 642 -1 500 l -1 122 {\p0}
-Dialogue: 100,0:00:25.60,0:00:27.40,Normal Dialog Text,,0,0,0,,{\rCHS}他们是你又爱又恨\N{\rENG}They're the team you love to hate,
-Dialogue: 100,0:00:27.40,0:00:28.96,Normal Dialog Text,,0,0,0,,{\rCHS}又恨又爱的团队\N{\rENG}but also hate to love.
-Dialogue: 100,0:00:29.52,0:00:30.72,Normal Dialog Text,,0,0,0,,{\rCHS}我爱摔角\N{\rENG}I love wrestling!
-Dialogue: 100,0:00:31.80,0:00:35.92,Normal Dialog Text,,0,0,0,,{\rCHS}紫色美洲狮和虎百万又使出了毁灭性的一击\N{\rENG}Another devastating move by Purple Puma and Tiger Millionaire tonight, folks.
-Dialogue: 100,0:00:36.08,0:00:39.36,Normal Dialog Text,,0,0,0,,{\rCHS}看来狂暴悍鲨经过这一重创也眼冒海星了\N{\rENG}Looks like Shark-O-Mania's seeing starfish after that last one.
-Dialogue: 100,0:00:39.64,0:00:41.92,Normal Dialog Text,,0,0,0,,{\rCHS}我们使出绝招来了结他吧\N{\rENG}Let's finish him off with our special move.
-Dialogue: 100,0:00:42.28,0:00:43.80,Normal Dialog Text,,0,0,0,,{\rCHS}哦 好啊\N{\rENG}Yeah, why not?
-Dialogue: 100,0:00:43.80,0:00:45.04,Normal Dialog Text,,0,0,0,,{\rCHS}抓住我的手\N{\rENG}Take my hand.
-Dialogue: 100,0:00:45.24,0:00:46.56,Normal Dialog Text,,0,0,0,,{\rCHS}向您呈现\N{\rENG}Here it comes, y'all...
-Dialogue: 100,0:00:46.56,0:00:50.32,Normal Dialog Text,,0,0,0,,{\rCHS}紫色百万\N{\rENG}...the Purple Millionaire
-Dialogue: 100,0:00:50.32,0:00:52.76,Normal Dialog Text,,0,0,0,,{\rCHS}之踢\N{\rENG}Kick!
-Dialogue: 100,0:00:53.40,0:00:55.96,Normal Dialog Text,,0,0,0,,{\rCHS}狂暴悍鲨昏过去了\N{\rENG}And Shark-O-Mania's out cold.
-Dialogue: 100,0:00:55.96,0:00:58.76,Normal Dialog Text,,0,0,0,,{\rCHS}快来人把那条鱼丢到冰块上 免得发臭了\N{\rENG}Somebody put that fish on ice before it stinks up the joint.
-Dialogue: 100,0:00:58.92,0:01:02.47,Normal Dialog Text,,0,0,0,,{\rCHS}朋友们 虎百万和紫色美洲狮再一次做到了\N{\rENG}Folks, Tiger Millionaire and Purple Puma have done it again.
-Dialogue: 100,0:01:02.68,0:01:05.82,Normal Dialog Text,,0,0,0,,{\rCHS}他们仍然是你们的双打联赛冠军\N{\rENG}They are still your tag-team champions.
-Dialogue: 100,0:01:06.12,0:01:10.00,Normal Dialog Text,,0,0,0,,{\rCHS}他们独家的丛林恐怖会有结束的一天吗\N{\rENG}Will their special brand of jungle terror ever come to an end?
-Dialogue: 100,0:01:12.60,0:01:14.95,Normal Dialog Text,,0,0,0,,{\rCHS}别啊 千万别结束\N{\rENG}Yeah! Don't ever stop!
-Dialogue: 100,0:01:15.36,0:01:19.24,Normal Dialog Text,,0,0,0,,{\rCHS}永远的虎百万和紫色美洲狮\N{\rENG}Tiger Millionaire and Purple Puma forever!
-Dialogue: 100,0:01:19.64,0:01:23.04,Normal Dialog Text,,0,0,0,,{\rCHS}真是团队合作和友情的最好的代名词\N{\rENG}Such dedication to teamwork and friendship.
-Dialogue: 100,0:01:23.04,0:01:23.83,Normal Dialog Text,,0,0,0,,{\rCHS}什么\N{\rENG}What?!
-Dialogue: 100,0:01:25.04,0:01:26.16,Normal Dialog Text,,0,0,0,,{\rCHS}嘿\N{\rENG}Hey.
-Dialogue: 100,0:01:26.16,0:01:27.92,Normal Dialog Text,,0,0,0,,{\rCHS}这挺好玩的 但\N{\rENG}It's been fun, but...
-Dialogue: 100,0:01:27.92,0:01:29.16,Normal Dialog Text,,0,0,0,,{\rCHS}我玩够了\N{\rENG}I'm over this.
-Dialogue: 100,0:01:31.08,0:01:32.71,Normal Dialog Text,,0,0,0,,{\rCHS}怎 怎么回事\N{\rENG}W-What's going on?
-Dialogue: 100,0:01:32.84,0:01:35.20,Normal Dialog Text,,0,0,0,,{\rCHS}我洗手不干了\N{\rENG}I'm through with this place.
-Dialogue: 100,0:01:35.48,0:01:36.72,Normal Dialog Text,,0,0,0,,{\rCHS}还你腰带\N{\rENG}Here's your belt back.
-Dialogue: 100,0:01:37.84,0:01:40.00,Normal Dialog Text,,0,0,0,,{\rCHS}喂 那个麦克风很贵的诶\N{\rENG}Hey, now. That mic is expensive.
-Dialogue: 100,0:01:40.28,0:01:41.20,Normal Dialog Text,,0,0,0,,{\rCHS}你不能就这么\N{\rENG}You can't just --
-Dialogue: 100,0:01:41.20,0:01:44.28,Normal Dialog Text,,0,0,0,,{\rCHS}哦 不 你就打算这样一走了之了?\N{\rENG}Oh, no. You're just gonna do that and leave?
-Dialogue: 100,0:01:45.40,0:01:46.52,Normal Dialog Text,,0,0,0,,{\rCHS}抱歉各位\N{\rENG}Sorry, everyone.
-Dialogue: 100,0:01:46.84,0:01:49.08,Normal Dialog Text,,0,0,0,,{\rCHS}看来 已经结束了\N{\rENG}I guess this is over.
-Dialogue: 100,0:01:49.88,0:01:51.12,Normal Dialog Text,,0,0,0,,{\rCHS}再见 笑脸先生\N{\rENG}Bye, Mr. Smiley.
-Dialogue: 100,0:01:51.52,0:01:53.88,Normal Dialog Text,,0,0,0,,{\rCHS}真是难以置信的遗憾啊 各位\N{\rENG}What an unbelievable shame, folks.
-Dialogue: 100,0:01:53.88,0:01:55.48,Normal Dialog Text,,0,0,0,,{\rCHS}什么 这就完了?\N{\rENG}What?! That's it?
-Dialogue: 100,0:01:55.48,0:01:57.04,Normal Dialog Text,,0,0,0,,{\rCHS}你不能现在退出\N{\rENG}You can't quit now.
-Dialogue: 100,0:01:57.28,0:02:01.36,Normal Dialog Text,,0,0,0,,{\rCHS}一个伟大的双打团队的职业生涯就在这摔角擂台上\N{\rENG}What a sad and anticlimactic end to one of the greatest tag-team careers
-Dialogue: 100,0:02:01.37,0:02:03.68,Normal Dialog Text,,0,0,0,,{\rCHS}悲壮而急转直下地落下帷幕\N{\rENG}to ever grace the squared circle.
-Dialogue: 100,0:02:07.60,0:02:09.67,Normal Dialog Text,,0,0,0,,{\rCHS}周六晚上终于又空出来了\N{\rENG}Got my Saturday nights back.
-Dialogue: 100,0:02:09.96,0:02:11.44,Normal Dialog Text,,0,0,0,,{\rCHS}你刚才说的是认真的吗\N{\rENG}Did you really mean what you said
-Dialogue: 100,0:02:11.44,0:02:13.16,Normal Dialog Text,,0,0,0,,{\rCHS}你真的打算不再摔角了?\N{\rENG}about being through with wrestling?
-Dialogue: 100,0:02:13.40,0:02:14.88,Normal Dialog Text,,0,0,0,,{\rCHS}拜托 史蒂文\N{\rENG}Come on, Steven.
-Dialogue: 100,0:02:14.88,0:02:16.60,Normal Dialog Text,,0,0,0,,{\rCHS}你不觉得那比赛有点无聊吗\N{\rENG}Wasn't that match kind of boring?
-Dialogue: 100,0:02:17.12,0:02:19.88,Normal Dialog Text,,0,0,0,,{\rCHS}我们不再需要靠摔角来找乐子了 对不对\N{\rENG}We don't need wrestling to have fun anymore, right?
-Dialogue: 100,0:02:20.84,0:02:21.43,Normal Dialog Text,,0,0,0,,{\rCHS}对\N{\rENG}Right.
-Dialogue: 100,0:02:21.68,0:02:22.72,Normal Dialog Text,,0,0,0,,{\rCHS}就是嘛\N{\rENG}Yeah.
-Dialogue: 100,0:02:23.40,0:02:24.79,Normal Dialog Text,,0,0,0,,{\rCHS}我们回家找点吃的去\N{\rENG}Let's go home and get some grub.
-Dialogue: 100,0:02:32.00,0:02:33.40,Normal Dialog Text,,0,0,0,,{\rCHS}嘿莎蒂 嘿拉尔斯\N{\rENG}Hey, Sadie. Hey, Lars.
-Dialogue: 100,0:02:33.72,0:02:34.88,Normal Dialog Text,,0,0,0,,{\rCHS}我能要特殊的吗\N{\rENG}Can I get the special?
-Dialogue: 100,0:02:39.92,0:02:41.28,Normal Dialog Text,,0,0,0,,{\rCHS}老虎\N{\rENG}Tiger.
-Dialogue: 100,0:02:42.01,0:02:45.42,Normal Dialog Text,,0,0,0,,{\rCHS}他在职业生涯的黄金时期放弃了摔角\N{\rENG}He left wrestling at the height of his career.
-Dialogue: 100,0:02:45.68,0:02:47.68,Normal Dialog Text,,0,0,0,,{\rCHS}为什么\N{\rENG}Why-y-y-y?
-Dialogue: 100,0:02:48.24,0:02:49.96,Normal Dialog Text,,0,0,0,,{\rCHS}你怎么不问问史蒂文呢\N{\rENG}Why don't you just ask Steven?
-Dialogue: 100,0:02:49.96,0:02:51.28,Normal Dialog Text,,0,0,0,,{\rCHS}那是你的想法\N{\rENG}You and your theory.
-Dialogue: 100,0:02:51.28,0:02:53.48,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文才不是老虎\N{\rENG}Steven is not Tiger.
-Dialogue: 100,0:02:53.48,0:02:55.92,Normal Dialog Text,,0,0,0,,{\rCHS}老虎肌肉发达 看上去有七英尺高\N{\rENG}Tiger's ripped and like seven feet tall.
-Dialogue: 100,0:02:56.36,0:02:59.92,Normal Dialog Text,,0,0,0,,{\rCHS}嗯 我听说紫色美洲狮不想再干了\N{\rENG}Well, I heard Purple Puma didn't want to do it anymore.
-Dialogue: 100,0:02:59.92,0:03:00.96,Normal Dialog Text,,0,0,0,,{\rCHS}又怎样\N{\rENG}So what?!
-Dialogue: 100,0:03:01.20,0:03:04.84,Normal Dialog Text,,0,0,0,,{\rCHS}紫色美洲狮不干又不代表虎也要跟着放弃\N{\rENG}Just because Purple Puma quit doesn't mean Tiger had to.
-Dialogue: 100,0:03:05.36,0:03:08.08,Normal Dialog Text,,0,0,0,,{\rCHS}我还听说虎没想到这一点\N{\rENG}I also heard Tiger didn't think of that.
-Dialogue: 100,0:03:08.44,0:03:09.61,Normal Dialog Text,,0,0,0,,{\rCHS}那他应该想到的\N{\rENG}Well, he should have.
-Dialogue: 100,0:03:09.88,0:03:12.31,Normal Dialog Text,,0,0,0,,{\rCHS}毕竟他也只能这样回馈粉丝了\N{\rENG}It's the least he could do for his fans.
-Dialogue: 100,0:03:15.36,0:03:16.90,Normal Dialog Text,,0,0,0,,{\rCHS}就是他没错吧\N{\rENG}It is him, right?
-Dialogue: 100,0:03:17.72,0:03:20.88,Normal Dialog Text,,0,0,0,,{\rCHS}我知道近段日子这里有些萧条\N{\rENG}Now, I know these days, we're in a depression,
-Dialogue: 100,0:03:21.16,0:03:23.75,Normal Dialog Text,,0,0,0,,{\rCHS}但地下摔角是不会因此而落寞的\N{\rENG}but underground wrestling is too big to fail.
-Dialogue: 100,0:03:24.04,0:03:26.36,Normal Dialog Text,,0,0,0,,{\rCHS}我们贷款调来了两名新战士\N{\rENG}We've got two new fighters on loan,
-Dialogue: 100,0:03:26.36,0:03:28.12,Normal Dialog Text,,0,0,0,,{\rCHS}而他们是来筹集资金的\N{\rENG}and they're here to collect.
-Dialogue: 100,0:03:28.32,0:03:29.88,Normal Dialog Text,,0,0,0,,{\rCHS}女士们先生们\N{\rENG}Ladies and gentlemen,
-Dialogue: 100,0:03:29.88,0:03:32.08,Normal Dialog Text,,0,0,0,,{\rCHS}有请华尔街之狼\N{\rENG}the Wolves of Wall Street.
-Dialogue: 100,0:03:32.36,0:03:37.72,Normal Dialog Text,,0,0,0,,{\rCHS}我们会愤怒 我们会咆哮 我们还会套牢你的股票\N{\rENG}We'll huff, we'll puff, and we'll blow your stocks down.
-Dialogue: 100,0:03:37.96,0:03:38.96,Normal Dialog Text,,0,0,0,,{\rCHS}真是山寨\N{\rENG}What a rip-off.
-Dialogue: 100,0:03:40.48,0:03:41.92,Normal Dialog Text,,0,0,0,,{\rCHS}谁来了\N{\rENG}What's this?
-Dialogue: 100,0:03:42.40,0:03:45.92,Normal Dialog Text,,0,0,0,,{\rCHS}看来我们有一个新的挑战者刚登上了擂台\N{\rENG}It looks like we have a new challenger making his way into the ring.
-Dialogue: 100,0:03:46.12,0:03:50.20,Normal Dialog Text,,0,0,0,,{\rCHS}在那隐藏身份的披风下究竟是何方神圣\N{\rENG}What mystery could possibly lie beneath that identity-concealing shawl?
-Dialogue: 100,0:03:50.88,0:03:52.36,Normal Dialog Text,,0,0,0,,{\rCHS}真不敢相信\N{\rENG}I don't believe it.
-Dialogue: 100,0:03:54.44,0:03:57.52,Normal Dialog Text,,0,0,0,,{\rCHS}是虎百万 女士们先生们\N{\rENG}Tiger Millionaire, ladies and gentlemen!
-Dialogue: 100,0:04:00.04,0:04:01.96,Normal Dialog Text,,0,0,0,,{\rCHS}你错了 笑脸先生\N{\rENG}You're wrong, Mr. Smiley.
-Dialogue: 100,0:04:01.96,0:04:04.96,Normal Dialog Text,,0,0,0,,{\rCHS}虎百万 已经不复存在了\N{\rENG}Tiger Millionaire is gone forever.
-Dialogue: 100,0:04:05.84,0:04:08.20,Normal Dialog Text,,0,0,0,,{\rCHS}他拿着一大笔钱退休了\N{\rENG}He retired to his huge pile of money.
-Dialogue: 100,0:04:08.52,0:04:11.28,Normal Dialog Text,,0,0,0,,{\rCHS}但他意识到这并不能使他快乐\N{\rENG}But he realized it didn't make him happy,
-Dialogue: 100,0:04:11.28,0:04:15.12,Normal Dialog Text,,0,0,0,,{\rCHS}于是我来到这里 准备好回馈粉丝\N{\rENG}so here I am, ready to give back to the fans.
-Dialogue: 100,0:04:15.12,0:04:16.92,Normal Dialog Text,,0,0,0,,{\rCHS}虎善士\N{\rENG}Tiger Philanthropist!
-Dialogue: 100,0:04:21.56,0:04:24.57,Normal Dialog Text,,0,0,0,,{\rCHS}所以百万富翁变成了一个慈善家\N{\rENG}So, the millionaire becomes a philanthropist --
-Dialogue: 100,0:04:24.57,0:04:27.20,Normal Dialog Text,,0,0,0,,{\rCHS}一个四处撒钱的人\N{\rENG}a person who gives money away.
-Dialogue: 100,0:04:27.20,0:04:28.40,Normal Dialog Text,,0,0,0,,{\rCHS}但我问你\N{\rENG}But I ask you,
-Dialogue: 100,0:04:28.40,0:04:31.16,Normal Dialog Text,,0,0,0,,{\rCHS}紫色美洲狮的小跟班能自己单打独斗么\N{\rENG}can the Purple Puma's back-up make it solo?
-Dialogue: 100,0:04:31.64,0:04:33.28,Normal Dialog Text,,0,0,0,,{\rCHS}等着瞧\N{\rENG}Bring it on!
-Dialogue: 100,0:04:35.24,0:04:36.84,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 小硬汉\N{\rENG}Hey, tough boy.
-Dialogue: 100,0:04:36.84,0:04:39.20,Normal Dialog Text,,0,0,0,,{\rCHS}你需要贷款来做笔小生意吗\N{\rENG}You need a loan to start a small business?
-Dialogue: 100,0:04:39.32,0:04:41.68,Normal Dialog Text,,0,0,0,,{\rCHS}哦 我的经济收入其实很稳定的\N{\rENG}Oh, I'm actually pretty financially stable.
-Dialogue: 100,0:04:41.68,0:04:43.60,Normal Dialog Text,,0,0,0,,{\rCHS}因为你刚刚通过了审批\N{\rENG}'Cause you've just been approved.
-Dialogue: 100,0:04:43.80,0:04:44.52,Normal Dialog Text,,0,0,0,,{\rCHS}但我说了\N{\rENG}But I just said --
-Dialogue: 100,0:04:45.40,0:04:46.96,Normal Dialog Text,,0,0,0,,{\rCHS}我的天呐\N{\rENG}Oh, my dang.
-Dialogue: 100,0:04:46.96,0:04:52.24,Normal Dialog Text,,0,0,0,,{\rCHS}比利银行资产刚尝了一记善士商业贷款之肘击\N{\rENG}Billy Bank Assets just got a taste of the Philanthropist business-loan elbow.
-Dialogue: 100,0:04:52.24,0:04:55.12,Normal Dialog Text,,0,0,0,,{\rCHS}但是哈尔琼斯还在赛场上\N{\rENG}Howl Jones is still in this match, though.
-Dialogue: 100,0:04:55.12,0:04:56.87,Normal Dialog Text,,0,0,0,,{\rCHS}他想要取款\N{\rENG}He's gonna make a withdrawal.
-Dialogue: 100,0:04:57.80,0:04:59.72,Normal Dialog Text,,0,0,0,,{\rCHS}资金透支\N{\rENG}Overdraft.
-Dialogue: 100,0:04:59.96,0:05:02.38,Normal Dialog Text,,0,0,0,,{\rCHS}这些应该够付你们的医药费了\N{\rENG}This should cover your medical bills.
-Dialogue: 100,0:05:02.48,0:05:04.44,Normal Dialog Text,,0,0,0,,{\rCHS}多么慷慨的摔角手\N{\rENG}What a generous wrestler.
-Dialogue: 100,0:05:04.44,0:05:05.20,Normal Dialog Text,,0,0,0,,{\rCHS}哦 怎么\N{\rENG}Oh, what?
-Dialogue: 100,0:05:05.20,0:05:08.48,Normal Dialog Text,,0,0,0,,{\rCHS}看来狂暴悍鲨回来报仇了\N{\rENG}Looks like Shark-O-Mania is back for revenge
-Dialogue: 100,0:05:08.48,0:05:10.12,Normal Dialog Text,,0,0,0,,{\rCHS}还带来了个新搭档\N{\rENG}with a new partner --
-Dialogue: 100,0:05:10.44,0:05:11.84,Normal Dialog Text,,0,0,0,,{\rCHS}海黄毒蜂\N{\rENG}the Sea Wasp,
-Dialogue: 600,0:05:10.44,0:05:11.84,Hint,,0,0,0,,海黄毒蜂, 澳洲箱水母的绰号
-Dialogue: 100,0:05:12.20,0:05:14.68,Normal Dialog Text,,0,0,0,,{\rCHS}一种带有剧毒的水母\N{\rENG}which is a very poisonous type of jellyfish.
-Dialogue: 100,0:05:15.68,0:05:18.24,Normal Dialog Text,,0,0,0,,{\rCHS}看来我们得让他们尝尝紫色美洲...\N{\rENG}Looks like we'll have to give 'em the ol' Purple Pu--
-Dialogue: 100,0:05:19.64,0:05:23.40,Normal Dialog Text,,0,0,0,,{\rCHS}天呐 老虎将如何搞定这个充满鱼腥味的状况\N{\rENG}Man, how's Tiger gonna get out of this fishy situation?
-Dialogue: 100,0:05:26.04,0:05:29.77,Normal Dialog Text,,0,0,0,,{\rCHS}他使出了一记慈善捐款重击\N{\rENG}He hit them with a charitable take-donation.
-Dialogue: 100,0:05:30.00,0:05:31.88,Normal Dialog Text,,0,0,0,,{\rCHS}现在是商业投机弹射\N{\rENG}And now a venture catapult-ist.
-Dialogue: 100,0:05:33.40,0:05:34.78,Normal Dialog Text,,0,0,0,,{\rCHS}看到了吗\N{\rENG}Did you see that?
-Dialogue: 100,0:05:36.28,0:05:38.89,Normal Dialog Text,,0,0,0,,{\rCHS}他又付了医药费\N{\rENG}He's paying for their medical bills, too.
-Dialogue: 100,0:05:39.28,0:05:42.56,Normal Dialog Text,,0,0,0,,{\rCHS}看来这个慈善家是实打实的 女士们先生们\N{\rENG}It looks like this philanthropist is the real deal, ladies and gentlemen.
-Dialogue: 100,0:05:42.92,0:05:45.84,Normal Dialog Text,,0,0,0,,{\rCHS}今晚在座的每一位无不为之动容\N{\rENG}No one is leaving here tonight unimpressed.
-Dialogue: 100,0:05:49.84,0:05:51.89,Normal Dialog Text,,0,0,0,,{\rCHS}嗨 拉尔斯\N{\rENG}Hi, Lars.
-Dialogue: 100,0:05:53.32,0:05:53.90,Normal Dialog Text,,0,0,0,,{\rCHS}咋了\N{\rENG}What?
-Dialogue: 100,0:05:54.20,0:05:55.32,Normal Dialog Text,,0,0,0,,{\rCHS}说来\N{\rENG}So...
-Dialogue: 100,0:05:55.80,0:05:57.96,Normal Dialog Text,,0,0,0,,{\rCHS}你昨晚过得怎样\N{\rENG}How was your evening?
-Dialogue: 100,0:05:57.96,0:05:59.44,Normal Dialog Text,,0,0,0,,{\rCHS}还行吧\N{\rENG}Fine, I guess.
-Dialogue: 100,0:05:59.44,0:06:00.60,Normal Dialog Text,,0,0,0,,{\rCHS}有点无聊\N{\rENG}Kind of boring.
-Dialogue: 100,0:06:00.60,0:06:02.36,Normal Dialog Text,,0,0,0,,{\rCHS}你说有点无聊是什么意思\N{\rENG}What do you mean kind of boring?!
-Dialogue: 100,0:06:02.36,0:06:05.67,Normal Dialog Text,,0,0,0,,{\rCHS}你这么关心我晚上过得怎样是几个意思\N{\rENG}Why are you so worked up over how my night was?
-Dialogue: 100,0:06:07.20,0:06:10.00,Normal Dialog Text,,0,0,0,,{\rCHS}因为我在想你最近有没有看到什么\N{\rENG}well, I was wondering if you'd seen any good
-Dialogue: 100,0:06:10.00,0:06:11.36,Normal Dialog Text,,0,0,0,,{\rCHS}精彩的摔角比赛\N{\rENG}wrestling matches lately.
-Dialogue: 100,0:06:12.20,0:06:13.80,Normal Dialog Text,,0,0,0,,{\rCHS}既然你提到了\N{\rENG}Now that you mention it,
-Dialogue: 100,0:06:13.96,0:06:14.72,Normal Dialog Text,,0,0,0,,{\rCHS}没有\N{\rENG}no.
-Dialogue: 100,0:06:14.72,0:06:16.68,Normal Dialog Text,,0,0,0,,{\rCHS}但我听说虎百万回来了\N{\rENG}But I heard Tiger Millionaire was back.
-Dialogue: 100,0:06:16.69,0:06:18.04,Normal Dialog Text,,0,0,0,,{\rCHS}你最喜欢他了不是吗\N{\rENG}He's your favorite, right?
-Dialogue: 100,0:06:18.04,0:06:20.72,Normal Dialog Text,,0,0,0,,{\rCHS}没错 他是回来了 但却搞些蹩脚的\N{\rENG}Yeah, but he came back as some lame
-Dialogue: 100,0:06:20.72,0:06:24.40,Normal Dialog Text,,0,0,0,,{\rCHS}慈善机构之类的东西\N{\rENG}Tiger Philharmonic donations thing,
-Dialogue: 100,0:06:24.80,0:06:28.80,Normal Dialog Text,,0,0,0,,{\rCHS}讲真 搞得有点莫名其妙的 懂吗\N{\rENG}which, honestly, is such a weird angle, you know?
-Dialogue: 100,0:06:28.80,0:06:31.36,Normal Dialog Text,,0,0,0,,{\rCHS}整件事都感觉挺奇怪的\N{\rENG}The whole thing just felt so off.
-Dialogue: 100,0:06:31.64,0:06:33.32,Normal Dialog Text,,0,0,0,,{\rCHS}你说奇怪是什么意思\N{\rENG}What do you mean off?
-Dialogue: 100,0:06:33.64,0:06:36.60,Normal Dialog Text,,0,0,0,,{\rCHS}他脱下领带 还把钱到处撒\N{\rENG}He took off his tie, and he's throwing money at everybody?
-Dialogue: 100,0:06:36.60,0:06:37.52,Normal Dialog Text,,0,0,0,,{\rCHS}就像是\N{\rENG}It's like
-Dialogue: 100,0:06:37.52,0:06:39.52,Normal Dialog Text,,0,0,0,,{\rCHS}出了个没人想要的续集\N{\rENG}the sequel no one asked for.
-Dialogue: 100,0:06:39.72,0:06:42.61,Normal Dialog Text,,0,0,0,,{\rCHS}什么 这可是你想要的续集啊\N{\rENG}What? It's the sequel you asked for.
-Dialogue: 100,0:06:42.61,0:06:45.04,Normal Dialog Text,,0,0,0,,{\rCHS}怎么说 他就是看着不太走心 你懂\N{\rENG}Well, he just didn't seem into it, you know?
-Dialogue: 100,0:06:45.44,0:06:47.88,Normal Dialog Text,,0,0,0,,{\rCHS}他以前很在意他的钱的\N{\rENG}He used to care about his money.
-Dialogue: 100,0:06:47.88,0:06:49.75,Normal Dialog Text,,0,0,0,,{\rCHS}现在却四处乱散\N{\rENG}Now he's just giving it away.
-Dialogue: 100,0:06:49.88,0:06:52.50,Normal Dialog Text,,0,0,0,,{\rCHS}而且他还是那样 每场都赢\N{\rENG}And he still just wins, like, every match.
-Dialogue: 100,0:06:52.50,0:06:53.86,Normal Dialog Text,,0,0,0,,{\rCHS}哦 我懂了\N{\rENG}Oh, I get it.
-Dialogue: 100,0:06:54.00,0:06:56.92,Normal Dialog Text,,0,0,0,,{\rCHS}你想让他输 而且省着点花钱 对吧\N{\rENG}You want him to lose and keep his money, right?
-Dialogue: 100,0:06:57.08,0:06:59.08,Normal Dialog Text,,0,0,0,,{\rCHS}不 我不想让他输 只是\N{\rENG}No, I don't want him to lose, just --
-Dialogue: 100,0:06:59.08,0:07:00.72,Normal Dialog Text,,0,0,0,,{\rCHS}你想让他做什么\N{\rENG}What do you want him to do?!
-Dialogue: 100,0:07:00.72,0:07:03.84,Normal Dialog Text,,0,0,0,,{\rCHS}告诉我\N{\rENG}Just tell me!
-Dialogue: 100,0:07:03.84,0:07:05.07,Normal Dialog Text,,0,0,0,,{\rCHS}我不知道\N{\rENG}I don't know!
-Dialogue: 100,0:07:05.20,0:07:07.64,Normal Dialog Text,,0,0,0,,{\rCHS}我经常连早餐想吃啥都不知道\N{\rENG}I don't even know what I want for breakfast half the time.
-Dialogue: 100,0:07:07.64,0:07:10.28,Normal Dialog Text,,0,0,0,,{\rCHS}我是个复杂又独特的青春期少年\N{\rENG}I'm a complex individual teenage boy.
-Dialogue: 100,0:07:10.28,0:07:11.12,Normal Dialog Text,,0,0,0,,{\rCHS}现在给我出去\N{\rENG}Now get out of here
-Dialogue: 100,0:07:11.12,0:07:14.48,Normal Dialog Text,,0,0,0,,{\rCHS}别再对我幸福感和生活状况过度投资了\N{\rENG}and stop taking such a personal interest in my happiness and well-being!
-Dialogue: 100,0:07:17.00,0:07:17.96,Normal Dialog Text,,0,0,0,,{\rCHS}我不明白\N{\rENG}I don't get it.
-Dialogue: 100,0:07:18.28,0:07:20.36,Normal Dialog Text,,0,0,0,,{\rCHS}我都不知道我为什么还在摔角\N{\rENG}I don't even know why I'm wrestling anymore.
-Dialogue: 100,0:07:20.72,0:07:23.04,Normal Dialog Text,,0,0,0,,{\rCHS}我猜我是为了拉尔斯\N{\rENG}I guess I'm doing it for Lars,
-Dialogue: 100,0:07:23.04,0:07:24.88,Normal Dialog Text,,0,0,0,,{\rCHS}但他压根都不在乎\N{\rENG}and he doesn't even care.
-Dialogue: 100,0:07:24.89,0:07:27.19,Normal Dialog Text,,0,0,0,,{\rCHS}我更喜欢为了你做这些的时候\N{\rENG}I liked it better when I was doing it for you.
-Dialogue: 100,0:07:27.48,0:07:28.84,Normal Dialog Text,,0,0,0,,{\rCHS}但是谁稀罕呢 是吧\N{\rENG}But who needs it, you know?
-Dialogue: 100,0:07:29.16,0:07:32.12,Normal Dialog Text,,0,0,0,,{\rCHS}我是说 我以前需要它是因为\N{\rENG}I mean, I needed it when I felt like...
-Dialogue: 100,0:07:32.12,0:07:33.40,Normal Dialog Text,,0,0,0,,{\rCHS}我觉得自己不够好\N{\rENG}I wasn't good enough.
-Dialogue: 100,0:07:33.84,0:07:35.76,Normal Dialog Text,,0,0,0,,{\rCHS}但我不会再那样了\N{\rENG}But I-I don't feel like that anymore.
-Dialogue: 100,0:07:37.12,0:07:38.10,Normal Dialog Text,,0,0,0,,{\rCHS}你会吗\N{\rENG}Do you?
-Dialogue: 100,0:07:38.32,0:07:39.00,Normal Dialog Text,,0,0,0,,{\rCHS}不\N{\rENG}No.
-Dialogue: 100,0:07:39.00,0:07:41.31,Normal Dialog Text,,0,0,0,,{\rCHS}不 那 那从来不是我摔角的原因\N{\rENG}No, that -- that's never why I was doing it.
-Dialogue: 100,0:07:41.64,0:07:44.60,Normal Dialog Text,,0,0,0,,{\rCHS}我就是喜欢跟你一起做些什么的感觉\N{\rENG}I just liked that it was our thing we did together.
-Dialogue: 100,0:07:45.00,0:07:47.68,Normal Dialog Text,,0,0,0,,{\rCHS}但你是对的 这已经没什么意义了\N{\rENG}But you're right. It doesn't make sense anymore.
-Dialogue: 100,0:07:48.24,0:07:50.12,Normal Dialog Text,,0,0,0,,{\rCHS}我觉得我应该像你一样\N{\rENG}I think I should just do what you did --
-Dialogue: 100,0:07:50.12,0:07:52.64,Normal Dialog Text,,0,0,0,,{\rCHS}告诉大家我不干了 然后\N{\rENG}just tell everybody I'm quitting and
-Dialogue: 100,0:07:52.64,0:07:54.40,Normal Dialog Text,,0,0,0,,{\rCHS}毫不在乎地离开\N{\rENG}leave like it's no big deal.
-Dialogue: 100,0:07:58.24,0:07:59.68,Normal Dialog Text,,0,0,0,,{\rCHS}女士们先生们\N{\rENG}Ladies and gents,
-Dialogue: 100,0:07:59.68,0:08:01.64,Normal Dialog Text,,0,0,0,,{\rCHS}这是一个特别的夜晚\N{\rENG}tonight is a very special night
-Dialogue: 100,0:08:01.64,0:08:04.44,Normal Dialog Text,,0,0,0,,{\rCHS}就在这海滩市摔角竞技场的现场\N{\rENG}here at the Beach City Wrestling Arena Dome and Building.
-Dialogue: 100,0:08:04.88,0:08:06.88,Normal Dialog Text,,0,0,0,,{\rCHS}我会让我的好朋友虎百...\N{\rENG}I'll let my good friend Tiger Mill--
-Dialogue: 100,0:08:06.90,0:08:09.64,Normal Dialog Text,,0,0,0,,{\rCHS}我是说 善士 来解释\N{\rENG}I mean, Philanthropist explain.
-Dialogue: 100,0:08:09.67,0:08:11.18,Normal Dialog Text,,0,0,0,,{\rCHS}谢谢 笑脸先生\N{\rENG}Thank you, Mr. Smiley.
-Dialogue: 100,0:08:11.40,0:08:12.32,Normal Dialog Text,,0,0,0,,{\rCHS}又闹哪出\N{\rENG}What now?
-Dialogue: 100,0:08:12.72,0:08:16.92,Normal Dialog Text,,0,0,0,,{\rCHS}今晚将标志着我最伟大和最终的慈善行为\N{\rENG}Tonight will mark my greatest and finalest act of philanthropy.
-Dialogue: 100,0:08:16.92,0:08:20.80,Normal Dialog Text,,0,0,0,,{\rCHS}今晚 我会交出我联赛冠军的头衔\N{\rENG}Tonight, I am giving away the tag-team titles.
-Dialogue: 100,0:08:20.80,0:08:23.80,Normal Dialog Text,,0,0,0,,{\rCHS}谁先拿到 就归谁\N{\rENG}Whoever can grab them first can have them.
-Dialogue: 100,0:08:27.44,0:08:30.80,Normal Dialog Text,,0,0,0,,{\rCHS}切 慈善什么的弱爆了\N{\rENG}Boo! Philanthropy is lame!
-Dialogue: 100,0:08:30.96,0:08:33.59,Normal Dialog Text,,0,0,0,,{\rCHS}随你们怎么想 我已经无所谓了\N{\rENG}Boo all you like. I don't care anymore.
-Dialogue: 100,0:08:33.80,0:08:36.76,Normal Dialog Text,,0,0,0,,{\rCHS}这些腰带对我来说毫无意义\N{\rENG}These belts don't mean anything to me.
-Dialogue: 100,0:08:36.79,0:08:38.04,Normal Dialog Text,,0,0,0,,{\rCHS}从来如此\N{\rENG}They never did.
-Dialogue: 100,0:08:41.28,0:08:42.60,Normal Dialog Text,,0,0,0,,{\rCHS}我知道这声音\N{\rENG}I know that sound.
-Dialogue: 100,0:08:42.88,0:08:45.32,Normal Dialog Text,,0,0,0,,{\rCHS}是好哥们施工队\N{\rENG}It's the Brothers Construction --
-Dialogue: 100,0:08:45.32,0:08:49.64,Normal Dialog Text,,0,0,0,,{\rCHS}炽烈水泥和巨肌重卡\N{\rENG}Concrete Heat and Chunk Truck.
-Dialogue: 100,0:08:49.92,0:08:52.57,Normal Dialog Text,,0,0,0,,{\rCHS}真遗憾老虎就这么放弃了腰带\N{\rENG}So sad to see Tiger giving up those belts
-Dialogue: 100,0:08:52.57,0:08:54.48,Normal Dialog Text,,0,0,0,,{\rCHS}居然连一场战斗都没展开\N{\rENG}without at least putting up a fight.
-Dialogue: 100,0:08:57.16,0:08:59.32,Normal Dialog Text,,0,0,0,,{\rCHS}是帅爆徒的出场音乐\N{\rENG}It's the Good-Looking Guys' music.
-Dialogue: 100,0:08:59.76,0:09:02.52,Normal Dialog Text,,0,0,0,,{\rCHS}他们是回来夺取最后的头衔的\N{\rENG}They're back to finally claim the tag titles.
-Dialogue: 100,0:09:02.52,0:09:04.88,Normal Dialog Text,,0,0,0,,{\rCHS}看来擂台上正在预热\N{\rENG}Looks like things are heating up in the ring.
-Dialogue: 100,0:09:04.88,0:09:08.16,Normal Dialog Text,,0,0,0,,{\rCHS}谁会是下一届的双打联赛冠军\N{\rENG}Who will be the next tag-team champion?!
-Dialogue: 100,0:09:09.88,0:09:11.93,Normal Dialog Text,,0,0,0,,{\rCHS}你好啊 老虎\N{\rENG}Whoa, there, Tiger.
-Dialogue: 100,0:09:12.48,0:09:13.34,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶\N{\rENG}Amethyst?
-Dialogue: 100,0:09:13.56,0:09:15.08,Normal Dialog Text,,0,0,0,,{\rCHS}他回来了\N{\rENG}He's back!
-Dialogue: 100,0:09:15.10,0:09:18.00,Normal Dialog Text,,0,0,0,,{\rCHS}传说已然重返擂台\N{\rENG}The legend has returned to the ring!
-Dialogue: 100,0:09:18.32,0:09:22.68,Normal Dialog Text,,0,0,0,,{\rCHS}紫色美洲狮\N{\rENG}Pu-u-u-rple Pu-u-u-ma!
-Dialogue: 100,0:09:22.68,0:09:25.17,Normal Dialog Text,,0,0,0,,{\rCHS}你不能就这么把腰带拱手相让\N{\rENG}Those belts aren't yours to give away.
-Dialogue: 100,0:09:25.56,0:09:28.81,Normal Dialog Text,,0,0,0,,{\rCHS}我们一起摔角的那些日子对我来说意味着一切\N{\rENG}Those times we wrestled together meant everything to me.
-Dialogue: 100,0:09:30.16,0:09:32.99,Normal Dialog Text,,0,0,0,,{\rCHS}你可以把那些丛林币通通送掉\N{\rENG}You can give away all the jungle bucks you want,
-Dialogue: 100,0:09:33.20,0:09:37.83,Normal Dialog Text,,0,0,0,,{\rCHS}但我不能眼睁睁看着你丢掉我们的回忆\N{\rENG}but I will not stand by and let you give up our memories.
-Dialogue: 100,0:09:41.88,0:09:44.36,Normal Dialog Text,,0,0,0,,{\rCHS}多么让人感动 女士们先生们\N{\rENG}What a display, ladies and gentlemen.
-Dialogue: 100,0:09:45.96,0:09:47.09,Normal Dialog Text,,0,0,0,,{\rCHS}你回来了\N{\rENG}You came back.
-Dialogue: 100,0:09:47.32,0:09:48.36,Normal Dialog Text,,0,0,0,,{\rCHS}对不起\N{\rENG}I'm sorry.
-Dialogue: 100,0:09:48.80,0:09:50.88,Normal Dialog Text,,0,0,0,,{\rCHS}这是我们一起做的事情 而我\N{\rENG}This was our thing we did together, and
-Dialogue: 100,0:09:50.88,0:09:52.30,Normal Dialog Text,,0,0,0,,{\rCHS}却抛下了你\N{\rENG}I just quit on you.
-Dialogue: 100,0:09:52.52,0:09:53.40,Normal Dialog Text,,0,0,0,,{\rCHS}没关系\N{\rENG}It's okay.
-Dialogue: 100,0:09:53.40,0:09:55.80,Normal Dialog Text,,0,0,0,,{\rCHS}你是对的 我们再也不需要这个了\N{\rENG}You were right. We don't need this anymore.
-Dialogue: 100,0:09:56.00,0:09:58.35,Normal Dialog Text,,0,0,0,,{\rCHS}那么 你想怎么退出呢\N{\rENG}Well, then how do you want to go out?
-Dialogue: 100,0:09:58.60,0:09:59.72,Normal Dialog Text,,0,0,0,,{\rCHS}轰轰烈烈地\N{\rENG}With a bang.
-Dialogue: 100,0:10:00.68,0:10:04.15,Normal Dialog Text,,0,0,0,,{\rCHS}看来腰带之争的战斗仍在继续\N{\rENG}It looks like this fight for the belt is still on.
-Dialogue: 100,0:10:04.36,0:10:09.12,Normal Dialog Text,,0,0,0,,{\rCHS}好哥们施工队看样子正准备打下一个痛苦的地基\N{\rENG}The Brothers Construction look like they're ready to lay down a foundation of pain.
-Dialogue: 100,0:10:09.12,0:10:10.24,Normal Dialog Text,,0,0,0,,{\rCHS}然而\N{\rENG}But, oh.
-Dialogue: 100,0:10:10.28,0:10:12.32,Normal Dialog Text,,0,0,0,,{\rCHS}狂暴悍鲨再度回到赛场\N{\rENG}Shark-O-Mania is back again.
-Dialogue: 100,0:10:12.32,0:10:14.00,Normal Dialog Text,,0,0,0,,{\rCHS}他甚至都不是比赛选手\N{\rENG}He's not even in the match.
-Dialogue: 100,0:10:15.16,0:10:17.32,Normal Dialog Text,,0,0,0,,{\rCHS}虎善士倒下了\N{\rENG}Tiger Philanthropist is down.
-Dialogue: 100,0:10:17.32,0:10:18.16,Normal Dialog Text,,0,0,0,,{\rCHS}什么\N{\rENG}What?!
-Dialogue: 100,0:10:28.92,0:10:31.64,Normal Dialog Text,,0,0,0,,{\rCHS}这不公平 快停止比赛\N{\rENG}This isn't fair. Stop the match.
-Dialogue: 100,0:10:31.64,0:10:34.00,Normal Dialog Text,,0,0,0,,{\rCHS}他们会被摧毁的\N{\rENG}They're gonna be destroyed.
-Dialogue: 100,0:10:35.36,0:10:36.74,Normal Dialog Text,,0,0,0,,{\rCHS}做个了断\N{\rENG}Finish it.
-Dialogue: 100,0:10:40.48,0:10:41.33,Normal Dialog Text,,0,0,0,,{\rCHS}不\N{\rENG}No!
-Dialogue: 100,0:10:41.35,0:10:45.48,Normal Dialog Text,,0,0,0,,{\rCHS}帅爆帮用苦命恋人击倒了美洲狮和老虎\N{\rENG}The Good-Looking Gang hit the star-crossed lovers on Puma and Tiger.
-Dialogue: 100,0:10:45.84,0:10:47.00,Normal Dialog Text,,0,0,0,,{\rCHS}他们的机会来了\N{\rENG}This is their chance.
-Dialogue: 100,0:10:47.00,0:10:48.84,Normal Dialog Text,,0,0,0,,{\rCHS}腰带就赤裸裸地挂在那儿\N{\rENG}The belts are hanging free and clear.
-Dialogue: 100,0:10:48.84,0:10:50.84,Normal Dialog Text,,0,0,0,,{\rCHS}他们拿到了 官方认证\N{\rENG}They've got it. It's official.
-Dialogue: 100,0:10:50.84,0:10:53.04,Normal Dialog Text,,0,0,0,,{\rCHS}帅爆帮是新一届海滩市\N{\rENG}The Good-Looking Gang are the new Beach City
-Dialogue: 100,0:10:53.04,0:10:55.28,Normal Dialog Text,,0,0,0,,{\rCHS}地下双打摔角联赛的冠军\N{\rENG}Underground Tag-Team Wrestling Champions.
-Dialogue: 100,0:10:55.28,0:10:59.43,Normal Dialog Text,,0,0,0,,{\rCHS}虎百万和紫色美洲狮的时代真的要告一段落了\N{\rENG}This is truly the end for Tiger Millionaire and Purple Puma.
-Dialogue: 100,0:10:59.64,0:11:01.68,Normal Dialog Text,,0,0,0,,{\rCHS}多么完美的谢幕\N{\rENG}What a way to go out.
-Dialogue: 100,0:11:01.74,0:11:03.10,Normal Dialog Text,,0,0,0,,{\rCHS}怎么会变成这样\N{\rENG}How can this be happening?!
-Dialogue: 100,0:11:03.10,0:11:05.00,Normal Dialog Text,,0,0,0,,{\rCHS}这正是上升期的时候\N{\rENG}It was just getting good!
-Dialogue: 100,0:11:05.00,0:11:06.82,Normal Dialog Text,,0,0,0,,{\rCHS}你不能现在放弃\N{\rENG}You can't quit now!
-Dialogue: 100,0:11:06.96,0:11:08.52,Normal Dialog Text,,0,0,0,,{\rCHS}老虎\N{\rENG}Tiger!
+Dialogue: 150,0:00:01.00,0:00:03.50,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们,是水晶\N{\rENG_LYC}♪ We ♪ are the crystal
+Dialogue: 150,0:00:03.51,0:00:04.48,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}战士\N{\rENG_LYC}♪ gems
+Dialogue: 150,0:00:04.48,0:00:06.94,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们总能拯救世界\N{\rENG_LYC}♪ we'll always save the day
+Dialogue: 150,0:00:06.94,0:00:09.42,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}如果你认为我们不行\N{\rENG_LYC}♪ and if you think we can't, ♪
+Dialogue: 150,0:00:09.42,0:00:12.28,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们总能找到方法\N{\rENG_LYC}♪ we'll always find a way
+Dialogue: 150,0:00:12.28,0:00:13.94,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}这就是为什么这个世界\N{\rENG_LYC}♪ that's why the people
+Dialogue: 150,0:00:13.94,0:00:16.04,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}的人\N{\rENG_LYC}♪ of this world
+Dialogue: 150,0:00:16.04,0:00:17.78,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}相信\N{\rENG_LYC}♪ believe in
+Dialogue: 150,0:00:17.78,0:00:18.44,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}石榴\N{\rENG_LYC}♪ Garnet
+Dialogue: 150,0:00:18.44,0:00:19.74,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}紫晶\N{\rENG_LYC}♪ Amethyst
+Dialogue: 150,0:00:19.74,0:00:21.20,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}和珍珠\N{\rENG_LYC}♪ and Pearl
+Dialogue: 150,0:00:21.22,0:00:22.54,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}和史蒂文!\N{\rENG_LYC}and Steven!
+Dialogue: 1,0:00:23.87,0:00:25.37,SU Title,,0,0,0,,{\xshad-0\yshad16\pos(1156,194)}虎善士
+Dialogue: 1,0:00:25.37,0:00:26.87,SU Claim,,0,0,0,,欢迎关注微博@UUU字幕组，获取最新熟肉信息！
+Dialogue: 1,0:00:25.37,0:00:26.87,SU Team Title,,0,0,0,,{\pos(1725,260)}出品
+Dialogue: 1,0:00:25.37,0:00:26.87,SU Team Member,,0,0,0,,{\pos(1725,320)}UUU字幕组
+Dialogue: 1,0:00:25.37,0:00:26.87,SU Team Title,,0,0,0,,{\pos(1725,380)}翻译
+Dialogue: 1,0:00:25.37,0:00:26.87,SU Team Member,,0,0,0,,{\pos(1725,440)}FL1.2
+Dialogue: 1,0:00:25.37,0:00:26.87,SU Team Title,,0,0,0,,{\pos(1725,500)}校对
+Dialogue: 1,0:00:25.37,0:00:26.87,SU Team Member,,0,0,0,,{\pos(1725,560)}Husky
+Dialogue: 1,0:00:25.37,0:00:26.87,SU Team Title,,0,0,0,,{\pos(1725,620)}特效
+Dialogue: 1,0:00:25.37,0:00:26.87,SU Team Member,,0,0,0,,{\pos(1725,680)}presisco
+Dialogue: 1,0:00:25.37,0:00:26.87,SU Team Title,,0,0,0,,{\pos(1725,740)}压制
+Dialogue: 1,0:00:25.37,0:00:26.87,SU Team Member,,0,0,0,,{\pos(1725,800)}presisco
+Dialogue: 0,0:00:25.37,0:00:26.87,SU Team Background,,0,0,0,,{\bord0\xshad-0\yshad16\pos(1725,860)}{\p1}m -1 122 b -1 -19 -19 -1 122 -1 l 251 -1 b 390 -1 377 -19 377 122 l 377 500 b 377 642 390 628 251 628 l 122 628 b -19 628 -1 642 -1 500 l -1 122 {\p0}
+Dialogue: 100,0:00:27.30,0:00:29.10,Normal Dialog Text,,0,0,0,,{\rCHS}他们是你又爱又恨\N{\rENG}They're the team you love to hate,
+Dialogue: 100,0:00:29.10,0:00:30.66,Normal Dialog Text,,0,0,0,,{\rCHS}又恨又爱的团队\N{\rENG}but also hate to love.
+Dialogue: 100,0:00:31.22,0:00:32.42,Normal Dialog Text,,0,0,0,,{\rCHS}我爱摔角\N{\rENG}I love wrestling!
+Dialogue: 100,0:00:33.50,0:00:37.62,Normal Dialog Text,,0,0,0,,{\rCHS}紫色美洲狮和虎百万又使出了毁灭性的一击\N{\rENG}Another devastating move by Purple Puma and Tiger Millionaire tonight, folks.
+Dialogue: 100,0:00:37.78,0:00:41.06,Normal Dialog Text,,0,0,0,,{\rCHS}看来狂暴悍鲨经过这一重创也眼冒海星了\N{\rENG}Looks like Shark-O-Mania's seeing starfish after that last one.
+Dialogue: 100,0:00:41.34,0:00:43.62,Normal Dialog Text,,0,0,0,,{\rCHS}我们使出绝招来了结他吧\N{\rENG}Let's finish him off with our special move.
+Dialogue: 100,0:00:43.98,0:00:45.50,Normal Dialog Text,,0,0,0,,{\rCHS}哦 好啊\N{\rENG}Yeah, why not?
+Dialogue: 100,0:00:45.50,0:00:46.74,Normal Dialog Text,,0,0,0,,{\rCHS}抓住我的手\N{\rENG}Take my hand.
+Dialogue: 100,0:00:46.94,0:00:48.26,Normal Dialog Text,,0,0,0,,{\rCHS}向您呈现\N{\rENG}Here it comes, y'all...
+Dialogue: 100,0:00:48.26,0:00:52.02,Normal Dialog Text,,0,0,0,,{\rCHS}紫色百万\N{\rENG}...the Purple Millionaire
+Dialogue: 100,0:00:52.02,0:00:54.46,Normal Dialog Text,,0,0,0,,{\rCHS}之踢\N{\rENG}Kick!
+Dialogue: 100,0:00:55.10,0:00:57.66,Normal Dialog Text,,0,0,0,,{\rCHS}狂暴悍鲨昏过去了\N{\rENG}And Shark-O-Mania's out cold.
+Dialogue: 100,0:00:57.66,0:01:00.46,Normal Dialog Text,,0,0,0,,{\rCHS}快来人把那条鱼丢到冰块上 免得发臭了\N{\rENG}Somebody put that fish on ice before it stinks up the joint.
+Dialogue: 100,0:01:00.62,0:01:04.17,Normal Dialog Text,,0,0,0,,{\rCHS}朋友们 虎百万和紫色美洲狮再一次做到了\N{\rENG}Folks, Tiger Millionaire and Purple Puma have done it again.
+Dialogue: 100,0:01:04.38,0:01:07.52,Normal Dialog Text,,0,0,0,,{\rCHS}他们仍然是你们的双打联赛冠军\N{\rENG}They are still your tag-team champions.
+Dialogue: 100,0:01:07.82,0:01:11.70,Normal Dialog Text,,0,0,0,,{\rCHS}他们独家的丛林恐怖会有结束的一天吗\N{\rENG}Will their special brand of jungle terror ever come to an end?
+Dialogue: 100,0:01:14.30,0:01:16.65,Normal Dialog Text,,0,0,0,,{\rCHS}别啊 千万别结束\N{\rENG}Yeah! Don't ever stop!
+Dialogue: 100,0:01:17.06,0:01:20.94,Normal Dialog Text,,0,0,0,,{\rCHS}永远的虎百万和紫色美洲狮\N{\rENG}Tiger Millionaire and Purple Puma forever!
+Dialogue: 100,0:01:21.34,0:01:24.74,Normal Dialog Text,,0,0,0,,{\rCHS}真是团队合作和友情的最好的代名词\N{\rENG}Such dedication to teamwork and friendship.
+Dialogue: 100,0:01:24.74,0:01:25.53,Normal Dialog Text,,0,0,0,,{\rCHS}什么\N{\rENG}What?!
+Dialogue: 100,0:01:26.74,0:01:27.86,Normal Dialog Text,,0,0,0,,{\rCHS}嘿\N{\rENG}Hey.
+Dialogue: 100,0:01:27.86,0:01:29.62,Normal Dialog Text,,0,0,0,,{\rCHS}这挺好玩的 但\N{\rENG}It's been fun, but...
+Dialogue: 100,0:01:29.62,0:01:30.86,Normal Dialog Text,,0,0,0,,{\rCHS}我玩够了\N{\rENG}I'm over this.
+Dialogue: 100,0:01:32.78,0:01:34.41,Normal Dialog Text,,0,0,0,,{\rCHS}怎 怎么回事\N{\rENG}W-What's going on?
+Dialogue: 100,0:01:34.54,0:01:36.90,Normal Dialog Text,,0,0,0,,{\rCHS}我洗手不干了\N{\rENG}I'm through with this place.
+Dialogue: 100,0:01:37.18,0:01:38.42,Normal Dialog Text,,0,0,0,,{\rCHS}还你腰带\N{\rENG}Here's your belt back.
+Dialogue: 100,0:01:39.54,0:01:41.70,Normal Dialog Text,,0,0,0,,{\rCHS}喂 那个麦克风很贵的诶\N{\rENG}Hey, now. That mic is expensive.
+Dialogue: 100,0:01:41.98,0:01:42.90,Normal Dialog Text,,0,0,0,,{\rCHS}你不能就这么\N{\rENG}You can't just --
+Dialogue: 100,0:01:42.90,0:01:45.98,Normal Dialog Text,,0,0,0,,{\rCHS}哦 不 你就打算这样一走了之了?\N{\rENG}Oh, no. You're just gonna do that and leave?
+Dialogue: 100,0:01:47.10,0:01:48.22,Normal Dialog Text,,0,0,0,,{\rCHS}抱歉各位\N{\rENG}Sorry, everyone.
+Dialogue: 100,0:01:48.54,0:01:50.78,Normal Dialog Text,,0,0,0,,{\rCHS}看来 已经结束了\N{\rENG}I guess this is over.
+Dialogue: 100,0:01:51.58,0:01:52.82,Normal Dialog Text,,0,0,0,,{\rCHS}再见 笑脸先生\N{\rENG}Bye, Mr. Smiley.
+Dialogue: 100,0:01:53.22,0:01:55.58,Normal Dialog Text,,0,0,0,,{\rCHS}真是难以置信的遗憾啊 各位\N{\rENG}What an unbelievable shame, folks.
+Dialogue: 100,0:01:55.58,0:01:57.18,Normal Dialog Text,,0,0,0,,{\rCHS}什么 这就完了?\N{\rENG}What?! That's it?
+Dialogue: 100,0:01:57.18,0:01:58.74,Normal Dialog Text,,0,0,0,,{\rCHS}你不能现在退出\N{\rENG}You can't quit now.
+Dialogue: 100,0:01:58.98,0:02:03.06,Normal Dialog Text,,0,0,0,,{\rCHS}一个伟大的双打团队的职业生涯就在这摔角擂台上\N{\rENG}What a sad and anticlimactic end to one of the greatest tag-team careers
+Dialogue: 100,0:02:03.07,0:02:05.38,Normal Dialog Text,,0,0,0,,{\rCHS}悲壮而急转直下地落下帷幕\N{\rENG}to ever grace the squared circle.
+Dialogue: 100,0:02:09.30,0:02:11.37,Normal Dialog Text,,0,0,0,,{\rCHS}周六晚上终于又空出来了\N{\rENG}Got my Saturday nights back.
+Dialogue: 100,0:02:11.66,0:02:13.14,Normal Dialog Text,,0,0,0,,{\rCHS}你刚才说的是认真的吗\N{\rENG}Did you really mean what you said
+Dialogue: 100,0:02:13.14,0:02:14.86,Normal Dialog Text,,0,0,0,,{\rCHS}你真的打算不再摔角了?\N{\rENG}about being through with wrestling?
+Dialogue: 100,0:02:15.10,0:02:16.58,Normal Dialog Text,,0,0,0,,{\rCHS}拜托 史蒂文\N{\rENG}Come on, Steven.
+Dialogue: 100,0:02:16.58,0:02:18.30,Normal Dialog Text,,0,0,0,,{\rCHS}你不觉得那比赛有点无聊吗\N{\rENG}Wasn't that match kind of boring?
+Dialogue: 100,0:02:18.82,0:02:21.58,Normal Dialog Text,,0,0,0,,{\rCHS}我们不再需要靠摔角来找乐子了 对不对\N{\rENG}We don't need wrestling to have fun anymore, right?
+Dialogue: 100,0:02:22.54,0:02:23.13,Normal Dialog Text,,0,0,0,,{\rCHS}对\N{\rENG}Right.
+Dialogue: 100,0:02:23.38,0:02:24.42,Normal Dialog Text,,0,0,0,,{\rCHS}就是嘛\N{\rENG}Yeah.
+Dialogue: 100,0:02:25.10,0:02:26.49,Normal Dialog Text,,0,0,0,,{\rCHS}我们回家找点吃的去\N{\rENG}Let's go home and get some grub.
+Dialogue: 100,0:02:33.70,0:02:35.10,Normal Dialog Text,,0,0,0,,{\rCHS}嘿莎蒂 嘿拉尔斯\N{\rENG}Hey, Sadie. Hey, Lars.
+Dialogue: 100,0:02:35.42,0:02:36.58,Normal Dialog Text,,0,0,0,,{\rCHS}我能要特殊的吗\N{\rENG}Can I get the special?
+Dialogue: 100,0:02:41.62,0:02:42.98,Normal Dialog Text,,0,0,0,,{\rCHS}老虎\N{\rENG}Tiger.
+Dialogue: 100,0:02:43.71,0:02:47.12,Normal Dialog Text,,0,0,0,,{\rCHS}他在职业生涯的黄金时期放弃了摔角\N{\rENG}He left wrestling at the height of his career.
+Dialogue: 100,0:02:47.38,0:02:49.38,Normal Dialog Text,,0,0,0,,{\rCHS}为什么\N{\rENG}Why-y-y-y?
+Dialogue: 100,0:02:49.94,0:02:51.66,Normal Dialog Text,,0,0,0,,{\rCHS}你怎么不问问史蒂文呢\N{\rENG}Why don't you just ask Steven?
+Dialogue: 100,0:02:51.66,0:02:52.98,Normal Dialog Text,,0,0,0,,{\rCHS}那是你的想法\N{\rENG}You and your theory.
+Dialogue: 100,0:02:52.98,0:02:55.18,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文才不是老虎\N{\rENG}Steven is not Tiger.
+Dialogue: 100,0:02:55.18,0:02:57.62,Normal Dialog Text,,0,0,0,,{\rCHS}老虎肌肉发达 看上去有七英尺高\N{\rENG}Tiger's ripped and like seven feet tall.
+Dialogue: 100,0:02:58.06,0:03:01.62,Normal Dialog Text,,0,0,0,,{\rCHS}嗯 我听说紫色美洲狮不想再干了\N{\rENG}Well, I heard Purple Puma didn't want to do it anymore.
+Dialogue: 100,0:03:01.62,0:03:02.66,Normal Dialog Text,,0,0,0,,{\rCHS}又怎样\N{\rENG}So what?!
+Dialogue: 100,0:03:02.90,0:03:06.54,Normal Dialog Text,,0,0,0,,{\rCHS}紫色美洲狮不干又不代表虎也要跟着放弃\N{\rENG}Just because Purple Puma quit doesn't mean Tiger had to.
+Dialogue: 100,0:03:07.06,0:03:09.78,Normal Dialog Text,,0,0,0,,{\rCHS}我还听说虎没想到这一点\N{\rENG}I also heard Tiger didn't think of that.
+Dialogue: 100,0:03:10.14,0:03:11.31,Normal Dialog Text,,0,0,0,,{\rCHS}那他应该想到的\N{\rENG}Well, he should have.
+Dialogue: 100,0:03:11.58,0:03:14.01,Normal Dialog Text,,0,0,0,,{\rCHS}毕竟他也只能这样回馈粉丝了\N{\rENG}It's the least he could do for his fans.
+Dialogue: 100,0:03:17.06,0:03:18.60,Normal Dialog Text,,0,0,0,,{\rCHS}就是他没错吧\N{\rENG}It is him, right?
+Dialogue: 100,0:03:19.42,0:03:22.58,Normal Dialog Text,,0,0,0,,{\rCHS}我知道近段日子这里有些萧条\N{\rENG}Now, I know these days, we're in a depression,
+Dialogue: 100,0:03:22.86,0:03:25.45,Normal Dialog Text,,0,0,0,,{\rCHS}但地下摔角是不会因此而落寞的\N{\rENG}but underground wrestling is too big to fail.
+Dialogue: 100,0:03:25.74,0:03:28.06,Normal Dialog Text,,0,0,0,,{\rCHS}我们贷款调来了两名新战士\N{\rENG}We've got two new fighters on loan,
+Dialogue: 100,0:03:28.06,0:03:29.82,Normal Dialog Text,,0,0,0,,{\rCHS}而他们是来筹集资金的\N{\rENG}and they're here to collect.
+Dialogue: 100,0:03:30.02,0:03:31.58,Normal Dialog Text,,0,0,0,,{\rCHS}女士们先生们\N{\rENG}Ladies and gentlemen,
+Dialogue: 100,0:03:31.58,0:03:33.78,Normal Dialog Text,,0,0,0,,{\rCHS}有请华尔街之狼\N{\rENG}the Wolves of Wall Street.
+Dialogue: 100,0:03:34.06,0:03:39.42,Normal Dialog Text,,0,0,0,,{\rCHS}我们会愤怒 我们会咆哮 我们还会套牢你的股票\N{\rENG}We'll huff, we'll puff, and we'll blow your stocks down.
+Dialogue: 100,0:03:39.66,0:03:40.66,Normal Dialog Text,,0,0,0,,{\rCHS}真是山寨\N{\rENG}What a rip-off.
+Dialogue: 100,0:03:42.18,0:03:43.62,Normal Dialog Text,,0,0,0,,{\rCHS}谁来了\N{\rENG}What's this?
+Dialogue: 100,0:03:44.10,0:03:47.62,Normal Dialog Text,,0,0,0,,{\rCHS}看来我们有一个新的挑战者刚登上了擂台\N{\rENG}It looks like we have a new challenger making his way into the ring.
+Dialogue: 100,0:03:47.82,0:03:51.90,Normal Dialog Text,,0,0,0,,{\rCHS}在那隐藏身份的披风下究竟是何方神圣\N{\rENG}What mystery could possibly lie beneath that identity-concealing shawl?
+Dialogue: 100,0:03:52.58,0:03:54.06,Normal Dialog Text,,0,0,0,,{\rCHS}真不敢相信\N{\rENG}I don't believe it.
+Dialogue: 100,0:03:56.14,0:03:59.22,Normal Dialog Text,,0,0,0,,{\rCHS}是虎百万 女士们先生们\N{\rENG}Tiger Millionaire, ladies and gentlemen!
+Dialogue: 100,0:04:01.74,0:04:03.66,Normal Dialog Text,,0,0,0,,{\rCHS}你错了 笑脸先生\N{\rENG}You're wrong, Mr. Smiley.
+Dialogue: 100,0:04:03.66,0:04:06.66,Normal Dialog Text,,0,0,0,,{\rCHS}虎百万 已经不复存在了\N{\rENG}Tiger Millionaire is gone forever.
+Dialogue: 100,0:04:07.54,0:04:09.90,Normal Dialog Text,,0,0,0,,{\rCHS}他拿着一大笔钱退休了\N{\rENG}He retired to his huge pile of money.
+Dialogue: 100,0:04:10.22,0:04:12.98,Normal Dialog Text,,0,0,0,,{\rCHS}但他意识到这并不能使他快乐\N{\rENG}But he realized it didn't make him happy,
+Dialogue: 100,0:04:12.98,0:04:16.82,Normal Dialog Text,,0,0,0,,{\rCHS}于是我来到这里 准备好回馈粉丝\N{\rENG}so here I am, ready to give back to the fans.
+Dialogue: 100,0:04:16.82,0:04:18.62,Normal Dialog Text,,0,0,0,,{\rCHS}虎善士\N{\rENG}Tiger Philanthropist!
+Dialogue: 100,0:04:23.26,0:04:26.27,Normal Dialog Text,,0,0,0,,{\rCHS}所以百万富翁变成了一个慈善家\N{\rENG}So, the millionaire becomes a philanthropist --
+Dialogue: 100,0:04:26.27,0:04:28.90,Normal Dialog Text,,0,0,0,,{\rCHS}一个四处撒钱的人\N{\rENG}a person who gives money away.
+Dialogue: 100,0:04:28.90,0:04:30.10,Normal Dialog Text,,0,0,0,,{\rCHS}但我问你\N{\rENG}But I ask you,
+Dialogue: 100,0:04:30.10,0:04:32.86,Normal Dialog Text,,0,0,0,,{\rCHS}紫色美洲狮的小跟班能自己单打独斗么\N{\rENG}can the Purple Puma's back-up make it solo?
+Dialogue: 100,0:04:33.34,0:04:34.98,Normal Dialog Text,,0,0,0,,{\rCHS}等着瞧\N{\rENG}Bring it on!
+Dialogue: 100,0:04:36.94,0:04:38.54,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 小硬汉\N{\rENG}Hey, tough boy.
+Dialogue: 100,0:04:38.54,0:04:40.90,Normal Dialog Text,,0,0,0,,{\rCHS}你需要贷款来做笔小生意吗\N{\rENG}You need a loan to start a small business?
+Dialogue: 100,0:04:41.02,0:04:43.38,Normal Dialog Text,,0,0,0,,{\rCHS}哦 我的经济收入其实很稳定的\N{\rENG}Oh, I'm actually pretty financially stable.
+Dialogue: 100,0:04:43.38,0:04:45.30,Normal Dialog Text,,0,0,0,,{\rCHS}因为你刚刚通过了审批\N{\rENG}'Cause you've just been approved.
+Dialogue: 100,0:04:45.50,0:04:46.22,Normal Dialog Text,,0,0,0,,{\rCHS}但我说了\N{\rENG}But I just said --
+Dialogue: 100,0:04:47.10,0:04:48.66,Normal Dialog Text,,0,0,0,,{\rCHS}我的天呐\N{\rENG}Oh, my dang.
+Dialogue: 100,0:04:48.66,0:04:53.94,Normal Dialog Text,,0,0,0,,{\rCHS}比利银行资产刚尝了一记善士商业贷款之肘击\N{\rENG}Billy Bank Assets just got a taste of the Philanthropist business-loan elbow.
+Dialogue: 100,0:04:53.94,0:04:56.82,Normal Dialog Text,,0,0,0,,{\rCHS}但是哈尔琼斯还在赛场上\N{\rENG}Howl Jones is still in this match, though.
+Dialogue: 100,0:04:56.82,0:04:58.57,Normal Dialog Text,,0,0,0,,{\rCHS}他想要取款\N{\rENG}He's gonna make a withdrawal.
+Dialogue: 100,0:04:59.50,0:05:01.42,Normal Dialog Text,,0,0,0,,{\rCHS}资金透支\N{\rENG}Overdraft.
+Dialogue: 100,0:05:01.66,0:05:04.08,Normal Dialog Text,,0,0,0,,{\rCHS}这些应该够付你们的医药费了\N{\rENG}This should cover your medical bills.
+Dialogue: 100,0:05:04.18,0:05:06.14,Normal Dialog Text,,0,0,0,,{\rCHS}多么慷慨的摔角手\N{\rENG}What a generous wrestler.
+Dialogue: 100,0:05:06.14,0:05:06.90,Normal Dialog Text,,0,0,0,,{\rCHS}哦 怎么\N{\rENG}Oh, what?
+Dialogue: 100,0:05:06.90,0:05:10.18,Normal Dialog Text,,0,0,0,,{\rCHS}看来狂暴悍鲨回来报仇了\N{\rENG}Looks like Shark-O-Mania is back for revenge
+Dialogue: 100,0:05:10.18,0:05:11.82,Normal Dialog Text,,0,0,0,,{\rCHS}还带来了个新搭档\N{\rENG}with a new partner --
+Dialogue: 100,0:05:12.14,0:05:13.54,Normal Dialog Text,,0,0,0,,{\rCHS}海黄毒蜂\N{\rENG}the Sea Wasp,
+Dialogue: 600,0:05:12.14,0:05:13.54,Hint,,0,0,0,,海黄毒蜂, 澳洲箱水母的绰号
+Dialogue: 100,0:05:13.90,0:05:16.38,Normal Dialog Text,,0,0,0,,{\rCHS}一种带有剧毒的水母\N{\rENG}which is a very poisonous type of jellyfish.
+Dialogue: 100,0:05:17.38,0:05:19.94,Normal Dialog Text,,0,0,0,,{\rCHS}看来我们得让他们尝尝紫色美洲...\N{\rENG}Looks like we'll have to give 'em the ol' Purple Pu--
+Dialogue: 100,0:05:21.34,0:05:25.10,Normal Dialog Text,,0,0,0,,{\rCHS}天呐 老虎将如何搞定这个充满鱼腥味的状况\N{\rENG}Man, how's Tiger gonna get out of this fishy situation?
+Dialogue: 100,0:05:27.74,0:05:31.47,Normal Dialog Text,,0,0,0,,{\rCHS}他使出了一记慈善捐款重击\N{\rENG}He hit them with a charitable take-donation.
+Dialogue: 100,0:05:31.70,0:05:33.58,Normal Dialog Text,,0,0,0,,{\rCHS}现在是商业投机弹射\N{\rENG}And now a venture catapult-ist.
+Dialogue: 100,0:05:35.10,0:05:36.48,Normal Dialog Text,,0,0,0,,{\rCHS}看到了吗\N{\rENG}Did you see that?
+Dialogue: 100,0:05:37.98,0:05:40.59,Normal Dialog Text,,0,0,0,,{\rCHS}他又付了医药费\N{\rENG}He's paying for their medical bills, too.
+Dialogue: 100,0:05:40.98,0:05:44.26,Normal Dialog Text,,0,0,0,,{\rCHS}看来这个慈善家是实打实的 女士们先生们\N{\rENG}It looks like this philanthropist is the real deal, ladies and gentlemen.
+Dialogue: 100,0:05:44.62,0:05:47.54,Normal Dialog Text,,0,0,0,,{\rCHS}今晚在座的每一位无不为之动容\N{\rENG}No one is leaving here tonight unimpressed.
+Dialogue: 100,0:05:51.54,0:05:53.59,Normal Dialog Text,,0,0,0,,{\rCHS}嗨 拉尔斯\N{\rENG}Hi, Lars.
+Dialogue: 100,0:05:55.02,0:05:55.60,Normal Dialog Text,,0,0,0,,{\rCHS}咋了\N{\rENG}What?
+Dialogue: 100,0:05:55.90,0:05:57.02,Normal Dialog Text,,0,0,0,,{\rCHS}说来\N{\rENG}So...
+Dialogue: 100,0:05:57.50,0:05:59.66,Normal Dialog Text,,0,0,0,,{\rCHS}你昨晚过得怎样\N{\rENG}How was your evening?
+Dialogue: 100,0:05:59.66,0:06:01.14,Normal Dialog Text,,0,0,0,,{\rCHS}还行吧\N{\rENG}Fine, I guess.
+Dialogue: 100,0:06:01.14,0:06:02.30,Normal Dialog Text,,0,0,0,,{\rCHS}有点无聊\N{\rENG}Kind of boring.
+Dialogue: 100,0:06:02.30,0:06:04.06,Normal Dialog Text,,0,0,0,,{\rCHS}你说有点无聊是什么意思\N{\rENG}What do you mean kind of boring?!
+Dialogue: 100,0:06:04.06,0:06:07.37,Normal Dialog Text,,0,0,0,,{\rCHS}你这么关心我晚上过得怎样是几个意思\N{\rENG}Why are you so worked up over how my night was?
+Dialogue: 100,0:06:08.90,0:06:11.70,Normal Dialog Text,,0,0,0,,{\rCHS}因为我在想你最近有没有看到什么\N{\rENG}well, I was wondering if you'd seen any good
+Dialogue: 100,0:06:11.70,0:06:13.06,Normal Dialog Text,,0,0,0,,{\rCHS}精彩的摔角比赛\N{\rENG}wrestling matches lately.
+Dialogue: 100,0:06:13.90,0:06:15.50,Normal Dialog Text,,0,0,0,,{\rCHS}既然你提到了\N{\rENG}Now that you mention it,
+Dialogue: 100,0:06:15.66,0:06:16.42,Normal Dialog Text,,0,0,0,,{\rCHS}没有\N{\rENG}no.
+Dialogue: 100,0:06:16.42,0:06:18.38,Normal Dialog Text,,0,0,0,,{\rCHS}但我听说虎百万回来了\N{\rENG}But I heard Tiger Millionaire was back.
+Dialogue: 100,0:06:18.39,0:06:19.74,Normal Dialog Text,,0,0,0,,{\rCHS}你最喜欢他了不是吗\N{\rENG}He's your favorite, right?
+Dialogue: 100,0:06:19.74,0:06:22.42,Normal Dialog Text,,0,0,0,,{\rCHS}没错 他是回来了 但却搞些蹩脚的\N{\rENG}Yeah, but he came back as some lame
+Dialogue: 100,0:06:22.42,0:06:26.10,Normal Dialog Text,,0,0,0,,{\rCHS}慈善机构之类的东西\N{\rENG}Tiger Philharmonic donations thing,
+Dialogue: 100,0:06:26.50,0:06:30.50,Normal Dialog Text,,0,0,0,,{\rCHS}讲真 搞得有点莫名其妙的 懂吗\N{\rENG}which, honestly, is such a weird angle, you know?
+Dialogue: 100,0:06:30.50,0:06:33.06,Normal Dialog Text,,0,0,0,,{\rCHS}整件事都感觉挺奇怪的\N{\rENG}The whole thing just felt so off.
+Dialogue: 100,0:06:33.34,0:06:35.02,Normal Dialog Text,,0,0,0,,{\rCHS}你说奇怪是什么意思\N{\rENG}What do you mean off?
+Dialogue: 100,0:06:35.34,0:06:38.30,Normal Dialog Text,,0,0,0,,{\rCHS}他脱下领带 还把钱到处撒\N{\rENG}He took off his tie, and he's throwing money at everybody?
+Dialogue: 100,0:06:38.30,0:06:39.22,Normal Dialog Text,,0,0,0,,{\rCHS}就像是\N{\rENG}It's like
+Dialogue: 100,0:06:39.22,0:06:41.22,Normal Dialog Text,,0,0,0,,{\rCHS}出了个没人想要的续集\N{\rENG}the sequel no one asked for.
+Dialogue: 100,0:06:41.42,0:06:44.31,Normal Dialog Text,,0,0,0,,{\rCHS}什么 这可是你想要的续集啊\N{\rENG}What? It's the sequel you asked for.
+Dialogue: 100,0:06:44.31,0:06:46.74,Normal Dialog Text,,0,0,0,,{\rCHS}怎么说 他就是看着不太走心 你懂\N{\rENG}Well, he just didn't seem into it, you know?
+Dialogue: 100,0:06:47.14,0:06:49.58,Normal Dialog Text,,0,0,0,,{\rCHS}他以前很在意他的钱的\N{\rENG}He used to care about his money.
+Dialogue: 100,0:06:49.58,0:06:51.45,Normal Dialog Text,,0,0,0,,{\rCHS}现在却四处乱散\N{\rENG}Now he's just giving it away.
+Dialogue: 100,0:06:51.58,0:06:54.20,Normal Dialog Text,,0,0,0,,{\rCHS}而且他还是那样 每场都赢\N{\rENG}And he still just wins, like, every match.
+Dialogue: 100,0:06:54.20,0:06:55.56,Normal Dialog Text,,0,0,0,,{\rCHS}哦 我懂了\N{\rENG}Oh, I get it.
+Dialogue: 100,0:06:55.70,0:06:58.62,Normal Dialog Text,,0,0,0,,{\rCHS}你想让他输 而且省着点花钱 对吧\N{\rENG}You want him to lose and keep his money, right?
+Dialogue: 100,0:06:58.78,0:07:00.78,Normal Dialog Text,,0,0,0,,{\rCHS}不 我不想让他输 只是\N{\rENG}No, I don't want him to lose, just --
+Dialogue: 100,0:07:00.78,0:07:02.42,Normal Dialog Text,,0,0,0,,{\rCHS}你想让他做什么\N{\rENG}What do you want him to do?!
+Dialogue: 100,0:07:02.42,0:07:05.54,Normal Dialog Text,,0,0,0,,{\rCHS}告诉我\N{\rENG}Just tell me!
+Dialogue: 100,0:07:05.54,0:07:06.77,Normal Dialog Text,,0,0,0,,{\rCHS}我不知道\N{\rENG}I don't know!
+Dialogue: 100,0:07:06.90,0:07:09.34,Normal Dialog Text,,0,0,0,,{\rCHS}我经常连早餐想吃啥都不知道\N{\rENG}I don't even know what I want for breakfast half the time.
+Dialogue: 100,0:07:09.34,0:07:11.98,Normal Dialog Text,,0,0,0,,{\rCHS}我是个复杂又独特的青春期少年\N{\rENG}I'm a complex individual teenage boy.
+Dialogue: 100,0:07:11.98,0:07:12.82,Normal Dialog Text,,0,0,0,,{\rCHS}现在给我出去\N{\rENG}Now get out of here
+Dialogue: 100,0:07:12.82,0:07:16.18,Normal Dialog Text,,0,0,0,,{\rCHS}别再对我幸福感和生活状况过度投资了\N{\rENG}and stop taking such a personal interest in my happiness and well-being!
+Dialogue: 100,0:07:18.70,0:07:19.66,Normal Dialog Text,,0,0,0,,{\rCHS}我不明白\N{\rENG}I don't get it.
+Dialogue: 100,0:07:19.98,0:07:22.06,Normal Dialog Text,,0,0,0,,{\rCHS}我都不知道我为什么还在摔角\N{\rENG}I don't even know why I'm wrestling anymore.
+Dialogue: 100,0:07:22.42,0:07:24.74,Normal Dialog Text,,0,0,0,,{\rCHS}我猜我是为了拉尔斯\N{\rENG}I guess I'm doing it for Lars,
+Dialogue: 100,0:07:24.74,0:07:26.58,Normal Dialog Text,,0,0,0,,{\rCHS}但他压根都不在乎\N{\rENG}and he doesn't even care.
+Dialogue: 100,0:07:26.59,0:07:28.89,Normal Dialog Text,,0,0,0,,{\rCHS}我更喜欢为了你做这些的时候\N{\rENG}I liked it better when I was doing it for you.
+Dialogue: 100,0:07:29.18,0:07:30.54,Normal Dialog Text,,0,0,0,,{\rCHS}但是谁稀罕呢 是吧\N{\rENG}But who needs it, you know?
+Dialogue: 100,0:07:30.86,0:07:33.82,Normal Dialog Text,,0,0,0,,{\rCHS}我是说 我以前需要它是因为\N{\rENG}I mean, I needed it when I felt like...
+Dialogue: 100,0:07:33.82,0:07:35.10,Normal Dialog Text,,0,0,0,,{\rCHS}我觉得自己不够好\N{\rENG}I wasn't good enough.
+Dialogue: 100,0:07:35.54,0:07:37.46,Normal Dialog Text,,0,0,0,,{\rCHS}但我不会再那样了\N{\rENG}But I-I don't feel like that anymore.
+Dialogue: 100,0:07:38.82,0:07:39.80,Normal Dialog Text,,0,0,0,,{\rCHS}你会吗\N{\rENG}Do you?
+Dialogue: 100,0:07:40.02,0:07:40.70,Normal Dialog Text,,0,0,0,,{\rCHS}不\N{\rENG}No.
+Dialogue: 100,0:07:40.70,0:07:43.01,Normal Dialog Text,,0,0,0,,{\rCHS}不 那 那从来不是我摔角的原因\N{\rENG}No, that -- that's never why I was doing it.
+Dialogue: 100,0:07:43.34,0:07:46.30,Normal Dialog Text,,0,0,0,,{\rCHS}我就是喜欢跟你一起做些什么的感觉\N{\rENG}I just liked that it was our thing we did together.
+Dialogue: 100,0:07:46.70,0:07:49.38,Normal Dialog Text,,0,0,0,,{\rCHS}但你是对的 这已经没什么意义了\N{\rENG}But you're right. It doesn't make sense anymore.
+Dialogue: 100,0:07:49.94,0:07:51.82,Normal Dialog Text,,0,0,0,,{\rCHS}我觉得我应该像你一样\N{\rENG}I think I should just do what you did --
+Dialogue: 100,0:07:51.82,0:07:54.34,Normal Dialog Text,,0,0,0,,{\rCHS}告诉大家我不干了 然后\N{\rENG}just tell everybody I'm quitting and
+Dialogue: 100,0:07:54.34,0:07:56.10,Normal Dialog Text,,0,0,0,,{\rCHS}毫不在乎地离开\N{\rENG}leave like it's no big deal.
+Dialogue: 100,0:07:59.94,0:08:01.38,Normal Dialog Text,,0,0,0,,{\rCHS}女士们先生们\N{\rENG}Ladies and gents,
+Dialogue: 100,0:08:01.38,0:08:03.34,Normal Dialog Text,,0,0,0,,{\rCHS}这是一个特别的夜晚\N{\rENG}tonight is a very special night
+Dialogue: 100,0:08:03.34,0:08:06.14,Normal Dialog Text,,0,0,0,,{\rCHS}就在这海滩市摔角竞技场的现场\N{\rENG}here at the Beach City Wrestling Arena Dome and Building.
+Dialogue: 100,0:08:06.58,0:08:08.58,Normal Dialog Text,,0,0,0,,{\rCHS}我会让我的好朋友虎百...\N{\rENG}I'll let my good friend Tiger Mill--
+Dialogue: 100,0:08:08.60,0:08:11.34,Normal Dialog Text,,0,0,0,,{\rCHS}我是说 善士 来解释\N{\rENG}I mean, Philanthropist explain.
+Dialogue: 100,0:08:11.37,0:08:12.88,Normal Dialog Text,,0,0,0,,{\rCHS}谢谢 笑脸先生\N{\rENG}Thank you, Mr. Smiley.
+Dialogue: 100,0:08:13.10,0:08:14.02,Normal Dialog Text,,0,0,0,,{\rCHS}又闹哪出\N{\rENG}What now?
+Dialogue: 100,0:08:14.42,0:08:18.62,Normal Dialog Text,,0,0,0,,{\rCHS}今晚将标志着我最伟大和最终的慈善行为\N{\rENG}Tonight will mark my greatest and finalest act of philanthropy.
+Dialogue: 100,0:08:18.62,0:08:22.50,Normal Dialog Text,,0,0,0,,{\rCHS}今晚 我会交出我联赛冠军的头衔\N{\rENG}Tonight, I am giving away the tag-team titles.
+Dialogue: 100,0:08:22.50,0:08:25.50,Normal Dialog Text,,0,0,0,,{\rCHS}谁先拿到 就归谁\N{\rENG}Whoever can grab them first can have them.
+Dialogue: 100,0:08:29.14,0:08:32.50,Normal Dialog Text,,0,0,0,,{\rCHS}切 慈善什么的弱爆了\N{\rENG}Boo! Philanthropy is lame!
+Dialogue: 100,0:08:32.66,0:08:35.29,Normal Dialog Text,,0,0,0,,{\rCHS}随你们怎么想 我已经无所谓了\N{\rENG}Boo all you like. I don't care anymore.
+Dialogue: 100,0:08:35.50,0:08:38.46,Normal Dialog Text,,0,0,0,,{\rCHS}这些腰带对我来说毫无意义\N{\rENG}These belts don't mean anything to me.
+Dialogue: 100,0:08:38.49,0:08:39.74,Normal Dialog Text,,0,0,0,,{\rCHS}从来如此\N{\rENG}They never did.
+Dialogue: 100,0:08:42.98,0:08:44.30,Normal Dialog Text,,0,0,0,,{\rCHS}我知道这声音\N{\rENG}I know that sound.
+Dialogue: 100,0:08:44.58,0:08:47.02,Normal Dialog Text,,0,0,0,,{\rCHS}是好哥们施工队\N{\rENG}It's the Brothers Construction --
+Dialogue: 100,0:08:47.02,0:08:51.34,Normal Dialog Text,,0,0,0,,{\rCHS}炽烈水泥和巨肌重卡\N{\rENG}Concrete Heat and Chunk Truck.
+Dialogue: 100,0:08:51.62,0:08:54.27,Normal Dialog Text,,0,0,0,,{\rCHS}真遗憾老虎就这么放弃了腰带\N{\rENG}So sad to see Tiger giving up those belts
+Dialogue: 100,0:08:54.27,0:08:56.18,Normal Dialog Text,,0,0,0,,{\rCHS}居然连一场战斗都没展开\N{\rENG}without at least putting up a fight.
+Dialogue: 100,0:08:58.86,0:09:01.02,Normal Dialog Text,,0,0,0,,{\rCHS}是帅爆徒的出场音乐\N{\rENG}It's the Good-Looking Guys' music.
+Dialogue: 100,0:09:01.46,0:09:04.22,Normal Dialog Text,,0,0,0,,{\rCHS}他们是回来夺取最后的头衔的\N{\rENG}They're back to finally claim the tag titles.
+Dialogue: 100,0:09:04.22,0:09:06.58,Normal Dialog Text,,0,0,0,,{\rCHS}看来擂台上正在预热\N{\rENG}Looks like things are heating up in the ring.
+Dialogue: 100,0:09:06.58,0:09:09.86,Normal Dialog Text,,0,0,0,,{\rCHS}谁会是下一届的双打联赛冠军\N{\rENG}Who will be the next tag-team champion?!
+Dialogue: 100,0:09:11.58,0:09:13.63,Normal Dialog Text,,0,0,0,,{\rCHS}你好啊 老虎\N{\rENG}Whoa, there, Tiger.
+Dialogue: 100,0:09:14.18,0:09:15.04,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶\N{\rENG}Amethyst?
+Dialogue: 100,0:09:15.26,0:09:16.78,Normal Dialog Text,,0,0,0,,{\rCHS}他回来了\N{\rENG}He's back!
+Dialogue: 100,0:09:16.80,0:09:19.70,Normal Dialog Text,,0,0,0,,{\rCHS}传说已然重返擂台\N{\rENG}The legend has returned to the ring!
+Dialogue: 100,0:09:20.02,0:09:24.38,Normal Dialog Text,,0,0,0,,{\rCHS}紫色美洲狮\N{\rENG}Pu-u-u-rple Pu-u-u-ma!
+Dialogue: 100,0:09:24.38,0:09:26.87,Normal Dialog Text,,0,0,0,,{\rCHS}你不能就这么把腰带拱手相让\N{\rENG}Those belts aren't yours to give away.
+Dialogue: 100,0:09:27.26,0:09:30.51,Normal Dialog Text,,0,0,0,,{\rCHS}我们一起摔角的那些日子对我来说意味着一切\N{\rENG}Those times we wrestled together meant everything to me.
+Dialogue: 100,0:09:31.86,0:09:34.69,Normal Dialog Text,,0,0,0,,{\rCHS}你可以把那些丛林币通通送掉\N{\rENG}You can give away all the jungle bucks you want,
+Dialogue: 100,0:09:34.90,0:09:39.53,Normal Dialog Text,,0,0,0,,{\rCHS}但我不能眼睁睁看着你丢掉我们的回忆\N{\rENG}but I will not stand by and let you give up our memories.
+Dialogue: 100,0:09:43.58,0:09:46.06,Normal Dialog Text,,0,0,0,,{\rCHS}多么让人感动 女士们先生们\N{\rENG}What a display, ladies and gentlemen.
+Dialogue: 100,0:09:47.66,0:09:48.79,Normal Dialog Text,,0,0,0,,{\rCHS}你回来了\N{\rENG}You came back.
+Dialogue: 100,0:09:49.02,0:09:50.06,Normal Dialog Text,,0,0,0,,{\rCHS}对不起\N{\rENG}I'm sorry.
+Dialogue: 100,0:09:50.50,0:09:52.58,Normal Dialog Text,,0,0,0,,{\rCHS}这是我们一起做的事情 而我\N{\rENG}This was our thing we did together, and
+Dialogue: 100,0:09:52.58,0:09:54.00,Normal Dialog Text,,0,0,0,,{\rCHS}却抛下了你\N{\rENG}I just quit on you.
+Dialogue: 100,0:09:54.22,0:09:55.10,Normal Dialog Text,,0,0,0,,{\rCHS}没关系\N{\rENG}It's okay.
+Dialogue: 100,0:09:55.10,0:09:57.50,Normal Dialog Text,,0,0,0,,{\rCHS}你是对的 我们再也不需要这个了\N{\rENG}You were right. We don't need this anymore.
+Dialogue: 100,0:09:57.70,0:10:00.05,Normal Dialog Text,,0,0,0,,{\rCHS}那么 你想怎么退出呢\N{\rENG}Well, then how do you want to go out?
+Dialogue: 100,0:10:00.30,0:10:01.42,Normal Dialog Text,,0,0,0,,{\rCHS}轰轰烈烈地\N{\rENG}With a bang.
+Dialogue: 100,0:10:02.38,0:10:05.85,Normal Dialog Text,,0,0,0,,{\rCHS}看来腰带之争的战斗仍在继续\N{\rENG}It looks like this fight for the belt is still on.
+Dialogue: 100,0:10:06.06,0:10:10.82,Normal Dialog Text,,0,0,0,,{\rCHS}好哥们施工队看样子正准备打下一个痛苦的地基\N{\rENG}The Brothers Construction look like they're ready to lay down a foundation of pain.
+Dialogue: 100,0:10:10.82,0:10:11.94,Normal Dialog Text,,0,0,0,,{\rCHS}然而\N{\rENG}But, oh.
+Dialogue: 100,0:10:11.98,0:10:14.02,Normal Dialog Text,,0,0,0,,{\rCHS}狂暴悍鲨再度回到赛场\N{\rENG}Shark-O-Mania is back again.
+Dialogue: 100,0:10:14.02,0:10:15.70,Normal Dialog Text,,0,0,0,,{\rCHS}他甚至都不是比赛选手\N{\rENG}He's not even in the match.
+Dialogue: 100,0:10:16.86,0:10:19.02,Normal Dialog Text,,0,0,0,,{\rCHS}虎善士倒下了\N{\rENG}Tiger Philanthropist is down.
+Dialogue: 100,0:10:19.02,0:10:19.86,Normal Dialog Text,,0,0,0,,{\rCHS}什么\N{\rENG}What?!
+Dialogue: 100,0:10:30.62,0:10:33.34,Normal Dialog Text,,0,0,0,,{\rCHS}这不公平 快停止比赛\N{\rENG}This isn't fair. Stop the match.
+Dialogue: 100,0:10:33.34,0:10:35.70,Normal Dialog Text,,0,0,0,,{\rCHS}他们会被摧毁的\N{\rENG}They're gonna be destroyed.
+Dialogue: 100,0:10:37.06,0:10:38.44,Normal Dialog Text,,0,0,0,,{\rCHS}做个了断\N{\rENG}Finish it.
+Dialogue: 100,0:10:42.18,0:10:43.03,Normal Dialog Text,,0,0,0,,{\rCHS}不\N{\rENG}No!
+Dialogue: 100,0:10:43.05,0:10:47.18,Normal Dialog Text,,0,0,0,,{\rCHS}帅爆帮用苦命恋人击倒了美洲狮和老虎\N{\rENG}The Good-Looking Gang hit the star-crossed lovers on Puma and Tiger.
+Dialogue: 100,0:10:47.54,0:10:48.70,Normal Dialog Text,,0,0,0,,{\rCHS}他们的机会来了\N{\rENG}This is their chance.
+Dialogue: 100,0:10:48.70,0:10:50.54,Normal Dialog Text,,0,0,0,,{\rCHS}腰带就赤裸裸地挂在那儿\N{\rENG}The belts are hanging free and clear.
+Dialogue: 100,0:10:50.54,0:10:52.54,Normal Dialog Text,,0,0,0,,{\rCHS}他们拿到了 官方认证\N{\rENG}They've got it. It's official.
+Dialogue: 100,0:10:52.54,0:10:54.74,Normal Dialog Text,,0,0,0,,{\rCHS}帅爆帮是新一届海滩市\N{\rENG}The Good-Looking Gang are the new Beach City
+Dialogue: 100,0:10:54.74,0:10:56.98,Normal Dialog Text,,0,0,0,,{\rCHS}地下双打摔角联赛的冠军\N{\rENG}Underground Tag-Team Wrestling Champions.
+Dialogue: 100,0:10:56.98,0:11:01.13,Normal Dialog Text,,0,0,0,,{\rCHS}虎百万和紫色美洲狮的时代真的要告一段落了\N{\rENG}This is truly the end for Tiger Millionaire and Purple Puma.
+Dialogue: 100,0:11:01.34,0:11:03.38,Normal Dialog Text,,0,0,0,,{\rCHS}多么完美的谢幕\N{\rENG}What a way to go out.
+Dialogue: 100,0:11:03.44,0:11:04.80,Normal Dialog Text,,0,0,0,,{\rCHS}怎么会变成这样\N{\rENG}How can this be happening?!
+Dialogue: 100,0:11:04.80,0:11:06.70,Normal Dialog Text,,0,0,0,,{\rCHS}这正是上升期的时候\N{\rENG}It was just getting good!
+Dialogue: 100,0:11:06.70,0:11:08.52,Normal Dialog Text,,0,0,0,,{\rCHS}你不能现在放弃\N{\rENG}You can't quit now!
+Dialogue: 100,0:11:08.66,0:11:10.22,Normal Dialog Text,,0,0,0,,{\rCHS}老虎\N{\rENG}Tiger!
