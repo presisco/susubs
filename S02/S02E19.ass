@@ -9,7 +9,6 @@ YCbCr Matrix: TV.601
 PlayResX: 1920
 PlayResY: 1080
 
-
 [Aegisub Project Garbage]
 Audio File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E19.Nightmare.Hospital.1080p.WEBRip.h264.AAC-AliQ.mp4
 Video File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E19.Nightmare.Hospital.1080p.WEBRip.h264.AAC-AliQ.mp4
@@ -18,7 +17,6 @@ Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
 Active Line: 8
 Video Position: 13356
-
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -42,223 +40,222 @@ Style: Hint,微软雅黑,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 1,0:00:00.00,0:00:01.49,SU Title,,0,0,0,,{\pos(1154,218)\xshad-0\yshad16}医院夜惊魂
-Dialogue: 1,0:00:01.49,0:00:02.85,SU Claim,,0,0,0,,欢迎关注微博@UUU字幕组，获取最新熟肉信息！
+Dialogue: 1,0:00:01.49,0:00:02.85,SU Claim,,0,0,0,,欢迎关注微博@ UUU字幕组 获取最新熟肉信息! 
 Dialogue: 1,0:00:01.49,0:00:02.85,SU Team Title,,0,0,0,,{\pos(1725,260)}出品
 Dialogue: 1,0:00:01.49,0:00:02.85,SU Team Member,,0,0,0,,{\pos(1725,320)}presisco
 Dialogue: 1,0:00:01.49,0:00:02.85,SU Team Title,,0,0,0,,{\pos(1725,380)}翻译
-Dialogue: 1,0:00:01.49,0:00:02.85,SU Team Member,,0,0,0,,{\pos(1725,440)}零玖/presisco
+Dialogue: 1,0:00:01.49,0:00:02.85,SU Team Member,,0,0,0,,{\pos(1725,440)}零玖/ presisco
 Dialogue: 1,0:00:01.49,0:00:02.85,SU Team Title,,0,0,0,,{\pos(1725,500)}校对
 Dialogue: 1,0:00:01.49,0:00:02.85,SU Team Member,,0,0,0,,{\pos(1725,560)}presisco
 Dialogue: 1,0:00:01.49,0:00:02.85,SU Team Title,,0,0,0,,{\pos(1725,620)}特效
 Dialogue: 1,0:00:01.49,0:00:02.85,SU Team Member,,0,0,0,,{\pos(1725,680)}presisco
 Dialogue: 1,0:00:01.49,0:00:02.85,SU Team Title,,0,0,0,,{\pos(1725,740)}压制
 Dialogue: 1,0:00:01.49,0:00:02.85,SU Team Member,,0,0,0,,{\pos(1725,800)}presisco
-Dialogue: 0,0:00:01.49,0:00:02.85,SU Team Background,,0,0,0,,{\bord0\xshad-0\yshad16\pos(1725,860)}{\p1}m -1 122 b -1 -19 -19 -1 122 -1 l 251 -1 b 390 -1 377 -19 377 122 l 377 500 b 377 642 390 628 251 628 l 122 628 b -19 628 -1 642 -1 500 l -1 122 {\p0}
-Dialogue: 100,0:00:07.52,0:00:10.44,Normal Dialog Text,General,0,0,0,,{\rCHS}那么,是时候隐藏起我的秘密身份了\N{\rENG}Well, time to assume my secret identity.
+Dialogue: 100,0:00:07.52,0:00:10.44,Normal Dialog Text,General,0,0,0,,{\rCHS}那么 是时候隐藏起我的秘密身份了\N{\rENG}Well, time to assume my secret identity. 
 Dialogue: 600,0:00:08.73,0:00:10.44,Hint,,0,0,0,,此处康妮的秘密身份隐藏方式与超人类似
-Dialogue: 100,0:00:10.44,0:00:12.46,Normal Dialog Text,General,0,0,0,,{\rCHS}下周同一时间继续练习刀法吗?\N{\rENG}Same time next week for sword training?
-Dialogue: 100,0:00:12.46,0:00:15.60,Normal Dialog Text,General,0,0,0,,{\rCHS}对啊,真可惜我不能在家继续练习\N{\rENG}Yeah. It's a shame I can't practice more at home.
-Dialogue: 100,0:00:15.60,0:00:17.60,Normal Dialog Text,General,0,0,0,,{\rCHS}嘿,等下!\N{\rENG}Hey, wait a sec. Hup!
-Dialogue: 100,0:00:18.06,0:00:18.96,Normal Dialog Text,General,0,0,0,,{\rCHS}可以吗?\N{\rENG}May I?
-Dialogue: 100,0:00:22.16,0:00:23.14,Normal Dialog Text,General,0,0,0,,{\rCHS}敬上\N{\rENG}Here-eth.
-Dialogue: 100,0:00:23.36,0:00:26.10,Normal Dialog Text,General,0,0,0,,{\rCHS}汝尽可使用吾母之刀\N{\rENG}You can borrow-eth my mother's sword...Eth.
-Dialogue: 100,0:00:26.48,0:00:30.84,Normal Dialog Text,General,0,0,0,,{\rCHS}史蒂文,你真是太好了,不过语法有点问题啊\N{\rENG}Steven, that's so nice, if grammatically incorrect.
-Dialogue: 100,0:00:30.84,0:00:35.19,Normal Dialog Text,General,0,0,0,,{\rCHS}但汝不可赠吾与汝母之刀\N{\rENG}But thou can't just givest me thine mother's sword.
-Dialogue: 100,0:00:35.19,0:00:36.86,Normal Dialog Text,General,0,0,0,,{\rCHS}何不可?\N{\rENG}Why not-eth?
-Dialogue: 100,0:00:37.16,0:00:39.54,Normal Dialog Text,General,0,0,0,,{\rCHS}皆因此刀之重要\N{\rENG}Because it's really important-eth.
-Dialogue: 100,0:00:40.44,0:00:42.86,Normal Dialog Text,General,0,0,0,,{\rCHS}此乃汝需持有之因\N{\rENG}That's exactly why you should have-eth it.
-Dialogue: 100,0:00:43.16,0:00:47.58,Normal Dialog Text,General,0,0,0,,{\rCHS}汝可在一周之内尽兴习刀\N{\rENG}You can have all week to practice-eth with it-eth.
-Dialogue: 100,0:00:49.04,0:00:50.60,Normal Dialog Text,General,0,0,0,,{\rCHS}感谢\N{\rENG}Pbbhhthank you.
-Dialogue: 100,0:00:51.14,0:00:54.06,Normal Dialog Text,General,0,0,0,,{\rCHS}我们得做好准备,如果我们要与孔雀石和橄榄石战斗的话\N{\rENG}We got to be ready if we have to fight Malachite or Peridot
-Dialogue: 100,0:00:54.06,0:00:56.44,Normal Dialog Text,General,0,0,0,,{\rCHS}当然还有那些怪异的宝石融合实验体\N{\rENG}or those creepy gem-fusion experiments.
-Dialogue: 100,0:00:56.96,0:00:58.80,Normal Dialog Text,General,0,0,0,,{\rCHS}我会确保这把刀不出差错的\N{\rENG}I'll make sure nothing happens to it.
-Dialogue: 100,0:01:00.00,0:01:02.44,Normal Dialog Text,General,0,0,0,,{\rCHS}那是车库门的声音!我妈回家了!\N{\rENG}That's the garage door. Mom's home.
-Dialogue: 100,0:01:02.66,0:01:03.76,Normal Dialog Text,General,0,0,0,,{\rCHS}我们必须得把刀藏起来\N{\rENG}We have to hide the sword.
-Dialogue: 100,0:01:03.76,0:01:06.54,Normal Dialog Text,General,0,0,0,,{\rCHS}我妈不可能让我在家里放把刀的\N{\rENG}There's no way mom would let me have this in the house.
-Dialogue: 100,0:01:06.54,0:01:08.28,Normal Dialog Text,General,0,0,0,,{\rCHS}狮子?狮子?\N{\rENG}Lion? Lion?
-Dialogue: 100,0:01:08.56,0:01:09.39,Normal Dialog Text,General,0,0,0,,{\rCHS}他溜走了\N{\rENG}He walked off.
-Dialogue: 100,0:01:09.76,0:01:11.22,Normal Dialog Text,General,0,0,0,,{\rCHS}我们该怎么办?\N{\rENG}What are we gonna do?!
-Dialogue: 100,0:01:14.62,0:01:17.98,Normal Dialog Text,General,0,0,0,,{\rCHS}嗨,妈妈,我在完成六点钟的小提琴练习\N{\rENG}Hi, mom. Just finishing my 6:00 violin practice.
-Dialogue: 100,0:01:17.98,0:01:19.94,Normal Dialog Text,General,0,0,0,,{\rCHS}你五分钟前就该完成了\N{\rENG}You should have finished five minutes ago.
-Dialogue: 100,0:01:19.94,0:01:22.00,Normal Dialog Text,General,0,0,0,,{\rCHS}你早该开始七点钟的自习了\N{\rENG}You're late for your 7:00 study hour.
-Dialogue: 100,0:01:22.48,0:01:23.26,Normal Dialog Text,General,0,0,0,,{\rCHS}你好,史蒂文\N{\rENG}Hello, Steven.
-Dialogue: 100,0:01:23.64,0:01:25.02,Normal Dialog Text,General,0,0,0,,{\rCHS}嗨,莫雪伦医生\N{\rENG}Hi, Dr. Maheshwaren.
-Dialogue: 100,0:01:25.32,0:01:25.89,Normal Dialog Text,General,0,0,0,,{\rCHS}你还好吧?\N{\rENG}How are you?
-Dialogue: 100,0:01:25.89,0:01:26.62,Normal Dialog Text,General,0,0,0,,{\rCHS}坐着\N{\rENG}Sitting!
-Dialogue: 100,0:01:28.36,0:01:29.52,Normal Dialog Text,General,0,0,0,,{\rCHS}今天工作并不轻松\N{\rENG}I had a rough day at work,
-Dialogue: 100,0:01:29.52,0:01:31.72,Normal Dialog Text,General,0,0,0,,{\rCHS}我可不想碰到什么惊喜\N{\rENG}and I'm not in the mood for any more surprises.
-Dialogue: 100,0:01:32.08,0:01:33.12,Normal Dialog Text,General,0,0,0,,{\rCHS}医院发生了什么事?\N{\rENG}What happened at work?
-Dialogue: 100,0:01:33.72,0:01:36.64,Normal Dialog Text,General,0,0,0,,{\rCHS}今天遇到一件非常奇怪的事-\N{\rENG}There was a really strange case at the hospital today --
-Dialogue: 100,0:01:37.06,0:01:39.14,Normal Dialog Text,General,0,0,0,,{\rCHS}如同噩梦一般\N{\rENG}straight out of a nightmare.
-Dialogue: 100,0:01:41.00,0:01:41.52,Normal Dialog Text,General,0,0,0,,{\rCHS}哦,不过别担心\N{\rENG}Oh, don't worry.
+Dialogue: 100,0:00:10.44,0:00:12.46,Normal Dialog Text,General,0,0,0,,{\rCHS}下周同一时间继续练习刀法吗?\N{\rENG}Same time next week for sword training? 
+Dialogue: 100,0:00:12.46,0:00:15.60,Normal Dialog Text,General,0,0,0,,{\rCHS}对啊 真可惜我不能在家继续练习\N{\rENG}Yeah. It's a shame I can't practice more at home. 
+Dialogue: 100,0:00:15.60,0:00:17.60,Normal Dialog Text,General,0,0,0,,{\rCHS}嘿 等下!\N{\rENG}Hey, wait a sec. Hup! 
+Dialogue: 100,0:00:18.06,0:00:18.96,Normal Dialog Text,General,0,0,0,,{\rCHS}可以吗?\N{\rENG}May I? 
+Dialogue: 100,0:00:22.16,0:00:23.14,Normal Dialog Text,General,0,0,0,,{\rCHS}敬上\N{\rENG}Here-eth. 
+Dialogue: 100,0:00:23.36,0:00:26.10,Normal Dialog Text,General,0,0,0,,{\rCHS}汝尽可使用吾母之刀\N{\rENG}You can borrow-eth my mother's sword...Eth. 
+Dialogue: 100,0:00:26.48,0:00:30.84,Normal Dialog Text,General,0,0,0,,{\rCHS}史蒂文 你真是太好了 不过语法有点问题啊\N{\rENG}Steven, that's so nice, if grammatically incorrect. 
+Dialogue: 100,0:00:30.84,0:00:35.19,Normal Dialog Text,General,0,0,0,,{\rCHS}但汝不可赠吾与汝母之刀\N{\rENG}But thou can't just givest me thine mother's sword. 
+Dialogue: 100,0:00:35.19,0:00:36.86,Normal Dialog Text,General,0,0,0,,{\rCHS}何不可?\N{\rENG}Why not-eth? 
+Dialogue: 100,0:00:37.16,0:00:39.54,Normal Dialog Text,General,0,0,0,,{\rCHS}皆因此刀之重要\N{\rENG}Because it's really important-eth. 
+Dialogue: 100,0:00:40.44,0:00:42.86,Normal Dialog Text,General,0,0,0,,{\rCHS}此乃汝需持有之因\N{\rENG}That's exactly why you should have-eth it. 
+Dialogue: 100,0:00:43.16,0:00:47.58,Normal Dialog Text,General,0,0,0,,{\rCHS}汝可在一周之内尽兴习刀\N{\rENG}You can have all week to practice-eth with it-eth. 
+Dialogue: 100,0:00:49.04,0:00:50.60,Normal Dialog Text,General,0,0,0,,{\rCHS}感谢\N{\rENG}Pbbhhthank you. 
+Dialogue: 100,0:00:51.14,0:00:54.06,Normal Dialog Text,General,0,0,0,,{\rCHS}我们得做好准备 如果我们要与孔雀石和橄榄石战斗的话\N{\rENG}We got to be ready if we have to fight Malachite or Peridot
+Dialogue: 100,0:00:54.06,0:00:56.44,Normal Dialog Text,General,0,0,0,,{\rCHS}当然还有那些怪异的宝石融合实验体\N{\rENG}or those creepy gem-fusion experiments. 
+Dialogue: 100,0:00:56.96,0:00:58.80,Normal Dialog Text,General,0,0,0,,{\rCHS}我会确保这把刀不出差错的\N{\rENG}I'll make sure nothing happens to it. 
+Dialogue: 100,0:01:00.00,0:01:02.44,Normal Dialog Text,General,0,0,0,,{\rCHS}那是车库门的声音! 我妈回家了!\N{\rENG}That's the garage door. Mom's home. 
+Dialogue: 100,0:01:02.66,0:01:03.76,Normal Dialog Text,General,0,0,0,,{\rCHS}我们必须得把刀藏起来\N{\rENG}We have to hide the sword. 
+Dialogue: 100,0:01:03.76,0:01:06.54,Normal Dialog Text,General,0,0,0,,{\rCHS}我妈不可能让我在家里放把刀的\N{\rENG}There's no way mom would let me have this in the house. 
+Dialogue: 100,0:01:06.54,0:01:08.28,Normal Dialog Text,General,0,0,0,,{\rCHS}狮子? 狮子?\N{\rENG}Lion? Lion? 
+Dialogue: 100,0:01:08.56,0:01:09.39,Normal Dialog Text,General,0,0,0,,{\rCHS}他溜走了\N{\rENG}He walked off. 
+Dialogue: 100,0:01:09.76,0:01:11.22,Normal Dialog Text,General,0,0,0,,{\rCHS}我们该怎么办?\N{\rENG}What are we gonna do?! 
+Dialogue: 100,0:01:14.62,0:01:17.98,Normal Dialog Text,General,0,0,0,,{\rCHS}嗨 妈妈 我在完成六点钟的小提琴练习\N{\rENG}Hi, mom. Just finishing my 6: 00 violin practice. 
+Dialogue: 100,0:01:17.98,0:01:19.94,Normal Dialog Text,General,0,0,0,,{\rCHS}你五分钟前就该完成了\N{\rENG}You should have finished five minutes ago. 
+Dialogue: 100,0:01:19.94,0:01:22.00,Normal Dialog Text,General,0,0,0,,{\rCHS}你早该开始七点钟的自习了\N{\rENG}You're late for your 7: 00 study hour. 
+Dialogue: 100,0:01:22.48,0:01:23.26,Normal Dialog Text,General,0,0,0,,{\rCHS}你好 史蒂文\N{\rENG}Hello, Steven. 
+Dialogue: 100,0:01:23.64,0:01:25.02,Normal Dialog Text,General,0,0,0,,{\rCHS}嗨 莫雪伦医生\N{\rENG}Hi, Dr. Maheshwaren. 
+Dialogue: 100,0:01:25.32,0:01:25.89,Normal Dialog Text,General,0,0,0,,{\rCHS}你还好吧?\N{\rENG}How are you? 
+Dialogue: 100,0:01:25.89,0:01:26.62,Normal Dialog Text,General,0,0,0,,{\rCHS}坐着\N{\rENG}Sitting! 
+Dialogue: 100,0:01:28.36,0:01:29.52,Normal Dialog Text,General,0,0,0,,{\rCHS}今天工作并不轻松\N{\rENG}I had a rough day at work, 
+Dialogue: 100,0:01:29.52,0:01:31.72,Normal Dialog Text,General,0,0,0,,{\rCHS}我可不想碰到什么惊喜\N{\rENG}and I'm not in the mood for any more surprises. 
+Dialogue: 100,0:01:32.08,0:01:33.12,Normal Dialog Text,General,0,0,0,,{\rCHS}医院发生了什么事?\N{\rENG}What happened at work? 
+Dialogue: 100,0:01:33.72,0:01:36.64,Normal Dialog Text,General,0,0,0,,{\rCHS}今天遇到一件非常奇怪的事-\N{\rENG}There was a really strange case at the hospital today--
+Dialogue: 100,0:01:37.06,0:01:39.14,Normal Dialog Text,General,0,0,0,,{\rCHS}如同噩梦一般\N{\rENG}straight out of a nightmare. 
+Dialogue: 100,0:01:41.00,0:01:41.52,Normal Dialog Text,General,0,0,0,,{\rCHS}哦 不过别担心\N{\rENG}Oh, don't worry. 
 Dialogue: 100,0:01:41.52,0:01:43.68,Normal Dialog Text,General,0,0,0,,{\rCHS}医患保密规则\N{\rENG}The rules of doctor-patient confidentiality
-Dialogue: 100,0:01:43.68,0:01:45.56,Normal Dialog Text,General,0,0,0,,{\rCHS}不让我分享场面的细节,但-\N{\rENG}keep me from sharing the graphic details, but --
-Dialogue: 100,0:01:46.36,0:01:49.18,Normal Dialog Text,General,0,0,0,,{\rCHS}等下,我们什么时候有了个大衣架?\N{\rENG}hang on a moment. When did we get a coat rack?
-Dialogue: 100,0:01:49.66,0:01:50.98,Normal Dialog Text,General,0,0,0,,{\rCHS}哦,不\N{\rENG}Oh, no.
-Dialogue: 100,0:01:51.28,0:01:52.58,Normal Dialog Text,General,0,0,0,,{\rCHS}一把刀?\N{\rENG}A sword?!
-Dialogue: 100,0:01:53.02,0:01:54.93,Normal Dialog Text,General,0,0,0,,{\rCHS}康妮,你从哪里拿的?\N{\rENG}Connie, where did you get this?!
-Dialogue: 100,0:01:55.24,0:01:55.55,Normal Dialog Text,General,0,0,0,,{\rCHS}这是-\N{\rENG}It's --
-Dialogue: 100,0:01:55.55,0:01:56.43,Normal Dialog Text,General,0,0,0,,{\rCHS}我捡的!\N{\rENG}I found it.
-Dialogue: 100,0:01:56.66,0:01:57.96,Normal Dialog Text,General,0,0,0,,{\rCHS}我无意间在外面发现的\N{\rENG}I just found it outside,
-Dialogue: 100,0:01:57.96,0:01:59.66,Normal Dialog Text,General,0,0,0,,{\rCHS}而我想给史蒂文看看\N{\rENG}and I wanted to show it to Steven.
-Dialogue: 100,0:02:00.08,0:02:02.46,Normal Dialog Text,General,0,0,0,,{\rCHS}你怎么能认为这是安全的?\N{\rENG}How could you possibly think this is okay? It's --
+Dialogue: 100,0:01:43.68,0:01:45.56,Normal Dialog Text,General,0,0,0,,{\rCHS}不让我分享场面的细节 但-\N{\rENG}keep me from sharing the graphic details, but--
+Dialogue: 100,0:01:46.36,0:01:49.18,Normal Dialog Text,General,0,0,0,,{\rCHS}等下 我们什么时候有了个大衣架?\N{\rENG}hang on a moment. When did we get a coat rack? 
+Dialogue: 100,0:01:49.66,0:01:50.98,Normal Dialog Text,General,0,0,0,,{\rCHS}哦 不\N{\rENG}Oh, no. 
+Dialogue: 100,0:01:51.28,0:01:52.58,Normal Dialog Text,General,0,0,0,,{\rCHS}一把刀?\N{\rENG}A sword?! 
+Dialogue: 100,0:01:53.02,0:01:54.93,Normal Dialog Text,General,0,0,0,,{\rCHS}康妮 你从哪里拿的?\N{\rENG}Connie, where did you get this?! 
+Dialogue: 100,0:01:55.24,0:01:55.55,Normal Dialog Text,General,0,0,0,,{\rCHS}这是-\N{\rENG}It's--
+Dialogue: 100,0:01:55.55,0:01:56.43,Normal Dialog Text,General,0,0,0,,{\rCHS}我捡的!\N{\rENG}I found it. 
+Dialogue: 100,0:01:56.66,0:01:57.96,Normal Dialog Text,General,0,0,0,,{\rCHS}我无意间在外面发现的\N{\rENG}I just found it outside, 
+Dialogue: 100,0:01:57.96,0:01:59.66,Normal Dialog Text,General,0,0,0,,{\rCHS}而我想给史蒂文看看\N{\rENG}and I wanted to show it to Steven. 
+Dialogue: 100,0:02:00.08,0:02:02.46,Normal Dialog Text,General,0,0,0,,{\rCHS}你怎么能认为这是安全的?\N{\rENG}How could you possibly think this is okay? It's--
 Dialogue: 100,0:02:02.94,0:02:05.92,Normal Dialog Text,General,0,0,0,,{\rCHS}你知道每天我在医院里见到多少孩子\N{\rENG}do you know how many children I see every day in the hospital
-Dialogue: 100,0:02:05.95,0:02:08.45,Normal Dialog Text,General,0,0,0,,{\rCHS}因为玩刀而把自己脸切掉了?\N{\rENG}who've cut their faces off playing with swords?
-Dialogue: 100,0:02:08.62,0:02:08.98,Normal Dialog Text,General,0,0,0,,{\rCHS}我-\N{\rENG}I --
-Dialogue: 100,0:02:08.98,0:02:09.56,Normal Dialog Text,General,0,0,0,,{\rCHS}零!\N{\rENG}none!
+Dialogue: 100,0:02:05.95,0:02:08.45,Normal Dialog Text,General,0,0,0,,{\rCHS}因为玩刀而把自己脸切掉了?\N{\rENG}who've cut their faces off playing with swords? 
+Dialogue: 100,0:02:08.62,0:02:08.98,Normal Dialog Text,General,0,0,0,,{\rCHS}我-\N{\rENG}I--
+Dialogue: 100,0:02:08.98,0:02:09.56,Normal Dialog Text,General,0,0,0,,{\rCHS}零!\N{\rENG}none! 
 Dialogue: 100,0:02:09.74,0:02:12.00,Normal Dialog Text,General,0,0,0,,{\rCHS}因为他们都有关爱他们的父母\N{\rENG}Because they all have parents who love them
 Dialogue: 100,0:02:12.00,0:02:14.46,Normal Dialog Text,General,0,0,0,,{\rCHS}而父母们不会让孩子玩弄致命武器\N{\rENG}and who don't let them play around with deadly weapons
-Dialogue: 100,0:02:14.46,0:02:16.52,Normal Dialog Text,General,0,0,0,,{\rCHS}搞得像混混一样!\N{\rENG}like some kind of gang member!
-Dialogue: 100,0:02:16.92,0:02:20.44,Normal Dialog Text,General,0,0,0,,{\rCHS}不许摸刀-任何情况都不行!\N{\rENG}No playing with swords under any circumstances.
-Dialogue: 100,0:02:22.46,0:02:25.96,Normal Dialog Text,General,0,0,0,,{\rCHS}我是莫雪伦医生,好的,冷静下,斯壮伯格\N{\rENG}This is Dr. Maheshwaren. Yes, calm down, straumburg.
-Dialogue: 100,0:02:25.97,0:02:27.00,Normal Dialog Text,General,0,0,0,,{\rCHS}又有一个?\N{\rENG}Another one?
-Dialogue: 100,0:02:26.44,0:02:27.80,Normal Dialog Text,General,0,0,0,,{\rCHS}她会还回刀吗?\N{\rENG}Is she gonna give it back?
-Dialogue: 100,0:02:27.80,0:02:29.48,Normal Dialog Text,General,0,0,0,,{\rCHS}好吧,我-我马上就过去\N{\rENG}All right, I'll -- I'll be right there.
-Dialogue: 100,0:02:30.10,0:02:31.26,Normal Dialog Text,General,0,0,0,,{\rCHS}我必须得去医院了\N{\rENG}I have to go to the hospital.
+Dialogue: 100,0:02:14.46,0:02:16.52,Normal Dialog Text,General,0,0,0,,{\rCHS}搞得像混混一样!\N{\rENG}like some kind of gang member! 
+Dialogue: 100,0:02:16.92,0:02:20.44,Normal Dialog Text,General,0,0,0,,{\rCHS}不许摸刀-任何情况都不行!\N{\rENG}No playing with swords under any circumstances. 
+Dialogue: 100,0:02:22.46,0:02:25.96,Normal Dialog Text,General,0,0,0,,{\rCHS}我是莫雪伦医生 好的 冷静下 斯壮伯格\N{\rENG}This is Dr. Maheshwaren. Yes, calm down, straumburg. 
+Dialogue: 100,0:02:25.97,0:02:27.00,Normal Dialog Text,General,0,0,0,,{\rCHS}又有一个?\N{\rENG}Another one? 
+Dialogue: 100,0:02:26.44,0:02:27.80,Normal Dialog Text,General,0,0,0,,{\rCHS}她会还回刀吗?\N{\rENG}Is she gonna give it back? 
+Dialogue: 100,0:02:27.80,0:02:29.48,Normal Dialog Text,General,0,0,0,,{\rCHS}好吧 我-我马上就过去\N{\rENG}All right, I'll--I'll be right there. 
+Dialogue: 100,0:02:30.10,0:02:31.26,Normal Dialog Text,General,0,0,0,,{\rCHS}我必须得去医院了\N{\rENG}I have to go to the hospital. 
 Dialogue: 100,0:02:31.64,0:02:32.74,Normal Dialog Text,General,0,0,0,,{\rCHS}我会和你爸商量\N{\rENG}I'll have a talk with your father
-Dialogue: 100,0:02:32.74,0:02:34.77,Normal Dialog Text,General,0,0,0,,{\rCHS}算算你有多被禁足!\N{\rENG}to calculate just how grounded you are.
-Dialogue: 100,0:02:35.28,0:02:37.02,Normal Dialog Text,General,0,0,0,,{\rCHS}而且我们要用算盘!\N{\rENG}And we're using the abacus.
-Dialogue: 100,0:02:38.18,0:02:40.10,Normal Dialog Text,General,0,0,0,,{\rCHS}我讨厌那个算盘\N{\rENG}I hate that abacus.
-Dialogue: 100,0:02:40.48,0:02:43.70,Normal Dialog Text,General,0,0,0,,{\rCHS}史蒂文,我太对不起了,她拿走了你母亲的刀\N{\rENG}Steven, I'm so sorry. She took your mother's sword.
-Dialogue: 100,0:02:43.92,0:02:45.70,Normal Dialog Text,General,0,0,0,,{\rCHS}也许我们能让她回心转意?\N{\rENG}Maybe we can get her to change her mind.
-Dialogue: 100,0:02:46.04,0:02:48.15,Normal Dialog Text,General,0,0,0,,{\rCHS}她从不改变想法\N{\rENG}She never, ever changes her mind.
-Dialogue: 100,0:02:48.78,0:02:50.76,Normal Dialog Text,General,0,0,0,,{\rCHS}我们得靠自己拿回刀\N{\rENG}We've got to get that sword back ourselves.
-Dialogue: 100,0:02:53.30,0:02:54.00,Normal Dialog Text,General,0,0,0,,{\rCHS}\N{\rENG}Whoa!
-Dialogue: 100,0:02:54.98,0:02:55.50,Normal Dialog Text,General,0,0,0,,{\rCHS}\N{\rENG}Ugh.
-Dialogue: 100,0:02:55.98,0:02:57.36,Normal Dialog Text,General,0,0,0,,{\rCHS}我们不能把狮子带进去\N{\rENG}We can't bring Lion inside.
-Dialogue: 100,0:02:57.86,0:03:01.50,Normal Dialog Text,General,0,0,0,,{\rCHS}如果我妈把狮子也给没收了的话我会非常后悔的\N{\rENG}I'd feel really bad if my mom confiscated him, too.
-Dialogue: 100,0:03:01.96,0:03:04.20,Normal Dialog Text,General,0,0,0,,{\rCHS}哦,这没什么,他可以呆在这里\N{\rENG}Oh, it's no problem. He can stay out here.
-Dialogue: 100,0:03:04.56,0:03:07.74,Normal Dialog Text,General,0,0,0,,{\rCHS}听着,我总算找到了一个让他听从我的办法\N{\rENG}Look -- I finally found a way to get him to do what I want.
-Dialogue: 100,0:03:12.60,0:03:14.65,Normal Dialog Text,General,0,0,0,,{\rCHS}都不撕掉塑料包装\N{\rENG}He didn't even take the plastic off.
-Dialogue: 100,0:03:14.78,0:03:15.76,Normal Dialog Text,General,0,0,0,,{\rCHS}真是个禽兽啊\N{\rENG}What an animal.
-Dialogue: 100,0:03:18.45,0:03:19.36,Normal Dialog Text,General,0,0,0,,{\rCHS}打住,要严肃\N{\rENG}Okay, serious.
-Dialogue: 100,0:03:19.74,0:03:20.70,Normal Dialog Text,General,0,0,0,,{\rCHS}对,要严肃\N{\rENG}Yeah. Serious.
-Dialogue: 100,0:03:23.82,0:03:24.36,Normal Dialog Text,General,0,0,0,,{\rCHS}这里\N{\rENG}This way.
-Dialogue: 100,0:03:26.50,0:03:29.14,Normal Dialog Text,General,0,0,0,,{\rCHS}啊,你是指超级吓人的路\N{\rENG}Ah, you mean the super scary way.
-Dialogue: 100,0:03:29.70,0:03:31.42,Normal Dialog Text,General,0,0,0,,{\rCHS}他们在晚餐后会将灯光调暗\N{\rENG}They turn the lights down after dinner.
-Dialogue: 100,0:03:32.76,0:03:33.26,Normal Dialog Text,General,0,0,0,,{\rCHS}那是什么?\N{\rENG}What was that?
-Dialogue: 100,0:03:40.38,0:03:41.86,Normal Dialog Text,General,0,0,0,,{\rCHS}维斯特医生可不会喜欢的\N{\rENG}Dr. west ain't gonna like it.
-Dialogue: 600,0:03:40.38,0:03:41.86,Hint,,0,0,0,,Dr.West致敬1985年的邪典片《活跳尸》
-Dialogue: 100,0:03:42.14,0:03:44.60,Normal Dialog Text,General,0,0,0,,{\rCHS}不过,维斯特医生可不在这里\N{\rENG}Well, Dr. west isn't here.
-Dialogue: 100,0:03:53.44,0:03:56.44,Normal Dialog Text,General,0,0,0,,{\rCHS}好的,好的,我刚到这里,嗯,嗯\N{\rENG}Yes, yes, I just got here. Mm-hmm. Mm-hmm.
-Dialogue: 100,0:04:04.82,0:04:06.04,Normal Dialog Text,General,0,0,0,,{\rCHS}你再说一下在哪找到他们的?\N{\rENG}Where did you say you found them?
-Dialogue: 100,0:04:06.56,0:04:07.74,Normal Dialog Text,General,0,0,0,,{\rCHS}路边?\N{\rENG}The side of the road?
-Dialogue: 100,0:04:08.38,0:04:11.22,Normal Dialog Text,General,0,0,0,,{\rCHS}我现在还不确定,毕竟还没亲眼见过\N{\rENG}I'm not sure just yet. I haven't had a look for myself.
-Dialogue: 100,0:04:14.94,0:04:17.32,Normal Dialog Text,General,0,0,0,,{\rCHS}这看起来可不像是车祸\N{\rENG}It doesn't look like a car accident.
-Dialogue: 100,0:04:17.62,0:04:18.92,Normal Dialog Text,General,0,0,0,,{\rCHS}你没找到身份证件?\N{\rENG}You didn't find an I.D.?
-Dialogue: 100,0:04:20.36,0:04:21.50,Normal Dialog Text,General,0,0,0,,{\rCHS}听着,我会回电话的,\N{\rENG}Listen, I'll call you back
-Dialogue: 100,0:04:21.50,0:04:23.86,Normal Dialog Text,General,0,0,0,,{\rCHS}当,或者,我有问题的时候\N{\rENG}when, or if, I have an answer for you.
-Dialogue: 100,0:04:24.46,0:04:24.82,Normal Dialog Text,General,0,0,0,,{\rCHS}再见\N{\rENG}Goodbye.
-Dialogue: 100,0:04:26.86,0:04:28.08,Normal Dialog Text,General,0,0,0,,{\rCHS}好吧,现在\N{\rENG}Okay, now.
-Dialogue: 100,0:04:31.96,0:04:32.92,Normal Dialog Text,General,0,0,0,,{\rCHS}她在做什么?\N{\rENG}What's she doing?
-Dialogue: 100,0:04:33.22,0:04:35.02,Normal Dialog Text,General,0,0,0,,{\rCHS}她很可能在检查体征\N{\rENG}She's probably checking their vitals.
-Dialogue: 100,0:04:35.26,0:04:37.28,Normal Dialog Text,General,0,0,0,,{\rCHS}你之前就没见过医院吗?\N{\rENG}Haven't you been to a hospital before?
-Dialogue: 100,0:04:37.60,0:04:38.36,Normal Dialog Text,General,0,0,0,,{\rCHS}没\N{\rENG}No.
-Dialogue: 100,0:04:38.72,0:04:39.58,Normal Dialog Text,General,0,0,0,,{\rCHS}哦,算你走运\N{\rENG}Oh. Lucky.
-Dialogue: 100,0:04:40.84,0:04:41.84,Normal Dialog Text,General,0,0,0,,{\rCHS}史蒂文,看\N{\rENG}Steven, look.
-Dialogue: 100,0:04:50.72,0:04:51.86,Normal Dialog Text,General,0,0,0,,{\rCHS}没有心跳\N{\rENG}No heartbeat.
-Dialogue: 100,0:04:55.94,0:04:58.62,Normal Dialog Text,General,0,0,0,,{\rCHS}呃,便宜的医院报销货\N{\rENG}Ugh. Cheap hospital budgets.
-Dialogue: 100,0:05:29.90,0:05:30.68,Normal Dialog Text,General,0,0,0,,{\rCHS}康妮!\N{\rENG}Connie!
-Dialogue: 100,0:05:30.68,0:05:31.98,Normal Dialog Text,General,0,0,0,,{\rCHS}哦,不!\N{\rENG}Oh, no!
-Dialogue: 100,0:05:32.22,0:05:35.00,Normal Dialog Text,General,0,0,0,,{\rCHS}你是怎么-你拿这个干嘛?!\N{\rENG}How did you even -- what are you doing with this?!
-Dialogue: 100,0:05:35.22,0:05:36.12,Normal Dialog Text,General,0,0,0,,{\rCHS}我定了规矩-\N{\rENG}I made a rule --
-Dialogue: 100,0:05:36.32,0:05:38.76,Normal Dialog Text,General,0,0,0,,{\rCHS}任何情况下都不能用刀\N{\rENG}no swords under any circumstances.
-Dialogue: 100,0:05:38.98,0:05:39.90,Normal Dialog Text,General,0,0,0,,{\rCHS}但,母亲!\N{\rENG}But, mom!
-Dialogue: 100,0:05:40.00,0:05:41.80,Normal Dialog Text,General,0,0,0,,{\rCHS}我们回家再说\N{\rENG}We will finish this conversation at home.
-Dialogue: 100,0:05:46.16,0:05:49.96,Normal Dialog Text,General,0,0,0,,{\rCHS}先生?女士?维斯特先生?\N{\rENG}Sir? Ma'am? Dr. west?
-Dialogue: 100,0:05:52.38,0:05:53.92,Normal Dialog Text,General,0,0,0,,{\rCHS}他一天都不休息,不是吗?\N{\rENG}He can't take a day off, can he?
-Dialogue: 100,0:05:55.66,0:05:58.26,Normal Dialog Text,General,0,0,0,,{\rCHS}是你?这是我的另一位病人\N{\rENG}You? It's my other patient.
-Dialogue: 100,0:05:58.52,0:06:00.04,Normal Dialog Text,General,0,0,0,,{\rCHS}你下床干什么\N{\rENG}What are you doing out of bed?
-Dialogue: 100,0:06:00.04,0:06:01.92,Normal Dialog Text,General,0,0,0,,{\rCHS}为什么你没和斯壮伯格医生在一起?\N{\rENG}Why aren't you with Dr. straumburg?
-Dialogue: 100,0:06:02.16,0:06:03.52,Normal Dialog Text,General,0,0,0,,{\rCHS}那不是病人\N{\rENG}That's not a patient.
-Dialogue: 100,0:06:05.44,0:06:05.98,Normal Dialog Text,General,0,0,0,,{\rCHS}啊!\N{\rENG}Aah!
-Dialogue: 100,0:06:10.10,0:06:11.54,Normal Dialog Text,General,0,0,0,,{\rCHS}我不知道这里发生了什么\N{\rENG}I don't know what's going on here,
-Dialogue: 100,0:06:11.68,0:06:13.24,Normal Dialog Text,General,0,0,0,,{\rCHS}我会查个明白的\N{\rENG}I am going to get to the bottom of it.
-Dialogue: 100,0:06:17.62,0:06:19.68,Normal Dialog Text,General,0,0,0,,{\rCHS}康妮,我觉得那是宝石变异体\N{\rENG}Connie, I think that's one of the gem mutants.
-Dialogue: 100,0:06:19.82,0:06:21.16,Normal Dialog Text,General,0,0,0,,{\rCHS}什么?你确定?\N{\rENG}What? Are you sure?
-Dialogue: 100,0:06:21.52,0:06:23.44,Normal Dialog Text,General,0,0,0,,{\rCHS}现在非常确定了\N{\rENG}Pretty sure at this point.
-Dialogue: 100,0:06:23.78,0:06:27.11,Normal Dialog Text,General,0,0,0,,{\rCHS}母亲,我真的,真的,真的需要那把刀\N{\rENG}Mom, I really, really, really need that sword.
-Dialogue: 100,0:06:27.36,0:06:29.90,Normal Dialog Text,General,0,0,0,,{\rCHS}康妮,不,现在不是合适的时候\N{\rENG}Connie, no. Now is not the time.
-Dialogue: 100,0:06:32.76,0:06:35.26,Normal Dialog Text,General,0,0,0,,{\rCHS}就是现在,母亲!\N{\rENG}Now is the perfect time, mom!
-Dialogue: 100,0:06:35.50,0:06:37.82,Normal Dialog Text,General,0,0,0,,{\rCHS}康妮,你这是怎么了?\N{\rENG}Connie, what has gotten into you?
-Dialogue: 100,0:06:37.98,0:06:41.44,Normal Dialog Text,General,0,0,0,,{\rCHS}你知道我从不更改规矩的,小姑娘\N{\rENG}You know I never go back on a rule, young lady.
-Dialogue: 100,0:06:41.70,0:06:43.72,Normal Dialog Text,General,0,0,0,,{\rCHS}总得有点例外吧?\N{\rENG}There have to be some exceptions.
-Dialogue: 100,0:06:43.72,0:06:47.02,Normal Dialog Text,General,0,0,0,,{\rCHS}我又不是被规矩控制的机器人!\N{\rENG}I'm not some rule-driven robot.
-Dialogue: 100,0:06:50.84,0:06:51.40,Normal Dialog Text,General,0,0,0,,{\rCHS}康妮!\N{\rENG}Aah! Connie!
-Dialogue: 100,0:06:51.50,0:06:52.00,Normal Dialog Text,General,0,0,0,,{\rCHS}妈妈!\N{\rENG}Mom!
-Dialogue: 100,0:06:52.64,0:06:53.60,Normal Dialog Text,General,0,0,0,,{\rCHS}我来救你了!\N{\rENG}I'll save you!
-Dialogue: 100,0:06:56.22,0:06:56.76,Normal Dialog Text,General,0,0,0,,{\rCHS}过来!\N{\rENG}Here!
-Dialogue: 100,0:06:58.96,0:07:03.14,Normal Dialog Text,General,0,0,0,,{\rCHS}把-你的-手-从我的康妮身上-拿开!\N{\rENG}Keep your hands off my Connie!
-Dialogue: 100,0:07:05.20,0:07:07.02,Normal Dialog Text,General,0,0,0,,{\rCHS}这些患者真是不可理喻啊\N{\rENG}These patients are beyond reason.
-Dialogue: 100,0:07:07.02,0:07:10.44,Normal Dialog Text,General,0,0,0,,{\rCHS}母亲,只要你这次愿意改变你的规矩...\N{\rENG}Mom, if you would just go back on your rule this one time...
-Dialogue: 100,0:07:13.44,0:07:16.44,Normal Dialog Text,General,0,0,0,,{\rCHS}我只是需要帮助史蒂文并让我们逃离这里!\N{\rENG}I just need to help Steven to get us out of here!
-Dialogue: 100,0:07:18.02,0:07:19.44,Normal Dialog Text,General,0,0,0,,{\rCHS}母亲最了解!\N{\rENG}Mother knows best!
-Dialogue: 100,0:07:28.44,0:07:29.50,Normal Dialog Text,General,0,0,0,,{\rCHS}史蒂文,快!\N{\rENG}Steven, come on!
-Dialogue: 100,0:07:46.16,0:07:46.92,Normal Dialog Text,General,0,0,0,,{\rCHS}哦,不!\N{\rENG}Oh, no.
-Dialogue: 100,0:07:47.12,0:07:48.06,Normal Dialog Text,General,0,0,0,,{\rCHS}我们被困住了\N{\rENG}We're trapped.
-Dialogue: 600,0:07:47.12,0:07:48.06,Hint,,0,0,0,,此处"Dr. Gero, Patient 20"致敬龙珠Z中的格罗博士（人造人20号）
-Dialogue: 100,0:07:48.06,0:07:49.46,Normal Dialog Text,General,0,0,0,,{\rCHS}我们不必如此\N{\rENG}We don't have to be.
-Dialogue: 100,0:08:01.74,0:08:04.18,Normal Dialog Text,General,0,0,0,,{\rCHS}真的,妈妈,我知道该怎么做\N{\rENG}Really, mom, I know how to do this.
-Dialogue: 100,0:08:04.18,0:08:05.84,Normal Dialog Text,General,0,0,0,,{\rCHS}不,你不知道\N{\rENG}No, you don't.
-Dialogue: 100,0:08:06.46,0:08:07.54,Normal Dialog Text,General,0,0,0,,{\rCHS}不,她知道\N{\rENG}Yes, she does.
-Dialogue: 100,0:08:07.92,0:08:09.14,Normal Dialog Text,General,0,0,0,,{\rCHS}她一直在练习\N{\rENG}She's been training.
-Dialogue: 100,0:08:09.24,0:08:11.14,Normal Dialog Text,General,0,0,0,,{\rCHS}她不是在随意玩弄那把刀\N{\rENG}She wasn't playing around with that sword.
-Dialogue: 100,0:08:11.32,0:08:13.74,Normal Dialog Text,General,0,0,0,,{\rCHS}她在上课,学习如何正确使用它\N{\rENG}She was taking classes, learning how to use it right.
+Dialogue: 100,0:02:32.74,0:02:34.77,Normal Dialog Text,General,0,0,0,,{\rCHS}算算你有多被禁足!\N{\rENG}to calculate just how grounded you are. 
+Dialogue: 100,0:02:35.28,0:02:37.02,Normal Dialog Text,General,0,0,0,,{\rCHS}而且我们要用算盘!\N{\rENG}And we're using the abacus. 
+Dialogue: 100,0:02:38.18,0:02:40.10,Normal Dialog Text,General,0,0,0,,{\rCHS}我讨厌那个算盘\N{\rENG}I hate that abacus. 
+Dialogue: 100,0:02:40.48,0:02:43.70,Normal Dialog Text,General,0,0,0,,{\rCHS}史蒂文 我太对不起了 她拿走了你母亲的刀\N{\rENG}Steven, I'm so sorry. She took your mother's sword. 
+Dialogue: 100,0:02:43.92,0:02:45.70,Normal Dialog Text,General,0,0,0,,{\rCHS}也许我们能让她回心转意?\N{\rENG}Maybe we can get her to change her mind. 
+Dialogue: 100,0:02:46.04,0:02:48.15,Normal Dialog Text,General,0,0,0,,{\rCHS}她从不改变想法\N{\rENG}She never, ever changes her mind. 
+Dialogue: 100,0:02:48.78,0:02:50.76,Normal Dialog Text,General,0,0,0,,{\rCHS}我们得靠自己拿回刀\N{\rENG}We've got to get that sword back ourselves. 
+Dialogue: 100,0:02:53.30,0:02:54.00,Normal Dialog Text,General,0,0,0,,{\rCHS}\N{\rENG}Whoa! 
+Dialogue: 100,0:02:54.98,0:02:55.50,Normal Dialog Text,General,0,0,0,,{\rCHS}\N{\rENG}Ugh. 
+Dialogue: 100,0:02:55.98,0:02:57.36,Normal Dialog Text,General,0,0,0,,{\rCHS}我们不能把狮子带进去\N{\rENG}We can't bring Lion inside. 
+Dialogue: 100,0:02:57.86,0:03:01.50,Normal Dialog Text,General,0,0,0,,{\rCHS}如果我妈把狮子也给没收了的话我会非常后悔的\N{\rENG}I'd feel really bad if my mom confiscated him, too. 
+Dialogue: 100,0:03:01.96,0:03:04.20,Normal Dialog Text,General,0,0,0,,{\rCHS}哦 这没什么 他可以呆在这里\N{\rENG}Oh, it's no problem. He can stay out here. 
+Dialogue: 100,0:03:04.56,0:03:07.74,Normal Dialog Text,General,0,0,0,,{\rCHS}听着 我总算找到了一个让他听从我的办法\N{\rENG}Look--I finally found a way to get him to do what I want. 
+Dialogue: 100,0:03:12.60,0:03:14.65,Normal Dialog Text,General,0,0,0,,{\rCHS}都不撕掉塑料包装\N{\rENG}He didn't even take the plastic off. 
+Dialogue: 100,0:03:14.78,0:03:15.76,Normal Dialog Text,General,0,0,0,,{\rCHS}真是个禽兽啊\N{\rENG}What an animal. 
+Dialogue: 100,0:03:18.45,0:03:19.36,Normal Dialog Text,General,0,0,0,,{\rCHS}打住 要严肃\N{\rENG}Okay, serious. 
+Dialogue: 100,0:03:19.74,0:03:20.70,Normal Dialog Text,General,0,0,0,,{\rCHS}对 要严肃\N{\rENG}Yeah. Serious. 
+Dialogue: 100,0:03:23.82,0:03:24.36,Normal Dialog Text,General,0,0,0,,{\rCHS}这里\N{\rENG}This way. 
+Dialogue: 100,0:03:26.50,0:03:29.14,Normal Dialog Text,General,0,0,0,,{\rCHS}啊 你是指超级吓人的路\N{\rENG}Ah, you mean the super scary way. 
+Dialogue: 100,0:03:29.70,0:03:31.42,Normal Dialog Text,General,0,0,0,,{\rCHS}他们在晚餐后会将灯光调暗\N{\rENG}They turn the lights down after dinner. 
+Dialogue: 100,0:03:32.76,0:03:33.26,Normal Dialog Text,General,0,0,0,,{\rCHS}那是什么?\N{\rENG}What was that? 
+Dialogue: 100,0:03:40.38,0:03:41.86,Normal Dialog Text,General,0,0,0,,{\rCHS}维斯特医生可不会喜欢的\N{\rENG}Dr. west ain't gonna like it. 
+Dialogue: 600,0:03:40.38,0:03:41.86,Hint,,0,0,0,,Dr. West致敬1985年的邪典片"活跳尸"
+Dialogue: 100,0:03:42.14,0:03:44.60,Normal Dialog Text,General,0,0,0,,{\rCHS}不过 维斯特医生可不在这里\N{\rENG}Well, Dr. west isn't here. 
+Dialogue: 100,0:03:53.44,0:03:56.44,Normal Dialog Text,General,0,0,0,,{\rCHS}好的 好的 我刚到这里 嗯 嗯\N{\rENG}Yes, yes, I just got here. Mm-hmm. Mm-hmm. 
+Dialogue: 100,0:04:04.82,0:04:06.04,Normal Dialog Text,General,0,0,0,,{\rCHS}你再说一下在哪找到他们的?\N{\rENG}Where did you say you found them? 
+Dialogue: 100,0:04:06.56,0:04:07.74,Normal Dialog Text,General,0,0,0,,{\rCHS}路边?\N{\rENG}The side of the road? 
+Dialogue: 100,0:04:08.38,0:04:11.22,Normal Dialog Text,General,0,0,0,,{\rCHS}我现在还不确定 毕竟还没亲眼见过\N{\rENG}I'm not sure just yet. I haven't had a look for myself. 
+Dialogue: 100,0:04:14.94,0:04:17.32,Normal Dialog Text,General,0,0,0,,{\rCHS}这看起来可不像是车祸\N{\rENG}It doesn't look like a car accident. 
+Dialogue: 100,0:04:17.62,0:04:18.92,Normal Dialog Text,General,0,0,0,,{\rCHS}你没找到身份证件?\N{\rENG}You didn't find an I. D.? 
+Dialogue: 100,0:04:20.36,0:04:21.50,Normal Dialog Text,General,0,0,0,,{\rCHS}听着 我会回电话的 \N{\rENG}Listen, I'll call you back
+Dialogue: 100,0:04:21.50,0:04:23.86,Normal Dialog Text,General,0,0,0,,{\rCHS}当 或者 我有问题的时候\N{\rENG}when, or if, I have an answer for you. 
+Dialogue: 100,0:04:24.46,0:04:24.82,Normal Dialog Text,General,0,0,0,,{\rCHS}再见\N{\rENG}Goodbye. 
+Dialogue: 100,0:04:26.86,0:04:28.08,Normal Dialog Text,General,0,0,0,,{\rCHS}好吧 现在\N{\rENG}Okay, now. 
+Dialogue: 100,0:04:31.96,0:04:32.92,Normal Dialog Text,General,0,0,0,,{\rCHS}她在做什么?\N{\rENG}What's she doing? 
+Dialogue: 100,0:04:33.22,0:04:35.02,Normal Dialog Text,General,0,0,0,,{\rCHS}她很可能在检查体征\N{\rENG}She's probably checking their vitals. 
+Dialogue: 100,0:04:35.26,0:04:37.28,Normal Dialog Text,General,0,0,0,,{\rCHS}你之前就没见过医院吗?\N{\rENG}Haven't you been to a hospital before? 
+Dialogue: 100,0:04:37.60,0:04:38.36,Normal Dialog Text,General,0,0,0,,{\rCHS}没\N{\rENG}No. 
+Dialogue: 100,0:04:38.72,0:04:39.58,Normal Dialog Text,General,0,0,0,,{\rCHS}哦 算你走运\N{\rENG}Oh. Lucky. 
+Dialogue: 100,0:04:40.84,0:04:41.84,Normal Dialog Text,General,0,0,0,,{\rCHS}史蒂文 看\N{\rENG}Steven, look. 
+Dialogue: 100,0:04:50.72,0:04:51.86,Normal Dialog Text,General,0,0,0,,{\rCHS}没有心跳\N{\rENG}No heartbeat. 
+Dialogue: 100,0:04:55.94,0:04:58.62,Normal Dialog Text,General,0,0,0,,{\rCHS}呃 便宜的医院报销货\N{\rENG}Ugh. Cheap hospital budgets. 
+Dialogue: 100,0:05:29.90,0:05:30.68,Normal Dialog Text,General,0,0,0,,{\rCHS}康妮!\N{\rENG}Connie! 
+Dialogue: 100,0:05:30.68,0:05:31.98,Normal Dialog Text,General,0,0,0,,{\rCHS}哦 不!\N{\rENG}Oh, no! 
+Dialogue: 100,0:05:32.22,0:05:35.00,Normal Dialog Text,General,0,0,0,,{\rCHS}你是怎么-你拿这个干嘛?!\N{\rENG}How did you even--what are you doing with this?! 
+Dialogue: 100,0:05:35.22,0:05:36.12,Normal Dialog Text,General,0,0,0,,{\rCHS}我定了规矩-\N{\rENG}I made a rule--
+Dialogue: 100,0:05:36.32,0:05:38.76,Normal Dialog Text,General,0,0,0,,{\rCHS}任何情况下都不能用刀\N{\rENG}no swords under any circumstances. 
+Dialogue: 100,0:05:38.98,0:05:39.90,Normal Dialog Text,General,0,0,0,,{\rCHS}但 母亲!\N{\rENG}But, mom! 
+Dialogue: 100,0:05:40.00,0:05:41.80,Normal Dialog Text,General,0,0,0,,{\rCHS}我们回家再说\N{\rENG}We will finish this conversation at home. 
+Dialogue: 100,0:05:46.16,0:05:49.96,Normal Dialog Text,General,0,0,0,,{\rCHS}先生? 女士? 维斯特先生?\N{\rENG}Sir? Ma'am? Dr. west? 
+Dialogue: 100,0:05:52.38,0:05:53.92,Normal Dialog Text,General,0,0,0,,{\rCHS}他一天都不休息 不是吗?\N{\rENG}He can't take a day off, can he? 
+Dialogue: 100,0:05:55.66,0:05:58.26,Normal Dialog Text,General,0,0,0,,{\rCHS}是你? 这是我的另一位病人\N{\rENG}You? It's my other patient. 
+Dialogue: 100,0:05:58.52,0:06:00.04,Normal Dialog Text,General,0,0,0,,{\rCHS}你下床干什么\N{\rENG}What are you doing out of bed? 
+Dialogue: 100,0:06:00.04,0:06:01.92,Normal Dialog Text,General,0,0,0,,{\rCHS}为什么你没和斯壮伯格医生在一起?\N{\rENG}Why aren't you with Dr. straumburg? 
+Dialogue: 100,0:06:02.16,0:06:03.52,Normal Dialog Text,General,0,0,0,,{\rCHS}那不是病人\N{\rENG}That's not a patient. 
+Dialogue: 100,0:06:05.44,0:06:05.98,Normal Dialog Text,General,0,0,0,,{\rCHS}啊!\N{\rENG}Aah! 
+Dialogue: 100,0:06:10.10,0:06:11.54,Normal Dialog Text,General,0,0,0,,{\rCHS}我不知道这里发生了什么\N{\rENG}I don't know what's going on here, 
+Dialogue: 100,0:06:11.68,0:06:13.24,Normal Dialog Text,General,0,0,0,,{\rCHS}我会查个明白的\N{\rENG}I am going to get to the bottom of it. 
+Dialogue: 100,0:06:17.62,0:06:19.68,Normal Dialog Text,General,0,0,0,,{\rCHS}康妮 我觉得那是宝石变异体\N{\rENG}Connie, I think that's one of the gem mutants. 
+Dialogue: 100,0:06:19.82,0:06:21.16,Normal Dialog Text,General,0,0,0,,{\rCHS}什么? 你确定?\N{\rENG}What? Are you sure? 
+Dialogue: 100,0:06:21.52,0:06:23.44,Normal Dialog Text,General,0,0,0,,{\rCHS}现在非常确定了\N{\rENG}Pretty sure at this point. 
+Dialogue: 100,0:06:23.78,0:06:27.11,Normal Dialog Text,General,0,0,0,,{\rCHS}母亲 我真的 真的 真的需要那把刀\N{\rENG}Mom, I really, really, really need that sword. 
+Dialogue: 100,0:06:27.36,0:06:29.90,Normal Dialog Text,General,0,0,0,,{\rCHS}康妮 不 现在不是合适的时候\N{\rENG}Connie, no. Now is not the time. 
+Dialogue: 100,0:06:32.76,0:06:35.26,Normal Dialog Text,General,0,0,0,,{\rCHS}就是现在 母亲!\N{\rENG}Now is the perfect time, mom! 
+Dialogue: 100,0:06:35.50,0:06:37.82,Normal Dialog Text,General,0,0,0,,{\rCHS}康妮 你这是怎么了?\N{\rENG}Connie, what has gotten into you? 
+Dialogue: 100,0:06:37.98,0:06:41.44,Normal Dialog Text,General,0,0,0,,{\rCHS}你知道我从不更改规矩的 小姑娘\N{\rENG}You know I never go back on a rule, young lady. 
+Dialogue: 100,0:06:41.70,0:06:43.72,Normal Dialog Text,General,0,0,0,,{\rCHS}总得有点例外吧?\N{\rENG}There have to be some exceptions. 
+Dialogue: 100,0:06:43.72,0:06:47.02,Normal Dialog Text,General,0,0,0,,{\rCHS}我又不是被规矩控制的机器人!\N{\rENG}I'm not some rule-driven robot. 
+Dialogue: 100,0:06:50.84,0:06:51.40,Normal Dialog Text,General,0,0,0,,{\rCHS}康妮!\N{\rENG}Aah! Connie! 
+Dialogue: 100,0:06:51.50,0:06:52.00,Normal Dialog Text,General,0,0,0,,{\rCHS}妈妈!\N{\rENG}Mom! 
+Dialogue: 100,0:06:52.64,0:06:53.60,Normal Dialog Text,General,0,0,0,,{\rCHS}我来救你了!\N{\rENG}I'll save you! 
+Dialogue: 100,0:06:56.22,0:06:56.76,Normal Dialog Text,General,0,0,0,,{\rCHS}过来!\N{\rENG}Here! 
+Dialogue: 100,0:06:58.96,0:07:03.14,Normal Dialog Text,General,0,0,0,,{\rCHS}把-你的-手-从我的康妮身上-拿开!\N{\rENG}Keep your hands off my Connie! 
+Dialogue: 100,0:07:05.20,0:07:07.02,Normal Dialog Text,General,0,0,0,,{\rCHS}这些患者真是不可理喻啊\N{\rENG}These patients are beyond reason. 
+Dialogue: 100,0:07:07.02,0:07:10.44,Normal Dialog Text,General,0,0,0,,{\rCHS}母亲 只要你这次愿意改变你的规矩...\N{\rENG}Mom, if you would just go back on your rule this one time...
+Dialogue: 100,0:07:13.44,0:07:16.44,Normal Dialog Text,General,0,0,0,,{\rCHS}我只是需要帮助史蒂文并让我们逃离这里!\N{\rENG}I just need to help Steven to get us out of here! 
+Dialogue: 100,0:07:18.02,0:07:19.44,Normal Dialog Text,General,0,0,0,,{\rCHS}母亲最了解!\N{\rENG}Mother knows best! 
+Dialogue: 100,0:07:28.44,0:07:29.50,Normal Dialog Text,General,0,0,0,,{\rCHS}史蒂文 快!\N{\rENG}Steven, come on! 
+Dialogue: 100,0:07:46.16,0:07:46.92,Normal Dialog Text,General,0,0,0,,{\rCHS}哦 不!\N{\rENG}Oh, no. 
+Dialogue: 100,0:07:47.12,0:07:48.06,Normal Dialog Text,General,0,0,0,,{\rCHS}我们被困住了\N{\rENG}We're trapped. 
+Dialogue: 600,0:07:47.12,0:07:48.06,Hint,,0,0,0,,此处"Dr. Gero Patient 20"致敬龙珠Z中的格罗博士( 人造人20号) 
+Dialogue: 100,0:07:48.06,0:07:49.46,Normal Dialog Text,General,0,0,0,,{\rCHS}我们不必如此\N{\rENG}We don't have to be. 
+Dialogue: 100,0:08:01.74,0:08:04.18,Normal Dialog Text,General,0,0,0,,{\rCHS}真的 妈妈 我知道该怎么做\N{\rENG}Really, mom, I know how to do this. 
+Dialogue: 100,0:08:04.18,0:08:05.84,Normal Dialog Text,General,0,0,0,,{\rCHS}不 你不知道\N{\rENG}No, you don't. 
+Dialogue: 100,0:08:06.46,0:08:07.54,Normal Dialog Text,General,0,0,0,,{\rCHS}不 她知道\N{\rENG}Yes, she does. 
+Dialogue: 100,0:08:07.92,0:08:09.14,Normal Dialog Text,General,0,0,0,,{\rCHS}她一直在练习\N{\rENG}She's been training. 
+Dialogue: 100,0:08:09.24,0:08:11.14,Normal Dialog Text,General,0,0,0,,{\rCHS}她不是在随意玩弄那把刀\N{\rENG}She wasn't playing around with that sword. 
+Dialogue: 100,0:08:11.32,0:08:13.74,Normal Dialog Text,General,0,0,0,,{\rCHS}她在上课 学习如何正确使用它\N{\rENG}She was taking classes, learning how to use it right. 
 Dialogue: 100,0:08:14.12,0:08:15.62,Normal Dialog Text,General,0,0,0,,{\rCHS}即使她一直在学习\N{\rENG}Even though she's always studying
-Dialogue: 600,0:08:14.12,0:08:15.62,Hint,,0,0,0,,宝石实验体的设计参考了《死亡空间》中的怪物，而右下的那只则和求生之路2里的Charger相似
-Dialogue: 100,0:08:15.62,0:08:17.70,Normal Dialog Text,General,0,0,0,,{\rCHS}或者练习网球,或者做作业,\N{\rENG}or practicing tennis or doing her homework,
-Dialogue: 100,0:08:17.92,0:08:20.65,Normal Dialog Text,General,0,0,0,,{\rCHS}她仍然在努力成为一名好的刀客\N{\rENG}she still works really hard to be a good sword fighter.
-Dialogue: 100,0:08:20.90,0:08:22.94,Normal Dialog Text,General,0,0,0,,{\rCHS}不,不不不不不不\N{\rENG}No. No, no, no, no, no, no.
-Dialogue: 100,0:08:22.96,0:08:24.38,Normal Dialog Text,General,0,0,0,,{\rCHS}我了解我女儿\N{\rENG}I know my daughter.
-Dialogue: 100,0:08:24.52,0:08:26.88,Normal Dialog Text,General,0,0,0,,{\rCHS}我知道她每一天每一秒都在做什么-\N{\rENG}I know what she's doing every second of the day --
-Dialogue: 100,0:08:27.04,0:08:29.16,Normal Dialog Text,General,0,0,0,,{\rCHS}她所有的活动,所有的网上交互\N{\rENG}all her activities, all her internets.
-Dialogue: 100,0:08:29.26,0:08:33.00,Normal Dialog Text,General,0,0,0,,{\rCHS}我知道她不是某些玩刀的小混混!\N{\rENG}I know she's definitely not some sword-fighting hooligan.
-Dialogue: 100,0:08:33.00,0:08:34.54,Normal Dialog Text,General,0,0,0,,{\rCHS}你一点都不了解我!\N{\rENG}You don't know me at all!
-Dialogue: 100,0:08:34.70,0:08:37.62,Normal Dialog Text,General,0,0,0,,{\rCHS}你到现在还没注意到我的眼镜!\N{\rENG}You still haven't even noticed my glasses.
-Dialogue: 100,0:08:37.92,0:08:39.54,Normal Dialog Text,General,0,0,0,,{\rCHS}你的眼镜有什么问题?\N{\rENG}What's wrong with your glasses?
-Dialogue: 100,0:08:39.98,0:08:41.84,Normal Dialog Text,General,0,0,0,,{\rCHS}它都没有镜片了!\N{\rENG}They don't have lenses anymore.
-Dialogue: 100,0:08:42.02,0:08:45.31,Normal Dialog Text,General,0,0,0,,{\rCHS}我都快一年用不到真正的眼镜了!\N{\rENG}I haven't needed actual glasses for almost a year.
-Dialogue: 100,0:08:45.58,0:08:48.44,Normal Dialog Text,General,0,0,0,,{\rCHS}怎么?你的视力突然被魔法治好了?\N{\rENG}What? Your eyesight just magically got better?
-Dialogue: 100,0:08:48.94,0:08:49.98,Normal Dialog Text,General,0,0,0,,{\rCHS}当然!\N{\rENG}Yes!
+Dialogue: 600,0:08:14.12,0:08:15.62,Hint,,0,0,0,,宝石实验体的设计参考了"死亡空间"中的怪物 而右下的那只则和求生之路2里的Charger相似
+Dialogue: 100,0:08:15.62,0:08:17.70,Normal Dialog Text,General,0,0,0,,{\rCHS}或者练习网球 或者做作业 \N{\rENG}or practicing tennis or doing her homework, 
+Dialogue: 100,0:08:17.92,0:08:20.65,Normal Dialog Text,General,0,0,0,,{\rCHS}她仍然在努力成为一名好的刀客\N{\rENG}she still works really hard to be a good sword fighter. 
+Dialogue: 100,0:08:20.90,0:08:22.94,Normal Dialog Text,General,0,0,0,,{\rCHS}不 不不不不不不\N{\rENG}No. No, no, no, no, no, no. 
+Dialogue: 100,0:08:22.96,0:08:24.38,Normal Dialog Text,General,0,0,0,,{\rCHS}我了解我女儿\N{\rENG}I know my daughter. 
+Dialogue: 100,0:08:24.52,0:08:26.88,Normal Dialog Text,General,0,0,0,,{\rCHS}我知道她每一天每一秒都在做什么-\N{\rENG}I know what she's doing every second of the day--
+Dialogue: 100,0:08:27.04,0:08:29.16,Normal Dialog Text,General,0,0,0,,{\rCHS}她所有的活动 所有的网上交互\N{\rENG}all her activities, all her internets. 
+Dialogue: 100,0:08:29.26,0:08:33.00,Normal Dialog Text,General,0,0,0,,{\rCHS}我知道她不是某些玩刀的小混混!\N{\rENG}I know she's definitely not some sword-fighting hooligan. 
+Dialogue: 100,0:08:33.00,0:08:34.54,Normal Dialog Text,General,0,0,0,,{\rCHS}你一点都不了解我!\N{\rENG}You don't know me at all! 
+Dialogue: 100,0:08:34.70,0:08:37.62,Normal Dialog Text,General,0,0,0,,{\rCHS}你到现在还没注意到我的眼镜!\N{\rENG}You still haven't even noticed my glasses. 
+Dialogue: 100,0:08:37.92,0:08:39.54,Normal Dialog Text,General,0,0,0,,{\rCHS}你的眼镜有什么问题?\N{\rENG}What's wrong with your glasses? 
+Dialogue: 100,0:08:39.98,0:08:41.84,Normal Dialog Text,General,0,0,0,,{\rCHS}它都没有镜片了!\N{\rENG}They don't have lenses anymore. 
+Dialogue: 100,0:08:42.02,0:08:45.31,Normal Dialog Text,General,0,0,0,,{\rCHS}我都快一年用不到真正的眼镜了!\N{\rENG}I haven't needed actual glasses for almost a year. 
+Dialogue: 100,0:08:45.58,0:08:48.44,Normal Dialog Text,General,0,0,0,,{\rCHS}怎么? 你的视力突然被魔法治好了?\N{\rENG}What? Your eyesight just magically got better? 
+Dialogue: 100,0:08:48.94,0:08:49.98,Normal Dialog Text,General,0,0,0,,{\rCHS}当然!\N{\rENG}Yes! 
 Dialogue: 100,0:08:50.56,0:08:52.92,Normal Dialog Text,General,0,0,0,,{\rCHS}我一直在与魔法和怪物打交道\N{\rENG}I've been dealing with magic and monsters
-Dialogue: 600,0:08:50.56,0:08:52.92,Hint,,0,0,0,,康妮揭露秘密的情景和《野外怪家庭》类似——都是紧急关头不得不交代
-Dialogue: 100,0:08:52.92,0:08:55.66,Normal Dialog Text,General,0,0,0,,{\rCHS}还有这种东西,从我认识史蒂文开始\N{\rENG}and things like these since I met Steven.
-Dialogue: 100,0:08:55.88,0:08:59.28,Normal Dialog Text,General,0,0,0,,{\rCHS}这也是为什么我需要你相信我知道该做什么\N{\rENG}That's why I need you to believe I know what to do here.
-Dialogue: 100,0:08:59.64,0:09:00.60,Normal Dialog Text,General,0,0,0,,{\rCHS}但-你-\N{\rENG}But you --
-Dialogue: 100,0:09:02.04,0:09:03.84,Normal Dialog Text,General,0,0,0,,{\rCHS}呃,现在没时间废话\N{\rENG}ugh! There's no time for this.
-Dialogue: 100,0:09:04.28,0:09:04.80,Normal Dialog Text,General,0,0,0,,{\rCHS}准备好了?\N{\rENG}Ready?
-Dialogue: 100,0:09:05.10,0:09:05.96,Normal Dialog Text,General,0,0,0,,{\rCHS}收起泡泡\N{\rENG}Drop the bubble.
-Dialogue: 600,0:09:10.82,0:09:12.44,Hint,,0,0,0,,此处墙上的画源自游戏《看火人》的海报，而蓝色的松树则与《怪诞小镇》有关；\N《怪诞小镇》的场景也为山林中的小镇，而主创Alex和Rebecca还是朋友
-Dialogue: 600,0:09:15.07,0:09:17.07,Hint,,0,0,0,,康妮用刀的招式与《剑风传奇》中的格斯类似
-Dialogue: 100,0:09:30.02,0:09:31.34,Normal Dialog Text,General,0,0,0,,{\rCHS}难怪它没有脉搏\N{\rENG}So that's why it had no pulse.
-Dialogue: 100,0:09:32.02,0:09:33.39,Normal Dialog Text,General,0,0,0,,{\rCHS}宝石人实验品\N{\rENG}Gem experiments.
-Dialogue: 100,0:09:33.96,0:09:35.68,Normal Dialog Text,General,0,0,0,,{\rCHS}这就是你一直在做的?\N{\rENG}This is what you've been doing?
-Dialogue: 100,0:09:35.80,0:09:38.30,Normal Dialog Text,General,0,0,0,,{\rCHS}训练着与这些...东西战斗?\N{\rENG}Training to fight these...Things?
-Dialogue: 100,0:09:39.40,0:09:40.12,Normal Dialog Text,General,0,0,0,,{\rCHS}啊～!\N{\rENG}Aah!
-Dialogue: 100,0:09:40.48,0:09:41.64,Normal Dialog Text,General,0,0,0,,{\rCHS}对不起,莫雪伦医生\N{\rENG}Sorry, Dr. Maheshwaren.
-Dialogue: 100,0:09:41.98,0:09:42.94,Normal Dialog Text,General,0,0,0,,{\rCHS}那是我的狮子\N{\rENG}That's my Lion.
-Dialogue: 100,0:09:44.56,0:09:47.60,Normal Dialog Text,General,0,0,0,,{\rCHS}妈妈,我很抱歉我对你撒谎了\N{\rENG}Mom, I'm really sorry about lying to you.
-Dialogue: 100,0:09:47.82,0:09:49.80,Normal Dialog Text,General,0,0,0,,{\rCHS}这一开始只是个小秘密\N{\rENG}It started off as a tiny secret,
-Dialogue: 100,0:09:50.04,0:09:52.00,Normal Dialog Text,General,0,0,0,,{\rCHS}而我感觉如果我说出来\N{\rENG}and then it felt like if I didn't hide it,
-Dialogue: 100,0:09:52.50,0:09:54.76,Normal Dialog Text,General,0,0,0,,{\rCHS}你不会再让我与史蒂文相处了\N{\rENG}you wouldn't let me see Steven ever again.
-Dialogue: 100,0:09:55.38,0:09:58.44,Normal Dialog Text,General,0,0,0,,{\rCHS}这就是你的感受吗?我们是不是干预的太过了?\N{\rENG}Is that how you feel? Are we too controlling?
-Dialogue: 100,0:09:59.24,0:10:00.12,Normal Dialog Text,General,0,0,0,,{\rCHS}也许吧\N{\rENG}Maybe.
-Dialogue: 100,0:10:00.56,0:10:02.16,Normal Dialog Text,General,0,0,0,,{\rCHS}我只是想成为一个好母亲\N{\rENG}I just wanted to be a good mother.
-Dialogue: 100,0:10:02.28,0:10:04.78,Normal Dialog Text,General,0,0,0,,{\rCHS}我-我只是想保护你\N{\rENG}I-I just wanted to protect you.
-Dialogue: 100,0:10:05.66,0:10:07.48,Normal Dialog Text,General,0,0,0,,{\rCHS}我现在可以保护自己了\N{\rENG}I can protect myself now.
-Dialogue: 100,0:10:11.80,0:10:12.28,Normal Dialog Text,General,0,0,0,,{\rCHS}好吧\N{\rENG}Okay.
-Dialogue: 100,0:10:13.64,0:10:15.28,Normal Dialog Text,General,0,0,0,,{\rCHS}我们-会修改规矩的\N{\rENG}We'll pull back on the rules,
+Dialogue: 600,0:08:50.56,0:08:52.92,Hint,,0,0,0,,康妮揭露秘密的情景和"野外怪家庭"类似--都是紧急关头不得不交代
+Dialogue: 100,0:08:52.92,0:08:55.66,Normal Dialog Text,General,0,0,0,,{\rCHS}还有这种东西 从我认识史蒂文开始\N{\rENG}and things like these since I met Steven. 
+Dialogue: 100,0:08:55.88,0:08:59.28,Normal Dialog Text,General,0,0,0,,{\rCHS}这也是为什么我需要你相信我知道该做什么\N{\rENG}That's why I need you to believe I know what to do here. 
+Dialogue: 100,0:08:59.64,0:09:00.60,Normal Dialog Text,General,0,0,0,,{\rCHS}但-你-\N{\rENG}But you--
+Dialogue: 100,0:09:02.04,0:09:03.84,Normal Dialog Text,General,0,0,0,,{\rCHS}呃 现在没时间废话\N{\rENG}ugh! There's no time for this. 
+Dialogue: 100,0:09:04.28,0:09:04.80,Normal Dialog Text,General,0,0,0,,{\rCHS}准备好了?\N{\rENG}Ready? 
+Dialogue: 100,0:09:05.10,0:09:05.96,Normal Dialog Text,General,0,0,0,,{\rCHS}收起泡泡\N{\rENG}Drop the bubble. 
+Dialogue: 600,0:09:10.82,0:09:12.44,Hint,,0,0,0,,此处墙上的画源自游戏"看火人"的海报 而蓝色的松树则与"怪诞小镇"有关;\N"怪诞小镇"的场景也为山林中的小镇 而主创Alex和Rebecca还是朋友
+Dialogue: 600,0:09:15.07,0:09:17.07,Hint,,0,0,0,,康妮用刀的招式与"剑风传奇"中的格斯类似
+Dialogue: 100,0:09:30.02,0:09:31.34,Normal Dialog Text,General,0,0,0,,{\rCHS}难怪它没有脉搏\N{\rENG}So that's why it had no pulse. 
+Dialogue: 100,0:09:32.02,0:09:33.39,Normal Dialog Text,General,0,0,0,,{\rCHS}宝石人实验品\N{\rENG}Gem experiments. 
+Dialogue: 100,0:09:33.96,0:09:35.68,Normal Dialog Text,General,0,0,0,,{\rCHS}这就是你一直在做的?\N{\rENG}This is what you've been doing? 
+Dialogue: 100,0:09:35.80,0:09:38.30,Normal Dialog Text,General,0,0,0,,{\rCHS}训练着与这些...东西战斗?\N{\rENG}Training to fight these...Things? 
+Dialogue: 100,0:09:39.40,0:09:40.12,Normal Dialog Text,General,0,0,0,,{\rCHS}啊～!\N{\rENG}Aah! 
+Dialogue: 100,0:09:40.48,0:09:41.64,Normal Dialog Text,General,0,0,0,,{\rCHS}对不起 莫雪伦医生\N{\rENG}Sorry, Dr. Maheshwaren. 
+Dialogue: 100,0:09:41.98,0:09:42.94,Normal Dialog Text,General,0,0,0,,{\rCHS}那是我的狮子\N{\rENG}That's my Lion. 
+Dialogue: 100,0:09:44.56,0:09:47.60,Normal Dialog Text,General,0,0,0,,{\rCHS}妈妈 我很抱歉我对你撒谎了\N{\rENG}Mom, I'm really sorry about lying to you. 
+Dialogue: 100,0:09:47.82,0:09:49.80,Normal Dialog Text,General,0,0,0,,{\rCHS}这一开始只是个小秘密\N{\rENG}It started off as a tiny secret, 
+Dialogue: 100,0:09:50.04,0:09:52.00,Normal Dialog Text,General,0,0,0,,{\rCHS}而我感觉如果我说出来\N{\rENG}and then it felt like if I didn't hide it, 
+Dialogue: 100,0:09:52.50,0:09:54.76,Normal Dialog Text,General,0,0,0,,{\rCHS}你不会再让我与史蒂文相处了\N{\rENG}you wouldn't let me see Steven ever again. 
+Dialogue: 100,0:09:55.38,0:09:58.44,Normal Dialog Text,General,0,0,0,,{\rCHS}这就是你的感受吗? 我们是不是干预的太过了?\N{\rENG}Is that how you feel? Are we too controlling? 
+Dialogue: 100,0:09:59.24,0:10:00.12,Normal Dialog Text,General,0,0,0,,{\rCHS}也许吧\N{\rENG}Maybe. 
+Dialogue: 100,0:10:00.56,0:10:02.16,Normal Dialog Text,General,0,0,0,,{\rCHS}我只是想成为一个好母亲\N{\rENG}I just wanted to be a good mother. 
+Dialogue: 100,0:10:02.28,0:10:04.78,Normal Dialog Text,General,0,0,0,,{\rCHS}我-我只是想保护你\N{\rENG}I-I just wanted to protect you. 
+Dialogue: 100,0:10:05.66,0:10:07.48,Normal Dialog Text,General,0,0,0,,{\rCHS}我现在可以保护自己了\N{\rENG}I can protect myself now. 
+Dialogue: 100,0:10:11.80,0:10:12.28,Normal Dialog Text,General,0,0,0,,{\rCHS}好吧\N{\rENG}Okay. 
+Dialogue: 100,0:10:13.64,0:10:15.28,Normal Dialog Text,General,0,0,0,,{\rCHS}我们-会修改规矩的\N{\rENG}We'll pull back on the rules, 
 Dialogue: 100,0:10:15.66,0:10:17.28,Normal Dialog Text,General,0,0,0,,{\rCHS}而我会试着接受\N{\rENG}and I'll try to keep an open mind
-Dialogue: 100,0:10:17.28,0:10:21.72,Normal Dialog Text,General,0,0,0,,{\rCHS}这个,那个,和...他\N{\rENG}about this and that and...Him.
-Dialogue: 100,0:10:23.82,0:10:25.78,Normal Dialog Text,General,0,0,0,,{\rCHS}我很害怕我没法和你沟通\N{\rENG}It scares me that you can't talk to me.
-Dialogue: 100,0:10:26.30,0:10:28.26,Normal Dialog Text,General,0,0,0,,{\rCHS}我得知道你的生活是什么样的\N{\rENG}I need to know what's happening in your life.
-Dialogue: 100,0:10:28.78,0:10:31.40,Normal Dialog Text,General,0,0,0,,{\rCHS}我得在你 时\N{\rENG}I need to step in when you're in over your head.
-Dialogue: 100,0:10:32.10,0:10:34.88,Normal Dialog Text,General,0,0,0,,{\rCHS}你能对我保证你停止遮掩吗?\N{\rENG}Will you just promise me you'll stop all this lying?
-Dialogue: 100,0:10:36.42,0:10:37.34,Normal Dialog Text,General,0,0,0,,{\rCHS}那是个规矩\N{\rENG}That's a rule.
-Dialogue: 100,0:10:38.56,0:10:39.50,Normal Dialog Text,General,0,0,0,,{\rCHS}我爱你,亲爱的\N{\rENG}I love you, honey.
-Dialogue: 100,0:10:40.06,0:10:41.32,Normal Dialog Text,General,0,0,0,,{\rCHS}我也爱你,妈妈\N{\rENG}I love you too, mom.
+Dialogue: 100,0:10:17.28,0:10:21.72,Normal Dialog Text,General,0,0,0,,{\rCHS}这个 那个 和...他\N{\rENG}about this and that and...Him. 
+Dialogue: 100,0:10:23.82,0:10:25.78,Normal Dialog Text,General,0,0,0,,{\rCHS}我很害怕我没法和你沟通\N{\rENG}It scares me that you can't talk to me. 
+Dialogue: 100,0:10:26.30,0:10:28.26,Normal Dialog Text,General,0,0,0,,{\rCHS}我得知道你的生活是什么样的\N{\rENG}I need to know what's happening in your life. 
+Dialogue: 100,0:10:28.78,0:10:31.40,Normal Dialog Text,General,0,0,0,,{\rCHS}我得在你 时\N{\rENG}I need to step in when you're in over your head. 
+Dialogue: 100,0:10:32.10,0:10:34.88,Normal Dialog Text,General,0,0,0,,{\rCHS}你能对我保证你停止遮掩吗?\N{\rENG}Will you just promise me you'll stop all this lying? 
+Dialogue: 100,0:10:36.42,0:10:37.34,Normal Dialog Text,General,0,0,0,,{\rCHS}那是个规矩\N{\rENG}That's a rule. 
+Dialogue: 100,0:10:38.56,0:10:39.50,Normal Dialog Text,General,0,0,0,,{\rCHS}我爱你 亲爱的\N{\rENG}I love you, honey. 
+Dialogue: 100,0:10:40.06,0:10:41.32,Normal Dialog Text,General,0,0,0,,{\rCHS}我也爱你 妈妈\N{\rENG}I love you too, mom. 
 Dialogue: 100,0:10:51.70,0:10:54.66,Normal Dialog Text,General,0,0,0,,{\rCHS}我认为我非常卑微\N{\rENG}♪ I always thought I might be bad ♪
 Dialogue: 100,0:10:54.66,0:10:57.34,Normal Dialog Text,General,0,0,0,,{\rCHS}现在我已确定\N{\rENG}♪ now I'm sure that it's true
-Dialogue: 100,0:10:57.70,0:11:00.66,Normal Dialog Text,General,0,0,0,,{\rCHS}因,你如此完美\N{\rENG}♪ 'cause I think you're so good ♪
+Dialogue: 100,0:10:57.70,0:11:00.66,Normal Dialog Text,General,0,0,0,,{\rCHS}因 你如此完美\N{\rENG}♪ 'cause I think you're so good ♪
 Dialogue: 100,0:11:01.15,0:11:03.54,Normal Dialog Text,General,0,0,0,,{\rCHS}而我却丝毫不如\N{\rENG}♪ and I'm nothing like you
 

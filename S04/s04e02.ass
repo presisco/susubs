@@ -41,7 +41,7 @@ Style: Hint,微软雅黑,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 1,0:00:00.00,0:00:01.50,SU Title,,0,0,0,,{\xshad-0\yshad12\pos(1158,158)}理解融合
-Dialogue: 1,0:00:01.50,0:00:03.00,SU Claim,,0,0,0,,欢迎关注微博@UUU字幕组，获取最新熟肉信息！
+Dialogue: 1,0:00:01.50,0:00:03.00,SU Claim,,0,0,0,,欢迎关注微博@ UUU字幕组 获取最新熟肉信息! 
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,260)}出品
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,320)}UUU字幕组
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,380)}翻译
@@ -51,226 +51,226 @@ Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,560)}右翼�
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,620)}特效
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,680)}presisco
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,740)}压制
-Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,800)}presisco/SG
-Dialogue: 0,0:00:01.50,0:00:03.00,SU Team Background,,0,0,0,,{\bord0\xshad-0\yshad16\pos(1725,860)}{\p1}m -1 122 b -1 -19 -19 -1 122 -1 l 251 -1 b 390 -1 377 -19 377 122 l 377 500 b 377 642 390 628 251 628 l 122 628 b -19 628 -1 642 -1 500 l -1 122 {\p0}
-Dialogue: 100,0:00:04.00,0:00:06.41,Normal Dialog Text,,0,0,0,,{\rCHS}然后我们就进入表演\N{\rENG}And then we go into the tricks.
-Dialogue: 100,0:00:06.44,0:00:07.18,Normal Dialog Text,,0,0,0,,{\rCHS}好\N{\rENG}All right.
-Dialogue: 100,0:00:07.20,0:00:09.21,Normal Dialog Text,,0,0,0,,{\rCHS}但我真心觉得	[遛狗]那招\N{\rENG}But I really think we should save the dogwalker
-Dialogue: 100,0:00:09.24,0:00:09.92,Normal Dialog Text,,0,0,0,,{\rCHS}应该留到下次\N{\rENG}for next time.
-Dialogue: 100,0:00:09.93,0:00:12.44,Normal Dialog Text,,0,0,0,,{\rCHS}这是我们的第一印象 得搞得浮夸点\N{\rENG}This is our first impression. We gotta go big.
-Dialogue: 100,0:00:12.45,0:00:15.68,Normal Dialog Text,,0,0,0,,{\rCHS}而且我们也应该赶紧行动 免得她们怀疑\N{\rENG}And we should go soon, too, before they get suspicious.
-Dialogue: 100,0:00:15.72,0:00:18.48,Normal Dialog Text,,0,0,0,,{\rCHS}这俩人表现的非常可疑哇\N{\rENG}Those two are acting very suspicious.
-Dialogue: 100,0:00:18.52,0:00:20.89,Normal Dialog Text,,0,0,0,,{\rCHS}我们要问问他们在干啥吗\N{\rENG}Should we ask them what's going on?
-Dialogue: 100,0:00:20.92,0:00:22.32,Normal Dialog Text,,0,0,0,,{\rCHS}我不能\N{\rENG}I can't.
-Dialogue: 100,0:00:22.36,0:00:24.06,Normal Dialog Text,,0,0,0,,{\rCHS}好吧\N{\rENG}Right.
-Dialogue: 100,0:00:24.09,0:00:25.86,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文 紫晶\N{\rENG}Steven, Amethyst!
-Dialogue: 100,0:00:25.89,0:00:28.03,Normal Dialog Text,,0,0,0,,{\rCHS}你们是不是有啥事准备告诉我们呀\N{\rENG}Is there something you'd like to tell us?
+Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,800)}presisco/ SG
+Dialogue: 100,0:00:04.00,0:00:06.41,Normal Dialog Text,,0,0,0,,{\rCHS}然后我们就进入表演\N{\rENG}And then we go into the tricks. 
+Dialogue: 100,0:00:06.44,0:00:07.18,Normal Dialog Text,,0,0,0,,{\rCHS}好\N{\rENG}All right. 
+Dialogue: 100,0:00:07.20,0:00:09.21,Normal Dialog Text,,0,0,0,,{\rCHS}但我真心觉得 [ 遛狗] 那招\N{\rENG}But I really think we should save the dogwalker
+Dialogue: 100,0:00:09.24,0:00:09.92,Normal Dialog Text,,0,0,0,,{\rCHS}应该留到下次\N{\rENG}for next time. 
+Dialogue: 100,0:00:09.93,0:00:12.44,Normal Dialog Text,,0,0,0,,{\rCHS}这是我们的第一印象 得搞得浮夸点\N{\rENG}This is our first impression. We gotta go big. 
+Dialogue: 100,0:00:12.45,0:00:15.68,Normal Dialog Text,,0,0,0,,{\rCHS}而且我们也应该赶紧行动 免得她们怀疑\N{\rENG}And we should go soon, too, before they get suspicious. 
+Dialogue: 100,0:00:15.72,0:00:18.48,Normal Dialog Text,,0,0,0,,{\rCHS}这俩人表现的非常可疑哇\N{\rENG}Those two are acting very suspicious. 
+Dialogue: 100,0:00:18.52,0:00:20.89,Normal Dialog Text,,0,0,0,,{\rCHS}我们要问问他们在干啥吗\N{\rENG}Should we ask them what's going on? 
+Dialogue: 100,0:00:20.92,0:00:22.32,Normal Dialog Text,,0,0,0,,{\rCHS}我不能\N{\rENG}I can't. 
+Dialogue: 100,0:00:22.36,0:00:24.06,Normal Dialog Text,,0,0,0,,{\rCHS}好吧\N{\rENG}Right. 
+Dialogue: 100,0:00:24.09,0:00:25.86,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文 紫晶\N{\rENG}Steven, Amethyst! 
+Dialogue: 100,0:00:25.89,0:00:28.03,Normal Dialog Text,,0,0,0,,{\rCHS}你们是不是有啥事准备告诉我们呀\N{\rENG}Is there something you'd like to tell us? 
 Dialogue: 100,0:00:28.06,0:00:31.83,Normal Dialog Text,,0,0,0,,{\rCHS}嘛你们应该知道我们最近在副宝宝基地有一场\N{\rENG}So you guys know how we recently had an epic showdown
-Dialogue: 100,0:00:31.87,0:00:33.57,Normal Dialog Text,,0,0,0,,{\rCHS}史诗级别的决战\N{\rENG}in the beta kindergarten.
-Dialogue: 100,0:00:33.60,0:00:36.84,Normal Dialog Text,,0,0,0,,{\rCHS}你们也知道 在那时候 我们打败了铁石英\N{\rENG}And you know that during it, we beat Jasper.
+Dialogue: 100,0:00:31.87,0:00:33.57,Normal Dialog Text,,0,0,0,,{\rCHS}史诗级别的决战\N{\rENG}in the beta kindergarten. 
+Dialogue: 100,0:00:33.60,0:00:36.84,Normal Dialog Text,,0,0,0,,{\rCHS}你们也知道 在那时候 我们打败了铁石英\N{\rENG}And you know that during it, we beat Jasper. 
 Dialogue: 100,0:00:36.87,0:00:39.37,Normal Dialog Text,,0,0,0,,{\rCHS}但是你们知道\N{\rENG}But do you know...
-Dialogue: 100,0:00:39.41,0:00:41.87,Normal Dialog Text,,0,0,0,,{\rCHS}谁打败了她吗\N{\rENG}who beat Jasper?
-Dialogue: 100,0:00:41.91,0:00:43.21,Normal Dialog Text,,0,0,0,,{\rCHS}你俩吗\N{\rENG}You two?
-Dialogue: 100,0:00:43.24,0:00:44.54,Normal Dialog Text,,0,0,0,,{\rCHS}橄榄石\N{\rENG}Peridot.
-Dialogue: 100,0:00:44.58,0:00:45.84,Normal Dialog Text,,0,0,0,,{\rCHS}她们没猜到\N{\rENG}It didn't land.
-Dialogue: 100,0:00:45.88,0:00:47.28,Normal Dialog Text,,0,0,0,,{\rCHS}直接切入正题 切入正题\N{\rENG}Pick it back up. Pick it back up!
-Dialogue: 100,0:00:47.31,0:00:50.65,Normal Dialog Text,,0,0,0,,{\rCHS}咳咳 我们这有个人希望与你们见见面\N{\rENG}Ahem! We have someone we'd like you to meet!
-Dialogue: 100,0:00:50.68,0:00:53.82,Normal Dialog Text,,0,0,0,,{\rCHS}好啊 就让我们见见这位神秘的陌生人吧\N{\rENG}All right, let's meet this mysterious stranger.
-Dialogue: 100,0:00:55.86,0:00:59.02,Normal Dialog Text,,0,0,0,,{\rCHS}嘿呀 我是烟晶\N{\rENG}Heya. I'm Smoky Quartz.
-Dialogue: 100,0:00:59.06,0:01:01.33,Normal Dialog Text,,0,0,0,,{\rCHS}见到你们真是愉快\N{\rENG}Nice to meet ya.
-Dialogue: 100,0:01:01.36,0:01:04.00,Normal Dialog Text,,0,0,0,,{\rCHS}-啥-噢\N{\rENG}-What?!-Oh!
-Dialogue: 100,0:01:04.03,0:01:06.20,Normal Dialog Text,,0,0,0,,{\rCHS}别急着提起吓掉的袜子\N{\rENG}Don't bother putting your socks back on,
-Dialogue: 100,0:01:06.23,0:01:08.77,Normal Dialog Text,,0,0,0,,{\rCHS}精彩的还在后头呢\N{\rENG}'cause I'm about to knock 'em off again!
-Dialogue: 100,0:01:11.00,0:01:14.68,Normal Dialog Text,,0,0,0,,{\rCHS}现在 你们应该能看出我是怎么打败铁石英的了\N{\rENG}Now, you guys can see exactly how I beat Jasper.
-Dialogue: 100,0:01:15.18,0:01:19.14,Normal Dialog Text,,0,0,0,,{\rCHS}这一招我喜欢叫	[与狗漫步]\N{\rENG}This is a little trick I like to call "Walk the Dog"!
-Dialogue: 100,0:01:19.18,0:01:22.41,Normal Dialog Text,,0,0,0,,{\rCHS}等等 谁来解释下这一切\N{\rENG}Wait! Explain everything!
-Dialogue: 100,0:01:22.45,0:01:25.85,Normal Dialog Text,,0,0,0,,{\rCHS}这招叫	[与狗慢跑]\N{\rENG}This one's called "Jog the Dog"!
+Dialogue: 100,0:00:39.41,0:00:41.87,Normal Dialog Text,,0,0,0,,{\rCHS}谁打败了她吗\N{\rENG}who beat Jasper? 
+Dialogue: 100,0:00:41.91,0:00:43.21,Normal Dialog Text,,0,0,0,,{\rCHS}你俩吗\N{\rENG}You two? 
+Dialogue: 100,0:00:43.24,0:00:44.54,Normal Dialog Text,,0,0,0,,{\rCHS}橄榄石\N{\rENG}Peridot. 
+Dialogue: 100,0:00:44.58,0:00:45.84,Normal Dialog Text,,0,0,0,,{\rCHS}她们没猜到\N{\rENG}It didn't land. 
+Dialogue: 100,0:00:45.88,0:00:47.28,Normal Dialog Text,,0,0,0,,{\rCHS}直接切入正题 切入正题\N{\rENG}Pick it back up. Pick it back up! 
+Dialogue: 100,0:00:47.31,0:00:50.65,Normal Dialog Text,,0,0,0,,{\rCHS}咳咳 我们这有个人希望与你们见见面\N{\rENG}Ahem! We have someone we'd like you to meet! 
+Dialogue: 100,0:00:50.68,0:00:53.82,Normal Dialog Text,,0,0,0,,{\rCHS}好啊 就让我们见见这位神秘的陌生人吧\N{\rENG}All right, let's meet this mysterious stranger. 
+Dialogue: 100,0:00:55.86,0:00:59.02,Normal Dialog Text,,0,0,0,,{\rCHS}嘿呀 我是烟晶\N{\rENG}Heya. I'm Smoky Quartz. 
+Dialogue: 100,0:00:59.06,0:01:01.33,Normal Dialog Text,,0,0,0,,{\rCHS}见到你们真是愉快\N{\rENG}Nice to meet ya. 
+Dialogue: 100,0:01:01.36,0:01:04.00,Normal Dialog Text,,0,0,0,,{\rCHS}-啥-噢\N{\rENG}-What?!-Oh! 
+Dialogue: 100,0:01:04.03,0:01:06.20,Normal Dialog Text,,0,0,0,,{\rCHS}别急着提起吓掉的袜子\N{\rENG}Don't bother putting your socks back on, 
+Dialogue: 100,0:01:06.23,0:01:08.77,Normal Dialog Text,,0,0,0,,{\rCHS}精彩的还在后头呢\N{\rENG}'cause I'm about to knock 'em off again! 
+Dialogue: 100,0:01:11.00,0:01:14.68,Normal Dialog Text,,0,0,0,,{\rCHS}现在 你们应该能看出我是怎么打败铁石英的了\N{\rENG}Now, you guys can see exactly how I beat Jasper. 
+Dialogue: 100,0:01:15.18,0:01:19.14,Normal Dialog Text,,0,0,0,,{\rCHS}这一招我喜欢叫 [ 与狗漫步]\N{\rENG}This is a little trick I like to call "Walk the Dog"! 
+Dialogue: 100,0:01:19.18,0:01:22.41,Normal Dialog Text,,0,0,0,,{\rCHS}等等 谁来解释下这一切\N{\rENG}Wait! Explain everything! 
+Dialogue: 100,0:01:22.45,0:01:25.85,Normal Dialog Text,,0,0,0,,{\rCHS}这招叫 [ 与狗慢跑]\N{\rENG}This one's called "Jog the Dog"! 
 Dialogue: 100,0:01:27.75,0:01:30.56,Normal Dialog Text,,0,0,0,,{\rCHS}哎呀 哈 这招叫\N{\rENG}Whoops! Ha! Uh, this one is called
-Dialogue: 100,0:01:30.59,0:01:32.76,Normal Dialog Text,,0,0,0,,{\rCHS}	[遛狗只是我白天的工作\N{\rENG}"Dog Walking's Just My Day Job
-Dialogue: 100,0:01:32.79,0:01:35.06,Normal Dialog Text,,0,0,0,,{\rCHS}直到面试结果出来为止]\N{\rENG}Till I Finally Get That Callback"!
-Dialogue: 100,0:01:35.09,0:01:37.66,Normal Dialog Text,,0,0,0,,{\rCHS}石榴 帮个忙\N{\rENG}Garnet, a little help.
-Dialogue: 100,0:01:38.83,0:01:41.93,Normal Dialog Text,,0,0,0,,{\rCHS}-嗯嗯嗯 -红纹玛瑙\N{\rENG}Mnh-mnh-mnh!  Sardonyx!
-Dialogue: 100,0:01:41.97,0:01:44.20,Normal Dialog Text,,0,0,0,,{\rCHS}你知道室内玩儿武器的规定的\N{\rENG}You know the rules about weapons in the house.
-Dialogue: 100,0:01:44.21,0:01:47.94,Normal Dialog Text,,0,0,0,,{\rCHS}大多数情况可以使用 但是有一些例外\N{\rENG}Mostly allowed, really,but with some exceptions.
-Dialogue: 100,0:01:47.97,0:01:49.84,Normal Dialog Text,,0,0,0,,{\rCHS}见到你真是荣幸\N{\rENG}Oh, what a pleasure it is to meet you.
-Dialogue: 100,0:01:49.88,0:01:51.48,Normal Dialog Text,,0,0,0,,{\rCHS}你已经留下了很深的"印象"了\N{\rENG}You've made quite the impression already.
+Dialogue: 100,0:01:30.59,0:01:32.76,Normal Dialog Text,,0,0,0,,{\rCHS} [ 遛狗只是我白天的工作\N{\rENG}"Dog Walking's Just My Day Job
+Dialogue: 100,0:01:32.79,0:01:35.06,Normal Dialog Text,,0,0,0,,{\rCHS}直到面试结果出来为止]\N{\rENG}Till I Finally Get That Callback"! 
+Dialogue: 100,0:01:35.09,0:01:37.66,Normal Dialog Text,,0,0,0,,{\rCHS}石榴 帮个忙\N{\rENG}Garnet, a little help. 
+Dialogue: 100,0:01:38.83,0:01:41.93,Normal Dialog Text,,0,0,0,,{\rCHS}-嗯嗯嗯-红纹玛瑙\N{\rENG}Mnh-mnh-mnh! Sardonyx! 
+Dialogue: 100,0:01:41.97,0:01:44.20,Normal Dialog Text,,0,0,0,,{\rCHS}你知道室内玩儿武器的规定的\N{\rENG}You know the rules about weapons in the house. 
+Dialogue: 100,0:01:44.21,0:01:47.94,Normal Dialog Text,,0,0,0,,{\rCHS}大多数情况可以使用 但是有一些例外\N{\rENG}Mostly allowed, really, but with some exceptions. 
+Dialogue: 100,0:01:47.97,0:01:49.84,Normal Dialog Text,,0,0,0,,{\rCHS}见到你真是荣幸\N{\rENG}Oh, what a pleasure it is to meet you. 
+Dialogue: 100,0:01:49.88,0:01:51.48,Normal Dialog Text,,0,0,0,,{\rCHS}你已经留下了很深的"印象"了\N{\rENG}You've made quite the impression already. 
 Dialogue: 100,0:01:51.51,0:01:55.38,Normal Dialog Text,,0,0,0,,{\rCHS}你看 墙上那边有一个 还有那里......\N{\rENG}In fact, there's one in the wall over there and there and...
-Dialogue: 100,0:01:55.41,0:01:59.15,Normal Dialog Text,,0,0,0,,{\rCHS}呃 抱歉 看来刚才我有点控计不住我记己\N{\rENG}Uh, sorry. Looks like I got  bit carried away.
-Dialogue: 100,0:01:59.19,0:02:01.82,Normal Dialog Text,,0,0,0,,{\rCHS}我会 呃 收敛一点\N{\rENG}I can, uh...reel it in.
-Dialogue: 100,0:02:04.22,0:02:05.49,Normal Dialog Text,,0,0,0,,{\rCHS}快停下\N{\rENG}Stop!
-Dialogue: 100,0:02:05.52,0:02:07.59,Normal Dialog Text,,0,0,0,,{\rCHS}说真的 别再这么做了\N{\rENG}But really, please -- stop.
-Dialogue: 100,0:02:07.63,0:02:09.29,Normal Dialog Text,,0,0,0,,{\rCHS}你刚才的表演真是太棒了\N{\rENG}Your act is tremendous.
-Dialogue: 100,0:02:09.33,0:02:11.36,Normal Dialog Text,,0,0,0,,{\rCHS}但是给你展示的舞台太小了\N{\rENG}But your stage is too small.
-Dialogue: 100,0:02:11.40,0:02:14.00,Normal Dialog Text,,0,0,0,,{\rCHS}我们需要更大的空间来了解一下彼此\N{\rENG}We need some space to get to know each other.
-Dialogue: 100,0:02:14.03,0:02:18.30,Normal Dialog Text,,0,0,0,,{\rCHS}比如一个...更无限的地方\N{\rENG}Somewhere a bit more... infinite.
-Dialogue: 100,0:02:20.57,0:02:22.81,Normal Dialog Text,,0,0,0,,{\rCHS}你在神庙里有一个专属房间?\N{\rENG}You have a room in the temple?
-Dialogue: 100,0:02:22.84,0:02:26.18,Normal Dialog Text,,0,0,0,,{\rCHS}只要我存在 它就存在\N{\rENG}It exists as long as  I exist.
-Dialogue: 100,0:02:26.21,0:02:30.45,Normal Dialog Text,,0,0,0,,{\rCHS}现在...我...进去了\N{\rENG}And here...I...am!
-Dialogue: 100,0:02:30.48,0:02:33.42,Normal Dialog Text,,0,0,0,,{\rCHS}快来 别害羞\N{\rENG}Come now, don't be shy.
-Dialogue: 100,0:02:35.86,0:02:37.46,Normal Dialog Text,,0,0,0,,{\rCHS}我现在嘛都看不见\N{\rENG}I can't see nothing in here.
-Dialogue: 100,0:02:37.46,0:02:40.99,Normal Dialog Text,,0,0,0,,{\rCHS}是的你看不见任何东西 亲爱的 \N{\rENG}You cannot see anything, my darling --
-Dialogue: 100,0:02:41.03,0:02:43.80,Normal Dialog Text,,0,0,0,,{\rCHS}因为演出还没开始呢\N{\rENG}because the show hasn't started yet!
-Dialogue: 100,0:02:43.83,0:02:45.36,Normal Dialog Text,,0,0,0,,{\rCHS}演出?\N{\rENG}Show?
-Dialogue: 100,0:02:45.37,0:02:47.97,Normal Dialog Text,,0,0,0,,{\rCHS}来自神庙深处的超自然房间的直播\N{\rENG}Live, from a metaphysical room deep in the temple,
-Dialogue: 100,0:02:48.00,0:02:50.00,Normal Dialog Text,,0,0,0,,{\rCHS}欢迎来到"今夜玛瑙秀"\N{\rENG}it's "Sardonyx Tonight"!
-Dialogue: 100,0:02:51.44,0:02:52.94,Normal Dialog Text,,0,0,0,,{\rCHS}大家晚上好\N{\rENG}Good evening, everybody!
-Dialogue: 100,0:02:54.61,0:02:57.14,Normal Dialog Text,,0,0,0,,{\rCHS}今晚我们迎来了一个全新的融合体\N{\rENG}We have a brand-new fusion with us tonight.
-Dialogue: 100,0:02:57.18,0:02:59.51,Normal Dialog Text,,0,0,0,,{\rCHS}我简直要兴奋到要碎掉\N{\rENG}I'm so excited, I could just shatter!
-Dialogue: 100,0:03:01.11,0:03:03.78,Normal Dialog Text,,0,0,0,,{\rCHS}掌声欢迎--烟晶\N{\rENG}Everyone welcome Smoky Quartz!
-Dialogue: 100,0:03:06.35,0:03:07.79,Normal Dialog Text,,0,0,0,,{\rCHS}那么快告诉我\N{\rENG}So tell me, literally,
-Dialogue: 100,0:03:07.82,0:03:09.99,Normal Dialog Text,,0,0,0,,{\rCHS}所有关于你的事\N{\rENG}everything there is to know about yourself.
-Dialogue: 100,0:03:10.02,0:03:13.39,Normal Dialog Text,,0,0,0,,{\rCHS}不要跳过任何有料的细节哦\N{\rENG}And do not skip out on any of the juicy details.
-Dialogue: 100,0:03:15.49,0:03:18.73,Normal Dialog Text,,0,0,0,,{\rCHS}嘛 我挺喜欢在宝宝基地长距离漫步\N{\rENG}Well, I like, uh, long walks through the kindergarten.
-Dialogue: 100,0:03:19.73,0:03:23.08,Normal Dialog Text,,0,0,0,,{\rCHS}实际上 我就是在那里成型的\N{\rENG}actually,that's where I stored up became me.
-Dialogue: 100,0:03:23.10,0:03:25.74,Normal Dialog Text,,0,0,0,,{\rCHS}然后 呃 嘭 --打败了铁石英\N{\rENG}And, uh, pow --beat Jasper.
+Dialogue: 100,0:01:55.41,0:01:59.15,Normal Dialog Text,,0,0,0,,{\rCHS}呃 抱歉 看来刚才我有点控计不住我记己\N{\rENG}Uh, sorry. Looks like I got bit carried away. 
+Dialogue: 100,0:01:59.19,0:02:01.82,Normal Dialog Text,,0,0,0,,{\rCHS}我会 呃 收敛一点\N{\rENG}I can, uh...reel it in. 
+Dialogue: 100,0:02:04.22,0:02:05.49,Normal Dialog Text,,0,0,0,,{\rCHS}快停下\N{\rENG}Stop! 
+Dialogue: 100,0:02:05.52,0:02:07.59,Normal Dialog Text,,0,0,0,,{\rCHS}说真的 别再这么做了\N{\rENG}But really, please--stop. 
+Dialogue: 100,0:02:07.63,0:02:09.29,Normal Dialog Text,,0,0,0,,{\rCHS}你刚才的表演真是太棒了\N{\rENG}Your act is tremendous. 
+Dialogue: 100,0:02:09.33,0:02:11.36,Normal Dialog Text,,0,0,0,,{\rCHS}但是给你展示的舞台太小了\N{\rENG}But your stage is too small. 
+Dialogue: 100,0:02:11.40,0:02:14.00,Normal Dialog Text,,0,0,0,,{\rCHS}我们需要更大的空间来了解一下彼此\N{\rENG}We need some space to get to know each other. 
+Dialogue: 100,0:02:14.03,0:02:18.30,Normal Dialog Text,,0,0,0,,{\rCHS}比如一个...更无限的地方\N{\rENG}Somewhere a bit more...infinite. 
+Dialogue: 100,0:02:20.57,0:02:22.81,Normal Dialog Text,,0,0,0,,{\rCHS}你在神庙里有一个专属房间?\N{\rENG}You have a room in the temple? 
+Dialogue: 100,0:02:22.84,0:02:26.18,Normal Dialog Text,,0,0,0,,{\rCHS}只要我存在 它就存在\N{\rENG}It exists as long as I exist. 
+Dialogue: 100,0:02:26.21,0:02:30.45,Normal Dialog Text,,0,0,0,,{\rCHS}现在...我...进去了\N{\rENG}And here...I...am! 
+Dialogue: 100,0:02:30.48,0:02:33.42,Normal Dialog Text,,0,0,0,,{\rCHS}快来 别害羞\N{\rENG}Come now, don't be shy. 
+Dialogue: 100,0:02:35.86,0:02:37.46,Normal Dialog Text,,0,0,0,,{\rCHS}我现在嘛都看不见\N{\rENG}I can't see nothing in here. 
+Dialogue: 100,0:02:37.46,0:02:40.99,Normal Dialog Text,,0,0,0,,{\rCHS}是的你看不见任何东西 亲爱的 \N{\rENG}You cannot see anything, my darling--
+Dialogue: 100,0:02:41.03,0:02:43.80,Normal Dialog Text,,0,0,0,,{\rCHS}因为演出还没开始呢\N{\rENG}because the show hasn't started yet! 
+Dialogue: 100,0:02:43.83,0:02:45.36,Normal Dialog Text,,0,0,0,,{\rCHS}演出?\N{\rENG}Show? 
+Dialogue: 100,0:02:45.37,0:02:47.97,Normal Dialog Text,,0,0,0,,{\rCHS}来自神庙深处的超自然房间的直播\N{\rENG}Live, from a metaphysical room deep in the temple, 
+Dialogue: 100,0:02:48.00,0:02:50.00,Normal Dialog Text,,0,0,0,,{\rCHS}欢迎来到"今夜玛瑙秀"\N{\rENG}it's "Sardonyx Tonight"! 
+Dialogue: 100,0:02:51.44,0:02:52.94,Normal Dialog Text,,0,0,0,,{\rCHS}大家晚上好\N{\rENG}Good evening, everybody! 
+Dialogue: 100,0:02:54.61,0:02:57.14,Normal Dialog Text,,0,0,0,,{\rCHS}今晚我们迎来了一个全新的融合体\N{\rENG}We have a brand-new fusion with us tonight. 
+Dialogue: 100,0:02:57.18,0:02:59.51,Normal Dialog Text,,0,0,0,,{\rCHS}我简直要兴奋到要碎掉\N{\rENG}I'm so excited, I could just shatter! 
+Dialogue: 100,0:03:01.11,0:03:03.78,Normal Dialog Text,,0,0,0,,{\rCHS}掌声欢迎--烟晶\N{\rENG}Everyone welcome Smoky Quartz! 
+Dialogue: 100,0:03:06.35,0:03:07.79,Normal Dialog Text,,0,0,0,,{\rCHS}那么快告诉我\N{\rENG}So tell me, literally, 
+Dialogue: 100,0:03:07.82,0:03:09.99,Normal Dialog Text,,0,0,0,,{\rCHS}所有关于你的事\N{\rENG}everything there is to know about yourself. 
+Dialogue: 100,0:03:10.02,0:03:13.39,Normal Dialog Text,,0,0,0,,{\rCHS}不要跳过任何有料的细节哦\N{\rENG}And do not skip out on any of the juicy details. 
+Dialogue: 100,0:03:15.49,0:03:18.73,Normal Dialog Text,,0,0,0,,{\rCHS}嘛 我挺喜欢在宝宝基地长距离漫步\N{\rENG}Well, I like, uh, long walks through the kindergarten. 
+Dialogue: 100,0:03:19.73,0:03:23.08,Normal Dialog Text,,0,0,0,,{\rCHS}实际上 我就是在那里成型的\N{\rENG}actually, that's where I stored up became me. 
+Dialogue: 100,0:03:23.10,0:03:25.74,Normal Dialog Text,,0,0,0,,{\rCHS}然后 呃 嘭--打败了铁石英\N{\rENG}And, uh, pow--beat Jasper. 
 Dialogue: 100,0:03:26.96,0:03:30.17,Normal Dialog Text,,0,0,0,,{\rCHS}哦 就是那个铁石英 不断在宝宝基地出没\N{\rENG}Oh, that Jasper, always running 'round kindergartens
-Dialogue: 100,0:03:30.18,0:03:31.44,Normal Dialog Text,,0,0,0,,{\rCHS}四处捣乱\N{\rENG}and causing trouble.
-Dialogue: 100,0:03:31.48,0:03:33.16,Normal Dialog Text,,0,0,0,,{\rCHS}果然最后结局不好呢\N{\rENG}Boy, that didn't quite work out for her.
-Dialogue: 100,0:03:33.58,0:03:36.74,Normal Dialog Text,,0,0,0,,{\rCHS}我猜她得回学前班了 是吧 各位\N{\rENG}Guess she should go back to preschool, am I right, folks?
-Dialogue: 100,0:03:37.86,0:03:38.50,Normal Dialog Text,,0,0,0,,{\rCHS}是啊\N{\rENG}Yeah.
-Dialogue: 100,0:03:39.06,0:03:41.89,Normal Dialog Text,,0,0,0,,{\rCHS}她在与一个堕转宝石的融合时完全发疯了\N{\rENG}She lost her mind in a corrupted fusion.
-Dialogue: 100,0:03:41.92,0:03:44.56,Normal Dialog Text,,0,0,0,,{\rCHS}我想你可以说她进行了一次...短暂的融合\N{\rENG}I guess you could say she had a...short fuse?
-Dialogue: 100,0:03:47.16,0:03:49.56,Normal Dialog Text,,0,0,0,,{\rCHS}观众挺友好,是吧?\N{\rENG}Easy crowd, huh?
-Dialogue: 100,0:03:49.60,0:03:51.26,Normal Dialog Text,,0,0,0,,{\rCHS}哪里找来的?\N{\rENG}Where'd you get 'em?
-Dialogue: 100,0:03:51.30,0:03:53.53,Normal Dialog Text,,0,0,0,,{\rCHS}我变出来的\N{\rENG}I made them myself.
+Dialogue: 100,0:03:30.18,0:03:31.44,Normal Dialog Text,,0,0,0,,{\rCHS}四处捣乱\N{\rENG}and causing trouble. 
+Dialogue: 100,0:03:31.48,0:03:33.16,Normal Dialog Text,,0,0,0,,{\rCHS}果然最后结局不好呢\N{\rENG}Boy, that didn't quite work out for her. 
+Dialogue: 100,0:03:33.58,0:03:36.74,Normal Dialog Text,,0,0,0,,{\rCHS}我猜她得回学前班了 是吧 各位\N{\rENG}Guess she should go back to preschool, am I right, folks? 
+Dialogue: 100,0:03:37.86,0:03:38.50,Normal Dialog Text,,0,0,0,,{\rCHS}是啊\N{\rENG}Yeah. 
+Dialogue: 100,0:03:39.06,0:03:41.89,Normal Dialog Text,,0,0,0,,{\rCHS}她在与一个堕转宝石的融合时完全发疯了\N{\rENG}She lost her mind in a corrupted fusion. 
+Dialogue: 100,0:03:41.92,0:03:44.56,Normal Dialog Text,,0,0,0,,{\rCHS}我想你可以说她进行了一次...短暂的融合\N{\rENG}I guess you could say she had a...short fuse? 
+Dialogue: 100,0:03:47.16,0:03:49.56,Normal Dialog Text,,0,0,0,,{\rCHS}观众挺友好 是吧?\N{\rENG}Easy crowd, huh? 
+Dialogue: 100,0:03:49.60,0:03:51.26,Normal Dialog Text,,0,0,0,,{\rCHS}哪里找来的?\N{\rENG}Where'd you get 'em? 
+Dialogue: 100,0:03:51.30,0:03:53.53,Normal Dialog Text,,0,0,0,,{\rCHS}我变出来的\N{\rENG}I made them myself. 
 Dialogue: 100,0:03:53.57,0:03:58.47,Normal Dialog Text,,0,0,0,,{\rCHS}但烟晶 我想我们真正好奇的是...\N{\rENG}But, Smoky, I think what we really want to know is...
-Dialogue: 100,0:03:58.51,0:04:00.07,Normal Dialog Text,,0,0,0,,{\rCHS}你究竟是谁\N{\rENG}who are you?
-Dialogue: 100,0:04:00.11,0:04:03.91,Normal Dialog Text,,0,0,0,,{\rCHS}烟晶...是谁\N{\rENG}Who is...Smoky...Quartz?
-Dialogue: 100,0:04:03.94,0:04:05.78,Normal Dialog Text,,0,0,0,,{\rCHS}呃 嘛 现在加上战斗的时候\N{\rENG}Uh, well, between the fight and now, yeah,
+Dialogue: 100,0:03:58.51,0:04:00.07,Normal Dialog Text,,0,0,0,,{\rCHS}你究竟是谁\N{\rENG}who are you? 
+Dialogue: 100,0:04:00.11,0:04:03.91,Normal Dialog Text,,0,0,0,,{\rCHS}烟晶...是谁\N{\rENG}Who is...Smoky...Quartz? 
+Dialogue: 100,0:04:03.94,0:04:05.78,Normal Dialog Text,,0,0,0,,{\rCHS}呃 嘛 现在加上战斗的时候\N{\rENG}Uh, well, between the fight and now, yeah, 
 Dialogue: 100,0:04:05.81,0:04:10.68,Normal Dialog Text,,0,0,0,,{\rCHS}我总共才存在了 大概 十分钟 所以 呃\N{\rENG}I've only really existed for, like, 10 minutes, so, uh...
-Dialogue: 100,0:04:10.72,0:04:12.08,Normal Dialog Text,,0,0,0,,{\rCHS}我 我不知道\N{\rENG}I-I don't know.
+Dialogue: 100,0:04:10.72,0:04:12.08,Normal Dialog Text,,0,0,0,,{\rCHS}我 我不知道\N{\rENG}I-I don't know. 
 Dialogue: 100,0:04:12.12,0:04:14.15,Normal Dialog Text,,0,0,0,,{\rCHS}但是我知道怎么做这个 \N{\rENG}But I do know how to do this! Uh...
-Dialogue: 100,0:04:14.19,0:04:17.96,Normal Dialog Text,,0,0,0,,{\rCHS}这招叫	[裹在纸尿裤里的忧郁婴儿]\N{\rENG}This one's called "Sad Baby in a Diaper"!
-Dialogue: 100,0:04:19.53,0:04:20.76,Normal Dialog Text,,0,0,0,,{\rCHS}对 溜溜球\N{\rENG}Yes, the yo-yo.
-Dialogue: 100,0:04:20.79,0:04:22.76,Normal Dialog Text,,0,0,0,,{\rCHS}看过 体验过 喜欢过\N{\rENG}Seen it,lived it,loved it!
-Dialogue: 100,0:04:22.80,0:04:25.36,Normal Dialog Text,,0,0,0,,{\rCHS}但是你有其他的技能吗\N{\rENG}But what about the rest of your game?
-Dialogue: 100,0:04:25.40,0:04:28.03,Normal Dialog Text,,0,0,0,,{\rCHS}我的把戏哪有扑克牌那么多啦\N{\rENG}I ain't exactly a deck of cards here.
-Dialogue: 100,0:04:29.57,0:04:31.17,Normal Dialog Text,,0,0,0,,{\rCHS}哦 我倒可以舔到我的胳膊肘\N{\rENG}I  can lick my elbow.
-Dialogue: 100,0:04:31.20,0:04:32.77,Normal Dialog Text,,0,0,0,,{\rCHS}现在我可有三个咧\N{\rENG}I have three of them now.
-Dialogue: 100,0:04:33.68,0:04:37.18,Normal Dialog Text,,0,0,0,,{\rCHS}现在由赞助商讲两句话,广告之后马上回来\N{\rENG}We'll be right back after a word from our sponsor!
-Dialogue: 100,0:04:38.95,0:04:41.82,Normal Dialog Text,,0,0,0,,{\rCHS}听着 小烟 让我们来一场融合体之间的对话\N{\rENG} Listen, Smoky, let's talk -- fusion to fusion.
-Dialogue: 100,0:04:42.26,0:04:46.59,Normal Dialog Text,,0,0,0,,{\rCHS}你的溜溜球确实不错 但我更想了解你本人\N{\rENG}That's a nice yo-yo, but I want to know the yo-you.
-Dialogue: 100,0:04:46.62,0:04:47.75,Normal Dialog Text,,0,0,0,,{\rCHS}啊\N{\rENG}What?
+Dialogue: 100,0:04:14.19,0:04:17.96,Normal Dialog Text,,0,0,0,,{\rCHS}这招叫 [ 裹在纸尿裤里的忧郁婴儿]\N{\rENG}This one's called "Sad Baby in a Diaper"! 
+Dialogue: 100,0:04:19.53,0:04:20.76,Normal Dialog Text,,0,0,0,,{\rCHS}对 溜溜球\N{\rENG}Yes, the yo-yo. 
+Dialogue: 100,0:04:20.79,0:04:22.76,Normal Dialog Text,,0,0,0,,{\rCHS}看过 体验过 喜欢过\N{\rENG}Seen it, lived it, loved it! 
+Dialogue: 100,0:04:22.80,0:04:25.36,Normal Dialog Text,,0,0,0,,{\rCHS}但是你有其他的技能吗\N{\rENG}But what about the rest of your game? 
+Dialogue: 100,0:04:25.40,0:04:28.03,Normal Dialog Text,,0,0,0,,{\rCHS}我的把戏哪有扑克牌那么多啦\N{\rENG}I ain't exactly a deck of cards here. 
+Dialogue: 100,0:04:29.57,0:04:31.17,Normal Dialog Text,,0,0,0,,{\rCHS}哦 我倒可以舔到我的胳膊肘\N{\rENG}I can lick my elbow. 
+Dialogue: 100,0:04:31.20,0:04:32.77,Normal Dialog Text,,0,0,0,,{\rCHS}现在我可有三个咧\N{\rENG}I have three of them now. 
+Dialogue: 100,0:04:33.68,0:04:37.18,Normal Dialog Text,,0,0,0,,{\rCHS}现在由赞助商讲两句话 广告之后马上回来\N{\rENG}We'll be right back after a word from our sponsor! 
+Dialogue: 100,0:04:38.95,0:04:41.82,Normal Dialog Text,,0,0,0,,{\rCHS}听着 小烟 让我们来一场融合体之间的对话\N{\rENG} Listen, Smoky, let's talk--fusion to fusion. 
+Dialogue: 100,0:04:42.26,0:04:46.59,Normal Dialog Text,,0,0,0,,{\rCHS}你的溜溜球确实不错 但我更想了解你本人\N{\rENG}That's a nice yo-yo, but I want to know the yo-you. 
+Dialogue: 100,0:04:46.62,0:04:47.75,Normal Dialog Text,,0,0,0,,{\rCHS}啊\N{\rENG}What? 
 Dialogue: 100,0:04:47.79,0:04:52.26,Normal Dialog Text,,0,0,0,,{\rCHS}小烟 你除了溜溜球之外肯定\N{\rENG}Smoky, there's bound to be way more to you than just...
-Dialogue: 100,0:04:52.29,0:04:53.79,Normal Dialog Text,,0,0,0,,{\rCHS}还有更多\N{\rENG}a yo-yo.
-Dialogue: 100,0:04:53.83,0:04:55.23,Normal Dialog Text,,0,0,0,,{\rCHS}你是一个融合体\N{\rENG}You're a fusion.
-Dialogue: 100,0:04:55.26,0:04:57.76,Normal Dialog Text,,0,0,0,,{\rCHS}你是充满了惊喜的\N{\rENG}You're full of surprises!
-Dialogue: 100,0:04:57.80,0:04:59.20,Normal Dialog Text,,0,0,0,,{\rCHS}只是你现在还不知道罢了\N{\rENG}You just don't know it yet.
+Dialogue: 100,0:04:52.29,0:04:53.79,Normal Dialog Text,,0,0,0,,{\rCHS}还有更多\N{\rENG}a yo-yo. 
+Dialogue: 100,0:04:53.83,0:04:55.23,Normal Dialog Text,,0,0,0,,{\rCHS}你是一个融合体\N{\rENG}You're a fusion. 
+Dialogue: 100,0:04:55.26,0:04:57.76,Normal Dialog Text,,0,0,0,,{\rCHS}你是充满了惊喜的\N{\rENG}You're full of surprises! 
+Dialogue: 100,0:04:57.80,0:04:59.20,Normal Dialog Text,,0,0,0,,{\rCHS}只是你现在还不知道罢了\N{\rENG}You just don't know it yet. 
 Dialogue: 600,0:04:57.80,0:04:59.20,Hint,,0,0,0,,红玛瑙拿铅笔的姿势源自脱口秀主持人David Letterman
-Dialogue: 100,0:04:59.23,0:05:03.30,Normal Dialog Text,,0,0,0,,{\rCHS}对,对啊,惊喜就是你不知道的事嘛\N{\rENG}Yeah. Yeah, I guess that is how surprises work.
-Dialogue: 100,0:05:05.34,0:05:05.90,Normal Dialog Text,,0,0,0,,{\rCHS}我想到了!\N{\rENG}I've got it!
-Dialogue: 100,0:05:05.94,0:05:09.44,Normal Dialog Text,,0,0,0,,{\rCHS}每个融合都会获得一些新的东西\N{\rENG}Every fusion gets something new --
+Dialogue: 100,0:04:59.23,0:05:03.30,Normal Dialog Text,,0,0,0,,{\rCHS}对 对啊 惊喜就是你不知道的事嘛\N{\rENG}Yeah. Yeah, I guess that is how surprises work. 
+Dialogue: 100,0:05:05.34,0:05:05.90,Normal Dialog Text,,0,0,0,,{\rCHS}我想到了!\N{\rENG}I've got it! 
+Dialogue: 100,0:05:05.94,0:05:09.44,Normal Dialog Text,,0,0,0,,{\rCHS}每个融合都会获得一些新的东西\N{\rENG}Every fusion gets something new--
 Dialogue: 600,0:05:06.74,0:05:08.53,Hint,,0,0,0,,这里的尖叫声是著名的"Wilhelm scream"
-Dialogue: 100,0:05:09.48,0:05:11.64,Normal Dialog Text,,0,0,0,,{\rCHS}比如一种新能力,或者新武器\N{\rENG}a new power, a new weapon.
-Dialogue: 100,0:05:11.68,0:05:13.21,Normal Dialog Text,,0,0,0,,{\rCHS}比如悠悠球?\N{\rENG}Like a yo-yo?
-Dialogue: 100,0:05:13.25,0:05:14.45,Normal Dialog Text,,0,0,0,,{\rCHS}对,但比那好\N{\rENG}Yes, but better.
-Dialogue: 100,0:05:14.48,0:05:18.12,Normal Dialog Text,,0,0,0,,{\rCHS}我们来找找你身上有什么新的地方\N{\rENG}Let's find out what's new about you.
-Dialogue: 100,0:05:20.09,0:05:21.69,Normal Dialog Text,,0,0,0,,{\rCHS}欢迎回来!\N{\rENG}And welcome back!
+Dialogue: 100,0:05:09.48,0:05:11.64,Normal Dialog Text,,0,0,0,,{\rCHS}比如一种新能力 或者新武器\N{\rENG}a new power, a new weapon. 
+Dialogue: 100,0:05:11.68,0:05:13.21,Normal Dialog Text,,0,0,0,,{\rCHS}比如悠悠球?\N{\rENG}Like a yo-yo? 
+Dialogue: 100,0:05:13.25,0:05:14.45,Normal Dialog Text,,0,0,0,,{\rCHS}对 但比那好\N{\rENG}Yes, but better. 
+Dialogue: 100,0:05:14.48,0:05:18.12,Normal Dialog Text,,0,0,0,,{\rCHS}我们来找找你身上有什么新的地方\N{\rENG}Let's find out what's new about you. 
+Dialogue: 100,0:05:20.09,0:05:21.69,Normal Dialog Text,,0,0,0,,{\rCHS}欢迎回来!\N{\rENG}And welcome back! 
 Dialogue: 100,0:05:21.72,0:05:23.02,Normal Dialog Text,,0,0,0,,{\rCHS}那些卡通人物肯定让你\N{\rENG}Don't those cartoon characters
-Dialogue: 100,0:05:23.06,0:05:24.59,Normal Dialog Text,,0,0,0,,{\rCHS}超想买她们的周边对吧\N{\rENG}make you want to buy those products?
-Dialogue: 100,0:05:24.62,0:05:26.99,Normal Dialog Text,,0,0,0,,{\rCHS}但愿如此,不然我就没钱赚了\N{\rENG}I sure hope so,or else I'd be off air.
-Dialogue: 100,0:05:29.00,0:05:31.43,Normal Dialog Text,,0,0,0,,{\rCHS}今晚我们为你准备了一个新环节\N{\rENG}We have a new segment for you all tonight.
-Dialogue: 100,0:05:31.46,0:05:32.54,Normal Dialog Text,,0,0,0,,{\rCHS}没错,各位\N{\rENG}That's right, everyone.
-Dialogue: 100,0:05:32.54,0:05:38.17,Normal Dialog Text,,0,0,0,,{\rCHS}现在进入"打-个-鸟"\N{\rENG}It's time to Hit That Bird!
-Dialogue: 100,0:05:38.20,0:05:40.14,Normal Dialog Text,,0,0,0,,{\rCHS}欧珀在天空塔的冒险当中\N{\rENG}During Opal's adventures at the sky spire,
-Dialogue: 100,0:05:40.17,0:05:45.28,Normal Dialog Text,,0,0,0,,{\rCHS}她用弓箭打掉了一群怪物鸟\N{\rENG}she took down a flock ofbird monsters with her bow.
-Dialogue: 100,0:05:45.31,0:05:49.45,Normal Dialog Text,,0,0,0,,{\rCHS}我们来看看你有没有她的"珀"力吧\N{\rENG}Let's see if you've got her "opalescent" aim.
-Dialogue: 100,0:05:49.48,0:05:50.98,Normal Dialog Text,,0,0,0,,{\rCHS}你怎么想,小烟?\N{\rENG}What do you say, Smoky?
-Dialogue: 100,0:05:51.02,0:05:53.52,Normal Dialog Text,,0,0,0,,{\rCHS}你准备好打个鸟了吗?\N{\rENG}Are you ready to Hit That Bird?
-Dialogue: 100,0:05:53.52,0:05:57.32,Normal Dialog Text,,0,0,0,,{\rCHS}哦,啊,这个,弓箭也算一种悠悠球是吧?\N{\rENG}Oh! Ah, well, a bow is kind of like a yo-yo, right?
+Dialogue: 100,0:05:23.06,0:05:24.59,Normal Dialog Text,,0,0,0,,{\rCHS}超想买她们的周边对吧\N{\rENG}make you want to buy those products? 
+Dialogue: 100,0:05:24.62,0:05:26.99,Normal Dialog Text,,0,0,0,,{\rCHS}但愿如此 不然我就没钱赚了\N{\rENG}I sure hope so, or else I'd be off air. 
+Dialogue: 100,0:05:29.00,0:05:31.43,Normal Dialog Text,,0,0,0,,{\rCHS}今晚我们为你准备了一个新环节\N{\rENG}We have a new segment for you all tonight. 
+Dialogue: 100,0:05:31.46,0:05:32.54,Normal Dialog Text,,0,0,0,,{\rCHS}没错 各位\N{\rENG}That's right, everyone. 
+Dialogue: 100,0:05:32.54,0:05:38.17,Normal Dialog Text,,0,0,0,,{\rCHS}现在进入"打-个-鸟"\N{\rENG}It's time to Hit That Bird! 
+Dialogue: 100,0:05:38.20,0:05:40.14,Normal Dialog Text,,0,0,0,,{\rCHS}欧珀在天空塔的冒险当中\N{\rENG}During Opal's adventures at the sky spire, 
+Dialogue: 100,0:05:40.17,0:05:45.28,Normal Dialog Text,,0,0,0,,{\rCHS}她用弓箭打掉了一群怪物鸟\N{\rENG}she took down a flock ofbird monsters with her bow. 
+Dialogue: 100,0:05:45.31,0:05:49.45,Normal Dialog Text,,0,0,0,,{\rCHS}我们来看看你有没有她的"珀"力吧\N{\rENG}Let's see if you've got her "opalescent"aim. 
+Dialogue: 100,0:05:49.48,0:05:50.98,Normal Dialog Text,,0,0,0,,{\rCHS}你怎么想 小烟?\N{\rENG}What do you say, Smoky? 
+Dialogue: 100,0:05:51.02,0:05:53.52,Normal Dialog Text,,0,0,0,,{\rCHS}你准备好打个鸟了吗?\N{\rENG}Are you ready to Hit That Bird? 
+Dialogue: 100,0:05:53.52,0:05:57.32,Normal Dialog Text,,0,0,0,,{\rCHS}哦 啊 这个 弓箭也算一种悠悠球是吧?\N{\rENG}Oh! Ah, well, a bow is kind of like a yo-yo, right? 
 Dialogue: 100,0:05:57.36,0:06:00.83,Normal Dialog Text,,0,0,0,,{\rCHS}除了上面的弦方向不一样还有...\N{\rENG}Except if the string went this a ways and...
-Dialogue: 100,0:06:00.86,0:06:02.19,Normal Dialog Text,,0,0,0,,{\rCHS}嗯哼\N{\rENG}Mm-hmm.
-Dialogue: 100,0:06:02.23,0:06:03.70,Normal Dialog Text,,0,0,0,,{\rCHS}现在开始,如何?\N{\rENG}Let's start, shall we?
-Dialogue: 100,0:06:03.73,0:06:05.56,Normal Dialog Text,,0,0,0,,{\rCHS}时间可不等人哦!\N{\rENG}Time is an impatient thing!
-Dialogue: 100,0:06:16.21,0:06:18.01,Normal Dialog Text,,0,0,0,,{\rCHS}哦!\N{\rENG}Oh!
-Dialogue: 100,0:06:19.55,0:06:21.61,Normal Dialog Text,,0,0,0,,{\rCHS}啊哦,时间到\N{\rENG}Uh-oh, time's up.
-Dialogue: 100,0:06:21.65,0:06:22.88,Normal Dialog Text,,0,0,0,,{\rCHS}我们来看看\N{\rENG}Let's see.
+Dialogue: 100,0:06:00.86,0:06:02.19,Normal Dialog Text,,0,0,0,,{\rCHS}嗯哼\N{\rENG}Mm-hmm. 
+Dialogue: 100,0:06:02.23,0:06:03.70,Normal Dialog Text,,0,0,0,,{\rCHS}现在开始 如何?\N{\rENG}Let's start, shall we? 
+Dialogue: 100,0:06:03.73,0:06:05.56,Normal Dialog Text,,0,0,0,,{\rCHS}时间可不等人哦!\N{\rENG}Time is an impatient thing! 
+Dialogue: 100,0:06:16.21,0:06:18.01,Normal Dialog Text,,0,0,0,,{\rCHS}哦!\N{\rENG}Oh! 
+Dialogue: 100,0:06:19.55,0:06:21.61,Normal Dialog Text,,0,0,0,,{\rCHS}啊哦 时间到\N{\rENG}Uh-oh, time's up. 
+Dialogue: 100,0:06:21.65,0:06:22.88,Normal Dialog Text,,0,0,0,,{\rCHS}我们来看看\N{\rENG}Let's see. 
 Dialogue: 100,0:06:22.92,0:06:24.48,Normal Dialog Text,,0,0,0,,{\rCHS}分数加起来是\N{\rENG}The score tallies to...
-Dialogue: 100,0:06:24.52,0:06:25.75,Normal Dialog Text,,0,0,0,,{\rCHS}一,二,三...\N{\rENG}one, two, three...
-Dialogue: 100,0:06:25.79,0:06:27.12,Normal Dialog Text,,0,0,0,,{\rCHS}零分\N{\rENG}zero.
-Dialogue: 100,0:06:27.15,0:06:30.29,Normal Dialog Text,,0,0,0,,{\rCHS}我想我真是持盾呢,哈\N{\rENG}Guess I'm a real bow-zo, ha.
-Dialogue: 100,0:06:30.32,0:06:35.66,Normal Dialog Text,,0,0,0,,{\rCHS}我们向前进入下一个环节如何啊,各位?\N{\rENG}What do you say we move on to the next segment, everybody?
-Dialogue: 100,0:06:35.69,0:06:37.00,Normal Dialog Text,,0,0,0,,{\rCHS}我们到了!\N{\rENG}Here we are!
+Dialogue: 100,0:06:24.52,0:06:25.75,Normal Dialog Text,,0,0,0,,{\rCHS}一 二 三...\N{\rENG}one, two, three...
+Dialogue: 100,0:06:25.79,0:06:27.12,Normal Dialog Text,,0,0,0,,{\rCHS}零分\N{\rENG}zero. 
+Dialogue: 100,0:06:27.15,0:06:30.29,Normal Dialog Text,,0,0,0,,{\rCHS}我想我真是持盾呢 哈\N{\rENG}Guess I'm a real bow-zo, ha. 
+Dialogue: 100,0:06:30.32,0:06:35.66,Normal Dialog Text,,0,0,0,,{\rCHS}我们向前进入下一个环节如何啊 各位?\N{\rENG}What do you say we move on to the next segment, everybody? 
+Dialogue: 100,0:06:35.69,0:06:37.00,Normal Dialog Text,,0,0,0,,{\rCHS}我们到了!\N{\rENG}Here we are! 
 Dialogue: 100,0:06:37.03,0:06:38.63,Normal Dialog Text,,0,0,0,,{\rCHS}我把这个环节叫...\N{\rENG}I call this segment...
-Dialogue: 100,0:06:38.66,0:06:40.43,Normal Dialog Text,,0,0,0,,{\rCHS}你喜欢吗,小个子?\N{\rENG}You Like That, Little Man?
-Dialogue: 100,0:06:40.47,0:06:42.20,Normal Dialog Text,,0,0,0,,{\rCHS}因为人人都喜欢往期回顾嘛\N{\rENG}'Cause everybody loves a callback.
-Dialogue: 100,0:06:43.64,0:06:46.07,Normal Dialog Text,,0,0,0,,{\rCHS}她没有真的出演本集\N{\rENG}She's not actually in this episode.
-Dialogue: 100,0:06:46.11,0:06:47.51,Normal Dialog Text,,0,0,0,,{\rCHS}这样还要付她工资吗\N{\rENG}Do we still have to pay her?
-Dialogue: 100,0:06:47.54,0:06:48.37,Normal Dialog Text,,0,0,0,,{\rCHS}要?好吧\N{\rENG}Yes? Fair enough.
-Dialogue: 100,0:06:48.41,0:06:53.01,Normal Dialog Text,,0,0,0,,{\rCHS}好,融合之后能力会提升,这已是公开的秘密了\N{\rENG}Now, it's no secret that us fine fusions pack an extra punch.
+Dialogue: 100,0:06:38.66,0:06:40.43,Normal Dialog Text,,0,0,0,,{\rCHS}你喜欢吗 小个子?\N{\rENG}You Like That, Little Man? 
+Dialogue: 100,0:06:40.47,0:06:42.20,Normal Dialog Text,,0,0,0,,{\rCHS}因为人人都喜欢往期回顾嘛\N{\rENG}'Cause everybody loves a callback. 
+Dialogue: 100,0:06:43.64,0:06:46.07,Normal Dialog Text,,0,0,0,,{\rCHS}她没有真的出演本集\N{\rENG}She's not actually in this episode. 
+Dialogue: 100,0:06:46.11,0:06:47.51,Normal Dialog Text,,0,0,0,,{\rCHS}这样还要付她工资吗\N{\rENG}Do we still have to pay her? 
+Dialogue: 100,0:06:47.54,0:06:48.37,Normal Dialog Text,,0,0,0,,{\rCHS}要? 好吧\N{\rENG}Yes? Fair enough. 
+Dialogue: 100,0:06:48.41,0:06:53.01,Normal Dialog Text,,0,0,0,,{\rCHS}好 融合之后能力会提升 这已是公开的秘密了\N{\rENG}Now, it's no secret that us fine fusions pack an extra punch. 
 Dialogue: 100,0:06:53.05,0:06:54.55,Normal Dialog Text,,0,0,0,,{\rCHS}苏纪石因其强有力\N{\rENG}But Sugilite is a standout
-Dialogue: 100,0:06:54.58,0:06:56.78,Normal Dialog Text,,0,0,0,,{\rCHS}的击打能力而鹤立鸡群\N{\rENG}for being a heavy hitting powerhouse.
-Dialogue: 100,0:06:56.82,0:07:02.72,Normal Dialog Text,,0,0,0,,{\rCHS}但是也许你有一些比苏纪石更厉害的招数?\N{\rENG}But maybe you've got something to top Sugilite's swing?
-Dialogue: 100,0:07:02.76,0:07:07.16,Normal Dialog Text,,0,0,0,,{\rCHS}嗯,也许吧?\N{\rENG}Mmm, maybe?
-Dialogue: 100,0:07:07.19,0:07:09.06,Normal Dialog Text,,0,0,0,,{\rCHS}用这个槌来击打垫子\N{\rENG}Just hit the base with this mallet,
-Dialogue: 100,0:07:09.10,0:07:11.36,Normal Dialog Text,,0,0,0,,{\rCHS}来看看你能力有多强\N{\rENG}and we'll see how you measure up.
-Dialogue: 100,0:07:11.40,0:07:13.63,Normal Dialog Text,,0,0,0,,{\rCHS}好\N{\rENG}Okay.
-Dialogue: 100,0:07:19.71,0:07:21.07,Normal Dialog Text,,0,0,0,,{\rCHS}你就这水平?\N{\rENG}That all you got?
-Dialogue: 100,0:07:21.11,0:07:22.71,Normal Dialog Text,,0,0,0,,{\rCHS}天了\N{\rENG}Gosh.
-Dialogue: 100,0:07:22.74,0:07:24.44,Normal Dialog Text,,0,0,0,,{\rCHS}哦!非常接近了!\N{\rENG}Ooh! Very close.
-Dialogue: 100,0:07:24.48,0:07:27.21,Normal Dialog Text,,0,0,0,,{\rCHS}加上一些旋转动作会更好哦\N{\rENG}An extra spin around always helps me!
-Dialogue: 100,0:07:30.58,0:07:32.52,Normal Dialog Text,,0,0,0,,{\rCHS}旋转动作,是吗?\N{\rENG}An extra spin, huh?
-Dialogue: 100,0:07:32.55,0:07:34.95,Normal Dialog Text,,0,0,0,,{\rCHS}好吧\N{\rENG}Okay.
-Dialogue: 100,0:07:36.72,0:07:38.79,Normal Dialog Text,,0,0,0,,{\rCHS}哈哈,想得美!\N{\rENG}Ha ha! Nice try!
-Dialogue: 100,0:07:38.82,0:07:40.16,Normal Dialog Text,,0,0,0,,{\rCHS}啥!\N{\rENG}What?!
-Dialogue: 100,0:07:40.19,0:07:41.96,Normal Dialog Text,,0,0,0,,{\rCHS}再来一次!\N{\rENG}One more time!
-Dialogue: 100,0:07:44.33,0:07:47.73,Normal Dialog Text,,0,0,0,,{\rCHS}你...啥也...不是!\N{\rENG}You...ain't...nothing!
-Dialogue: 100,0:07:49.04,0:07:50.34,Normal Dialog Text,,0,0,0,,{\rCHS}嗯,好\N{\rENG}Hmm, yes.
-Dialogue: 100,0:07:50.37,0:07:52.24,Normal Dialog Text,,0,0,0,,{\rCHS}确实有什么不对的地方\N{\rENG}Something just isn't hitting right here.
+Dialogue: 100,0:06:54.58,0:06:56.78,Normal Dialog Text,,0,0,0,,{\rCHS}的击打能力而鹤立鸡群\N{\rENG}for being a heavy hitting powerhouse. 
+Dialogue: 100,0:06:56.82,0:07:02.72,Normal Dialog Text,,0,0,0,,{\rCHS}但是也许你有一些比苏纪石更厉害的招数?\N{\rENG}But maybe you've got something to top Sugilite's swing? 
+Dialogue: 100,0:07:02.76,0:07:07.16,Normal Dialog Text,,0,0,0,,{\rCHS}嗯 也许吧?\N{\rENG}Mmm, maybe? 
+Dialogue: 100,0:07:07.19,0:07:09.06,Normal Dialog Text,,0,0,0,,{\rCHS}用这个槌来击打垫子\N{\rENG}Just hit the base with this mallet, 
+Dialogue: 100,0:07:09.10,0:07:11.36,Normal Dialog Text,,0,0,0,,{\rCHS}来看看你能力有多强\N{\rENG}and we'll see how you measure up. 
+Dialogue: 100,0:07:11.40,0:07:13.63,Normal Dialog Text,,0,0,0,,{\rCHS}好\N{\rENG}Okay. 
+Dialogue: 100,0:07:19.71,0:07:21.07,Normal Dialog Text,,0,0,0,,{\rCHS}你就这水平?\N{\rENG}That all you got? 
+Dialogue: 100,0:07:21.11,0:07:22.71,Normal Dialog Text,,0,0,0,,{\rCHS}天了\N{\rENG}Gosh. 
+Dialogue: 100,0:07:22.74,0:07:24.44,Normal Dialog Text,,0,0,0,,{\rCHS}哦! 非常接近了!\N{\rENG}Ooh! Very close. 
+Dialogue: 100,0:07:24.48,0:07:27.21,Normal Dialog Text,,0,0,0,,{\rCHS}加上一些旋转动作会更好哦\N{\rENG}An extra spin around always helps me! 
+Dialogue: 100,0:07:30.58,0:07:32.52,Normal Dialog Text,,0,0,0,,{\rCHS}旋转动作 是吗?\N{\rENG}An extra spin, huh? 
+Dialogue: 100,0:07:32.55,0:07:34.95,Normal Dialog Text,,0,0,0,,{\rCHS}好吧\N{\rENG}Okay. 
+Dialogue: 100,0:07:36.72,0:07:38.79,Normal Dialog Text,,0,0,0,,{\rCHS}哈哈 想得美!\N{\rENG}Ha ha! Nice try! 
+Dialogue: 100,0:07:38.82,0:07:40.16,Normal Dialog Text,,0,0,0,,{\rCHS}啥!\N{\rENG}What?! 
+Dialogue: 100,0:07:40.19,0:07:41.96,Normal Dialog Text,,0,0,0,,{\rCHS}再来一次!\N{\rENG}One more time! 
+Dialogue: 100,0:07:44.33,0:07:47.73,Normal Dialog Text,,0,0,0,,{\rCHS}你...啥也...不是!\N{\rENG}You...ain't...nothing! 
+Dialogue: 100,0:07:49.04,0:07:50.34,Normal Dialog Text,,0,0,0,,{\rCHS}嗯 好\N{\rENG}Hmm, yes. 
+Dialogue: 100,0:07:50.37,0:07:52.24,Normal Dialog Text,,0,0,0,,{\rCHS}确实有什么不对的地方\N{\rENG}Something just isn't hitting right here. 
 Dialogue: 100,0:07:52.27,0:07:53.87,Normal Dialog Text,,0,0,0,,{\rCHS}也许你的强壮\N{\rENG}Maybe you're just strong...
 Dialogue: 200,0:07:53.91,0:07:55.81,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}♪表现在别处 \N{\rENG_LYC}♪In a different way
-Dialogue: 100,0:07:55.84,0:07:57.44,Normal Dialog Text,,0,0,0,,{\rCHS}我们很快回来\N{\rENG}We'll find out in just a moment.
-Dialogue: 100,0:07:57.44,0:07:59.68,Normal Dialog Text,,0,0,0,,{\rCHS}放出场音乐,乔治\N{\rENG}Play us over to stage right,Jorge!
+Dialogue: 100,0:07:55.84,0:07:57.44,Normal Dialog Text,,0,0,0,,{\rCHS}我们很快回来\N{\rENG}We'll find out in just a moment. 
+Dialogue: 100,0:07:57.44,0:07:59.68,Normal Dialog Text,,0,0,0,,{\rCHS}放出场音乐 乔治\N{\rENG}Play us over to stage right, Jorge! 
 Dialogue: 100,0:07:59.71,0:08:00.95,Normal Dialog Text,,0,0,0,,{\rCHS}呃...\N{\rENG}Uh...
-Dialogue: 100,0:08:00.98,0:08:02.65,Normal Dialog Text,,0,0,0,,{\rCHS}好了,别担心那些观众\N{\rENG}Okay, don't worry about that crowd.
-Dialogue: 100,0:08:02.68,0:08:06.49,Normal Dialog Text,,0,0,0,,{\rCHS}也别想乔治了,就只有你和我\N{\rENG}Don't worry about Jorge.It's just you and me.
-Dialogue: 100,0:08:06.52,0:08:08.19,Normal Dialog Text,,0,0,0,,{\rCHS}对啊,没问题\N{\rENG}Yeah, no duh.
-Dialogue: 100,0:08:08.22,0:08:10.15,Normal Dialog Text,,0,0,0,,{\rCHS}那个...谁是乔治啊?\N{\rENG}Actually...who's Jorge?
-Dialogue: 100,0:08:10.19,0:08:12.22,Normal Dialog Text,,0,0,0,,{\rCHS}小烟,你不要隐藏实力\N{\rENG}Smoky,you're holding out on me.
-Dialogue: 100,0:08:12.26,0:08:14.93,Normal Dialog Text,,0,0,0,,{\rCHS}我准备好看你的能力了\N{\rENG}I'm ready to see your main event.
-Dialogue: 100,0:08:14.96,0:08:16.76,Normal Dialog Text,,0,0,0,,{\rCHS}啊,我也是\N{\rENG}Ah, you and me both.
-Dialogue: 100,0:08:16.80,0:08:20.43,Normal Dialog Text,,0,0,0,,{\rCHS}好,亚历山大石有喷火的能力\N{\rENG}Now, Alexandrite has a throat full of flames.
+Dialogue: 100,0:08:00.98,0:08:02.65,Normal Dialog Text,,0,0,0,,{\rCHS}好了 别担心那些观众\N{\rENG}Okay, don't worry about that crowd. 
+Dialogue: 100,0:08:02.68,0:08:06.49,Normal Dialog Text,,0,0,0,,{\rCHS}也别想乔治了 就只有你和我\N{\rENG}Don't worry about Jorge. It's just you and me. 
+Dialogue: 100,0:08:06.52,0:08:08.19,Normal Dialog Text,,0,0,0,,{\rCHS}对啊 没问题\N{\rENG}Yeah, no duh. 
+Dialogue: 100,0:08:08.22,0:08:10.15,Normal Dialog Text,,0,0,0,,{\rCHS}那个...谁是乔治啊?\N{\rENG}Actually...who's Jorge? 
+Dialogue: 100,0:08:10.19,0:08:12.22,Normal Dialog Text,,0,0,0,,{\rCHS}小烟 你不要隐藏实力\N{\rENG}Smoky, you're holding out on me. 
+Dialogue: 100,0:08:12.26,0:08:14.93,Normal Dialog Text,,0,0,0,,{\rCHS}我准备好看你的能力了\N{\rENG}I'm ready to see your main event. 
+Dialogue: 100,0:08:14.96,0:08:16.76,Normal Dialog Text,,0,0,0,,{\rCHS}啊 我也是\N{\rENG}Ah, you and me both. 
+Dialogue: 100,0:08:16.80,0:08:20.43,Normal Dialog Text,,0,0,0,,{\rCHS}好 亚历山大石有喷火的能力\N{\rENG}Now, Alexandrite has a throat full of flames. 
 Dialogue: 100,0:08:20.47,0:08:22.80,Normal Dialog Text,,0,0,0,,{\rCHS}不造这是不是她嗓音沙哑的原因\N{\rENG}Whether that's the cause of her raspy voice
-Dialogue: 100,0:08:22.84,0:08:23.78,Normal Dialog Text,,0,0,0,,{\rCHS}这个先放一边\N{\rENG}is up for debate,
-Dialogue: 100,0:08:23.79,0:08:26.94,Normal Dialog Text,,0,0,0,,{\rCHS}但是毫无疑问的是她攻击时--\N{\rENG}but there's no room for questions when she attacks --
-Dialogue: 100,0:08:26.97,0:08:29.54,Normal Dialog Text,,0,0,0,,{\rCHS}会吐出烈焰!\N{\rENG}exhaling a burning blaze!
+Dialogue: 100,0:08:22.84,0:08:23.78,Normal Dialog Text,,0,0,0,,{\rCHS}这个先放一边\N{\rENG}is up for debate, 
+Dialogue: 100,0:08:23.79,0:08:26.94,Normal Dialog Text,,0,0,0,,{\rCHS}但是毫无疑问的是她攻击时--\N{\rENG}but there's no room for questions when she attacks--
+Dialogue: 100,0:08:26.97,0:08:29.54,Normal Dialog Text,,0,0,0,,{\rCHS}会吐出烈焰!\N{\rENG}exhaling a burning blaze! 
 Dialogue: 100,0:08:29.58,0:08:34.25,Normal Dialog Text,,0,0,0,,{\rCHS}所以我把这个环节叫"火之吐息"\N{\rENG}So I call this segment"Breath of Fire."
 Dialogue: 600,0:08:32.25,0:08:34.25,Hint,,0,0,0,,"Breath of Fire"也是"Super Nintendo"上的一款RPG游戏的名字
-Dialogue: 100,0:08:34.28,0:08:36.51,Normal Dialog Text,,0,0,0,,{\rCHS}玛瑙,我不确定啊\N{\rENG}Sardonyx, I don't know.
-Dialogue: 100,0:08:36.55,0:08:37.58,Normal Dialog Text,,0,0,0,,{\rCHS}来吧,小烟\N{\rENG}Come on, Smoky.
+Dialogue: 100,0:08:34.28,0:08:36.51,Normal Dialog Text,,0,0,0,,{\rCHS}玛瑙 我不确定啊\N{\rENG}Sardonyx, I don't know. 
+Dialogue: 100,0:08:36.55,0:08:37.58,Normal Dialog Text,,0,0,0,,{\rCHS}来吧 小烟\N{\rENG}Come on, Smoky. 
 Dialogue: 100,0:08:37.62,0:08:39.08,Normal Dialog Text,,0,0,0,,{\rCHS}站上舞台试试看\N{\rENG}Step up and see if you can spit
-Dialogue: 100,0:08:39.12,0:08:43.15,Normal Dialog Text,,0,0,0,,{\rCHS}你能不能吐出一些火之元素\N{\rENG}some elemental chaos at the target.
-Dialogue: 100,0:08:52.50,0:08:56.10,Normal Dialog Text,,0,0,0,,{\rCHS}我们似乎遇到了一些魔法故障\N{\rENG}We seem to experiencing some magical difficulties.
-Dialogue: 100,0:08:56.14,0:08:57.37,Normal Dialog Text,,0,0,0,,{\rCHS}但是别换台哦\N{\rENG}But don't change the channel.
+Dialogue: 100,0:08:39.12,0:08:43.15,Normal Dialog Text,,0,0,0,,{\rCHS}你能不能吐出一些火之元素\N{\rENG}some elemental chaos at the target. 
+Dialogue: 100,0:08:52.50,0:08:56.10,Normal Dialog Text,,0,0,0,,{\rCHS}我们似乎遇到了一些魔法故障\N{\rENG}We seem to experiencing some magical difficulties. 
+Dialogue: 100,0:08:56.14,0:08:57.37,Normal Dialog Text,,0,0,0,,{\rCHS}但是别换台哦\N{\rENG}But don't change the channel. 
 Dialogue: 100,0:08:57.40,0:09:01.17,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文和紫晶一定有些共同点\N{\rENG}There must be some common thread between Steven and Amethyst
-Dialogue: 100,0:09:01.18,0:09:02.70,Normal Dialog Text,,0,0,0,,{\rCHS}成倍体现在他们的融合上\N{\rENG}that's heightened by their fusion.
-Dialogue: 100,0:09:02.71,0:09:07.71,Normal Dialog Text,,0,0,0,,{\rCHS}我不确定啊,玛,我想,零加零不还是零吗\N{\rENG}I don't know, Sards, I guess,uh, zero plus zero equals zero.
-Dialogue: 100,0:09:09.25,0:09:12.45,Normal Dialog Text,,0,0,0,,{\rCHS}他们想到一块去的事,他们做到一块去的事\N{\rENG}Something they both think.Something they both do.
-Dialogue: 100,0:09:12.48,0:09:14.62,Normal Dialog Text,,0,0,0,,{\rCHS}人说负负不得正嘛--\N{\rENG}They say two wrongs don't make a right --
-Dialogue: 100,0:09:14.65,0:09:16.86,Normal Dialog Text,,0,0,0,,{\rCHS}我不就是典型的例子吗?\N{\rENG}I guess I'm living proof that that's true!
+Dialogue: 100,0:09:01.18,0:09:02.70,Normal Dialog Text,,0,0,0,,{\rCHS}成倍体现在他们的融合上\N{\rENG}that's heightened by their fusion. 
+Dialogue: 100,0:09:02.71,0:09:07.71,Normal Dialog Text,,0,0,0,,{\rCHS}我不确定啊 玛 我想 零加零不还是零吗\N{\rENG}I don't know, Sards, I guess, uh, zero plus zero equals zero. 
+Dialogue: 100,0:09:09.25,0:09:12.45,Normal Dialog Text,,0,0,0,,{\rCHS}他们想到一块去的事 他们做到一块去的事\N{\rENG}Something they both think. Something they both do. 
+Dialogue: 100,0:09:12.48,0:09:14.62,Normal Dialog Text,,0,0,0,,{\rCHS}人说负负不得正嘛--\N{\rENG}They say two wrongs don't make a right--
+Dialogue: 100,0:09:14.65,0:09:16.86,Normal Dialog Text,,0,0,0,,{\rCHS}我不就是典型的例子吗?\N{\rENG}I guess I'm living proof that that's true! 
 Dialogue: 100,0:09:18.59,0:09:21.53,Normal Dialog Text,,0,0,0,,{\rCHS}我就是一个大个儿的失败的...\N{\rENG}I'm just one big super wrong...
-Dialogue: 100,0:09:21.56,0:09:25.96,Normal Dialog Text,,0,0,0,,{\rCHS}除了悠悠什么都不会的家伙\N{\rENG}...good-for-nothing dud with a yo-yo.
-Dialogue: 100,0:09:29.03,0:09:31.30,Normal Dialog Text,,0,0,0,,{\rCHS}他们想给我们留下好印象!\N{\rENG}They want to impress us!
-Dialogue: 100,0:09:31.34,0:09:32.94,Normal Dialog Text,,0,0,0,,{\rCHS}他们已经准备了一个早上了\N{\rENG}They were planning this all morning.
-Dialogue: 100,0:09:32.97,0:09:34.64,Normal Dialog Text,,0,0,0,,{\rCHS}我们抢了他们的风头!\N{\rENG}We hijacked their show!
-Dialogue: 100,0:09:34.67,0:09:35.87,Normal Dialog Text,,0,0,0,,{\rCHS}我过于兴奋了!\N{\rENG}I was excited!
-Dialogue: 100,0:09:35.91,0:09:40.41,Normal Dialog Text,,0,0,0,,{\rCHS}这不是我们俩的事!\N{\rENG}It's not about us!
-Dialogue: 100,0:09:40.45,0:09:41.55,Normal Dialog Text,,0,0,0,,{\rCHS}哈?\N{\rENG}Huh?
-Dialogue: 100,0:09:46.35,0:09:47.79,Normal Dialog Text,,0,0,0,,{\rCHS}发生啥事?!\N{\rENG}What's happening?!
-Dialogue: 100,0:09:47.82,0:09:49.15,Normal Dialog Text,,0,0,0,,{\rCHS}是红纹玛瑙!\N{\rENG}It's Sardonyx!
-Dialogue: 100,0:09:49.19,0:09:51.56,Normal Dialog Text,,0,0,0,,{\rCHS}如果她不在这里,这个房间就不能存在!\N{\rENG}If she's not here,the room can't exist!
-Dialogue: 100,0:09:51.59,0:09:53.02,Normal Dialog Text,,0,0,0,,{\rCHS}石榴!\N{\rENG}Garnet!
-Dialogue: 100,0:09:55.49,0:09:56.69,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠!\N{\rENG}Pearl!
-Dialogue: 100,0:10:09.61,0:10:11.14,Normal Dialog Text,,0,0,0,,{\rCHS}哈? \N{\rENG}Huh?
-Dialogue: 100,0:10:17.85,0:10:20.02,Normal Dialog Text,,0,0,0,,{\rCHS}抱歉降落有些颠簸\N{\rENG}Sorry for the rough landing.
-Dialogue: 100,0:10:20.03,0:10:24.12,Normal Dialog Text,,0,0,0,,{\rCHS}-你在说什么呢?!-简直太精彩了!\N{\rENG}-What are you talking about?!-That was amazing.
-Dialogue: 100,0:10:25.56,0:10:26.76,Normal Dialog Text,,0,0,0,,{\rCHS}哦,紫晶\N{\rENG}Oh, Amethyst!
-Dialogue: 100,0:10:26.79,0:10:29.36,Normal Dialog Text,,0,0,0,,{\rCHS}你真是为他树立了一个好榜样!\N{\rENG}You've been such a good influence on him!
-Dialogue: 100,0:10:29.39,0:10:31.63,Normal Dialog Text,,0,0,0,,{\rCHS}其实他是我的榜样了\N{\rENG}It's kind of the other way around.
-Dialogue: 100,0:10:31.66,0:10:34.00,Normal Dialog Text,,0,0,0,,{\rCHS}你们可告诉我们悠悠能当钩爪使\N{\rENG}You didn't tell us that yo-yo can grapple.
-Dialogue: 100,0:10:34.03,0:10:35.63,Normal Dialog Text,,0,0,0,,{\rCHS}悠悠能做很多事情呢\N{\rENG}It can do so much stuff!
-Dialogue: 100,0:10:35.67,0:10:39.07,Normal Dialog Text,,0,0,0,,{\rCHS}等下,你是把它当绳圈还是鞭子用?\N{\rENG}Wait. So do you use it like a lasso or a flail?
-Dialogue: 100,0:10:39.11,0:10:42.27,Normal Dialog Text,,0,0,0,,{\rCHS}-比鞭子好多了!-它是个玩具!\N{\rENG}-It's better than a flail.-It's a toy!
-Dialogue: 100,0:10:42.31,0:10:44.24,Normal Dialog Text,,0,0,0,,{\rCHS}真是想不到\N{\rENG}It's so unexpected.
-Dialogue: 100,0:10:44.28,0:10:45.84,Normal Dialog Text,,0,0,0,,{\rCHS}把当时情况实况转播一下\N{\rENG}Give us the play-by-play.
+Dialogue: 100,0:09:21.56,0:09:25.96,Normal Dialog Text,,0,0,0,,{\rCHS}除了悠悠什么都不会的家伙\N{\rENG}...good-for-nothing dud with a yo-yo. 
+Dialogue: 100,0:09:29.03,0:09:31.30,Normal Dialog Text,,0,0,0,,{\rCHS}他们想给我们留下好印象!\N{\rENG}They want to impress us! 
+Dialogue: 100,0:09:31.34,0:09:32.94,Normal Dialog Text,,0,0,0,,{\rCHS}他们已经准备了一个早上了\N{\rENG}They were planning this all morning. 
+Dialogue: 100,0:09:32.97,0:09:34.64,Normal Dialog Text,,0,0,0,,{\rCHS}我们抢了他们的风头!\N{\rENG}We hijacked their show! 
+Dialogue: 100,0:09:34.67,0:09:35.87,Normal Dialog Text,,0,0,0,,{\rCHS}我过于兴奋了!\N{\rENG}I was excited! 
+Dialogue: 100,0:09:35.91,0:09:40.41,Normal Dialog Text,,0,0,0,,{\rCHS}这不是我们俩的事!\N{\rENG}It's not about us! 
+Dialogue: 100,0:09:40.45,0:09:41.55,Normal Dialog Text,,0,0,0,,{\rCHS}哈?\N{\rENG}Huh? 
+Dialogue: 100,0:09:46.35,0:09:47.79,Normal Dialog Text,,0,0,0,,{\rCHS}发生啥事?!\N{\rENG}What's happening?! 
+Dialogue: 100,0:09:47.82,0:09:49.15,Normal Dialog Text,,0,0,0,,{\rCHS}是红纹玛瑙!\N{\rENG}It's Sardonyx! 
+Dialogue: 100,0:09:49.19,0:09:51.56,Normal Dialog Text,,0,0,0,,{\rCHS}如果她不在这里 这个房间就不能存在!\N{\rENG}If she's not here, the room can't exist! 
+Dialogue: 100,0:09:51.59,0:09:53.02,Normal Dialog Text,,0,0,0,,{\rCHS}石榴!\N{\rENG}Garnet! 
+Dialogue: 100,0:09:55.49,0:09:56.69,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠!\N{\rENG}Pearl! 
+Dialogue: 100,0:10:09.61,0:10:11.14,Normal Dialog Text,,0,0,0,,{\rCHS}哈? \N{\rENG}Huh? 
+Dialogue: 100,0:10:17.85,0:10:20.02,Normal Dialog Text,,0,0,0,,{\rCHS}抱歉降落有些颠簸\N{\rENG}Sorry for the rough landing. 
+Dialogue: 100,0:10:20.03,0:10:24.12,Normal Dialog Text,,0,0,0,,{\rCHS}-你在说什么呢?!-简直太精彩了!\N{\rENG}-What are you talking about?!-That was amazing. 
+Dialogue: 100,0:10:25.56,0:10:26.76,Normal Dialog Text,,0,0,0,,{\rCHS}哦 紫晶\N{\rENG}Oh, Amethyst! 
+Dialogue: 100,0:10:26.79,0:10:29.36,Normal Dialog Text,,0,0,0,,{\rCHS}你真是为他树立了一个好榜样!\N{\rENG}You've been such a good influence on him! 
+Dialogue: 100,0:10:29.39,0:10:31.63,Normal Dialog Text,,0,0,0,,{\rCHS}其实他是我的榜样了\N{\rENG}It's kind of the other way around. 
+Dialogue: 100,0:10:31.66,0:10:34.00,Normal Dialog Text,,0,0,0,,{\rCHS}你们可告诉我们悠悠能当钩爪使\N{\rENG}You didn't tell us that yo-yo can grapple. 
+Dialogue: 100,0:10:34.03,0:10:35.63,Normal Dialog Text,,0,0,0,,{\rCHS}悠悠能做很多事情呢\N{\rENG}It can do so much stuff! 
+Dialogue: 100,0:10:35.67,0:10:39.07,Normal Dialog Text,,0,0,0,,{\rCHS}等下 你是把它当绳圈还是鞭子用?\N{\rENG}Wait. So do you use it like a lasso or a flail? 
+Dialogue: 100,0:10:39.11,0:10:42.27,Normal Dialog Text,,0,0,0,,{\rCHS}-比鞭子好多了!-它是个玩具!\N{\rENG}-It's better than a flail.-It's a toy! 
+Dialogue: 100,0:10:42.31,0:10:44.24,Normal Dialog Text,,0,0,0,,{\rCHS}真是想不到\N{\rENG}It's so unexpected. 
+Dialogue: 100,0:10:44.28,0:10:45.84,Normal Dialog Text,,0,0,0,,{\rCHS}把当时情况实况转播一下\N{\rENG}Give us the play-by-play. 
 Dialogue: 100,0:10:45.88,0:10:48.64,Normal Dialog Text,,0,0,0,,{\rCHS}我们当时在那...\N{\rENG}So, there we were...
+

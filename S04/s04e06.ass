@@ -42,7 +42,7 @@ Style: Hint,微软雅黑,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 1,0:00:00.00,0:00:01.50,SU Title,,0,0,0,,{\xshad-0\yshad12\pos(1156,154)}最晚走出沙滩镇
-Dialogue: 1,0:00:01.50,0:00:03.00,SU Claim,,0,0,0,,欢迎关注微博@UUU字幕组，获取最新熟肉信息！
+Dialogue: 1,0:00:01.50,0:00:03.00,SU Claim,,0,0,0,,欢迎关注微博@ UUU字幕组 获取最新熟肉信息! 
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,260)}出品
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,320)}UUU字幕组
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,380)}翻译
@@ -53,291 +53,290 @@ Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,620)}特效
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,680)}presisco
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,740)}压制
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,800)}presisco
-Dialogue: 0,0:00:01.50,0:00:03.00,SU Team Background,,0,0,0,,{\bord0\xshad-0\yshad16\pos(1725,860)}{\p1}m -1 122 b -1 -19 -19 -1 122 -1 l 251 -1 b 390 -1 377 -19 377 122 l 377 500 b 377 642 390 628 251 628 l 122 628 b -19 628 -1 642 -1 500 l -1 122 {\p0}
 Dialogue: 600,0:00:03.00,0:00:05.00,Hint,,0,0,0,,标题源自Less Than Jake的歌曲"Last One Out of Liberty City"
-Dialogue: 100,0:00:06.51,0:00:08.58,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶\N{\rENG}Amethyst.
-Dialogue: 100,0:00:08.58,0:00:10.58,Normal Dialog Text,,0,0,0,,{\rCHS}你能别蹦达了吗?\N{\rENG}Do you mind not bouncing so much?
-Dialogue: 100,0:00:11.92,0:00:13.15,Normal Dialog Text,,0,0,0,,{\rCHS}哦\N{\rENG}Ooh.
-Dialogue: 100,0:00:13.15,0:00:14.25,Normal Dialog Text,,0,0,0,,{\rCHS}对不起\N{\rENG} Sorry.
-Dialogue: 100,0:00:14.25,0:00:15.75,Normal Dialog Text,,0,0,0,,{\rCHS}我只是太兴奋了\N{\rENG}I'm just super excited.
-Dialogue: 100,0:00:15.75,0:00:18.25,Normal Dialog Text,,0,0,0,,{\rCHS}葛瑞格要带我去看演出!\N{\rENG}Greg is taking me to a show!
-Dialogue: 100,0:00:18.26,0:00:19.56,Normal Dialog Text,,0,0,0,,{\rCHS}演出?\N{\rENG}A show?
-Dialogue: 100,0:00:19.56,0:00:23.56,Normal Dialog Text,,0,0,0,,{\rCHS}你指在剧～院那种?\N{\rENG}You mean like, at the thee-ay-terr?
-Dialogue: 100,0:00:23.56,0:00:27.76,Normal Dialog Text,,0,0,0,,{\rCHS}不,是摇～滚演出!\N{\rENG}No. Like at a Rrrra-ha-hock show!
-Dialogue: 100,0:00:27.77,0:00:29.33,Normal Dialog Text,,0,0,0,,{\rCHS}嘿!要有乐队!在别人家里!\N{\rENG}Heh. Like a band! At a house!
+Dialogue: 100,0:00:06.51,0:00:08.58,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶\N{\rENG}Amethyst. 
+Dialogue: 100,0:00:08.58,0:00:10.58,Normal Dialog Text,,0,0,0,,{\rCHS}你能别蹦达了吗?\N{\rENG}Do you mind not bouncing so much? 
+Dialogue: 100,0:00:11.92,0:00:13.15,Normal Dialog Text,,0,0,0,,{\rCHS}哦\N{\rENG}Ooh. 
+Dialogue: 100,0:00:13.15,0:00:14.25,Normal Dialog Text,,0,0,0,,{\rCHS}对不起\N{\rENG} Sorry. 
+Dialogue: 100,0:00:14.25,0:00:15.75,Normal Dialog Text,,0,0,0,,{\rCHS}我只是太兴奋了\N{\rENG}I'm just super excited. 
+Dialogue: 100,0:00:15.75,0:00:18.25,Normal Dialog Text,,0,0,0,,{\rCHS}葛瑞格要带我去看演出!\N{\rENG}Greg is taking me to a show! 
+Dialogue: 100,0:00:18.26,0:00:19.56,Normal Dialog Text,,0,0,0,,{\rCHS}演出?\N{\rENG}A show? 
+Dialogue: 100,0:00:19.56,0:00:23.56,Normal Dialog Text,,0,0,0,,{\rCHS}你指在剧～院那种?\N{\rENG}You mean like, at the thee-ay-terr? 
+Dialogue: 100,0:00:23.56,0:00:27.76,Normal Dialog Text,,0,0,0,,{\rCHS}不 是摇～滚演出!\N{\rENG}No. Like at a Rrrra-ha-hock show! 
+Dialogue: 100,0:00:27.77,0:00:29.33,Normal Dialog Text,,0,0,0,,{\rCHS}嘿! 要有乐队! 在别人家里!\N{\rENG}Heh. Like a band! At a house! 
 Dialogue: 100,0:00:29.33,0:00:31.60,Normal Dialog Text,,0,0,0,,{\rCHS}还有一大群人\N{\rENG}With a whole bunch of people hanging out
-Dialogue: 100,0:00:31.60,0:00:33.10,Normal Dialog Text,,0,0,0,,{\rCHS}一起嗨!\N{\rENG}and doing stuff!
-Dialogue: 100,0:00:33.10,0:00:35.54,Normal Dialog Text,,0,0,0,,{\rCHS}噢!天,这听起来酷毙了\N{\rENG}Ooh! Man, that sounds cool.
-Dialogue: 100,0:00:35.54,0:00:37.27,Normal Dialog Text,,0,0,0,,{\rCHS}我们晚上也有超棒的计划\N{\rENG}We have an awesome night planned, too.
-Dialogue: 100,0:00:37.28,0:00:38.87,Normal Dialog Text,,0,0,0,,{\rCHS}我们在拼拼图\N{\rENG}We're doing a puzzle.
-Dialogue: 100,0:00:38.88,0:00:40.58,Normal Dialog Text,,0,0,0,,{\rCHS}哇哦\N{\rENG}Wow-wee.
-Dialogue: 100,0:00:40.58,0:00:44.71,Normal Dialog Text,,0,0,0,,{\rCHS}我知道这听起来很逊,但可是612块的\N{\rENG}I know it sounds tame, but it has 612 pieces.
-Dialogue: 100,0:00:44.72,0:00:46.42,Normal Dialog Text,,0,0,0,,{\rCHS}并且没有四角!\N{\rENG}And no corners!
-Dialogue: 100,0:00:46.42,0:00:48.12,Normal Dialog Text,,0,0,0,,{\rCHS}我发现一块边角\N{\rENG}I found a corner.
-Dialogue: 100,0:00:50.69,0:00:52.59,Normal Dialog Text,,0,0,0,,{\rCHS}嘿!\N{\rENG} Hey, y'all.
-Dialogue: 100,0:00:52.59,0:00:54.69,Normal Dialog Text,,0,0,0,,{\rCHS}葛瑞格,葛瑞格,葛瑞格,葛瑞格!\N{\rENG}Greg, Greg, Greg, Greg!
-Dialogue: 100,0:00:54.69,0:00:57.46,Normal Dialog Text,,0,0,0,,{\rCHS}看来你已经准备好在舞池里嗨了?\N{\rENG}So, you ready to throw down in the pit?
-Dialogue: 600,0:00:54.69,0:00:57.46,Hint,,0,0,0,,这里的"pit"应该指的是"mosh pit"(狂舞区)--激烈,疯狂的舞蹈伴随硬核朋克配乐
-Dialogue: 100,0:00:57.46,0:00:59.30,Normal Dialog Text,,0,0,0,,{\rCHS}我今天晚上去不了了.\N{\rENG}No pits for me tonight.
-Dialogue: 100,0:00:59.30,0:01:00.73,Normal Dialog Text,,0,0,0,,{\rCHS}我对不起,紫晶.\N{\rENG}I'm sorry, Amethyst.
+Dialogue: 100,0:00:31.60,0:00:33.10,Normal Dialog Text,,0,0,0,,{\rCHS}一起嗨!\N{\rENG}and doing stuff! 
+Dialogue: 100,0:00:33.10,0:00:35.54,Normal Dialog Text,,0,0,0,,{\rCHS}噢! 天 这听起来酷毙了\N{\rENG}Ooh! Man, that sounds cool. 
+Dialogue: 100,0:00:35.54,0:00:37.27,Normal Dialog Text,,0,0,0,,{\rCHS}我们晚上也有超棒的计划\N{\rENG}We have an awesome night planned, too. 
+Dialogue: 100,0:00:37.28,0:00:38.87,Normal Dialog Text,,0,0,0,,{\rCHS}我们在拼拼图\N{\rENG}We're doing a puzzle. 
+Dialogue: 100,0:00:38.88,0:00:40.58,Normal Dialog Text,,0,0,0,,{\rCHS}哇哦\N{\rENG}Wow-wee. 
+Dialogue: 100,0:00:40.58,0:00:44.71,Normal Dialog Text,,0,0,0,,{\rCHS}我知道这听起来很逊 但可是612块的\N{\rENG}I know it sounds tame, but it has 612 pieces. 
+Dialogue: 100,0:00:44.72,0:00:46.42,Normal Dialog Text,,0,0,0,,{\rCHS}并且没有四角!\N{\rENG}And no corners! 
+Dialogue: 100,0:00:46.42,0:00:48.12,Normal Dialog Text,,0,0,0,,{\rCHS}我发现一块边角\N{\rENG}I found a corner. 
+Dialogue: 100,0:00:50.69,0:00:52.59,Normal Dialog Text,,0,0,0,,{\rCHS}嘿!\N{\rENG} Hey, y'all. 
+Dialogue: 100,0:00:52.59,0:00:54.69,Normal Dialog Text,,0,0,0,,{\rCHS}葛瑞格 葛瑞格 葛瑞格 葛瑞格!\N{\rENG}Greg, Greg, Greg, Greg! 
+Dialogue: 100,0:00:54.69,0:00:57.46,Normal Dialog Text,,0,0,0,,{\rCHS}看来你已经准备好在舞池里嗨了?\N{\rENG}So, you ready to throw down in the pit? 
+Dialogue: 600,0:00:54.69,0:00:57.46,Hint,,0,0,0,,这里的"pit"应该指的是"mosh pit"( 狂舞区)--激烈 疯狂的舞蹈伴随硬核朋克配乐
+Dialogue: 100,0:00:57.46,0:00:59.30,Normal Dialog Text,,0,0,0,,{\rCHS}我今天晚上去不了了.\N{\rENG}No pits for me tonight. 
+Dialogue: 100,0:00:59.30,0:01:00.73,Normal Dialog Text,,0,0,0,,{\rCHS}我对不起 紫晶.\N{\rENG}I'm sorry, Amethyst. 
 Dialogue: 100,0:01:00.73,0:01:02.20,Normal Dialog Text,,0,0,0,,{\rCHS}我完全忘了\N{\rENG}It totally slipped my mind
-Dialogue: 100,0:01:02.20,0:01:04.30,Normal Dialog Text,,0,0,0,,{\rCHS}巴尔布邀请我和维达利亚一起打牌\N{\rENG}that Barb invited me and Vidalia over for cards.
-Dialogue: 100,0:01:04.30,0:01:06.14,Normal Dialog Text,,0,0,0,,{\rCHS}扑克牌?\N{\rENG}Cards?
-Dialogue: 100,0:01:06.14,0:01:08.74,Normal Dialog Text,,0,0,0,,{\rCHS}谁带你们逃出养老院的?\N{\rENG}Who broke you guys out of the retirement home?
-Dialogue: 100,0:01:08.74,0:01:11.04,Normal Dialog Text,,0,0,0,,{\rCHS}相信我,我很想去演出的!\N{\rENG}Trust me, I'd love to go to the show!
-Dialogue: 100,0:01:11.04,0:01:13.81,Normal Dialog Text,,0,0,0,,{\rCHS}但是巴尔布用我的邮件要挟我\N{\rENG}But barb threatened to hold my mail if I didn't.
-Dialogue: 100,0:01:13.81,0:01:16.58,Normal Dialog Text,,0,0,0,,{\rCHS}而且她不是一个空穴来风的女人\N{\rENG}And she's not a woman of empty threats.
-Dialogue: 100,0:01:16.58,0:01:18.55,Normal Dialog Text,,0,0,0,,{\rCHS}好吧,算了\N{\rENG} Man, forget it.
+Dialogue: 100,0:01:02.20,0:01:04.30,Normal Dialog Text,,0,0,0,,{\rCHS}巴尔布邀请我和维达利亚一起打牌\N{\rENG}that Barb invited me and Vidalia over for cards. 
+Dialogue: 100,0:01:04.30,0:01:06.14,Normal Dialog Text,,0,0,0,,{\rCHS}扑克牌?\N{\rENG}Cards? 
+Dialogue: 100,0:01:06.14,0:01:08.74,Normal Dialog Text,,0,0,0,,{\rCHS}谁带你们逃出养老院的?\N{\rENG}Who broke you guys out of the retirement home? 
+Dialogue: 100,0:01:08.74,0:01:11.04,Normal Dialog Text,,0,0,0,,{\rCHS}相信我 我很想去演出的!\N{\rENG}Trust me, I'd love to go to the show! 
+Dialogue: 100,0:01:11.04,0:01:13.81,Normal Dialog Text,,0,0,0,,{\rCHS}但是巴尔布用我的邮件要挟我\N{\rENG}But barb threatened to hold my mail if I didn't. 
+Dialogue: 100,0:01:13.81,0:01:16.58,Normal Dialog Text,,0,0,0,,{\rCHS}而且她不是一个空穴来风的女人\N{\rENG}And she's not a woman of empty threats. 
+Dialogue: 100,0:01:16.58,0:01:18.55,Normal Dialog Text,,0,0,0,,{\rCHS}好吧 算了\N{\rENG} Man, forget it. 
 Dialogue: 100,0:01:18.55,0:01:20.15,Normal Dialog Text,,0,0,0,,{\rCHS}我去不了演出了\N{\rENG}I can't go "show-lo."
-Dialogue: 100,0:01:20.15,0:01:21.22,Normal Dialog Text,,0,0,0,,{\rCHS}真是无聊\N{\rENG}That'll be boring.
-Dialogue: 100,0:01:21.22,0:01:24.29,Normal Dialog Text,,0,0,0,,{\rCHS}你今晚可以和我们一起啊\N{\rENG}You could hang out with us tonight.
-Dialogue: 100,0:01:24.29,0:01:25.99,Normal Dialog Text,,0,0,0,,{\rCHS}一起拼拼图?呵呵\N{\rENG}And do a puzzle? Ha!
-Dialogue: 100,0:01:25.99,0:01:28.49,Normal Dialog Text,,0,0,0,,{\rCHS}也许我们也可以挤点时间织东西\N{\rENG}Maybe we can fit in some knitting, too.
-Dialogue: 100,0:01:28.49,0:01:30.59,Normal Dialog Text,,0,0,0,,{\rCHS}我不是指这个\N{\rENG}That's not what I meant.
-Dialogue: 100,0:01:30.59,0:01:34.33,Normal Dialog Text,,0,0,0,,{\rCHS}我们可以和你一起去演出\N{\rENG}We could go to the show with you.
-Dialogue: 100,0:01:34.33,0:01:35.90,Normal Dialog Text,,0,0,0,,{\rCHS}真的?你确定?\N{\rENG}Really? Whaaaa?
-Dialogue: 100,0:01:35.90,0:01:38.13,Normal Dialog Text,,0,0,0,,{\rCHS}你想去演出?\N{\rENG}You want to go to a show?
-Dialogue: 100,0:01:38.14,0:01:41.30,Normal Dialog Text,,0,0,0,,{\rCHS}嘈杂的音乐,推搡的人群?\N{\rENG}With loud music, and people pushing each other?
-Dialogue: 100,0:01:41.31,0:01:44.67,Normal Dialog Text,,0,0,0,,{\rCHS}我已经完成了公平的互相伤害了\N{\rENG}I've done my fair share of pushing.
-Dialogue: 100,0:01:44.68,0:01:46.51,Normal Dialog Text,,0,0,0,,{\rCHS}喔～我觉得胳膊断了\N{\rENG}Ohh, I think it's broken.
-Dialogue: 100,0:01:46.51,0:01:49.48,Normal Dialog Text,,0,0,0,,{\rCHS}你们俩从没见过我的另一面!\N{\rENG}You two just never saw me in action!
-Dialogue: 100,0:01:49.48,0:01:53.08,Normal Dialog Text,,0,0,0,,{\rCHS}打破每条规矩,反抗权威\N{\rENG}Breaking every rule, taking on the authorities,
-Dialogue: 100,0:01:53.08,0:01:56.82,Normal Dialog Text,,0,0,0,,{\rCHS}我就能完全拥抱快乐的地球生活了!\N{\rENG}so I could indulge in the joys of life on Earth!
-Dialogue: 100,0:01:56.82,0:01:58.62,Normal Dialog Text,,0,0,0,,{\rCHS}噢!一片天空\N{\rENG}Oh! A sky piece.
-Dialogue: 100,0:01:58.62,0:02:00.09,Normal Dialog Text,,0,0,0,,{\rCHS}好\N{\rENG}Nice.
-Dialogue: 100,0:02:00.09,0:02:03.66,Normal Dialog Text,,0,0,0,,{\rCHS}当然,你们要去的话可以开我的车\N{\rENG}Well, if you'd like to go, you guys can take the Dondai.
-Dialogue: 100,0:02:03.66,0:02:05.03,Normal Dialog Text,,0,0,0,,{\rCHS}谢谢你,葛瑞格\N{\rENG}Thank you, Greg.
-Dialogue: 100,0:02:05.03,0:02:06.86,Normal Dialog Text,,0,0,0,,{\rCHS}唔呼!演出!\N{\rENG}Whoo-hoo-hoo! Rock show!
-Dialogue: 100,0:02:06.86,0:02:08.03,Normal Dialog Text,,0,0,0,,{\rCHS}等等,珍珠\N{\rENG}Hold on, pearl.
-Dialogue: 100,0:02:08.03,0:02:11.00,Normal Dialog Text,,0,0,0,,{\rCHS}这是个人类活动,不是宝石战争\N{\rENG}This is a human thing, not a Gem war.
-Dialogue: 100,0:02:11.00,0:02:14.20,Normal Dialog Text,,0,0,0,,{\rCHS}在你嗨翻前,你得先融入其中\N{\rENG}Before you rock out, you're gonna want to blend in.
-Dialogue: 100,0:02:14.31,0:02:17.21,Normal Dialog Text,,0,0,0,,{\rCHS}现在你看起来挺拽的了\N{\rENG}Now you're looking good.
+Dialogue: 100,0:01:20.15,0:01:21.22,Normal Dialog Text,,0,0,0,,{\rCHS}真是无聊\N{\rENG}That'll be boring. 
+Dialogue: 100,0:01:21.22,0:01:24.29,Normal Dialog Text,,0,0,0,,{\rCHS}你今晚可以和我们一起啊\N{\rENG}You could hang out with us tonight. 
+Dialogue: 100,0:01:24.29,0:01:25.99,Normal Dialog Text,,0,0,0,,{\rCHS}一起拼拼图? 呵呵\N{\rENG}And do a puzzle? Ha! 
+Dialogue: 100,0:01:25.99,0:01:28.49,Normal Dialog Text,,0,0,0,,{\rCHS}也许我们也可以挤点时间织东西\N{\rENG}Maybe we can fit in some knitting, too. 
+Dialogue: 100,0:01:28.49,0:01:30.59,Normal Dialog Text,,0,0,0,,{\rCHS}我不是指这个\N{\rENG}That's not what I meant. 
+Dialogue: 100,0:01:30.59,0:01:34.33,Normal Dialog Text,,0,0,0,,{\rCHS}我们可以和你一起去演出\N{\rENG}We could go to the show with you. 
+Dialogue: 100,0:01:34.33,0:01:35.90,Normal Dialog Text,,0,0,0,,{\rCHS}真的? 你确定?\N{\rENG}Really? Whaaaa? 
+Dialogue: 100,0:01:35.90,0:01:38.13,Normal Dialog Text,,0,0,0,,{\rCHS}你想去演出?\N{\rENG}You want to go to a show? 
+Dialogue: 100,0:01:38.14,0:01:41.30,Normal Dialog Text,,0,0,0,,{\rCHS}嘈杂的音乐 推搡的人群?\N{\rENG}With loud music, and people pushing each other? 
+Dialogue: 100,0:01:41.31,0:01:44.67,Normal Dialog Text,,0,0,0,,{\rCHS}我已经完成了公平的互相伤害了\N{\rENG}I've done my fair share of pushing. 
+Dialogue: 100,0:01:44.68,0:01:46.51,Normal Dialog Text,,0,0,0,,{\rCHS}喔～我觉得胳膊断了\N{\rENG}Ohh, I think it's broken. 
+Dialogue: 100,0:01:46.51,0:01:49.48,Normal Dialog Text,,0,0,0,,{\rCHS}你们俩从没见过我的另一面!\N{\rENG}You two just never saw me in action! 
+Dialogue: 100,0:01:49.48,0:01:53.08,Normal Dialog Text,,0,0,0,,{\rCHS}打破每条规矩 反抗权威\N{\rENG}Breaking every rule, taking on the authorities, 
+Dialogue: 100,0:01:53.08,0:01:56.82,Normal Dialog Text,,0,0,0,,{\rCHS}我就能完全拥抱快乐的地球生活了!\N{\rENG}so I could indulge in the joys of life on Earth! 
+Dialogue: 100,0:01:56.82,0:01:58.62,Normal Dialog Text,,0,0,0,,{\rCHS}噢! 一片天空\N{\rENG}Oh! A sky piece. 
+Dialogue: 100,0:01:58.62,0:02:00.09,Normal Dialog Text,,0,0,0,,{\rCHS}好\N{\rENG}Nice. 
+Dialogue: 100,0:02:00.09,0:02:03.66,Normal Dialog Text,,0,0,0,,{\rCHS}当然 你们要去的话可以开我的车\N{\rENG}Well, if you'd like to go, you guys can take the Dondai. 
+Dialogue: 100,0:02:03.66,0:02:05.03,Normal Dialog Text,,0,0,0,,{\rCHS}谢谢你 葛瑞格\N{\rENG}Thank you, Greg. 
+Dialogue: 100,0:02:05.03,0:02:06.86,Normal Dialog Text,,0,0,0,,{\rCHS}唔呼! 演出!\N{\rENG}Whoo-hoo-hoo! Rock show! 
+Dialogue: 100,0:02:06.86,0:02:08.03,Normal Dialog Text,,0,0,0,,{\rCHS}等等 珍珠\N{\rENG}Hold on, pearl. 
+Dialogue: 100,0:02:08.03,0:02:11.00,Normal Dialog Text,,0,0,0,,{\rCHS}这是个人类活动 不是宝石战争\N{\rENG}This is a human thing, not a Gem war. 
+Dialogue: 100,0:02:11.00,0:02:14.20,Normal Dialog Text,,0,0,0,,{\rCHS}在你嗨翻前 你得先融入其中\N{\rENG}Before you rock out, you're gonna want to blend in. 
+Dialogue: 100,0:02:14.31,0:02:17.21,Normal Dialog Text,,0,0,0,,{\rCHS}现在你看起来挺拽的了\N{\rENG}Now you're looking good. 
 Dialogue: 600,0:02:14.31,0:02:15.42,Hint,,0,0,0,,夹克背部的图案源自涅槃乐队"Nirvana"
-Dialogue: 100,0:02:17.21,0:02:18.61,Normal Dialog Text,,0,0,0,,{\rCHS}哦,是的\N{\rENG}Oh, yes.
-Dialogue: 100,0:02:18.61,0:02:21.21,Normal Dialog Text,,0,0,0,,{\rCHS}但我可以变得更拽\N{\rENG}But I can make it look even gooder.
-Dialogue: 100,0:02:21.21,0:02:25.15,Normal Dialog Text,,0,0,0,,{\rCHS}这很潮,因为领子本来不该这么立着\N{\rENG}It's cool, because the collar isn't supposed to go that way.
-Dialogue: 100,0:02:25.15,0:02:27.05,Normal Dialog Text,,0,0,0,,{\rCHS}厉害了我的破\N{\rENG}You a natural.
-Dialogue: 100,0:02:27.05,0:02:29.45,Normal Dialog Text,,0,0,0,,{\rCHS}我们快采购玩路上的零食了\N{\rENG}We're almost set on snacks for the road.
-Dialogue: 100,0:02:29.45,0:02:31.69,Normal Dialog Text,,0,0,0,,{\rCHS}就差饮料了\N{\rENG}We just need some beverages.
+Dialogue: 100,0:02:17.21,0:02:18.61,Normal Dialog Text,,0,0,0,,{\rCHS}哦 是的\N{\rENG}Oh, yes. 
+Dialogue: 100,0:02:18.61,0:02:21.21,Normal Dialog Text,,0,0,0,,{\rCHS}但我可以变得更拽\N{\rENG}But I can make it look even gooder. 
+Dialogue: 100,0:02:21.21,0:02:25.15,Normal Dialog Text,,0,0,0,,{\rCHS}这很潮 因为领子本来不该这么立着\N{\rENG}It's cool, because the collar isn't supposed to go that way. 
+Dialogue: 100,0:02:25.15,0:02:27.05,Normal Dialog Text,,0,0,0,,{\rCHS}厉害了我的破\N{\rENG}You a natural. 
+Dialogue: 100,0:02:27.05,0:02:29.45,Normal Dialog Text,,0,0,0,,{\rCHS}我们快采购玩路上的零食了\N{\rENG}We're almost set on snacks for the road. 
+Dialogue: 100,0:02:29.45,0:02:31.69,Normal Dialog Text,,0,0,0,,{\rCHS}就差饮料了\N{\rENG}We just need some beverages. 
 Dialogue: 100,0:02:31.69,0:02:33.89,Normal Dialog Text,,0,0,0,,{\rCHS}草莓糖嗨\N{\rENG}Strawberry sugar shock shut down
 Dialogue: 600,0:02:31.69,0:02:33.89,Hint,,0,0,0,,"草莓糖嗨"的Logo与Monster Energy相似
-Dialogue: 100,0:02:33.89,0:02:37.19,Normal Dialog Text,,0,0,0,,{\rCHS}或者老派苹果汁?\N{\rENG}or good old fashioned apple juice?
-Dialogue: 100,0:02:37.19,0:02:39.53,Normal Dialog Text,,0,0,0,,{\rCHS}绝对草莓糖嗨\N{\rENG}Definitely sugar shock shut down.
-Dialogue: 100,0:02:39.53,0:02:41.83,Normal Dialog Text,,0,0,0,,{\rCHS}它可以感染任何东西\N{\rENG}It turns everything red.
-Dialogue: 100,0:02:43.57,0:02:45.47,Normal Dialog Text,,0,0,0,,{\rCHS}我也来一瓶,史蒂文\N{\rENG}I'll have one too, Steven.
-Dialogue: 100,0:02:45.47,0:02:47.70,Normal Dialog Text,,0,0,0,,{\rCHS}我觉得今晚我可以试着喝点东西\N{\rENG}I think I'll try drinking tonight.
-Dialogue: 100,0:02:47.71,0:02:49.20,Normal Dialog Text,,0,0,0,,{\rCHS}哇 真的?\N{\rENG}Wow, really?
-Dialogue: 100,0:02:49.21,0:02:51.31,Normal Dialog Text,,0,0,0,,{\rCHS}我不知道你喜欢苹果汁啊?\N{\rENG}I didn't know you liked apple juice?
-Dialogue: 100,0:02:51.31,0:02:54.24,Normal Dialog Text,,0,0,0,,{\rCHS}我有很多东西你不知道\N{\rENG}There's a lot you don't know about me, Steven.
-Dialogue: 100,0:02:55.51,0:02:58.25,Normal Dialog Text,,0,0,0,,{\rCHS}那么,紫晶,介绍下我们要见的乐队\N{\rENG}So, Amethyst, tell me more about this band we're seeing.
-Dialogue: 100,0:02:58.25,0:03:00.98,Normal Dialog Text,,0,0,0,,{\rCHS}我们要去见麦克▪克罗\N{\rENG}We're going to see Mike Krol.
-Dialogue: 100,0:03:00.99,0:03:03.09,Normal Dialog Text,,0,0,0,,{\rCHS}他懂得真正的车库摇滚氛围\N{\rENG}He's got that real garage vibe.
-Dialogue: 100,0:03:03.09,0:03:05.85,Normal Dialog Text,,0,0,0,,{\rCHS}那些怀念市郊的音乐\N{\rENG}Songs about being nostalgic for the suburbs.
-Dialogue: 100,0:03:05.86,0:03:08.66,Normal Dialog Text,,0,0,0,,{\rCHS}怀念市郊?切\N{\rENG}Nostalgic for the suburbs? Pssh.
-Dialogue: 100,0:03:08.66,0:03:10.89,Normal Dialog Text,,0,0,0,,{\rCHS}它们才存在了大概,70年?\N{\rENG}They've only existed for what? 70 years.
-Dialogue: 100,0:03:10.90,0:03:14.00,Normal Dialog Text,,0,0,0,,{\rCHS}好吧,那么,当我们到达现场时\N{\rENG} Okay, so, when we get to the show,
-Dialogue: 100,0:03:14.00,0:03:15.60,Normal Dialog Text,,0,0,0,,{\rCHS}得显得这是你的场子\N{\rENG}you got to walk in like you own the place.
-Dialogue: 100,0:03:24.01,0:03:28.34,Normal Dialog Text,,0,0,0,,{\rCHS}哦!嘿,看那个!装B楷模\N{\rENG}Oh! Hey, right there. Perfect example.
-Dialogue: 100,0:03:28.35,0:03:31.38,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠,你还好吗?\N{\rENG}Pearl, you okay?
+Dialogue: 100,0:02:33.89,0:02:37.19,Normal Dialog Text,,0,0,0,,{\rCHS}或者老派苹果汁?\N{\rENG}or good old fashioned apple juice? 
+Dialogue: 100,0:02:37.19,0:02:39.53,Normal Dialog Text,,0,0,0,,{\rCHS}绝对草莓糖嗨\N{\rENG}Definitely sugar shock shut down. 
+Dialogue: 100,0:02:39.53,0:02:41.83,Normal Dialog Text,,0,0,0,,{\rCHS}它可以感染任何东西\N{\rENG}It turns everything red. 
+Dialogue: 100,0:02:43.57,0:02:45.47,Normal Dialog Text,,0,0,0,,{\rCHS}我也来一瓶 史蒂文\N{\rENG}I'll have one too, Steven. 
+Dialogue: 100,0:02:45.47,0:02:47.70,Normal Dialog Text,,0,0,0,,{\rCHS}我觉得今晚我可以试着喝点东西\N{\rENG}I think I'll try drinking tonight. 
+Dialogue: 100,0:02:47.71,0:02:49.20,Normal Dialog Text,,0,0,0,,{\rCHS}哇 真的?\N{\rENG}Wow, really? 
+Dialogue: 100,0:02:49.21,0:02:51.31,Normal Dialog Text,,0,0,0,,{\rCHS}我不知道你喜欢苹果汁啊?\N{\rENG}I didn't know you liked apple juice? 
+Dialogue: 100,0:02:51.31,0:02:54.24,Normal Dialog Text,,0,0,0,,{\rCHS}我有很多东西你不知道\N{\rENG}There's a lot you don't know about me, Steven. 
+Dialogue: 100,0:02:55.51,0:02:58.25,Normal Dialog Text,,0,0,0,,{\rCHS}那么 紫晶 介绍下我们要见的乐队\N{\rENG}So, Amethyst, tell me more about this band we're seeing. 
+Dialogue: 100,0:02:58.25,0:03:00.98,Normal Dialog Text,,0,0,0,,{\rCHS}我们要去见麦克▪克罗\N{\rENG}We're going to see Mike Krol. 
+Dialogue: 100,0:03:00.99,0:03:03.09,Normal Dialog Text,,0,0,0,,{\rCHS}他懂得真正的车库摇滚氛围\N{\rENG}He's got that real garage vibe. 
+Dialogue: 100,0:03:03.09,0:03:05.85,Normal Dialog Text,,0,0,0,,{\rCHS}那些怀念市郊的音乐\N{\rENG}Songs about being nostalgic for the suburbs. 
+Dialogue: 100,0:03:05.86,0:03:08.66,Normal Dialog Text,,0,0,0,,{\rCHS}怀念市郊? 切\N{\rENG}Nostalgic for the suburbs? Pssh. 
+Dialogue: 100,0:03:08.66,0:03:10.89,Normal Dialog Text,,0,0,0,,{\rCHS}它们才存在了大概 70年?\N{\rENG}They've only existed for what? 70 years. 
+Dialogue: 100,0:03:10.90,0:03:14.00,Normal Dialog Text,,0,0,0,,{\rCHS}好吧 那么 当我们到达现场时\N{\rENG} Okay, so, when we get to the show, 
+Dialogue: 100,0:03:14.00,0:03:15.60,Normal Dialog Text,,0,0,0,,{\rCHS}得显得这是你的场子\N{\rENG}you got to walk in like you own the place. 
+Dialogue: 100,0:03:24.01,0:03:28.34,Normal Dialog Text,,0,0,0,,{\rCHS}哦! 嘿 看那个! 装B楷模\N{\rENG}Oh! Hey, right there. Perfect example. 
+Dialogue: 100,0:03:28.35,0:03:31.38,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠 你还好吗?\N{\rENG}Pearl, you okay? 
 Dialogue: 100,0:03:31.38,0:03:33.02,Normal Dialog Text,,0,0,0,,{\rCHS}呃...\N{\rENG}Uh...
-Dialogue: 100,0:03:33.02,0:03:37.39,Normal Dialog Text,,0,0,0,,{\rCHS}我没想到人类也可以有粉发\N{\rENG}I just didn't realize humans could come with pink hair.
-Dialogue: 100,0:03:37.39,0:03:38.95,Normal Dialog Text,,0,0,0,,{\rCHS}他们不是真有\N{\rENG} They don't.
-Dialogue: 100,0:03:38.96,0:03:41.46,Normal Dialog Text,,0,0,0,,{\rCHS}你要去商店买一种液体\N{\rENG}You got to go to the store and get this goo.
-Dialogue: 100,0:03:41.46,0:03:42.76,Normal Dialog Text,,0,0,0,,{\rCHS}闻起来很特效\N{\rENG}It smells really bad,
-Dialogue: 100,0:03:42.76,0:03:44.89,Normal Dialog Text,,0,0,0,,{\rCHS}duang的一下头发就有你想要的颜色了\N{\rENG}and it turns your hair whatever color you want.
-Dialogue: 100,0:03:44.90,0:03:46.03,Normal Dialog Text,,0,0,0,,{\rCHS}为什么她这么做?\N{\rENG}Why would she do that?
-Dialogue: 100,0:03:46.03,0:03:47.30,Normal Dialog Text,,0,0,0,,{\rCHS}你没什么不去问问?\N{\rENG}Why don't you go and ask her.
-Dialogue: 100,0:03:47.30,0:03:48.63,Normal Dialog Text,,0,0,0,,{\rCHS}也是!\N{\rENG}Hey, yeah!
-Dialogue: 100,0:03:48.63,0:03:51.53,Normal Dialog Text,,0,0,0,,{\rCHS}我们要和许多潮人交往\N{\rENG}We're about to go hang out with a bunch of cool humans.
-Dialogue: 100,0:03:51.54,0:03:53.60,Normal Dialog Text,,0,0,0,,{\rCHS}先打把人机!\N{\rENG}Go do a practice round!
-Dialogue: 100,0:03:53.60,0:03:56.31,Normal Dialog Text,,0,0,0,,{\rCHS}上!上!上!\N{\rENG}Do it! Do it! Do it!
+Dialogue: 100,0:03:33.02,0:03:37.39,Normal Dialog Text,,0,0,0,,{\rCHS}我没想到人类也可以有粉发\N{\rENG}I just didn't realize humans could come with pink hair. 
+Dialogue: 100,0:03:37.39,0:03:38.95,Normal Dialog Text,,0,0,0,,{\rCHS}他们不是真有\N{\rENG} They don't. 
+Dialogue: 100,0:03:38.96,0:03:41.46,Normal Dialog Text,,0,0,0,,{\rCHS}你要去商店买一种液体\N{\rENG}You got to go to the store and get this goo. 
+Dialogue: 100,0:03:41.46,0:03:42.76,Normal Dialog Text,,0,0,0,,{\rCHS}闻起来很特效\N{\rENG}It smells really bad, 
+Dialogue: 100,0:03:42.76,0:03:44.89,Normal Dialog Text,,0,0,0,,{\rCHS}duang的一下头发就有你想要的颜色了\N{\rENG}and it turns your hair whatever color you want. 
+Dialogue: 100,0:03:44.90,0:03:46.03,Normal Dialog Text,,0,0,0,,{\rCHS}为什么她这么做?\N{\rENG}Why would she do that? 
+Dialogue: 100,0:03:46.03,0:03:47.30,Normal Dialog Text,,0,0,0,,{\rCHS}你没什么不去问问?\N{\rENG}Why don't you go and ask her. 
+Dialogue: 100,0:03:47.30,0:03:48.63,Normal Dialog Text,,0,0,0,,{\rCHS}也是!\N{\rENG}Hey, yeah! 
+Dialogue: 100,0:03:48.63,0:03:51.53,Normal Dialog Text,,0,0,0,,{\rCHS}我们要和许多潮人交往\N{\rENG}We're about to go hang out with a bunch of cool humans. 
+Dialogue: 100,0:03:51.54,0:03:53.60,Normal Dialog Text,,0,0,0,,{\rCHS}先打把人机!\N{\rENG}Go do a practice round! 
+Dialogue: 100,0:03:53.60,0:03:56.31,Normal Dialog Text,,0,0,0,,{\rCHS}上! 上! 上!\N{\rENG}Do it! Do it! Do it! 
 Dialogue: 100,0:04:04.15,0:04:06.65,Normal Dialog Text,,0,0,0,,{\rCHS}我...呃...\N{\rENG}I...uh...
-Dialogue: 100,0:04:17.76,0:04:21.56,Normal Dialog Text,,0,0,0,,{\rCHS}好吧,你向杯子证明了谁是老大\N{\rENG}Welp, you sure showed those cups who's boss.
-Dialogue: 100,0:04:21.57,0:04:23.33,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶,安全带\N{\rENG}Amethyst, seatbelt.
-Dialogue: 100,0:04:24.50,0:04:27.47,Normal Dialog Text,,0,0,0,,{\rCHS}现在我们该去享受夜晚了\N{\rENG}Now let's go have the night of our lives.
-Dialogue: 200,0:04:26.88,0:04:30.07,Background Dialogue,,0,0,0,,{\rCHS_LYC}我为你燃烧\N{\rENG_LYC}♪ I'll burn for you,in that way
+Dialogue: 100,0:04:17.76,0:04:21.56,Normal Dialog Text,,0,0,0,,{\rCHS}好吧 你向杯子证明了谁是老大\N{\rENG}Welp, you sure showed those cups who's boss. 
+Dialogue: 100,0:04:21.57,0:04:23.33,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶 安全带\N{\rENG}Amethyst, seatbelt. 
+Dialogue: 100,0:04:24.50,0:04:27.47,Normal Dialog Text,,0,0,0,,{\rCHS}现在我们该去享受夜晚了\N{\rENG}Now let's go have the night of our lives. 
+Dialogue: 200,0:04:26.88,0:04:30.07,Background Dialogue,,0,0,0,,{\rCHS_LYC}我为你燃烧\N{\rENG_LYC}♪ I'll burn for you, in that way
 Dialogue: 200,0:04:30.07,0:04:31.71,Background Dialogue,,0,0,0,,{\rCHS_LYC}这样你就可以跟我回家\N{\rENG_LYC}♪ You can follow me home
-Dialogue: 50,0:04:33.88,0:04:35.33,Background Dialogue,,0,0,0,,{\rCHS_LYC}如同恒星\N{\rENG_LYC}♪ I'm like a star,
-Dialogue: 50,0:04:35.48,0:04:36.91,Background Dialogue,,0,0,0,,{\rCHS_LYC}疾速的燃烧\N{\rENG_LYC}♪ I'm burning out fast,
-Dialogue: 50,0:04:36.91,0:04:38.04,Background Dialogue,,0,0,0,,{\rCHS_LYC}试图闪耀\N{\rENG_LYC}♪ I'm try to shine,
-Dialogue: 50,0:04:38.51,0:04:40.08,Background Dialogue,,0,0,0,,{\rCHS_LYC}但不会永远如此\N{\rENG_LYC}♪ but it's never gonna last,
-Dialogue: 50,0:04:40.35,0:04:43.00,Background Dialogue,,0,0,0,,{\rCHS_LYC}看不出只能让人失望？\N{\rENG_LYC}♪ can't you see I'm just letting you down?
+Dialogue: 50,0:04:33.88,0:04:35.33,Background Dialogue,,0,0,0,,{\rCHS_LYC}如同恒星\N{\rENG_LYC}♪ I'm like a star, 
+Dialogue: 50,0:04:35.48,0:04:36.91,Background Dialogue,,0,0,0,,{\rCHS_LYC}疾速的燃烧\N{\rENG_LYC}♪ I'm burning out fast, 
+Dialogue: 50,0:04:36.91,0:04:38.04,Background Dialogue,,0,0,0,,{\rCHS_LYC}试图闪耀\N{\rENG_LYC}♪ I'm try to shine, 
+Dialogue: 50,0:04:38.51,0:04:40.08,Background Dialogue,,0,0,0,,{\rCHS_LYC}但不会永远如此\N{\rENG_LYC}♪ but it's never gonna last, 
+Dialogue: 50,0:04:40.35,0:04:43.00,Background Dialogue,,0,0,0,,{\rCHS_LYC}看不出只能让人失望?\N{\rENG_LYC}♪ can't you see I'm just letting you down? 
 Dialogue: 50,0:04:45.84,0:04:48.64,Background Dialogue,,0,0,0,,{\rCHS_LYC}和所有朋友合个影\N{\rENG_LYC}♪ With all my friends I'll make a picture
 Dialogue: 50,0:04:48.64,0:04:51.37,Background Dialogue,,0,0,0,,{\rCHS_LYC}但清晨时我已离去\N{\rENG_LYC}♪ but in the morning I'll be gone
-Dialogue: 50,0:05:11.55,0:05:12.95,Background Dialogue,,0,0,0,,{\rCHS_LYC}你若看到我\N{\rENG_LYC}♪ If you saw me now,
+Dialogue: 50,0:05:11.55,0:05:12.95,Background Dialogue,,0,0,0,,{\rCHS_LYC}你若看到我\N{\rENG_LYC}♪ If you saw me now, 
 Dialogue: 0,0:05:12.95,0:05:14.55,Background Dialogue,,0,0,0,,{\rCHS_LYC}我则应你愿\N{\rENG_LYC}♪ then I grant you wish
-Dialogue: 50,0:05:17.13,0:05:18.58,Background Dialogue,,0,0,0,,{\rCHS_LYC}如同恒星\N{\rENG_LYC}♪ I'm like a star,
-Dialogue: 50,0:05:18.73,0:05:20.16,Background Dialogue,,0,0,0,,{\rCHS_LYC}疾速的燃烧\N{\rENG_LYC}♪ I'm burning out fast,
-Dialogue: 50,0:05:20.16,0:05:21.29,Background Dialogue,,0,0,0,,{\rCHS_LYC}试图闪耀\N{\rENG_LYC}♪ I'm try to shine,
-Dialogue: 50,0:05:21.76,0:05:23.33,Background Dialogue,,0,0,0,,{\rCHS_LYC}但不会永远如此\N{\rENG_LYC}♪ but it's never gonna last,
-Dialogue: 50,0:05:23.60,0:05:26.25,Background Dialogue,,0,0,0,,{\rCHS_LYC}看不出只能让人失望？\N{\rENG_LYC}♪ can't you see I'm just letting you down?
+Dialogue: 50,0:05:17.13,0:05:18.58,Background Dialogue,,0,0,0,,{\rCHS_LYC}如同恒星\N{\rENG_LYC}♪ I'm like a star, 
+Dialogue: 50,0:05:18.73,0:05:20.16,Background Dialogue,,0,0,0,,{\rCHS_LYC}疾速的燃烧\N{\rENG_LYC}♪ I'm burning out fast, 
+Dialogue: 50,0:05:20.16,0:05:21.29,Background Dialogue,,0,0,0,,{\rCHS_LYC}试图闪耀\N{\rENG_LYC}♪ I'm try to shine, 
+Dialogue: 50,0:05:21.76,0:05:23.33,Background Dialogue,,0,0,0,,{\rCHS_LYC}但不会永远如此\N{\rENG_LYC}♪ but it's never gonna last, 
+Dialogue: 50,0:05:23.60,0:05:26.25,Background Dialogue,,0,0,0,,{\rCHS_LYC}看不出只能让人失望?\N{\rENG_LYC}♪ can't you see I'm just letting you down? 
 Dialogue: 50,0:05:29.09,0:05:31.89,Background Dialogue,,0,0,0,,{\rCHS_LYC}和所有朋友合个影\N{\rENG_LYC}♪ With all my friends I'll make a picture
 Dialogue: 50,0:05:31.89,0:05:34.62,Background Dialogue,,0,0,0,,{\rCHS_LYC}但清晨时我已离去\N{\rENG_LYC}♪ but in the morning I'll be gone
-Dialogue: 100,0:04:33.94,0:04:35.33,Normal Dialog Text,,0,0,0,,{\rCHS}好吧,没人要说?\N{\rENG}Okay, nobody's gonna say it?
-Dialogue: 100,0:04:35.60,0:04:37.18,Normal Dialog Text,,0,0,0,,{\rCHS}她看起来像妈妈\N{\rENG}She kind of looked like mom.
-Dialogue: 100,0:04:37.18,0:04:39.35,Normal Dialog Text,,0,0,0,,{\rCHS}你看出来了.我看出来了.谁都看出来了.\N{\rENG}You noticed. I noticed. We all noticed.
-Dialogue: 100,0:04:41.52,0:04:44.85,Normal Dialog Text,,0,0,0,,{\rCHS}难怪你表现得像个呆瓜!\N{\rENG}That's why you were acting like such a goon!
-Dialogue: 100,0:04:44.86,0:04:46.29,Normal Dialog Text,,0,0,0,,{\rCHS}不,才不是\N{\rENG}No, no. That's not it.
-Dialogue: 100,0:04:46.29,0:04:48.36,Normal Dialog Text,,0,0,0,,{\rCHS}我与过去没有任何关联了\N{\rENG}I'm done thinking about the past.
-Dialogue: 100,0:04:48.36,0:04:50.53,Normal Dialog Text,,0,0,0,,{\rCHS}今晚,我只在乎将来\N{\rENG}Tonight, I'm all about the future.
-Dialogue: 100,0:04:50.53,0:04:51.93,Normal Dialog Text,,0,0,0,,{\rCHS}我在前往一个演出\N{\rENG}I'm going to a show.
-Dialogue: 100,0:04:51.93,0:04:55.03,Normal Dialog Text,,0,0,0,,{\rCHS}我是一个热爱人际关系的新宝石\N{\rENG}I'm a new Gem who loves socializing with humans.
-Dialogue: 100,0:04:55.03,0:04:56.37,Normal Dialog Text,,0,0,0,,{\rCHS}只是这样?\N{\rENG}That's what that was?
-Dialogue: 100,0:04:56.37,0:04:59.20,Normal Dialog Text,,0,0,0,,{\rCHS}算了,你又不在现场\N{\rENG}Look, you weren't there by the cups.
-Dialogue: 100,0:04:59.20,0:05:02.30,Normal Dialog Text,,0,0,0,,{\rCHS}我本可以开口,这都是时辰的错\N{\rENG}I could've talked to her. The timing was just wrong.
-Dialogue: 100,0:05:05.38,0:05:08.58,Normal Dialog Text,,0,0,0,,{\rCHS}是那个女孩!她就在旁边!\N{\rENG}It's the girl! She's driving right next to us!
-Dialogue: 100,0:05:11.55,0:05:12.95,Normal Dialog Text,,0,0,0,,{\rCHS}不可能!\N{\rENG}No way!
-Dialogue: 100,0:05:12.95,0:05:14.68,Normal Dialog Text,,0,0,0,,{\rCHS}人生第二春啊!\N{\rENG}You've got another chance!
-Dialogue: 100,0:05:14.69,0:05:16.12,Normal Dialog Text,,0,0,0,,{\rCHS}对!做点什么啊!\N{\rENG}Yeah! Do something!
-Dialogue: 100,0:05:16.12,0:05:19.39,Normal Dialog Text,,0,0,0,,{\rCHS}做什么?闪灯?按喇叭?\N{\rENG}Like what? Flash my lights? Honk at her?
-Dialogue: 100,0:05:19.39,0:05:21.22,Normal Dialog Text,,0,0,0,,{\rCHS}就给她来个酷炫的转身\N{\rENG}Just shoot her a look.
-Dialogue: 100,0:05:21.23,0:05:22.22,Normal Dialog Text,,0,0,0,,{\rCHS}等等\N{\rENG}Wait not yet.
-Dialogue: 100,0:05:22.23,0:05:25.83,Normal Dialog Text,,0,0,0,,{\rCHS}好吧...现在!\N{\rENG}Okay, okay. You can look...now!
+Dialogue: 100,0:04:33.94,0:04:35.33,Normal Dialog Text,,0,0,0,,{\rCHS}好吧 没人要说?\N{\rENG}Okay, nobody's gonna say it? 
+Dialogue: 100,0:04:35.60,0:04:37.18,Normal Dialog Text,,0,0,0,,{\rCHS}她看起来像妈妈\N{\rENG}She kind of looked like mom. 
+Dialogue: 100,0:04:37.18,0:04:39.35,Normal Dialog Text,,0,0,0,,{\rCHS}你看出来了. 我看出来了. 谁都看出来了.\N{\rENG}You noticed. I noticed. We all noticed. 
+Dialogue: 100,0:04:41.52,0:04:44.85,Normal Dialog Text,,0,0,0,,{\rCHS}难怪你表现得像个呆瓜!\N{\rENG}That's why you were acting like such a goon! 
+Dialogue: 100,0:04:44.86,0:04:46.29,Normal Dialog Text,,0,0,0,,{\rCHS}不 才不是\N{\rENG}No, no. That's not it. 
+Dialogue: 100,0:04:46.29,0:04:48.36,Normal Dialog Text,,0,0,0,,{\rCHS}我与过去没有任何关联了\N{\rENG}I'm done thinking about the past. 
+Dialogue: 100,0:04:48.36,0:04:50.53,Normal Dialog Text,,0,0,0,,{\rCHS}今晚 我只在乎将来\N{\rENG}Tonight, I'm all about the future. 
+Dialogue: 100,0:04:50.53,0:04:51.93,Normal Dialog Text,,0,0,0,,{\rCHS}我在前往一个演出\N{\rENG}I'm going to a show. 
+Dialogue: 100,0:04:51.93,0:04:55.03,Normal Dialog Text,,0,0,0,,{\rCHS}我是一个热爱人际关系的新宝石\N{\rENG}I'm a new Gem who loves socializing with humans. 
+Dialogue: 100,0:04:55.03,0:04:56.37,Normal Dialog Text,,0,0,0,,{\rCHS}只是这样?\N{\rENG}That's what that was? 
+Dialogue: 100,0:04:56.37,0:04:59.20,Normal Dialog Text,,0,0,0,,{\rCHS}算了 你又不在现场\N{\rENG}Look, you weren't there by the cups. 
+Dialogue: 100,0:04:59.20,0:05:02.30,Normal Dialog Text,,0,0,0,,{\rCHS}我本可以开口 这都是时辰的错\N{\rENG}I could've talked to her. The timing was just wrong. 
+Dialogue: 100,0:05:05.38,0:05:08.58,Normal Dialog Text,,0,0,0,,{\rCHS}是那个女孩! 她就在旁边!\N{\rENG}It's the girl! She's driving right next to us! 
+Dialogue: 100,0:05:11.55,0:05:12.95,Normal Dialog Text,,0,0,0,,{\rCHS}不可能!\N{\rENG}No way! 
+Dialogue: 100,0:05:12.95,0:05:14.68,Normal Dialog Text,,0,0,0,,{\rCHS}人生第二春啊!\N{\rENG}You've got another chance! 
+Dialogue: 100,0:05:14.69,0:05:16.12,Normal Dialog Text,,0,0,0,,{\rCHS}对! 做点什么啊!\N{\rENG}Yeah! Do something! 
+Dialogue: 100,0:05:16.12,0:05:19.39,Normal Dialog Text,,0,0,0,,{\rCHS}做什么? 闪灯? 按喇叭?\N{\rENG}Like what? Flash my lights? Honk at her? 
+Dialogue: 100,0:05:19.39,0:05:21.22,Normal Dialog Text,,0,0,0,,{\rCHS}就给她来个酷炫的转身\N{\rENG}Just shoot her a look. 
+Dialogue: 100,0:05:21.23,0:05:22.22,Normal Dialog Text,,0,0,0,,{\rCHS}等等\N{\rENG}Wait not yet. 
+Dialogue: 100,0:05:22.23,0:05:25.83,Normal Dialog Text,,0,0,0,,{\rCHS}好吧...现在!\N{\rENG}Okay, okay. You can look...now! 
 Dialogue: 600,0:05:26.28,0:05:27.83,Hint,,0,0,0,,头盔上的标志与The Aquabats乐队的Logo相似
-Dialogue: 100,0:05:35.57,0:05:37.37,Normal Dialog Text,,0,0,0,,{\rCHS}噢,她走了\N{\rENG}Ooh, and there she goes.
-Dialogue: 100,0:05:37.37,0:05:41.18,Normal Dialog Text,,0,0,0,,{\rCHS}嘿,也许她和我们去的一个地方\N{\rENG}Hey, maybe she's going to the same show as us.
-Dialogue: 100,0:05:41.18,0:05:43.08,Normal Dialog Text,,0,0,0,,{\rCHS}我不确定,向那么酷的女孩\N{\rENG}I don't know, a girl that cool
-Dialogue: 100,0:05:43.08,0:05:46.08,Normal Dialog Text,,0,0,0,,{\rCHS}绝对知道十亿个今天晚上举行的演出\N{\rENG}probably knows about a billion shows going on tonight.
+Dialogue: 100,0:05:35.57,0:05:37.37,Normal Dialog Text,,0,0,0,,{\rCHS}噢 她走了\N{\rENG}Ooh, and there she goes. 
+Dialogue: 100,0:05:37.37,0:05:41.18,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 也许她和我们去的一个地方\N{\rENG}Hey, maybe she's going to the same show as us. 
+Dialogue: 100,0:05:41.18,0:05:43.08,Normal Dialog Text,,0,0,0,,{\rCHS}我不确定 向那么酷的女孩\N{\rENG}I don't know, a girl that cool
+Dialogue: 100,0:05:43.08,0:05:46.08,Normal Dialog Text,,0,0,0,,{\rCHS}绝对知道十亿个今天晚上举行的演出\N{\rENG}probably knows about a billion shows going on tonight. 
 Dialogue: 200,0:05:49.20,0:05:53.11,Background Dialogue,,0,0,0,,{\rCHS_LYC}如果我告诉你世界即将毁灭\N{\rENG_LYC}What if I told you that the world was gonna end
 Dialogue: 200,0:05:53.11,0:05:57.24,Background Dialogue,,0,0,0,,{\rCHS_LYC}你只有15分钟陪伴我或者朋友\N{\rENG_LYC}And you had fifteen minutes to spend with me or your friends
 Dialogue: 200,0:05:57.24,0:06:01.35,Background Dialogue,,0,0,0,,{\rCHS_LYC}你是否愿坐头班车来我家\N{\rENG_LYC}Would you take the first bus over to my house
 Dialogue: 200,0:06:01.35,0:06:05.51,Background Dialogue,,0,0,0,,{\rCHS_LYC}或者去坐末班机到西海岸?\N{\rENG_LYC}Or would you take the last plane over the West Coast
-Dialogue: 200,0:06:05.84,0:06:10.24,Background Dialogue,,0,0,0,,{\rCHS_LYC}像这样的时刻,变卦的内心\N{\rENG_LYC}See at times like these with a change of heart
-Dialogue: 200,0:06:10.24,0:06:14.24,Background Dialogue,,0,0,0,,{\rCHS_LYC}一切已完结,来不及开始\N{\rENG_LYC}It was over and done before we had a start
-Dialogue: 200,0:06:14.24,0:06:18.33,Background Dialogue,,0,0,0,,{\rCHS_LYC}这挥之不去,我无所适从\N{\rENG_LYC}It goes on in my head and I'll wind up dead
-Dialogue: 200,0:06:18.33,0:06:22.24,Background Dialogue,,0,0,0,,{\rCHS_LYC}唱着,Sha-la-la-la-la-la-la-la-la\N{\rENG_LYC}Singing sha-la-la-la-la-la-la-la-la
+Dialogue: 200,0:06:05.84,0:06:10.24,Background Dialogue,,0,0,0,,{\rCHS_LYC}像这样的时刻 变卦的内心\N{\rENG_LYC}See at times like these with a change of heart
+Dialogue: 200,0:06:10.24,0:06:14.24,Background Dialogue,,0,0,0,,{\rCHS_LYC}一切已完结 来不及开始\N{\rENG_LYC}It was over and done before we had a start
+Dialogue: 200,0:06:14.24,0:06:18.33,Background Dialogue,,0,0,0,,{\rCHS_LYC}这挥之不去 我无所适从\N{\rENG_LYC}It goes on in my head and I'll wind up dead
+Dialogue: 200,0:06:18.33,0:06:22.24,Background Dialogue,,0,0,0,,{\rCHS_LYC}唱着 Sha-la-la-la-la-la-la-la-la\N{\rENG_LYC}Singing sha-la-la-la-la-la-la-la-la
 Dialogue: 200,0:06:30.02,0:06:33.95,Background Dialogue,,0,0,0,,{\rCHS_LYC}如果天上繁星坠向这大地\N{\rENG_LYC}What if all the stars came crashing to the ground
 Dialogue: 200,0:06:33.95,0:06:37.84,Background Dialogue,,0,0,0,,{\rCHS_LYC}而爆炸与火光在周围肆意蔓延\N{\rENG_LYC}And explosions and fires started happening all around
-Dialogue: 200,0:06:38.29,0:06:43.11,Background Dialogue,,0,0,0,,{\rCHS_LYC}你愿相信我并回家还是隔岸观火?\N{\rENG_LYC}Would you believe me and come home or sit back, let it be?
+Dialogue: 200,0:06:38.29,0:06:43.11,Background Dialogue,,0,0,0,,{\rCHS_LYC}你愿相信我并回家还是隔岸观火?\N{\rENG_LYC}Would you believe me and come home or sit back, let it be? 
 Dialogue: 200,0:06:43.11,0:06:45.95,Background Dialogue,,0,0,0,,{\rCHS_LYC}我不能自己一人\N{\rENG_LYC}I can't do this by myself
 Dialogue: 600,0:06:43.11,0:06:45.95,Hint,,0,0,0,,{\an2}神秘女子骑的摩托车应该是1974年款Suzuki TS250\N警车类似1987年款Mitsubishi Galant Sigma
 Dialogue: 200,0:07:02.71,0:07:06.64,Background Dialogue,,0,0,0,,{\rCHS_LYC}如果我告诉你世界即将毁灭\N{\rENG_LYC}What if I told you that the world was gonna end
 Dialogue: 200,0:07:06.64,0:07:10.46,Background Dialogue,,0,0,0,,{\rCHS_LYC}你只有15分钟陪伴我或者朋友\N{\rENG_LYC}And you had fifteen minutes to spend with me or your friends
 Dialogue: 200,0:07:10.69,0:07:14.86,Background Dialogue,,0,0,0,,{\rCHS_LYC}我想我们都用不上手机\N{\rENG_LYC}I guess we don't even need to use the phone
 Dialogue: 200,0:07:14.86,0:07:19.44,Background Dialogue,,0,0,0,,{\rCHS_LYC}我不需你回应独自就很好\N{\rENG_LYC}I don't need your answer, I'll be spending it alone
-Dialogue: 100,0:05:50.72,0:05:51.85,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠!\N{\rENG}Pearl!
-Dialogue: 100,0:05:51.86,0:05:53.26,Normal Dialog Text,,0,0,0,,{\rCHS}啊!\N{\rENG}Aaaah!
-Dialogue: 100,0:05:54.73,0:05:56.09,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Yeah, P!
-Dialogue: 100,0:05:56.09,0:05:58.39,Normal Dialog Text,,0,0,0,,{\rCHS}你在干嘛?这是红灯!\N{\rENG}What are you doing? The light was red!
-Dialogue: 100,0:05:58.40,0:06:00.33,Normal Dialog Text,,0,0,0,,{\rCHS}我知道\N{\rENG}I know.
-Dialogue: 100,0:06:04.77,0:06:06.37,Normal Dialog Text,,0,0,0,,{\rCHS}她在那\N{\rENG}There she is.
-Dialogue: 100,0:06:06.37,0:06:07.70,Normal Dialog Text,,0,0,0,,{\rCHS}你有什么计划?\N{\rENG}What's your plan?
-Dialogue: 100,0:06:07.71,0:06:10.07,Normal Dialog Text,,0,0,0,,{\rCHS}新珍珠,不计划\N{\rENG}New Pearl. No plan.
-Dialogue: 100,0:06:10.07,0:06:11.77,Normal Dialog Text,,0,0,0,,{\rCHS}呃,真的\N{\rENG}Ah, no kidding.
-Dialogue: 100,0:06:12.88,0:06:15.64,Normal Dialog Text,,0,0,0,,{\rCHS}哦\N{\rENG}Ooh.
-Dialogue: 100,0:06:16.61,0:06:18.28,Normal Dialog Text,,0,0,0,,{\rCHS}警察来了!\N{\rENG}The police want us!
-Dialogue: 100,0:06:18.28,0:06:19.72,Normal Dialog Text,,0,0,0,,{\rCHS}哦天\N{\rENG}Oh, snap!
-Dialogue: 100,0:06:19.72,0:06:21.12,Normal Dialog Text,,0,0,0,,{\rCHS}我都干什么了?!\N{\rENG} What do I do?!
+Dialogue: 100,0:05:50.72,0:05:51.85,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠!\N{\rENG}Pearl! 
+Dialogue: 100,0:05:51.86,0:05:53.26,Normal Dialog Text,,0,0,0,,{\rCHS}啊!\N{\rENG}Aaaah! 
+Dialogue: 100,0:05:54.73,0:05:56.09,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Yeah, P! 
+Dialogue: 100,0:05:56.09,0:05:58.39,Normal Dialog Text,,0,0,0,,{\rCHS}你在干嘛? 这是红灯!\N{\rENG}What are you doing? The light was red! 
+Dialogue: 100,0:05:58.40,0:06:00.33,Normal Dialog Text,,0,0,0,,{\rCHS}我知道\N{\rENG}I know. 
+Dialogue: 100,0:06:04.77,0:06:06.37,Normal Dialog Text,,0,0,0,,{\rCHS}她在那\N{\rENG}There she is. 
+Dialogue: 100,0:06:06.37,0:06:07.70,Normal Dialog Text,,0,0,0,,{\rCHS}你有什么计划?\N{\rENG}What's your plan? 
+Dialogue: 100,0:06:07.71,0:06:10.07,Normal Dialog Text,,0,0,0,,{\rCHS}新珍珠 不计划\N{\rENG}New Pearl. No plan. 
+Dialogue: 100,0:06:10.07,0:06:11.77,Normal Dialog Text,,0,0,0,,{\rCHS}呃 真的\N{\rENG}Ah, no kidding. 
+Dialogue: 100,0:06:12.88,0:06:15.64,Normal Dialog Text,,0,0,0,,{\rCHS}哦\N{\rENG}Ooh. 
+Dialogue: 100,0:06:16.61,0:06:18.28,Normal Dialog Text,,0,0,0,,{\rCHS}警察来了!\N{\rENG}The police want us! 
+Dialogue: 100,0:06:18.28,0:06:19.72,Normal Dialog Text,,0,0,0,,{\rCHS}哦天\N{\rENG}Oh, snap! 
+Dialogue: 100,0:06:19.72,0:06:21.12,Normal Dialog Text,,0,0,0,,{\rCHS}我都干什么了?!\N{\rENG} What do I do?! 
 Dialogue: 100,0:06:21.12,0:06:22.72,Normal Dialog Text,,0,0,0,,{\rCHS}你要停在路边\N{\rENG}You have to pull over to the side
-Dialogue: 100,0:06:22.72,0:06:24.29,Normal Dialog Text,,0,0,0,,{\rCHS}然后出示你的证件\N{\rENG}and show them your license.
-Dialogue: 100,0:06:24.29,0:06:26.59,Normal Dialog Text,,0,0,0,,{\rCHS}我没有证件\N{\rENG}I don't have a license.
-Dialogue: 100,0:06:26.59,0:06:28.26,Normal Dialog Text,,0,0,0,,{\rCHS}哦,好吧\N{\rENG} Oh, right.
-Dialogue: 100,0:06:28.26,0:06:29.96,Normal Dialog Text,,0,0,0,,{\rCHS}但--但你年纪大啊!\N{\rENG}But -- But, you're old!
-Dialogue: 100,0:06:29.96,0:06:31.79,Normal Dialog Text,,0,0,0,,{\rCHS}我该告诉车管所什么?\N{\rENG}What was I supposed to tell the DMV?
-Dialogue: 100,0:06:31.80,0:06:33.36,Normal Dialog Text,,0,0,0,,{\rCHS}难道我是外星人?\N{\rENG}That I'm from another planet?
-Dialogue: 100,0:06:33.36,0:06:35.80,Normal Dialog Text,,0,0,0,,{\rCHS}我都不是公民,史蒂文!\N{\rENG}I'm not exactly a citizen, Steven!
-Dialogue: 100,0:06:35.80,0:06:37.97,Normal Dialog Text,,0,0,0,,{\rCHS}那么我们该怎么做?\N{\rENG}Then what do we do?
-Dialogue: 100,0:06:49.41,0:06:50.98,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠,你不能直接肇事逃脱!\N{\rENG}Pearl, you can't just drive away!
-Dialogue: 100,0:06:50.98,0:06:52.41,Normal Dialog Text,,0,0,0,,{\rCHS}这可是很严肃的\N{\rENG}This is serious!
-Dialogue: 100,0:06:52.42,0:06:54.65,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠,你真是个--\N{\rENG}Pearl, you're a total bad --
-Dialogue: 100,0:06:54.65,0:06:57.69,Normal Dialog Text,,0,0,0,,{\rCHS}这就是为什么要系安全带\N{\rENG} This is why we buckle up.
-Dialogue: 100,0:06:59.72,0:07:01.39,Normal Dialog Text,,0,0,0,,{\rCHS}等等!\N{\rENG}Hold on!
-Dialogue: 100,0:07:08.90,0:07:11.63,Normal Dialog Text,,0,0,0,,{\rCHS}天呐撸\N{\rENG}Oh, boy.
-Dialogue: 100,0:07:17.64,0:07:18.81,Normal Dialog Text,,0,0,0,,{\rCHS}嘘\N{\rENG}Shh.
-Dialogue: 100,0:07:21.15,0:07:22.68,Normal Dialog Text,,0,0,0,,{\rCHS}他们走了吗?\N{\rENG}Are they gone?
-Dialogue: 100,0:07:22.68,0:07:23.68,Normal Dialog Text,,0,0,0,,{\rCHS}我觉得是\N{\rENG}I think so.
-Dialogue: 100,0:07:27.25,0:07:28.48,Normal Dialog Text,,0,0,0,,{\rCHS}干!\N{\rENG}Guh!
-Dialogue: 100,0:07:28.49,0:07:29.45,Normal Dialog Text,,0,0,0,,{\rCHS}怎么了?\N{\rENG}What is it?
-Dialogue: 100,0:07:29.45,0:07:31.69,Normal Dialog Text,,0,0,0,,{\rCHS}我们没油了\N{\rENG} We're out of gas.
-Dialogue: 100,0:07:31.69,0:07:33.09,Normal Dialog Text,,0,0,0,,{\rCHS}噢,怎么会?\N{\rENG}Aw, what?
-Dialogue: 100,0:07:33.09,0:07:35.02,Normal Dialog Text,,0,0,0,,{\rCHS}等等!我去找个加油站\N{\rENG}Wait! I'll find a gas station.
+Dialogue: 100,0:06:22.72,0:06:24.29,Normal Dialog Text,,0,0,0,,{\rCHS}然后出示你的证件\N{\rENG}and show them your license. 
+Dialogue: 100,0:06:24.29,0:06:26.59,Normal Dialog Text,,0,0,0,,{\rCHS}我没有证件\N{\rENG}I don't have a license. 
+Dialogue: 100,0:06:26.59,0:06:28.26,Normal Dialog Text,,0,0,0,,{\rCHS}哦 好吧\N{\rENG} Oh, right. 
+Dialogue: 100,0:06:28.26,0:06:29.96,Normal Dialog Text,,0,0,0,,{\rCHS}但--但你年纪大啊!\N{\rENG}But--But, you're old! 
+Dialogue: 100,0:06:29.96,0:06:31.79,Normal Dialog Text,,0,0,0,,{\rCHS}我该告诉车管所什么?\N{\rENG}What was I supposed to tell the DMV? 
+Dialogue: 100,0:06:31.80,0:06:33.36,Normal Dialog Text,,0,0,0,,{\rCHS}难道我是外星人?\N{\rENG}That I'm from another planet? 
+Dialogue: 100,0:06:33.36,0:06:35.80,Normal Dialog Text,,0,0,0,,{\rCHS}我都不是公民 史蒂文!\N{\rENG}I'm not exactly a citizen, Steven! 
+Dialogue: 100,0:06:35.80,0:06:37.97,Normal Dialog Text,,0,0,0,,{\rCHS}那么我们该怎么做?\N{\rENG}Then what do we do? 
+Dialogue: 100,0:06:49.41,0:06:50.98,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠 你不能直接肇事逃脱!\N{\rENG}Pearl, you can't just drive away! 
+Dialogue: 100,0:06:50.98,0:06:52.41,Normal Dialog Text,,0,0,0,,{\rCHS}这可是很严肃的\N{\rENG}This is serious! 
+Dialogue: 100,0:06:52.42,0:06:54.65,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠 你真是个--\N{\rENG}Pearl, you're a total bad--
+Dialogue: 100,0:06:54.65,0:06:57.69,Normal Dialog Text,,0,0,0,,{\rCHS}这就是为什么要系安全带\N{\rENG} This is why we buckle up. 
+Dialogue: 100,0:06:59.72,0:07:01.39,Normal Dialog Text,,0,0,0,,{\rCHS}等等!\N{\rENG}Hold on! 
+Dialogue: 100,0:07:08.90,0:07:11.63,Normal Dialog Text,,0,0,0,,{\rCHS}天呐撸\N{\rENG}Oh, boy. 
+Dialogue: 100,0:07:17.64,0:07:18.81,Normal Dialog Text,,0,0,0,,{\rCHS}嘘\N{\rENG}Shh. 
+Dialogue: 100,0:07:21.15,0:07:22.68,Normal Dialog Text,,0,0,0,,{\rCHS}他们走了吗?\N{\rENG}Are they gone? 
+Dialogue: 100,0:07:22.68,0:07:23.68,Normal Dialog Text,,0,0,0,,{\rCHS}我觉得是\N{\rENG}I think so. 
+Dialogue: 100,0:07:27.25,0:07:28.48,Normal Dialog Text,,0,0,0,,{\rCHS}干!\N{\rENG}Guh! 
+Dialogue: 100,0:07:28.49,0:07:29.45,Normal Dialog Text,,0,0,0,,{\rCHS}怎么了?\N{\rENG}What is it? 
+Dialogue: 100,0:07:29.45,0:07:31.69,Normal Dialog Text,,0,0,0,,{\rCHS}我们没油了\N{\rENG} We're out of gas. 
+Dialogue: 100,0:07:31.69,0:07:33.09,Normal Dialog Text,,0,0,0,,{\rCHS}噢 怎么会?\N{\rENG}Aw, what? 
+Dialogue: 100,0:07:33.09,0:07:35.02,Normal Dialog Text,,0,0,0,,{\rCHS}等等! 我去找个加油站\N{\rENG}Wait! I'll find a gas station. 
 Dialogue: 100,0:07:35.03,0:07:37.53,Normal Dialog Text,,0,0,0,,{\rCHS}看起来最近的...\N{\rENG}Looks like the closest one is...
-Dialogue: 100,0:07:37.53,0:07:39.46,Normal Dialog Text,,0,0,0,,{\rCHS}20英里外\N{\rENG}20 miles away.
-Dialogue: 100,0:07:44.70,0:07:46.60,Normal Dialog Text,,0,0,0,,{\rCHS}我简直没法相信\N{\rENG}I can't believe this.
-Dialogue: 100,0:07:47.67,0:07:49.60,Normal Dialog Text,,0,0,0,,{\rCHS}就差那么点\N{\rENG}I was so ready!
-Dialogue: 100,0:07:49.61,0:07:51.87,Normal Dialog Text,,0,0,0,,{\rCHS}我非常想见你说的Krol\N{\rENG}I really wanted to see your Krol.
-Dialogue: 100,0:07:51.88,0:07:54.71,Normal Dialog Text,,0,0,0,,{\rCHS}你是指?\N{\rENG}What are you talking about?
+Dialogue: 100,0:07:37.53,0:07:39.46,Normal Dialog Text,,0,0,0,,{\rCHS}20英里外\N{\rENG}20 miles away. 
+Dialogue: 100,0:07:44.70,0:07:46.60,Normal Dialog Text,,0,0,0,,{\rCHS}我简直没法相信\N{\rENG}I can't believe this. 
+Dialogue: 100,0:07:47.67,0:07:49.60,Normal Dialog Text,,0,0,0,,{\rCHS}就差那么点\N{\rENG}I was so ready! 
+Dialogue: 100,0:07:49.61,0:07:51.87,Normal Dialog Text,,0,0,0,,{\rCHS}我非常想见你说的Krol\N{\rENG}I really wanted to see your Krol. 
+Dialogue: 100,0:07:51.88,0:07:54.71,Normal Dialog Text,,0,0,0,,{\rCHS}你是指?\N{\rENG}What are you talking about? 
 Dialogue: 100,0:07:54.71,0:07:56.55,Normal Dialog Text,,0,0,0,,{\rCHS}我本要喝果汁\N{\rENG}I was going to drink a juice
-Dialogue: 100,0:07:56.55,0:07:59.82,Normal Dialog Text,,0,0,0,,{\rCHS}和穿这种裤子!\N{\rENG}and wear these  pants!
-Dialogue: 100,0:07:59.82,0:08:01.15,Normal Dialog Text,,0,0,0,,{\rCHS}咦～\N{\rENG}Ugh!
-Dialogue: 100,0:08:01.15,0:08:04.49,Normal Dialog Text,,0,0,0,,{\rCHS}然后--轻轻的推搡人群\N{\rENG}And --  -- hit people gently enough
-Dialogue: 100,0:08:04.49,0:08:07.32,Normal Dialog Text,,0,0,0,,{\rCHS}像你说的,不至于伤害他们那种\N{\rENG}as to not actually hurt them, and you'd say,
-Dialogue: 100,0:08:07.32,0:08:10.16,Normal Dialog Text,,0,0,0,,{\rCHS}"哇!珍珠真是酷!"\N{\rENG}"Wow! Pearl is really cool!"
-Dialogue: 100,0:08:10.16,0:08:14.63,Normal Dialog Text,,0,0,0,,{\rCHS}但不,相反,我们放着喧嚣的音乐\N{\rENG}But no, instead, we drove to loud music,
-Dialogue: 100,0:08:14.63,0:08:16.90,Normal Dialog Text,,0,0,0,,{\rCHS}开着车在半夜追逐那神秘女子\N{\rENG}chased a mysterious woman into the night,
-Dialogue: 100,0:08:16.90,0:08:18.50,Normal Dialog Text,,0,0,0,,{\rCHS}还犯了法\N{\rENG}and broke the law.
-Dialogue: 100,0:08:19.90,0:08:21.14,Normal Dialog Text,,0,0,0,,{\rCHS}我已经失去理智了\N{\rENG}I've lost my edge.
-Dialogue: 100,0:08:21.14,0:08:24.07,Normal Dialog Text,,0,0,0,,{\rCHS}我本应呆在家里拼拼图的\N{\rENG}I should have stayed home with the puzzle.
-Dialogue: 100,0:08:24.84,0:08:26.21,Normal Dialog Text,,0,0,0,,{\rCHS}听听你自己\N{\rENG}Listen to yourself.
-Dialogue: 100,0:08:26.21,0:08:28.84,Normal Dialog Text,,0,0,0,,{\rCHS}你真是顽固!\N{\rENG}You're so hard core!
-Dialogue: 100,0:08:28.85,0:08:30.75,Normal Dialog Text,,0,0,0,,{\rCHS}谁在乎裤子?\N{\rENG}Who cares about pants?
-Dialogue: 100,0:08:30.75,0:08:32.65,Normal Dialog Text,,0,0,0,,{\rCHS}你穿着它甩掉了警察!\N{\rENG}You gunned it from the cops!
-Dialogue: 100,0:08:32.65,0:08:35.75,Normal Dialog Text,,0,0,0,,{\rCHS}那是自从你差点害死我以来最吓人的时刻\N{\rENG}That's the most scared I've been since you almost let me die!
+Dialogue: 100,0:07:56.55,0:07:59.82,Normal Dialog Text,,0,0,0,,{\rCHS}和穿这种裤子!\N{\rENG}and wear these pants! 
+Dialogue: 100,0:07:59.82,0:08:01.15,Normal Dialog Text,,0,0,0,,{\rCHS}咦～\N{\rENG}Ugh! 
+Dialogue: 100,0:08:01.15,0:08:04.49,Normal Dialog Text,,0,0,0,,{\rCHS}然后--轻轻的推搡人群\N{\rENG}And----hit people gently enough
+Dialogue: 100,0:08:04.49,0:08:07.32,Normal Dialog Text,,0,0,0,,{\rCHS}像你说的 不至于伤害他们那种\N{\rENG}as to not actually hurt them, and you'd say, 
+Dialogue: 100,0:08:07.32,0:08:10.16,Normal Dialog Text,,0,0,0,,{\rCHS}"哇! 珍珠真是酷!"\N{\rENG}"Wow! Pearl is really cool!"
+Dialogue: 100,0:08:10.16,0:08:14.63,Normal Dialog Text,,0,0,0,,{\rCHS}但不 相反 我们放着喧嚣的音乐\N{\rENG}But no, instead, we drove to loud music, 
+Dialogue: 100,0:08:14.63,0:08:16.90,Normal Dialog Text,,0,0,0,,{\rCHS}开着车在半夜追逐那神秘女子\N{\rENG}chased a mysterious woman into the night, 
+Dialogue: 100,0:08:16.90,0:08:18.50,Normal Dialog Text,,0,0,0,,{\rCHS}还犯了法\N{\rENG}and broke the law. 
+Dialogue: 100,0:08:19.90,0:08:21.14,Normal Dialog Text,,0,0,0,,{\rCHS}我已经失去理智了\N{\rENG}I've lost my edge. 
+Dialogue: 100,0:08:21.14,0:08:24.07,Normal Dialog Text,,0,0,0,,{\rCHS}我本应呆在家里拼拼图的\N{\rENG}I should have stayed home with the puzzle. 
+Dialogue: 100,0:08:24.84,0:08:26.21,Normal Dialog Text,,0,0,0,,{\rCHS}听听你自己\N{\rENG}Listen to yourself. 
+Dialogue: 100,0:08:26.21,0:08:28.84,Normal Dialog Text,,0,0,0,,{\rCHS}你真是顽固!\N{\rENG}You're so hard core! 
+Dialogue: 100,0:08:28.85,0:08:30.75,Normal Dialog Text,,0,0,0,,{\rCHS}谁在乎裤子?\N{\rENG}Who cares about pants? 
+Dialogue: 100,0:08:30.75,0:08:32.65,Normal Dialog Text,,0,0,0,,{\rCHS}你穿着它甩掉了警察!\N{\rENG}You gunned it from the cops! 
+Dialogue: 100,0:08:32.65,0:08:35.75,Normal Dialog Text,,0,0,0,,{\rCHS}那是自从你差点害死我以来最吓人的时刻\N{\rENG}That's the most scared I've been since you almost let me die! 
 Dialogue: 600,0:08:32.65,0:08:35.75,Hint,,0,0,0,,详见S01E45与S01E28
-Dialogue: 100,0:08:35.75,0:08:37.39,Normal Dialog Text,,0,0,0,,{\rCHS}你现在是个法外狂徒了!\N{\rENG}You're a criminal now!
+Dialogue: 100,0:08:35.75,0:08:37.39,Normal Dialog Text,,0,0,0,,{\rCHS}你现在是个法外狂徒了!\N{\rENG}You're a criminal now! 
 Dialogue: 100,0:08:37.39,0:08:38.92,Normal Dialog Text,,0,0,0,,{\rCHS}"现在?"\N{\rENG}"Now?"
-Dialogue: 100,0:08:40.32,0:08:42.82,Normal Dialog Text,,0,0,0,,{\rCHS}我6000年来一直都是\N{\rENG}I've been a criminal for 6,000 years.
-Dialogue: 100,0:08:44.26,0:08:47.93,Normal Dialog Text,,0,0,0,,{\rCHS}等等,你听到了吗?\N{\rENG} Wait. Do you hear that?
-Dialogue: 100,0:08:47.93,0:08:50.83,Normal Dialog Text,,0,0,0,,{\rCHS}我们做到了!\N{\rENG}We made it!
+Dialogue: 100,0:08:40.32,0:08:42.82,Normal Dialog Text,,0,0,0,,{\rCHS}我6000年来一直都是\N{\rENG}I've been a criminal for 6, 000 years. 
+Dialogue: 100,0:08:44.26,0:08:47.93,Normal Dialog Text,,0,0,0,,{\rCHS}等等 你听到了吗?\N{\rENG} Wait. Do you hear that? 
+Dialogue: 100,0:08:47.93,0:08:50.83,Normal Dialog Text,,0,0,0,,{\rCHS}我们做到了!\N{\rENG}We made it! 
 Dialogue: 200,0:08:50.83,0:08:52.07,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我像一颗恒星\N{\rENG_LYC}♪ I'm like a star
 Dialogue: 200,0:08:52.07,0:08:53.84,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我快速的燃烧\N{\rENG_LYC}♪ I'm burning out fast
 Dialogue: 200,0:08:53.84,0:08:54.94,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我试图闪耀\N{\rENG_LYC}♪ I try to shine
 Dialogue: 200,0:08:54.94,0:08:56.61,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}但不能永存\N{\rENG_LYC}♪ But it's never gonna last
-Dialogue: 50,0:08:56.88,0:08:59.53,Background Dialogue,,0,0,0,,{\rCHS_LYC}看不出只能让人失望？\N{\rENG_LYC}♪ can't you see I'm just letting you down?
+Dialogue: 50,0:08:56.88,0:08:59.53,Background Dialogue,,0,0,0,,{\rCHS_LYC}看不出只能让人失望?\N{\rENG_LYC}♪ can't you see I'm just letting you down? 
 Dialogue: 50,0:09:02.37,0:09:05.17,Background Dialogue,,0,0,0,,{\rCHS_LYC}和所有朋友合个影\N{\rENG_LYC}♪ With all my friends I'll make a picture
 Dialogue: 50,0:09:05.17,0:09:07.90,Background Dialogue,,0,0,0,,{\rCHS_LYC}但清晨时我已离去\N{\rENG_LYC}♪ but in the morning I'll be gone
-Dialogue: 50,0:09:24.95,0:09:27.86,Background Dialogue,,0,0,0,,{\rCHS_LYC}我想念你,太阳高挂时\N{\rENG_LYC}♪ I'm missing you, during the days
-Dialogue: 50,0:09:27.86,0:09:30.60,Background Dialogue,,0,0,0,,{\rCHS_LYC}当早晨到来时,我只能离去\N{\rENG_LYC}♪ When the morning comes, I can't stay
-Dialogue: 50,0:09:30.62,0:09:33.60,Background Dialogue,,0,0,0,,{\rCHS_LYC}你若看到我,我则应你愿\N{\rENG_LYC}♪ If you saw me now, then I grant you wish
-Dialogue: 50,0:09:36.00,0:09:37.45,Background Dialogue,,0,0,0,,{\rCHS_LYC}如同恒星\N{\rENG_LYC}♪ I'm like a star,
-Dialogue: 50,0:09:37.60,0:09:39.03,Background Dialogue,,0,0,0,,{\rCHS_LYC}疾速的燃烧\N{\rENG_LYC}♪ I'm burning out fast,
-Dialogue: 50,0:09:39.03,0:09:40.16,Background Dialogue,,0,0,0,,{\rCHS_LYC}试图闪耀\N{\rENG_LYC}♪ I'm try to shine,
-Dialogue: 50,0:09:40.63,0:09:42.20,Background Dialogue,,0,0,0,,{\rCHS_LYC}但不会永远如此\N{\rENG_LYC}♪ but it's never gonna last,
-Dialogue: 50,0:09:42.47,0:09:45.12,Background Dialogue,,0,0,0,,{\rCHS_LYC}看不出只能让人失望？\N{\rENG_LYC}♪ can't you see I'm just letting you down?
-Dialogue: 100,0:08:56.61,0:08:59.27,Normal Dialog Text,,0,0,0,,{\rCHS}那个女孩!\N{\rENG} And there's the girl.
-Dialogue: 100,0:08:59.28,0:09:00.94,Normal Dialog Text,,0,0,0,,{\rCHS}她真的来这里了\N{\rENG}She's actually here.
-Dialogue: 100,0:09:00.94,0:09:02.28,Normal Dialog Text,,0,0,0,,{\rCHS}不可能\N{\rENG}No way.
-Dialogue: 100,0:09:02.28,0:09:03.95,Normal Dialog Text,,0,0,0,,{\rCHS}我要去跟她谈谈\N{\rENG}I'm going to talk to her.
-Dialogue: 100,0:09:03.95,0:09:05.28,Normal Dialog Text,,0,0,0,,{\rCHS}等等,珍珠\N{\rENG}Look, Pearl.
-Dialogue: 100,0:09:05.28,0:09:06.78,Normal Dialog Text,,0,0,0,,{\rCHS}我完全认为你很酷\N{\rENG}I already think you're cool.
+Dialogue: 50,0:09:24.95,0:09:27.86,Background Dialogue,,0,0,0,,{\rCHS_LYC}我想念你 太阳高挂时\N{\rENG_LYC}♪ I'm missing you, during the days
+Dialogue: 50,0:09:27.86,0:09:30.60,Background Dialogue,,0,0,0,,{\rCHS_LYC}当早晨到来时 我只能离去\N{\rENG_LYC}♪ When the morning comes, I can't stay
+Dialogue: 50,0:09:30.62,0:09:33.60,Background Dialogue,,0,0,0,,{\rCHS_LYC}你若看到我 我则应你愿\N{\rENG_LYC}♪ If you saw me now, then I grant you wish
+Dialogue: 50,0:09:36.00,0:09:37.45,Background Dialogue,,0,0,0,,{\rCHS_LYC}如同恒星\N{\rENG_LYC}♪ I'm like a star, 
+Dialogue: 50,0:09:37.60,0:09:39.03,Background Dialogue,,0,0,0,,{\rCHS_LYC}疾速的燃烧\N{\rENG_LYC}♪ I'm burning out fast, 
+Dialogue: 50,0:09:39.03,0:09:40.16,Background Dialogue,,0,0,0,,{\rCHS_LYC}试图闪耀\N{\rENG_LYC}♪ I'm try to shine, 
+Dialogue: 50,0:09:40.63,0:09:42.20,Background Dialogue,,0,0,0,,{\rCHS_LYC}但不会永远如此\N{\rENG_LYC}♪ but it's never gonna last, 
+Dialogue: 50,0:09:42.47,0:09:45.12,Background Dialogue,,0,0,0,,{\rCHS_LYC}看不出只能让人失望?\N{\rENG_LYC}♪ can't you see I'm just letting you down? 
+Dialogue: 100,0:08:56.61,0:08:59.27,Normal Dialog Text,,0,0,0,,{\rCHS}那个女孩!\N{\rENG} And there's the girl. 
+Dialogue: 100,0:08:59.28,0:09:00.94,Normal Dialog Text,,0,0,0,,{\rCHS}她真的来这里了\N{\rENG}She's actually here. 
+Dialogue: 100,0:09:00.94,0:09:02.28,Normal Dialog Text,,0,0,0,,{\rCHS}不可能\N{\rENG}No way. 
+Dialogue: 100,0:09:02.28,0:09:03.95,Normal Dialog Text,,0,0,0,,{\rCHS}我要去跟她谈谈\N{\rENG}I'm going to talk to her. 
+Dialogue: 100,0:09:03.95,0:09:05.28,Normal Dialog Text,,0,0,0,,{\rCHS}等等 珍珠\N{\rENG}Look, Pearl. 
+Dialogue: 100,0:09:05.28,0:09:06.78,Normal Dialog Text,,0,0,0,,{\rCHS}我完全认为你很酷\N{\rENG}I already think you're cool. 
 Dialogue: 100,0:09:06.78,0:09:08.05,Normal Dialog Text,,0,0,0,,{\rCHS}你可以轻易融入\N{\rENG}You can ease into
-Dialogue: 100,0:09:08.05,0:09:10.79,Normal Dialog Text,,0,0,0,,{\rCHS}人类的社交中\N{\rENG}the socializing with humans thing.
-Dialogue: 100,0:09:13.92,0:09:16.43,Normal Dialog Text,,0,0,0,,{\rCHS}帮我看着史蒂文\N{\rENG}Watch Steven for me.
-Dialogue: 100,0:09:16.43,0:09:19.76,Normal Dialog Text,,0,0,0,,{\rCHS}等等!你不用着急!\N{\rENG}Wait, no! You can start smaller!
-Dialogue: 100,0:09:19.76,0:09:20.90,Normal Dialog Text,,0,0,0,,{\rCHS}先试试书呆子啊!\N{\rENG}Talk to a nerd!
-Dialogue: 100,0:09:20.90,0:09:23.60,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶\N{\rENG}Amethyst.
-Dialogue: 100,0:09:23.60,0:09:25.60,Normal Dialog Text,,0,0,0,,{\rCHS}噢,不!\N{\rENG}Aw, no!
-Dialogue: 100,0:09:25.60,0:09:28.07,Normal Dialog Text,,0,0,0,,{\rCHS}喔,她先握手?\N{\rENG}Ooh. She's starting with a handshake?
-Dialogue: 100,0:09:28.07,0:09:30.77,Normal Dialog Text,,0,0,0,,{\rCHS}哦,她开始了\N{\rENG}Oh, she went for it.
-Dialogue: 100,0:09:30.77,0:09:31.97,Normal Dialog Text,,0,0,0,,{\rCHS}她们都在笑\N{\rENG}They're both smiling.
-Dialogue: 100,0:09:31.98,0:09:33.41,Normal Dialog Text,,0,0,0,,{\rCHS}我不敢相信\N{\rENG} I can't believe this.
-Dialogue: 100,0:09:33.41,0:09:35.11,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠在说什么?\N{\rENG}What is pearl saying?
-Dialogue: 100,0:09:35.11,0:09:37.41,Normal Dialog Text,,0,0,0,,{\rCHS}我不知道,但那个女孩在笑\N{\rENG}I don't know, but the girl's laughing.
-Dialogue: 100,0:09:37.41,0:09:40.25,Normal Dialog Text,,0,0,0,,{\rCHS}你觉得是嘲笑还是笑而已?\N{\rENG}You think she's laughing at her or with her?
-Dialogue: 100,0:09:40.25,0:09:41.48,Normal Dialog Text,,0,0,0,,{\rCHS}看不出来\N{\rENG}Hard to tell.
-Dialogue: 100,0:09:41.49,0:09:43.99,Normal Dialog Text,,0,0,0,,{\rCHS}等等!她回来了!\N{\rENG}Shh-shh! She's coming back!
-Dialogue: 100,0:09:43.99,0:09:45.45,Normal Dialog Text,,0,0,0,,{\rCHS}怎么样?\N{\rENG}How'd it go?
-Dialogue: 100,0:09:45.46,0:09:46.82,Normal Dialog Text,,0,0,0,,{\rCHS}我问了头发的事\N{\rENG}I asked her about her hair,
-Dialogue: 100,0:09:46.82,0:09:49.16,Normal Dialog Text,,0,0,0,,{\rCHS}然后她问我又是怎么染的\N{\rENG}and then she asked how I colored mine.
-Dialogue: 100,0:09:49.16,0:09:51.06,Normal Dialog Text,,0,0,0,,{\rCHS}我告诉她,我的外表只是\N{\rENG}I told her "My appearance is just
+Dialogue: 100,0:09:08.05,0:09:10.79,Normal Dialog Text,,0,0,0,,{\rCHS}人类的社交中\N{\rENG}the socializing with humans thing. 
+Dialogue: 100,0:09:13.92,0:09:16.43,Normal Dialog Text,,0,0,0,,{\rCHS}帮我看着史蒂文\N{\rENG}Watch Steven for me. 
+Dialogue: 100,0:09:16.43,0:09:19.76,Normal Dialog Text,,0,0,0,,{\rCHS}等等! 你不用着急!\N{\rENG}Wait, no! You can start smaller! 
+Dialogue: 100,0:09:19.76,0:09:20.90,Normal Dialog Text,,0,0,0,,{\rCHS}先试试书呆子啊!\N{\rENG}Talk to a nerd! 
+Dialogue: 100,0:09:20.90,0:09:23.60,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶\N{\rENG}Amethyst. 
+Dialogue: 100,0:09:23.60,0:09:25.60,Normal Dialog Text,,0,0,0,,{\rCHS}噢 不!\N{\rENG}Aw, no! 
+Dialogue: 100,0:09:25.60,0:09:28.07,Normal Dialog Text,,0,0,0,,{\rCHS}喔 她先握手?\N{\rENG}Ooh. She's starting with a handshake? 
+Dialogue: 100,0:09:28.07,0:09:30.77,Normal Dialog Text,,0,0,0,,{\rCHS}哦 她开始了\N{\rENG}Oh, she went for it. 
+Dialogue: 100,0:09:30.77,0:09:31.97,Normal Dialog Text,,0,0,0,,{\rCHS}她们都在笑\N{\rENG}They're both smiling. 
+Dialogue: 100,0:09:31.98,0:09:33.41,Normal Dialog Text,,0,0,0,,{\rCHS}我不敢相信\N{\rENG} I can't believe this. 
+Dialogue: 100,0:09:33.41,0:09:35.11,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠在说什么?\N{\rENG}What is pearl saying? 
+Dialogue: 100,0:09:35.11,0:09:37.41,Normal Dialog Text,,0,0,0,,{\rCHS}我不知道 但那个女孩在笑\N{\rENG}I don't know, but the girl's laughing. 
+Dialogue: 100,0:09:37.41,0:09:40.25,Normal Dialog Text,,0,0,0,,{\rCHS}你觉得是嘲笑还是笑而已?\N{\rENG}You think she's laughing at her or with her? 
+Dialogue: 100,0:09:40.25,0:09:41.48,Normal Dialog Text,,0,0,0,,{\rCHS}看不出来\N{\rENG}Hard to tell. 
+Dialogue: 100,0:09:41.49,0:09:43.99,Normal Dialog Text,,0,0,0,,{\rCHS}等等! 她回来了!\N{\rENG}Shh-shh! She's coming back! 
+Dialogue: 100,0:09:43.99,0:09:45.45,Normal Dialog Text,,0,0,0,,{\rCHS}怎么样?\N{\rENG}How'd it go? 
+Dialogue: 100,0:09:45.46,0:09:46.82,Normal Dialog Text,,0,0,0,,{\rCHS}我问了头发的事\N{\rENG}I asked her about her hair, 
+Dialogue: 100,0:09:46.82,0:09:49.16,Normal Dialog Text,,0,0,0,,{\rCHS}然后她问我又是怎么染的\N{\rENG}and then she asked how I colored mine. 
+Dialogue: 100,0:09:49.16,0:09:51.06,Normal Dialog Text,,0,0,0,,{\rCHS}我告诉她 我的外表只是\N{\rENG}I told her "My appearance is just
 Dialogue: 100,0:09:51.06,0:09:53.09,Normal Dialog Text,,0,0,0,,{\rCHS}由光刻意制造的\N{\rENG}a conscious manifestation of light."
-Dialogue: 100,0:09:53.10,0:09:56.10,Normal Dialog Text,,0,0,0,,{\rCHS}然后她说,"我知道那是什么."\N{\rENG}And she said, "I know how that is."
-Dialogue: 100,0:09:56.10,0:09:58.27,Normal Dialog Text,,0,0,0,,{\rCHS}虽然我不信\N{\rENG}Although,  I highly doubt it.
-Dialogue: 100,0:09:58.27,0:10:00.17,Normal Dialog Text,,0,0,0,,{\rCHS}噢,我接着补充,"还有,"\N{\rENG}Oh, and then I added, "By the way,
-Dialogue: 100,0:10:00.17,0:10:02.10,Normal Dialog Text,,0,0,0,,{\rCHS}"我挽救了你的星球和种族,"\N{\rENG}I saved your planet and your species
+Dialogue: 100,0:09:53.10,0:09:56.10,Normal Dialog Text,,0,0,0,,{\rCHS}然后她说 "我知道那是什么."\N{\rENG}And she said, "I know how that is."
+Dialogue: 100,0:09:56.10,0:09:58.27,Normal Dialog Text,,0,0,0,,{\rCHS}虽然我不信\N{\rENG}Although, I highly doubt it. 
+Dialogue: 100,0:09:58.27,0:10:00.17,Normal Dialog Text,,0,0,0,,{\rCHS}噢 我接着补充 "还有 "\N{\rENG}Oh, and then I added, "By the way, 
+Dialogue: 100,0:10:00.17,0:10:02.10,Normal Dialog Text,,0,0,0,,{\rCHS}"我挽救了你的星球和种族 "\N{\rENG}I saved your planet and your species
 Dialogue: 100,0:10:02.11,0:10:03.17,Normal Dialog Text,,0,0,0,,{\rCHS}"不谢."\N{\rENG}and you're welcome."
-Dialogue: 100,0:10:03.17,0:10:05.84,Normal Dialog Text,,0,0,0,,{\rCHS}最后怎么样?\N{\rENG}And how'd that go over?
-Dialogue: 100,0:10:05.84,0:10:07.41,Normal Dialog Text,,0,0,0,,{\rCHS}不是非常好\N{\rENG}Not very well.
-Dialogue: 100,0:10:07.41,0:10:11.85,Normal Dialog Text,,0,0,0,,{\rCHS}她给我某种代码后就走了\N{\rENG}She walked off after giving me some sort of code.
-Dialogue: 100,0:10:15.62,0:10:17.19,Normal Dialog Text,,0,0,0,,{\rCHS}嘿!\N{\rENG}No way!
-Dialogue: 100,0:10:17.19,0:10:19.45,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠,那是电话号码!\N{\rENG}Pearl, that's a phone number!
+Dialogue: 100,0:10:03.17,0:10:05.84,Normal Dialog Text,,0,0,0,,{\rCHS}最后怎么样?\N{\rENG}And how'd that go over? 
+Dialogue: 100,0:10:05.84,0:10:07.41,Normal Dialog Text,,0,0,0,,{\rCHS}不是非常好\N{\rENG}Not very well. 
+Dialogue: 100,0:10:07.41,0:10:11.85,Normal Dialog Text,,0,0,0,,{\rCHS}她给我某种代码后就走了\N{\rENG}She walked off after giving me some sort of code. 
+Dialogue: 100,0:10:15.62,0:10:17.19,Normal Dialog Text,,0,0,0,,{\rCHS}嘿!\N{\rENG}No way! 
+Dialogue: 100,0:10:17.19,0:10:19.45,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠 那是电话号码!\N{\rENG}Pearl, that's a phone number! 
 Dialogue: 100,0:10:19.46,0:10:21.09,Normal Dialog Text,,0,0,0,,{\rCHS}她希望你打给她\N{\rENG}She wants you to call her
-Dialogue: 100,0:10:21.09,0:10:22.99,Normal Dialog Text,,0,0,0,,{\rCHS}跟她在电话上聊\N{\rENG}and talk to her on the phone!
-Dialogue: 100,0:10:22.99,0:10:25.79,Normal Dialog Text,,0,0,0,,{\rCHS}哦,好吧,我没电话\N{\rENG}Oh, well, I don't have a phone.
-Dialogue: 100,0:10:25.80,0:10:26.96,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠!\N{\rENG}Pearl!
-Dialogue: 100,0:10:26.96,0:10:29.43,Normal Dialog Text,,0,0,0,,{\rCHS}你刚刚对她就你的光本质莎翁式装b,\N{\rENG}You just like gave her some Shakespearean spiel
-Dialogue: 100,0:10:29.43,0:10:32.87,Normal Dialog Text,,0,0,0,,{\rCHS}接着就随随便便拿到号码了!\N{\rENG}about light then got her number like it was nothing!
-Dialogue: 100,0:10:34.14,0:10:37.44,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠,你完全是个明星!\N{\rENG}Pearl, you're a total rock star!
+Dialogue: 100,0:10:21.09,0:10:22.99,Normal Dialog Text,,0,0,0,,{\rCHS}跟她在电话上聊\N{\rENG}and talk to her on the phone! 
+Dialogue: 100,0:10:22.99,0:10:25.79,Normal Dialog Text,,0,0,0,,{\rCHS}哦 好吧 我没电话\N{\rENG}Oh, well, I don't have a phone. 
+Dialogue: 100,0:10:25.80,0:10:26.96,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠!\N{\rENG}Pearl! 
+Dialogue: 100,0:10:26.96,0:10:29.43,Normal Dialog Text,,0,0,0,,{\rCHS}你刚刚对她就你的光本质莎翁式装b \N{\rENG}You just like gave her some Shakespearean spiel
+Dialogue: 100,0:10:29.43,0:10:32.87,Normal Dialog Text,,0,0,0,,{\rCHS}接着就随随便便拿到号码了!\N{\rENG}about light then got her number like it was nothing! 
+Dialogue: 100,0:10:34.14,0:10:37.44,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠 你完全是个明星!\N{\rENG}Pearl, you're a total rock star! 
 Dialogue: 500,0:10:40.49,0:10:42.33,Label Trans,,0,0,0,,{\fn黑体\fs80\frz0\bord0\shad0\pos(1464,908)}珍珠\N{\fs48}饰\N{\fs80}压抑的书呆子
 Dialogue: 500,0:10:42.46,0:10:44.33,Label Trans,,0,0,0,,{\fn黑体\fs80\frz0\bord0\shad0\pos(392,716)}紫晶\N{\fs48}饰\N{\fs80}至尊辅助
 Dialogue: 0,0:10:44.48,0:10:46.33,Label Trans,,0,0,0,,{\fn黑体\fs80\frz0\bord0\shad0\pos(1520,510)}史蒂文\N{\fs48}饰\N{\fs80}理智之人
@@ -346,5 +345,6 @@ Dialogue: 150,0:10:39.42,0:10:43.33,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}如果�
 Dialogue: 150,0:10:43.33,0:10:47.46,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}你只有15分钟陪伴我或者朋友\N{\rENG_LYC}And you had fifteen minutes to spend with me or your friends
 Dialogue: 150,0:10:47.46,0:10:51.57,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}你是否愿坐头班车来我家\N{\rENG_LYC}Would you take the first bus over to my house
 Dialogue: 150,0:10:51.57,0:10:55.73,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}或者去坐末班机到西海岸?\N{\rENG_LYC}Or would you take the last plane over the West Coast
-Dialogue: 150,0:10:56.06,0:11:00.46,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}像这样的时刻,变卦的内心\N{\rENG_LYC}See at times like these with a change of heart
+Dialogue: 150,0:10:56.06,0:11:00.46,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}像这样的时刻 变卦的内心\N{\rENG_LYC}See at times like these with a change of heart
 Dialogue: 150,0:11:00.46,0:11:03.22,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}一切已完结\N{\rENG_LYC}It was over and done before
+

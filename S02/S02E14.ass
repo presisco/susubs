@@ -9,7 +9,6 @@ YCbCr Matrix: TV.601
 PlayResX: 1920
 PlayResY: 1080
 
-
 [Aegisub Project Garbage]
 Last Style Storage: Default
 Audio File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E14.Cry.for.Help.1080p.WEBRip.h264.AAC-AliQ.mp4
@@ -20,7 +19,6 @@ Video Zoom Percent: 0.500000
 Scroll Position: 249
 Active Line: 252
 Video Position: 15195
-
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -44,19 +42,18 @@ Style: Hint,微软雅黑,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 1,0:00:23.60,0:00:25.05,SU Title,,0,0,0,,{\pos(1173,180)\xshad-0\yshad16}求救
-Dialogue: 1,0:00:25.10,0:00:26.57,SU Claim,,0,0,0,,欢迎关注微博@UUU字幕组，获取最新熟肉信息！
+Dialogue: 1,0:00:25.10,0:00:26.57,SU Claim,,0,0,0,,欢迎关注微博@ UUU字幕组 获取最新熟肉信息! 
 Dialogue: 1,0:00:25.10,0:00:26.57,SU Team Title,,0,0,0,,{\pos(1725,260)}出品
 Dialogue: 1,0:00:25.10,0:00:26.57,SU Team Member,,0,0,0,,{\pos(1725,320)}presisco
 Dialogue: 1,0:00:25.10,0:00:26.57,SU Team Title,,0,0,0,,{\pos(1725,380)}翻译
-Dialogue: 1,0:00:25.10,0:00:26.57,SU Team Member,,0,0,0,,{\pos(1725,440)}零玖/presisco
+Dialogue: 1,0:00:25.10,0:00:26.57,SU Team Member,,0,0,0,,{\pos(1725,440)}零玖/ presisco
 Dialogue: 1,0:00:25.10,0:00:26.57,SU Team Title,,0,0,0,,{\pos(1725,500)}校对
 Dialogue: 1,0:00:25.10,0:00:26.57,SU Team Member,,0,0,0,,{\pos(1725,560)}presisco
 Dialogue: 1,0:00:25.10,0:00:26.57,SU Team Title,,0,0,0,,{\pos(1725,620)}特效
 Dialogue: 1,0:00:25.10,0:00:26.57,SU Team Member,,0,0,0,,{\pos(1725,680)}presisco
 Dialogue: 1,0:00:25.10,0:00:26.57,SU Team Title,,0,0,0,,{\pos(1725,740)}压制
 Dialogue: 1,0:00:25.10,0:00:26.57,SU Team Member,,0,0,0,,{\pos(1725,800)}presisco
-Dialogue: 0,0:00:25.10,0:00:26.57,SU Team Background,,0,0,0,,{\bord0\xshad-0\yshad16\pos(1725,860)}{\p1}m -1 122 b -1 -19 -19 -1 122 -1 l 251 -1 b 390 -1 377 -19 377 122 l 377 500 b 377 642 390 628 251 628 l 122 628 b -19 628 -1 642 -1 500 l -1 122 {\p0}
-Dialogue: 200,0:00:01.06,0:00:03.56,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们,是水晶\N{\rENG_LYC}♪ We ♪ are the crystal
+Dialogue: 200,0:00:01.06,0:00:03.56,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们 是水晶\N{\rENG_LYC}♪ We ♪ are the crystal
 Dialogue: 200,0:00:03.57,0:00:04.54,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}战士\N{\rENG_LYC}♪ gems
 Dialogue: 200,0:00:04.54,0:00:07.00,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们总能拯救世界\N{\rENG_LYC}♪ we'll always save the day
 Dialogue: 200,0:00:07.00,0:00:10.00,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}如果你认为我们不行\N{\rENG_LYC}♪ and if you think we can't, we'll ♪
@@ -67,85 +64,85 @@ Dialogue: 200,0:00:16.10,0:00:17.84,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}相信\N
 Dialogue: 200,0:00:17.84,0:00:18.50,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}石榴\N{\rENG_LYC}♪ Garnet
 Dialogue: 200,0:00:18.50,0:00:19.80,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}紫晶\N{\rENG_LYC}♪ Amethyst
 Dialogue: 200,0:00:19.80,0:00:21.26,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}和珍珠\N{\rENG_LYC}♪ and Pearl
-Dialogue: 200,0:00:21.28,0:00:23.22,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}和史蒂文!\N{\rENG_LYC}and Steven!
-Dialogue: 100,0:00:36.13,0:00:37.73,Normal Dialog Text,,0,0,0,,{\rCHS}我理解不了这个动画,兄弟\N{\rENG}I don't get this cartoon, man.
-Dialogue: 100,0:00:37.73,0:00:40.23,Normal Dialog Text,,0,0,0,,{\rCHS}它们为什么不干脆把地上的冰淇淋吃掉呢?\N{\rENG}Why don't they just eat the ice cream off the floor?
-Dialogue: 100,0:00:40.24,0:00:41.80,Normal Dialog Text,,0,0,0,,{\rCHS}他们没必要哭啊\N{\rENG}They don't have to cry about it.
-Dialogue: 100,0:00:43.31,0:00:46.14,Normal Dialog Text,,0,0,0,,{\rCHS}嗷,又来了\N{\rENG}Aw, not again.
-Dialogue: 100,0:00:46.14,0:00:48.31,Normal Dialog Text,,0,0,0,,{\rCHS}昨天也出现过这种情况\N{\rENG}It was doing this yesterday, too.
-Dialogue: 100,0:00:48.31,0:00:50.88,Normal Dialog Text,,0,0,0,,{\rCHS}等一下,我能搞定\N{\rENG}Hang on. I got it.
-Dialogue: 100,0:00:52.08,0:00:53.81,Normal Dialog Text,,0,0,0,,{\rCHS}现在呢?\N{\rENG}How about now? Aah.
-Dialogue: 100,0:00:53.82,0:00:55.68,Normal Dialog Text,,0,0,0,,{\rCHS}电视之前从没出现过这种情况\N{\rENG}It's never done that before.
-Dialogue: 100,0:00:55.68,0:00:57.85,Normal Dialog Text,,0,0,0,,{\rCHS}通过全频段...橄榄石\N{\rENG} On all frequencies...Peridot.
-Dialogue: 100,0:00:57.85,0:00:59.10,Normal Dialog Text,,0,0,0,,{\rCHS}我是橄榄石\N{\rENG} This is Peridot,
+Dialogue: 200,0:00:21.28,0:00:23.22,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}和史蒂文!\N{\rENG_LYC}and Steven! 
+Dialogue: 100,0:00:36.13,0:00:37.73,Normal Dialog Text,,0,0,0,,{\rCHS}我理解不了这个动画 兄弟\N{\rENG}I don't get this cartoon, man. 
+Dialogue: 100,0:00:37.73,0:00:40.23,Normal Dialog Text,,0,0,0,,{\rCHS}它们为什么不干脆把地上的冰淇淋吃掉呢?\N{\rENG}Why don't they just eat the ice cream off the floor? 
+Dialogue: 100,0:00:40.24,0:00:41.80,Normal Dialog Text,,0,0,0,,{\rCHS}他们没必要哭啊\N{\rENG}They don't have to cry about it. 
+Dialogue: 100,0:00:43.31,0:00:46.14,Normal Dialog Text,,0,0,0,,{\rCHS}嗷 又来了\N{\rENG}Aw, not again. 
+Dialogue: 100,0:00:46.14,0:00:48.31,Normal Dialog Text,,0,0,0,,{\rCHS}昨天也出现过这种情况\N{\rENG}It was doing this yesterday, too. 
+Dialogue: 100,0:00:48.31,0:00:50.88,Normal Dialog Text,,0,0,0,,{\rCHS}等一下 我能搞定\N{\rENG}Hang on. I got it. 
+Dialogue: 100,0:00:52.08,0:00:53.81,Normal Dialog Text,,0,0,0,,{\rCHS}现在呢?\N{\rENG}How about now? Aah. 
+Dialogue: 100,0:00:53.82,0:00:55.68,Normal Dialog Text,,0,0,0,,{\rCHS}电视之前从没出现过这种情况\N{\rENG}It's never done that before. 
+Dialogue: 100,0:00:55.68,0:00:57.85,Normal Dialog Text,,0,0,0,,{\rCHS}通过全频段...橄榄石\N{\rENG} On all frequencies...Peridot. 
+Dialogue: 100,0:00:57.85,0:00:59.10,Normal Dialog Text,,0,0,0,,{\rCHS}我是橄榄石\N{\rENG} This is Peridot, 
 Dialogue: 100,0:00:59.10,0:01:00.62,Normal Dialog Text,,0,0,0,,{\rCHS}通过全频段\N{\rENG}transmitting on all frequencies
 Dialogue: 100,0:01:00.89,0:01:03.26,Normal Dialog Text,,0,0,0,,{\rCHS}从已废弃的水晶体系殖民地地球发送信息\N{\rENG}from abandoned crystal system colony planet earth
-Dialogue: 100,0:01:03.26,0:01:04.59,Normal Dialog Text,,0,0,0,,{\rCHS}致黄钻石\N{\rENG}to yellow diamond.
-Dialogue: 100,0:01:04.59,0:01:06.59,Normal Dialog Text,,0,0,0,,{\rCHS}我的任务失败了\N{\rENG}My mission has been compromised.
-Dialogue: 100,0:01:06.60,0:01:08.43,Normal Dialog Text,,0,0,0,,{\rCHS}我的护送者与线人消失了\N{\rENG}My escort and informant are gone,
-Dialogue: 100,0:01:08.43,0:01:10.10,Normal Dialog Text,,0,0,0,,{\rCHS}而且我现在被困在这里\N{\rENG}and I am now stranded.
-Dialogue: 100,0:01:10.18,0:01:11.33,Normal Dialog Text,,0,0,0,,{\rCHS}一定要派遣支援啊!\N{\rENG}Please send help.
-Dialogue: 100,0:01:11.33,0:01:14.40,Normal Dialog Text,,0,0,0,,{\rCHS}我是橄榄石,通过全频段...\N{\rENG}This is Peridot, transmitting on all frequencies...
-Dialogue: 100,0:01:14.40,0:01:15.80,Normal Dialog Text,,0,0,0,,{\rCHS}好的.谢谢\N{\rENG}Okay. Thanks.
-Dialogue: 100,0:01:16.17,0:01:18.04,Normal Dialog Text,,0,0,0,,{\rCHS}康妮说她电视上也是这个\N{\rENG}Connie says it's on her TV, too.
+Dialogue: 100,0:01:03.26,0:01:04.59,Normal Dialog Text,,0,0,0,,{\rCHS}致黄钻石\N{\rENG}to yellow diamond. 
+Dialogue: 100,0:01:04.59,0:01:06.59,Normal Dialog Text,,0,0,0,,{\rCHS}我的任务失败了\N{\rENG}My mission has been compromised. 
+Dialogue: 100,0:01:06.60,0:01:08.43,Normal Dialog Text,,0,0,0,,{\rCHS}我的护送者与线人消失了\N{\rENG}My escort and informant are gone, 
+Dialogue: 100,0:01:08.43,0:01:10.10,Normal Dialog Text,,0,0,0,,{\rCHS}而且我现在被困在这里\N{\rENG}and I am now stranded. 
+Dialogue: 100,0:01:10.18,0:01:11.33,Normal Dialog Text,,0,0,0,,{\rCHS}一定要派遣支援啊!\N{\rENG}Please send help. 
+Dialogue: 100,0:01:11.33,0:01:14.40,Normal Dialog Text,,0,0,0,,{\rCHS}我是橄榄石 通过全频段...\N{\rENG}This is Peridot, transmitting on all frequencies...
+Dialogue: 100,0:01:14.40,0:01:15.80,Normal Dialog Text,,0,0,0,,{\rCHS}好的. 谢谢\N{\rENG}Okay. Thanks. 
+Dialogue: 100,0:01:16.17,0:01:18.04,Normal Dialog Text,,0,0,0,,{\rCHS}康妮说她电视上也是这个\N{\rENG}Connie says it's on her TV, too. 
 Dialogue: 100,0:01:18.04,0:01:19.08,Normal Dialog Text,,0,0,0,,{\rCHS}但橄榄石能从哪\N{\rENG}But where could Peridot
-Dialogue: 100,0:01:19.08,0:01:21.34,Normal Dialog Text,,0,0,0,,{\rCHS}传送这么强的信号?\N{\rENG}be broadcasting a signal that strong?
-Dialogue: 100,0:01:21.34,0:01:23.58,Normal Dialog Text,,0,0,0,,{\rCHS}只有一个地方\N{\rENG}There's only one place.
-Dialogue: 100,0:01:29.76,0:01:31.95,Normal Dialog Text,,0,0,0,,{\rCHS}狮子,你还好吗?\N{\rENG}Lion, are you okay?
-Dialogue: 100,0:01:31.95,0:01:33.52,Normal Dialog Text,,0,0,0,,{\rCHS}正如我所担心的\N{\rENG}It's as I feared.
-Dialogue: 100,0:01:35.36,0:01:39.09,Normal Dialog Text,,0,0,0,,{\rCHS}看来橄榄石通过某些手段修复了通讯中枢站\N{\rENG}It looks like Peridot somehow repaired the communication hub.
-Dialogue: 100,0:01:39.09,0:01:41.43,Normal Dialog Text,,0,0,0,,{\rCHS}或者,至少也是一部分\N{\rENG}Well, at least some of it.
-Dialogue: 100,0:01:41.43,0:01:44.36,Normal Dialog Text,,0,0,0,,{\rCHS}所以...我们只需要再一次砸坏它,对吧?\N{\rENG}So we just got to wreck it up again, right?
-Dialogue: 100,0:01:44.37,0:01:46.63,Normal Dialog Text,,0,0,0,,{\rCHS}你们得融合成苏纪石\N{\rENG}You guys should form Sugilite.
-Dialogue: 100,0:01:46.64,0:01:47.73,Normal Dialog Text,,0,0,0,,{\rCHS}...是吗?\N{\rENG}Yeah?
-Dialogue: 100,0:01:47.74,0:01:50.77,Normal Dialog Text,,0,0,0,,{\rCHS}呃,我觉得,这得看石榴\N{\rENG}Well, uh, it's up to Garnet, I guess.
-Dialogue: 100,0:01:50.77,0:01:53.46,Normal Dialog Text,,0,0,0,,{\rCHS}你怎么看?我们要不砸个爽?\N{\rENG}What do you say? Shall we mash it up?
-Dialogue: 100,0:01:53.46,0:01:54.47,Normal Dialog Text,,0,0,0,,{\rCHS}不\N{\rENG}No.
-Dialogue: 100,0:01:54.48,0:01:57.44,Normal Dialog Text,,0,0,0,,{\rCHS}但...难道我们不需要像上次一样巨大吗?\N{\rENG}But...Don't we need to be huge like last time?
-Dialogue: 100,0:01:57.45,0:01:59.20,Normal Dialog Text,,0,0,0,,{\rCHS}上次是场灾难\N{\rENG}Last time was a disaster.
-Dialogue: 100,0:01:59.20,0:02:01.82,Normal Dialog Text,,0,0,0,,{\rCHS}上次我们融合时,苏纪石暴走了\N{\rENG}Last time we fused, Sugilite went berserk.
-Dialogue: 100,0:02:01.82,0:02:04.75,Normal Dialog Text,,0,0,0,,{\rCHS}而且归功于她我们之后都没法传送到这了\N{\rENG}And it's because of her that we can't even warp here anymore.
-Dialogue: 100,0:02:04.75,0:02:07.65,Normal Dialog Text,,0,0,0,,{\rCHS}我会变得草率,你则会变得鲁莽\N{\rENG}I could be rash, you could be reckless,
-Dialogue: 100,0:02:07.66,0:02:09.72,Normal Dialog Text,,0,0,0,,{\rCHS}最后我们都会忘乎所以\N{\rENG}and we could both get carried away.
-Dialogue: 100,0:02:09.73,0:02:15.23,Normal Dialog Text,,0,0,0,,{\rCHS}所以,这次,苏纪石要下场了\N{\rENG}So, for the time being, Sugilite is benched.
-Dialogue: 100,0:02:15.23,0:02:17.62,Normal Dialog Text,,0,0,0,,{\rCHS}我们现在需要的是仔细\N{\rENG}What we need now is to be careful.
-Dialogue: 100,0:02:19.06,0:02:20.50,Normal Dialog Text,,0,0,0,,{\rCHS}这次该你和我了,珍珠\N{\rENG}It's you and me, Pearl.
-Dialogue: 100,0:02:20.77,0:02:21.98,Normal Dialog Text,,0,0,0,,{\rCHS}咱们融合吧\N{\rENG}Let's fuse.
-Dialogue: 100,0:02:24.57,0:02:25.70,Normal Dialog Text,,0,0,0,,{\rCHS}不要哭,珍珠\N{\rENG}Don't cry, Pearl.
-Dialogue: 100,0:02:29.00,0:02:30.64,Normal Dialog Text,,0,0,0,,{\rCHS}来吧,一起完成任务\N{\rENG}Come on. Let's do this.
-Dialogue: 100,0:02:30.65,0:02:31.96,Normal Dialog Text,,0,0,0,,{\rCHS}我跟着你呢\N{\rENG}I'm right behind you.
-Dialogue: 100,0:02:31.96,0:02:33.16,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Whoo-hoo!
-Dialogue: 100,0:02:33.16,0:02:35.02,Normal Dialog Text,,0,0,0,,{\rCHS}融合,融合,融合,融合!\N{\rENG}Fusion! Fusion! Fusion! Fusion!
-Dialogue: 100,0:02:36.12,0:02:36.80,Normal Dialog Text,,0,0,0,,{\rCHS}准备\N{\rENG}Ready.
-Dialogue: 100,0:02:38.14,0:02:38.90,Normal Dialog Text,,0,0,0,,{\rCHS}等等\N{\rENG} Hang on.
-Dialogue: 100,0:02:39.29,0:02:41.00,Normal Dialog Text,,0,0,0,,{\rCHS}恍如隔世啊\N{\rENG}It's been such a long time.
-Dialogue: 600,0:02:43.00,0:02:45.00,Hint,,0,0,0,,此处舞蹈参考自韩国歌手sunmi（李宣美），同时与其歌曲Full Moon同步
-Dialogue: 100,0:03:10.88,0:03:13.64,Normal Dialog Text,,0,0,0,,{\rCHS}观众们晚上好!\N{\rENG}Good evening, everybody!
-Dialogue: 100,0:03:15.14,0:03:18.79,Normal Dialog Text,,0,0,0,,{\rCHS}我是可爱的红玛瑙,\N{\rENG}This is the lovely sardonyx, coming to you live
-Dialogue: 100,0:03:18.79,0:03:21.73,Normal Dialog Text,,0,0,0,,{\rCHS}在即将彻底报废的通讯中枢为你现场直播\N{\rENG}from the soon-to-be former communication hub.
-Dialogue: 100,0:03:21.73,0:03:23.46,Normal Dialog Text,,0,0,0,,{\rCHS}你们今晚怎么样?\N{\rENG}How are y'all doing tonight?
-Dialogue: 100,0:03:23.47,0:03:24.63,Normal Dialog Text,,0,0,0,,{\rCHS}好极了\N{\rENG} Great.
-Dialogue: 100,0:03:24.63,0:03:26.07,Normal Dialog Text,,0,0,0,,{\rCHS}女巨人!\N{\rENG} Giant woman!
-Dialogue: 100,0:03:26.07,0:03:27.63,Normal Dialog Text,,0,0,0,,{\rCHS}噢,我的星星啊\N{\rENG}Oh, my stars.
-Dialogue: 100,0:03:27.64,0:03:29.30,Normal Dialog Text,,0,0,0,,{\rCHS}这不是史蒂文·宇宙吗\N{\rENG}If it isn't Steven Universe.
-Dialogue: 100,0:03:29.30,0:03:30.54,Normal Dialog Text,,0,0,0,,{\rCHS}我们总算见面了\N{\rENG}We finally meet.
-Dialogue: 100,0:03:30.54,0:03:32.37,Normal Dialog Text,,0,0,0,,{\rCHS}那么...你认为呢?\N{\rENG}So... What do you think?
-Dialogue: 100,0:03:32.37,0:03:33.91,Normal Dialog Text,,0,0,0,,{\rCHS}等待我值吗?\N{\rENG}Was I worth the wait?
-Dialogue: 100,0:03:34.24,0:03:36.02,Normal Dialog Text,,0,0,0,,{\rCHS}我在说什么瞎话啊?当然啦\N{\rENG}What am I saying? Of course I was.
-Dialogue: 100,0:03:38.41,0:03:40.65,Normal Dialog Text,,0,0,0,,{\rCHS}喔,你真能说会道啊\N{\rENG}Wow. You're so articulated.
-Dialogue: 100,0:03:40.65,0:03:43.32,Normal Dialog Text,,0,0,0,,{\rCHS}你不也是最可爱的小帅哥吗?\N{\rENG}Well, aren't you the sweetest little charmer?
-Dialogue: 100,0:03:43.32,0:03:45.32,Normal Dialog Text,,0,0,0,,{\rCHS}我现在真想将你在手心挤挤\N{\rENG}I could literally squish you right now.
-Dialogue: 100,0:03:45.32,0:03:46.75,Normal Dialog Text,,0,0,0,,{\rCHS}反正又不难\N{\rENG}It would not be hard.
-Dialogue: 100,0:03:46.76,0:03:48.59,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Ohh!
-Dialogue: 100,0:03:48.59,0:03:51.66,Normal Dialog Text,,0,0,0,,{\rCHS}对不起,我实在是太高兴我能来这里了\N{\rENG}Sorry. I'm just so excited to be here.
-Dialogue: 100,0:03:51.66,0:03:54.22,Normal Dialog Text,,0,0,0,,{\rCHS}你知道,我最近一直不能做自己呢\N{\rENG}You see, I haven't exactly been myself lately.
-Dialogue: 100,0:03:57.58,0:03:58.56,Normal Dialog Text,,0,0,0,,{\rCHS}融合段子\N{\rENG}Fusion joke.
-Dialogue: 100,0:03:59.67,0:04:02.42,Normal Dialog Text,,0,0,0,,{\rCHS}我有的,不只是段子\N{\rENG}And jokes aren't the only thing I've got.
-Dialogue: 100,0:04:04.54,0:04:07.14,Normal Dialog Text,,0,0,0,,{\rCHS}嗯?哦!\N{\rENG}Hmm?  Oh!
-Dialogue: 100,0:04:13.11,0:04:15.88,Normal Dialog Text,,0,0,0,,{\rCHS}你要用你的战锤砸些东西吗?\N{\rENG}Are you gonna smash stuff with your war hammer?
-Dialogue: 100,0:04:16.12,0:04:16.68,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Hmm.
-Dialogue: 100,0:04:16.68,0:04:18.62,Normal Dialog Text,,0,0,0,,{\rCHS}"砸"是用来形容\N{\rENG}"Smash" is the word one would use
-Dialogue: 100,0:04:18.62,0:04:21.24,Normal Dialog Text,,0,0,0,,{\rCHS}另外一个人会做的事的词\N{\rENG}to describe what someone else might do.
+Dialogue: 100,0:01:19.08,0:01:21.34,Normal Dialog Text,,0,0,0,,{\rCHS}传送这么强的信号?\N{\rENG}be broadcasting a signal that strong? 
+Dialogue: 100,0:01:21.34,0:01:23.58,Normal Dialog Text,,0,0,0,,{\rCHS}只有一个地方\N{\rENG}There's only one place. 
+Dialogue: 100,0:01:29.76,0:01:31.95,Normal Dialog Text,,0,0,0,,{\rCHS}狮子 你还好吗?\N{\rENG}Lion, are you okay? 
+Dialogue: 100,0:01:31.95,0:01:33.52,Normal Dialog Text,,0,0,0,,{\rCHS}正如我所担心的\N{\rENG}It's as I feared. 
+Dialogue: 100,0:01:35.36,0:01:39.09,Normal Dialog Text,,0,0,0,,{\rCHS}看来橄榄石通过某些手段修复了通讯中枢站\N{\rENG}It looks like Peridot somehow repaired the communication hub. 
+Dialogue: 100,0:01:39.09,0:01:41.43,Normal Dialog Text,,0,0,0,,{\rCHS}或者 至少也是一部分\N{\rENG}Well, at least some of it. 
+Dialogue: 100,0:01:41.43,0:01:44.36,Normal Dialog Text,,0,0,0,,{\rCHS}所以...我们只需要再一次砸坏它 对吧?\N{\rENG}So we just got to wreck it up again, right? 
+Dialogue: 100,0:01:44.37,0:01:46.63,Normal Dialog Text,,0,0,0,,{\rCHS}你们得融合成苏纪石\N{\rENG}You guys should form Sugilite. 
+Dialogue: 100,0:01:46.64,0:01:47.73,Normal Dialog Text,,0,0,0,,{\rCHS}...是吗?\N{\rENG}Yeah? 
+Dialogue: 100,0:01:47.74,0:01:50.77,Normal Dialog Text,,0,0,0,,{\rCHS}呃 我觉得 这得看石榴\N{\rENG}Well, uh, it's up to Garnet, I guess. 
+Dialogue: 100,0:01:50.77,0:01:53.46,Normal Dialog Text,,0,0,0,,{\rCHS}你怎么看? 我们要不砸个爽?\N{\rENG}What do you say? Shall we mash it up? 
+Dialogue: 100,0:01:53.46,0:01:54.47,Normal Dialog Text,,0,0,0,,{\rCHS}不\N{\rENG}No. 
+Dialogue: 100,0:01:54.48,0:01:57.44,Normal Dialog Text,,0,0,0,,{\rCHS}但...难道我们不需要像上次一样巨大吗?\N{\rENG}But...Don't we need to be huge like last time? 
+Dialogue: 100,0:01:57.45,0:01:59.20,Normal Dialog Text,,0,0,0,,{\rCHS}上次是场灾难\N{\rENG}Last time was a disaster. 
+Dialogue: 100,0:01:59.20,0:02:01.82,Normal Dialog Text,,0,0,0,,{\rCHS}上次我们融合时 苏纪石暴走了\N{\rENG}Last time we fused, Sugilite went berserk. 
+Dialogue: 100,0:02:01.82,0:02:04.75,Normal Dialog Text,,0,0,0,,{\rCHS}而且归功于她我们之后都没法传送到这了\N{\rENG}And it's because of her that we can't even warp here anymore. 
+Dialogue: 100,0:02:04.75,0:02:07.65,Normal Dialog Text,,0,0,0,,{\rCHS}我会变得草率 你则会变得鲁莽\N{\rENG}I could be rash, you could be reckless, 
+Dialogue: 100,0:02:07.66,0:02:09.72,Normal Dialog Text,,0,0,0,,{\rCHS}最后我们都会忘乎所以\N{\rENG}and we could both get carried away. 
+Dialogue: 100,0:02:09.73,0:02:15.23,Normal Dialog Text,,0,0,0,,{\rCHS}所以 这次 苏纪石要下场了\N{\rENG}So, for the time being, Sugilite is benched. 
+Dialogue: 100,0:02:15.23,0:02:17.62,Normal Dialog Text,,0,0,0,,{\rCHS}我们现在需要的是仔细\N{\rENG}What we need now is to be careful. 
+Dialogue: 100,0:02:19.06,0:02:20.50,Normal Dialog Text,,0,0,0,,{\rCHS}这次该你和我了 珍珠\N{\rENG}It's you and me, Pearl. 
+Dialogue: 100,0:02:20.77,0:02:21.98,Normal Dialog Text,,0,0,0,,{\rCHS}咱们融合吧\N{\rENG}Let's fuse. 
+Dialogue: 100,0:02:24.57,0:02:25.70,Normal Dialog Text,,0,0,0,,{\rCHS}不要哭 珍珠\N{\rENG}Don't cry, Pearl. 
+Dialogue: 100,0:02:29.00,0:02:30.64,Normal Dialog Text,,0,0,0,,{\rCHS}来吧 一起完成任务\N{\rENG}Come on. Let's do this. 
+Dialogue: 100,0:02:30.65,0:02:31.96,Normal Dialog Text,,0,0,0,,{\rCHS}我跟着你呢\N{\rENG}I'm right behind you. 
+Dialogue: 100,0:02:31.96,0:02:33.16,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Whoo-hoo! 
+Dialogue: 100,0:02:33.16,0:02:35.02,Normal Dialog Text,,0,0,0,,{\rCHS}融合 融合 融合 融合!\N{\rENG}Fusion! Fusion! Fusion! Fusion! 
+Dialogue: 100,0:02:36.12,0:02:36.80,Normal Dialog Text,,0,0,0,,{\rCHS}准备\N{\rENG}Ready. 
+Dialogue: 100,0:02:38.14,0:02:38.90,Normal Dialog Text,,0,0,0,,{\rCHS}等等\N{\rENG} Hang on. 
+Dialogue: 100,0:02:39.29,0:02:41.00,Normal Dialog Text,,0,0,0,,{\rCHS}恍如隔世啊\N{\rENG}It's been such a long time. 
+Dialogue: 600,0:02:43.00,0:02:45.00,Hint,,0,0,0,,此处舞蹈参考自韩国歌手sunmi( 李宣美) 同时与其歌曲Full Moon同步
+Dialogue: 100,0:03:10.88,0:03:13.64,Normal Dialog Text,,0,0,0,,{\rCHS}观众们晚上好!\N{\rENG}Good evening, everybody! 
+Dialogue: 100,0:03:15.14,0:03:18.79,Normal Dialog Text,,0,0,0,,{\rCHS}我是可爱的红玛瑙 \N{\rENG}This is the lovely sardonyx, coming to you live
+Dialogue: 100,0:03:18.79,0:03:21.73,Normal Dialog Text,,0,0,0,,{\rCHS}在即将彻底报废的通讯中枢为你现场直播\N{\rENG}from the soon-to-be former communication hub. 
+Dialogue: 100,0:03:21.73,0:03:23.46,Normal Dialog Text,,0,0,0,,{\rCHS}你们今晚怎么样?\N{\rENG}How are y'all doing tonight? 
+Dialogue: 100,0:03:23.47,0:03:24.63,Normal Dialog Text,,0,0,0,,{\rCHS}好极了\N{\rENG} Great. 
+Dialogue: 100,0:03:24.63,0:03:26.07,Normal Dialog Text,,0,0,0,,{\rCHS}女巨人!\N{\rENG} Giant woman! 
+Dialogue: 100,0:03:26.07,0:03:27.63,Normal Dialog Text,,0,0,0,,{\rCHS}噢 我的星星啊\N{\rENG}Oh, my stars. 
+Dialogue: 100,0:03:27.64,0:03:29.30,Normal Dialog Text,,0,0,0,,{\rCHS}这不是史蒂文·宇宙吗\N{\rENG}If it isn't Steven Universe. 
+Dialogue: 100,0:03:29.30,0:03:30.54,Normal Dialog Text,,0,0,0,,{\rCHS}我们总算见面了\N{\rENG}We finally meet. 
+Dialogue: 100,0:03:30.54,0:03:32.37,Normal Dialog Text,,0,0,0,,{\rCHS}那么...你认为呢?\N{\rENG}So...What do you think? 
+Dialogue: 100,0:03:32.37,0:03:33.91,Normal Dialog Text,,0,0,0,,{\rCHS}等待我值吗?\N{\rENG}Was I worth the wait? 
+Dialogue: 100,0:03:34.24,0:03:36.02,Normal Dialog Text,,0,0,0,,{\rCHS}我在说什么瞎话啊? 当然啦\N{\rENG}What am I saying? Of course I was. 
+Dialogue: 100,0:03:38.41,0:03:40.65,Normal Dialog Text,,0,0,0,,{\rCHS}喔 你真能说会道啊\N{\rENG}Wow. You're so articulated. 
+Dialogue: 100,0:03:40.65,0:03:43.32,Normal Dialog Text,,0,0,0,,{\rCHS}你不也是最可爱的小帅哥吗?\N{\rENG}Well, aren't you the sweetest little charmer? 
+Dialogue: 100,0:03:43.32,0:03:45.32,Normal Dialog Text,,0,0,0,,{\rCHS}我现在真想将你在手心挤挤\N{\rENG}I could literally squish you right now. 
+Dialogue: 100,0:03:45.32,0:03:46.75,Normal Dialog Text,,0,0,0,,{\rCHS}反正又不难\N{\rENG}It would not be hard. 
+Dialogue: 100,0:03:46.76,0:03:48.59,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Ohh! 
+Dialogue: 100,0:03:48.59,0:03:51.66,Normal Dialog Text,,0,0,0,,{\rCHS}对不起 我实在是太高兴我能来这里了\N{\rENG}Sorry. I'm just so excited to be here. 
+Dialogue: 100,0:03:51.66,0:03:54.22,Normal Dialog Text,,0,0,0,,{\rCHS}你知道 我最近一直不能做自己呢\N{\rENG}You see, I haven't exactly been myself lately. 
+Dialogue: 100,0:03:57.58,0:03:58.56,Normal Dialog Text,,0,0,0,,{\rCHS}融合段子\N{\rENG}Fusion joke. 
+Dialogue: 100,0:03:59.67,0:04:02.42,Normal Dialog Text,,0,0,0,,{\rCHS}我有的 不只是段子\N{\rENG}And jokes aren't the only thing I've got. 
+Dialogue: 100,0:04:04.54,0:04:07.14,Normal Dialog Text,,0,0,0,,{\rCHS}嗯? 哦!\N{\rENG}Hmm? Oh! 
+Dialogue: 100,0:04:13.11,0:04:15.88,Normal Dialog Text,,0,0,0,,{\rCHS}你要用你的战锤砸些东西吗?\N{\rENG}Are you gonna smash stuff with your war hammer? 
+Dialogue: 100,0:04:16.12,0:04:16.68,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Hmm. 
+Dialogue: 100,0:04:16.68,0:04:18.62,Normal Dialog Text,,0,0,0,,{\rCHS}"砸"是用来形容\N{\rENG}"Smash"is the word one would use
+Dialogue: 100,0:04:18.62,0:04:21.24,Normal Dialog Text,,0,0,0,,{\rCHS}另外一个人会做的事的词\N{\rENG}to describe what someone else might do. 
 Dialogue: 100,0:04:21.60,0:04:23.02,Normal Dialog Text,,0,0,0,,{\rCHS}现在...\N{\rENG}Now...
 Dialogue: 100,0:04:23.02,0:04:26.72,Normal Dialog Text,,0,0,0,,{\rCHS}真正用来形容在下的词是...\N{\rENG}The proper words used to describe yours truly are...
 Dialogue: 100,0:04:26.90,0:04:27.99,Normal Dialog Text,,0,0,0,,{\rCHS}明确\N{\rENG}"Specific"...
@@ -154,49 +151,49 @@ Dialogue: 100,0:04:30.87,0:04:32.20,Normal Dialog Text,,0,0,0,,{\rCHS}精准\N{\
 Dialogue: 100,0:04:32.20,0:04:33.60,Normal Dialog Text,,0,0,0,,{\rCHS}无瑕\N{\rENG}"Faultless"...
 Dialogue: 100,0:04:34.10,0:04:35.44,Normal Dialog Text,,0,0,0,,{\rCHS}优雅\N{\rENG}..."elegant"...
 Dialogue: 100,0:04:35.44,0:04:36.44,Normal Dialog Text,,0,0,0,,{\rCHS}得体\N{\rENG}"Controlled"...
-Dialogue: 100,0:04:36.44,0:04:38.10,Normal Dialog Text,,0,0,0,,{\rCHS}精妙,风度\N{\rENG}"Surgical," "graceful"...
+Dialogue: 100,0:04:36.44,0:04:38.10,Normal Dialog Text,,0,0,0,,{\rCHS}精妙 风度\N{\rENG}"Surgical,""graceful"...
 Dialogue: 100,0:04:38.11,0:04:40.21,Normal Dialog Text,,0,0,0,,{\rCHS}当然还有...\N{\rENG}And...
-Dialogue: 100,0:04:40.21,0:04:43.11,Normal Dialog Text,,0,0,0,,{\rCHS}强力!\N{\rENG}"Powerful"!
-Dialogue: 100,0:04:44.04,0:04:48.01,Normal Dialog Text,,0,0,0,,{\rCHS}但,是的,有时,我也会,砸东西\N{\rENG}But, yes, occasionally, I am known to smash.
-Dialogue: 100,0:04:55.28,0:04:57.26,Normal Dialog Text,,0,0,0,,{\rCHS}现在,大家一定要牢记...\N{\rENG}Now, just remember, everybody...
-Dialogue: 100,0:04:57.26,0:04:59.76,Normal Dialog Text,,0,0,0,,{\rCHS}一旦你有求于可爱的红玛瑙,\N{\rENG}If you ever have need of the lovely sardonyx,
-Dialogue: 100,0:04:59.76,0:05:01.16,Normal Dialog Text,,0,0,0,,{\rCHS}要告诉珍珠和石榴哦\N{\rENG}let Pearl and Garnet know.
-Dialogue: 100,0:05:01.16,0:05:04.06,Normal Dialog Text,,0,0,0,,{\rCHS}我立刻就会出现-真的\N{\rENG}I'll be there in a flash -- literally.
-Dialogue: 100,0:05:09.28,0:05:10.52,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Oh!
-Dialogue: 100,0:05:10.52,0:05:12.27,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Whoo!
-Dialogue: 100,0:05:12.27,0:05:14.41,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Whoo!
-Dialogue: 100,0:05:15.74,0:05:17.64,Normal Dialog Text,,0,0,0,,{\rCHS}你们太棒了!\N{\rENG}You guys were amazing!
-Dialogue: 100,0:05:17.65,0:05:19.85,Normal Dialog Text,,0,0,0,,{\rCHS}我们刚才真是这样?哦,那很好啊\N{\rENG}We were? Oh. Well, that's good.
-Dialogue: 100,0:05:19.85,0:05:21.12,Normal Dialog Text,,0,0,0,,{\rCHS}我们赞爆了!\N{\rENG}We were awesome!
-Dialogue: 100,0:05:23.48,0:05:25.34,Normal Dialog Text,,0,0,0,,{\rCHS}我们为什么不经常这么做?\N{\rENG}Why don't we do that more often?
-Dialogue: 100,0:05:25.75,0:05:28.66,Normal Dialog Text,,0,0,0,,{\rCHS}为什么,梨?为什么要对我撒谎?\N{\rENG}Why, pear? Why did you lie to me?
-Dialogue: 100,0:05:28.66,0:05:32.10,Normal Dialog Text,,0,0,0,,{\rCHS}我不是故意的\N{\rENG} I didn't mean to.
-Dialogue: 100,0:05:32.10,0:05:33.76,Normal Dialog Text,,0,0,0,,{\rCHS}噢,梨\N{\rENG}Aw. Pear.
-Dialogue: 100,0:05:33.76,0:05:35.58,Normal Dialog Text,,0,0,0,,{\rCHS}我会原谅她.你呢?\N{\rENG}I'd forgive her. Wouldn't you?
-Dialogue: 100,0:05:35.58,0:05:36.26,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Mm.
-Dialogue: 100,0:05:38.08,0:05:39.36,Normal Dialog Text,,0,0,0,,{\rCHS}喔,嘿,紫晶\N{\rENG}Oh, hey, Amethyst.
+Dialogue: 100,0:04:40.21,0:04:43.11,Normal Dialog Text,,0,0,0,,{\rCHS}强力!\N{\rENG}"Powerful"! 
+Dialogue: 100,0:04:44.04,0:04:48.01,Normal Dialog Text,,0,0,0,,{\rCHS}但 是的 有时 我也会 砸东西\N{\rENG}But, yes, occasionally, I am known to smash. 
+Dialogue: 100,0:04:55.28,0:04:57.26,Normal Dialog Text,,0,0,0,,{\rCHS}现在 大家一定要牢记...\N{\rENG}Now, just remember, everybody...
+Dialogue: 100,0:04:57.26,0:04:59.76,Normal Dialog Text,,0,0,0,,{\rCHS}一旦你有求于可爱的红玛瑙 \N{\rENG}If you ever have need of the lovely sardonyx, 
+Dialogue: 100,0:04:59.76,0:05:01.16,Normal Dialog Text,,0,0,0,,{\rCHS}要告诉珍珠和石榴哦\N{\rENG}let Pearl and Garnet know. 
+Dialogue: 100,0:05:01.16,0:05:04.06,Normal Dialog Text,,0,0,0,,{\rCHS}我立刻就会出现-真的\N{\rENG}I'll be there in a flash--literally. 
+Dialogue: 100,0:05:09.28,0:05:10.52,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Oh! 
+Dialogue: 100,0:05:10.52,0:05:12.27,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Whoo! 
+Dialogue: 100,0:05:12.27,0:05:14.41,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Whoo! 
+Dialogue: 100,0:05:15.74,0:05:17.64,Normal Dialog Text,,0,0,0,,{\rCHS}你们太棒了!\N{\rENG}You guys were amazing! 
+Dialogue: 100,0:05:17.65,0:05:19.85,Normal Dialog Text,,0,0,0,,{\rCHS}我们刚才真是这样? 哦 那很好啊\N{\rENG}We were? Oh. Well, that's good. 
+Dialogue: 100,0:05:19.85,0:05:21.12,Normal Dialog Text,,0,0,0,,{\rCHS}我们赞爆了!\N{\rENG}We were awesome! 
+Dialogue: 100,0:05:23.48,0:05:25.34,Normal Dialog Text,,0,0,0,,{\rCHS}我们为什么不经常这么做?\N{\rENG}Why don't we do that more often? 
+Dialogue: 100,0:05:25.75,0:05:28.66,Normal Dialog Text,,0,0,0,,{\rCHS}为什么 梨? 为什么要对我撒谎?\N{\rENG}Why, pear? Why did you lie to me? 
+Dialogue: 100,0:05:28.66,0:05:32.10,Normal Dialog Text,,0,0,0,,{\rCHS}我不是故意的\N{\rENG} I didn't mean to. 
+Dialogue: 100,0:05:32.10,0:05:33.76,Normal Dialog Text,,0,0,0,,{\rCHS}噢 梨\N{\rENG}Aw. Pear. 
+Dialogue: 100,0:05:33.76,0:05:35.58,Normal Dialog Text,,0,0,0,,{\rCHS}我会原谅她. 你呢?\N{\rENG}I'd forgive her. Wouldn't you? 
+Dialogue: 100,0:05:35.58,0:05:36.26,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Mm. 
+Dialogue: 100,0:05:38.08,0:05:39.36,Normal Dialog Text,,0,0,0,,{\rCHS}喔 嘿 紫晶\N{\rENG}Oh, hey, Amethyst. 
 Dialogue: 100,0:05:39.60,0:05:41.43,Normal Dialog Text,,0,0,0,,{\rCHS}你要错过"哭泣早餐朋友"了\N{\rENG}You're missing "crying breakfast friends."
-Dialogue: 100,0:05:41.44,0:05:42.70,Normal Dialog Text,,0,0,0,,{\rCHS}没什么\N{\rENG}That's okay.
-Dialogue: 100,0:05:42.70,0:05:43.87,Normal Dialog Text,,0,0,0,,{\rCHS}我很好\N{\rENG}I'm fine.
-Dialogue: 100,0:05:43.87,0:05:46.11,Normal Dialog Text,,0,0,0,,{\rCHS}但这集目前为止非常好看\N{\rENG}But it's a really good one so far.
-Dialogue: 100,0:05:46.11,0:05:47.14,Normal Dialog Text,,0,0,0,,{\rCHS}并不\N{\rENG}Not really.
-Dialogue: 100,0:05:47.14,0:05:49.38,Normal Dialog Text,,0,0,0,,{\rCHS}别担心,我在录制,可以待会看\N{\rENG}Don't worry. I'm recording it for later.
-Dialogue: 100,0:05:51.88,0:05:53.31,Normal Dialog Text,,0,0,0,,{\rCHS}又是这个信号\N{\rENG}It's the signal again.
-Dialogue: 100,0:05:53.32,0:05:54.45,Normal Dialog Text,,0,0,0,,{\rCHS}橄榄石!\N{\rENG}Peridot.
-Dialogue: 100,0:05:54.45,0:05:56.05,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠,信号又出现了!\N{\rENG}Pearl, the signal is back.
-Dialogue: 100,0:05:56.05,0:05:57.02,Normal Dialog Text,,0,0,0,,{\rCHS}又一次?\N{\rENG}Again?
-Dialogue: 100,0:05:57.02,0:05:58.34,Normal Dialog Text,,0,0,0,,{\rCHS}我们得回去\N{\rENG}We need to get back out there.
-Dialogue: 100,0:05:58.34,0:05:59.55,Normal Dialog Text,,0,0,0,,{\rCHS}好\N{\rENG} Right.
-Dialogue: 100,0:05:59.55,0:06:01.05,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文,狮子呢?\N{\rENG}Steven, where's Lion?
-Dialogue: 100,0:06:01.06,0:06:02.86,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶,把头从冰箱里收回来\N{\rENG}Amethyst, get your head out of the fridge.
-Dialogue: 600,0:06:01.06,0:06:02.86,Hint,,0,0,0,,此处“MooMoo Milk”致敬《口袋妖怪》系列中的同名饮料
-Dialogue: 100,0:06:02.86,0:06:03.90,Normal Dialog Text,,0,0,0,,{\rCHS}出发吧,各位\N{\rENG}Let's go, guys.
-Dialogue: 100,0:06:06.50,0:06:07.68,Normal Dialog Text,,0,0,0,,{\rCHS}我希望你准备好了\N{\rENG}I hope you're ready.
-Dialogue: 100,0:06:07.68,0:06:09.70,Normal Dialog Text,,0,0,0,,{\rCHS}你知道的\N{\rENG}You know I am.
-Dialogue: 100,0:06:10.90,0:06:13.64,Normal Dialog Text,,0,0,0,,{\rCHS}这是什么?返场表演吗?\N{\rENG}What's this -- an encore performance?
-Dialogue: 100,0:06:13.97,0:06:16.64,Normal Dialog Text,,0,0,0,,{\rCHS}还想见到我,不是吗?\N{\rENG}Just couldn't get enough of me, could you?
-Dialogue: 100,0:06:18.24,0:06:19.24,Normal Dialog Text,,0,0,0,,{\rCHS}我们在等什么?\N{\rENG}What are we waiting for?
-Dialogue: 100,0:06:19.24,0:06:21.37,Normal Dialog Text,,0,0,0,,{\rCHS}表演开始!\N{\rENG}Let the show begin!
+Dialogue: 100,0:05:41.44,0:05:42.70,Normal Dialog Text,,0,0,0,,{\rCHS}没什么\N{\rENG}That's okay. 
+Dialogue: 100,0:05:42.70,0:05:43.87,Normal Dialog Text,,0,0,0,,{\rCHS}我很好\N{\rENG}I'm fine. 
+Dialogue: 100,0:05:43.87,0:05:46.11,Normal Dialog Text,,0,0,0,,{\rCHS}但这集目前为止非常好看\N{\rENG}But it's a really good one so far. 
+Dialogue: 100,0:05:46.11,0:05:47.14,Normal Dialog Text,,0,0,0,,{\rCHS}并不\N{\rENG}Not really. 
+Dialogue: 100,0:05:47.14,0:05:49.38,Normal Dialog Text,,0,0,0,,{\rCHS}别担心 我在录制 可以待会看\N{\rENG}Don't worry. I'm recording it for later. 
+Dialogue: 100,0:05:51.88,0:05:53.31,Normal Dialog Text,,0,0,0,,{\rCHS}又是这个信号\N{\rENG}It's the signal again. 
+Dialogue: 100,0:05:53.32,0:05:54.45,Normal Dialog Text,,0,0,0,,{\rCHS}橄榄石!\N{\rENG}Peridot. 
+Dialogue: 100,0:05:54.45,0:05:56.05,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠 信号又出现了!\N{\rENG}Pearl, the signal is back. 
+Dialogue: 100,0:05:56.05,0:05:57.02,Normal Dialog Text,,0,0,0,,{\rCHS}又一次?\N{\rENG}Again? 
+Dialogue: 100,0:05:57.02,0:05:58.34,Normal Dialog Text,,0,0,0,,{\rCHS}我们得回去\N{\rENG}We need to get back out there. 
+Dialogue: 100,0:05:58.34,0:05:59.55,Normal Dialog Text,,0,0,0,,{\rCHS}好\N{\rENG} Right. 
+Dialogue: 100,0:05:59.55,0:06:01.05,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文 狮子呢?\N{\rENG}Steven, where's Lion? 
+Dialogue: 100,0:06:01.06,0:06:02.86,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶 把头从冰箱里收回来\N{\rENG}Amethyst, get your head out of the fridge. 
+Dialogue: 600,0:06:01.06,0:06:02.86,Hint,,0,0,0,,此处"MooMoo Milk"致敬"口袋妖怪"系列中的同名饮料
+Dialogue: 100,0:06:02.86,0:06:03.90,Normal Dialog Text,,0,0,0,,{\rCHS}出发吧 各位\N{\rENG}Let's go, guys. 
+Dialogue: 100,0:06:06.50,0:06:07.68,Normal Dialog Text,,0,0,0,,{\rCHS}我希望你准备好了\N{\rENG}I hope you're ready. 
+Dialogue: 100,0:06:07.68,0:06:09.70,Normal Dialog Text,,0,0,0,,{\rCHS}你知道的\N{\rENG}You know I am. 
+Dialogue: 100,0:06:10.90,0:06:13.64,Normal Dialog Text,,0,0,0,,{\rCHS}这是什么? 返场表演吗?\N{\rENG}What's this--an encore performance? 
+Dialogue: 100,0:06:13.97,0:06:16.64,Normal Dialog Text,,0,0,0,,{\rCHS}还想见到我 不是吗?\N{\rENG}Just couldn't get enough of me, could you? 
+Dialogue: 100,0:06:18.24,0:06:19.24,Normal Dialog Text,,0,0,0,,{\rCHS}我们在等什么?\N{\rENG}What are we waiting for? 
+Dialogue: 100,0:06:19.24,0:06:21.37,Normal Dialog Text,,0,0,0,,{\rCHS}表演开始!\N{\rENG}Let the show begin! 
 Dialogue: 200,0:06:23.31,0:06:25.68,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}也许你更应和她一起\N{\rENG_LYC}♪ Maybe you're better off with her ♪
 Dialogue: 200,0:06:27.58,0:06:30.00,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我想她更适合你\N{\rENG_LYC}♪ I think she's better for you ♪
 Dialogue: 200,0:06:31.82,0:06:36.52,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我已忘记我们间的美好\N{\rENG_LYC}♪ I forgot how great it felt to be us ♪
@@ -209,103 +206,103 @@ Dialogue: 200,0:06:56.74,0:07:01.11,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我还�
 Dialogue: 200,0:07:01.12,0:07:05.62,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我还有什么能做?\N{\rENG_LYC}♪ Is there something I can do? ♪
 Dialogue: 200,0:07:05.62,0:07:08.79,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我还有什么能做?\N{\rENG_LYC}♪ Is there something I can do? ♪
 Dialogue: 200,0:07:08.79,0:07:13.19,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我能否再做补偿?\N{\rENG_LYC}♪ Can I make it up to you? ♪
-Dialogue: 100,0:07:13.74,0:07:14.34,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Hmm.
-Dialogue: 100,0:07:18.46,0:07:20.23,Normal Dialog Text,,0,0,0,,{\rCHS}橄榄石已经回来过两次了\N{\rENG}Peridot's been back here twice,
-Dialogue: 100,0:07:20.52,0:07:22.90,Normal Dialog Text,,0,0,0,,{\rCHS}显然她还会再来第三次,对吧?\N{\rENG}so the odds are good she'll come back again, right?
-Dialogue: 100,0:07:23.28,0:07:24.64,Normal Dialog Text,,0,0,0,,{\rCHS}Bam!这样我们就能抓到她了.\N{\rENG}Bam! That's when we'll get her.
-Dialogue: 100,0:07:24.77,0:07:26.54,Normal Dialog Text,,0,0,0,,{\rCHS}对啊,Bam!\N{\rENG}Yeah. Bam!
-Dialogue: 100,0:07:26.54,0:07:28.07,Normal Dialog Text,,0,0,0,,{\rCHS}石榴肯定会有另眼相看\N{\rENG}Garnet will be so impressed.
-Dialogue: 100,0:07:28.34,0:07:30.28,Normal Dialog Text,,0,0,0,,{\rCHS}然后她会觉得我酷回来了!\N{\rENG}And then she'll think I'm cool again!
-Dialogue: 100,0:07:34.82,0:07:35.50,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Mm-hmm.
+Dialogue: 100,0:07:13.74,0:07:14.34,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Hmm. 
+Dialogue: 100,0:07:18.46,0:07:20.23,Normal Dialog Text,,0,0,0,,{\rCHS}橄榄石已经回来过两次了\N{\rENG}Peridot's been back here twice, 
+Dialogue: 100,0:07:20.52,0:07:22.90,Normal Dialog Text,,0,0,0,,{\rCHS}显然她还会再来第三次 对吧?\N{\rENG}so the odds are good she'll come back again, right? 
+Dialogue: 100,0:07:23.28,0:07:24.64,Normal Dialog Text,,0,0,0,,{\rCHS}Bam! 这样我们就能抓到她了.\N{\rENG}Bam! That's when we'll get her. 
+Dialogue: 100,0:07:24.77,0:07:26.54,Normal Dialog Text,,0,0,0,,{\rCHS}对啊 Bam!\N{\rENG}Yeah. Bam! 
+Dialogue: 100,0:07:26.54,0:07:28.07,Normal Dialog Text,,0,0,0,,{\rCHS}石榴肯定会有另眼相看\N{\rENG}Garnet will be so impressed. 
+Dialogue: 100,0:07:28.34,0:07:30.28,Normal Dialog Text,,0,0,0,,{\rCHS}然后她会觉得我酷回来了!\N{\rENG}And then she'll think I'm cool again! 
+Dialogue: 100,0:07:34.82,0:07:35.50,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Mm-hmm. 
 Dialogue: 100,0:07:36.58,0:07:37.92,Normal Dialog Text,,0,0,0,,{\rCHS}没有...\N{\rENG}Nothing...
 Dialogue: 100,0:07:38.55,0:07:40.18,Normal Dialog Text,,0,0,0,,{\rCHS}还是没有...\N{\rENG}More nothing...
-Dialogue: 100,0:07:40.64,0:07:42.02,Normal Dialog Text,,0,0,0,,{\rCHS}啊!她在那!\N{\rENG} There she is!
-Dialogue: 100,0:07:42.64,0:07:45.06,Normal Dialog Text,,0,0,0,,{\rCHS}不,等等,那只是个奇怪的仙人掌\N{\rENG}No, wait. That's just a weird cactus.
-Dialogue: 100,0:07:47.14,0:07:48.76,Normal Dialog Text,,0,0,0,,{\rCHS}我觉得她不会来了\N{\rENG}I don't think she's coming.
-Dialogue: 100,0:07:49.98,0:07:51.52,Normal Dialog Text,,0,0,0,,{\rCHS}呃...你在干嘛?\N{\rENG}Uh, what are you doing?
-Dialogue: 100,0:07:51.73,0:07:53.46,Normal Dialog Text,,0,0,0,,{\rCHS}如果你让你的眼睛失焦,看起来\N{\rENG}If you make your eyes blurry, it looks like
-Dialogue: 100,0:07:53.46,0:07:55.76,Normal Dialog Text,,0,0,0,,{\rCHS}两根手指尖出现了一根魔法香肠\N{\rENG}there's a little magic sausage between your fingers.
-Dialogue: 100,0:07:56.04,0:07:57.18,Normal Dialog Text,,0,0,0,,{\rCHS}真是蠢爆了\N{\rENG}This is stupid.
+Dialogue: 100,0:07:40.64,0:07:42.02,Normal Dialog Text,,0,0,0,,{\rCHS}啊! 她在那!\N{\rENG} There she is! 
+Dialogue: 100,0:07:42.64,0:07:45.06,Normal Dialog Text,,0,0,0,,{\rCHS}不 等等 那只是个奇怪的仙人掌\N{\rENG}No, wait. That's just a weird cactus. 
+Dialogue: 100,0:07:47.14,0:07:48.76,Normal Dialog Text,,0,0,0,,{\rCHS}我觉得她不会来了\N{\rENG}I don't think she's coming. 
+Dialogue: 100,0:07:49.98,0:07:51.52,Normal Dialog Text,,0,0,0,,{\rCHS}呃...你在干嘛?\N{\rENG}Uh, what are you doing? 
+Dialogue: 100,0:07:51.73,0:07:53.46,Normal Dialog Text,,0,0,0,,{\rCHS}如果你让你的眼睛失焦 看起来\N{\rENG}If you make your eyes blurry, it looks like
+Dialogue: 100,0:07:53.46,0:07:55.76,Normal Dialog Text,,0,0,0,,{\rCHS}两根手指尖出现了一根魔法香肠\N{\rENG}there's a little magic sausage between your fingers. 
+Dialogue: 100,0:07:56.04,0:07:57.18,Normal Dialog Text,,0,0,0,,{\rCHS}真是蠢爆了\N{\rENG}This is stupid. 
 Dialogue: 100,0:07:57.18,0:07:58.58,Normal Dialog Text,,0,0,0,,{\rCHS}这根本没用\N{\rENG}It doesn't even work
-Dialogue: 100,0:07:58.58,0:07:59.51,Normal Dialog Text,,0,0,0,,{\rCHS}这样\N{\rENG}Try this.
-Dialogue: 100,0:07:59.51,0:08:01.86,Normal Dialog Text,,0,0,0,,{\rCHS}嘿,别乱搞我的...哦～\N{\rENG}Hey, don't mess with my -- oh!
-Dialogue: 100,0:08:03.18,0:08:05.44,Normal Dialog Text,,0,0,0,,{\rCHS}当然,即使我们没抓到橄榄石\N{\rENG}Well, even if we didn't catch Peridot,
-Dialogue: 100,0:08:05.68,0:08:07.88,Normal Dialog Text,,0,0,0,,{\rCHS}至少我教你了一种挥霍时间的好方法\N{\rENG}at least I taught you a great way to pass the time.
-Dialogue: 100,0:08:09.12,0:08:09.92,Normal Dialog Text,,0,0,0,,{\rCHS}蛤?\N{\rENG} What?
-Dialogue: 100,0:08:09.92,0:08:11.04,Normal Dialog Text,,0,0,0,,{\rCHS}我感觉看到了什么\N{\rENG}I think I saw something.
-Dialogue: 100,0:08:11.50,0:08:13.08,Normal Dialog Text,,0,0,0,,{\rCHS}是橄榄石的逃生舱\N{\rENG}It's Peridot's escape pod.
-Dialogue: 100,0:08:13.46,0:08:15.09,Normal Dialog Text,,0,0,0,,{\rCHS}她修好了?\N{\rENG}She fixed it somehow?
-Dialogue: 100,0:08:15.26,0:08:16.42,Normal Dialog Text,,0,0,0,,{\rCHS}但我还以为在我们手里\N{\rENG}But I thought we had it.
-Dialogue: 100,0:08:16.66,0:08:18.24,Normal Dialog Text,,0,0,0,,{\rCHS}她从神庙里偷出来的?\N{\rENG}Did she steal it from the temple?
-Dialogue: 100,0:08:18.82,0:08:21.18,Normal Dialog Text,,0,0,0,,{\rCHS}喔,她在用逃生舱搬运柱子\N{\rENG}Whoa. She's lifting the pillar guys.
-Dialogue: 100,0:08:21.53,0:08:23.50,Normal Dialog Text,,0,0,0,,{\rCHS}然后...她在修复通讯中枢\N{\rENG}And she's fixing the hub.
-Dialogue: 100,0:08:24.84,0:08:26.20,Normal Dialog Text,,0,0,0,,{\rCHS}她在上面做什么?\N{\rENG}What's she doing up there?
-Dialogue: 100,0:08:26.68,0:08:27.74,Normal Dialog Text,,0,0,0,,{\rCHS}放大\N{\rENG}Enhance.
-Dialogue: 100,0:08:28.22,0:08:31.80,Normal Dialog Text,,0,0,0,,{\rCHS}嘿,不知为什么,橄榄石看起来有点像...\N{\rENG}Hey, for some reason, Peridot kind of looks like...
-Dialogue: 100,0:08:31.80,0:08:32.62,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠?\N{\rENG}Pearl?
-Dialogue: 100,0:08:33.04,0:08:34.52,Normal Dialog Text,,0,0,0,,{\rCHS}蛤?让我看看\N{\rENG}What?! Let me see.
-Dialogue: 100,0:08:36.28,0:08:37.32,Normal Dialog Text,,0,0,0,,{\rCHS}哦,天哪\N{\rENG}Oh, no.
-Dialogue: 100,0:08:40.44,0:08:42.68,Normal Dialog Text,,0,0,0,,{\rCHS}为什么珍珠要重建通讯中枢?\N{\rENG}Why would Pearl rebuild the hub?
-Dialogue: 100,0:08:43.20,0:08:45.45,Normal Dialog Text,,0,0,0,,{\rCHS}也许她在试着了解它是如何工作的?\N{\rENG}Maybe she's trying to study how it works?
-Dialogue: 100,0:08:45.45,0:08:46.36,Normal Dialog Text,,0,0,0,,{\rCHS}不是\N{\rENG}No.
-Dialogue: 100,0:08:46.56,0:08:47.72,Normal Dialog Text,,0,0,0,,{\rCHS}我不觉得是这样\N{\rENG}I don't think that's it.
-Dialogue: 100,0:08:47.96,0:08:50.30,Normal Dialog Text,,0,0,0,,{\rCHS}也许她是在试着添加更多的频道?\N{\rENG}Maybe she's trying to get us more channels?
-Dialogue: 100,0:08:52.08,0:08:53.42,Normal Dialog Text,,0,0,0,,{\rCHS}哦!\N{\rENG} Oh!
-Dialogue: 100,0:08:53.42,0:08:54.98,Normal Dialog Text,,0,0,0,,{\rCHS}这可不好\N{\rENG}This is no good.
-Dialogue: 100,0:08:55.30,0:08:56.58,Normal Dialog Text,,0,0,0,,{\rCHS}有什么不对吗?\N{\rENG}W-what's wrong?
-Dialogue: 100,0:08:56.97,0:08:58.18,Normal Dialog Text,,0,0,0,,{\rCHS}是橄榄石\N{\rENG}It's Peridot.
-Dialogue: 100,0:08:58.40,0:09:01.57,Normal Dialog Text,,0,0,0,,{\rCHS}她肯定又修复了通讯中枢\N{\rENG}She must have fixed the communication hub again.
+Dialogue: 100,0:07:58.58,0:07:59.51,Normal Dialog Text,,0,0,0,,{\rCHS}这样\N{\rENG}Try this. 
+Dialogue: 100,0:07:59.51,0:08:01.86,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 别乱搞我的...哦～\N{\rENG}Hey, don't mess with my--oh! 
+Dialogue: 100,0:08:03.18,0:08:05.44,Normal Dialog Text,,0,0,0,,{\rCHS}当然 即使我们没抓到橄榄石\N{\rENG}Well, even if we didn't catch Peridot, 
+Dialogue: 100,0:08:05.68,0:08:07.88,Normal Dialog Text,,0,0,0,,{\rCHS}至少我教你了一种挥霍时间的好方法\N{\rENG}at least I taught you a great way to pass the time. 
+Dialogue: 100,0:08:09.12,0:08:09.92,Normal Dialog Text,,0,0,0,,{\rCHS}蛤?\N{\rENG} What? 
+Dialogue: 100,0:08:09.92,0:08:11.04,Normal Dialog Text,,0,0,0,,{\rCHS}我感觉看到了什么\N{\rENG}I think I saw something. 
+Dialogue: 100,0:08:11.50,0:08:13.08,Normal Dialog Text,,0,0,0,,{\rCHS}是橄榄石的逃生舱\N{\rENG}It's Peridot's escape pod. 
+Dialogue: 100,0:08:13.46,0:08:15.09,Normal Dialog Text,,0,0,0,,{\rCHS}她修好了?\N{\rENG}She fixed it somehow? 
+Dialogue: 100,0:08:15.26,0:08:16.42,Normal Dialog Text,,0,0,0,,{\rCHS}但我还以为在我们手里\N{\rENG}But I thought we had it. 
+Dialogue: 100,0:08:16.66,0:08:18.24,Normal Dialog Text,,0,0,0,,{\rCHS}她从神庙里偷出来的?\N{\rENG}Did she steal it from the temple? 
+Dialogue: 100,0:08:18.82,0:08:21.18,Normal Dialog Text,,0,0,0,,{\rCHS}喔 她在用逃生舱搬运柱子\N{\rENG}Whoa. She's lifting the pillar guys. 
+Dialogue: 100,0:08:21.53,0:08:23.50,Normal Dialog Text,,0,0,0,,{\rCHS}然后...她在修复通讯中枢\N{\rENG}And she's fixing the hub. 
+Dialogue: 100,0:08:24.84,0:08:26.20,Normal Dialog Text,,0,0,0,,{\rCHS}她在上面做什么?\N{\rENG}What's she doing up there? 
+Dialogue: 100,0:08:26.68,0:08:27.74,Normal Dialog Text,,0,0,0,,{\rCHS}放大\N{\rENG}Enhance. 
+Dialogue: 100,0:08:28.22,0:08:31.80,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 不知为什么 橄榄石看起来有点像...\N{\rENG}Hey, for some reason, Peridot kind of looks like...
+Dialogue: 100,0:08:31.80,0:08:32.62,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠?\N{\rENG}Pearl? 
+Dialogue: 100,0:08:33.04,0:08:34.52,Normal Dialog Text,,0,0,0,,{\rCHS}蛤? 让我看看\N{\rENG}What?! Let me see. 
+Dialogue: 100,0:08:36.28,0:08:37.32,Normal Dialog Text,,0,0,0,,{\rCHS}哦 天哪\N{\rENG}Oh, no. 
+Dialogue: 100,0:08:40.44,0:08:42.68,Normal Dialog Text,,0,0,0,,{\rCHS}为什么珍珠要重建通讯中枢?\N{\rENG}Why would Pearl rebuild the hub? 
+Dialogue: 100,0:08:43.20,0:08:45.45,Normal Dialog Text,,0,0,0,,{\rCHS}也许她在试着了解它是如何工作的?\N{\rENG}Maybe she's trying to study how it works? 
+Dialogue: 100,0:08:45.45,0:08:46.36,Normal Dialog Text,,0,0,0,,{\rCHS}不是\N{\rENG}No. 
+Dialogue: 100,0:08:46.56,0:08:47.72,Normal Dialog Text,,0,0,0,,{\rCHS}我不觉得是这样\N{\rENG}I don't think that's it. 
+Dialogue: 100,0:08:47.96,0:08:50.30,Normal Dialog Text,,0,0,0,,{\rCHS}也许她是在试着添加更多的频道?\N{\rENG}Maybe she's trying to get us more channels? 
+Dialogue: 100,0:08:52.08,0:08:53.42,Normal Dialog Text,,0,0,0,,{\rCHS}哦!\N{\rENG} Oh! 
+Dialogue: 100,0:08:53.42,0:08:54.98,Normal Dialog Text,,0,0,0,,{\rCHS}这可不好\N{\rENG}This is no good. 
+Dialogue: 100,0:08:55.30,0:08:56.58,Normal Dialog Text,,0,0,0,,{\rCHS}有什么不对吗?\N{\rENG}W-what's wrong? 
+Dialogue: 100,0:08:56.97,0:08:58.18,Normal Dialog Text,,0,0,0,,{\rCHS}是橄榄石\N{\rENG}It's Peridot. 
+Dialogue: 100,0:08:58.40,0:09:01.57,Normal Dialog Text,,0,0,0,,{\rCHS}她肯定又修复了通讯中枢\N{\rENG}She must have fixed the communication hub again. 
 Dialogue: 100,0:09:01.56,0:09:02.20,Normal Dialog Text,,0,0,0,,{\rCHS}石榴...\N{\rENG}Garnet...
-Dialogue: 100,0:09:02.50,0:09:03.58,Normal Dialog Text,,0,0,0,,{\rCHS}通讯中枢又出事了\N{\rENG}It's the hub again.
-Dialogue: 100,0:09:04.10,0:09:05.46,Normal Dialog Text,,0,0,0,,{\rCHS}她躲过了我的预知能力\N{\rENG}She's evading my future vision.
-Dialogue: 100,0:09:05.76,0:09:08.30,Normal Dialog Text,,0,0,0,,{\rCHS}不管试多少次,我都没法看见我们抓到橄榄石\N{\rENG}No matter how many times I try, I can't see us finding Peridot.
-Dialogue: 100,0:09:09.18,0:09:10.00,Normal Dialog Text,,0,0,0,,{\rCHS}快点,各位\N{\rENG} Come on, team.
-Dialogue: 100,0:09:13.32,0:09:15.48,Normal Dialog Text,,0,0,0,,{\rCHS}我不敢相信橄榄石带给我们这么多麻烦\N{\rENG}I can't believe Peridot is giving us so much trouble.
-Dialogue: 100,0:09:15.82,0:09:17.32,Normal Dialog Text,,0,0,0,,{\rCHS}但这不算什么,对吗,石榴?\N{\rENG}But it hardly matters, right, Garnet?
+Dialogue: 100,0:09:02.50,0:09:03.58,Normal Dialog Text,,0,0,0,,{\rCHS}通讯中枢又出事了\N{\rENG}It's the hub again. 
+Dialogue: 100,0:09:04.10,0:09:05.46,Normal Dialog Text,,0,0,0,,{\rCHS}她躲过了我的预知能力\N{\rENG}She's evading my future vision. 
+Dialogue: 100,0:09:05.76,0:09:08.30,Normal Dialog Text,,0,0,0,,{\rCHS}不管试多少次 我都没法看见我们抓到橄榄石\N{\rENG}No matter how many times I try, I can't see us finding Peridot. 
+Dialogue: 100,0:09:09.18,0:09:10.00,Normal Dialog Text,,0,0,0,,{\rCHS}快点 各位\N{\rENG} Come on, team. 
+Dialogue: 100,0:09:13.32,0:09:15.48,Normal Dialog Text,,0,0,0,,{\rCHS}我不敢相信橄榄石带给我们这么多麻烦\N{\rENG}I can't believe Peridot is giving us so much trouble. 
+Dialogue: 100,0:09:15.82,0:09:17.32,Normal Dialog Text,,0,0,0,,{\rCHS}但这不算什么 对吗 石榴?\N{\rENG}But it hardly matters, right, Garnet? 
 Dialogue: 100,0:09:17.52,0:09:18.56,Normal Dialog Text,,0,0,0,,{\rCHS}我们能破坏这座塔\N{\rENG}We can disable this tower
-Dialogue: 100,0:09:19.02,0:09:21.08,Normal Dialog Text,,0,0,0,,{\rCHS}不管要多少次,只要我们一起,对吧?\N{\rENG}as many times as we need to together, okay?
-Dialogue: 100,0:09:21.08,0:09:22.22,Normal Dialog Text,,0,0,0,,{\rCHS}好吧.我准备好了\N{\rENG}Okay. I'm ready.
-Dialogue: 50,0:09:22.49,0:09:23.26,Background Dialogue,,0,0,0,,{\rCHS_BKG}你准备好了吗,石榴?\N{\rENG_BKG}Are you ready, Garnet?
-Dialogue: 100,0:09:22.66,0:09:24.02,Normal Dialog Text,,0,0,0,,{\rCHS}我知道她在做什么\N{\rENG}I know what she's doing. You do?
-Dialogue: 100,0:09:24.02,0:09:24.86,Normal Dialog Text,,0,0,0,,{\rCHS}真的?\N{\rENG}You do?
-Dialogue: 100,0:09:26.22,0:09:27.26,Normal Dialog Text,,0,0,0,,{\rCHS}停下!\N{\rENG}Stop!
-Dialogue: 100,0:09:28.14,0:09:30.32,Normal Dialog Text,,0,0,0,,{\rCHS}有什么不对劲吗,紫晶?\N{\rENG}Is something the matter, Amethyst?
-Dialogue: 100,0:09:30.70,0:09:32.53,Normal Dialog Text,,0,0,0,,{\rCHS}你-你不该这样\N{\rENG}You -- you shouldn't.
-Dialogue: 100,0:09:32.53,0:09:34.78,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠,我们看到你了\N{\rENG}Pearl, we saw you.
-Dialogue: 100,0:09:35.16,0:09:35.86,Normal Dialog Text,,0,0,0,,{\rCHS}啊?\N{\rENG}What?
-Dialogue: 100,0:09:36.10,0:09:38.28,Normal Dialog Text,,0,0,0,,{\rCHS}你得告诉石榴是你\N{\rENG}You need to tell Garnet it was you.
-Dialogue: 100,0:09:38.71,0:09:40.08,Normal Dialog Text,,0,0,0,,{\rCHS}一脸蒙b\N{\rENG}I don't understand.
-Dialogue: 100,0:09:41.78,0:09:42.82,Normal Dialog Text,,0,0,0,,{\rCHS}对不起\N{\rENG}I'm sorry.
-Dialogue: 100,0:09:43.20,0:09:47.24,Normal Dialog Text,,0,0,0,,{\rCHS}这...只是...跟你一起成为红玛瑙真的很有趣\N{\rENG}It's just so much fun being sardonyx with you.
-Dialogue: 100,0:09:48.52,0:09:50.82,Normal Dialog Text,,0,0,0,,{\rCHS}怪不得我看不到我们找到橄榄石\N{\rENG}That's why I couldn't see us finding Peridot.
-Dialogue: 100,0:09:51.29,0:09:52.89,Normal Dialog Text,,0,0,0,,{\rCHS}等等,听我解释\N{\rENG}Wait. Let me explain.
-Dialogue: 100,0:09:52.89,0:09:54.82,Normal Dialog Text,,0,0,0,,{\rCHS}是你一直在修复通讯中枢!\N{\rENG}You've been fixing the hub!
+Dialogue: 100,0:09:19.02,0:09:21.08,Normal Dialog Text,,0,0,0,,{\rCHS}不管要多少次 只要我们一起 对吧?\N{\rENG}as many times as we need to together, okay? 
+Dialogue: 100,0:09:21.08,0:09:22.22,Normal Dialog Text,,0,0,0,,{\rCHS}好吧. 我准备好了\N{\rENG}Okay. I'm ready. 
+Dialogue: 50,0:09:22.49,0:09:23.26,Background Dialogue,,0,0,0,,{\rCHS_BKG}你准备好了吗 石榴?\N{\rENG_BKG}Are you ready, Garnet? 
+Dialogue: 100,0:09:22.66,0:09:24.02,Normal Dialog Text,,0,0,0,,{\rCHS}我知道她在做什么\N{\rENG}I know what she's doing. You do? 
+Dialogue: 100,0:09:24.02,0:09:24.86,Normal Dialog Text,,0,0,0,,{\rCHS}真的?\N{\rENG}You do? 
+Dialogue: 100,0:09:26.22,0:09:27.26,Normal Dialog Text,,0,0,0,,{\rCHS}停下!\N{\rENG}Stop! 
+Dialogue: 100,0:09:28.14,0:09:30.32,Normal Dialog Text,,0,0,0,,{\rCHS}有什么不对劲吗 紫晶?\N{\rENG}Is something the matter, Amethyst? 
+Dialogue: 100,0:09:30.70,0:09:32.53,Normal Dialog Text,,0,0,0,,{\rCHS}你-你不该这样\N{\rENG}You--you shouldn't. 
+Dialogue: 100,0:09:32.53,0:09:34.78,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠 我们看到你了\N{\rENG}Pearl, we saw you. 
+Dialogue: 100,0:09:35.16,0:09:35.86,Normal Dialog Text,,0,0,0,,{\rCHS}啊?\N{\rENG}What? 
+Dialogue: 100,0:09:36.10,0:09:38.28,Normal Dialog Text,,0,0,0,,{\rCHS}你得告诉石榴是你\N{\rENG}You need to tell Garnet it was you. 
+Dialogue: 100,0:09:38.71,0:09:40.08,Normal Dialog Text,,0,0,0,,{\rCHS}一脸蒙b\N{\rENG}I don't understand. 
+Dialogue: 100,0:09:41.78,0:09:42.82,Normal Dialog Text,,0,0,0,,{\rCHS}对不起\N{\rENG}I'm sorry. 
+Dialogue: 100,0:09:43.20,0:09:47.24,Normal Dialog Text,,0,0,0,,{\rCHS}这...只是...跟你一起成为红玛瑙真的很有趣\N{\rENG}It's just so much fun being sardonyx with you. 
+Dialogue: 100,0:09:48.52,0:09:50.82,Normal Dialog Text,,0,0,0,,{\rCHS}怪不得我看不到我们找到橄榄石\N{\rENG}That's why I couldn't see us finding Peridot. 
+Dialogue: 100,0:09:51.29,0:09:52.89,Normal Dialog Text,,0,0,0,,{\rCHS}等等 听我解释\N{\rENG}Wait. Let me explain. 
+Dialogue: 100,0:09:52.89,0:09:54.82,Normal Dialog Text,,0,0,0,,{\rCHS}是你一直在修复通讯中枢!\N{\rENG}You've been fixing the hub! 
 Dialogue: 100,0:09:55.06,0:09:56.42,Normal Dialog Text,,0,0,0,,{\rCHS}真的是橄榄石...\N{\rENG}It really was Peridot...
-Dialogue: 100,0:09:56.72,0:09:57.92,Normal Dialog Text,,0,0,0,,{\rCHS}第一次时\N{\rENG}The first time.
-Dialogue: 100,0:09:57.92,0:09:59.14,Normal Dialog Text,,0,0,0,,{\rCHS}你骗了我\N{\rENG}You tricked me.
-Dialogue: 100,0:09:59.43,0:10:00.38,Normal Dialog Text,,0,0,0,,{\rCHS}不,不不不不,\N{\rENG}No. No, no, no, no.
-Dialogue: 100,0:10:00.38,0:10:02.52,Normal Dialog Text,,0,0,0,,{\rCHS}不,我们只是需要个融合的理由\N{\rENG}No, we just needed a reason to fuse.
-Dialogue: 100,0:10:02.52,0:10:05.38,Normal Dialog Text,,0,0,0,,{\rCHS}我只想和你多分享几次胜利而已\N{\rENG}I just wanted to share a few more victories with you.
-Dialogue: 100,0:10:05.64,0:10:07.12,Normal Dialog Text,,0,0,0,,{\rCHS}那些不是胜利\N{\rENG}Those weren't victories.
-Dialogue: 100,0:10:07.12,0:10:08.13,Normal Dialog Text,,0,0,0,,{\rCHS}等等,石榴\N{\rENG}Wait, Garnet.
-Dialogue: 100,0:10:08.40,0:10:10.50,Normal Dialog Text,,0,0,0,,{\rCHS}你看,我们相比你要弱小太多\N{\rENG}You know, we're so much weaker than you.
+Dialogue: 100,0:09:56.72,0:09:57.92,Normal Dialog Text,,0,0,0,,{\rCHS}第一次时\N{\rENG}The first time. 
+Dialogue: 100,0:09:57.92,0:09:59.14,Normal Dialog Text,,0,0,0,,{\rCHS}你骗了我\N{\rENG}You tricked me. 
+Dialogue: 100,0:09:59.43,0:10:00.38,Normal Dialog Text,,0,0,0,,{\rCHS}不 不不不不 \N{\rENG}No. No, no, no, no. 
+Dialogue: 100,0:10:00.38,0:10:02.52,Normal Dialog Text,,0,0,0,,{\rCHS}不 我们只是需要个融合的理由\N{\rENG}No, we just needed a reason to fuse. 
+Dialogue: 100,0:10:02.52,0:10:05.38,Normal Dialog Text,,0,0,0,,{\rCHS}我只想和你多分享几次胜利而已\N{\rENG}I just wanted to share a few more victories with you. 
+Dialogue: 100,0:10:05.64,0:10:07.12,Normal Dialog Text,,0,0,0,,{\rCHS}那些不是胜利\N{\rENG}Those weren't victories. 
+Dialogue: 100,0:10:07.12,0:10:08.13,Normal Dialog Text,,0,0,0,,{\rCHS}等等 石榴\N{\rENG}Wait, Garnet. 
+Dialogue: 100,0:10:08.40,0:10:10.50,Normal Dialog Text,,0,0,0,,{\rCHS}你看 我们相比你要弱小太多\N{\rENG}You know, we're so much weaker than you. 
 Dialogue: 100,0:10:10.50,0:10:13.16,Normal Dialog Text,,0,0,0,,{\rCHS}和你融合是我们感觉变强的一个\N{\rENG}Fusing with you is like our one chance to feel...
-Dialogue: 100,0:10:13.16,0:10:14.32,Normal Dialog Text,,0,0,0,,{\rCHS}机会\N{\rENG}Stronger.
-Dialogue: 100,0:10:14.32,0:10:15.44,Normal Dialog Text,,0,0,0,,{\rCHS}不要庇护她\N{\rENG}Garnet: Don't defend her.
-Dialogue: 100,0:10:15.44,0:10:16.82,Normal Dialog Text,,0,0,0,,{\rCHS}橄榄石就在地球上某处,\N{\rENG}Peridot is out there somewhere,
-Dialogue: 100,0:10:16.82,0:10:19.28,Normal Dialog Text,,0,0,0,,{\rCHS}而珍珠一直在分散我们的注意力...就因为些破事!\N{\rENG}and Pearl's been distracting us with nothing.
-Dialogue: 100,0:10:21.02,0:10:22.36,Normal Dialog Text,,0,0,0,,{\rCHS}石榴...够了\N{\rENG}Garnet... That's enough.
-Dialogue: 100,0:10:22.72,0:10:24.62,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶,跟我融合\N{\rENG}Amethyst, fuse with me.
+Dialogue: 100,0:10:13.16,0:10:14.32,Normal Dialog Text,,0,0,0,,{\rCHS}机会\N{\rENG}Stronger. 
+Dialogue: 100,0:10:14.32,0:10:15.44,Normal Dialog Text,,0,0,0,,{\rCHS}不要庇护她\N{\rENG}Garnet: Don't defend her. 
+Dialogue: 100,0:10:15.44,0:10:16.82,Normal Dialog Text,,0,0,0,,{\rCHS}橄榄石就在地球上某处 \N{\rENG}Peridot is out there somewhere, 
+Dialogue: 100,0:10:16.82,0:10:19.28,Normal Dialog Text,,0,0,0,,{\rCHS}而珍珠一直在分散我们的注意力...就因为些破事!\N{\rENG}and Pearl's been distracting us with nothing. 
+Dialogue: 100,0:10:21.02,0:10:22.36,Normal Dialog Text,,0,0,0,,{\rCHS}石榴...够了\N{\rENG}Garnet...That's enough. 
+Dialogue: 100,0:10:22.72,0:10:24.62,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶 跟我融合\N{\rENG}Amethyst, fuse with me. 
 Dialogue: 100,0:10:24.62,0:10:25.65,Normal Dialog Text,,0,0,0,,{\rCHS}但...\N{\rENG}But...
-Dialogue: 100,0:10:25.65,0:10:28.45,Normal Dialog Text,,0,0,0,,{\rCHS}让我们赶紧结束这一切吧\N{\rENG}Let's just get this over with.
-Dialogue: 600,0:10:33.75,0:10:36.00,Hint,,0,0,0,,此处苏纪石的出拳动作受《大力水手》的Twister-Sock Punch与《任天堂全明星大乱斗》中大金刚的Giant Punch启发
-Dialogue: 100,0:10:44.61,0:10:46.91,Normal Dialog Text,,0,0,0,,{\rCHS}求求你原谅我吧\N{\rENG}Please forgive me.
-Dialogue: 100,0:10:46.91,0:10:48.94,Normal Dialog Text,,0,0,0,,{\rCHS}我当然会原谅你啦\N{\rENG}Of course I forgive you.
-Dialogue: 100,0:11:02.42,0:11:03.92,Normal Dialog Text,,0,0,0,,{\rCHS}我的天\N{\rENG}Man.
-Dialogue: 100,0:11:03.93,0:11:05.36,Normal Dialog Text,,0,0,0,,{\rCHS}该有多好啊,\N{\rENG}It sure would be nice
-Dialogue: 100,0:11:05.36,0:11:08.29,Normal Dialog Text,,0,0,0,,{\rCHS}如果这能跟动画一样轻松解决\N{\rENG}if things worked out the way they do in cartoons.
-Dialogue: 100,0:11:08.30,0:11:08.94,Normal Dialog Text,,0,0,0,,{\rCHS}是啊\N{\rENG}Yeah.
-Dialogue: 100,0:11:09.74,0:11:10.62,Normal Dialog Text,,0,0,0,,{\rCHS}如果的话\N{\rENG}It would.
+Dialogue: 100,0:10:25.65,0:10:28.45,Normal Dialog Text,,0,0,0,,{\rCHS}让我们赶紧结束这一切吧\N{\rENG}Let's just get this over with. 
+Dialogue: 600,0:10:33.75,0:10:36.00,Hint,,0,0,0,,此处苏纪石的出拳动作受"大力水手"的Twister-Sock Punch与"任天堂全明星大乱斗"中大金刚的Giant Punch启发
+Dialogue: 100,0:10:44.61,0:10:46.91,Normal Dialog Text,,0,0,0,,{\rCHS}求求你原谅我吧\N{\rENG}Please forgive me. 
+Dialogue: 100,0:10:46.91,0:10:48.94,Normal Dialog Text,,0,0,0,,{\rCHS}我当然会原谅你啦\N{\rENG}Of course I forgive you. 
+Dialogue: 100,0:11:02.42,0:11:03.92,Normal Dialog Text,,0,0,0,,{\rCHS}我的天\N{\rENG}Man. 
+Dialogue: 100,0:11:03.93,0:11:05.36,Normal Dialog Text,,0,0,0,,{\rCHS}该有多好啊 \N{\rENG}It sure would be nice
+Dialogue: 100,0:11:05.36,0:11:08.29,Normal Dialog Text,,0,0,0,,{\rCHS}如果这能跟动画一样轻松解决\N{\rENG}if things worked out the way they do in cartoons. 
+Dialogue: 100,0:11:08.30,0:11:08.94,Normal Dialog Text,,0,0,0,,{\rCHS}是啊\N{\rENG}Yeah. 
+Dialogue: 100,0:11:09.74,0:11:10.62,Normal Dialog Text,,0,0,0,,{\rCHS}如果的话\N{\rENG}It would. 
 Dialogue: 200,0:11:12.80,0:11:14.30,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}你\N{\rENG_LYC}♪ You
-Dialogue: 200,0:11:17.30,0:11:20.36,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}爱,如你\N{\rENG_LYC}♪ love like you
+Dialogue: 200,0:11:17.30,0:11:20.36,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}爱 如你\N{\rENG_LYC}♪ love like you
 

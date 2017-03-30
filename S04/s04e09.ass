@@ -42,7 +42,7 @@ Style: Hint,微软雅黑,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 150,0:00:01.00,0:00:03.50,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们,是水晶\N{\rENG_LYC}♪ We ♪ are the crystal
+Dialogue: 150,0:00:01.00,0:00:03.50,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们 是水晶\N{\rENG_LYC}♪ We ♪ are the crystal
 Dialogue: 150,0:00:03.51,0:00:04.48,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}战士\N{\rENG_LYC}♪ gems
 Dialogue: 150,0:00:04.48,0:00:06.94,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们总能拯救世界\N{\rENG_LYC}♪ we'll always save the day
 Dialogue: 150,0:00:06.94,0:00:09.42,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}如果你认为我们不行\N{\rENG_LYC}♪ and if you think we can't, ♪
@@ -53,9 +53,9 @@ Dialogue: 150,0:00:16.04,0:00:17.78,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}相信\N
 Dialogue: 150,0:00:17.78,0:00:18.44,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}石榴\N{\rENG_LYC}♪ Garnet
 Dialogue: 150,0:00:18.44,0:00:19.74,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}紫晶\N{\rENG_LYC}♪ Amethyst
 Dialogue: 150,0:00:19.74,0:00:21.20,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}和珍珠\N{\rENG_LYC}♪ and Pearl
-Dialogue: 150,0:00:21.22,0:00:22.54,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}和史蒂文!\N{\rENG_LYC}and Steven!
+Dialogue: 150,0:00:21.22,0:00:22.54,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}和史蒂文!\N{\rENG_LYC}and Steven! 
 Dialogue: 1,0:00:23.71,0:00:25.21,SU Title,,0,0,0,,{\xshad-12\yshad12\pos(1222,140)}三个宝石一个娃
-Dialogue: 1,0:00:25.21,0:00:26.71,SU Claim,,0,0,0,,欢迎关注微博@UUU字幕组，获取最新熟肉信息！
+Dialogue: 1,0:00:25.21,0:00:26.71,SU Claim,,0,0,0,,欢迎关注微博@ UUU字幕组 获取最新熟肉信息! 
 Dialogue: 1,0:00:25.21,0:00:26.71,SU Team Title,,0,0,0,,{\pos(1725,260)}出品
 Dialogue: 1,0:00:25.21,0:00:26.71,SU Team Member,,0,0,0,,{\pos(1725,320)}UUU字幕组
 Dialogue: 1,0:00:25.21,0:00:26.71,SU Team Title,,0,0,0,,{\pos(1725,380)}翻译
@@ -66,234 +66,234 @@ Dialogue: 1,0:00:25.21,0:00:26.71,SU Team Title,,0,0,0,,{\pos(1725,620)}特效
 Dialogue: 1,0:00:25.21,0:00:26.71,SU Team Member,,0,0,0,,{\pos(1725,680)}presisco
 Dialogue: 1,0:00:25.21,0:00:26.71,SU Team Title,,0,0,0,,{\pos(1725,740)}压制
 Dialogue: 1,0:00:25.21,0:00:26.71,SU Team Member,,0,0,0,,{\pos(1725,800)}presisco
-Dialogue: 0,0:00:25.21,0:00:26.71,SU Team Background,,0,0,0,,{\bord0\xshad-0\yshad16\pos(1725,860)}{\p1}m -1 122 b -1 -19 -19 -1 122 -1 l 251 -1 b 390 -1 377 -19 377 122 l 377 500 b 377 642 390 628 251 628 l 122 628 b -19 628 -1 642 -1 500 l -1 122 {\p0}
 Dialogue: 600,0:00:26.71,0:00:28.71,Hint,,0,0,0,,本集标题出自1987年的电影"Three Men and a Baby"
-Dialogue: 100,0:00:27.29,0:00:28.72,Normal Dialog Text,,0,0,0,,{\rCHS}不能再美!\N{\rENG}It's amazing!
-Dialogue: 100,0:00:28.72,0:00:31.63,Normal Dialog Text,,0,0,0,,{\rCHS}雪一直在下啊下的\N{\rENG}The snow just keeps falling and falling!
-Dialogue: 100,0:00:31.63,0:00:34.06,Normal Dialog Text,,0,0,0,,{\rCHS}我很开心你能和我们住在一起,老爸\N{\rENG}I'm glad you're staying here with us, Dad.
-Dialogue: 100,0:00:34.06,0:00:35.94,Normal Dialog Text,,0,0,0,,{\rCHS}我也很高兴,小子!\N{\rENG}Yeah, me too, buddy!
-Dialogue: 100,0:00:35.94,0:00:39.10,Normal Dialog Text,,0,0,0,,{\rCHS}这种暴雪天气待在车里实在太冷了\N{\rENG}It's way too cold to stay in the van during this blizzard.
-Dialogue: 100,0:00:39.10,0:00:41.37,Normal Dialog Text,,0,0,0,,{\rCHS}还有,车里的暖气也坏掉了\N{\rENG}Besides, the heater in the van hasn't worked
-Dialogue: 100,0:00:41.37,0:00:43.80,Normal Dialog Text,,0,0,0,,{\rCHS}大概是因为我装了那个迷你光碟播放器\N{\rENG}since I got that sweet mini-disc player installed,
-Dialogue: 100,0:00:43.81,0:00:45.54,Normal Dialog Text,,0,0,0,,{\rCHS}可是我一点都不后悔\N{\rENG}which I do not regret.
-Dialogue: 100,0:00:45.54,0:00:48.14,Normal Dialog Text,,0,0,0,,{\rCHS}我从来没有见过这么大的雪\N{\rENG}I've never seen it snow like this before.
-Dialogue: 100,0:00:48.14,0:00:50.28,Normal Dialog Text,,0,0,0,,{\rCHS}不完全对哦\N{\rENG}That's not entirely true.
-Dialogue: 100,0:00:50.28,0:00:52.21,Normal Dialog Text,,0,0,0,,{\rCHS}-怎么讲?-你是说那时候--\N{\rENG}-Really? -You mean back when --
-Dialogue: 100,0:00:52.21,0:00:53.98,Normal Dialog Text,,0,0,0,,{\rCHS}哦!\N{\rENG}Oh!
-Dialogue: 100,0:00:53.98,0:00:56.92,Normal Dialog Text,,0,0,0,,{\rCHS}那都是14年前事了!\N{\rENG}That was about 14 years ago!
-Dialogue: 100,0:00:56.92,0:01:00.69,Normal Dialog Text,,0,0,0,,{\rCHS}当时有一场暴风雪,就像现在这样\N{\rENG}There was a snow storm happening just like this around then.
-Dialogue: 100,0:01:00.69,0:01:02.39,Normal Dialog Text,,0,0,0,,{\rCHS}14年\N{\rENG}14 years.
-Dialogue: 100,0:01:02.39,0:01:05.12,Normal Dialog Text,,0,0,0,,{\rCHS}嘿,我也是14岁!\N{\rENG}Hey, I'm 14 years!
-Dialogue: 100,0:01:05.13,0:01:07.56,Normal Dialog Text,,0,0,0,,{\rCHS}是啊,小家伙,当时你只有几个月大\N{\rENG}That's right, little man. You were only a few months old.
-Dialogue: 100,0:01:07.56,0:01:09.46,Normal Dialog Text,,0,0,0,,{\rCHS}那时雪下得太大了\N{\rENG}And it was snowing so hard,
+Dialogue: 100,0:00:27.29,0:00:28.72,Normal Dialog Text,,0,0,0,,{\rCHS}不能再美!\N{\rENG}It's amazing! 
+Dialogue: 100,0:00:28.72,0:00:31.63,Normal Dialog Text,,0,0,0,,{\rCHS}雪一直在下啊下的\N{\rENG}The snow just keeps falling and falling! 
+Dialogue: 100,0:00:31.63,0:00:34.06,Normal Dialog Text,,0,0,0,,{\rCHS}我很开心你能和我们住在一起 老爸\N{\rENG}I'm glad you're staying here with us, Dad. 
+Dialogue: 100,0:00:34.06,0:00:35.94,Normal Dialog Text,,0,0,0,,{\rCHS}我也很高兴 小子!\N{\rENG}Yeah, me too, buddy! 
+Dialogue: 100,0:00:35.94,0:00:39.10,Normal Dialog Text,,0,0,0,,{\rCHS}这种暴雪天气待在车里实在太冷了\N{\rENG}It's way too cold to stay in the van during this blizzard. 
+Dialogue: 100,0:00:39.10,0:00:41.37,Normal Dialog Text,,0,0,0,,{\rCHS}还有 车里的暖气也坏掉了\N{\rENG}Besides, the heater in the van hasn't worked
+Dialogue: 100,0:00:41.37,0:00:43.80,Normal Dialog Text,,0,0,0,,{\rCHS}大概是因为我装了那个迷你光碟播放器\N{\rENG}since I got that sweet mini-disc player installed, 
+Dialogue: 100,0:00:43.81,0:00:45.54,Normal Dialog Text,,0,0,0,,{\rCHS}可是我一点都不后悔\N{\rENG}which I do not regret. 
+Dialogue: 100,0:00:45.54,0:00:48.14,Normal Dialog Text,,0,0,0,,{\rCHS}我从来没有见过这么大的雪\N{\rENG}I've never seen it snow like this before. 
+Dialogue: 100,0:00:48.14,0:00:50.28,Normal Dialog Text,,0,0,0,,{\rCHS}不完全对哦\N{\rENG}That's not entirely true. 
+Dialogue: 100,0:00:50.28,0:00:52.21,Normal Dialog Text,,0,0,0,,{\rCHS}-怎么讲?-你是说那时候--\N{\rENG}-Really?-You mean back when--
+Dialogue: 100,0:00:52.21,0:00:53.98,Normal Dialog Text,,0,0,0,,{\rCHS}哦!\N{\rENG}Oh! 
+Dialogue: 100,0:00:53.98,0:00:56.92,Normal Dialog Text,,0,0,0,,{\rCHS}那都是14年前事了!\N{\rENG}That was about 14 years ago! 
+Dialogue: 100,0:00:56.92,0:01:00.69,Normal Dialog Text,,0,0,0,,{\rCHS}当时有一场暴风雪 就像现在这样\N{\rENG}There was a snow storm happening just like this around then. 
+Dialogue: 100,0:01:00.69,0:01:02.39,Normal Dialog Text,,0,0,0,,{\rCHS}14年\N{\rENG}14 years. 
+Dialogue: 100,0:01:02.39,0:01:05.12,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 我也是14岁!\N{\rENG}Hey, I'm 14 years! 
+Dialogue: 100,0:01:05.13,0:01:07.56,Normal Dialog Text,,0,0,0,,{\rCHS}是啊 小家伙 当时你只有几个月大\N{\rENG}That's right, little man. You were only a few months old. 
+Dialogue: 100,0:01:07.56,0:01:09.46,Normal Dialog Text,,0,0,0,,{\rCHS}那时雪下得太大了\N{\rENG}And it was snowing so hard, 
 Dialogue: 100,0:01:09.46,0:01:11.50,Normal Dialog Text,,0,0,0,,{\rCHS}我以为我们俩会变成雪人\N{\rENG}I thought we were going to become Snowman
-Dialogue: 100,0:01:11.50,0:01:14.07,Normal Dialog Text,,0,0,0,,{\rCHS}还有雪人它儿子,雪人二世\N{\rENG}and Snowman Jr., son of Snowman.
-Dialogue: 100,0:01:14.07,0:01:16.60,Normal Dialog Text,,0,0,0,,{\rCHS}刚好甜洋葱出城去看望家人\N{\rENG}But Vidalia was out of town visiting family,
-Dialogue: 100,0:01:16.61,0:01:19.37,Normal Dialog Text,,0,0,0,,{\rCHS}所以她就让咱俩在她家住了一段时间\N{\rENG}so she let us crash at her place for a while.
-Dialogue: 100,0:01:19.38,0:01:20.77,Normal Dialog Text,,0,0,0,,{\rCHS}那是你第一次--\N{\rENG}It was the first time you --
-Dialogue: 100,0:01:20.78,0:01:22.18,Normal Dialog Text,,0,0,0,,{\rCHS}老爸!!\N{\rENG}Dad!!
-Dialogue: 100,0:01:22.18,0:01:24.35,Normal Dialog Text,,0,0,0,,{\rCHS}我离你没那么远,史蒂文\N{\rENG}I'm not that far away, Steven.
-Dialogue: 100,0:01:24.35,0:01:27.08,Normal Dialog Text,,0,0,0,,{\rCHS}别忘了咱俩的...约定\N{\rENG}Don't forget our... arrangement.
-Dialogue: 100,0:01:27.08,0:01:28.54,Normal Dialog Text,,0,0,0,,{\rCHS}天了噜\N{\rENG}Good gravy.
-Dialogue: 100,0:01:28.54,0:01:31.39,Normal Dialog Text,,0,0,0,,{\rCHS}谁让你把我培养得喜欢音乐呢\N{\rENG}That's what you get for raising me to love music.
-Dialogue: 100,0:01:31.39,0:01:35.72,Normal Dialog Text,,0,0,0,,{\rCHS}幸运的是,我正好有一首歌适合这个故事\N{\rENG}Luckily, I have a song for this story already.
-Dialogue: 200,0:01:35.73,0:01:39.79,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}♪在我生命里,在我生命里♪\N{\rENG_LYC}♪ I could never be, I could never be ♪
+Dialogue: 100,0:01:11.50,0:01:14.07,Normal Dialog Text,,0,0,0,,{\rCHS}还有雪人它儿子 雪人二世\N{\rENG}and Snowman Jr., son of Snowman. 
+Dialogue: 100,0:01:14.07,0:01:16.60,Normal Dialog Text,,0,0,0,,{\rCHS}刚好甜洋葱出城去看望家人\N{\rENG}But Vidalia was out of town visiting family, 
+Dialogue: 100,0:01:16.61,0:01:19.37,Normal Dialog Text,,0,0,0,,{\rCHS}所以她就让咱俩在她家住了一段时间\N{\rENG}so she let us crash at her place for a while. 
+Dialogue: 100,0:01:19.38,0:01:20.77,Normal Dialog Text,,0,0,0,,{\rCHS}那是你第一次--\N{\rENG}It was the first time you--
+Dialogue: 100,0:01:20.78,0:01:22.18,Normal Dialog Text,,0,0,0,,{\rCHS}老爸!!\N{\rENG}Dad!! 
+Dialogue: 100,0:01:22.18,0:01:24.35,Normal Dialog Text,,0,0,0,,{\rCHS}我离你没那么远 史蒂文\N{\rENG}I'm not that far away, Steven. 
+Dialogue: 100,0:01:24.35,0:01:27.08,Normal Dialog Text,,0,0,0,,{\rCHS}别忘了咱俩的...约定\N{\rENG}Don't forget our...arrangement. 
+Dialogue: 100,0:01:27.08,0:01:28.54,Normal Dialog Text,,0,0,0,,{\rCHS}天了噜\N{\rENG}Good gravy. 
+Dialogue: 100,0:01:28.54,0:01:31.39,Normal Dialog Text,,0,0,0,,{\rCHS}谁让你把我培养得喜欢音乐呢\N{\rENG}That's what you get for raising me to love music. 
+Dialogue: 100,0:01:31.39,0:01:35.72,Normal Dialog Text,,0,0,0,,{\rCHS}幸运的是 我正好有一首歌适合这个故事\N{\rENG}Luckily, I have a song for this story already. 
+Dialogue: 200,0:01:35.73,0:01:39.79,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}♪在我生命里 在我生命里♪\N{\rENG_LYC}♪ I could never be, I could never be ♪
 Dialogue: 200,0:01:39.80,0:01:43.73,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}♪你的出现我措手不及♪\N{\rENG_LYC}♪ I could never be ready for this ♪
-Dialogue: 200,0:01:43.73,0:01:47.77,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}♪我措手不及,我措手不及♪\N{\rENG_LYC}♪ I could never be, I could never be ♪
+Dialogue: 200,0:01:43.73,0:01:47.77,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}♪我措手不及 我措手不及♪\N{\rENG_LYC}♪ I could never be, I could never be ♪
 Dialogue: 200,0:01:47.77,0:01:51.57,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}♪遇见生命中的你♪\N{\rENG_LYC}♪ I could never be ready ♪
 Dialogue: 200,0:01:51.57,0:01:54.84,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}♪开篇和结局♪\N{\rENG_LYC}♪ Things start, and things end ♪
-Dialogue: 200,0:01:54.84,0:01:59.75,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}♪在理论里多么甜蜜,但♪\N{\rENG_LYC}♪ And isn't it lovely in theory, but ♪
-Dialogue: 200,0:01:59.75,0:02:03.78,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}♪我措手不及,我措手不及♪\N{\rENG_LYC}♪ I could never be, I could never be ♪
+Dialogue: 200,0:01:54.84,0:01:59.75,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}♪在理论里多么甜蜜 但♪\N{\rENG_LYC}♪ And isn't it lovely in theory, but ♪
+Dialogue: 200,0:01:59.75,0:02:03.78,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}♪我措手不及 我措手不及♪\N{\rENG_LYC}♪ I could never be, I could never be ♪
 Dialogue: 200,0:02:03.79,0:02:07.12,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}♪遇见生命中的你♪\N{\rENG_LYC}♪ I could never be ready ♪
-Dialogue: 100,0:02:41.52,0:02:44.02,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 小史嘟宝\N{\rENG}Hey, little Schtu-ball.
-Dialogue: 100,0:02:44.03,0:02:46.16,Normal Dialog Text,,0,0,0,,{\rCHS}你在这儿跳什么舞呢\N{\rENG}You're doing a lot of dancing in there.
-Dialogue: 100,0:02:46.16,0:02:49.96,Normal Dialog Text,,0,0,0,,{\rCHS}你想出来展示下舞步是吗\N{\rENG}You want to get out of there and show me your moves?
-Dialogue: 100,0:02:49.96,0:02:53.80,Normal Dialog Text,,0,0,0,,{\rCHS}看看,你都把扣上的扣子弄开扣了\N{\rENG}Hey, now. You unbuttoned all your buttons I buttoned up!
-Dialogue: 100,0:02:56.44,0:02:58.44,Normal Dialog Text,,0,0,0,,{\rCHS}让我帮你扣上扣子\N{\rENG}Let's get you buttoned back up.
-Dialogue: 100,0:02:58.44,0:03:00.77,Normal Dialog Text,,0,0,0,,{\rCHS}马桑就吼\N{\rENG}Ookie-pookie!
-Dialogue: 100,0:03:00.78,0:03:02.44,Normal Dialog Text,,0,0,0,,{\rCHS}好了!哈?\N{\rENG}There! Huh?
+Dialogue: 100,0:02:41.52,0:02:44.02,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 小史嘟宝\N{\rENG}Hey, little Schtu-ball. 
+Dialogue: 100,0:02:44.03,0:02:46.16,Normal Dialog Text,,0,0,0,,{\rCHS}你在这儿跳什么舞呢\N{\rENG}You're doing a lot of dancing in there. 
+Dialogue: 100,0:02:46.16,0:02:49.96,Normal Dialog Text,,0,0,0,,{\rCHS}你想出来展示下舞步是吗\N{\rENG}You want to get out of there and show me your moves? 
+Dialogue: 100,0:02:49.96,0:02:53.80,Normal Dialog Text,,0,0,0,,{\rCHS}看看 你都把扣上的扣子弄开扣了\N{\rENG}Hey, now. You unbuttoned all your buttons I buttoned up! 
+Dialogue: 100,0:02:56.44,0:02:58.44,Normal Dialog Text,,0,0,0,,{\rCHS}让我帮你扣上扣子\N{\rENG}Let's get you buttoned back up. 
+Dialogue: 100,0:02:58.44,0:03:00.77,Normal Dialog Text,,0,0,0,,{\rCHS}马桑就吼\N{\rENG}Ookie-pookie! 
+Dialogue: 100,0:03:00.78,0:03:02.44,Normal Dialog Text,,0,0,0,,{\rCHS}好了! 哈?\N{\rENG}There! Huh? 
 Dialogue: 100,0:03:02.45,0:03:03.54,Normal Dialog Text,,0,0,0,,{\rCHS}干嘛...\N{\rENG}What's...
-Dialogue: 100,0:03:03.55,0:03:07.41,Normal Dialog Text,,0,0,0,,{\rCHS}你的宝石还需要呼吸是吗?\N{\rENG}Does your gem need to breathe?
-Dialogue: 100,0:03:07.42,0:03:08.45,Normal Dialog Text,,0,0,0,,{\rCHS}嗯\N{\rENG}Hmm.
-Dialogue: 100,0:03:08.45,0:03:11.09,Normal Dialog Text,,0,0,0,,{\rCHS}这样怎样?\N{\rENG}How about this?
-Dialogue: 100,0:03:13.42,0:03:16.29,Normal Dialog Text,,0,0,0,,{\rCHS}哦!呃,你们几个好啊!\N{\rENG}Oh! Um, hey, y'all!
-Dialogue: 100,0:03:16.29,0:03:18.69,Normal Dialog Text,,0,0,0,,{\rCHS}-你好!-唷,格雷格,瞧瞧这个!\N{\rENG}-Hello! -Yo, Greg, check it out!
-Dialogue: 100,0:03:18.69,0:03:20.73,Normal Dialog Text,,0,0,0,,{\rCHS}我们给小玫瑰带了礼物!\N{\rENG}We brought gifts for Lil' Rose!
-Dialogue: 100,0:03:20.73,0:03:23.26,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶,我跟你说过的\N{\rENG}Amethyst, we've gone over this.
-Dialogue: 100,0:03:23.27,0:03:25.37,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文是个--\N{\rENG}Steven is a --
-Dialogue: 100,0:03:25.37,0:03:26.93,Normal Dialog Text,,0,0,0,,{\rCHS}人类宝宝\N{\rENG}Human baby.
+Dialogue: 100,0:03:03.55,0:03:07.41,Normal Dialog Text,,0,0,0,,{\rCHS}你的宝石还需要呼吸是吗?\N{\rENG}Does your gem need to breathe? 
+Dialogue: 100,0:03:07.42,0:03:08.45,Normal Dialog Text,,0,0,0,,{\rCHS}嗯\N{\rENG}Hmm. 
+Dialogue: 100,0:03:08.45,0:03:11.09,Normal Dialog Text,,0,0,0,,{\rCHS}这样怎样?\N{\rENG}How about this? 
+Dialogue: 100,0:03:13.42,0:03:16.29,Normal Dialog Text,,0,0,0,,{\rCHS}哦! 呃 你们几个好啊!\N{\rENG}Oh! Um, hey, y'all! 
+Dialogue: 100,0:03:16.29,0:03:18.69,Normal Dialog Text,,0,0,0,,{\rCHS}-你好!-唷 格雷格 瞧瞧这个!\N{\rENG}-Hello!-Yo, Greg, check it out! 
+Dialogue: 100,0:03:18.69,0:03:20.73,Normal Dialog Text,,0,0,0,,{\rCHS}我们给小玫瑰带了礼物!\N{\rENG}We brought gifts for Lil'Rose! 
+Dialogue: 100,0:03:20.73,0:03:23.26,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶 我跟你说过的\N{\rENG}Amethyst, we've gone over this. 
+Dialogue: 100,0:03:23.27,0:03:25.37,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文是个--\N{\rENG}Steven is a--
+Dialogue: 100,0:03:25.37,0:03:26.93,Normal Dialog Text,,0,0,0,,{\rCHS}人类宝宝\N{\rENG}Human baby. 
 Dialogue: 100,0:03:26.94,0:03:28.70,Normal Dialog Text,,0,0,0,,{\rCHS}还有史蒂文他...\N{\rENG}And Steven is...
-Dialogue: 100,0:03:28.70,0:03:30.44,Normal Dialog Text,,0,0,0,,{\rCHS}不是玫瑰\N{\rENG}Not Rose.
-Dialogue: 100,0:03:30.44,0:03:32.77,Normal Dialog Text,,0,0,0,,{\rCHS}你们需要点什么吗?\N{\rENG}Can I get you guys anything?
-Dialogue: 100,0:03:32.78,0:03:36.94,Normal Dialog Text,,0,0,0,,{\rCHS}我这儿有水,有旧盘子,还有...\N{\rENG}We've got water, old plates, uh...
-Dialogue: 100,0:03:36.95,0:03:38.81,Normal Dialog Text,,0,0,0,,{\rCHS}来点茶怎样?\N{\rENG}How about some tea?
-Dialogue: 100,0:03:38.81,0:03:42.02,Normal Dialog Text,,0,0,0,,{\rCHS}不用.我们只是来放下这些礼物的\N{\rENG}No. We're just here to drop off these gifts.
-Dialogue: 100,0:03:42.02,0:03:44.08,Normal Dialog Text,,0,0,0,,{\rCHS}哦对!当然了\N{\rENG}Right! Sure.
-Dialogue: 100,0:03:44.09,0:03:45.39,Normal Dialog Text,,0,0,0,,{\rCHS}这个给你\N{\rENG}Here you go.
-Dialogue: 100,0:03:46.82,0:03:49.06,Normal Dialog Text,,0,0,0,,{\rCHS}你可能得帮他拆开\N{\rENG}You'll probably have to open that up for him.
-Dialogue: 100,0:03:49.06,0:03:50.22,Normal Dialog Text,,0,0,0,,{\rCHS}这个盒子\N{\rENG}It's just a box,
-Dialogue: 100,0:03:50.23,0:03:52.56,Normal Dialog Text,,0,0,0,,{\rCHS}只是看起来像包装过了一样\N{\rENG}made to look like it's been carefully wrapped.
-Dialogue: 100,0:03:55.53,0:03:58.60,Normal Dialog Text,,0,0,0,,{\rCHS}谢谢你,石榴,但是我不觉得他用得上这个\N{\rENG}Thanks, Garnet, but I don't think he needs this.
-Dialogue: 100,0:03:58.60,0:04:01.90,Normal Dialog Text,,0,0,0,,{\rCHS}哦,他会用得上的...在未来\N{\rENG}Oh, he'll need it... in the future.
-Dialogue: 100,0:04:02.77,0:04:05.07,Normal Dialog Text,,0,0,0,,{\rCHS}下一个是我的礼物!\N{\rENG}Let's open mine next!
-Dialogue: 100,0:04:05.07,0:04:08.64,Normal Dialog Text,,0,0,0,,{\rCHS}哇!尿布!真是实用呢!\N{\rENG}Wow! Diapers! This is so practical!
-Dialogue: 100,0:04:08.64,0:04:11.28,Normal Dialog Text,,0,0,0,,{\rCHS}等下 这些是成人纸尿布?!\N{\rENG}Wait. Are these adult diapers?!
-Dialogue: 100,0:04:11.28,0:04:13.08,Normal Dialog Text,,0,0,0,,{\rCHS}对他来说太大了\N{\rENG}They're way too big for him.
-Dialogue: 100,0:04:13.08,0:04:14.95,Normal Dialog Text,,0,0,0,,{\rCHS}那就告诉他把自己变得大一些!\N{\rENG}So tell him to make himself bigger!
-Dialogue: 100,0:04:14.95,0:04:17.32,Normal Dialog Text,,0,0,0,,{\rCHS}你能做到对吧,小格雷格?\N{\rENG}You can do that, right, Lil' Greg?
-Dialogue: 100,0:04:17.32,0:04:18.85,Normal Dialog Text,,0,0,0,,{\rCHS}你可以叫他史蒂文\N{\rENG}You can call him Steven.
-Dialogue: 100,0:04:18.85,0:04:21.82,Normal Dialog Text,,0,0,0,,{\rCHS}这是我和玫瑰最喜欢的名字\N{\rENG}That's the name Rose and I liked the most.
-Dialogue: 100,0:04:21.82,0:04:24.26,Normal Dialog Text,,0,0,0,,{\rCHS}嘛,不管你叫他什么,他会用得到这个的\N{\rENG}Well, whatever you call him, he'll need this.
-Dialogue: 100,0:04:24.26,0:04:28.06,Normal Dialog Text,,0,0,0,,{\rCHS}呃,谢谢 这是什么儿童图书吗?\N{\rENG}Uh, thanks. This some kind of kid's book?
-Dialogue: 100,0:04:28.06,0:04:29.83,Normal Dialog Text,,0,0,0,,{\rCHS}哦 是本词典\N{\rENG}Oh. A dictionary.
-Dialogue: 600,0:04:28.06,0:04:29.83,Hint,,0,0,0,,“WEBBY'S DICTIONARY”对应于"Merriam-Webster Dictionary"
-Dialogue: 100,0:04:29.83,0:04:31.87,Normal Dialog Text,,0,0,0,,{\rCHS}很显然,这是最好的礼物\N{\rENG}Obviously, it's the best gift
-Dialogue: 100,0:04:31.87,0:04:34.14,Normal Dialog Text,,0,0,0,,{\rCHS}最合适没有沟通能力的生物\N{\rENG}for a being that can't yet communicate.
-Dialogue: 100,0:04:34.14,0:04:37.37,Normal Dialog Text,,0,0,0,,{\rCHS}你们可以用它来查一下婴儿是什么意思\N{\rENG}Well, maybe you guys could use it to look up what a baby is.
-Dialogue: 100,0:04:37.37,0:04:38.77,Normal Dialog Text,,0,0,0,,{\rCHS}这些礼物都很棒\N{\rENG}These gifts are great,
-Dialogue: 100,0:04:38.78,0:04:41.81,Normal Dialog Text,,0,0,0,,{\rCHS}但是史蒂文太小了用不到这些\N{\rENG}but Steven's just too young for this stuff.
-Dialogue: 100,0:04:41.81,0:04:44.01,Normal Dialog Text,,0,0,0,,{\rCHS}现在,他最喜欢这个\N{\rENG}Nowadays, he's really into this.
+Dialogue: 100,0:03:28.70,0:03:30.44,Normal Dialog Text,,0,0,0,,{\rCHS}不是玫瑰\N{\rENG}Not Rose. 
+Dialogue: 100,0:03:30.44,0:03:32.77,Normal Dialog Text,,0,0,0,,{\rCHS}你们需要点什么吗?\N{\rENG}Can I get you guys anything? 
+Dialogue: 100,0:03:32.78,0:03:36.94,Normal Dialog Text,,0,0,0,,{\rCHS}我这儿有水 有旧盘子 还有...\N{\rENG}We've got water, old plates, uh...
+Dialogue: 100,0:03:36.95,0:03:38.81,Normal Dialog Text,,0,0,0,,{\rCHS}来点茶怎样?\N{\rENG}How about some tea? 
+Dialogue: 100,0:03:38.81,0:03:42.02,Normal Dialog Text,,0,0,0,,{\rCHS}不用. 我们只是来放下这些礼物的\N{\rENG}No. We're just here to drop off these gifts. 
+Dialogue: 100,0:03:42.02,0:03:44.08,Normal Dialog Text,,0,0,0,,{\rCHS}哦对! 当然了\N{\rENG}Right! Sure. 
+Dialogue: 100,0:03:44.09,0:03:45.39,Normal Dialog Text,,0,0,0,,{\rCHS}这个给你\N{\rENG}Here you go. 
+Dialogue: 100,0:03:46.82,0:03:49.06,Normal Dialog Text,,0,0,0,,{\rCHS}你可能得帮他拆开\N{\rENG}You'll probably have to open that up for him. 
+Dialogue: 100,0:03:49.06,0:03:50.22,Normal Dialog Text,,0,0,0,,{\rCHS}这个盒子\N{\rENG}It's just a box, 
+Dialogue: 100,0:03:50.23,0:03:52.56,Normal Dialog Text,,0,0,0,,{\rCHS}只是看起来像包装过了一样\N{\rENG}made to look like it's been carefully wrapped. 
+Dialogue: 100,0:03:55.53,0:03:58.60,Normal Dialog Text,,0,0,0,,{\rCHS}谢谢你 石榴 但是我不觉得他用得上这个\N{\rENG}Thanks, Garnet, but I don't think he needs this. 
+Dialogue: 100,0:03:58.60,0:04:01.90,Normal Dialog Text,,0,0,0,,{\rCHS}哦 他会用得上的...在未来\N{\rENG}Oh, he'll need it...in the future. 
+Dialogue: 100,0:04:02.77,0:04:05.07,Normal Dialog Text,,0,0,0,,{\rCHS}下一个是我的礼物!\N{\rENG}Let's open mine next! 
+Dialogue: 100,0:04:05.07,0:04:08.64,Normal Dialog Text,,0,0,0,,{\rCHS}哇! 尿布! 真是实用呢!\N{\rENG}Wow! Diapers! This is so practical! 
+Dialogue: 100,0:04:08.64,0:04:11.28,Normal Dialog Text,,0,0,0,,{\rCHS}等下 这些是成人纸尿布?!\N{\rENG}Wait. Are these adult diapers?! 
+Dialogue: 100,0:04:11.28,0:04:13.08,Normal Dialog Text,,0,0,0,,{\rCHS}对他来说太大了\N{\rENG}They're way too big for him. 
+Dialogue: 100,0:04:13.08,0:04:14.95,Normal Dialog Text,,0,0,0,,{\rCHS}那就告诉他把自己变得大一些!\N{\rENG}So tell him to make himself bigger! 
+Dialogue: 100,0:04:14.95,0:04:17.32,Normal Dialog Text,,0,0,0,,{\rCHS}你能做到对吧 小格雷格?\N{\rENG}You can do that, right, Lil'Greg? 
+Dialogue: 100,0:04:17.32,0:04:18.85,Normal Dialog Text,,0,0,0,,{\rCHS}你可以叫他史蒂文\N{\rENG}You can call him Steven. 
+Dialogue: 100,0:04:18.85,0:04:21.82,Normal Dialog Text,,0,0,0,,{\rCHS}这是我和玫瑰最喜欢的名字\N{\rENG}That's the name Rose and I liked the most. 
+Dialogue: 100,0:04:21.82,0:04:24.26,Normal Dialog Text,,0,0,0,,{\rCHS}嘛 不管你叫他什么 他会用得到这个的\N{\rENG}Well, whatever you call him, he'll need this. 
+Dialogue: 100,0:04:24.26,0:04:28.06,Normal Dialog Text,,0,0,0,,{\rCHS}呃 谢谢 这是什么儿童图书吗?\N{\rENG}Uh, thanks. This some kind of kid's book? 
+Dialogue: 100,0:04:28.06,0:04:29.83,Normal Dialog Text,,0,0,0,,{\rCHS}哦 是本词典\N{\rENG}Oh. A dictionary. 
+Dialogue: 600,0:04:28.06,0:04:29.83,Hint,,0,0,0,,"WEBBY'S DICTIONARY"对应于"Merriam-Webster Dictionary"
+Dialogue: 100,0:04:29.83,0:04:31.87,Normal Dialog Text,,0,0,0,,{\rCHS}很显然 这是最好的礼物\N{\rENG}Obviously, it's the best gift
+Dialogue: 100,0:04:31.87,0:04:34.14,Normal Dialog Text,,0,0,0,,{\rCHS}最合适没有沟通能力的生物\N{\rENG}for a being that can't yet communicate. 
+Dialogue: 100,0:04:34.14,0:04:37.37,Normal Dialog Text,,0,0,0,,{\rCHS}你们可以用它来查一下婴儿是什么意思\N{\rENG}Well, maybe you guys could use it to look up what a baby is. 
+Dialogue: 100,0:04:37.37,0:04:38.77,Normal Dialog Text,,0,0,0,,{\rCHS}这些礼物都很棒\N{\rENG}These gifts are great, 
+Dialogue: 100,0:04:38.78,0:04:41.81,Normal Dialog Text,,0,0,0,,{\rCHS}但是史蒂文太小了用不到这些\N{\rENG}but Steven's just too young for this stuff. 
+Dialogue: 100,0:04:41.81,0:04:44.01,Normal Dialog Text,,0,0,0,,{\rCHS}现在 他最喜欢这个\N{\rENG}Nowadays, he's really into this. 
 Dialogue: 200,0:04:44.01,0:04:46.01,Song Lyrics Text,,0,0,0,,{\rCHS_LYC} ♪钥匙链 ♪\N{\rENG_LYC}♪ Carabiner ♪
-Dialogue: 200,0:04:46.02,0:04:48.18,Song Lyrics Text,,0,0,0,,{\rCHS_LYC} ♪钥匙链!♪\N{\rENG_LYC}♪ Carabiner! ♪
-Dialogue: 100,0:04:48.18,0:04:50.18,Normal Dialog Text,,0,0,0,,{\rCHS}哇!他真的喜欢!\N{\rENG}Whoa! He loves it!
-Dialogue: 100,0:04:50.19,0:04:52.92,Normal Dialog Text,,0,0,0,,{\rCHS}嘿,小-史蒂文!\N{\rENG}Hey, Lil' -- Steven!
-Dialogue: 100,0:04:54.72,0:04:58.13,Normal Dialog Text,,0,0,0,,{\rCHS}嗯,他真的被这东西迷住了\N{\rENG}Hmm. He's certainly captivated with those things.
-Dialogue: 100,0:04:58.13,0:04:59.66,Normal Dialog Text,,0,0,0,,{\rCHS}这样,下次我们就给他\N{\rENG}Well, next time, we'll just bring
-Dialogue: 100,0:04:59.66,0:05:01.40,Normal Dialog Text,,0,0,0,,{\rCHS}带一盒子钥匙就好了\N{\rENG}a big box of keys for Steven.
-Dialogue: 100,0:05:07.34,0:05:09.04,Normal Dialog Text,,0,0,0,,{\rCHS}发生什么事了?!\N{\rENG}What's happening to him?!
-Dialogue: 100,0:05:09.04,0:05:10.70,Normal Dialog Text,,0,0,0,,{\rCHS}是玫瑰I!\N{\rENG}t's Rose!
-Dialogue: 100,0:05:10.71,0:05:12.11,Normal Dialog Text,,0,0,0,,{\rCHS}这真的有可能吗?\N{\rENG}Is that possible?
-Dialogue: 100,0:05:12.11,0:05:14.18,Normal Dialog Text,,0,0,0,,{\rCHS}他会变成一束激光吗?!\N{\rENG}Is he gonna turn into a laser?!
-Dialogue: 100,0:05:14.18,0:05:17.31,Normal Dialog Text,,0,0,0,,{\rCHS}放轻松,你们几个 我已经想明白了\N{\rENG}Relax, y'all. I got it all figured out.
-Dialogue: 100,0:05:17.31,0:05:20.61,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰正在试着变回原来的形态!\N{\rENG}Rose is trying to shape-shift back to her old self!
-Dialogue: 100,0:05:20.62,0:05:23.35,Normal Dialog Text,,0,0,0,,{\rCHS}-啥?!-她现在变不回来\N{\rENG}-What?! -She can't shape-shift
-Dialogue: 100,0:05:23.35,0:05:25.52,Normal Dialog Text,,0,0,0,,{\rCHS}因为她被这个宝宝困住了!\N{\rENG}because she's trapped in a baby!
-Dialogue: 100,0:05:25.52,0:05:26.89,Normal Dialog Text,,0,0,0,,{\rCHS}被宝宝困住?\N{\rENG}Trapped in a baby?
-Dialogue: 100,0:05:26.89,0:05:28.22,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰?\N{\rENG}Rose?
-Dialogue: 100,0:05:28.22,0:05:31.33,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰,是我,珍珠!你在里面吗?\N{\rENG}Rose, it's me. It's Pearl! Are you in there?
-Dialogue: 100,0:05:31.33,0:05:33.49,Normal Dialog Text,,0,0,0,,{\rCHS}是的话就闪两下!\N{\rENG}Glow twice for yes!
-Dialogue: 100,0:05:35.67,0:05:38.70,Normal Dialog Text,,0,0,0,,{\rCHS}宝宝别闹,我正试着和玫瑰说话呢\N{\rENG}Baby, please. I'm trying to talk to Rose.
-Dialogue: 100,0:05:38.70,0:05:42.10,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰没有变形,她也不是被困住\N{\rENG}Rose hasn't shape-shifted, and she isn't trapped.
-Dialogue: 100,0:05:42.11,0:05:44.80,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文是个融合体\N{\rENG}Steven is a fusion.
-Dialogue: 100,0:05:44.81,0:05:46.71,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰是在试着解开融合\N{\rENG}Rose could be trying to unfuse.
-Dialogue: 100,0:05:46.71,0:05:49.14,Normal Dialog Text,,0,0,0,,{\rCHS}不管史蒂文是什么,现在有状况发生了\N{\rENG}Whatever Steven is, something's happening,
-Dialogue: 100,0:05:49.15,0:05:51.98,Normal Dialog Text,,0,0,0,,{\rCHS}而我--我能帮上什么?!\N{\rENG}and I -- What can I do to help?!
-Dialogue: 100,0:05:51.98,0:05:54.95,Normal Dialog Text,,0,0,0,,{\rCHS}这个,人类婴儿发光的时候你都怎么处理啊?\N{\rENG}Well, what do you do with a human baby when it glows?
-Dialogue: 100,0:05:54.95,0:05:58.42,Normal Dialog Text,,0,0,0,,{\rCHS}首先,人类婴儿不会发光\N{\rENG}First off, human babies don't glow.
+Dialogue: 200,0:04:46.02,0:04:48.18,Song Lyrics Text,,0,0,0,,{\rCHS_LYC} ♪钥匙链! ♪\N{\rENG_LYC}♪ Carabiner! ♪
+Dialogue: 100,0:04:48.18,0:04:50.18,Normal Dialog Text,,0,0,0,,{\rCHS}哇! 他真的喜欢!\N{\rENG}Whoa! He loves it! 
+Dialogue: 100,0:04:50.19,0:04:52.92,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 小-史蒂文!\N{\rENG}Hey, Lil'--Steven! 
+Dialogue: 100,0:04:54.72,0:04:58.13,Normal Dialog Text,,0,0,0,,{\rCHS}嗯 他真的被这东西迷住了\N{\rENG}Hmm. He's certainly captivated with those things. 
+Dialogue: 100,0:04:58.13,0:04:59.66,Normal Dialog Text,,0,0,0,,{\rCHS}这样 下次我们就给他\N{\rENG}Well, next time, we'll just bring
+Dialogue: 100,0:04:59.66,0:05:01.40,Normal Dialog Text,,0,0,0,,{\rCHS}带一盒子钥匙就好了\N{\rENG}a big box of keys for Steven. 
+Dialogue: 100,0:05:07.34,0:05:09.04,Normal Dialog Text,,0,0,0,,{\rCHS}发生什么事了?!\N{\rENG}What's happening to him?! 
+Dialogue: 100,0:05:09.04,0:05:10.70,Normal Dialog Text,,0,0,0,,{\rCHS}是玫瑰I!\N{\rENG}t's Rose! 
+Dialogue: 100,0:05:10.71,0:05:12.11,Normal Dialog Text,,0,0,0,,{\rCHS}这真的有可能吗?\N{\rENG}Is that possible? 
+Dialogue: 100,0:05:12.11,0:05:14.18,Normal Dialog Text,,0,0,0,,{\rCHS}他会变成一束激光吗?!\N{\rENG}Is he gonna turn into a laser?! 
+Dialogue: 100,0:05:14.18,0:05:17.31,Normal Dialog Text,,0,0,0,,{\rCHS}放轻松 你们几个 我已经想明白了\N{\rENG}Relax, y'all. I got it all figured out. 
+Dialogue: 100,0:05:17.31,0:05:20.61,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰正在试着变回原来的形态!\N{\rENG}Rose is trying to shape-shift back to her old self! 
+Dialogue: 100,0:05:20.62,0:05:23.35,Normal Dialog Text,,0,0,0,,{\rCHS}-啥?!-她现在变不回来\N{\rENG}-What?!-She can't shape-shift
+Dialogue: 100,0:05:23.35,0:05:25.52,Normal Dialog Text,,0,0,0,,{\rCHS}因为她被这个宝宝困住了!\N{\rENG}because she's trapped in a baby! 
+Dialogue: 100,0:05:25.52,0:05:26.89,Normal Dialog Text,,0,0,0,,{\rCHS}被宝宝困住?\N{\rENG}Trapped in a baby? 
+Dialogue: 100,0:05:26.89,0:05:28.22,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰?\N{\rENG}Rose? 
+Dialogue: 100,0:05:28.22,0:05:31.33,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰 是我 珍珠! 你在里面吗?\N{\rENG}Rose, it's me. It's Pearl! Are you in there? 
+Dialogue: 100,0:05:31.33,0:05:33.49,Normal Dialog Text,,0,0,0,,{\rCHS}是的话就闪两下!\N{\rENG}Glow twice for yes! 
+Dialogue: 100,0:05:35.67,0:05:38.70,Normal Dialog Text,,0,0,0,,{\rCHS}宝宝别闹 我正试着和玫瑰说话呢\N{\rENG}Baby, please. I'm trying to talk to Rose. 
+Dialogue: 100,0:05:38.70,0:05:42.10,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰没有变形 她也不是被困住\N{\rENG}Rose hasn't shape-shifted, and she isn't trapped. 
+Dialogue: 100,0:05:42.11,0:05:44.80,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文是个融合体\N{\rENG}Steven is a fusion. 
+Dialogue: 100,0:05:44.81,0:05:46.71,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰是在试着解开融合\N{\rENG}Rose could be trying to unfuse. 
+Dialogue: 100,0:05:46.71,0:05:49.14,Normal Dialog Text,,0,0,0,,{\rCHS}不管史蒂文是什么 现在有状况发生了\N{\rENG}Whatever Steven is, something's happening, 
+Dialogue: 100,0:05:49.15,0:05:51.98,Normal Dialog Text,,0,0,0,,{\rCHS}而我--我能帮上什么?!\N{\rENG}and I--What can I do to help?! 
+Dialogue: 100,0:05:51.98,0:05:54.95,Normal Dialog Text,,0,0,0,,{\rCHS}这个 人类婴儿发光的时候你都怎么处理啊?\N{\rENG}Well, what do you do with a human baby when it glows? 
+Dialogue: 100,0:05:54.95,0:05:58.42,Normal Dialog Text,,0,0,0,,{\rCHS}首先 人类婴儿不会发光\N{\rENG}First off, human babies don't glow. 
 Dialogue: 100,0:05:58.42,0:06:00.85,Normal Dialog Text,,0,0,0,,{\rCHS}然后其第二个次...\N{\rENG}And letter number "B"...
-Dialogue: 100,0:06:00.86,0:06:02.92,Normal Dialog Text,,0,0,0,,{\rCHS}要是会发光怎么办啊?!\N{\rENG}what if they do?!
-Dialogue: 100,0:06:02.92,0:06:05.83,Normal Dialog Text,,0,0,0,,{\rCHS}不慌,甜洋葱那有些关于宝宝的书籍我有在读\N{\rENG}Okay, Vidalia has some books on babies I've been reading.
-Dialogue: 100,0:06:05.83,0:06:08.93,Normal Dialog Text,,0,0,0,,{\rCHS}读书会给我们些头绪的\N{\rENG}They'll help us figure something out.
-Dialogue: 100,0:06:09.77,0:06:12.07,Normal Dialog Text,,0,0,0,,{\rCHS}冷静,你能做到的\N{\rENG}Calm down. You got this.
-Dialogue: 100,0:06:12.07,0:06:16.00,Normal Dialog Text,,0,0,0,,{\rCHS}各位,如果是类似发烧的症状的话,我们该--\N{\rENG}Guys, if this is anything like a fever, then we should --
-Dialogue: 100,0:06:16.00,0:06:18.54,Normal Dialog Text,,0,0,0,,{\rCHS}呃,人呢?\N{\rENG}Uh, guys?
-Dialogue: 100,0:06:18.54,0:06:19.87,Normal Dialog Text,,0,0,0,,{\rCHS}人呢?!\N{\rENG}Guys?!
-Dialogue: 100,0:06:19.88,0:06:21.88,Normal Dialog Text,,0,0,0,,{\rCHS}你们拐走了我?!\N{\rENG}You kidnapped me?!
-Dialogue: 100,0:06:21.88,0:06:23.11,Normal Dialog Text,,0,0,0,,{\rCHS}对头!\N{\rENG}Yep!
-Dialogue: 100,0:06:23.11,0:06:25.78,Normal Dialog Text,,0,0,0,,{\rCHS}我们有些行动确实有点令人后悔\N{\rENG}Some of our actions were a bit regrettable.
-Dialogue: 100,0:06:25.78,0:06:28.58,Normal Dialog Text,,0,0,0,,{\rCHS}当时,我们以为用自己的方式来解决\N{\rENG}At the time, we thought it'd be better
-Dialogue: 100,0:06:28.58,0:06:30.92,Normal Dialog Text,,0,0,0,,{\rCHS}会比较好一些\N{\rENG}to handle things our way.
-Dialogue: 100,0:06:30.92,0:06:33.39,Normal Dialog Text,,0,0,0,,{\rCHS}管他呢 我们就直接拐了你\N{\rENG}Nah. We straight-up 'napped you.
-Dialogue: 100,0:06:36.36,0:06:38.36,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文!我的车!\N{\rENG}Steven! My van!
-Dialogue: 100,0:06:38.36,0:06:40.96,Normal Dialog Text,,0,0,0,,{\rCHS}把宝宝还给我!\N{\rENG}Give me back my babies!
-Dialogue: 100,0:06:40.96,0:06:42.23,Normal Dialog Text,,0,0,0,,{\rCHS}他看着很生气啊\N{\rENG}He looks mad.
-Dialogue: 100,0:06:42.23,0:06:43.60,Normal Dialog Text,,0,0,0,,{\rCHS}他以后会感谢我们的\N{\rENG}He'll thank us later.
-Dialogue: 100,0:06:43.60,0:06:45.90,Normal Dialog Text,,0,0,0,,{\rCHS}格雷格一直以来都很努力\N{\rENG}Greg was doing his best up to this point.
-Dialogue: 100,0:06:45.90,0:06:47.77,Normal Dialog Text,,0,0,0,,{\rCHS}但是现在情况变了\N{\rENG}But the situation has changed.
-Dialogue: 100,0:06:47.77,0:06:50.04,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文显然是个宝石人\N{\rENG}Steven is clearly a gem.
-Dialogue: 100,0:06:50.04,0:06:52.71,Normal Dialog Text,,0,0,0,,{\rCHS}还好我们没有解释就跑了\N{\rENG}Good thing we left without any explanation.
-Dialogue: 100,0:06:54.71,0:06:56.98,Normal Dialog Text,,0,0,0,,{\rCHS}好了,玫瑰,我们看到你发光了\N{\rENG}All right, Rose, we saw that glow.
-Dialogue: 100,0:06:56.98,0:07:00.01,Normal Dialog Text,,0,0,0,,{\rCHS}所以你为什么还是个宝宝?\N{\rENG}So why are you still a baby?
-Dialogue: 100,0:07:00.02,0:07:03.85,Normal Dialog Text,,0,0,0,,{\rCHS}是因为很有趣还是怎么的?\N{\rENG}Is it... really fun or something?
-Dialogue: 100,0:07:03.85,0:07:07.52,Normal Dialog Text,,0,0,0,,{\rCHS}石榴,抱着我!\N{\rENG}Garnet, hold me!
-Dialogue: 100,0:07:07.52,0:07:08.72,Normal Dialog Text,,0,0,0,,{\rCHS}好吧,我懂你了\N{\rENG}All right, I get it.
-Dialogue: 100,0:07:08.72,0:07:10.12,Normal Dialog Text,,0,0,0,,{\rCHS}这感觉简直太棒\N{\rENG} This rules.
-Dialogue: 100,0:07:10.13,0:07:12.99,Normal Dialog Text,,0,0,0,,{\rCHS}但是你已经这样很长时间了--都几个月了!\N{\rENG}But it's been so long -- like months!
-Dialogue: 100,0:07:13.00,0:07:15.53,Normal Dialog Text,,0,0,0,,{\rCHS}这比我变成马桶那次都长\N{\rENG}That's longer than I was a toilet.
-Dialogue: 100,0:07:15.53,0:07:16.90,Normal Dialog Text,,0,0,0,,{\rCHS}别这样,玫瑰!\N{\rENG}Come on, Rose!
-Dialogue: 100,0:07:16.90,0:07:19.53,Normal Dialog Text,,0,0,0,,{\rCHS}你该变回来了!\N{\rENG}You have to change back!
-Dialogue: 100,0:07:19.54,0:07:21.40,Normal Dialog Text,,0,0,0,,{\rCHS}宝宝 正常\N{\rENG}Baby. Normal.
-Dialogue: 100,0:07:21.40,0:07:23.54,Normal Dialog Text,,0,0,0,,{\rCHS}宝宝 正常\N{\rENG}Baby. Normal.
+Dialogue: 100,0:06:00.86,0:06:02.92,Normal Dialog Text,,0,0,0,,{\rCHS}要是会发光怎么办啊?!\N{\rENG}what if they do?! 
+Dialogue: 100,0:06:02.92,0:06:05.83,Normal Dialog Text,,0,0,0,,{\rCHS}不慌 甜洋葱那有些关于宝宝的书籍我有在读\N{\rENG}Okay, Vidalia has some books on babies I've been reading. 
+Dialogue: 100,0:06:05.83,0:06:08.93,Normal Dialog Text,,0,0,0,,{\rCHS}读书会给我们些头绪的\N{\rENG}They'll help us figure something out. 
+Dialogue: 100,0:06:09.77,0:06:12.07,Normal Dialog Text,,0,0,0,,{\rCHS}冷静 你能做到的\N{\rENG}Calm down. You got this. 
+Dialogue: 100,0:06:12.07,0:06:16.00,Normal Dialog Text,,0,0,0,,{\rCHS}各位 如果是类似发烧的症状的话 我们该--\N{\rENG}Guys, if this is anything like a fever, then we should--
+Dialogue: 100,0:06:16.00,0:06:18.54,Normal Dialog Text,,0,0,0,,{\rCHS}呃 人呢?\N{\rENG}Uh, guys? 
+Dialogue: 100,0:06:18.54,0:06:19.87,Normal Dialog Text,,0,0,0,,{\rCHS}人呢?!\N{\rENG}Guys?! 
+Dialogue: 100,0:06:19.88,0:06:21.88,Normal Dialog Text,,0,0,0,,{\rCHS}你们拐走了我?!\N{\rENG}You kidnapped me?! 
+Dialogue: 100,0:06:21.88,0:06:23.11,Normal Dialog Text,,0,0,0,,{\rCHS}对头!\N{\rENG}Yep! 
+Dialogue: 100,0:06:23.11,0:06:25.78,Normal Dialog Text,,0,0,0,,{\rCHS}我们有些行动确实有点令人后悔\N{\rENG}Some of our actions were a bit regrettable. 
+Dialogue: 100,0:06:25.78,0:06:28.58,Normal Dialog Text,,0,0,0,,{\rCHS}当时 我们以为用自己的方式来解决\N{\rENG}At the time, we thought it'd be better
+Dialogue: 100,0:06:28.58,0:06:30.92,Normal Dialog Text,,0,0,0,,{\rCHS}会比较好一些\N{\rENG}to handle things our way. 
+Dialogue: 100,0:06:30.92,0:06:33.39,Normal Dialog Text,,0,0,0,,{\rCHS}管他呢 我们就直接拐了你\N{\rENG}Nah. We straight-up 'napped you. 
+Dialogue: 100,0:06:36.36,0:06:38.36,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文! 我的车!\N{\rENG}Steven! My van! 
+Dialogue: 100,0:06:38.36,0:06:40.96,Normal Dialog Text,,0,0,0,,{\rCHS}把宝宝还给我!\N{\rENG}Give me back my babies! 
+Dialogue: 100,0:06:40.96,0:06:42.23,Normal Dialog Text,,0,0,0,,{\rCHS}他看着很生气啊\N{\rENG}He looks mad. 
+Dialogue: 100,0:06:42.23,0:06:43.60,Normal Dialog Text,,0,0,0,,{\rCHS}他以后会感谢我们的\N{\rENG}He'll thank us later. 
+Dialogue: 100,0:06:43.60,0:06:45.90,Normal Dialog Text,,0,0,0,,{\rCHS}格雷格一直以来都很努力\N{\rENG}Greg was doing his best up to this point. 
+Dialogue: 100,0:06:45.90,0:06:47.77,Normal Dialog Text,,0,0,0,,{\rCHS}但是现在情况变了\N{\rENG}But the situation has changed. 
+Dialogue: 100,0:06:47.77,0:06:50.04,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文显然是个宝石人\N{\rENG}Steven is clearly a gem. 
+Dialogue: 100,0:06:50.04,0:06:52.71,Normal Dialog Text,,0,0,0,,{\rCHS}还好我们没有解释就跑了\N{\rENG}Good thing we left without any explanation. 
+Dialogue: 100,0:06:54.71,0:06:56.98,Normal Dialog Text,,0,0,0,,{\rCHS}好了 玫瑰 我们看到你发光了\N{\rENG}All right, Rose, we saw that glow. 
+Dialogue: 100,0:06:56.98,0:07:00.01,Normal Dialog Text,,0,0,0,,{\rCHS}所以你为什么还是个宝宝?\N{\rENG}So why are you still a baby? 
+Dialogue: 100,0:07:00.02,0:07:03.85,Normal Dialog Text,,0,0,0,,{\rCHS}是因为很有趣还是怎么的?\N{\rENG}Is it...really fun or something? 
+Dialogue: 100,0:07:03.85,0:07:07.52,Normal Dialog Text,,0,0,0,,{\rCHS}石榴 抱着我!\N{\rENG}Garnet, hold me! 
+Dialogue: 100,0:07:07.52,0:07:08.72,Normal Dialog Text,,0,0,0,,{\rCHS}好吧 我懂你了\N{\rENG}All right, I get it. 
+Dialogue: 100,0:07:08.72,0:07:10.12,Normal Dialog Text,,0,0,0,,{\rCHS}这感觉简直太棒\N{\rENG} This rules. 
+Dialogue: 100,0:07:10.13,0:07:12.99,Normal Dialog Text,,0,0,0,,{\rCHS}但是你已经这样很长时间了--都几个月了!\N{\rENG}But it's been so long--like months! 
+Dialogue: 100,0:07:13.00,0:07:15.53,Normal Dialog Text,,0,0,0,,{\rCHS}这比我变成马桶那次都长\N{\rENG}That's longer than I was a toilet. 
+Dialogue: 100,0:07:15.53,0:07:16.90,Normal Dialog Text,,0,0,0,,{\rCHS}别这样 玫瑰!\N{\rENG}Come on, Rose! 
+Dialogue: 100,0:07:16.90,0:07:19.53,Normal Dialog Text,,0,0,0,,{\rCHS}你该变回来了!\N{\rENG}You have to change back! 
+Dialogue: 100,0:07:19.54,0:07:21.40,Normal Dialog Text,,0,0,0,,{\rCHS}宝宝 正常\N{\rENG}Baby. Normal. 
+Dialogue: 100,0:07:21.40,0:07:23.54,Normal Dialog Text,,0,0,0,,{\rCHS}宝宝 正常\N{\rENG}Baby. Normal. 
 Dialogue: 100,0:07:23.54,0:07:26.81,Normal Dialog Text,,0,0,0,,{\rCHS}宝宝...\N{\rENG}Baby...
-Dialogue: 100,0:07:26.81,0:07:29.51,Normal Dialog Text,,0,0,0,,{\rCHS}这多容易啊!\N{\rENG}It's so easy!
-Dialogue: 100,0:07:29.51,0:07:30.61,Normal Dialog Text,,0,0,0,,{\rCHS}为什么她就不肯变呢?\N{\rENG}Why can't she do it?
-Dialogue: 100,0:07:30.61,0:07:33.08,Normal Dialog Text,,0,0,0,,{\rCHS}因为她不是在变形\N{\rENG}Because it's not shape-shifting.
-Dialogue: 100,0:07:33.08,0:07:34.62,Normal Dialog Text,,0,0,0,,{\rCHS}她在融合\N{\rENG}It's fusion.
-Dialogue: 100,0:07:36.78,0:07:39.35,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文,我明白你的一部分是格雷格变的\N{\rENG}Steven, I understand Greg is part of you,
-Dialogue: 100,0:07:39.35,0:07:41.79,Normal Dialog Text,,0,0,0,,{\rCHS}你不想在他面前解开融合\N{\rENG}and you don't want to unfuse in front of him.
-Dialogue: 100,0:07:41.79,0:07:43.59,Normal Dialog Text,,0,0,0,,{\rCHS}因为会很不礼貌\N{\rENG}That would be very rude.
-Dialogue: 100,0:07:43.59,0:07:45.29,Normal Dialog Text,,0,0,0,,{\rCHS}但是现在他没在这儿了\N{\rENG}But he's not here now.
-Dialogue: 100,0:07:45.29,0:07:46.76,Normal Dialog Text,,0,0,0,,{\rCHS}就只有我们而已!\N{\rENG}It's just us!
-Dialogue: 100,0:07:46.76,0:07:48.60,Normal Dialog Text,,0,0,0,,{\rCHS}你可以休息一会儿了\N{\rENG}You can take a little break.
-Dialogue: 100,0:07:48.60,0:07:50.80,Normal Dialog Text,,0,0,0,,{\rCHS}这样,我也来解开\N{\rENG}Here. I will, too.
-Dialogue: 100,0:08:03.64,0:08:04.95,Normal Dialog Text,,0,0,0,,{\rCHS}我还在这儿!\N{\rENG}I'm here!
-Dialogue: 100,0:08:04.95,0:08:07.41,Normal Dialog Text,,0,0,0,,{\rCHS}你认识我的!你也认识她们!\N{\rENG}You know me! You know them, too!
-Dialogue: 100,0:08:07.42,0:08:09.32,Normal Dialog Text,,0,0,0,,{\rCHS}我不明白!\N{\rENG}I don't understand!
-Dialogue: 100,0:08:12.65,0:08:14.25,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文!\N{\rENG}Steven!
-Dialogue: 100,0:08:14.26,0:08:16.36,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文!\N{\rENG}Steven!
-Dialogue: 100,0:08:16.36,0:08:19.36,Normal Dialog Text,,0,0,0,,{\rCHS}我该怎么追上她们?\N{\rENG}How am I gonna catch up with them?
-Dialogue: 100,0:08:21.60,0:08:23.16,Normal Dialog Text,,0,0,0,,{\rCHS}狗\N{\rENG}Dog.
-Dialogue: 100,0:08:23.17,0:08:24.33,Normal Dialog Text,,0,0,0,,{\rCHS}雪橇\N{\rENG}Sled.
-Dialogue: 100,0:08:24.33,0:08:26.30,Normal Dialog Text,,0,0,0,,{\rCHS}狗,雪橇\N{\rENG}Dog, sled.
-Dialogue: 100,0:08:26.30,0:08:29.00,Normal Dialog Text,,0,0,0,,{\rCHS}狗,雪橇\N{\rENG}Dog, sled.
-Dialogue: 100,0:08:29.01,0:08:31.24,Normal Dialog Text,,0,0,0,,{\rCHS}嘿!嘿,孩子们!\N{\rENG}Hey! Hey, you kids!
-Dialogue: 100,0:08:33.31,0:08:35.11,Normal Dialog Text,,0,0,0,,{\rCHS}大家冷静下来\N{\rENG}Everyone, calm down.
-Dialogue: 100,0:08:36.51,0:08:38.45,Normal Dialog Text,,0,0,0,,{\rCHS}看,我们都能看到她\N{\rENG}Look, we can all see her.
-Dialogue: 100,0:08:38.45,0:08:40.35,Normal Dialog Text,,0,0,0,,{\rCHS}她就在这儿!\N{\rENG}She's right there!
+Dialogue: 100,0:07:26.81,0:07:29.51,Normal Dialog Text,,0,0,0,,{\rCHS}这多容易啊!\N{\rENG}It's so easy! 
+Dialogue: 100,0:07:29.51,0:07:30.61,Normal Dialog Text,,0,0,0,,{\rCHS}为什么她就不肯变呢?\N{\rENG}Why can't she do it? 
+Dialogue: 100,0:07:30.61,0:07:33.08,Normal Dialog Text,,0,0,0,,{\rCHS}因为她不是在变形\N{\rENG}Because it's not shape-shifting. 
+Dialogue: 100,0:07:33.08,0:07:34.62,Normal Dialog Text,,0,0,0,,{\rCHS}她在融合\N{\rENG}It's fusion. 
+Dialogue: 100,0:07:36.78,0:07:39.35,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文 我明白你的一部分是格雷格变的\N{\rENG}Steven, I understand Greg is part of you, 
+Dialogue: 100,0:07:39.35,0:07:41.79,Normal Dialog Text,,0,0,0,,{\rCHS}你不想在他面前解开融合\N{\rENG}and you don't want to unfuse in front of him. 
+Dialogue: 100,0:07:41.79,0:07:43.59,Normal Dialog Text,,0,0,0,,{\rCHS}因为会很不礼貌\N{\rENG}That would be very rude. 
+Dialogue: 100,0:07:43.59,0:07:45.29,Normal Dialog Text,,0,0,0,,{\rCHS}但是现在他没在这儿了\N{\rENG}But he's not here now. 
+Dialogue: 100,0:07:45.29,0:07:46.76,Normal Dialog Text,,0,0,0,,{\rCHS}就只有我们而已!\N{\rENG}It's just us! 
+Dialogue: 100,0:07:46.76,0:07:48.60,Normal Dialog Text,,0,0,0,,{\rCHS}你可以休息一会儿了\N{\rENG}You can take a little break. 
+Dialogue: 100,0:07:48.60,0:07:50.80,Normal Dialog Text,,0,0,0,,{\rCHS}这样 我也来解开\N{\rENG}Here. I will, too. 
+Dialogue: 100,0:08:03.64,0:08:04.95,Normal Dialog Text,,0,0,0,,{\rCHS}我还在这儿!\N{\rENG}I'm here! 
+Dialogue: 100,0:08:04.95,0:08:07.41,Normal Dialog Text,,0,0,0,,{\rCHS}你认识我的! 你也认识她们!\N{\rENG}You know me! You know them, too! 
+Dialogue: 100,0:08:07.42,0:08:09.32,Normal Dialog Text,,0,0,0,,{\rCHS}我不明白!\N{\rENG}I don't understand! 
+Dialogue: 100,0:08:12.65,0:08:14.25,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文!\N{\rENG}Steven! 
+Dialogue: 100,0:08:14.26,0:08:16.36,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文!\N{\rENG}Steven! 
+Dialogue: 100,0:08:16.36,0:08:19.36,Normal Dialog Text,,0,0,0,,{\rCHS}我该怎么追上她们?\N{\rENG}How am I gonna catch up with them? 
+Dialogue: 100,0:08:21.60,0:08:23.16,Normal Dialog Text,,0,0,0,,{\rCHS}狗\N{\rENG}Dog. 
+Dialogue: 100,0:08:23.17,0:08:24.33,Normal Dialog Text,,0,0,0,,{\rCHS}雪橇\N{\rENG}Sled. 
+Dialogue: 100,0:08:24.33,0:08:26.30,Normal Dialog Text,,0,0,0,,{\rCHS}狗 雪橇\N{\rENG}Dog, sled. 
+Dialogue: 100,0:08:26.30,0:08:29.00,Normal Dialog Text,,0,0,0,,{\rCHS}狗 雪橇\N{\rENG}Dog, sled. 
+Dialogue: 100,0:08:29.01,0:08:31.24,Normal Dialog Text,,0,0,0,,{\rCHS}嘿! 嘿 孩子们!\N{\rENG}Hey! Hey, you kids! 
+Dialogue: 100,0:08:33.31,0:08:35.11,Normal Dialog Text,,0,0,0,,{\rCHS}大家冷静下来\N{\rENG}Everyone, calm down. 
+Dialogue: 100,0:08:36.51,0:08:38.45,Normal Dialog Text,,0,0,0,,{\rCHS}看 我们都能看到她\N{\rENG}Look, we can all see her. 
+Dialogue: 100,0:08:38.45,0:08:40.35,Normal Dialog Text,,0,0,0,,{\rCHS}她就在这儿!\N{\rENG}She's right there! 
 Dialogue: 100,0:08:40.35,0:08:43.08,Normal Dialog Text,,0,0,0,,{\rCHS}她不能变形回来是因为\N{\rENG}She just can't reform because
-Dialogue: 100,0:08:43.09,0:08:46.49,Normal Dialog Text,,0,0,0,,{\rCHS}她被这个宝宝...包住了\N{\rENG}she has this... baby around her.
-Dialogue: 100,0:08:46.49,0:08:48.99,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰,我知道你在里面\N{\rENG}Rose, I know you're in there.
-Dialogue: 100,0:08:48.99,0:08:51.06,Normal Dialog Text,,0,0,0,,{\rCHS}我可以放你出来\N{\rENG}I can let you out.
-Dialogue: 100,0:08:51.06,0:08:54.23,Normal Dialog Text,,0,0,0,,{\rCHS}我们能再次相聚\N{\rENG}We'll be together again.
-Dialogue: 100,0:08:58.20,0:09:00.50,Normal Dialog Text,,0,0,0,,{\rCHS}我做不到\N{\rENG}I can't.
-Dialogue: 100,0:09:00.50,0:09:01.84,Normal Dialog Text,,0,0,0,,{\rCHS}我做不到!\N{\rENG}I can't!
-Dialogue: 100,0:09:01.84,0:09:03.94,Normal Dialog Text,,0,0,0,,{\rCHS}她太想要这样了\N{\rENG}She wanted this so much.
-Dialogue: 100,0:09:03.94,0:09:07.81,Normal Dialog Text,,0,0,0,,{\rCHS}我实在搞不懂为什么!\N{\rENG}I just don't understand why!
-Dialogue: 100,0:09:08.11,0:09:11.44,Normal Dialog Text,,0,0,0,,{\rCHS}"万物都应生长,万物都应改变\N{\rENG}"Everything should grow, and everything should change.
-Dialogue: 100,0:09:11.44,0:09:12.88,Normal Dialog Text,,0,0,0,,{\rCHS}最--最棒的是\N{\rENG}And -- And isn't it so great
+Dialogue: 100,0:08:43.09,0:08:46.49,Normal Dialog Text,,0,0,0,,{\rCHS}她被这个宝宝...包住了\N{\rENG}she has this...baby around her. 
+Dialogue: 100,0:08:46.49,0:08:48.99,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰 我知道你在里面\N{\rENG}Rose, I know you're in there. 
+Dialogue: 100,0:08:48.99,0:08:51.06,Normal Dialog Text,,0,0,0,,{\rCHS}我可以放你出来\N{\rENG}I can let you out. 
+Dialogue: 100,0:08:51.06,0:08:54.23,Normal Dialog Text,,0,0,0,,{\rCHS}我们能再次相聚\N{\rENG}We'll be together again. 
+Dialogue: 100,0:08:58.20,0:09:00.50,Normal Dialog Text,,0,0,0,,{\rCHS}我做不到\N{\rENG}I can't. 
+Dialogue: 100,0:09:00.50,0:09:01.84,Normal Dialog Text,,0,0,0,,{\rCHS}我做不到!\N{\rENG}I can't! 
+Dialogue: 100,0:09:01.84,0:09:03.94,Normal Dialog Text,,0,0,0,,{\rCHS}她太想要这样了\N{\rENG}She wanted this so much. 
+Dialogue: 100,0:09:03.94,0:09:07.81,Normal Dialog Text,,0,0,0,,{\rCHS}我实在搞不懂为什么!\N{\rENG}I just don't understand why! 
+Dialogue: 100,0:09:08.11,0:09:11.44,Normal Dialog Text,,0,0,0,,{\rCHS}"万物都应生长 万物都应改变\N{\rENG}"Everything should grow, and everything should change. 
+Dialogue: 100,0:09:11.44,0:09:12.88,Normal Dialog Text,,0,0,0,,{\rCHS}最--最棒的是\N{\rENG}And--And isn't it so great
 Dialogue: 100,0:09:12.88,0:09:14.85,Normal Dialog Text,,0,0,0,,{\rCHS}这对于人类而言这多么自然"\N{\rENG}how it comes so naturally to humans."
-Dialogue: 100,0:09:14.85,0:09:17.68,Normal Dialog Text,,0,0,0,,{\rCHS}这对于我们来说不自然啊!\N{\rENG}Well, it's not natural for us!
-Dialogue: 100,0:09:18.89,0:09:22.26,Normal Dialog Text,,0,0,0,,{\rCHS}这对于我来说...不自然啊\N{\rENG}It's not natural...for me.
+Dialogue: 100,0:09:14.85,0:09:17.68,Normal Dialog Text,,0,0,0,,{\rCHS}这对于我们来说不自然啊!\N{\rENG}Well, it's not natural for us! 
+Dialogue: 100,0:09:18.89,0:09:22.26,Normal Dialog Text,,0,0,0,,{\rCHS}这对于我来说...不自然啊\N{\rENG}It's not natural...for me. 
 Dialogue: 100,0:09:22.26,0:09:23.72,Normal Dialog Text,,0,0,0,,{\rCHS}对他来说...\N{\rENG}It will be...
-Dialogue: 100,0:09:23.73,0:09:25.83,Normal Dialog Text,,0,0,0,,{\rCHS}是自然的\N{\rENG}for him.
-Dialogue: 100,0:09:28.96,0:09:30.70,Normal Dialog Text,,0,0,0,,{\rCHS}可是玫瑰呢?\N{\rENG}What about Rose?
-Dialogue: 100,0:09:30.70,0:09:32.83,Normal Dialog Text,,0,0,0,,{\rCHS}这不是关于玫瑰的\N{\rENG}This isn't about Rose.
-Dialogue: 100,0:09:32.84,0:09:35.27,Normal Dialog Text,,0,0,0,,{\rCHS}从现在起,所有事都应该是关于\N{\rENG}From now on, everything has to be
-Dialogue: 100,0:09:35.27,0:09:37.47,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文的\N{\rENG}about Steven.
-Dialogue: 100,0:09:38.67,0:09:42.38,Normal Dialog Text,,0,0,0,,{\rCHS}救---我!\N{\rENG}He-l-l-l-l-p!
-Dialogue: 100,0:09:42.38,0:09:45.28,Normal Dialog Text,,0,0,0,,{\rCHS}救我!\N{\rENG}Help!
-Dialogue: 100,0:09:45.28,0:09:46.68,Normal Dialog Text,,0,0,0,,{\rCHS}呃 谢谢\N{\rENG}Ugh. Thanks.
-Dialogue: 100,0:09:49.42,0:09:50.75,Normal Dialog Text,,0,0,0,,{\rCHS}嘿,等下!\N{\rENG}Hey, wait a minute!
+Dialogue: 100,0:09:23.73,0:09:25.83,Normal Dialog Text,,0,0,0,,{\rCHS}是自然的\N{\rENG}for him. 
+Dialogue: 100,0:09:28.96,0:09:30.70,Normal Dialog Text,,0,0,0,,{\rCHS}可是玫瑰呢?\N{\rENG}What about Rose? 
+Dialogue: 100,0:09:30.70,0:09:32.83,Normal Dialog Text,,0,0,0,,{\rCHS}这不是关于玫瑰的\N{\rENG}This isn't about Rose. 
+Dialogue: 100,0:09:32.84,0:09:35.27,Normal Dialog Text,,0,0,0,,{\rCHS}从现在起 所有事都应该是关于\N{\rENG}From now on, everything has to be
+Dialogue: 100,0:09:35.27,0:09:37.47,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文的\N{\rENG}about Steven. 
+Dialogue: 100,0:09:38.67,0:09:42.38,Normal Dialog Text,,0,0,0,,{\rCHS}救---我!\N{\rENG}He-l-l-l-l-p! 
+Dialogue: 100,0:09:42.38,0:09:45.28,Normal Dialog Text,,0,0,0,,{\rCHS}救我!\N{\rENG}Help! 
+Dialogue: 100,0:09:45.28,0:09:46.68,Normal Dialog Text,,0,0,0,,{\rCHS}呃 谢谢\N{\rENG}Ugh. Thanks. 
+Dialogue: 100,0:09:49.42,0:09:50.75,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 等下!\N{\rENG}Hey, wait a minute! 
 Dialogue: 100,0:09:50.75,0:09:52.82,Normal Dialog Text,,0,0,0,,{\rCHS}你们为什么要在暴雪的天气\N{\rENG}Why did you take Steven on a joyride
-Dialogue: 100,0:09:52.82,0:09:54.62,Normal Dialog Text,,0,0,0,,{\rCHS}带史蒂文自驾游?\N{\rENG}in the middle of a blizzard?
-Dialogue: 100,0:09:54.62,0:09:56.06,Normal Dialog Text,,0,0,0,,{\rCHS}你们这是要干什么啊?\N{\rENG}What's the big idea?
-Dialogue: 100,0:09:56.06,0:09:58.93,Normal Dialog Text,,0,0,0,,{\rCHS}我们也没想好什么主意\N{\rENG}There wasn't really a big idea.
-Dialogue: 100,0:09:58.93,0:10:01.70,Normal Dialog Text,,0,0,0,,{\rCHS}就是一些凑不到一起的零碎的想法\N{\rENG}Just a bunch of small ideas that never came together.
-Dialogue: 100,0:10:01.70,0:10:03.26,Normal Dialog Text,,0,0,0,,{\rCHS}是我的不对,格雷格\N{\rENG}My apologies, Greg.
-Dialogue: 100,0:10:03.27,0:10:05.70,Normal Dialog Text,,0,0,0,,{\rCHS}我以为我们知道史蒂文是什么\N{\rENG}We thought we knew what Steven was.
-Dialogue: 100,0:10:05.70,0:10:06.97,Normal Dialog Text,,0,0,0,,{\rCHS}可是我们不知道\N{\rENG}But we didn't.
-Dialogue: 100,0:10:06.97,0:10:09.30,Normal Dialog Text,,0,0,0,,{\rCHS}说实话,我也不确定我懂\N{\rENG}Honestly, I'm not sure if I do, either.
-Dialogue: 100,0:10:09.30,0:10:12.44,Normal Dialog Text,,0,0,0,,{\rCHS}我从小时候起就没有发光过\N{\rENG}I never glowed when I was a kid.
-Dialogue: 100,0:10:12.44,0:10:15.31,Normal Dialog Text,,0,0,0,,{\rCHS}我们就没有小时候\N{\rENG}We never were kids.
-Dialogue: 100,0:10:17.45,0:10:19.71,Normal Dialog Text,,0,0,0,,{\rCHS}我不知道我们该怎么搞明白这些\N{\rENG}I don't know how we're going to figure this out,
+Dialogue: 100,0:09:52.82,0:09:54.62,Normal Dialog Text,,0,0,0,,{\rCHS}带史蒂文自驾游?\N{\rENG}in the middle of a blizzard? 
+Dialogue: 100,0:09:54.62,0:09:56.06,Normal Dialog Text,,0,0,0,,{\rCHS}你们这是要干什么啊?\N{\rENG}What's the big idea? 
+Dialogue: 100,0:09:56.06,0:09:58.93,Normal Dialog Text,,0,0,0,,{\rCHS}我们也没想好什么主意\N{\rENG}There wasn't really a big idea. 
+Dialogue: 100,0:09:58.93,0:10:01.70,Normal Dialog Text,,0,0,0,,{\rCHS}就是一些凑不到一起的零碎的想法\N{\rENG}Just a bunch of small ideas that never came together. 
+Dialogue: 100,0:10:01.70,0:10:03.26,Normal Dialog Text,,0,0,0,,{\rCHS}是我的不对 格雷格\N{\rENG}My apologies, Greg. 
+Dialogue: 100,0:10:03.27,0:10:05.70,Normal Dialog Text,,0,0,0,,{\rCHS}我以为我们知道史蒂文是什么\N{\rENG}We thought we knew what Steven was. 
+Dialogue: 100,0:10:05.70,0:10:06.97,Normal Dialog Text,,0,0,0,,{\rCHS}可是我们不知道\N{\rENG}But we didn't. 
+Dialogue: 100,0:10:06.97,0:10:09.30,Normal Dialog Text,,0,0,0,,{\rCHS}说实话 我也不确定我懂\N{\rENG}Honestly, I'm not sure if I do, either. 
+Dialogue: 100,0:10:09.30,0:10:12.44,Normal Dialog Text,,0,0,0,,{\rCHS}我从小时候起就没有发光过\N{\rENG}I never glowed when I was a kid. 
+Dialogue: 100,0:10:12.44,0:10:15.31,Normal Dialog Text,,0,0,0,,{\rCHS}我们就没有小时候\N{\rENG}We never were kids. 
+Dialogue: 100,0:10:17.45,0:10:19.71,Normal Dialog Text,,0,0,0,,{\rCHS}我不知道我们该怎么搞明白这些\N{\rENG}I don't know how we're going to figure this out, 
 Dialogue: 100,0:10:19.72,0:10:21.88,Normal Dialog Text,,0,0,0,,{\rCHS}但是我觉得如果我们一起来的话\N{\rENG}but I think we'll have a better shot
-Dialogue: 100,0:10:21.88,0:10:24.15,Normal Dialog Text,,0,0,0,,{\rCHS}至少会更好一些\N{\rENG}if we do it together.
-Dialogue: 100,0:10:30.23,0:10:33.29,Normal Dialog Text,,0,0,0,,{\rCHS}哇 你们几个真的搞错了所有事\N{\rENG}Wow. You guys were wrong about everything.
-Dialogue: 100,0:10:33.30,0:10:35.66,Normal Dialog Text,,0,0,0,,{\rCHS}这个,这件事已经--\N{\rENG}Well, that was a --
-Dialogue: 100,0:10:35.66,0:10:39.07,Normal Dialog Text,,0,0,0,,{\rCHS}过去了很长时间了,不是吗\N{\rENG}A really long time ago, wasn't it?
-Dialogue: 100,0:10:39.07,0:10:40.47,Normal Dialog Text,,0,0,0,,{\rCHS}别对我们要求那么高,好不?\N{\rENG}Cut us some slack, will ya?
-Dialogue: 100,0:10:40.47,0:10:43.60,Normal Dialog Text,,0,0,0,,{\rCHS}我们当时不知道该怎么做,甚至是我\N{\rENG}We couldn't have known what to do, even me.
-Dialogue: 100,0:10:43.61,0:10:45.11,Normal Dialog Text,,0,0,0,,{\rCHS}特别是我\N{\rENG}Especially me.
-Dialogue: 100,0:10:45.11,0:10:48.28,Normal Dialog Text,,0,0,0,,{\rCHS}不,我是说改变和成长\N{\rENG}No, I mean about changing and growing,
-Dialogue: 100,0:10:48.28,0:10:50.64,Normal Dialog Text,,0,0,0,,{\rCHS}还有你对于你们来说不自然那些话?\N{\rENG}and how it doesn't come naturally to you?
-Dialogue: 100,0:10:50.65,0:10:52.35,Normal Dialog Text,,0,0,0,,{\rCHS}但是看看你们现在的样子!\N{\rENG}But look at you now!
-Dialogue: 100,0:10:52.35,0:10:54.65,Normal Dialog Text,,0,0,0,,{\rCHS}我知道你们一直都在怀念妈妈\N{\rENG}I know you'll never stop missing Mom,
-Dialogue: 100,0:10:54.65,0:10:57.35,Normal Dialog Text,,0,0,0,,{\rCHS}但是我想她会爱死现在这样的\N{\rENG}but I bet she would've loved this.
-Dialogue: 100,0:10:57.35,0:10:58.25,Normal Dialog Text,,0,0,0,,{\rCHS}我就是\N{\rENG}I do.
-Dialogue: 100,0:10:58.25,0:10:59.75,Normal Dialog Text,,0,0,0,,{\rCHS}-同意-同意\N{\rENG}-Hear, hear. -Hear, hear.
+Dialogue: 100,0:10:21.88,0:10:24.15,Normal Dialog Text,,0,0,0,,{\rCHS}至少会更好一些\N{\rENG}if we do it together. 
+Dialogue: 100,0:10:30.23,0:10:33.29,Normal Dialog Text,,0,0,0,,{\rCHS}哇 你们几个真的搞错了所有事\N{\rENG}Wow. You guys were wrong about everything. 
+Dialogue: 100,0:10:33.30,0:10:35.66,Normal Dialog Text,,0,0,0,,{\rCHS}这个 这件事已经--\N{\rENG}Well, that was a--
+Dialogue: 100,0:10:35.66,0:10:39.07,Normal Dialog Text,,0,0,0,,{\rCHS}过去了很长时间了 不是吗\N{\rENG}A really long time ago, wasn't it? 
+Dialogue: 100,0:10:39.07,0:10:40.47,Normal Dialog Text,,0,0,0,,{\rCHS}别对我们要求那么高 好不?\N{\rENG}Cut us some slack, will ya? 
+Dialogue: 100,0:10:40.47,0:10:43.60,Normal Dialog Text,,0,0,0,,{\rCHS}我们当时不知道该怎么做 甚至是我\N{\rENG}We couldn't have known what to do, even me. 
+Dialogue: 100,0:10:43.61,0:10:45.11,Normal Dialog Text,,0,0,0,,{\rCHS}特别是我\N{\rENG}Especially me. 
+Dialogue: 100,0:10:45.11,0:10:48.28,Normal Dialog Text,,0,0,0,,{\rCHS}不 我是说改变和成长\N{\rENG}No, I mean about changing and growing, 
+Dialogue: 100,0:10:48.28,0:10:50.64,Normal Dialog Text,,0,0,0,,{\rCHS}还有你对于你们来说不自然那些话?\N{\rENG}and how it doesn't come naturally to you? 
+Dialogue: 100,0:10:50.65,0:10:52.35,Normal Dialog Text,,0,0,0,,{\rCHS}但是看看你们现在的样子!\N{\rENG}But look at you now! 
+Dialogue: 100,0:10:52.35,0:10:54.65,Normal Dialog Text,,0,0,0,,{\rCHS}我知道你们一直都在怀念妈妈\N{\rENG}I know you'll never stop missing Mom, 
+Dialogue: 100,0:10:54.65,0:10:57.35,Normal Dialog Text,,0,0,0,,{\rCHS}但是我想她会爱死现在这样的\N{\rENG}but I bet she would've loved this. 
+Dialogue: 100,0:10:57.35,0:10:58.25,Normal Dialog Text,,0,0,0,,{\rCHS}我就是\N{\rENG}I do. 
+Dialogue: 100,0:10:58.25,0:10:59.75,Normal Dialog Text,,0,0,0,,{\rCHS}-同意-同意\N{\rENG}-Hear, hear.-Hear, hear. 
 Dialogue: 100,0:10:59.76,0:11:01.49,Normal Dialog Text,,0,0,0,,{\rCHS}当时有个女孩绑架了史蒂文\N{\rENG}It wasn't such a big deal
-Dialogue: 100,0:11:01.49,0:11:03.42,Normal Dialog Text,,0,0,0,,{\rCHS}那也不是什么大事对吧\N{\rENG}when that teenaged girl kidnapped Steven.
-Dialogue: 100,0:11:03.43,0:11:05.02,Normal Dialog Text,,0,0,0,,{\rCHS}那个是史蒂文的临时保姆\N{\rENG}That was his babysitter.
-Dialogue: 100,0:11:05.03,0:11:06.66,Normal Dialog Text,,0,0,0,,{\rCHS}她带史蒂文去公园玩\N{\rENG}She took him to the park.
-Dialogue: 100,0:11:06.66,0:11:09.90,Normal Dialog Text,,0,0,0,,{\rCHS}你们把攀爬架往她身上扔的时候真的把她吓到了\N{\rENG}You really scared her when you threw that jungle gym at her.
-Dialogue: 600,0:11:12.31,0:11:14.75,Hint,,0,0,0,,本集有许多地方和基督教相关\N与耶稣相似，史蒂文的出生方式非常特别\N三个宝石人拜访了史蒂文，与东方三智者相似\N耶稣被放置在马槽中，而史蒂文则是面包车\N格雷格的蓝色披风与圣母玛丽相似
+Dialogue: 100,0:11:01.49,0:11:03.42,Normal Dialog Text,,0,0,0,,{\rCHS}那也不是什么大事对吧\N{\rENG}when that teenaged girl kidnapped Steven. 
+Dialogue: 100,0:11:03.43,0:11:05.02,Normal Dialog Text,,0,0,0,,{\rCHS}那个是史蒂文的临时保姆\N{\rENG}That was his babysitter. 
+Dialogue: 100,0:11:05.03,0:11:06.66,Normal Dialog Text,,0,0,0,,{\rCHS}她带史蒂文去公园玩\N{\rENG}She took him to the park. 
+Dialogue: 100,0:11:06.66,0:11:09.90,Normal Dialog Text,,0,0,0,,{\rCHS}你们把攀爬架往她身上扔的时候真的把她吓到了\N{\rENG}You really scared her when you threw that jungle gym at her. 
+Dialogue: 600,0:11:12.31,0:11:14.75,Hint,,0,0,0,,本集有许多地方和基督教相关\N与耶稣相似 史蒂文的出生方式非常特别\N三个宝石人拜访了史蒂文 与东方三智者相似\N耶稣被放置在马槽中 而史蒂文则是面包车\N格雷格的蓝色披风与圣母玛丽相似
+

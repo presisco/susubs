@@ -43,251 +43,251 @@ Style: Hint,微软雅黑,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 1,0:00:00.00,0:00:01.50,SU Title,,0,0,0,,{\xshad-0\yshad12\pos(1162,174)}史蒂文VS紫晶
-Dialogue: 1,0:00:01.50,0:00:03.00,SU Claim,,0,0,0,,欢迎关注微博@UUU字幕组，获取最新熟肉信息！
+Dialogue: 1,0:00:01.50,0:00:03.00,SU Claim,,0,0,0,,欢迎关注微博@ UUU字幕组 获取最新熟肉信息! 
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,260)}出品
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,320)}UUU字幕组
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,380)}翻译
-Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,440)}牙牙/饼干一枚
+Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,440)}牙牙/ 饼干一枚
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,500)}校对
-Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,560)}linn/husky/右翼部鸣明
+Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,560)}linn/ husky/ 右翼部鸣明
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,620)}特效
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,680)}presisco
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,740)}压制
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,800)}presisco
-Dialogue: 0,0:00:01.50,0:00:03.00,SU Team Background,,0,0,0,,{\bord0\xshad-0\yshad16\pos(1725,860)}{\p1}m -1 122 b -1 -19 -19 -1 122 -1 l 251 -1 b 390 -1 377 -19 377 122 l 377 500 b 377 642 390 628 251 628 l 122 628 b -19 628 -1 642 -1 500 l -1 122 {\p0}
-Dialogue: 1,0:00:01.50,0:00:03.00,Hint,,0,0,0,,填字：右翼部鸣明   Matisse 文本处理：谷子
-Dialogue: 1,0:00:01.50,0:00:03.00,Hint,,0,0,0,,时间轴：SGcat
-Dialogue: 100,0:00:05.50,0:00:08.17,Normal Dialog Text,,0,0,0,,{\rCHS}呃...我觉得我们永远找不到铁石英了\N{\rENG}We're never going to find Jasper.
-Dialogue: 100,0:00:08.17,0:00:09.20,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠 石榴\N{\rENG}Pearl, Garnet!
-Dialogue: 100,0:00:09.20,0:00:10.80,Normal Dialog Text,,0,0,0,,{\rCHS}我们找到铁石英了\N{\rENG}We found Jasper!
-Dialogue: 100,0:00:10.81,0:00:11.80,Normal Dialog Text,,0,0,0,,{\rCHS}啥\N{\rENG}What?!
-Dialogue: 100,0:00:11.81,0:00:12.81,Normal Dialog Text,,0,0,0,,{\rCHS}我们打败她了!\N{\rENG}We beat her!
-Dialogue: 100,0:00:12.81,0:00:13.87,Normal Dialog Text,,0,0,0,,{\rCHS}天惹噜\N{\rENG}Oh, my gosh!
-Dialogue: 100,0:00:13.87,0:00:15.89,Normal Dialog Text,,0,0,0,,{\rCHS}你还好吧 发生了什么\N{\rENG}Are you all right?! What happened?!
-Dialogue: 100,0:00:15.89,0:00:18.43,Normal Dialog Text,,0,0,0,,{\rCHS}她和那些巨大的雪怪一起出现了\N{\rENG}She showed up with those big snow monsters,
-Dialogue: 100,0:00:18.43,0:00:19.90,Normal Dialog Text,,0,0,0,,{\rCHS}我们和她战斗了\N{\rENG}so we fought those.
-Dialogue: 100,0:00:19.90,0:00:22.57,Normal Dialog Text,,0,0,0,,{\rCHS}但是战斗越来越激烈-所以我和康妮合体了\N{\rENG}But then things got really scary, so Connie and I fused!
-Dialogue: 100,0:00:22.57,0:00:25.48,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂翁妮骑着狮子赶跑了铁石英\N{\rENG}Stevonnie got to ride lion and we chased Jasper away!
-Dialogue: 100,0:00:25.49,0:00:29.07,Normal Dialog Text,,0,0,0,,{\rCHS}你们的所有训练-让你们干的超棒\N{\rENG}All your training -- you did so well!
-Dialogue: 100,0:00:30.49,0:00:32.56,Normal Dialog Text,,0,0,0,,{\rCHS}我们为你自豪\N{\rENG}We're so proud of you.
-Dialogue: 100,0:00:32.56,0:00:35.08,Normal Dialog Text,,0,0,0,,{\rCHS}等等,紫晶去哪了\N{\rENG}Wait. Where's Amethyst?
-Dialogue: 100,0:00:35.08,0:00:36.91,Normal Dialog Text,,0,0,0,,{\rCHS}呦-呦\N{\rENG}yo-Yo.
-Dialogue: 100,0:00:38.17,0:00:39.37,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶...?\N{\rENG}Amethyst?
-Dialogue: 100,0:00:39.37,0:00:40.62,Normal Dialog Text,,0,0,0,,{\rCHS}你又重生了\N{\rENG}You reformed.
-Dialogue: 100,0:00:40.62,0:00:42.28,Normal Dialog Text,,0,0,0,,{\rCHS}我好着呢\N{\rENG}I'm fine.
-Dialogue: 100,0:00:45.07,0:00:48.01,Normal Dialog Text,,0,0,0,,{\rCHS}我想你已经为你一周一次的训练准备好了 史蒂文\N{\rENG}I hope you're ready for your weekly training, Steven!
-Dialogue: 100,0:00:48.01,0:00:49.88,Normal Dialog Text,,0,0,0,,{\rCHS}我准备好了\N{\rENG}I'm ready -- on the weekly!
-Dialogue: 100,0:00:49.88,0:00:51.18,Normal Dialog Text,,0,0,0,,{\rCHS}你已经取得了一次胜利\N{\rENG}You've had one victory,
-Dialogue: 100,0:00:51.18,0:00:53.35,Normal Dialog Text,,0,0,0,,{\rCHS}但现在有更多次对抗铁石英的战斗\N{\rENG}but there are more fights to come now that Jasper's --
-Dialogue: 100,0:00:54.85,0:00:55.71,Normal Dialog Text,,0,0,0,,{\rCHS}现在铁石英已经---\N{\rENG}Now that Jasper's --
-Dialogue: 100,0:00:56.88,0:00:59.25,Normal Dialog Text,,0,0,0,,{\rCHS}现在铁石英已经卷土重来 让我们加油训练吧\N{\rENG}Jasper's back! Let's work hard!
-Dialogue: 100,0:01:02.44,0:01:04.56,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 紫晶\N{\rENG}Hey, Amethyst.
-Dialogue: 100,0:01:04.56,0:01:05.47,Normal Dialog Text,,0,0,0,,{\rCHS}怎么了\N{\rENG}Yo.
-Dialogue: 100,0:01:05.48,0:01:07.36,Normal Dialog Text,,0,0,0,,{\rCHS}你想来看我训练吗\N{\rENG}You want to come watch me train?
-Dialogue: 100,0:01:07.36,0:01:09.06,Normal Dialog Text,,0,0,0,,{\rCHS}不要\N{\rENG}Can't.
-Dialogue: 100,0:01:09.06,0:01:11.31,Normal Dialog Text,,0,0,0,,{\rCHS}我忙着做鸡蛋沙拉呢\N{\rENG}I'm busy making egg salad.
-Dialogue: 100,0:01:11.32,0:01:13.65,Normal Dialog Text,,0,0,0,,{\rCHS}别酱嘛～这会很有趣的\N{\rENG}Come on, it'll be fun!
-Dialogue: 100,0:01:13.65,0:01:14.70,Normal Dialog Text,,0,0,0,,{\rCHS}唔... \N{\rENG}Mm...
-Dialogue: 100,0:01:14.70,0:01:17.27,Normal Dialog Text,,0,0,0,,{\rCHS}你可以看我怎样得到珍珠点\N{\rENG}You'll get to see me earn Pearl points.
-Dialogue: 100,0:01:17.27,0:01:19.27,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠点是啥\N{\rENG}What are Pearl points?
-Dialogue: 100,0:01:19.27,0:01:21.12,Normal Dialog Text,,0,0,0,,{\rCHS}很高兴你问我了\N{\rENG}I'm glad you asked!
+Dialogue: 1,0:00:01.50,0:00:03.00,Hint,,0,0,0,,填字: 右翼部鸣明 Matisse 文本处理: 谷子
+Dialogue: 1,0:00:01.50,0:00:03.00,Hint,,0,0,0,,时间轴: SGcat
+Dialogue: 100,0:00:05.50,0:00:08.17,Normal Dialog Text,,0,0,0,,{\rCHS}呃...我觉得我们永远找不到铁石英了\N{\rENG}We're never going to find Jasper. 
+Dialogue: 100,0:00:08.17,0:00:09.20,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠 石榴\N{\rENG}Pearl, Garnet! 
+Dialogue: 100,0:00:09.20,0:00:10.80,Normal Dialog Text,,0,0,0,,{\rCHS}我们找到铁石英了\N{\rENG}We found Jasper! 
+Dialogue: 100,0:00:10.81,0:00:11.80,Normal Dialog Text,,0,0,0,,{\rCHS}啥\N{\rENG}What?! 
+Dialogue: 100,0:00:11.81,0:00:12.81,Normal Dialog Text,,0,0,0,,{\rCHS}我们打败她了!\N{\rENG}We beat her! 
+Dialogue: 100,0:00:12.81,0:00:13.87,Normal Dialog Text,,0,0,0,,{\rCHS}天惹噜\N{\rENG}Oh, my gosh! 
+Dialogue: 100,0:00:13.87,0:00:15.89,Normal Dialog Text,,0,0,0,,{\rCHS}你还好吧 发生了什么\N{\rENG}Are you all right?! What happened?! 
+Dialogue: 100,0:00:15.89,0:00:18.43,Normal Dialog Text,,0,0,0,,{\rCHS}她和那些巨大的雪怪一起出现了\N{\rENG}She showed up with those big snow monsters, 
+Dialogue: 100,0:00:18.43,0:00:19.90,Normal Dialog Text,,0,0,0,,{\rCHS}我们和她战斗了\N{\rENG}so we fought those. 
+Dialogue: 100,0:00:19.90,0:00:22.57,Normal Dialog Text,,0,0,0,,{\rCHS}但是战斗越来越激烈-所以我和康妮合体了\N{\rENG}But then things got really scary, so Connie and I fused! 
+Dialogue: 100,0:00:22.57,0:00:25.48,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂翁妮骑着狮子赶跑了铁石英\N{\rENG}Stevonnie got to ride lion and we chased Jasper away! 
+Dialogue: 100,0:00:25.49,0:00:29.07,Normal Dialog Text,,0,0,0,,{\rCHS}你们的所有训练-让你们干的超棒\N{\rENG}All your training--you did so well! 
+Dialogue: 100,0:00:30.49,0:00:32.56,Normal Dialog Text,,0,0,0,,{\rCHS}我们为你自豪\N{\rENG}We're so proud of you. 
+Dialogue: 100,0:00:32.56,0:00:35.08,Normal Dialog Text,,0,0,0,,{\rCHS}等等 紫晶去哪了\N{\rENG}Wait. Where's Amethyst? 
+Dialogue: 100,0:00:35.08,0:00:36.91,Normal Dialog Text,,0,0,0,,{\rCHS}呦-呦\N{\rENG}yo-Yo. 
+Dialogue: 100,0:00:38.17,0:00:39.37,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶...?\N{\rENG}Amethyst? 
+Dialogue: 100,0:00:39.37,0:00:40.62,Normal Dialog Text,,0,0,0,,{\rCHS}你又重生了\N{\rENG}You reformed. 
+Dialogue: 100,0:00:40.62,0:00:42.28,Normal Dialog Text,,0,0,0,,{\rCHS}我好着呢\N{\rENG}I'm fine. 
+Dialogue: 100,0:00:45.07,0:00:48.01,Normal Dialog Text,,0,0,0,,{\rCHS}我想你已经为你一周一次的训练准备好了 史蒂文\N{\rENG}I hope you're ready for your weekly training, Steven! 
+Dialogue: 100,0:00:48.01,0:00:49.88,Normal Dialog Text,,0,0,0,,{\rCHS}我准备好了\N{\rENG}I'm ready--on the weekly! 
+Dialogue: 100,0:00:49.88,0:00:51.18,Normal Dialog Text,,0,0,0,,{\rCHS}你已经取得了一次胜利\N{\rENG}You've had one victory, 
+Dialogue: 100,0:00:51.18,0:00:53.35,Normal Dialog Text,,0,0,0,,{\rCHS}但现在有更多次对抗铁石英的战斗\N{\rENG}but there are more fights to come now that Jasper's--
+Dialogue: 100,0:00:54.85,0:00:55.71,Normal Dialog Text,,0,0,0,,{\rCHS}现在铁石英已经---\N{\rENG}Now that Jasper's--
+Dialogue: 100,0:00:56.88,0:00:59.25,Normal Dialog Text,,0,0,0,,{\rCHS}现在铁石英已经卷土重来 让我们加油训练吧\N{\rENG}Jasper's back! Let's work hard! 
+Dialogue: 100,0:01:02.44,0:01:04.56,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 紫晶\N{\rENG}Hey, Amethyst. 
+Dialogue: 100,0:01:04.56,0:01:05.47,Normal Dialog Text,,0,0,0,,{\rCHS}怎么了\N{\rENG}Yo. 
+Dialogue: 100,0:01:05.48,0:01:07.36,Normal Dialog Text,,0,0,0,,{\rCHS}你想来看我训练吗\N{\rENG}You want to come watch me train? 
+Dialogue: 100,0:01:07.36,0:01:09.06,Normal Dialog Text,,0,0,0,,{\rCHS}不要\N{\rENG}Can't. 
+Dialogue: 100,0:01:09.06,0:01:11.31,Normal Dialog Text,,0,0,0,,{\rCHS}我忙着做鸡蛋沙拉呢\N{\rENG}I'm busy making egg salad. 
+Dialogue: 100,0:01:11.32,0:01:13.65,Normal Dialog Text,,0,0,0,,{\rCHS}别酱嘛～这会很有趣的\N{\rENG}Come on, it'll be fun! 
+Dialogue: 100,0:01:13.65,0:01:14.70,Normal Dialog Text,,0,0,0,,{\rCHS}唔...\N{\rENG}Mm...
+Dialogue: 100,0:01:14.70,0:01:17.27,Normal Dialog Text,,0,0,0,,{\rCHS}你可以看我怎样得到珍珠点\N{\rENG}You'll get to see me earn Pearl points. 
+Dialogue: 100,0:01:17.27,0:01:19.27,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠点是啥\N{\rENG}What are Pearl points? 
+Dialogue: 100,0:01:19.27,0:01:21.12,Normal Dialog Text,,0,0,0,,{\rCHS}很高兴你问我了\N{\rENG}I'm glad you asked! 
 Dialogue: 100,0:01:21.13,0:01:22.61,Normal Dialog Text,,0,0,0,,{\rCHS}我要把这些珍珠点奖励给\N{\rENG}Pearl: Pearl points are awarded
-Dialogue: 100,0:01:22.61,0:01:25.41,Normal Dialog Text,,0,0,0,,{\rCHS}那些珍正坚持不懈并积极向上并珍惜时间的人\N{\rENG}for punctuality, perseverance, and positivity.
+Dialogue: 100,0:01:22.61,0:01:25.41,Normal Dialog Text,,0,0,0,,{\rCHS}那些珍正坚持不懈并积极向上并珍惜时间的人\N{\rENG}for punctuality, perseverance, and positivity. 
 Dialogue: 100,0:01:26.95,0:01:29.58,Normal Dialog Text,,0,0,0,,{\rCHS}我们也许比我们的对手\N{\rENG}We may be smaller, weaker, and less gifted
-Dialogue: 100,0:01:29.58,0:01:32.13,Normal Dialog Text,,0,0,0,,{\rCHS}更弱小 更没有天赋 但只要有了这些珍珠点奖励\N{\rENG}---than our opponents, but with these "P"s,
-Dialogue: 100,0:01:32.14,0:01:34.64,Normal Dialog Text,,0,0,0,,{\rCHS}我们就有了成功的钥匙\N{\rENG}we have the keys to success.
-Dialogue: 100,0:01:34.64,0:01:38.06,Normal Dialog Text,,0,0,0,,{\rCHS}以及-----可以得到珍数袋里的奖品\N{\rENG}And -- to the Pearl prize pouch!
+Dialogue: 100,0:01:29.58,0:01:32.13,Normal Dialog Text,,0,0,0,,{\rCHS}更弱小 更没有天赋 但只要有了这些珍珠点奖励\N{\rENG}---than our opponents, but with these "P"s, 
+Dialogue: 100,0:01:32.14,0:01:34.64,Normal Dialog Text,,0,0,0,,{\rCHS}我们就有了成功的钥匙\N{\rENG}we have the keys to success. 
+Dialogue: 100,0:01:34.64,0:01:38.06,Normal Dialog Text,,0,0,0,,{\rCHS}以及-----可以得到珍数袋里的奖品\N{\rENG}And--to the Pearl prize pouch! 
 Dialogue: 100,0:01:38.06,0:01:40.29,Normal Dialog Text,,0,0,0,,{\rCHS}噗噗 珍了不起\N{\rENG}Ha! P-amazing
-Dialogue: 100,0:01:40.29,0:01:41.63,Normal Dialog Text,,0,0,0,,{\rCHS}谢啦\N{\rENG}Thank you.
-Dialogue: 100,0:01:41.63,0:01:43.96,Normal Dialog Text,,0,0,0,,{\rCHS}有这口袋里有一些东西珍不错\N{\rENG}There's some P-great stuff in that pouch.
-Dialogue: 100,0:01:43.96,0:01:45.73,Normal Dialog Text,,0,0,0,,{\rCHS}上一周 我得到了这个\N{\rENG}Last week, I got these!
-Dialogue: 100,0:01:45.73,0:01:49.10,Normal Dialog Text,,0,0,0,,{\rCHS}我甚至都不需要眼镜 所以这超好玩\N{\rENG}I don't even need glasses, so it's funny!
+Dialogue: 100,0:01:40.29,0:01:41.63,Normal Dialog Text,,0,0,0,,{\rCHS}谢啦\N{\rENG}Thank you. 
+Dialogue: 100,0:01:41.63,0:01:43.96,Normal Dialog Text,,0,0,0,,{\rCHS}有这口袋里有一些东西珍不错\N{\rENG}There's some P-great stuff in that pouch. 
+Dialogue: 100,0:01:43.96,0:01:45.73,Normal Dialog Text,,0,0,0,,{\rCHS}上一周 我得到了这个\N{\rENG}Last week, I got these! 
+Dialogue: 100,0:01:45.73,0:01:49.10,Normal Dialog Text,,0,0,0,,{\rCHS}我甚至都不需要眼镜 所以这超好玩\N{\rENG}I don't even need glasses, so it's funny! 
 Dialogue: 100,0:01:49.10,0:01:51.69,Normal Dialog Text,,0,0,0,,{\rCHS}港真 紫晶 这些小礼物真是\N{\rENG}Really, Amethyst, the positive reinforcement
-Dialogue: 100,0:01:51.69,0:01:53.14,Normal Dialog Text,,0,0,0,,{\rCHS}起到了很大作用\N{\rENG}has been doing wonders.
-Dialogue: 100,0:01:53.14,0:01:54.36,Normal Dialog Text,,0,0,0,,{\rCHS}我也想加入\N{\rENG}I want in.
-Dialogue: 100,0:01:54.36,0:01:55.82,Normal Dialog Text,,0,0,0,,{\rCHS}加入玩眼镜的行列吗\N{\rENG}On the glasses?
-Dialogue: 100,0:01:55.83,0:01:57.14,Normal Dialog Text,,0,0,0,,{\rCHS}不 我要加入训练\N{\rENG}On the training.
-Dialogue: 100,0:01:57.14,0:01:58.81,Normal Dialog Text,,0,0,0,,{\rCHS}真的\N{\rENG}Really?
-Dialogue: 100,0:01:58.81,0:02:00.03,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶你\N{\rENG}You, Amethyst?
-Dialogue: 100,0:02:00.03,0:02:02.25,Normal Dialog Text,,0,0,0,,{\rCHS}当然了 你懂的 为了找乐子\N{\rENG}Yeah. You know, for fun.
-Dialogue: 100,0:02:02.25,0:02:03.45,Normal Dialog Text,,0,0,0,,{\rCHS}太棒辣 热烈欢迎\N{\rENG}All right!
-Dialogue: 100,0:02:03.45,0:02:06.34,Normal Dialog Text,,0,0,0,,{\rCHS}好了好了 别客气\N{\rENG}Yeah, yeah.  You're welcome.
-Dialogue: 100,0:02:06.34,0:02:09.54,Normal Dialog Text,,0,0,0,,{\rCHS}那么 我们开始训练吧\N{\rENG}Well, then, let the training begin!
-Dialogue: 100,0:02:11.63,0:02:13.43,Normal Dialog Text,,0,0,0,,{\rCHS}测试的第一关是速度\N{\rENG}Your first test will be speed.
-Dialogue: 100,0:02:14.55,0:02:15.83,Normal Dialog Text,,0,0,0,,{\rCHS}为了让你们更好的训练\N{\rENG}To aid your training,
-Dialogue: 100,0:02:15.83,0:02:19.38,Normal Dialog Text,,0,0,0,,{\rCHS}我将会用全息珍珠来进行考验\N{\rENG}I will be utilizing my holograms.
-Dialogue: 100,0:02:19.38,0:02:23.34,Normal Dialog Text,,0,0,0,,{\rCHS}欢迎使用全息珍珠第2.000001版\N{\rENG}Welcome to Holo-Pearl version 2.000001.
+Dialogue: 100,0:01:51.69,0:01:53.14,Normal Dialog Text,,0,0,0,,{\rCHS}起到了很大作用\N{\rENG}has been doing wonders. 
+Dialogue: 100,0:01:53.14,0:01:54.36,Normal Dialog Text,,0,0,0,,{\rCHS}我也想加入\N{\rENG}I want in. 
+Dialogue: 100,0:01:54.36,0:01:55.82,Normal Dialog Text,,0,0,0,,{\rCHS}加入玩眼镜的行列吗\N{\rENG}On the glasses? 
+Dialogue: 100,0:01:55.83,0:01:57.14,Normal Dialog Text,,0,0,0,,{\rCHS}不 我要加入训练\N{\rENG}On the training. 
+Dialogue: 100,0:01:57.14,0:01:58.81,Normal Dialog Text,,0,0,0,,{\rCHS}真的\N{\rENG}Really? 
+Dialogue: 100,0:01:58.81,0:02:00.03,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶你\N{\rENG}You, Amethyst? 
+Dialogue: 100,0:02:00.03,0:02:02.25,Normal Dialog Text,,0,0,0,,{\rCHS}当然了 你懂的 为了找乐子\N{\rENG}Yeah. You know, for fun. 
+Dialogue: 100,0:02:02.25,0:02:03.45,Normal Dialog Text,,0,0,0,,{\rCHS}太棒辣 热烈欢迎\N{\rENG}All right! 
+Dialogue: 100,0:02:03.45,0:02:06.34,Normal Dialog Text,,0,0,0,,{\rCHS}好了好了 别客气\N{\rENG}Yeah, yeah. You're welcome. 
+Dialogue: 100,0:02:06.34,0:02:09.54,Normal Dialog Text,,0,0,0,,{\rCHS}那么 我们开始训练吧\N{\rENG}Well, then, let the training begin! 
+Dialogue: 100,0:02:11.63,0:02:13.43,Normal Dialog Text,,0,0,0,,{\rCHS}测试的第一关是速度\N{\rENG}Your first test will be speed. 
+Dialogue: 100,0:02:14.55,0:02:15.83,Normal Dialog Text,,0,0,0,,{\rCHS}为了让你们更好的训练\N{\rENG}To aid your training, 
+Dialogue: 100,0:02:15.83,0:02:19.38,Normal Dialog Text,,0,0,0,,{\rCHS}我将会用全息珍珠来进行考验\N{\rENG}I will be utilizing my holograms. 
+Dialogue: 100,0:02:19.38,0:02:23.34,Normal Dialog Text,,0,0,0,,{\rCHS}欢迎使用全息珍珠第2. 000001版\N{\rENG}Welcome to Holo-Pearl version 2. 000001. 
 Dialogue: 100,0:02:23.34,0:02:24.67,Normal Dialog Text,,0,0,0,,{\rCHS}我改造了她们\N{\rENG}I've modified them
-Dialogue: 100,0:02:24.67,0:02:27.61,Normal Dialog Text,,0,0,0,,{\rCHS}为了让她们习惯轻松的训练\N{\rENG}to accommodate less lethal training.
-Dialogue: 100,0:02:27.61,0:02:30.01,Normal Dialog Text,,0,0,0,,{\rCHS}人心才是最锋利的武器\N{\rENG}The sharpest weapon is the mind.
+Dialogue: 100,0:02:24.67,0:02:27.61,Normal Dialog Text,,0,0,0,,{\rCHS}为了让她们习惯轻松的训练\N{\rENG}to accommodate less lethal training. 
+Dialogue: 100,0:02:27.61,0:02:30.01,Normal Dialog Text,,0,0,0,,{\rCHS}人心才是最锋利的武器\N{\rENG}The sharpest weapon is the mind. 
 Dialogue: 100,0:02:32.48,0:02:34.61,Normal Dialog Text,,0,0,0,,{\rCHS}全息珍珠将会在竞技场的边缘\N{\rENG}The Holo-Pearl will serve as a checkpoint
-Dialogue: 100,0:02:34.62,0:02:35.86,Normal Dialog Text,,0,0,0,,{\rCHS}充当一个检查站\N{\rENG}at the edge of the arena.
-Dialogue: 100,0:02:35.87,0:02:39.32,Normal Dialog Text,,0,0,0,,{\rCHS}每跑完一个来回就和全息珍珠击掌作为记号\N{\rENG}Mark your lap with a Holo-Pearl high five.
-Dialogue: 100,0:02:39.32,0:02:40.95,Normal Dialog Text,,0,0,0,,{\rCHS}接收 击掌\N{\rENG}High five accepted!
-Dialogue: 100,0:02:40.96,0:02:42.35,Normal Dialog Text,,0,0,0,,{\rCHS}两个来回 两次击掌\N{\rENG}Two laps, two fives.
-Dialogue: 100,0:02:42.36,0:02:44.74,Normal Dialog Text,,0,0,0,,{\rCHS}胜者就会得到一个珍珠点\N{\rENG}One pearl point to the winner!
-Dialogue: 100,0:02:44.74,0:02:45.79,Normal Dialog Text,,0,0,0,,{\rCHS}懂啦\N{\rENG}Got it!
-Dialogue: 100,0:02:45.79,0:02:46.66,Normal Dialog Text,,0,0,0,,{\rCHS}知道了\N{\rENG}Yerp.
-Dialogue: 100,0:02:46.66,0:02:48.79,Normal Dialog Text,,0,0,0,,{\rCHS}好啦 各就各位----\N{\rENG}Okay then, on your marks.
+Dialogue: 100,0:02:34.62,0:02:35.86,Normal Dialog Text,,0,0,0,,{\rCHS}充当一个检查站\N{\rENG}at the edge of the arena. 
+Dialogue: 100,0:02:35.87,0:02:39.32,Normal Dialog Text,,0,0,0,,{\rCHS}每跑完一个来回就和全息珍珠击掌作为记号\N{\rENG}Mark your lap with a Holo-Pearl high five. 
+Dialogue: 100,0:02:39.32,0:02:40.95,Normal Dialog Text,,0,0,0,,{\rCHS}接收 击掌\N{\rENG}High five accepted! 
+Dialogue: 100,0:02:40.96,0:02:42.35,Normal Dialog Text,,0,0,0,,{\rCHS}两个来回 两次击掌\N{\rENG}Two laps, two fives. 
+Dialogue: 100,0:02:42.36,0:02:44.74,Normal Dialog Text,,0,0,0,,{\rCHS}胜者就会得到一个珍珠点\N{\rENG}One pearl point to the winner! 
+Dialogue: 100,0:02:44.74,0:02:45.79,Normal Dialog Text,,0,0,0,,{\rCHS}懂啦\N{\rENG}Got it! 
+Dialogue: 100,0:02:45.79,0:02:46.66,Normal Dialog Text,,0,0,0,,{\rCHS}知道了\N{\rENG}Yerp. 
+Dialogue: 100,0:02:46.66,0:02:48.79,Normal Dialog Text,,0,0,0,,{\rCHS}好啦 各就各位----\N{\rENG}Okay then, on your marks. 
 Dialogue: 100,0:02:48.80,0:02:50.05,Normal Dialog Text,,0,0,0,,{\rCHS}预备---\N{\rENG}Ready...
 Dialogue: 100,0:02:50.05,0:02:51.36,Normal Dialog Text,,0,0,0,,{\rCHS}稳住---\N{\rENG}steady...
-Dialogue: 100,0:02:51.37,0:02:53.05,Normal Dialog Text,,0,0,0,,{\rCHS}开跑\N{\rENG}go!
+Dialogue: 100,0:02:51.37,0:02:53.05,Normal Dialog Text,,0,0,0,,{\rCHS}开跑\N{\rENG}go! 
 Dialogue: 100,0:02:54.97,0:02:57.34,Normal Dialog Text,,0,0,0,,{\rCHS}接收 击掌\N{\rENG}High five accepted
-Dialogue: 100,0:03:00.84,0:03:02.22,Normal Dialog Text,,0,0,0,,{\rCHS}哇哦... \N{\rENG}Huh?
+Dialogue: 100,0:03:00.84,0:03:02.22,Normal Dialog Text,,0,0,0,,{\rCHS}哇哦...\N{\rENG}Huh? 
 Dialogue: 100,0:03:02.23,0:03:03.73,Normal Dialog Text,,0,0,0,,{\rCHS}接受 击掌\N{\rENG}High five accepted
-Dialogue: 100,0:03:03.73,0:03:05.84,Normal Dialog Text,,0,0,0,,{\rCHS}来击掌庆祝一下吧 紫晶(接收 击掌)\N{\rENG}Give me digits, Amethyst! High five accepted!
-Dialogue: 100,0:03:07.38,0:03:08.93,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文得到了一个珍珠点\N{\rENG}One point for Steven already!
-Dialogue: 100,0:03:08.93,0:03:10.98,Normal Dialog Text,,0,0,0,,{\rCHS}干得好 紫晶\N{\rENG}Good thinking, Amethyst.
-Dialogue: 100,0:03:10.99,0:03:14.22,Normal Dialog Text,,0,0,0,,{\rCHS}放点水让他建立信心\N{\rENG}Going easy on him will build his confidence!
-Dialogue: 100,0:03:14.22,0:03:15.90,Normal Dialog Text,,0,0,0,,{\rCHS}呵 我还能说什么\N{\rENG}What can I say,
-Dialogue: 100,0:03:15.91,0:03:17.77,Normal Dialog Text,,0,0,0,,{\rCHS}我处处让着他\N{\rENG}I'm a natural at going easy.
-Dialogue: 100,0:03:17.78,0:03:20.58,Normal Dialog Text,,0,0,0,,{\rCHS}你们的下一门测试是敏捷\N{\rENG}Pearl: Your next test is agility.
-Dialogue: 100,0:03:20.58,0:03:23.66,Normal Dialog Text,,0,0,0,,{\rCHS}你们要想尽办法去躲避长矛\N{\rENG}Dodge the spears the best you can.
-Dialogue: 100,0:03:23.66,0:03:25.23,Normal Dialog Text,,0,0,0,,{\rCHS}噢\N{\rENG}Agh!
-Dialogue: 100,0:03:29.12,0:03:31.25,Normal Dialog Text,,0,0,0,,{\rCHS}已被击败\N{\rENG}Defeat accepted!
-Dialogue: 100,0:03:31.26,0:03:32.87,Normal Dialog Text,,0,0,0,,{\rCHS}哇哦... \N{\rENG}Whoa.
-Dialogue: 100,0:03:34.46,0:03:36.63,Normal Dialog Text,,0,0,0,,{\rCHS}胜利 胜利\N{\rENG}Victory, victory!
-Dialogue: 100,0:03:36.63,0:03:40.10,Normal Dialog Text,,0,0,0,,{\rCHS}别太让着他了 他依然需要锻炼\N{\rENG}Don't go too easy on him. He still needs a challenge.
-Dialogue: 100,0:03:40.10,0:03:44.05,Normal Dialog Text,,0,0,0,,{\rCHS}现在 你们面临的是最后一门测试 全面战斗\N{\rENG}And now, for your final test, an all-out battle.
-Dialogue: 100,0:03:44.05,0:03:47.77,Normal Dialog Text,,0,0,0,,{\rCHS}这是对你们所掌握技能的最终测定\N{\rENG}This is the ultimate determination of your skills!
-Dialogue: 100,0:03:47.77,0:03:50.02,Normal Dialog Text,,0,0,0,,{\rCHS}预备 开始\N{\rENG}Okay! Ready, go!
-Dialogue: 100,0:03:50.02,0:03:52.61,Normal Dialog Text,,0,0,0,,{\rCHS}来打我啊 你们这些全息混蛋\N{\rENG}Come and get me, you holo-punks!
-Dialogue: 100,0:03:54.81,0:03:57.23,Normal Dialog Text,,0,0,0,,{\rCHS}啊\N{\rENG}Aah!
-Dialogue: 100,0:03:57.23,0:03:58.65,Normal Dialog Text,,0,0,0,,{\rCHS}唔\N{\rENG}Mm.
-Dialogue: 100,0:03:58.65,0:04:04.15,Normal Dialog Text,,0,0,0,,{\rCHS}别躲了 让我赢\N{\rENG}Stop moving so I can win!
-Dialogue: 100,0:04:04.16,0:04:06.79,Normal Dialog Text,,0,0,0,,{\rCHS}多谢 哈\N{\rENG}Thanks. Wah!
-Dialogue: 100,0:04:11.21,0:04:12.88,Normal Dialog Text,,0,0,0,,{\rCHS}回旋飞盾\N{\rENG}Boomerang shield!
-Dialogue: 100,0:04:12.88,0:04:14.45,Normal Dialog Text,,0,0,0,,{\rCHS}已被击败*4 \N{\rENG}-Defeat accepted! -Defeat accepted!
-Dialogue: 600,0:04:14.45,0:04:16.62,Hint,,0,0,0,,-Defeat accepted! -Defeat accepted!
-Dialogue: 100,0:04:16.62,0:04:17.95,Normal Dialog Text,,0,0,0,,{\rCHS}完胜\N{\rENG}Victory accepted!
-Dialogue: 100,0:04:17.95,0:04:20.25,Normal Dialog Text,,0,0,0,,{\rCHS}恭喜你 史蒂文\N{\rENG}Congratulations, Steven!
-Dialogue: 100,0:04:20.25,0:04:22.76,Normal Dialog Text,,0,0,0,,{\rCHS}你赢得了最后的珍珠点\N{\rENG}You earn the final point!
-Dialogue: 100,0:04:22.76,0:04:26.64,Normal Dialog Text,,0,0,0,,{\rCHS}是时候奖励你珍数袋里的奖品了\N{\rENG}It's time for you to pick a prize from the prize pouch!
-Dialogue: 100,0:04:26.64,0:04:31.23,Normal Dialog Text,,0,0,0,,{\rCHS}浪人孤刃vs元气拳手\N{\rENG}Man:Lonely Blade versus Outgoing Fist.
-Dialogue: 100,0:04:31.23,0:04:32.73,Normal Dialog Text,,0,0,0,,{\rCHS}第一回合 开始\N{\rENG}Round 1 -- fight!
-Dialogue: 100,0:04:32.73,0:04:34.10,Normal Dialog Text,,0,0,0,,{\rCHS}飞拳攻击\N{\rENG}Flying punch!
-Dialogue: 100,0:04:34.10,0:04:36.13,Normal Dialog Text,,0,0,0,,{\rCHS}回旋飞剑!*3!!!(暴击)\N{\rENG}Boomerang, boomerang, boomerang blade!
-Dialogue: 100,0:04:37.82,0:04:39.27,Normal Dialog Text,,0,0,0,,{\rCHS}K.O. \N{\rENG}K.O.
-Dialogue: 100,0:04:39.27,0:04:42.57,Normal Dialog Text,,0,0,0,,{\rCHS}就连我的拳头也死的透透的\N{\rENG}Even my fists are dead!
-Dialogue: 100,0:04:44.20,0:04:48.00,Normal Dialog Text,,0,0,0,,{\rCHS}嘿紫晶 你想和我来一局孤刃吗\N{\rENG}Hey, Amethyst, do you want to play "Lonely Blade" with me?
-Dialogue: 100,0:04:48.00,0:04:50.53,Normal Dialog Text,,0,0,0,,{\rCHS}我帮你把手柄捂热了\N{\rENG}I warmed up the controller for you.
-Dialogue: 100,0:04:51.59,0:04:53.49,Normal Dialog Text,,0,0,0,,{\rCHS}好呀\N{\rENG}Yeah, all right.
-Dialogue: 100,0:04:57.16,0:04:59.17,Normal Dialog Text,,0,0,0,,{\rCHS}浪人孤刃有了新版本\N{\rENG}There's a new costume for Lonely Blade --
+Dialogue: 100,0:03:03.73,0:03:05.84,Normal Dialog Text,,0,0,0,,{\rCHS}来击掌庆祝一下吧 紫晶( 接收 击掌)\N{\rENG}Give me digits, Amethyst! High five accepted! 
+Dialogue: 100,0:03:07.38,0:03:08.93,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文得到了一个珍珠点\N{\rENG}One point for Steven already! 
+Dialogue: 100,0:03:08.93,0:03:10.98,Normal Dialog Text,,0,0,0,,{\rCHS}干得好 紫晶\N{\rENG}Good thinking, Amethyst. 
+Dialogue: 100,0:03:10.99,0:03:14.22,Normal Dialog Text,,0,0,0,,{\rCHS}放点水让他建立信心\N{\rENG}Going easy on him will build his confidence! 
+Dialogue: 100,0:03:14.22,0:03:15.90,Normal Dialog Text,,0,0,0,,{\rCHS}呵 我还能说什么\N{\rENG}What can I say, 
+Dialogue: 100,0:03:15.91,0:03:17.77,Normal Dialog Text,,0,0,0,,{\rCHS}我处处让着他\N{\rENG}I'm a natural at going easy. 
+Dialogue: 100,0:03:17.78,0:03:20.58,Normal Dialog Text,,0,0,0,,{\rCHS}你们的下一门测试是敏捷\N{\rENG}Pearl: Your next test is agility. 
+Dialogue: 100,0:03:20.58,0:03:23.66,Normal Dialog Text,,0,0,0,,{\rCHS}你们要想尽办法去躲避长矛\N{\rENG}Dodge the spears the best you can. 
+Dialogue: 100,0:03:23.66,0:03:25.23,Normal Dialog Text,,0,0,0,,{\rCHS}噢\N{\rENG}Agh! 
+Dialogue: 100,0:03:29.12,0:03:31.25,Normal Dialog Text,,0,0,0,,{\rCHS}已被击败\N{\rENG}Defeat accepted! 
+Dialogue: 100,0:03:31.26,0:03:32.87,Normal Dialog Text,,0,0,0,,{\rCHS}哇哦...\N{\rENG}Whoa. 
+Dialogue: 100,0:03:34.46,0:03:36.63,Normal Dialog Text,,0,0,0,,{\rCHS}胜利 胜利\N{\rENG}Victory, victory! 
+Dialogue: 100,0:03:36.63,0:03:40.10,Normal Dialog Text,,0,0,0,,{\rCHS}别太让着他了 他依然需要锻炼\N{\rENG}Don't go too easy on him. He still needs a challenge. 
+Dialogue: 100,0:03:40.10,0:03:44.05,Normal Dialog Text,,0,0,0,,{\rCHS}现在 你们面临的是最后一门测试 全面战斗\N{\rENG}And now, for your final test, an all-out battle. 
+Dialogue: 100,0:03:44.05,0:03:47.77,Normal Dialog Text,,0,0,0,,{\rCHS}这是对你们所掌握技能的最终测定\N{\rENG}This is the ultimate determination of your skills! 
+Dialogue: 100,0:03:47.77,0:03:50.02,Normal Dialog Text,,0,0,0,,{\rCHS}预备 开始\N{\rENG}Okay! Ready, go! 
+Dialogue: 100,0:03:50.02,0:03:52.61,Normal Dialog Text,,0,0,0,,{\rCHS}来打我啊 你们这些全息混蛋\N{\rENG}Come and get me, you holo-punks! 
+Dialogue: 100,0:03:54.81,0:03:57.23,Normal Dialog Text,,0,0,0,,{\rCHS}啊\N{\rENG}Aah! 
+Dialogue: 100,0:03:57.23,0:03:58.65,Normal Dialog Text,,0,0,0,,{\rCHS}唔\N{\rENG}Mm. 
+Dialogue: 100,0:03:58.65,0:04:04.15,Normal Dialog Text,,0,0,0,,{\rCHS}别躲了 让我赢\N{\rENG}Stop moving so I can win! 
+Dialogue: 100,0:04:04.16,0:04:06.79,Normal Dialog Text,,0,0,0,,{\rCHS}多谢 哈\N{\rENG}Thanks. Wah! 
+Dialogue: 100,0:04:11.21,0:04:12.88,Normal Dialog Text,,0,0,0,,{\rCHS}回旋飞盾\N{\rENG}Boomerang shield! 
+Dialogue: 100,0:04:12.88,0:04:14.45,Normal Dialog Text,,0,0,0,,{\rCHS}已被击败* 4 \N{\rENG}-Defeat accepted!-Defeat accepted! 
+Dialogue: 600,0:04:14.45,0:04:16.62,Hint,,0,0,0,,-Defeat accepted!-Defeat accepted! 
+Dialogue: 100,0:04:16.62,0:04:17.95,Normal Dialog Text,,0,0,0,,{\rCHS}完胜\N{\rENG}Victory accepted! 
+Dialogue: 100,0:04:17.95,0:04:20.25,Normal Dialog Text,,0,0,0,,{\rCHS}恭喜你 史蒂文\N{\rENG}Congratulations, Steven! 
+Dialogue: 100,0:04:20.25,0:04:22.76,Normal Dialog Text,,0,0,0,,{\rCHS}你赢得了最后的珍珠点\N{\rENG}You earn the final point! 
+Dialogue: 100,0:04:22.76,0:04:26.64,Normal Dialog Text,,0,0,0,,{\rCHS}是时候奖励你珍数袋里的奖品了\N{\rENG}It's time for you to pick a prize from the prize pouch! 
+Dialogue: 100,0:04:26.64,0:04:31.23,Normal Dialog Text,,0,0,0,,{\rCHS}浪人孤刃vs元气拳手\N{\rENG}Man: Lonely Blade versus Outgoing Fist. 
+Dialogue: 100,0:04:31.23,0:04:32.73,Normal Dialog Text,,0,0,0,,{\rCHS}第一回合 开始\N{\rENG}Round 1--fight! 
+Dialogue: 100,0:04:32.73,0:04:34.10,Normal Dialog Text,,0,0,0,,{\rCHS}飞拳攻击\N{\rENG}Flying punch! 
+Dialogue: 100,0:04:34.10,0:04:36.13,Normal Dialog Text,,0,0,0,,{\rCHS}回旋飞剑!* 3!!!( 暴击)\N{\rENG}Boomerang, boomerang, boomerang blade! 
+Dialogue: 100,0:04:37.82,0:04:39.27,Normal Dialog Text,,0,0,0,,{\rCHS}K. O. \N{\rENG}K. O. 
+Dialogue: 100,0:04:39.27,0:04:42.57,Normal Dialog Text,,0,0,0,,{\rCHS}就连我的拳头也死的透透的\N{\rENG}Even my fists are dead! 
+Dialogue: 100,0:04:44.20,0:04:48.00,Normal Dialog Text,,0,0,0,,{\rCHS}嘿紫晶 你想和我来一局孤刃吗\N{\rENG}Hey, Amethyst, do you want to play "Lonely Blade"with me? 
+Dialogue: 100,0:04:48.00,0:04:50.53,Normal Dialog Text,,0,0,0,,{\rCHS}我帮你把手柄捂热了\N{\rENG}I warmed up the controller for you. 
+Dialogue: 100,0:04:51.59,0:04:53.49,Normal Dialog Text,,0,0,0,,{\rCHS}好呀\N{\rENG}Yeah, all right. 
+Dialogue: 100,0:04:57.16,0:04:59.17,Normal Dialog Text,,0,0,0,,{\rCHS}浪人孤刃有了新版本\N{\rENG}There's a new costume for Lonely Blade--
 Dialogue: 600,0:04:59.17,0:05:01.17,Hint,,0,0,0,,紫晶与史蒂文的手柄与Gamecube相同
-Dialogue: 100,0:04:59.18,0:05:00.34,Normal Dialog Text,,0,0,0,,{\rCHS}蓝版孤刃\N{\rENG}Blue Lonely Blade!
-Dialogue: 100,0:05:00.34,0:05:01.96,Normal Dialog Text,,0,0,0,,{\rCHS}你应该用这个角色\N{\rENG}You should play as him!
-Dialogue: 100,0:05:01.96,0:05:03.10,Normal Dialog Text,,0,0,0,,{\rCHS}随便啦\N{\rENG}Whatevie.
-Dialogue: 600,0:05:03.28,0:05:05.22,Hint,,0,0,0,,界面中GWOOD GUY出自"铁拳"系列的木人,右下角的北极熊则来自同门的"咱们裸熊"
-Dialogue: 100,0:05:04.88,0:05:08.00,Normal Dialog Text,,0,0,0,,{\rCHS}浪人孤刃双重对决\N{\rENG}Lonely Blade versus Lonely Blade!
-Dialogue: 100,0:05:08.00,0:05:10.77,Normal Dialog Text,,0,0,0,,{\rCHS}我的刀刃 是这片大陆上最好的\N{\rENG}My blade is the best in all the land.
-Dialogue: 100,0:05:10.77,0:05:12.67,Normal Dialog Text,,0,0,0,,{\rCHS}一回合 杀\N{\rENG}Round 1 -- fight!
-Dialogue: 100,0:05:12.67,0:05:14.36,Normal Dialog Text,,0,0,0,,{\rCHS}回旋飞剑\N{\rENG}Boomerang, blade!
-Dialogue: 100,0:05:14.36,0:05:16.14,Normal Dialog Text,,0,0,0,,{\rCHS}回旋飞剑\N{\rENG}Boomerang, blade!
-Dialogue: 100,0:05:16.14,0:05:17.51,Normal Dialog Text,,0,0,0,,{\rCHS}啊 这真是够了\N{\rENG}Ugh, this is tough.
-Dialogue: 100,0:05:17.51,0:05:19.78,Normal Dialog Text,,0,0,0,,{\rCHS}那鬼条条一直都在那里吗\N{\rENG}Were those bars always there?
-Dialogue: 100,0:05:19.78,0:05:22.20,Normal Dialog Text,,0,0,0,,{\rCHS}你说的是HP框 对啊\N{\rENG}The health bars? Yeah.
+Dialogue: 100,0:04:59.18,0:05:00.34,Normal Dialog Text,,0,0,0,,{\rCHS}蓝版孤刃\N{\rENG}Blue Lonely Blade! 
+Dialogue: 100,0:05:00.34,0:05:01.96,Normal Dialog Text,,0,0,0,,{\rCHS}你应该用这个角色\N{\rENG}You should play as him! 
+Dialogue: 100,0:05:01.96,0:05:03.10,Normal Dialog Text,,0,0,0,,{\rCHS}随便啦\N{\rENG}Whatevie. 
+Dialogue: 600,0:05:03.28,0:05:05.22,Hint,,0,0,0,,界面中GWOOD GUY出自"铁拳"系列的木人 右下角的北极熊则来自同门的"咱们裸熊"
+Dialogue: 100,0:05:04.88,0:05:08.00,Normal Dialog Text,,0,0,0,,{\rCHS}浪人孤刃双重对决\N{\rENG}Lonely Blade versus Lonely Blade! 
+Dialogue: 100,0:05:08.00,0:05:10.77,Normal Dialog Text,,0,0,0,,{\rCHS}我的刀刃 是这片大陆上最好的\N{\rENG}My blade is the best in all the land. 
+Dialogue: 100,0:05:10.77,0:05:12.67,Normal Dialog Text,,0,0,0,,{\rCHS}一回合 杀\N{\rENG}Round 1--fight! 
+Dialogue: 100,0:05:12.67,0:05:14.36,Normal Dialog Text,,0,0,0,,{\rCHS}回旋飞剑\N{\rENG}Boomerang, blade! 
+Dialogue: 100,0:05:14.36,0:05:16.14,Normal Dialog Text,,0,0,0,,{\rCHS}回旋飞剑\N{\rENG}Boomerang, blade! 
+Dialogue: 100,0:05:16.14,0:05:17.51,Normal Dialog Text,,0,0,0,,{\rCHS}啊 这真是够了\N{\rENG}Ugh, this is tough. 
+Dialogue: 100,0:05:17.51,0:05:19.78,Normal Dialog Text,,0,0,0,,{\rCHS}那鬼条条一直都在那里吗\N{\rENG}Were those bars always there? 
+Dialogue: 100,0:05:19.78,0:05:22.20,Normal Dialog Text,,0,0,0,,{\rCHS}你说的是HP框 对啊\N{\rENG}The health bars? Yeah. 
 Dialogue: 100,0:05:22.20,0:05:24.03,Normal Dialog Text,,0,0,0,,{\rCHS}行吧 行吧\N{\rENG}Right, right...
-Dialogue: 100,0:05:25.90,0:05:27.82,Normal Dialog Text,,0,0,0,,{\rCHS}嗷 你打的可真好\N{\rENG}Ugh! You're doing so well!
-Dialogue: 100,0:05:27.82,0:05:30.86,Normal Dialog Text,,0,0,0,,{\rCHS}我还用一个月的时间去尝试连击\N{\rENG}I've been trying to master that combo for months!
-Dialogue: 100,0:05:30.86,0:05:33.19,Normal Dialog Text,,0,0,0,,{\rCHS}你做到了 一次性的\N{\rENG}You got it in, like, one try!
-Dialogue: 100,0:05:38.70,0:05:41.72,Normal Dialog Text,,0,0,0,,{\rCHS}哦我的妈妈咪呀 我根本没有办法击败你\N{\rENG}Oh, man! There's no way I could beat you!
-Dialogue: 100,0:05:41.72,0:05:44.05,Normal Dialog Text,,0,0,0,,{\rCHS}千影刃\N{\rENG}1,000 mirror blade!
-Dialogue: 100,0:05:44.05,0:05:45.70,Normal Dialog Text,,0,0,0,,{\rCHS}吧咋黑\N{\rENG}Hyah!
-Dialogue: 100,0:05:45.71,0:05:47.04,Normal Dialog Text,,0,0,0,,{\rCHS}K.O.\N{\rENG}K.O.!
-Dialogue: 100,0:05:47.04,0:05:49.73,Normal Dialog Text,,0,0,0,,{\rCHS}毕竟我的刀是孤独的\N{\rENG}My blade is the loneliest after all.
-Dialogue: 100,0:05:49.73,0:05:52.64,Normal Dialog Text,,0,0,0,,{\rCHS}那可真是太厉害了 紫晶\N{\rENG}That was crazy good, Amethyst.
-Dialogue: 100,0:05:52.65,0:05:53.85,Normal Dialog Text,,0,0,0,,{\rCHS}打得好啊\N{\rENG}Nice job!
-Dialogue: 100,0:05:53.85,0:05:56.52,Normal Dialog Text,,0,0,0,,{\rCHS}够了史蒂文 我知道你是故意让我赢的\N{\rENG}Knock it off Steven, I know you let me win.
-Dialogue: 100,0:05:56.52,0:05:59.23,Normal Dialog Text,,0,0,0,,{\rCHS}啥 我听不懂 我没有啊\N{\rENG}What, me? No!
-Dialogue: 100,0:05:59.24,0:06:01.22,Normal Dialog Text,,0,0,0,,{\rCHS}我内什么... \N{\rENG}I...
-Dialogue: 100,0:06:01.22,0:06:02.55,Normal Dialog Text,,0,0,0,,{\rCHS}才没有做呢\N{\rENG}No.
-Dialogue: 100,0:06:02.56,0:06:04.57,Normal Dialog Text,,0,0,0,,{\rCHS}你甚至没有尽力\N{\rENG}You weren't even trying.
-Dialogue: 100,0:06:04.58,0:06:05.77,Normal Dialog Text,,0,0,0,,{\rCHS}抱歉\N{\rENG}I'm sorry.
-Dialogue: 100,0:06:05.78,0:06:07.74,Normal Dialog Text,,0,0,0,,{\rCHS}我只是想让你感觉好一些\N{\rENG}I just wanted you to feel better.
-Dialogue: 100,0:06:07.75,0:06:10.73,Normal Dialog Text,,0,0,0,,{\rCHS}太--好了 就算是现在的你都比我成熟太多\N{\rENG}Great. And now you're even more mature than me.
-Dialogue: 100,0:06:10.73,0:06:11.90,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶\N{\rENG}Amethyst?
-Dialogue: 100,0:06:11.90,0:06:13.20,Normal Dialog Text,,0,0,0,,{\rCHS}你应该是个菜鸟\N{\rENG}You're supposed to be the rookie,
-Dialogue: 100,0:06:13.20,0:06:15.28,Normal Dialog Text,,0,0,0,,{\rCHS}但是现在的你无论在哪件事上都做的比我好\N{\rENG} but now you're better than me at everything.
-Dialogue: 100,0:06:15.29,0:06:18.70,Normal Dialog Text,,0,0,0,,{\rCHS}我现在就是最差劲的宝石战士\N{\rENG}Now I'm the worst crystal gem.
-Dialogue: 100,0:06:18.71,0:06:20.59,Normal Dialog Text,,0,0,0,,{\rCHS}啥 啥玩意儿\N{\rENG}W-What?
-Dialogue: 100,0:06:20.59,0:06:23.26,Normal Dialog Text,,0,0,0,,{\rCHS}呃啊 你知道我啥意思 史蒂文\N{\rENG}Ugh! You know what I mean, Steven.
-Dialogue: 100,0:06:23.26,0:06:24.54,Normal Dialog Text,,0,0,0,,{\rCHS}呃额 并不\N{\rENG}Uh, not really!
-Dialogue: 100,0:06:27.05,0:06:29.63,Normal Dialog Text,,0,0,0,,{\rCHS}然后我做到了 你在生我的气\N{\rENG}And now I am, and you're mad at me?!
-Dialogue: 100,0:06:29.63,0:06:31.80,Normal Dialog Text,,0,0,0,,{\rCHS}不 我是生我自己的气\N{\rENG}No! I get mad at myself!
-Dialogue: 100,0:06:31.80,0:06:33.69,Normal Dialog Text,,0,0,0,,{\rCHS}就是 哈啊 就是因为我做的事\N{\rENG}That's, ugh, the thing I do.
-Dialogue: 100,0:06:33.69,0:06:35.14,Normal Dialog Text,,0,0,0,,{\rCHS}我在生我自己的气\N{\rENG}I get mad at myself,
-Dialogue: 100,0:06:35.14,0:06:37.27,Normal Dialog Text,,0,0,0,,{\rCHS}不管我在什么事上做太多都会让我变得很腊鸡\N{\rENG}and then it makes me suck at everything I do even more!
-Dialogue: 100,0:06:37.27,0:06:39.89,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶 你一点都不腊鸡\N{\rENG}Amethyst, you don't suck.
-Dialogue: 100,0:06:39.89,0:06:41.78,Normal Dialog Text,,0,0,0,,{\rCHS}你做过许多特帅的事\N{\rENG}You do so many cool things.
-Dialogue: 100,0:06:41.78,0:06:44.26,Normal Dialog Text,,0,0,0,,{\rCHS}你有俩条鞭子啊 俩条啊\N{\rENG}You have two whips -- two whips!
-Dialogue: 100,0:06:44.26,0:06:45.61,Normal Dialog Text,,0,0,0,,{\rCHS}还有冲刺也很厉害啊\N{\rENG}And the dash thing?!
-Dialogue: 100,0:06:45.62,0:06:48.60,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶 你有太多比我好的地方\N{\rENG}Amethyst, you're so much better than me.
-Dialogue: 100,0:06:48.60,0:06:50.94,Normal Dialog Text,,0,0,0,,{\rCHS}不可能 你有玫瑰的盾\N{\rENG}No way. You have Rose's shield.
-Dialogue: 100,0:06:50.94,0:06:52.94,Normal Dialog Text,,0,0,0,,{\rCHS}还有泡泡 你还可以上天\N{\rENG}And Bubble! And the floating thing!
-Dialogue: 100,0:06:52.94,0:06:55.11,Normal Dialog Text,,0,0,0,,{\rCHS}还有 呃啊 如果是我我就成天在天上飘着了\N{\rENG}And, ugh, I'd just be floating all day!
-Dialogue: 100,0:06:55.11,0:06:57.61,Normal Dialog Text,,0,0,0,,{\rCHS}上天 我很多时候都忘了我有这个能力\N{\rENG}Floating? I forget to use that half the time!
-Dialogue: 100,0:06:57.61,0:06:58.96,Normal Dialog Text,,0,0,0,,{\rCHS}在剩下的那些时间里\N{\rENG}And the rest of the time,
-Dialogue: 100,0:06:58.96,0:07:01.05,Normal Dialog Text,,0,0,0,,{\rCHS}我根本就不能好好使用能力\N{\rENG}my powers aren't even guaranteed to work!
-Dialogue: 100,0:07:01.05,0:07:03.88,Normal Dialog Text,,0,0,0,,{\rCHS}我...我有些地方比你还腊鸡\N{\rENG}I'm... I'm way worse than you.
-Dialogue: 100,0:07:03.88,0:07:05.80,Normal Dialog Text,,0,0,0,,{\rCHS}啊哈 我最腊鸡\N{\rENG}Nuh-uh. I'm the worst!
-Dialogue: 100,0:07:05.80,0:07:08.34,Normal Dialog Text,,0,0,0,,{\rCHS}不 我最腊鸡 我会证明它\N{\rENG}No way! I am! I'll prove it!
-Dialogue: 100,0:07:08.34,0:07:11.59,Normal Dialog Text,,0,0,0,,{\rCHS}我要-我要和你干一架来证明我有多差劲\N{\rENG}I'll-I'll fight you and show you how bad I am!
-Dialogue: 100,0:07:11.59,0:07:13.79,Normal Dialog Text,,0,0,0,,{\rCHS}来啊 来干啊\N{\rENG}Fine! Let's do it!
-Dialogue: 100,0:07:13.79,0:07:18.01,Normal Dialog Text,,0,0,0,,{\rCHS}让最差的宝石战士输掉\N{\rENG} Let the worst gem lose!
-Dialogue: 100,0:07:18.02,0:07:21.40,Normal Dialog Text,,0,0,0,,{\rCHS}道理很简单 我会在最长的时间里输掉\N{\rENG}Get ready, I'm about to lose big time!
-Dialogue: 100,0:07:21.40,0:07:22.85,Normal Dialog Text,,0,0,0,,{\rCHS}不会让你得逞的\N{\rENG}No way!
-Dialogue: 100,0:07:22.85,0:07:26.64,Normal Dialog Text,,0,0,0,,{\rCHS}我一定会被揍得特惨以至于我都不知道我怎么被打的\N{\rENG} I'm gonna get clobbered so bad , I won't know what hit me!
-Dialogue: 100,0:07:26.64,0:07:28.66,Normal Dialog Text,,0,0,0,,{\rCHS}没有啥套路\N{\rENG}No holding back?
-Dialogue: 100,0:07:28.66,0:07:30.58,Normal Dialog Text,,0,0,0,,{\rCHS}没有啥套路\N{\rENG}No holding back!
-Dialogue: 100,0:07:43.37,0:07:44.37,Normal Dialog Text,,0,0,0,,{\rCHS}搞毛\N{\rENG}What?
-Dialogue: 100,0:07:44.38,0:07:45.79,Normal Dialog Text,,0,0,0,,{\rCHS}嚯哈\N{\rENG}Ooh-wah!
-Dialogue: 100,0:07:45.79,0:07:47.29,Normal Dialog Text,,0,0,0,,{\rCHS}哦啊\N{\rENG}Whoa!
-Dialogue: 100,0:07:47.29,0:07:49.26,Normal Dialog Text,,0,0,0,,{\rCHS}我根本就没有看到那招来了\N{\rENG}I did not see that coming!
-Dialogue: 100,0:07:49.26,0:07:50.55,Normal Dialog Text,,0,0,0,,{\rCHS}那太帅了\N{\rENG}That was amazing!
-Dialogue: 100,0:07:50.55,0:07:51.80,Normal Dialog Text,,0,0,0,,{\rCHS}不\N{\rENG}No, it's not!
-Dialogue: 100,0:07:51.80,0:07:54.50,Normal Dialog Text,,0,0,0,,{\rCHS}我不会在做啥厉害事儿了\N{\rENG}I don't do anything amazing!
-Dialogue: 100,0:07:57.81,0:08:00.19,Normal Dialog Text,,0,0,0,,{\rCHS}你才是最厉害的\N{\rENG}You're the one who's amazing!
-Dialogue: 100,0:08:04.53,0:08:07.70,Normal Dialog Text,,0,0,0,,{\rCHS}哦呜呜呜呜啊\N{\rENG}Whoa!
-Dialogue: 100,0:08:09.40,0:08:11.85,Normal Dialog Text,,0,0,0,,{\rCHS}搞毛 新招\N{\rENG}What?! Is that new?
-Dialogue: 100,0:08:11.85,0:08:14.45,Normal Dialog Text,,0,0,0,,{\rCHS}哇哦 那可真棒!\N{\rENG}Because it's awesome!
-Dialogue: 100,0:08:14.46,0:08:16.37,Normal Dialog Text,,0,0,0,,{\rCHS}不 它的出现是个意外\N{\rENG}No, it was an accident!
-Dialogue: 100,0:08:16.37,0:08:18.49,Normal Dialog Text,,0,0,0,,{\rCHS}意外一点也不·棒\N{\rENG}Accidents are not awesome!
-Dialogue: 100,0:08:18.49,0:08:20.41,Normal Dialog Text,,0,0,0,,{\rCHS}可以 这很强势\N{\rENG}Sure. Right!
+Dialogue: 100,0:05:25.90,0:05:27.82,Normal Dialog Text,,0,0,0,,{\rCHS}嗷 你打的可真好\N{\rENG}Ugh! You're doing so well! 
+Dialogue: 100,0:05:27.82,0:05:30.86,Normal Dialog Text,,0,0,0,,{\rCHS}我还用一个月的时间去尝试连击\N{\rENG}I've been trying to master that combo for months! 
+Dialogue: 100,0:05:30.86,0:05:33.19,Normal Dialog Text,,0,0,0,,{\rCHS}你做到了 一次性的\N{\rENG}You got it in, like, one try! 
+Dialogue: 100,0:05:38.70,0:05:41.72,Normal Dialog Text,,0,0,0,,{\rCHS}哦我的妈妈咪呀 我根本没有办法击败你\N{\rENG}Oh, man! There's no way I could beat you! 
+Dialogue: 100,0:05:41.72,0:05:44.05,Normal Dialog Text,,0,0,0,,{\rCHS}千影刃\N{\rENG}1, 000 mirror blade! 
+Dialogue: 100,0:05:44.05,0:05:45.70,Normal Dialog Text,,0,0,0,,{\rCHS}吧咋黑\N{\rENG}Hyah! 
+Dialogue: 100,0:05:45.71,0:05:47.04,Normal Dialog Text,,0,0,0,,{\rCHS}K. O.\N{\rENG}K. O.! 
+Dialogue: 100,0:05:47.04,0:05:49.73,Normal Dialog Text,,0,0,0,,{\rCHS}毕竟我的刀是孤独的\N{\rENG}My blade is the loneliest after all. 
+Dialogue: 100,0:05:49.73,0:05:52.64,Normal Dialog Text,,0,0,0,,{\rCHS}那可真是太厉害了 紫晶\N{\rENG}That was crazy good, Amethyst. 
+Dialogue: 100,0:05:52.65,0:05:53.85,Normal Dialog Text,,0,0,0,,{\rCHS}打得好啊\N{\rENG}Nice job! 
+Dialogue: 100,0:05:53.85,0:05:56.52,Normal Dialog Text,,0,0,0,,{\rCHS}够了史蒂文 我知道你是故意让我赢的\N{\rENG}Knock it off Steven, I know you let me win. 
+Dialogue: 100,0:05:56.52,0:05:59.23,Normal Dialog Text,,0,0,0,,{\rCHS}啥 我听不懂 我没有啊\N{\rENG}What, me? No! 
+Dialogue: 100,0:05:59.24,0:06:01.22,Normal Dialog Text,,0,0,0,,{\rCHS}我内什么...\N{\rENG}I...
+Dialogue: 100,0:06:01.22,0:06:02.55,Normal Dialog Text,,0,0,0,,{\rCHS}才没有做呢\N{\rENG}No. 
+Dialogue: 100,0:06:02.56,0:06:04.57,Normal Dialog Text,,0,0,0,,{\rCHS}你甚至没有尽力\N{\rENG}You weren't even trying. 
+Dialogue: 100,0:06:04.58,0:06:05.77,Normal Dialog Text,,0,0,0,,{\rCHS}抱歉\N{\rENG}I'm sorry. 
+Dialogue: 100,0:06:05.78,0:06:07.74,Normal Dialog Text,,0,0,0,,{\rCHS}我只是想让你感觉好一些\N{\rENG}I just wanted you to feel better. 
+Dialogue: 100,0:06:07.75,0:06:10.73,Normal Dialog Text,,0,0,0,,{\rCHS}太--好了 就算是现在的你都比我成熟太多\N{\rENG}Great. And now you're even more mature than me. 
+Dialogue: 100,0:06:10.73,0:06:11.90,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶\N{\rENG}Amethyst? 
+Dialogue: 100,0:06:11.90,0:06:13.20,Normal Dialog Text,,0,0,0,,{\rCHS}你应该是个菜鸟\N{\rENG}You're supposed to be the rookie, 
+Dialogue: 100,0:06:13.20,0:06:15.28,Normal Dialog Text,,0,0,0,,{\rCHS}但是现在的你无论在哪件事上都做的比我好\N{\rENG} but now you're better than me at everything. 
+Dialogue: 100,0:06:15.29,0:06:18.70,Normal Dialog Text,,0,0,0,,{\rCHS}我现在就是最差劲的宝石战士\N{\rENG}Now I'm the worst crystal gem. 
+Dialogue: 100,0:06:18.71,0:06:20.59,Normal Dialog Text,,0,0,0,,{\rCHS}啥 啥玩意儿\N{\rENG}W-What? 
+Dialogue: 100,0:06:20.59,0:06:23.26,Normal Dialog Text,,0,0,0,,{\rCHS}呃啊 你知道我啥意思 史蒂文\N{\rENG}Ugh! You know what I mean, Steven. 
+Dialogue: 100,0:06:23.26,0:06:24.54,Normal Dialog Text,,0,0,0,,{\rCHS}呃额 并不\N{\rENG}Uh, not really! 
+Dialogue: 100,0:06:27.05,0:06:29.63,Normal Dialog Text,,0,0,0,,{\rCHS}然后我做到了 你在生我的气\N{\rENG}And now I am, and you're mad at me?! 
+Dialogue: 100,0:06:29.63,0:06:31.80,Normal Dialog Text,,0,0,0,,{\rCHS}不 我是生我自己的气\N{\rENG}No! I get mad at myself! 
+Dialogue: 100,0:06:31.80,0:06:33.69,Normal Dialog Text,,0,0,0,,{\rCHS}就是 哈啊 就是因为我做的事\N{\rENG}That's, ugh, the thing I do. 
+Dialogue: 100,0:06:33.69,0:06:35.14,Normal Dialog Text,,0,0,0,,{\rCHS}我在生我自己的气\N{\rENG}I get mad at myself, 
+Dialogue: 100,0:06:35.14,0:06:37.27,Normal Dialog Text,,0,0,0,,{\rCHS}不管我在什么事上做太多都会让我变得很腊鸡\N{\rENG}and then it makes me suck at everything I do even more! 
+Dialogue: 100,0:06:37.27,0:06:39.89,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶 你一点都不腊鸡\N{\rENG}Amethyst, you don't suck. 
+Dialogue: 100,0:06:39.89,0:06:41.78,Normal Dialog Text,,0,0,0,,{\rCHS}你做过许多特帅的事\N{\rENG}You do so many cool things. 
+Dialogue: 100,0:06:41.78,0:06:44.26,Normal Dialog Text,,0,0,0,,{\rCHS}你有俩条鞭子啊 俩条啊\N{\rENG}You have two whips--two whips! 
+Dialogue: 100,0:06:44.26,0:06:45.61,Normal Dialog Text,,0,0,0,,{\rCHS}还有冲刺也很厉害啊\N{\rENG}And the dash thing?! 
+Dialogue: 100,0:06:45.62,0:06:48.60,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶 你有太多比我好的地方\N{\rENG}Amethyst, you're so much better than me. 
+Dialogue: 100,0:06:48.60,0:06:50.94,Normal Dialog Text,,0,0,0,,{\rCHS}不可能 你有玫瑰的盾\N{\rENG}No way. You have Rose's shield. 
+Dialogue: 100,0:06:50.94,0:06:52.94,Normal Dialog Text,,0,0,0,,{\rCHS}还有泡泡 你还可以上天\N{\rENG}And Bubble! And the floating thing! 
+Dialogue: 100,0:06:52.94,0:06:55.11,Normal Dialog Text,,0,0,0,,{\rCHS}还有 呃啊 如果是我我就成天在天上飘着了\N{\rENG}And, ugh, I'd just be floating all day! 
+Dialogue: 100,0:06:55.11,0:06:57.61,Normal Dialog Text,,0,0,0,,{\rCHS}上天 我很多时候都忘了我有这个能力\N{\rENG}Floating? I forget to use that half the time! 
+Dialogue: 100,0:06:57.61,0:06:58.96,Normal Dialog Text,,0,0,0,,{\rCHS}在剩下的那些时间里\N{\rENG}And the rest of the time, 
+Dialogue: 100,0:06:58.96,0:07:01.05,Normal Dialog Text,,0,0,0,,{\rCHS}我根本就不能好好使用能力\N{\rENG}my powers aren't even guaranteed to work! 
+Dialogue: 100,0:07:01.05,0:07:03.88,Normal Dialog Text,,0,0,0,,{\rCHS}我...我有些地方比你还腊鸡\N{\rENG}I'm...I'm way worse than you. 
+Dialogue: 100,0:07:03.88,0:07:05.80,Normal Dialog Text,,0,0,0,,{\rCHS}啊哈 我最腊鸡\N{\rENG}Nuh-uh. I'm the worst! 
+Dialogue: 100,0:07:05.80,0:07:08.34,Normal Dialog Text,,0,0,0,,{\rCHS}不 我最腊鸡 我会证明它\N{\rENG}No way! I am! I'll prove it! 
+Dialogue: 100,0:07:08.34,0:07:11.59,Normal Dialog Text,,0,0,0,,{\rCHS}我要-我要和你干一架来证明我有多差劲\N{\rENG}I'll-I'll fight you and show you how bad I am! 
+Dialogue: 100,0:07:11.59,0:07:13.79,Normal Dialog Text,,0,0,0,,{\rCHS}来啊 来干啊\N{\rENG}Fine! Let's do it! 
+Dialogue: 100,0:07:13.79,0:07:18.01,Normal Dialog Text,,0,0,0,,{\rCHS}让最差的宝石战士输掉\N{\rENG} Let the worst gem lose! 
+Dialogue: 100,0:07:18.02,0:07:21.40,Normal Dialog Text,,0,0,0,,{\rCHS}道理很简单 我会在最长的时间里输掉\N{\rENG}Get ready, I'm about to lose big time! 
+Dialogue: 100,0:07:21.40,0:07:22.85,Normal Dialog Text,,0,0,0,,{\rCHS}不会让你得逞的\N{\rENG}No way! 
+Dialogue: 100,0:07:22.85,0:07:26.64,Normal Dialog Text,,0,0,0,,{\rCHS}我一定会被揍得特惨以至于我都不知道我怎么被打的\N{\rENG} I'm gonna get clobbered so bad , I won't know what hit me! 
+Dialogue: 100,0:07:26.64,0:07:28.66,Normal Dialog Text,,0,0,0,,{\rCHS}没有啥套路\N{\rENG}No holding back? 
+Dialogue: 100,0:07:28.66,0:07:30.58,Normal Dialog Text,,0,0,0,,{\rCHS}没有啥套路\N{\rENG}No holding back! 
+Dialogue: 100,0:07:43.37,0:07:44.37,Normal Dialog Text,,0,0,0,,{\rCHS}搞毛\N{\rENG}What? 
+Dialogue: 100,0:07:44.38,0:07:45.79,Normal Dialog Text,,0,0,0,,{\rCHS}嚯哈\N{\rENG}Ooh-wah! 
+Dialogue: 100,0:07:45.79,0:07:47.29,Normal Dialog Text,,0,0,0,,{\rCHS}哦啊\N{\rENG}Whoa! 
+Dialogue: 100,0:07:47.29,0:07:49.26,Normal Dialog Text,,0,0,0,,{\rCHS}我根本就没有看到那招来了\N{\rENG}I did not see that coming! 
+Dialogue: 100,0:07:49.26,0:07:50.55,Normal Dialog Text,,0,0,0,,{\rCHS}那太帅了\N{\rENG}That was amazing! 
+Dialogue: 100,0:07:50.55,0:07:51.80,Normal Dialog Text,,0,0,0,,{\rCHS}不\N{\rENG}No, it's not! 
+Dialogue: 100,0:07:51.80,0:07:54.50,Normal Dialog Text,,0,0,0,,{\rCHS}我不会在做啥厉害事儿了\N{\rENG}I don't do anything amazing! 
+Dialogue: 100,0:07:57.81,0:08:00.19,Normal Dialog Text,,0,0,0,,{\rCHS}你才是最厉害的\N{\rENG}You're the one who's amazing! 
+Dialogue: 100,0:08:04.53,0:08:07.70,Normal Dialog Text,,0,0,0,,{\rCHS}哦呜呜呜呜啊\N{\rENG}Whoa! 
+Dialogue: 100,0:08:09.40,0:08:11.85,Normal Dialog Text,,0,0,0,,{\rCHS}搞毛 新招\N{\rENG}What?! Is that new? 
+Dialogue: 100,0:08:11.85,0:08:14.45,Normal Dialog Text,,0,0,0,,{\rCHS}哇哦 那可真棒!\N{\rENG}Because it's awesome! 
+Dialogue: 100,0:08:14.46,0:08:16.37,Normal Dialog Text,,0,0,0,,{\rCHS}不 它的出现是个意外\N{\rENG}No, it was an accident! 
+Dialogue: 100,0:08:16.37,0:08:18.49,Normal Dialog Text,,0,0,0,,{\rCHS}意外一点也不·棒\N{\rENG}Accidents are not awesome! 
+Dialogue: 100,0:08:18.49,0:08:20.41,Normal Dialog Text,,0,0,0,,{\rCHS}可以 这很强势\N{\rENG}Sure. Right! 
 Dialogue: 600,0:08:24.00,0:08:26.00,Hint,,0,0,0,,史蒂文的飞踢招式源自"假面骑士"的招牌终结技
-Dialogue: 100,0:08:27.38,0:08:29.00,Normal Dialog Text,,0,0,0,,{\rCHS}吭\N{\rENG}Huh?
-Dialogue: 100,0:08:31.92,0:08:35.09,Normal Dialog Text,,0,0,0,,{\rCHS}搞毛 别救\N{\rENG}What?! Don't save --
-Dialogue: 100,0:08:35.09,0:08:38.56,Normal Dialog Text,,0,0,0,,{\rCHS}哇哦 那可真厉害\N{\rENG}Whoa! That was great!
-Dialogue: 100,0:08:38.56,0:08:41.31,Normal Dialog Text,,0,0,0,,{\rCHS}你以为这就是我做的吗\N{\rENG}You think that was on purpose?
+Dialogue: 100,0:08:27.38,0:08:29.00,Normal Dialog Text,,0,0,0,,{\rCHS}吭\N{\rENG}Huh? 
+Dialogue: 100,0:08:31.92,0:08:35.09,Normal Dialog Text,,0,0,0,,{\rCHS}搞毛 别救\N{\rENG}What?! Don't save--
+Dialogue: 100,0:08:35.09,0:08:38.56,Normal Dialog Text,,0,0,0,,{\rCHS}哇哦 那可真厉害\N{\rENG}Whoa! That was great! 
+Dialogue: 100,0:08:38.56,0:08:41.31,Normal Dialog Text,,0,0,0,,{\rCHS}你以为这就是我做的吗\N{\rENG}You think that was on purpose? 
 Dialogue: 100,0:08:45.07,0:08:46.94,Normal Dialog Text,,0,0,0,,{\rCHS}猜猜谁记得上\N{\rENG}Guess who remembered to floa--
-Dialogue: 100,0:08:46.94,0:08:49.94,Normal Dialog Text,,0,0,0,,{\rCHS}呜哦\N{\rENG}Whoa!
-Dialogue: 100,0:08:53.66,0:08:55.99,Normal Dialog Text,,0,0,0,,{\rCHS}呜哦\N{\rENG}Whoa!
-Dialogue: 100,0:08:59.87,0:09:02.12,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文\N{\rENG}Steven?
-Dialogue: 100,0:09:03.95,0:09:06.24,Normal Dialog Text,,0,0,0,,{\rCHS}看到没 我把你从天上扯下来了\N{\rENG}See?! I dropped you from the sky,
-Dialogue: 100,0:09:06.24,0:09:08.71,Normal Dialog Text,,0,0,0,,{\rCHS}但你快要用石头赢了我\N{\rENG}but you almost just won using a rock!
-Dialogue: 100,0:09:08.71,0:09:13.71,Normal Dialog Text,,0,0,0,,{\rCHS}嚯 如果我不能打败你我就永远不能打败铁石英\N{\rENG}Huh! If I can't beat you, I'm never going to beat Jasper!
-Dialogue: 100,0:09:13.71,0:09:16.80,Normal Dialog Text,,0,0,0,,{\rCHS}你完全可以打败我\N{\rENG}You! You can totally beat me!
-Dialogue: 100,0:09:16.80,0:09:19.25,Normal Dialog Text,,0,0,0,,{\rCHS}你基本没有去爆发洪荒之力\N{\rENG}You're not even trying!
-Dialogue: 100,0:09:19.25,0:09:21.60,Normal Dialog Text,,0,0,0,,{\rCHS}我爆发了\N{\rENG}I am, too!
-Dialogue: 100,0:09:26.23,0:09:27.69,Normal Dialog Text,,0,0,0,,{\rCHS}哈\N{\rENG}Huh?!
-Dialogue: 100,0:09:29.40,0:09:32.56,Normal Dialog Text,,0,0,0,,{\rCHS}我认为我们在不合格的战士这块儿做的挺不错的\N{\rENG}I think we're both too good at being bad fighters.
-Dialogue: 100,0:09:32.57,0:09:34.57,Normal Dialog Text,,0,0,0,,{\rCHS}那是你认为的\N{\rENG}That's what you think!
-Dialogue: 100,0:09:34.57,0:09:36.95,Normal Dialog Text,,0,0,0,,{\rCHS}你什么意思.\N{\rENG}What does that even mean?
-Dialogue: 100,0:09:36.95,0:09:39.57,Normal Dialog Text,,0,0,0,,{\rCHS}什么意思都没有\N{\rENG}I don't even know!
-Dialogue: 100,0:09:49.30,0:09:51.22,Normal Dialog Text,,0,0,0,,{\rCHS}咱俩到底哪根筋搭错了啊\N{\rENG}What's wrong with us?!
-Dialogue: 100,0:09:53.79,0:09:55.79,Normal Dialog Text,,0,0,0,,{\rCHS}嗯 我知道那筋在我身上搭错了\N{\rENG}Well, I know what's wrong with me.
-Dialogue: 100,0:09:55.79,0:09:57.39,Normal Dialog Text,,0,0,0,,{\rCHS}我不是那么的弱小\N{\rENG}I'm not supposed to be small,
-Dialogue: 100,0:09:57.39,0:10:00.29,Normal Dialog Text,,0,0,0,,{\rCHS}但每个人都好像没这事一样\N{\rENG}and everyone's always acting like there's no problem.
+Dialogue: 100,0:08:46.94,0:08:49.94,Normal Dialog Text,,0,0,0,,{\rCHS}呜哦\N{\rENG}Whoa! 
+Dialogue: 100,0:08:53.66,0:08:55.99,Normal Dialog Text,,0,0,0,,{\rCHS}呜哦\N{\rENG}Whoa! 
+Dialogue: 100,0:08:59.87,0:09:02.12,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文\N{\rENG}Steven? 
+Dialogue: 100,0:09:03.95,0:09:06.24,Normal Dialog Text,,0,0,0,,{\rCHS}看到没 我把你从天上扯下来了\N{\rENG}See?! I dropped you from the sky, 
+Dialogue: 100,0:09:06.24,0:09:08.71,Normal Dialog Text,,0,0,0,,{\rCHS}但你快要用石头赢了我\N{\rENG}but you almost just won using a rock! 
+Dialogue: 100,0:09:08.71,0:09:13.71,Normal Dialog Text,,0,0,0,,{\rCHS}嚯 如果我不能打败你我就永远不能打败铁石英\N{\rENG}Huh! If I can't beat you, I'm never going to beat Jasper! 
+Dialogue: 100,0:09:13.71,0:09:16.80,Normal Dialog Text,,0,0,0,,{\rCHS}你完全可以打败我\N{\rENG}You! You can totally beat me! 
+Dialogue: 100,0:09:16.80,0:09:19.25,Normal Dialog Text,,0,0,0,,{\rCHS}你基本没有去爆发洪荒之力\N{\rENG}You're not even trying! 
+Dialogue: 100,0:09:19.25,0:09:21.60,Normal Dialog Text,,0,0,0,,{\rCHS}我爆发了\N{\rENG}I am, too! 
+Dialogue: 100,0:09:26.23,0:09:27.69,Normal Dialog Text,,0,0,0,,{\rCHS}哈\N{\rENG}Huh?! 
+Dialogue: 100,0:09:29.40,0:09:32.56,Normal Dialog Text,,0,0,0,,{\rCHS}我认为我们在不合格的战士这块儿做的挺不错的\N{\rENG}I think we're both too good at being bad fighters. 
+Dialogue: 100,0:09:32.57,0:09:34.57,Normal Dialog Text,,0,0,0,,{\rCHS}那是你认为的\N{\rENG}That's what you think! 
+Dialogue: 100,0:09:34.57,0:09:36.95,Normal Dialog Text,,0,0,0,,{\rCHS}你什么意思.\N{\rENG}What does that even mean? 
+Dialogue: 100,0:09:36.95,0:09:39.57,Normal Dialog Text,,0,0,0,,{\rCHS}什么意思都没有\N{\rENG}I don't even know! 
+Dialogue: 100,0:09:49.30,0:09:51.22,Normal Dialog Text,,0,0,0,,{\rCHS}咱俩到底哪根筋搭错了啊\N{\rENG}What's wrong with us?! 
+Dialogue: 100,0:09:53.79,0:09:55.79,Normal Dialog Text,,0,0,0,,{\rCHS}嗯 我知道那筋在我身上搭错了\N{\rENG}Well, I know what's wrong with me. 
+Dialogue: 100,0:09:55.79,0:09:57.39,Normal Dialog Text,,0,0,0,,{\rCHS}我不是那么的弱小\N{\rENG}I'm not supposed to be small, 
+Dialogue: 100,0:09:57.39,0:10:00.29,Normal Dialog Text,,0,0,0,,{\rCHS}但每个人都好像没这事一样\N{\rENG}and everyone's always acting like there's no problem. 
 Dialogue: 100,0:10:00.29,0:10:02.46,Normal Dialog Text,,0,0,0,,{\rCHS}你想做什么就做什么\N{\rENG}"You can be anything you want to be."
-Dialogue: 100,0:10:02.46,0:10:04.56,Normal Dialog Text,,0,0,0,,{\rCHS}不 我不行\N{\rENG}No, I can't!
-Dialogue: 100,0:10:06.13,0:10:08.63,Normal Dialog Text,,0,0,0,,{\rCHS}我根本不能成为我应该成为的样子 你懂\N{\rENG}I can't even be the one thing I'm supposed to be, ya know?
-Dialogue: 100,0:10:08.64,0:10:10.60,Normal Dialog Text,,0,0,0,,{\rCHS}当然懂\N{\rENG}Of course I do.
-Dialogue: 100,0:10:10.60,0:10:12.90,Normal Dialog Text,,0,0,0,,{\rCHS}我不是玫瑰石英\N{\rENG} I'm not rose quartz.
-Dialogue: 100,0:10:12.91,0:10:15.24,Normal Dialog Text,,0,0,0,,{\rCHS}哦别 哦史蒂文\N{\rENG}Oh, no. Oh, Steven.
-Dialogue: 100,0:10:15.24,0:10:17.83,Normal Dialog Text,,0,0,0,,{\rCHS}你为什么认为我工作很努力\N{\rENG}Why do you think I've been working so hard?
-Dialogue: 100,0:10:17.83,0:10:21.20,Normal Dialog Text,,0,0,0,,{\rCHS}哦 付出就会有回报\N{\rENG}Well, it's paying off.
-Dialogue: 100,0:10:22.78,0:10:25.28,Normal Dialog Text,,0,0,0,,{\rCHS}我希望是如此 \N{\rENG}I sure hope so!
-Dialogue: 100,0:10:35.63,0:10:36.80,Normal Dialog Text,,0,0,0,,{\rCHS}谢了 史蒂文\N{\rENG}Thanks, Steven.
-Dialogue: 100,0:10:36.80,0:10:39.50,Normal Dialog Text,,0,0,0,,{\rCHS}Aaa 你俩个在搞啥啊\N{\rENG}Aah! What did you two do?
-Dialogue: 100,0:10:39.50,0:10:41.72,Normal Dialog Text,,0,0,0,,{\rCHS}你们居然能把废墟破坏了\N{\rENG}You've ruined the ruins!
-Dialogue: 100,0:10:41.72,0:10:43.77,Normal Dialog Text,,0,0,0,,{\rCHS}哎呀\N{\rENG}Whoops.
-Dialogue: 100,0:10:43.77,0:10:48.15,Normal Dialog Text,,0,0,0,,{\rCHS}我不觉得这段时间我们能看到那个奖袋了\N{\rENG}I don't think we're gonna see that prize pouch for a while.
+Dialogue: 100,0:10:02.46,0:10:04.56,Normal Dialog Text,,0,0,0,,{\rCHS}不 我不行\N{\rENG}No, I can't! 
+Dialogue: 100,0:10:06.13,0:10:08.63,Normal Dialog Text,,0,0,0,,{\rCHS}我根本不能成为我应该成为的样子 你懂\N{\rENG}I can't even be the one thing I'm supposed to be, ya know? 
+Dialogue: 100,0:10:08.64,0:10:10.60,Normal Dialog Text,,0,0,0,,{\rCHS}当然懂\N{\rENG}Of course I do. 
+Dialogue: 100,0:10:10.60,0:10:12.90,Normal Dialog Text,,0,0,0,,{\rCHS}我不是玫瑰石英\N{\rENG} I'm not rose quartz. 
+Dialogue: 100,0:10:12.91,0:10:15.24,Normal Dialog Text,,0,0,0,,{\rCHS}哦别 哦史蒂文\N{\rENG}Oh, no. Oh, Steven. 
+Dialogue: 100,0:10:15.24,0:10:17.83,Normal Dialog Text,,0,0,0,,{\rCHS}你为什么认为我工作很努力\N{\rENG}Why do you think I've been working so hard? 
+Dialogue: 100,0:10:17.83,0:10:21.20,Normal Dialog Text,,0,0,0,,{\rCHS}哦 付出就会有回报\N{\rENG}Well, it's paying off. 
+Dialogue: 100,0:10:22.78,0:10:25.28,Normal Dialog Text,,0,0,0,,{\rCHS}我希望是如此 \N{\rENG}I sure hope so! 
+Dialogue: 100,0:10:35.63,0:10:36.80,Normal Dialog Text,,0,0,0,,{\rCHS}谢了 史蒂文\N{\rENG}Thanks, Steven. 
+Dialogue: 100,0:10:36.80,0:10:39.50,Normal Dialog Text,,0,0,0,,{\rCHS}Aaa 你俩个在搞啥啊\N{\rENG}Aah! What did you two do? 
+Dialogue: 100,0:10:39.50,0:10:41.72,Normal Dialog Text,,0,0,0,,{\rCHS}你们居然能把废墟破坏了\N{\rENG}You've ruined the ruins! 
+Dialogue: 100,0:10:41.72,0:10:43.77,Normal Dialog Text,,0,0,0,,{\rCHS}哎呀\N{\rENG}Whoops. 
+Dialogue: 100,0:10:43.77,0:10:48.15,Normal Dialog Text,,0,0,0,,{\rCHS}我不觉得这段时间我们能看到那个奖袋了\N{\rENG}I don't think we're gonna see that prize pouch for a while. 
+

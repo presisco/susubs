@@ -43,7 +43,7 @@ Style: Hint,微软雅黑,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 1,0:00:00.00,0:00:01.50,SU Title,,0,0,0,,{\xshad8\yshad8\pos(1088,288)}被泡泡包裹
-Dialogue: 1,0:00:01.50,0:00:03.00,SU Claim,,0,0,0,,欢迎关注微博@UUU字幕组，获取最新熟肉信息！
+Dialogue: 1,0:00:01.50,0:00:03.00,SU Claim,,0,0,0,,欢迎关注微博@ UUU字幕组 获取最新熟肉信息! 
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,260)}出品
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,320)}UUU字幕组
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,380)}翻译
@@ -54,167 +54,166 @@ Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,620)}特效
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,680)}presisco
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,740)}压制
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,800)}presisco
-Dialogue: 0,0:00:01.50,0:00:03.00,SU Team Background,,0,0,0,,{\bord0\xshad-0\yshad16\pos(1725,860)}{\p1}m -1 122 b -1 -19 -19 -1 122 -1 l 251 -1 b 390 -1 377 -19 377 122 l 377 500 b 377 642 390 628 251 628 l 122 628 b -19 628 -1 642 -1 500 l -1 122 {\p0}
-Dialogue: 100,0:00:23.44,0:00:25.04,Normal Dialog Text,,0,0,0,,{\rCHS}红宝石们?\N{\rENG}The Rubies?
-Dialogue: 100,0:00:25.05,0:00:27.58,Normal Dialog Text,,0,0,0,,{\rCHS}哈?哇!\N{\rENG}Huh? Whoa!
-Dialogue: 100,0:00:27.58,0:00:29.41,Normal Dialog Text,,0,0,0,,{\rCHS}哦,天哪!\N{\rENG}Oh, geez!
-Dialogue: 100,0:00:29.42,0:00:31.72,Normal Dialog Text,,0,0,0,,{\rCHS}啊!\N{\rENG}Aah!
-Dialogue: 100,0:00:31.72,0:00:33.69,Normal Dialog Text,,0,0,0,,{\rCHS}-是你!-爱宝!\N{\rENG}-You!-Eyeball!
-Dialogue: 100,0:00:38.26,0:00:39.66,Normal Dialog Text,,0,0,0,,{\rCHS}地球拜拜\N{\rENG}There goes the Earth.
-Dialogue: 100,0:00:39.66,0:00:42.26,Normal Dialog Text,,0,0,0,,{\rCHS}我的整个团都拜拜了好吗!\N{\rENG}There goes my whole platoon!
-Dialogue: 100,0:00:43.43,0:00:47.23,Normal Dialog Text,,0,0,0,,{\rCHS}简直一团糟!我该怎么写进报告里?!\N{\rENG}This is a mess!What'll I say in my report?
-Dialogue: 100,0:00:47.23,0:00:50.40,Normal Dialog Text,,0,0,0,,{\rCHS}我能不能写报告都成问题!\N{\rENG}How will I even make my report?
-Dialogue: 100,0:00:50.40,0:00:52.77,Normal Dialog Text,,0,0,0,,{\rCHS}简直噩梦!\N{\rENG}This is a nightmare!
-Dialogue: 100,0:00:52.77,0:00:55.71,Normal Dialog Text,,0,0,0,,{\rCHS}全都是你的错!\N{\rENG}And this is all your fault!
-Dialogue: 100,0:00:55.71,0:00:57.28,Normal Dialog Text,,0,0,0,,{\rCHS}等等,不,才不是!\N{\rENG}-Whoa!-Hey, no, it's not!
-Dialogue: 100,0:00:57.28,0:00:59.38,Normal Dialog Text,,0,0,0,,{\rCHS}是你先要伤害我的朋友的!\N{\rENG}You were trying to hurt my friends!
-Dialogue: 100,0:00:59.38,0:01:03.98,Normal Dialog Text,,0,0,0,,{\rCHS}但是打开月面基地气阀的人是你!\N{\rENG}But you opened the airlock in the moon base!
-Dialogue: 100,0:01:03.98,0:01:07.09,Normal Dialog Text,,0,0,0,,{\rCHS}是你把我们送进了太空--\N{\rENG}You sent us flying into space --
-Dialogue: 100,0:01:07.09,0:01:09.92,Normal Dialog Text,,0,0,0,,{\rCHS}还根本没有回家的希望!\N{\rENG}with no hope of ever returning!
-Dialogue: 100,0:01:11.19,0:01:13.76,Normal Dialog Text,,0,0,0,,{\rCHS}好吧,也许那个是我的错\N{\rENG}Okay, so maybe that was my fault.
-Dialogue: 100,0:01:13.76,0:01:17.06,Normal Dialog Text,,0,0,0,,{\rCHS}对不起-现在高兴了吧?\N{\rENG}I'm sorry.There, are you happy?
-Dialogue: 100,0:01:17.06,0:01:18.03,Normal Dialog Text,,0,0,0,,{\rCHS}不高兴\N{\rENG}No.
-Dialogue: 100,0:01:18.03,0:01:19.70,Normal Dialog Text,,0,0,0,,{\rCHS}要不是你被泡泡保护着\N{\rENG}You're lucky you're in that bubble,
-Dialogue: 100,0:01:19.70,0:01:21.93,Normal Dialog Text,,0,0,0,,{\rCHS}我就一拳打在你脸上\N{\rENG}or I'd pop you right in the face.
-Dialogue: 100,0:01:21.94,0:01:24.27,Normal Dialog Text,,0,0,0,,{\rCHS}行啊,你要是一直这么无理取闹\N{\rENG}Well, if you're going to be a grump about it,
-Dialogue: 100,0:01:24.27,0:01:27.24,Normal Dialog Text,,0,0,0,,{\rCHS}我们就直接在太空里白头偕老得了!\N{\rENG}then we can just float in silence until we both die.
-Dialogue: 100,0:01:27.24,0:01:29.44,Normal Dialog Text,,0,0,0,,{\rCHS}-听起来不错-行!\N{\rENG}Sounds great.Fine!
-Dialogue: 100,0:01:29.44,0:01:31.38,Normal Dialog Text,,0,0,0,,{\rCHS}我都等不及去死了!\N{\rENG}I can't wait!
-Dialogue: 100,0:01:31.38,0:01:32.64,Normal Dialog Text,,0,0,0,,{\rCHS}我也等不及!\N{\rENG}Me, neither!
-Dialogue: 100,0:01:44.92,0:01:47.03,Normal Dialog Text,,0,0,0,,{\rCHS}啥?没信号?\N{\rENG}What? No signal?
-Dialogue: 100,0:01:47.03,0:01:49.66,Normal Dialog Text,,0,0,0,,{\rCHS}拜托,旁边不就有颗卫星吗?!\N{\rENG}Come on,I'm right by a satellite.
-Dialogue: 100,0:01:49.66,0:01:51.53,Normal Dialog Text,,0,0,0,,{\rCHS}如果我没在这里死掉\N{\rENG}If I don't die out here,
-Dialogue: 100,0:01:51.53,0:01:54.00,Normal Dialog Text,,0,0,0,,{\rCHS}回地球第一件事就是换个手机套餐\N{\rENG}first thing I do back on Earth is change my phone plan.
-Dialogue: 100,0:01:54.00,0:01:58.45,Normal Dialog Text,,0,0,0,,{\rCHS}我就不应该回到这颗蠢星球来!\N{\rENG}I shouldn't have ever come back to that dumb planet!
-Dialogue: 100,0:01:59.17,0:02:02.77,Normal Dialog Text,,0,0,0,,{\rCHS}当我听说地球上可能还有水晶战士的时候\N{\rENG}When I heard rumors there might still be Crystal Gems on Earth,
-Dialogue: 100,0:02:02.78,0:02:04.44,Normal Dialog Text,,0,0,0,,{\rCHS}我当时都没敢相信\N{\rENG}I couldn't believe it.
-Dialogue: 100,0:02:04.45,0:02:08.11,Normal Dialog Text,,0,0,0,,{\rCHS}一千年的战争都徒劳无功!\N{\rENG}A thousand years of fighting were all for nothing!
-Dialogue: 100,0:02:08.12,0:02:11.48,Normal Dialog Text,,0,0,0,,{\rCHS}再想想玫瑰石英可能还活着?\N{\rENG}And Rose Quartz might still be alive?
-Dialogue: 100,0:02:11.49,0:02:12.88,Normal Dialog Text,,0,0,0,,{\rCHS}她肯定还活着\N{\rENG}She must be!
+Dialogue: 100,0:00:23.44,0:00:25.04,Normal Dialog Text,,0,0,0,,{\rCHS}红宝石们?\N{\rENG}The Rubies? 
+Dialogue: 100,0:00:25.05,0:00:27.58,Normal Dialog Text,,0,0,0,,{\rCHS}哈? 哇!\N{\rENG}Huh? Whoa! 
+Dialogue: 100,0:00:27.58,0:00:29.41,Normal Dialog Text,,0,0,0,,{\rCHS}哦 天哪!\N{\rENG}Oh, geez! 
+Dialogue: 100,0:00:29.42,0:00:31.72,Normal Dialog Text,,0,0,0,,{\rCHS}啊!\N{\rENG}Aah! 
+Dialogue: 100,0:00:31.72,0:00:33.69,Normal Dialog Text,,0,0,0,,{\rCHS}-是你!-爱宝!\N{\rENG}-You!-Eyeball! 
+Dialogue: 100,0:00:38.26,0:00:39.66,Normal Dialog Text,,0,0,0,,{\rCHS}地球拜拜\N{\rENG}There goes the Earth. 
+Dialogue: 100,0:00:39.66,0:00:42.26,Normal Dialog Text,,0,0,0,,{\rCHS}我的整个团都拜拜了好吗!\N{\rENG}There goes my whole platoon! 
+Dialogue: 100,0:00:43.43,0:00:47.23,Normal Dialog Text,,0,0,0,,{\rCHS}简直一团糟! 我该怎么写进报告里?!\N{\rENG}This is a mess! What'll I say in my report? 
+Dialogue: 100,0:00:47.23,0:00:50.40,Normal Dialog Text,,0,0,0,,{\rCHS}我能不能写报告都成问题!\N{\rENG}How will I even make my report? 
+Dialogue: 100,0:00:50.40,0:00:52.77,Normal Dialog Text,,0,0,0,,{\rCHS}简直噩梦!\N{\rENG}This is a nightmare! 
+Dialogue: 100,0:00:52.77,0:00:55.71,Normal Dialog Text,,0,0,0,,{\rCHS}全都是你的错!\N{\rENG}And this is all your fault! 
+Dialogue: 100,0:00:55.71,0:00:57.28,Normal Dialog Text,,0,0,0,,{\rCHS}等等 不 才不是!\N{\rENG}-Whoa!-Hey, no, it's not! 
+Dialogue: 100,0:00:57.28,0:00:59.38,Normal Dialog Text,,0,0,0,,{\rCHS}是你先要伤害我的朋友的!\N{\rENG}You were trying to hurt my friends! 
+Dialogue: 100,0:00:59.38,0:01:03.98,Normal Dialog Text,,0,0,0,,{\rCHS}但是打开月面基地气阀的人是你!\N{\rENG}But you opened the airlock in the moon base! 
+Dialogue: 100,0:01:03.98,0:01:07.09,Normal Dialog Text,,0,0,0,,{\rCHS}是你把我们送进了太空--\N{\rENG}You sent us flying into space--
+Dialogue: 100,0:01:07.09,0:01:09.92,Normal Dialog Text,,0,0,0,,{\rCHS}还根本没有回家的希望!\N{\rENG}with no hope of ever returning! 
+Dialogue: 100,0:01:11.19,0:01:13.76,Normal Dialog Text,,0,0,0,,{\rCHS}好吧 也许那个是我的错\N{\rENG}Okay, so maybe that was my fault. 
+Dialogue: 100,0:01:13.76,0:01:17.06,Normal Dialog Text,,0,0,0,,{\rCHS}对不起-现在高兴了吧?\N{\rENG}I'm sorry. There, are you happy? 
+Dialogue: 100,0:01:17.06,0:01:18.03,Normal Dialog Text,,0,0,0,,{\rCHS}不高兴\N{\rENG}No. 
+Dialogue: 100,0:01:18.03,0:01:19.70,Normal Dialog Text,,0,0,0,,{\rCHS}要不是你被泡泡保护着\N{\rENG}You're lucky you're in that bubble, 
+Dialogue: 100,0:01:19.70,0:01:21.93,Normal Dialog Text,,0,0,0,,{\rCHS}我就一拳打在你脸上\N{\rENG}or I'd pop you right in the face. 
+Dialogue: 100,0:01:21.94,0:01:24.27,Normal Dialog Text,,0,0,0,,{\rCHS}行啊 你要是一直这么无理取闹\N{\rENG}Well, if you're going to be a grump about it, 
+Dialogue: 100,0:01:24.27,0:01:27.24,Normal Dialog Text,,0,0,0,,{\rCHS}我们就直接在太空里白头偕老得了!\N{\rENG}then we can just float in silence until we both die. 
+Dialogue: 100,0:01:27.24,0:01:29.44,Normal Dialog Text,,0,0,0,,{\rCHS}-听起来不错-行!\N{\rENG}Sounds great. Fine! 
+Dialogue: 100,0:01:29.44,0:01:31.38,Normal Dialog Text,,0,0,0,,{\rCHS}我都等不及去死了!\N{\rENG}I can't wait! 
+Dialogue: 100,0:01:31.38,0:01:32.64,Normal Dialog Text,,0,0,0,,{\rCHS}我也等不及!\N{\rENG}Me, neither! 
+Dialogue: 100,0:01:44.92,0:01:47.03,Normal Dialog Text,,0,0,0,,{\rCHS}啥? 没信号?\N{\rENG}What? No signal? 
+Dialogue: 100,0:01:47.03,0:01:49.66,Normal Dialog Text,,0,0,0,,{\rCHS}拜托 旁边不就有颗卫星吗?!\N{\rENG}Come on, I'm right by a satellite. 
+Dialogue: 100,0:01:49.66,0:01:51.53,Normal Dialog Text,,0,0,0,,{\rCHS}如果我没在这里死掉\N{\rENG}If I don't die out here, 
+Dialogue: 100,0:01:51.53,0:01:54.00,Normal Dialog Text,,0,0,0,,{\rCHS}回地球第一件事就是换个手机套餐\N{\rENG}first thing I do back on Earth is change my phone plan. 
+Dialogue: 100,0:01:54.00,0:01:58.45,Normal Dialog Text,,0,0,0,,{\rCHS}我就不应该回到这颗蠢星球来!\N{\rENG}I shouldn't have ever come back to that dumb planet! 
+Dialogue: 100,0:01:59.17,0:02:02.77,Normal Dialog Text,,0,0,0,,{\rCHS}当我听说地球上可能还有水晶战士的时候\N{\rENG}When I heard rumors there might still be Crystal Gems on Earth, 
+Dialogue: 100,0:02:02.78,0:02:04.44,Normal Dialog Text,,0,0,0,,{\rCHS}我当时都没敢相信\N{\rENG}I couldn't believe it. 
+Dialogue: 100,0:02:04.45,0:02:08.11,Normal Dialog Text,,0,0,0,,{\rCHS}一千年的战争都徒劳无功!\N{\rENG}A thousand years of fighting were all for nothing! 
+Dialogue: 100,0:02:08.12,0:02:11.48,Normal Dialog Text,,0,0,0,,{\rCHS}再想想玫瑰石英可能还活着?\N{\rENG}And Rose Quartz might still be alive? 
+Dialogue: 100,0:02:11.49,0:02:12.88,Normal Dialog Text,,0,0,0,,{\rCHS}她肯定还活着\N{\rENG}She must be! 
 Dialogue: 100,0:02:12.89,0:02:15.75,Normal Dialog Text,,0,0,0,,{\rCHS}不然为什么铁石英那么重要的人物\N{\rENG}Why else would someone as important as Jasper
-Dialogue: 100,0:02:15.76,0:02:16.85,Normal Dialog Text,,0,0,0,,{\rCHS}会回来地球呢?\N{\rENG}be back on Earth?
-Dialogue: 100,0:02:16.86,0:02:19.99,Normal Dialog Text,,0,0,0,,{\rCHS}当然是为了确认玫瑰是否活着\N{\rENG}For closure, that's why.
-Dialogue: 100,0:02:19.99,0:02:21.86,Normal Dialog Text,,0,0,0,,{\rCHS}我也这么想过\N{\rENG}I wanted it, too.
-Dialogue: 100,0:02:21.86,0:02:25.73,Normal Dialog Text,,0,0,0,,{\rCHS}我也想亲眼看看玫瑰石英\N{\rENG}I wanted to see Rose Quartz with my own eye.
-Dialogue: 100,0:02:25.73,0:02:27.33,Normal Dialog Text,,0,0,0,,{\rCHS}至少\N{\rENG}At the very least,
-Dialogue: 100,0:02:27.33,0:02:30.13,Normal Dialog Text,,0,0,0,,{\rCHS}我以为铁石英会有答案,可...\N{\rENG}I thought Jasper might have some answers, but...
-Dialogue: 100,0:02:30.14,0:02:34.91,Normal Dialog Text,,0,0,0,,{\rCHS}那根本不是她--只是另一个把戏\N{\rENG}it wasn't even her --just another trick.
-Dialogue: 100,0:02:34.91,0:02:38.81,Normal Dialog Text,,0,0,0,,{\rCHS}这才是你真正想要的?想看看玫瑰石英?\N{\rENG}That's what you really wanted?To see Rose Quartz?
-Dialogue: 100,0:02:38.81,0:02:41.05,Normal Dialog Text,,0,0,0,,{\rCHS}比什么都想\N{\rENG}More than anything.
-Dialogue: 100,0:02:41.05,0:02:44.32,Normal Dialog Text,,0,0,0,,{\rCHS}那么-今天就是你的幸运日了\N{\rENG}Well, then today's your lucky day.
-Dialogue: 100,0:02:44.32,0:02:46.08,Normal Dialog Text,,0,0,0,,{\rCHS}怎么讲?\N{\rENG}How's that?
+Dialogue: 100,0:02:15.76,0:02:16.85,Normal Dialog Text,,0,0,0,,{\rCHS}会回来地球呢?\N{\rENG}be back on Earth? 
+Dialogue: 100,0:02:16.86,0:02:19.99,Normal Dialog Text,,0,0,0,,{\rCHS}当然是为了确认玫瑰是否活着\N{\rENG}For closure, that's why. 
+Dialogue: 100,0:02:19.99,0:02:21.86,Normal Dialog Text,,0,0,0,,{\rCHS}我也这么想过\N{\rENG}I wanted it, too. 
+Dialogue: 100,0:02:21.86,0:02:25.73,Normal Dialog Text,,0,0,0,,{\rCHS}我也想亲眼看看玫瑰石英\N{\rENG}I wanted to see Rose Quartz with my own eye. 
+Dialogue: 100,0:02:25.73,0:02:27.33,Normal Dialog Text,,0,0,0,,{\rCHS}至少\N{\rENG}At the very least, 
+Dialogue: 100,0:02:27.33,0:02:30.13,Normal Dialog Text,,0,0,0,,{\rCHS}我以为铁石英会有答案 可...\N{\rENG}I thought Jasper might have some answers, but...
+Dialogue: 100,0:02:30.14,0:02:34.91,Normal Dialog Text,,0,0,0,,{\rCHS}那根本不是她--只是另一个把戏\N{\rENG}it wasn't even her--just another trick. 
+Dialogue: 100,0:02:34.91,0:02:38.81,Normal Dialog Text,,0,0,0,,{\rCHS}这才是你真正想要的? 想看看玫瑰石英?\N{\rENG}That's what you really wanted? To see Rose Quartz? 
+Dialogue: 100,0:02:38.81,0:02:41.05,Normal Dialog Text,,0,0,0,,{\rCHS}比什么都想\N{\rENG}More than anything. 
+Dialogue: 100,0:02:41.05,0:02:44.32,Normal Dialog Text,,0,0,0,,{\rCHS}那么-今天就是你的幸运日了\N{\rENG}Well, then today's your lucky day. 
+Dialogue: 100,0:02:44.32,0:02:46.08,Normal Dialog Text,,0,0,0,,{\rCHS}怎么讲?\N{\rENG}How's that? 
 Dialogue: 100,0:02:46.09,0:02:47.45,Normal Dialog Text,,0,0,0,,{\rCHS}我...\N{\rENG}I...
-Dialogue: 100,0:02:47.45,0:02:49.39,Normal Dialog Text,,0,0,0,,{\rCHS}我知道玫瑰石英在哪\N{\rENG}know where Rose Quartz is.
-Dialogue: 100,0:02:49.39,0:02:52.76,Normal Dialog Text,,0,0,0,,{\rCHS}啥?她在哪?\N{\rENG}What? Where is she?!
-Dialogue: 100,0:02:52.76,0:02:54.69,Normal Dialog Text,,0,0,0,,{\rCHS}她变成了我\N{\rENG}She turned into me.
-Dialogue: 100,0:02:54.69,0:02:56.03,Normal Dialog Text,,0,0,0,,{\rCHS}你要是她\N{\rENG}Right.
-Dialogue: 100,0:02:56.03,0:02:58.36,Normal Dialog Text,,0,0,0,,{\rCHS}我还有两只眼呢\N{\rENG}And I have two eyeballs --
-Dialogue: 100,0:02:58.37,0:02:59.76,Normal Dialog Text,,0,0,0,,{\rCHS}你看看我有吗?\N{\rENG}which I don't!
-Dialogue: 100,0:02:59.77,0:03:02.57,Normal Dialog Text,,0,0,0,,{\rCHS}你真的以为我蠢到什么都信,是吧?\N{\rENG}You expect me to believe anything, don't you?
-Dialogue: 100,0:03:02.57,0:03:05.24,Normal Dialog Text,,0,0,0,,{\rCHS}耍我一次,我丢人\N{\rENG}Fool me once, shame on me.
-Dialogue: 100,0:03:05.24,0:03:09.27,Normal Dialog Text,,0,0,0,,{\rCHS}耍我四次,真的算是耍了我了\N{\rENG}Fool me four times,you already fooled me --
-Dialogue: 600,0:03:05.24,0:03:09.27,Hint,,0,0,0,,红宝石奇怪的说法源自美国总统小布什的"Fool me once, shame on you. You fool me, can't get fooled again!"
-Dialogue: 100,0:03:09.28,0:03:12.58,Normal Dialog Text,,0,0,0,,{\rCHS}我绝不会再上你的当\N{\rENG}and you can't fool me again.
-Dialogue: 100,0:03:12.58,0:03:13.88,Normal Dialog Text,,0,0,0,,{\rCHS}你不相信我的话,我可以证明!\N{\rENG}Look, I can prove it!
-Dialogue: 100,0:03:13.88,0:03:15.71,Normal Dialog Text,,0,0,0,,{\rCHS}我身上有她的宝石!\N{\rENG}I have her Rose Quartz gem!
+Dialogue: 100,0:02:47.45,0:02:49.39,Normal Dialog Text,,0,0,0,,{\rCHS}我知道玫瑰石英在哪\N{\rENG}know where Rose Quartz is. 
+Dialogue: 100,0:02:49.39,0:02:52.76,Normal Dialog Text,,0,0,0,,{\rCHS}啥? 她在哪?\N{\rENG}What? Where is she?! 
+Dialogue: 100,0:02:52.76,0:02:54.69,Normal Dialog Text,,0,0,0,,{\rCHS}她变成了我\N{\rENG}She turned into me. 
+Dialogue: 100,0:02:54.69,0:02:56.03,Normal Dialog Text,,0,0,0,,{\rCHS}你要是她\N{\rENG}Right. 
+Dialogue: 100,0:02:56.03,0:02:58.36,Normal Dialog Text,,0,0,0,,{\rCHS}我还有两只眼呢\N{\rENG}And I have two eyeballs--
+Dialogue: 100,0:02:58.37,0:02:59.76,Normal Dialog Text,,0,0,0,,{\rCHS}你看看我有吗?\N{\rENG}which I don't! 
+Dialogue: 100,0:02:59.77,0:03:02.57,Normal Dialog Text,,0,0,0,,{\rCHS}你真的以为我蠢到什么都信 是吧?\N{\rENG}You expect me to believe anything, don't you? 
+Dialogue: 100,0:03:02.57,0:03:05.24,Normal Dialog Text,,0,0,0,,{\rCHS}耍我一次 我丢人\N{\rENG}Fool me once, shame on me. 
+Dialogue: 100,0:03:05.24,0:03:09.27,Normal Dialog Text,,0,0,0,,{\rCHS}耍我四次 真的算是耍了我了\N{\rENG}Fool me four times, you already fooled me--
+Dialogue: 600,0:03:05.24,0:03:09.27,Hint,,0,0,0,,红宝石奇怪的说法源自美国总统小布什的"Fool me once shame on you. You fool me can't get fooled again!"
+Dialogue: 100,0:03:09.28,0:03:12.58,Normal Dialog Text,,0,0,0,,{\rCHS}我绝不会再上你的当\N{\rENG}and you can't fool me again. 
+Dialogue: 100,0:03:12.58,0:03:13.88,Normal Dialog Text,,0,0,0,,{\rCHS}你不相信我的话 我可以证明!\N{\rENG}Look, I can prove it! 
+Dialogue: 100,0:03:13.88,0:03:15.71,Normal Dialog Text,,0,0,0,,{\rCHS}我身上有她的宝石!\N{\rENG}I have her Rose Quartz gem! 
 Dialogue: 100,0:03:15.72,0:03:17.45,Normal Dialog Text,,0,0,0,,{\rCHS}这宝石看着红中带粉\N{\rENG}That's more of a pinkish-red
-Dialogue: 100,0:03:17.45,0:03:20.52,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰石英的宝石可是粉中带红\N{\rENG}than a real Rose Quartz reddish pink.
-Dialogue: 100,0:03:20.52,0:03:23.22,Normal Dialog Text,,0,0,0,,{\rCHS}那是因为你隔着我的泡泡在看啊!\N{\rENG}That's because you're looking at it through my bubble!
+Dialogue: 100,0:03:17.45,0:03:20.52,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰石英的宝石可是粉中带红\N{\rENG}than a real Rose Quartz reddish pink. 
+Dialogue: 100,0:03:20.52,0:03:23.22,Normal Dialog Text,,0,0,0,,{\rCHS}那是因为你隔着我的泡泡在看啊!\N{\rENG}That's because you're looking at it through my bubble! 
 Dialogue: 100,0:03:23.22,0:03:24.39,Normal Dialog Text,,0,0,0,,{\rCHS}等下...\N{\rENG}Hold on...
-Dialogue: 100,0:03:24.39,0:03:27.59,Normal Dialog Text,,0,0,0,,{\rCHS}来,看这个!\N{\rENG}Here, check this out!
-Dialogue: 100,0:03:27.59,0:03:29.36,Normal Dialog Text,,0,0,0,,{\rCHS}看,我能召唤她的盾牌!\N{\rENG}Look,I can summon her shield!
-Dialogue: 100,0:03:29.36,0:03:31.80,Normal Dialog Text,,0,0,0,,{\rCHS}你看上面还有玫瑰啥的\N{\rENG}It's got a rose on it and everything!
-Dialogue: 100,0:03:31.80,0:03:33.97,Normal Dialog Text,,0,0,0,,{\rCHS}谁管她的盾啊?\N{\rENG}Who cares about her shield?
-Dialogue: 100,0:03:33.97,0:03:37.00,Normal Dialog Text,,0,0,0,,{\rCHS}我只记得她有粉色的巨剑\N{\rENG}Her huge sword is what I remember.
-Dialogue: 100,0:03:37.00,0:03:41.17,Normal Dialog Text,,0,0,0,,{\rCHS}呃,我把剑丢在狮子那里了\N{\rENG}Uh, I left that in my lion...
-Dialogue: 100,0:03:43.08,0:03:44.11,Normal Dialog Text,,0,0,0,,{\rCHS}看\N{\rENG}Look.
-Dialogue: 100,0:03:44.11,0:03:46.78,Normal Dialog Text,,0,0,0,,{\rCHS}看看我身上有没有玫瑰的影子\N{\rENG}Tell me you don't see the resemblance.
-Dialogue: 100,0:03:48.98,0:03:52.02,Normal Dialog Text,,0,0,0,,{\rCHS}你在逗我?你可真卑鄙\N{\rENG}Are you kidding me?You're despicable.
-Dialogue: 100,0:03:52.02,0:03:53.45,Normal Dialog Text,,0,0,0,,{\rCHS}我们都要死在这儿了\N{\rENG}We're gonna die out here,
-Dialogue: 100,0:03:53.45,0:03:56.45,Normal Dialog Text,,0,0,0,,{\rCHS}你还要在临死前开我的玩笑\N{\rENG}and you're just gonna make fun of me until we do.
-Dialogue: 100,0:03:56.46,0:04:01.56,Normal Dialog Text,,0,0,0,,{\rCHS}你真是比玫瑰石英还残忍\N{\rENG}You're even crueler than Rose Quartz.
+Dialogue: 100,0:03:24.39,0:03:27.59,Normal Dialog Text,,0,0,0,,{\rCHS}来 看这个!\N{\rENG}Here, check this out! 
+Dialogue: 100,0:03:27.59,0:03:29.36,Normal Dialog Text,,0,0,0,,{\rCHS}看 我能召唤她的盾牌!\N{\rENG}Look, I can summon her shield! 
+Dialogue: 100,0:03:29.36,0:03:31.80,Normal Dialog Text,,0,0,0,,{\rCHS}你看上面还有玫瑰啥的\N{\rENG}It's got a rose on it and everything! 
+Dialogue: 100,0:03:31.80,0:03:33.97,Normal Dialog Text,,0,0,0,,{\rCHS}谁管她的盾啊?\N{\rENG}Who cares about her shield? 
+Dialogue: 100,0:03:33.97,0:03:37.00,Normal Dialog Text,,0,0,0,,{\rCHS}我只记得她有粉色的巨剑\N{\rENG}Her huge sword is what I remember. 
+Dialogue: 100,0:03:37.00,0:03:41.17,Normal Dialog Text,,0,0,0,,{\rCHS}呃 我把剑丢在狮子那里了\N{\rENG}Uh, I left that in my lion...
+Dialogue: 100,0:03:43.08,0:03:44.11,Normal Dialog Text,,0,0,0,,{\rCHS}看\N{\rENG}Look. 
+Dialogue: 100,0:03:44.11,0:03:46.78,Normal Dialog Text,,0,0,0,,{\rCHS}看看我身上有没有玫瑰的影子\N{\rENG}Tell me you don't see the resemblance. 
+Dialogue: 100,0:03:48.98,0:03:52.02,Normal Dialog Text,,0,0,0,,{\rCHS}你在逗我? 你可真卑鄙\N{\rENG}Are you kidding me? You're despicable. 
+Dialogue: 100,0:03:52.02,0:03:53.45,Normal Dialog Text,,0,0,0,,{\rCHS}我们都要死在这儿了\N{\rENG}We're gonna die out here, 
+Dialogue: 100,0:03:53.45,0:03:56.45,Normal Dialog Text,,0,0,0,,{\rCHS}你还要在临死前开我的玩笑\N{\rENG}and you're just gonna make fun of me until we do. 
+Dialogue: 100,0:03:56.46,0:04:01.56,Normal Dialog Text,,0,0,0,,{\rCHS}你真是比玫瑰石英还残忍\N{\rENG}You're even crueler than Rose Quartz. 
 Dialogue: 100,0:04:03.16,0:04:04.10,Normal Dialog Text,,0,0,0,,{\rCHS}呃...\N{\rENG}Uh...
-Dialogue: 100,0:04:04.10,0:04:07.83,Normal Dialog Text,,0,0,0,,{\rCHS}呃,爱宝?\N{\rENG}Uh, Eyeball?
-Dialogue: 100,0:04:07.83,0:04:08.83,Normal Dialog Text,,0,0,0,,{\rCHS}爱宝?!\N{\rENG}Eyeball?!
-Dialogue: 100,0:04:08.84,0:04:10.47,Normal Dialog Text,,0,0,0,,{\rCHS}那不是我弄的...\N{\rENG}That's not my --
-Dialogue: 100,0:04:11.57,0:04:13.00,Normal Dialog Text,,0,0,0,,{\rCHS}简直不能再棒!\N{\rENG}Oh, great!
-Dialogue: 100,0:04:13.01,0:04:14.31,Normal Dialog Text,,0,0,0,,{\rCHS}小行星袭来!\N{\rENG}Asteroids incoming!
-Dialogue: 100,0:04:14.31,0:04:15.41,Normal Dialog Text,,0,0,0,,{\rCHS}士兵,各找掩护!\N{\rENG}Find cover, soldier!
-Dialogue: 100,0:04:15.41,0:04:18.28,Normal Dialog Text,,0,0,0,,{\rCHS}我已经有掩护了,你倒是找地方躲啊!\N{\rENG}I am in cover,you get somewhere safe!
-Dialogue: 100,0:04:20.18,0:04:21.15,Normal Dialog Text,,0,0,0,,{\rCHS}哇!\N{\rENG}Wow!
-Dialogue: 100,0:04:21.15,0:04:22.71,Normal Dialog Text,,0,0,0,,{\rCHS}感觉筋骨没年轻时灵活了\N{\rENG}I think I'm losing my luster.
-Dialogue: 100,0:04:29.12,0:04:31.42,Normal Dialog Text,,0,0,0,,{\rCHS}我们要撞上那块大的了!\N{\rENG}We're heading right for that big one!
-Dialogue: 100,0:04:31.42,0:04:33.12,Normal Dialog Text,,0,0,0,,{\rCHS}不!\N{\rENG}No!
-Dialogue: 100,0:04:33.13,0:04:34.46,Normal Dialog Text,,0,0,0,,{\rCHS}哦?\N{\rENG}Oh?
-Dialogue: 100,0:04:34.46,0:04:36.90,Normal Dialog Text,,0,0,0,,{\rCHS}哦\N{\rENG}Oh.
-Dialogue: 100,0:04:36.90,0:04:39.16,Normal Dialog Text,,0,0,0,,{\rCHS}我还活着\N{\rENG}I'm alive.
-Dialogue: 100,0:04:39.17,0:04:40.77,Normal Dialog Text,,0,0,0,,{\rCHS}我们做到啦!\N{\rENG}We made it!
-Dialogue: 100,0:04:42.80,0:04:44.97,Normal Dialog Text,,0,0,0,,{\rCHS}我是无敌的!\N{\rENG}I'm unstoppable!
-Dialogue: 100,0:04:46.41,0:04:47.81,Normal Dialog Text,,0,0,0,,{\rCHS}爱宝!\N{\rENG}Eyeball!
-Dialogue: 100,0:04:47.81,0:04:51.41,Normal Dialog Text,,0,0,0,,{\rCHS}哦,不,不!\N{\rENG}Oh, no! No!
-Dialogue: 100,0:04:51.41,0:04:55.28,Normal Dialog Text,,0,0,0,,{\rCHS}我抓到你了\N{\rENG}I've got you.
-Dialogue: 100,0:04:57.55,0:05:00.72,Normal Dialog Text,,0,0,0,,{\rCHS}哦天了!你还好吗?\N{\rENG}Oh, geez! You okay?
-Dialogue: 100,0:05:01.72,0:05:02.75,Normal Dialog Text,,0,0,0,,{\rCHS}起开!\N{\rENG}Get off me!
-Dialogue: 100,0:05:02.76,0:05:04.89,Normal Dialog Text,,0,0,0,,{\rCHS}哇,你怎么了?\N{\rENG}Whoa!What's wrong?
-Dialogue: 100,0:05:07.09,0:05:09.86,Normal Dialog Text,,0,0,0,,{\rCHS}哎呀呀!你的宝石开裂了!\N{\rENG}Ay-yi-yi!Your gem is cracked!
-Dialogue: 100,0:05:09.86,0:05:12.83,Normal Dialog Text,,0,0,0,,{\rCHS}啥?还能再倒霉点吗?!\N{\rENG}What?!This is just perfect!
-Dialogue: 100,0:05:12.83,0:05:14.50,Normal Dialog Text,,0,0,0,,{\rCHS}别担心--我能修复你的宝石!\N{\rENG}Don't worry --I can fix your gem!
-Dialogue: 100,0:05:14.50,0:05:20.64,Normal Dialog Text,,0,0,0,,{\rCHS}我才不会信你的鬼---话!\N{\rENG}I'm not falling for any of your tricks!
-Dialogue: 100,0:05:27.51,0:05:29.85,Normal Dialog Text,,0,0,0,,{\rCHS}我是认真的--我能帮你\N{\rENG}I'm serious -- I can help.
-Dialogue: 100,0:05:29.85,0:05:31.12,Normal Dialog Text,,0,0,0,,{\rCHS}好吧\N{\rENG}Fine.
-Dialogue: 100,0:05:31.12,0:05:33.95,Normal Dialog Text,,0,0,0,,{\rCHS}死马当活马医好了\N{\rENG}I guess I got nothing else to lose.
-Dialogue: 100,0:05:35.42,0:05:37.79,Normal Dialog Text,,0,0,0,,{\rCHS}谢谢\N{\rENG}Thank you.
-Dialogue: 100,0:05:45.50,0:05:46.40,Normal Dialog Text,,0,0,0,,{\rCHS}欸?!\N{\rENG}Eh?!
-Dialogue: 100,0:05:46.40,0:05:48.57,Normal Dialog Text,,0,0,0,,{\rCHS}你这是要干啥?!\N{\rENG}What was that supposed to be?!
+Dialogue: 100,0:04:04.10,0:04:07.83,Normal Dialog Text,,0,0,0,,{\rCHS}呃 爱宝?\N{\rENG}Uh, Eyeball? 
+Dialogue: 100,0:04:07.83,0:04:08.83,Normal Dialog Text,,0,0,0,,{\rCHS}爱宝?!\N{\rENG}Eyeball?! 
+Dialogue: 100,0:04:08.84,0:04:10.47,Normal Dialog Text,,0,0,0,,{\rCHS}那不是我弄的...\N{\rENG}That's not my--
+Dialogue: 100,0:04:11.57,0:04:13.00,Normal Dialog Text,,0,0,0,,{\rCHS}简直不能再棒!\N{\rENG}Oh, great! 
+Dialogue: 100,0:04:13.01,0:04:14.31,Normal Dialog Text,,0,0,0,,{\rCHS}小行星袭来!\N{\rENG}Asteroids incoming! 
+Dialogue: 100,0:04:14.31,0:04:15.41,Normal Dialog Text,,0,0,0,,{\rCHS}士兵 各找掩护!\N{\rENG}Find cover, soldier! 
+Dialogue: 100,0:04:15.41,0:04:18.28,Normal Dialog Text,,0,0,0,,{\rCHS}我已经有掩护了 你倒是找地方躲啊!\N{\rENG}I am in cover, you get somewhere safe! 
+Dialogue: 100,0:04:20.18,0:04:21.15,Normal Dialog Text,,0,0,0,,{\rCHS}哇!\N{\rENG}Wow! 
+Dialogue: 100,0:04:21.15,0:04:22.71,Normal Dialog Text,,0,0,0,,{\rCHS}感觉筋骨没年轻时灵活了\N{\rENG}I think I'm losing my luster. 
+Dialogue: 100,0:04:29.12,0:04:31.42,Normal Dialog Text,,0,0,0,,{\rCHS}我们要撞上那块大的了!\N{\rENG}We're heading right for that big one! 
+Dialogue: 100,0:04:31.42,0:04:33.12,Normal Dialog Text,,0,0,0,,{\rCHS}不!\N{\rENG}No! 
+Dialogue: 100,0:04:33.13,0:04:34.46,Normal Dialog Text,,0,0,0,,{\rCHS}哦?\N{\rENG}Oh? 
+Dialogue: 100,0:04:34.46,0:04:36.90,Normal Dialog Text,,0,0,0,,{\rCHS}哦\N{\rENG}Oh. 
+Dialogue: 100,0:04:36.90,0:04:39.16,Normal Dialog Text,,0,0,0,,{\rCHS}我还活着\N{\rENG}I'm alive. 
+Dialogue: 100,0:04:39.17,0:04:40.77,Normal Dialog Text,,0,0,0,,{\rCHS}我们做到啦!\N{\rENG}We made it! 
+Dialogue: 100,0:04:42.80,0:04:44.97,Normal Dialog Text,,0,0,0,,{\rCHS}我是无敌的!\N{\rENG}I'm unstoppable! 
+Dialogue: 100,0:04:46.41,0:04:47.81,Normal Dialog Text,,0,0,0,,{\rCHS}爱宝!\N{\rENG}Eyeball! 
+Dialogue: 100,0:04:47.81,0:04:51.41,Normal Dialog Text,,0,0,0,,{\rCHS}哦 不 不!\N{\rENG}Oh, no! No! 
+Dialogue: 100,0:04:51.41,0:04:55.28,Normal Dialog Text,,0,0,0,,{\rCHS}我抓到你了\N{\rENG}I've got you. 
+Dialogue: 100,0:04:57.55,0:05:00.72,Normal Dialog Text,,0,0,0,,{\rCHS}哦天了! 你还好吗?\N{\rENG}Oh, geez! You okay? 
+Dialogue: 100,0:05:01.72,0:05:02.75,Normal Dialog Text,,0,0,0,,{\rCHS}起开!\N{\rENG}Get off me! 
+Dialogue: 100,0:05:02.76,0:05:04.89,Normal Dialog Text,,0,0,0,,{\rCHS}哇 你怎么了?\N{\rENG}Whoa! What's wrong? 
+Dialogue: 100,0:05:07.09,0:05:09.86,Normal Dialog Text,,0,0,0,,{\rCHS}哎呀呀! 你的宝石开裂了!\N{\rENG}Ay-yi-yi! Your gem is cracked! 
+Dialogue: 100,0:05:09.86,0:05:12.83,Normal Dialog Text,,0,0,0,,{\rCHS}啥? 还能再倒霉点吗?!\N{\rENG}What?! This is just perfect! 
+Dialogue: 100,0:05:12.83,0:05:14.50,Normal Dialog Text,,0,0,0,,{\rCHS}别担心--我能修复你的宝石!\N{\rENG}Don't worry--I can fix your gem! 
+Dialogue: 100,0:05:14.50,0:05:20.64,Normal Dialog Text,,0,0,0,,{\rCHS}我才不会信你的鬼---话!\N{\rENG}I'm not falling for any of your tricks! 
+Dialogue: 100,0:05:27.51,0:05:29.85,Normal Dialog Text,,0,0,0,,{\rCHS}我是认真的--我能帮你\N{\rENG}I'm serious--I can help. 
+Dialogue: 100,0:05:29.85,0:05:31.12,Normal Dialog Text,,0,0,0,,{\rCHS}好吧\N{\rENG}Fine. 
+Dialogue: 100,0:05:31.12,0:05:33.95,Normal Dialog Text,,0,0,0,,{\rCHS}死马当活马医好了\N{\rENG}I guess I got nothing else to lose. 
+Dialogue: 100,0:05:35.42,0:05:37.79,Normal Dialog Text,,0,0,0,,{\rCHS}谢谢\N{\rENG}Thank you. 
+Dialogue: 100,0:05:45.50,0:05:46.40,Normal Dialog Text,,0,0,0,,{\rCHS}欸?!\N{\rENG}Eh?! 
+Dialogue: 100,0:05:46.40,0:05:48.57,Normal Dialog Text,,0,0,0,,{\rCHS}你这是要干啥?!\N{\rENG}What was that supposed to be?! 
 Dialogue: 100,0:05:48.57,0:05:51.24,Normal Dialog Text,,0,0,0,,{\rCHS}天儿了你脑袋里都在想...\N{\rENG}What in the cosmos is wrong with...
-Dialogue: 100,0:05:51.24,0:05:52.40,Normal Dialog Text,,0,0,0,,{\rCHS}什么?\N{\rENG}you?
-Dialogue: 100,0:05:55.91,0:05:57.68,Normal Dialog Text,,0,0,0,,{\rCHS}看,成功了!\N{\rENG}See? It worked!
+Dialogue: 100,0:05:51.24,0:05:52.40,Normal Dialog Text,,0,0,0,,{\rCHS}什么?\N{\rENG}you? 
+Dialogue: 100,0:05:55.91,0:05:57.68,Normal Dialog Text,,0,0,0,,{\rCHS}看 成功了!\N{\rENG}See? It worked! 
 Dialogue: 100,0:05:57.68,0:05:58.74,Normal Dialog Text,,0,0,0,,{\rCHS}我...\N{\rENG}I...
-Dialogue: 100,0:05:58.75,0:06:00.31,Normal Dialog Text,,0,0,0,,{\rCHS}我简直不敢相信!\N{\rENG}I can't believe it!
-Dialogue: 100,0:06:00.31,0:06:02.77,Normal Dialog Text,,0,0,0,,{\rCHS}过去战场上有个流言--\N{\rENG}There were rumors back during the war --
-Dialogue: 100,0:06:02.77,0:06:06.50,Normal Dialog Text,,0,0,0,,{\rCHS}流言说玫瑰石英能够治愈水晶战士们\N{\rENG}that Rose Quartz could heal her Crystal Gem soldiers,
+Dialogue: 100,0:05:58.75,0:06:00.31,Normal Dialog Text,,0,0,0,,{\rCHS}我简直不敢相信!\N{\rENG}I can't believe it! 
+Dialogue: 100,0:06:00.31,0:06:02.77,Normal Dialog Text,,0,0,0,,{\rCHS}过去战场上有个流言--\N{\rENG}There were rumors back during the war--
+Dialogue: 100,0:06:02.77,0:06:06.50,Normal Dialog Text,,0,0,0,,{\rCHS}流言说玫瑰石英能够治愈水晶战士们\N{\rENG}that Rose Quartz could heal her Crystal Gem soldiers, 
 Dialogue: 100,0:06:06.50,0:06:08.00,Normal Dialog Text,,0,0,0,,{\rCHS}把自己的小军队\N{\rENG}keeping her small army
-Dialogue: 100,0:06:08.00,0:06:11.82,Normal Dialog Text,,0,0,0,,{\rCHS}打造得能与母星的强大军事力量匹敌\N{\rENG}in contention with the superior forces of Homeworld.
-Dialogue: 100,0:06:11.82,0:06:14.49,Normal Dialog Text,,0,0,0,,{\rCHS}哇哦,真的是你!\N{\rENG}Wow!It really is you!
-Dialogue: 100,0:06:14.49,0:06:16.16,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰石英!\N{\rENG}Rose Quartz!
-Dialogue: 100,0:06:16.16,0:06:19.06,Normal Dialog Text,,0,0,0,,{\rCHS}现在信了吧?!我一直都在证明这一点!\N{\rENG}See?! That's what I was trying to tell ya!
-Dialogue: 100,0:06:21.37,0:06:24.20,Normal Dialog Text,,0,0,0,,{\rCHS}对,就是我--伟大的玫瑰石英!\N{\rENG}Yup, it's me --the mighty Rose Quartz!
-Dialogue: 100,0:06:24.20,0:06:27.14,Normal Dialog Text,,0,0,0,,{\rCHS}现在我们被困在这里\N{\rENG}And now we're stuck out here,
-Dialogue: 100,0:06:27.14,0:06:31.81,Normal Dialog Text,,0,0,0,,{\rCHS}向宇宙中漫无目的地漂流\N{\rENG}floating aimlessly through outer space!
-Dialogue: 100,0:06:31.81,0:06:33.48,Normal Dialog Text,,0,0,0,,{\rCHS}噗\N{\rENG}Pff!
-Dialogue: 100,0:06:33.48,0:06:35.98,Normal Dialog Text,,0,0,0,,{\rCHS}我们是怎么把自己搞到这般田地的?\N{\rENG}How'd we get ourselves into this mess?
-Dialogue: 100,0:06:47.36,0:06:50.26,Normal Dialog Text,,0,0,0,,{\rCHS}伟大的玫瑰石英\N{\rENG}The mighty Rose Quartz.
-Dialogue: 100,0:06:54.00,0:06:55.40,Normal Dialog Text,,0,0,0,,{\rCHS}哈?\N{\rENG}Huh?
-Dialogue: 100,0:06:55.40,0:06:57.90,Normal Dialog Text,,0,0,0,,{\rCHS}做梦都想不到我会有这种机会\N{\rENG}I never thought I'd get a chance like this.
-Dialogue: 100,0:06:57.90,0:07:00.47,Normal Dialog Text,,0,0,0,,{\rCHS}想不到你会败在我手下!\N{\rENG}I can't believe you're all mine!
-Dialogue: 100,0:07:00.47,0:07:01.44,Normal Dialog Text,,0,0,0,,{\rCHS}啥?!\N{\rENG}Wah?!
-Dialogue: 100,0:07:05.81,0:07:07.45,Normal Dialog Text,,0,0,0,,{\rCHS}你为啥要攻击我?!\N{\rENG}Why are you attacking me?!
-Dialogue: 100,0:07:07.45,0:07:11.18,Normal Dialog Text,,0,0,0,,{\rCHS}别假装惊讶了,玫瑰石英!\N{\rENG}Don't act surprised,Rose Quartz!
-Dialogue: 100,0:07:11.18,0:07:13.79,Normal Dialog Text,,0,0,0,,{\rCHS}你碎掉了一颗钻石!\N{\rENG}You shattered a Diamond!
-Dialogue: 100,0:07:13.79,0:07:17.39,Normal Dialog Text,,0,0,0,,{\rCHS}哇!\N{\rENG}Whoa!
-Dialogue: 100,0:07:21.83,0:07:23.23,Normal Dialog Text,,0,0,0,,{\rCHS}吼吼,我要抓到你啦!\N{\rENG}Ooh, I'm gonna get ya!
-Dialogue: 100,0:07:23.23,0:07:26.03,Normal Dialog Text,,0,0,0,,{\rCHS}我要拿到你的宝石带回母星!\N{\rENG}I'm gonna take your gem and bring it back!
-Dialogue: 100,0:07:26.03,0:07:28.40,Normal Dialog Text,,0,0,0,,{\rCHS}啥?!不!不要拿走我的宝石!\N{\rENG}What?! No!Please don't take my gem!
-Dialogue: 100,0:07:28.40,0:07:30.84,Normal Dialog Text,,0,0,0,,{\rCHS}等下,拿走宝石以后我会怎么样啊?\N{\rENG}Wait, what would even happen to me?
-Dialogue: 100,0:07:33.84,0:07:35.07,Normal Dialog Text,,0,0,0,,{\rCHS}-哈?-嗯?\N{\rENG}-Huh?!-Hmm?
-Dialogue: 100,0:07:37.11,0:07:38.64,Normal Dialog Text,,0,0,0,,{\rCHS}哈!\N{\rENG}Ha!
-Dialogue: 100,0:07:38.65,0:07:41.18,Normal Dialog Text,,0,0,0,,{\rCHS}等-等下!你不必这样做的!\N{\rENG}W-Wait!You don't have to do this!
-Dialogue: 100,0:07:42.45,0:07:44.25,Normal Dialog Text,,0,0,0,,{\rCHS}哦,快点认输吧!\N{\rENG}Oh, give it up already!
-Dialogue: 100,0:07:44.25,0:07:46.85,Normal Dialog Text,,0,0,0,,{\rCHS}你不会再糟蹋我这次机会了!\N{\rENG}You can't take this away from me!
-Dialogue: 100,0:07:46.85,0:07:48.92,Normal Dialog Text,,0,0,0,,{\rCHS}我将会成为一个传说!\N{\rENG}I'm gonna be a legend!
-Dialogue: 100,0:07:48.92,0:07:51.19,Normal Dialog Text,,0,0,0,,{\rCHS}我会名留青史!\N{\rENG}I'll go down in history!
+Dialogue: 100,0:06:08.00,0:06:11.82,Normal Dialog Text,,0,0,0,,{\rCHS}打造得能与母星的强大军事力量匹敌\N{\rENG}in contention with the superior forces of Homeworld. 
+Dialogue: 100,0:06:11.82,0:06:14.49,Normal Dialog Text,,0,0,0,,{\rCHS}哇哦 真的是你!\N{\rENG}Wow! It really is you! 
+Dialogue: 100,0:06:14.49,0:06:16.16,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰石英!\N{\rENG}Rose Quartz! 
+Dialogue: 100,0:06:16.16,0:06:19.06,Normal Dialog Text,,0,0,0,,{\rCHS}现在信了吧?! 我一直都在证明这一点!\N{\rENG}See?! That's what I was trying to tell ya! 
+Dialogue: 100,0:06:21.37,0:06:24.20,Normal Dialog Text,,0,0,0,,{\rCHS}对 就是我--伟大的玫瑰石英!\N{\rENG}Yup, it's me--the mighty Rose Quartz! 
+Dialogue: 100,0:06:24.20,0:06:27.14,Normal Dialog Text,,0,0,0,,{\rCHS}现在我们被困在这里\N{\rENG}And now we're stuck out here, 
+Dialogue: 100,0:06:27.14,0:06:31.81,Normal Dialog Text,,0,0,0,,{\rCHS}向宇宙中漫无目的地漂流\N{\rENG}floating aimlessly through outer space! 
+Dialogue: 100,0:06:31.81,0:06:33.48,Normal Dialog Text,,0,0,0,,{\rCHS}噗\N{\rENG}Pff! 
+Dialogue: 100,0:06:33.48,0:06:35.98,Normal Dialog Text,,0,0,0,,{\rCHS}我们是怎么把自己搞到这般田地的?\N{\rENG}How'd we get ourselves into this mess? 
+Dialogue: 100,0:06:47.36,0:06:50.26,Normal Dialog Text,,0,0,0,,{\rCHS}伟大的玫瑰石英\N{\rENG}The mighty Rose Quartz. 
+Dialogue: 100,0:06:54.00,0:06:55.40,Normal Dialog Text,,0,0,0,,{\rCHS}哈?\N{\rENG}Huh? 
+Dialogue: 100,0:06:55.40,0:06:57.90,Normal Dialog Text,,0,0,0,,{\rCHS}做梦都想不到我会有这种机会\N{\rENG}I never thought I'd get a chance like this. 
+Dialogue: 100,0:06:57.90,0:07:00.47,Normal Dialog Text,,0,0,0,,{\rCHS}想不到你会败在我手下!\N{\rENG}I can't believe you're all mine! 
+Dialogue: 100,0:07:00.47,0:07:01.44,Normal Dialog Text,,0,0,0,,{\rCHS}啥?!\N{\rENG}Wah?! 
+Dialogue: 100,0:07:05.81,0:07:07.45,Normal Dialog Text,,0,0,0,,{\rCHS}你为啥要攻击我?!\N{\rENG}Why are you attacking me?! 
+Dialogue: 100,0:07:07.45,0:07:11.18,Normal Dialog Text,,0,0,0,,{\rCHS}别假装惊讶了 玫瑰石英!\N{\rENG}Don't act surprised, Rose Quartz! 
+Dialogue: 100,0:07:11.18,0:07:13.79,Normal Dialog Text,,0,0,0,,{\rCHS}你碎掉了一颗钻石!\N{\rENG}You shattered a Diamond! 
+Dialogue: 100,0:07:13.79,0:07:17.39,Normal Dialog Text,,0,0,0,,{\rCHS}哇!\N{\rENG}Whoa! 
+Dialogue: 100,0:07:21.83,0:07:23.23,Normal Dialog Text,,0,0,0,,{\rCHS}吼吼 我要抓到你啦!\N{\rENG}Ooh, I'm gonna get ya! 
+Dialogue: 100,0:07:23.23,0:07:26.03,Normal Dialog Text,,0,0,0,,{\rCHS}我要拿到你的宝石带回母星!\N{\rENG}I'm gonna take your gem and bring it back! 
+Dialogue: 100,0:07:26.03,0:07:28.40,Normal Dialog Text,,0,0,0,,{\rCHS}啥?! 不! 不要拿走我的宝石!\N{\rENG}What?! No! Please don't take my gem! 
+Dialogue: 100,0:07:28.40,0:07:30.84,Normal Dialog Text,,0,0,0,,{\rCHS}等下 拿走宝石以后我会怎么样啊?\N{\rENG}Wait, what would even happen to me? 
+Dialogue: 100,0:07:33.84,0:07:35.07,Normal Dialog Text,,0,0,0,,{\rCHS}-哈?-嗯?\N{\rENG}-Huh?!-Hmm? 
+Dialogue: 100,0:07:37.11,0:07:38.64,Normal Dialog Text,,0,0,0,,{\rCHS}哈!\N{\rENG}Ha! 
+Dialogue: 100,0:07:38.65,0:07:41.18,Normal Dialog Text,,0,0,0,,{\rCHS}等-等下! 你不必这样做的!\N{\rENG}W-Wait! You don't have to do this! 
+Dialogue: 100,0:07:42.45,0:07:44.25,Normal Dialog Text,,0,0,0,,{\rCHS}哦 快点认输吧!\N{\rENG}Oh, give it up already! 
+Dialogue: 100,0:07:44.25,0:07:46.85,Normal Dialog Text,,0,0,0,,{\rCHS}你不会再糟蹋我这次机会了!\N{\rENG}You can't take this away from me! 
+Dialogue: 100,0:07:46.85,0:07:48.92,Normal Dialog Text,,0,0,0,,{\rCHS}我将会成为一个传说!\N{\rENG}I'm gonna be a legend! 
+Dialogue: 100,0:07:48.92,0:07:51.19,Normal Dialog Text,,0,0,0,,{\rCHS}我会名留青史!\N{\rENG}I'll go down in history! 
 Dialogue: 100,0:07:51.19,0:07:52.92,Normal Dialog Text,,0,0,0,,{\rCHS}我红宝石打败玫瑰石英\N{\rENG}What will the Diamonds say when they hear
-Dialogue: 100,0:07:52.93,0:07:56.59,Normal Dialog Text,,0,0,0,,{\rCHS}听了这之后钻石她们会怎么想呢?\N{\rENG}that a Ruby defeated Rose Quartz?
-Dialogue: 100,0:07:56.60,0:07:59.56,Normal Dialog Text,,0,0,0,,{\rCHS}她们会奖励给我一个专属的珍珠!\N{\rENG}They're gonna give me my own pearl!
-Dialogue: 100,0:08:01.90,0:08:02.97,Normal Dialog Text,,0,0,0,,{\rCHS}啥?\N{\rENG}Wah?!
-Dialogue: 100,0:08:02.97,0:08:04.94,Normal Dialog Text,,0,0,0,,{\rCHS}等下!听我说!\N{\rENG}Wait! Please listen!
-Dialogue: 100,0:08:04.94,0:08:06.90,Normal Dialog Text,,0,0,0,,{\rCHS}我真的不是我妈妈!\N{\rENG}I'm really not my mom!
-Dialogue: 100,0:08:06.91,0:08:08.64,Normal Dialog Text,,0,0,0,,{\rCHS}我不想伤害你!\N{\rENG}I don't want to hurt you!
-Dialogue: 100,0:08:08.64,0:08:10.64,Normal Dialog Text,,0,0,0,,{\rCHS}你-你要三思啊\N{\rENG}Just --Just think for a second.
-Dialogue: 100,0:08:10.64,0:08:11.88,Normal Dialog Text,,0,0,0,,{\rCHS}我们已经迷失在太空了\N{\rENG}We're lost out in space.
-Dialogue: 100,0:08:11.88,0:08:15.11,Normal Dialog Text,,0,0,0,,{\rCHS}你打算怎么自己回母星?\N{\rENG}How are you going to get back to Homeworld alone?
-Dialogue: 100,0:08:15.11,0:08:18.45,Normal Dialog Text,,0,0,0,,{\rCHS}我已经拿定主意了\N{\rENG}I've already made up my mind.
-Dialogue: 100,0:08:20.79,0:08:23.66,Normal Dialog Text,,0,0,0,,{\rCHS}哇\N{\rENG}Whoa!
+Dialogue: 100,0:07:52.93,0:07:56.59,Normal Dialog Text,,0,0,0,,{\rCHS}听了这之后钻石她们会怎么想呢?\N{\rENG}that a Ruby defeated Rose Quartz? 
+Dialogue: 100,0:07:56.60,0:07:59.56,Normal Dialog Text,,0,0,0,,{\rCHS}她们会奖励给我一个专属的珍珠!\N{\rENG}They're gonna give me my own pearl! 
+Dialogue: 100,0:08:01.90,0:08:02.97,Normal Dialog Text,,0,0,0,,{\rCHS}啥?\N{\rENG}Wah?! 
+Dialogue: 100,0:08:02.97,0:08:04.94,Normal Dialog Text,,0,0,0,,{\rCHS}等下! 听我说!\N{\rENG}Wait! Please listen! 
+Dialogue: 100,0:08:04.94,0:08:06.90,Normal Dialog Text,,0,0,0,,{\rCHS}我真的不是我妈妈!\N{\rENG}I'm really not my mom! 
+Dialogue: 100,0:08:06.91,0:08:08.64,Normal Dialog Text,,0,0,0,,{\rCHS}我不想伤害你!\N{\rENG}I don't want to hurt you! 
+Dialogue: 100,0:08:08.64,0:08:10.64,Normal Dialog Text,,0,0,0,,{\rCHS}你-你要三思啊\N{\rENG}Just--Just think for a second. 
+Dialogue: 100,0:08:10.64,0:08:11.88,Normal Dialog Text,,0,0,0,,{\rCHS}我们已经迷失在太空了\N{\rENG}We're lost out in space. 
+Dialogue: 100,0:08:11.88,0:08:15.11,Normal Dialog Text,,0,0,0,,{\rCHS}你打算怎么自己回母星?\N{\rENG}How are you going to get back to Homeworld alone? 
+Dialogue: 100,0:08:15.11,0:08:18.45,Normal Dialog Text,,0,0,0,,{\rCHS}我已经拿定主意了\N{\rENG}I've already made up my mind. 
+Dialogue: 100,0:08:20.79,0:08:23.66,Normal Dialog Text,,0,0,0,,{\rCHS}哇\N{\rENG}Whoa! 
 Dialogue: 600,0:08:43.41,0:08:48.41,Hint,,0,0,0,,这里史蒂文的动作类似"新世纪福音战士"中碇真嗣被独自密封在Entry Plug时的动作
 Dialogue: 150,0:09:22.08,0:09:25.19,Background Dialogue,,0,0,0,,{\rCHS_LYC}若我能开始改变\N{\rENG_LYC}If I could begin to be
 Dialogue: 150,0:09:25.19,0:09:28.03,Background Dialogue,,0,0,0,,{\rCHS_LYC}到你期望的一半\N{\rENG_LYC}Half of what you think of me
@@ -223,34 +222,35 @@ Dialogue: 150,0:09:30.28,0:09:33.83,Background Dialogue,,0,0,0,,{\rCHS_LYC}我�
 Dialogue: 150,0:09:34.30,0:09:37.45,Background Dialogue,,0,0,0,,{\rCHS_LYC}我看到你的举止\N{\rENG_LYC}When I see the way you act
 Dialogue: 150,0:09:37.45,0:09:40.19,Background Dialogue,,0,0,0,,{\rCHS_LYC}期盼着我的归来\N{\rENG_LYC}Wondering when I'm coming back
 Dialogue: 150,0:09:40.19,0:09:42.34,Background Dialogue,,0,0,0,,{\rCHS_LYC}我愿付出我的一切\N{\rENG_LYC}I could do about anything
-Dialogue: 150,0:09:42.34,0:09:47.36,Background Dialogue,,0,0,0,,{\rCHS_LYC}我甚至能学着去爱,如你\N{\rENG_LYC}I could even learn how to love like you
-Dialogue: 150,0:09:57.16,0:09:59.59,Background Dialogue,,0,0,0,,{\rCHS_LYC}爱,如你\N{\rENG_LYC}Love like you
+Dialogue: 150,0:09:42.34,0:09:47.36,Background Dialogue,,0,0,0,,{\rCHS_LYC}我甚至能学着去爱 如你\N{\rENG_LYC}I could even learn how to love like you
+Dialogue: 150,0:09:57.16,0:09:59.59,Background Dialogue,,0,0,0,,{\rCHS_LYC}爱 如你\N{\rENG_LYC}Love like you
 Dialogue: 150,0:10:09.79,0:10:12.76,Background Dialogue,,0,0,0,,{\rCHS_LYC}我总认为我非常卑微\N{\rENG_LYC}I always thought I might be bad
 Dialogue: 150,0:10:12.76,0:10:15.41,Background Dialogue,,0,0,0,,{\rCHS_LYC}现在深信不疑\N{\rENG_LYC}Now I'm sure that it's true
 Dialogue: 150,0:10:15.83,0:10:18.85,Background Dialogue,,0,0,0,,{\rCHS_LYC}因你如此完美\N{\rENG_LYC}'cause I think you're so good
 Dialogue: 150,0:10:19.32,0:10:21.83,Background Dialogue,,0,0,0,,{\rCHS_LYC}而我一点不如\N{\rENG_LYC}And I'm nothing like you
-Dialogue: 150,0:10:21.83,0:10:25.45,Background Dialogue,,0,0,0,,{\rCHS_LYC}你的举止,我都很欣赏\N{\rENG_LYC}Look at you go, I just adore you
+Dialogue: 150,0:10:21.83,0:10:25.45,Background Dialogue,,0,0,0,,{\rCHS_LYC}你的举止 我都很欣赏\N{\rENG_LYC}Look at you go, I just adore you
 Dialogue: 150,0:10:25.45,0:10:28.34,Background Dialogue,,0,0,0,,{\rCHS_LYC}我希望知道\N{\rENG_LYC}I wish that I knew
 Dialogue: 150,0:10:28.34,0:10:34.21,Background Dialogue,,0,0,0,,{\rCHS_LYC}为什么认为我特殊\N{\rENG_LYC}What makes you think I'm so special
 Dialogue: 600,0:09:22.35,0:09:24.35,Hint,,0,0,0,,{\an2}这一段的设置与新世纪福音战士的结局相似
-Dialogue: 100,0:09:56.38,0:09:59.52,Normal Dialog Text,,0,0,0,,{\rCHS}为什么没有人跟我讲过粉钻的事情?\N{\rENG}How come nobody told me about Pink Diamond?
-Dialogue: 100,0:10:00.35,0:10:02.75,Normal Dialog Text,,0,0,0,,{\rCHS}战争期间我们做了很多不得已的事\N{\rENG}We all did what we had to during the war.
-Dialogue: 100,0:10:02.76,0:10:04.52,Normal Dialog Text,,0,0,0,,{\rCHS}但是现在一切都已经变了\N{\rENG}Everything's different now.
-Dialogue: 100,0:10:04.52,0:10:06.26,Normal Dialog Text,,0,0,0,,{\rCHS}但是妈妈真的那么做了吗?\N{\rENG}But did mom really do it?
-Dialogue: 100,0:10:06.26,0:10:09.29,Normal Dialog Text,,0,0,0,,{\rCHS}她真的粉碎了粉钻吗?\N{\rENG}Did she really shatter her?
-Dialogue: 100,0:10:09.30,0:10:10.43,Normal Dialog Text,,0,0,0,,{\rCHS}她也不得已\N{\rENG}She had to.
-Dialogue: 100,0:10:10.43,0:10:12.57,Normal Dialog Text,,0,0,0,,{\rCHS}地球以前是粉钻的\N{\rENG}The Earth belonged to Pink Diamond.
-Dialogue: 100,0:10:12.57,0:10:15.50,Normal Dialog Text,,0,0,0,,{\rCHS}摧毁粉钻是拯救地球的唯一出路\N{\rENG}Destroying her was the only way to save the planet.
-Dialogue: 100,0:10:15.50,0:10:18.77,Normal Dialog Text,,0,0,0,,{\rCHS}为了紫晶能选择自己命运,为了珍珠能不受束缚\N{\rENG}For Amethyst to be herself,for Pearl to be free,
-Dialogue: 100,0:10:18.77,0:10:20.48,Normal Dialog Text,,0,0,0,,{\rCHS}为了我能在一起\N{\rENG}for me to be together.
-Dialogue: 100,0:10:21.07,0:10:23.91,Normal Dialog Text,,0,0,0,,{\rCHS}为了你能存在\N{\rENG}For you to exist.
+Dialogue: 100,0:09:56.38,0:09:59.52,Normal Dialog Text,,0,0,0,,{\rCHS}为什么没有人跟我讲过粉钻的事情?\N{\rENG}How come nobody told me about Pink Diamond? 
+Dialogue: 100,0:10:00.35,0:10:02.75,Normal Dialog Text,,0,0,0,,{\rCHS}战争期间我们做了很多不得已的事\N{\rENG}We all did what we had to during the war. 
+Dialogue: 100,0:10:02.76,0:10:04.52,Normal Dialog Text,,0,0,0,,{\rCHS}但是现在一切都已经变了\N{\rENG}Everything's different now. 
+Dialogue: 100,0:10:04.52,0:10:06.26,Normal Dialog Text,,0,0,0,,{\rCHS}但是妈妈真的那么做了吗?\N{\rENG}But did mom really do it? 
+Dialogue: 100,0:10:06.26,0:10:09.29,Normal Dialog Text,,0,0,0,,{\rCHS}她真的粉碎了粉钻吗?\N{\rENG}Did she really shatter her? 
+Dialogue: 100,0:10:09.30,0:10:10.43,Normal Dialog Text,,0,0,0,,{\rCHS}她也不得已\N{\rENG}She had to. 
+Dialogue: 100,0:10:10.43,0:10:12.57,Normal Dialog Text,,0,0,0,,{\rCHS}地球以前是粉钻的\N{\rENG}The Earth belonged to Pink Diamond. 
+Dialogue: 100,0:10:12.57,0:10:15.50,Normal Dialog Text,,0,0,0,,{\rCHS}摧毁粉钻是拯救地球的唯一出路\N{\rENG}Destroying her was the only way to save the planet. 
+Dialogue: 100,0:10:15.50,0:10:18.77,Normal Dialog Text,,0,0,0,,{\rCHS}为了紫晶能选择自己命运 为了珍珠能不受束缚\N{\rENG}For Amethyst to be herself, for Pearl to be free, 
+Dialogue: 100,0:10:18.77,0:10:20.48,Normal Dialog Text,,0,0,0,,{\rCHS}为了我能在一起\N{\rENG}for me to be together. 
+Dialogue: 100,0:10:21.07,0:10:23.91,Normal Dialog Text,,0,0,0,,{\rCHS}为了你能存在\N{\rENG}For you to exist. 
 Dialogue: 100,0:10:23.91,0:10:25.14,Normal Dialog Text,,0,0,0,,{\rCHS}但是我以为...\N{\rENG}But I thought...
 Dialogue: 100,0:10:25.14,0:10:26.51,Normal Dialog Text,,0,0,0,,{\rCHS}至少她绝对不会...\N{\rENG}a-at least she'd never...
-Dialogue: 100,0:10:26.51,0:10:30.11,Normal Dialog Text,,0,0,0,,{\rCHS}她的选择并不只为了她自己的利益\N{\rENG}She didn't always do what was best for her.
-Dialogue: 100,0:10:30.12,0:10:33.05,Normal Dialog Text,,0,0,0,,{\rCHS}她做的一切都是为了地球\N{\rENG}But she always did what was best for Earth.
-Dialogue: 100,0:10:33.05,0:10:37.05,Normal Dialog Text,,0,0,0,,{\rCHS}甚至不惜粉碎一个宝石\N{\rENG}Even if it meant shattering someone.
-Dialogue: 100,0:10:37.06,0:10:38.69,Normal Dialog Text,,0,0,0,,{\rCHS}是的\N{\rENG}Yes.
-Dialogue: 100,0:10:43.53,0:10:45.10,Normal Dialog Text,,0,0,0,,{\rCHS}谢谢你们能告诉我\N{\rENG}Thanks for telling me.
-Dialogue: 600,0:10:48.50,0:10:51.55,Hint,,0,0,0,,整集的设定类似"金银岛"--两者都是主角与反派被困在一起，而反派试图杀死主教
+Dialogue: 100,0:10:26.51,0:10:30.11,Normal Dialog Text,,0,0,0,,{\rCHS}她的选择并不只为了她自己的利益\N{\rENG}She didn't always do what was best for her. 
+Dialogue: 100,0:10:30.12,0:10:33.05,Normal Dialog Text,,0,0,0,,{\rCHS}她做的一切都是为了地球\N{\rENG}But she always did what was best for Earth. 
+Dialogue: 100,0:10:33.05,0:10:37.05,Normal Dialog Text,,0,0,0,,{\rCHS}甚至不惜粉碎一个宝石\N{\rENG}Even if it meant shattering someone. 
+Dialogue: 100,0:10:37.06,0:10:38.69,Normal Dialog Text,,0,0,0,,{\rCHS}是的\N{\rENG}Yes. 
+Dialogue: 100,0:10:43.53,0:10:45.10,Normal Dialog Text,,0,0,0,,{\rCHS}谢谢你们能告诉我\N{\rENG}Thanks for telling me. 
+Dialogue: 600,0:10:48.50,0:10:51.55,Hint,,0,0,0,,整集的设定类似"金银岛"--两者都是主角与反派被困在一起 而反派试图杀死主教
 Dialogue: 600,0:10:48.50,0:10:51.55,Hint,,0,0,0,,片头的镜头设计应该是借鉴了电影"地心引力"
-Dialogue: 150,0:10:49.00,0:10:51.76,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}爱我,如你\N{\rENG_LYC}Love me like you
+Dialogue: 150,0:10:49.00,0:10:51.76,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}爱我 如你\N{\rENG_LYC}Love me like you
+
