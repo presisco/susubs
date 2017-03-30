@@ -58,7 +58,7 @@ Dialogue: 0,0:00:01.50,0:00:03.00,SU Team Background,,0,0,0,,{\bord0\xshad-0\ysh
 Dialogue: 100,0:00:04.16,0:00:05.46,Normal Dialog Text,,0,0,0,,{\rCHS}你闭眼了! \N{\rENG}You blinked!
 Dialogue: 100,0:00:05.46,0:00:06.82,Normal Dialog Text,,0,0,0,,{\rCHS}我们再拍一张吧\N{\rENG}Let's just take another one.
 Dialogue: 100,0:00:06.82,0:00:07.72,Normal Dialog Text,,0,0,0,,{\rCHS}哦, 等下\N{\rENG}Oh, wait.
-Dialogue: 100,0:00:07.72,0:00:10.74,Normal Dialog Text,,0,0,0,,{\rCHS}如果我们用一个漂亮的背景合影呢? \N{\rENG}What if we get a shot with the beautiful view behind us?
+Dialogue: 100,0:00:07.72,0:00:10.74,Normal Dialog Text,,0,0,0,,{\rCHS}用一个漂亮的背景合影如何? \N{\rENG}What if we get a shot with the beautiful view behind us?
 Dialogue: 100,0:00:11.82,0:00:12.94,Normal Dialog Text,,0,0,0,,{\rCHS}快点, 史蒂文! \N{\rENG}Come on, Steven!
 Dialogue: 100,0:00:14.66,0:00:15.74,Normal Dialog Text,,0,0,0,,{\rCHS}说 "奶酪" \N{\rENG}Say "cheese."
 Dialogue: 100,0:00:15.74,0:00:17.58,Normal Dialog Text,,0,0,0,,{\rCHS}奶酪! \N{\rENG}Cheese!
@@ -78,18 +78,18 @@ Dialogue: 100,0:00:40.54,0:00:42.50,Normal Dialog Text,,0,0,0,,{\rCHS}逛逛大�
 Dialogue: 100,0:00:43.36,0:00:44.54,Normal Dialog Text,,0,0,0,,{\rCHS}呃, 是哪? \N{\rENG}Uh, where's that?
 Dialogue: 100,0:00:44.56,0:00:46.46,Normal Dialog Text,,0,0,0,,{\rCHS}就是个小地方, 叫...\N{\rENG}Just a little place called...
 Dialogue: 100,0:00:46.46,0:00:48.84,Normal Dialog Text,,0,0,0,,{\rCHS}堪堪堪萨斯\N{\rENG}Kannnnsas.
-Dialogue: 100,0:00:48.84,0:00:51.58,Normal Dialog Text,,0,0,0,,{\rCHS}噢! 那你是个悲剧演员吗? \N{\rENG}Oh! Are you an aspiring thespian?
-Dialogue: 100,0:00:51.90,0:00:53.64,Normal Dialog Text,,0,0,0,,{\rCHS}为什么? 呃没错, 我就是\N{\rENG}Why, a-yes, I am.
-Dialogue: 100,0:00:53.64,0:00:56.32,Normal Dialog Text,,0,0,0,,{\rCHS}喔, 我还不知道你想当个演员啊\N{\rENG}Wow. I didn't know you wanted to be an actor.
+Dialogue: 100,0:00:48.84,0:00:51.58,Normal Dialog Text,,0,0,0,,{\rCHS}噢! 你是想当演员吗? \N{\rENG}Oh! Are you an aspiring thespian?
+Dialogue: 100,0:00:51.90,0:00:53.64,Normal Dialog Text,,0,0,0,,{\rCHS}当然 是 的\N{\rENG}Why, a-yes, I am.
+Dialogue: 100,0:00:53.64,0:00:56.32,Normal Dialog Text,,0,0,0,,{\rCHS}喔, 我还不知道你想当演员啊\N{\rENG}Wow. I didn't know you wanted to be an actor.
 Dialogue: 100,0:00:56.76,0:00:57.78,Normal Dialog Text,,0,0,0,,{\rCHS}那是因为...\N{\rENG}That's because...
 Dialogue: 100,0:00:58.54,0:01:00.22,Normal Dialog Text,,0,0,0,,{\rCHS}我擅长表演\N{\rENG}I'm very good at acting.
-Dialogue: 100,0:01:02.34,0:01:04.42,Normal Dialog Text,,0,0,0,,{\rCHS}那是你戴写着 "电影明星" \N{\rENG}Is that why you're wearing those cool glasses
-Dialogue: 100,0:01:04.42,0:01:05.62,Normal Dialog Text,,0,0,0,,{\rCHS}的炫酷眼睛的原因? \N{\rENG}that say "movie star"?
+Dialogue: 100,0:01:02.34,0:01:04.42,Normal Dialog Text,,0,0,0,,{\rCHS}这就是是你戴写着 "电影明星" \N{\rENG}Is that why you're wearing those cool glasses
+Dialogue: 100,0:01:04.42,0:01:05.62,Normal Dialog Text,,0,0,0,,{\rCHS}的炫酷眼镜的原因? \N{\rENG}that say "movie star"?
 Dialogue: 100,0:01:05.70,0:01:07.90,Normal Dialog Text,,0,0,0,,{\rCHS}呃...其实...不是\N{\rENG}Uh...Well...No.
-Dialogue: 100,0:01:07.90,0:01:09.80,Normal Dialog Text,,0,0,0,,{\rCHS}这只是从纪念品店买的而已\N{\rENG}I just bought these at a souvenir shop.
+Dialogue: 100,0:01:07.90,0:01:09.80,Normal Dialog Text,,0,0,0,,{\rCHS}这只是从纪念品店买的\N{\rENG}I just bought these at a souvenir shop.
 Dialogue: 100,0:01:09.80,0:01:11.70,Normal Dialog Text,,0,0,0,,{\rCHS}我怀念当个平凡邮递员的日子, \N{\rENG}I missed being a regular old mailman,
 Dialogue: 100,0:01:11.70,0:01:12.88,Normal Dialog Text,,0,0,0,,{\rCHS}所以我回来了\N{\rENG}so I just came back.
-Dialogue: 100,0:01:13.36,0:01:15.94,Normal Dialog Text,,0,0,0,,{\rCHS}而且, 呃, 我走的这段时间你有很多邮件待送\N{\rENG}And, uh, you got a lot of mail while I was gone.
+Dialogue: 100,0:01:13.36,0:01:15.94,Normal Dialog Text,,0,0,0,,{\rCHS}而且, 呃, 我走的这段时间你有收到很多邮件\N{\rENG}And, uh, you got a lot of mail while I was gone.
 Dialogue: 100,0:01:16.44,0:01:19.02,Normal Dialog Text,,0,0,0,,{\rCHS}看来邮政服务一直很懈怠啊\N{\rENG}Looks like the postal service has been slacking off.
 Dialogue: 100,0:01:19.52,0:01:21.60,Normal Dialog Text,,0,0,0,,{\rCHS}杰米是唯一一个知道我住哪的邮递员\N{\rENG}Jamie's the only mailman that knows where I live.
 Dialogue: 100,0:01:22.10,0:01:24.38,Normal Dialog Text,,0,0,0,,{\rCHS}我还需要很多的签收\N{\rENG}I'm gonna need a lot of signatures, as well.
@@ -105,15 +105,14 @@ Dialogue: 100,0:01:43.28,0:01:45.16,Normal Dialog Text,,0,0,0,,{\rCHS}我刚才�
 Dialogue: 100,0:01:45.16,0:01:47.26,Normal Dialog Text,,0,0,0,,{\rCHS}寻找青金石和铁石英的踪迹\N{\rENG}checking for signs of Lapis and Jasper.
 Dialogue: 100,0:01:47.26,0:01:48.08,Normal Dialog Text,,0,0,0,,{\rCHS}怎么样? \N{\rENG}Any luck?
 Dialogue: 100,0:01:48.08,0:01:49.05,Normal Dialog Text,,0,0,0,,{\rCHS}没有\N{\rENG}Nope.
-Dialogue: 100,0:01:50.62,0:01:53.19,Normal Dialog Text,,0,0,0,,{\rCHS}你是如何在海底潜游的? \N{\rENG}How were you able to swim to the bottom of the ocean?
-Dialogue: 100,0:01:53.62,0:01:54.74,Normal Dialog Text,,0,0,0,,{\rCHS}这很简单\N{\rENG}It was easy.
-Dialogue: 100,0:01:55.22,0:01:57.64,Normal Dialog Text,,0,0,0,,{\rCHS}我是个擅长游泳的人\N{\rENG}I'm a really good swimmer.
+Dialogue: 100,0:01:50.62,0:01:53.19,Normal Dialog Text,,0,0,0,,{\rCHS}你怎么可能游到海底? \N{\rENG}How were you able to swim to the bottom of the ocean?
+Dialogue: 100,0:01:53.62,0:01:54.74,Normal Dialog Text,,0,0,0,,{\rCHS}很简单\N{\rENG}It was easy.
+Dialogue: 100,0:01:55.22,0:01:57.64,Normal Dialog Text,,0,0,0,,{\rCHS}我擅长游泳\N{\rENG}I'm a really good swimmer.
 Dialogue: 100,0:01:59.60,0:02:00.70,Normal Dialog Text,,0,0,0,,{\rCHS}打扰一下\N{\rENG}Excuse me.
 Dialogue: 600,0:02:00.70,0:02:03.20,Hint,,0,0,0,,石榴去除体表水分的动作源自 "歪小子斯科特" 
 Dialogue: 100,0:02:05.66,0:02:06.64,Normal Dialog Text,,0,0,0,,{\rCHS}呃, 史蒂文\N{\rENG}Uh, Steven,
 Dialogue: 100,0:02:07.32,0:02:10.16,Normal Dialog Text,,0,0,0,,{\rCHS}为什么你会收到那么多盒海人? \N{\rENG}why did you receive so many boxes of sea pals?
-Dialogue: 600,0:02:06.70,0:02:08.48,Hint,,0,0,0,,Sea Pals类似1950年的儿童玩具"Sea Monkeys"和 "南方公园" 里卡特曼买过的鱼缸生物
-Dialogue: 100,0:02:10.46,0:02:12.95,Normal Dialog Text,,0,0,0,,{\rCHS}呃, 我一开始只买了一盒, 但一直没收到\N{\rENG}Uh, I ordered one at first, but it never showed up.
+Dialogue: 100,0:02:10.46,0:02:12.95,Normal Dialog Text,,0,0,0,,{\rCHS}呃, 我一开始只订了一盒, 但一直没收到\N{\rENG}Uh, I ordered one at first, but it never showed up.
 Dialogue: 100,0:02:13.24,0:02:14.04,Normal Dialog Text,,0,0,0,,{\rCHS}所以我反复下单\N{\rENG}So I kept ordering.
 Dialogue: 100,0:02:14.38,0:02:16.32,Normal Dialog Text,,0,0,0,,{\rCHS}你要建个农场吗? \N{\rENG}Are you going to start a farm?
 Dialogue: 100,0:02:17.28,0:02:17.76,Normal Dialog Text,,0,0,0,,{\rCHS}不\N{\rENG}No.
@@ -122,7 +121,7 @@ Dialogue: 100,0:02:20.24,0:02:21.94,Normal Dialog Text,,0,0,0,,{\rCHS}回到大�
 Dialogue: 100,0:02:22.28,0:02:22.98,Normal Dialog Text,,0,0,0,,{\rCHS}杰米! \N{\rENG}Jamie!
 Dialogue: 100,0:02:23.30,0:02:24.32,Normal Dialog Text,,0,0,0,,{\rCHS}嗨, 史蒂文\N{\rENG}H-hi. Steven.
 Dialogue: 100,0:02:24.72,0:02:27.12,Normal Dialog Text,,0,0,0,,{\rCHS}你不会带来了更多的的海人吧? \N{\rENG}You didn't bring more sea pals?
-Dialogue: 100,0:02:27.12,0:02:30.98,Normal Dialog Text,,0,0,0,,{\rCHS}蛤? 不, 我只是, 呃...\N{\rENG}What? No, I just came to, uh...
+Dialogue: 100,0:02:27.12,0:02:30.98,Normal Dialog Text,,0,0,0,,{\rCHS}什么? 不, 我只是, 呃...\N{\rENG}What? No, I just came to, uh...
 Dialogue: 100,0:02:33.14,0:02:33.86,Normal Dialog Text,,0,0,0,,{\rCHS}那是什么? \N{\rENG}What's that?
 Dialogue: 100,0:02:34.40,0:02:36.34,Normal Dialog Text,,0,0,0,,{\rCHS}呃, 这是...呃...\N{\rENG}Uhh, it's...Uhh...
 Dialogue: 100,0:02:36.92,0:02:37.34,Normal Dialog Text,,0,0,0,,{\rCHS}给你! \N{\rENG}Here!
@@ -152,17 +151,17 @@ Dialogue: 100,0:03:41.16,0:03:43.98,Normal Dialog Text,,0,0,0,,{\rCHS}因为, �
 Dialogue: 100,0:03:44.58,0:03:46.47,Normal Dialog Text,,0,0,0,,{\rCHS}" 爱你的, 杰米 "\N{\rENG}"Love, Jamie."
 Dialogue: 100,0:03:47.26,0:03:49.42,Normal Dialog Text,,0,0,0,,{\rCHS}我认为杰米要约你出去--\N{\rENG}I think Jamie is asking you out --
 Dialogue: 100,0:03:49.96,0:03:51.00,Normal Dialog Text,,0,0,0,,{\rCHS}约会! \N{\rENG}on a date!
-Dialogue: 100,0:03:52.52,0:03:53.60,Normal Dialog Text,,0,0,0,,{\rCHS}那么, 这不可能发生\N{\rENG}Well, that ain't happening.
+Dialogue: 100,0:03:52.52,0:03:53.60,Normal Dialog Text,,0,0,0,,{\rCHS}没可能\N{\rENG}Well, that ain't happening.
 Dialogue: 100,0:03:53.60,0:03:54.25,Normal Dialog Text,,0,0,0,,{\rCHS}没戏\N{\rENG}Nope.
 Dialogue: 100,0:03:54.25,0:03:55.10,Normal Dialog Text,,0,0,0,,{\rCHS}为什么? \N{\rENG}Why not?
-Dialogue: 100,0:03:55.44,0:03:57.29,Normal Dialog Text,,0,0,0,,{\rCHS}石榴已经是个关系了\N{\rENG}Garnet is already in a relationship.
+Dialogue: 100,0:03:55.44,0:03:57.29,Normal Dialog Text,,0,0,0,,{\rCHS}石榴已经确定关系了\N{\rENG}Garnet is already in a relationship.
 Dialogue: 100,0:03:57.74,0:03:58.50,Normal Dialog Text,,0,0,0,,{\rCHS}等等, 真的? \N{\rENG}Wait, really?
 Dialogue: 100,0:03:58.78,0:04:01.50,Normal Dialog Text,,0,0,0,,{\rCHS}呃, 没错, 她就是个关系\N{\rENG}Well, yeah. She is a relationship.
 Dialogue: 100,0:04:01.92,0:04:03.42,Normal Dialog Text,,0,0,0,,{\rCHS}哦. 你是指, 因为她是个融合体\N{\rENG}Oh, you mean, 'cause she's a fusion.
 Dialogue: 100,0:04:03.86,0:04:05.98,Normal Dialog Text,,0,0,0,,{\rCHS}红宝石和蓝宝石是如此亲近\N{\rENG}Ruby and Sapphire are so close
 Dialogue: 100,0:04:05.98,0:04:07.54,Normal Dialog Text,,0,0,0,,{\rCHS}她们无法忍受分离\N{\rENG}that they can't stand to be apart.
 Dialogue: 100,0:04:08.16,0:04:11.02,Normal Dialog Text,,0,0,0,,{\rCHS}所以我猜与杰米的这次约会已经没有悬念了\N{\rENG}So I guess this date with Jamie is out of the question.
-Dialogue: 100,0:04:11.40,0:04:12.30,Normal Dialog Text,,0,0,0,,{\rCHS}三人成猪\N{\rENG}Three's a crowd.
+Dialogue: 100,0:04:11.40,0:04:12.30,Normal Dialog Text,,0,0,0,,{\rCHS}三人成众\N{\rENG}Three's a crowd.
 Dialogue: 100,0:04:12.58,0:04:14.94,Normal Dialog Text,,0,0,0,,{\rCHS}但, 伙计们, 杰米花了如此多心思\N{\rENG}But, guys, Jamie put so much thought
 Dialogue: 100,0:04:14.94,0:04:15.64,Normal Dialog Text,,0,0,0,,{\rCHS}写的这封信! \N{\rENG}into this letter!
 Dialogue: 100,0:04:16.00,0:04:17.80,Normal Dialog Text,,0,0,0,,{\rCHS}如果不回复的话太粗鲁了! \N{\rENG}It would be rude not to reply!
@@ -182,7 +181,7 @@ Dialogue: 100,0:04:43.82,0:04:45.16,Normal Dialog Text,,0,0,0,,{\rCHS}我认为�
 Dialogue: 100,0:04:45.44,0:04:47.34,Normal Dialog Text,,0,0,0,,{\rCHS}"没戏, 永远\N{\rENG}"The end. Forever.
 Dialogue: 100,0:04:47.34,0:04:48.50,Normal Dialog Text,,0,0,0,,{\rCHS}和永远的以后"\N{\rENG}And even after that."
 Dialogue: 100,0:04:48.96,0:04:49.94,Normal Dialog Text,,0,0,0,,{\rCHS}"你真诚的，石榴"\N{\rENG}"Yours truly, Garnet."
-Dialogue: 100,0:04:50.27,0:04:50.80,Normal Dialog Text,,0,0,0,,{\rCHS}恩...\N{\rENG}Hmm.
+Dialogue: 100,0:04:50.27,0:04:50.80,Normal Dialog Text,,0,0,0,,{\rCHS}嗯...\N{\rENG}Hmm.
 Dialogue: 100,0:04:52.74,0:04:54.41,Normal Dialog Text,,0,0,0,,{\rCHS}至少这个很真挚并且简练\N{\rENG}At least it's honest and to the point.
 Dialogue: 100,0:04:55.00,0:04:56.61,Normal Dialog Text,,0,0,0,,{\rCHS}你觉得他会在哪？\N{\rENG}Where do you think he could be?
 Dialogue: 100,0:04:56.94,0:04:57.78,Normal Dialog Text,,0,0,0,,{\rCHS}我不知道\N{\rENG}I don't know.
@@ -201,7 +200,7 @@ Dialogue: 100,0:05:15.82,0:05:17.18,Normal Dialog Text,,0,0,0,,{\rCHS}接着你�
 Dialogue: 100,0:05:17.70,0:05:18.98,Normal Dialog Text,,0,0,0,,{\rCHS}你在前往堪萨斯的巴士上\N{\rENG}you're on a bus to Kansas
 Dialogue: 100,0:05:18.98,0:05:21.02,Normal Dialog Text,,0,0,0,,{\rCHS}追寻你成为演员的梦想\N{\rENG}following your dreams of becoming an actor.
 Dialogue: 100,0:05:21.58,0:05:22.96,Normal Dialog Text,,0,0,0,,{\rCHS} "追寻你的梦想, " 他们说道\N{\rENG}"Follow your dreams," they said.
-Dialogue: 100,0:05:23.44,0:05:24.78,Normal Dialog Text,,0,0,0,,{\rCHS}但没人说过\N{\rENG}But no one said anything
+Dialogue: 100,0:05:23.44,0:05:24.78,Normal Dialog Text,,0,0,0,,{\rCHS}但没人提起过\N{\rENG}But no one said anything
 Dialogue: 100,0:05:24.80,0:05:28.20,Normal Dialog Text,,0,0,0,,{\rCHS}前方需要面对的拒绝与忧伤\N{\rENG}about all the rejection and sadness there was to be found.
 Dialogue: 100,0:05:28.70,0:05:30.88,Normal Dialog Text,,0,0,0,,{\rCHS}日复一日的试镜\N{\rENG}So many auditions day after day.
 Dialogue: 100,0:05:31.40,0:05:33.72,Normal Dialog Text,,0,0,0,,{\rCHS}日复一日的被拒\N{\rENG}So much rejection day after day.
@@ -217,7 +216,7 @@ Dialogue: 100,0:05:54.50,0:05:55.74,Normal Dialog Text,,0,0,0,,{\rCHS}他很可�
 Dialogue: 100,0:05:57.60,0:05:58.92,Normal Dialog Text,,0,0,0,,{\rCHS}我们能做点调整\N{\rENG}We can make adjustments.
 Dialogue: 100,0:05:58.94,0:06:01.40,Normal Dialog Text,,0,0,0,,{\rCHS}我们可以调整为杰米的诗意语言\N{\rENG}We can match Jamie's poetic language
 Dialogue: 100,0:06:01.40,0:06:02.82,Normal Dialog Text,,0,0,0,,{\rCHS}让他轻松的接受\N{\rENG}and let him down easy.
-Dialogue: 100,0:06:03.20,0:06:06.02,Normal Dialog Text,,0,0,0,,{\rCHS}我曾看过几集烂俗的肥皂剧\N{\rENG}I watched some episodes of a torrid soap opera once,
+Dialogue: 100,0:06:03.20,0:06:06.02,Normal Dialog Text,,0,0,0,,{\rCHS}我看过几集烂俗的肥皂剧\N{\rENG}I watched some episodes of a torrid soap opera once,
 Dialogue: 100,0:06:06.02,0:06:09.06,Normal Dialog Text,,0,0,0,,{\rCHS}所以我很自信能把握住浪漫的要领\N{\rENG}so I'm confident that I get the gist of romance.
 Dialogue: 100,0:06:10.80,0:06:11.42,Normal Dialog Text,,0,0,0,,{\rCHS}看! \N{\rENG}There!
 Dialogue: 100,0:06:12.08,0:06:12.90,Normal Dialog Text,,0,0,0,,{\rCHS} "亲爱的杰米...\N{\rENG}"Dear Jamie...
@@ -243,7 +242,7 @@ Dialogue: 100,0:06:54.20,0:06:55.66,Normal Dialog Text,,0,0,0,,{\rCHS}哦, 不! 
 Dialogue: 100,0:06:55.96,0:06:56.76,Normal Dialog Text,,0,0,0,,{\rCHS}石榴! \N{\rENG}Garnet!
 Dialogue: 100,0:06:57.12,0:06:59.52,Normal Dialog Text,,0,0,0,,{\rCHS}我阅读了汝信, 而我理解了! \N{\rENG}I read thine letter, and I understand!
 Dialogue: 100,0:06:59.86,0:07:02.18,Normal Dialog Text,,0,0,0,,{\rCHS}汝返还吾心! \N{\rENG}Thou hast return eth mine heart!
-Dialogue: 100,0:07:02.74,0:07:04.68,Normal Dialog Text,,0,0,0,,{\rCHS}啊? ! 不, 那不是--\N{\rENG}What?! No, that's not what --
+Dialogue: 100,0:07:02.74,0:07:04.68,Normal Dialog Text,,0,0,0,,{\rCHS}啊?! 不, 那不是--\N{\rENG}What?! No, that's not what --
 Dialogue: 100,0:07:04.68,0:07:08.80,Normal Dialog Text,,0,0,0,,{\rCHS}石榴, 你喜欢着我的头发, 如我爱慕你的一样\N{\rENG}Garnet, you like my hair just as I adore yours.
 Dialogue: 100,0:07:08.80,0:07:10.48,Normal Dialog Text,,0,0,0,,{\rCHS}来到我的怀抱中吧, 石榴\N{\rENG}Come to me, Garnet.
 Dialogue: 100,0:07:10.48,0:07:11.24,Normal Dialog Text,,0,0,0,,{\rCHS}杰米! \N{\rENG}Jamie!
@@ -282,7 +281,7 @@ Dialogue: 100,0:08:30.84,0:08:32.34,Normal Dialog Text,,0,0,0,,{\rCHS}我以为�
 Dialogue: 100,0:08:32.34,0:08:34.04,Normal Dialog Text,,0,0,0,,{\rCHS}他之前说你就住在这里\N{\rENG}when he told me you were living over here.
 Dialogue: 100,0:08:34.04,0:08:36.30,Normal Dialog Text,,0,0,0,,{\rCHS}等等, 那杰米呢? \N{\rENG}W-wait. Where is Jamie?
 Dialogue: 100,0:08:36.32,0:08:40.30,Normal Dialog Text,,0,0,0,,{\rCHS}啊, 那个可怜的孩子完全崩溃了\N{\rENG}Aw, that poor kid's emotions have been destroyed.
-Dialogue: 100,0:08:40.30,0:08:41.40,Normal Dialog Text,,0,0,0,,{\rCHS}什么? ! \N{\rENG}What?!
+Dialogue: 100,0:08:40.30,0:08:41.40,Normal Dialog Text,,0,0,0,,{\rCHS}什么?! \N{\rENG}What?!
 Dialogue: 100,0:08:41.40,0:08:42.90,Normal Dialog Text,,0,0,0,,{\rCHS}没错, 他简直一团糟! \N{\rENG}Yeah, he's a mess!
 Dialogue: 100,0:08:42.90,0:08:45.58,Normal Dialog Text,,0,0,0,,{\rCHS}他说自己无法承受再次往这里送邮件了\N{\rENG}Said he couldn't bear to deliver mail on this route again
 Dialogue: 100,0:08:45.58,0:08:47.18,Normal Dialog Text,,0,0,0,,{\rCHS}自从他被拒绝后\N{\rENG}after having his love spurned.
@@ -291,7 +290,7 @@ Dialogue: 100,0:08:48.62,0:08:50.56,Normal Dialog Text,,0,0,0,,{\rCHS}就像--�
 Dialogue: 100,0:08:51.04,0:08:54.16,Normal Dialog Text,,0,0,0,,{\rCHS}接着他握紧了自己的拳头, 闭上了眼睛, 像这样\N{\rENG}Then he clenched his fist and closed his eyes like this.
 Dialogue: 100,0:08:54.62,0:08:56.06,Normal Dialog Text,,0,0,0,,{\rCHS}真是装B一绝啊\N{\rENG}Full of drama to the end.
 Dialogue: 100,0:08:56.54,0:08:58.38,Normal Dialog Text,,0,0,0,,{\rCHS}不管怎样, 这里是一本折扣券\N{\rENG}Anyway, here's a book of coupons.
-Dialogue: 100,0:08:58.38,0:08:59.42,Normal Dialog Text,,0,0,0,,{\rCHS}折扣愉快! \N{\rENG}Have a good one!
+Dialogue: 100,0:08:58.38,0:08:59.42,Normal Dialog Text,,0,0,0,,{\rCHS}祝好! \N{\rENG}Have a good one!
 Dialogue: 100,0:09:11.66,0:09:12.72,Normal Dialog Text,,0,0,0,,{\rCHS}你看起来很伤心\N{\rENG}You look sad.
 Dialogue: 100,0:09:13.22,0:09:15.08,Normal Dialog Text,,0,0,0,,{\rCHS}我们这次真的搞砸了\N{\rENG}We really messed up this time.
 Dialogue: 100,0:09:15.08,0:09:18.24,Normal Dialog Text,,0,0,0,,{\rCHS}因为我们, 杰米前所未有的低沉\N{\rENG}Because of us, Jamie's feeling lower than ever.
@@ -313,16 +312,16 @@ Dialogue: 100,0:09:57.08,0:09:59.32,Normal Dialog Text,,0,0,0,,{\rCHS}再怎么�
 Dialogue: 100,0:09:59.76,0:10:04.64,Normal Dialog Text,,0,0,0,,{\rCHS}而你真的不清楚我到底是什么\N{\rENG}And you literally have no idea who or what I am.
 Dialogue: 100,0:10:04.66,0:10:09.12,Normal Dialog Text,,0,0,0,,{\rCHS}但我为你盛开了, 就像--就像月光下的山茶花\N{\rENG}But I bloom for you, like -- like a camellia under moonlight.
 Dialogue: 100,0:10:09.12,0:10:10.38,Normal Dialog Text,,0,0,0,,{\rCHS}不, 你没有! \N{\rENG}No, you don't!
-Dialogue: 100,0:10:12.78,0:10:15.30,Normal Dialog Text,,0,0,0,,{\rCHS}你假装成了一个热恋中的蠢蛋\N{\rENG}You make a very convincing lovesick fool.
-Dialogue: 100,0:10:15.30,0:10:16.78,Normal Dialog Text,,0,0,0,,{\rCHS}你说服了这几个孩子\N{\rENG}You convinced these children.
-Dialogue: 100,0:10:16.78,0:10:18.24,Normal Dialog Text,,0,0,0,,{\rCHS}你甚至说服了自己\N{\rENG}You even convinced yourself.
+Dialogue: 100,0:10:12.78,0:10:15.30,Normal Dialog Text,,0,0,0,,{\rCHS}你假扮了一个热恋中的蠢蛋\N{\rENG}You make a very convincing lovesick fool.
+Dialogue: 100,0:10:15.30,0:10:16.78,Normal Dialog Text,,0,0,0,,{\rCHS}你骗到了这两个孩子\N{\rENG}You convinced these children.
+Dialogue: 100,0:10:16.78,0:10:18.24,Normal Dialog Text,,0,0,0,,{\rCHS}你甚至骗了自己\N{\rENG}You even convinced yourself.
 Dialogue: 100,0:10:18.88,0:10:20.62,Normal Dialog Text,,0,0,0,,{\rCHS}你是个非常好的演员\N{\rENG}You're a fantastic actor.
 Dialogue: 100,0:10:22.72,0:10:24.06,Normal Dialog Text,,0,0,0,,{\rCHS}那我现在该做什么? \N{\rENG}What am I supposed to do now?
 Dialogue: 100,0:10:24.88,0:10:26.22,Normal Dialog Text,,0,0,0,,{\rCHS}从本地剧院开始\N{\rENG}Start with local theater.
 Dialogue: 100,0:10:29.38,0:10:30.32,Normal Dialog Text,,0,0,0,,{\rCHS}你还好吗? \N{\rENG}Are you okay?
 Dialogue: 100,0:10:30.98,0:10:31.54,Normal Dialog Text,,0,0,0,,{\rCHS}没事\N{\rENG}Yeah.
-Dialogue: 100,0:10:32.08,0:10:34.10,Normal Dialog Text,,0,0,0,,{\rCHS}那听起来是不错的建议\N{\rENG}That was some pretty solid advice.
-Dialogue: 100,0:10:35.86,0:10:38.02,Normal Dialog Text,,0,0,0,,{\rCHS}那些事你写给石榴的信吗? \N{\rENG}Were those more letters you wrote to Garnet?
+Dialogue: 100,0:10:32.08,0:10:34.10,Normal Dialog Text,,0,0,0,,{\rCHS}那些建议含金量很高\N{\rENG}That was some pretty solid advice.
+Dialogue: 100,0:10:35.86,0:10:38.02,Normal Dialog Text,,0,0,0,,{\rCHS}那些是你写给石榴的信吗? \N{\rENG}Were those more letters you wrote to Garnet?
 Dialogue: 100,0:10:38.02,0:10:39.34,Normal Dialog Text,,0,0,0,,{\rCHS}不, 那些只是邮件\N{\rENG}No, that was the mail
 Dialogue: 100,0:10:39.34,0:10:41.38,Normal Dialog Text,,0,0,0,,{\rCHS}我本该将这些信件送达的\N{\rENG}I was supposed to deliver on my last route.
 Dialogue: 100,0:10:43.44,0:10:44.86,Normal Dialog Text,,0,0,0,,{\rCHS}我们会帮你收集的\N{\rENG}We'll help you pick it all up.
