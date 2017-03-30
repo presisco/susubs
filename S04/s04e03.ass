@@ -42,7 +42,7 @@ Style: Hint,微软雅黑,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 150,0:00:01.00,0:00:03.50,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们,是水晶\N{\rENG_LYC}♪ We ♪ are the crystal
+Dialogue: 150,0:00:01.00,0:00:03.50,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们 是水晶\N{\rENG_LYC}♪ We ♪ are the crystal
 Dialogue: 150,0:00:03.51,0:00:04.48,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}战士\N{\rENG_LYC}♪ gems
 Dialogue: 150,0:00:04.48,0:00:06.94,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们总能拯救世界\N{\rENG_LYC}♪ we'll always save the day
 Dialogue: 150,0:00:06.94,0:00:09.42,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}如果你认为我们不行\N{\rENG_LYC}♪ and if you think we can't, ♪
@@ -53,9 +53,9 @@ Dialogue: 150,0:00:16.04,0:00:17.78,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}相信\N
 Dialogue: 150,0:00:17.78,0:00:18.44,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}石榴\N{\rENG_LYC}♪ Garnet
 Dialogue: 150,0:00:18.44,0:00:19.74,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}紫晶\N{\rENG_LYC}♪ Amethyst
 Dialogue: 150,0:00:19.74,0:00:21.20,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}和珍珠\N{\rENG_LYC}♪ and Pearl
-Dialogue: 150,0:00:21.22,0:00:22.54,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}和史蒂文!\N{\rENG_LYC}and Steven!
+Dialogue: 150,0:00:21.22,0:00:22.54,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}和史蒂文!\N{\rENG_LYC}and Steven! 
 Dialogue: 1,0:00:23.52,0:00:25.02,SU Title,,0,0,0,,{\xshad12\yshad12\pos(1190,214)}巴迪之书
-Dialogue: 1,0:00:25.02,0:00:26.52,SU Claim,,0,0,0,,欢迎关注微博@UUU字幕组，获取最新熟肉信息！
+Dialogue: 1,0:00:25.02,0:00:26.52,SU Claim,,0,0,0,,欢迎关注微博@ UUU字幕组 获取最新熟肉信息! 
 Dialogue: 1,0:00:25.02,0:00:26.52,SU Team Title,,0,0,0,,{\pos(1725,260)}出品
 Dialogue: 1,0:00:25.02,0:00:26.52,SU Team Member,,0,0,0,,{\pos(1725,320)}UUU字幕组
 Dialogue: 1,0:00:25.02,0:00:26.52,SU Team Title,,0,0,0,,{\pos(1725,380)}翻译
@@ -65,243 +65,243 @@ Dialogue: 1,0:00:25.02,0:00:26.52,SU Team Member,,0,0,0,,{\pos(1725,560)}Husky
 Dialogue: 1,0:00:25.02,0:00:26.52,SU Team Title,,0,0,0,,{\pos(1725,620)}特效
 Dialogue: 1,0:00:25.02,0:00:26.52,SU Team Member,,0,0,0,,{\pos(1725,680)}presisco
 Dialogue: 1,0:00:25.02,0:00:26.52,SU Team Title,,0,0,0,,{\pos(1725,740)}压制
-Dialogue: 1,0:00:25.02,0:00:26.52,SU Team Member,,0,0,0,,{\pos(1725,800)}presisco/SG
-Dialogue: 0,0:00:25.02,0:00:26.52,SU Team Background,,0,0,0,,{\bord0\xshad-0\yshad16\pos(1725,860)}{\p1}m -1 122 b -1 -19 -19 -1 122 -1 l 251 -1 b 390 -1 377 -19 377 122 l 377 500 b 377 642 390 628 251 628 l 122 628 b -19 628 -1 642 -1 500 l -1 122 {\p0}
-Dialogue: 100,0:00:29.85,0:00:30.85,Normal Dialog Text,,0,0,0,,{\rCHS}棒!\N{\rENG}Yeah!
-Dialogue: 100,0:00:33.45,0:00:35.35,Normal Dialog Text,,0,0,0,,{\rCHS}停车技术不错,狮子!\N{\rENG}Great job parking,Lion!
+Dialogue: 1,0:00:25.02,0:00:26.52,SU Team Member,,0,0,0,,{\pos(1725,800)}presisco/ SG
+Dialogue: 100,0:00:29.85,0:00:30.85,Normal Dialog Text,,0,0,0,,{\rCHS}棒!\N{\rENG}Yeah! 
+Dialogue: 100,0:00:33.45,0:00:35.35,Normal Dialog Text,,0,0,0,,{\rCHS}停车技术不错 狮子!\N{\rENG}Great job parking, Lion! 
 Dialogue: 600,0:00:33.45,0:00:35.35,Hint,,0,0,0,,狮子两边是2006年的本田CR-V和1997年的马自达MPV
-Dialogue: 100,0:00:35.38,0:00:37.25,Normal Dialog Text,,0,0,0,,{\rCHS}嘛,有点歪就是了\N{\rENG}Eh.It's a little crooked.
-Dialogue: 100,0:00:38.42,0:00:40.32,Normal Dialog Text,,0,0,0,,{\rCHS}当我没说,挺不错的!\N{\rENG}Never mind.It's perfect!
-Dialogue: 100,0:00:41.79,0:00:43.29,Normal Dialog Text,,0,0,0,,{\rCHS}把狮子停在这里真的好吗?\N{\rENG}Is Lion gonna be okay parked out here?
-Dialogue: 100,0:00:43.33,0:00:45.79,Normal Dialog Text,,0,0,0,,{\rCHS}哦,当然 我把他锁上就好了\N{\rENG}Oh, yeah. Uh, I just gotta lock him up.
-Dialogue: 100,0:00:48.06,0:00:50.27,Normal Dialog Text,,0,0,0,,{\rCHS}别担心,他不会到处跑的\N{\rENG}Don't worry. He's not going anywhere.
+Dialogue: 100,0:00:35.38,0:00:37.25,Normal Dialog Text,,0,0,0,,{\rCHS}嘛 有点歪就是了\N{\rENG}Eh. It's a little crooked. 
+Dialogue: 100,0:00:38.42,0:00:40.32,Normal Dialog Text,,0,0,0,,{\rCHS}当我没说 挺不错的!\N{\rENG}Never mind. It's perfect! 
+Dialogue: 100,0:00:41.79,0:00:43.29,Normal Dialog Text,,0,0,0,,{\rCHS}把狮子停在这里真的好吗?\N{\rENG}Is Lion gonna be okay parked out here? 
+Dialogue: 100,0:00:43.33,0:00:45.79,Normal Dialog Text,,0,0,0,,{\rCHS}哦 当然 我把他锁上就好了\N{\rENG}Oh, yeah. Uh, I just gotta lock him up. 
+Dialogue: 100,0:00:48.06,0:00:50.27,Normal Dialog Text,,0,0,0,,{\rCHS}别担心 他不会到处跑的\N{\rENG}Don't worry. He's not going anywhere. 
 Dialogue: 100,0:00:53.17,0:00:55.17,Normal Dialog Text,,0,0,0,,{\rCHS}我还是不敢相信\N{\rENG}I still can't believe
-Dialogue: 100,0:00:55.20,0:00:57.04,Normal Dialog Text,,0,0,0,,{\rCHS}这是你第一次进来图书馆\N{\rENG}this'll be your first time inside of a library.
-Dialogue: 100,0:00:57.07,0:00:58.41,Normal Dialog Text,,0,0,0,,{\rCHS}怎么讲?\N{\rENG}Why?
-Dialogue: 100,0:00:58.44,0:01:02.18,Normal Dialog Text,,0,0,0,,{\rCHS}因为图书馆里都是你最喜欢的东西\N{\rENG}Because libraries are full of your favorite thing.
-Dialogue: 100,0:01:07.18,0:01:09.95,Normal Dialog Text,,0,0,0,,{\rCHS}都是书啊!\N{\rENG}Books!
-Dialogue: 100,0:01:09.99,0:01:11.85,Normal Dialog Text,,0,0,0,,{\rCHS}嘘!\N{\rENG}Shh!
-Dialogue: 100,0:01:11.89,0:01:14.46,Normal Dialog Text,,0,0,0,,{\rCHS}都是书啊!\N{\rENG}Books.
-Dialogue: 100,0:01:15.24,0:01:18.13,Normal Dialog Text,,0,0,0,,{\rCHS}好吧,是时候干掉这些书了\N{\rENG}All right. Time to beat these books.
-Dialogue: 100,0:01:18.16,0:01:20.30,Normal Dialog Text,,0,0,0,,{\rCHS}啊 你跟它们有什么仇?\N{\rENG}Ah. What'd they do to you?
-Dialogue: 100,0:01:20.33,0:01:23.10,Normal Dialog Text,,0,0,0,,{\rCHS}我是想提前准备下七年级的课程\N{\rENG}I'm mainly trying to get a head-start on seventh grade.
-Dialogue: 100,0:01:23.13,0:01:26.27,Normal Dialog Text,,0,0,0,,{\rCHS}我们会学很多新课程,所以\N{\rENG}We'll be covering a lot of new stuff, so...
-Dialogue: 100,0:01:26.30,0:01:28.10,Normal Dialog Text,,0,0,0,,{\rCHS}我想提前做好准备\N{\rENG}I just want to be prepared.
-Dialogue: 100,0:01:28.14,0:01:30.77,Normal Dialog Text,,0,0,0,,{\rCHS}你用手机查资料不就好了吗?\N{\rENG}Can't you just use your phone to look stuff up?
-Dialogue: 100,0:01:32.21,0:01:33.44,Normal Dialog Text,,0,0,0,,{\rCHS}上一次我用互联网查资料后\N{\rENG}Last time I relied on the Internet for info,
-Dialogue: 100,0:01:33.48,0:01:36.28,Normal Dialog Text,,0,0,0,,{\rCHS}我写出了一篇漏洞百出的,额...\N{\rENG}I ended up writing a very, uh...
-Dialogue: 100,0:01:36.31,0:01:39.85,Normal Dialog Text,,0,0,0,,{\rCHS}关于浣熊有热视线能力的文章\N{\rENG}erroneous paper about raccoons having heat-vision.
-Dialogue: 100,0:01:39.88,0:01:41.45,Normal Dialog Text,,0,0,0,,{\rCHS}浣熊有热视线?!\N{\rENG}Raccoons have heat vision?!
-Dialogue: 100,0:01:41.48,0:01:43.15,Normal Dialog Text,,0,0,0,,{\rCHS}嘘!\N{\rENG}Shh!
-Dialogue: 100,0:01:43.19,0:01:45.12,Normal Dialog Text,,0,0,0,,{\rCHS}我学习的时候你到处看看吧\N{\rENG}You should take a look around while I get started.
-Dialogue: 100,0:01:45.15,0:01:47.76,Normal Dialog Text,,0,0,0,,{\rCHS}这里有一堆你肯定会喜欢的东西\N{\rENG}There's tons of stuff here I'm sure you'll love.
-Dialogue: 100,0:01:47.79,0:01:50.39,Normal Dialog Text,,0,0,0,,{\rCHS}好滴,一会儿见\N{\rENG}Okie. B-R-B.
-Dialogue: 100,0:01:50.43,0:01:52.89,Normal Dialog Text,,0,0,0,,{\rCHS}纪实类?野\N{\rENG}Nonfiction? Wild.
-Dialogue: 100,0:01:56.47,0:01:58.07,Normal Dialog Text,,0,0,0,,{\rCHS}哇哦\N{\rENG}Wow!
-Dialogue: 100,0:01:58.10,0:02:00.17,Normal Dialog Text,,0,0,0,,{\rCHS}就连最下层的架子上也有很酷的书!\N{\rENG}There's even cool books on the bottom shelves!
-Dialogue: 100,0:02:01.30,0:02:02.87,Normal Dialog Text,,0,0,0,,{\rCHS}哈?\N{\rENG}Huh?
-Dialogue: 100,0:02:02.91,0:02:04.84,Normal Dialog Text,,0,0,0,,{\rCHS}你在这儿干嘛呢,小家伙?\N{\rENG}What are you doing down here, little buddy?
-Dialogue: 100,0:02:07.54,0:02:09.98,Normal Dialog Text,,0,0,0,,{\rCHS}没有书名!\N{\rENG}It's blank!
-Dialogue: 100,0:02:10.01,0:02:11.15,Normal Dialog Text,,0,0,0,,{\rCHS}哇!\N{\rENG}Whoa!
-Dialogue: 100,0:02:14.15,0:02:16.18,Normal Dialog Text,,0,0,0,,{\rCHS}康妮!\N{\rENG}Connie!
-Dialogue: 100,0:02:16.22,0:02:17.45,Normal Dialog Text,,0,0,0,,{\rCHS}看!\N{\rENG}Look!
-Dialogue: 100,0:02:17.49,0:02:19.45,Normal Dialog Text,,0,0,0,,{\rCHS}没有书名啊\N{\rENG}It's blank.
-Dialogue: 100,0:02:19.49,0:02:21.99,Normal Dialog Text,,0,0,0,,{\rCHS}这是大副巴蒂巴德威克的笔记!\N{\rENG}It's the journal of first mate Buddy Buddwick!
-Dialogue: 100,0:02:22.02,0:02:24.13,Normal Dialog Text,,0,0,0,,{\rCHS}-你是说,这是真货?-当然!\N{\rENG}-Like, the real thing? -Yeah!
+Dialogue: 100,0:00:55.20,0:00:57.04,Normal Dialog Text,,0,0,0,,{\rCHS}这是你第一次进来图书馆\N{\rENG}this'll be your first time inside of a library. 
+Dialogue: 100,0:00:57.07,0:00:58.41,Normal Dialog Text,,0,0,0,,{\rCHS}怎么讲?\N{\rENG}Why? 
+Dialogue: 100,0:00:58.44,0:01:02.18,Normal Dialog Text,,0,0,0,,{\rCHS}因为图书馆里都是你最喜欢的东西\N{\rENG}Because libraries are full of your favorite thing. 
+Dialogue: 100,0:01:07.18,0:01:09.95,Normal Dialog Text,,0,0,0,,{\rCHS}都是书啊!\N{\rENG}Books! 
+Dialogue: 100,0:01:09.99,0:01:11.85,Normal Dialog Text,,0,0,0,,{\rCHS}嘘!\N{\rENG}Shh! 
+Dialogue: 100,0:01:11.89,0:01:14.46,Normal Dialog Text,,0,0,0,,{\rCHS}都是书啊!\N{\rENG}Books. 
+Dialogue: 100,0:01:15.24,0:01:18.13,Normal Dialog Text,,0,0,0,,{\rCHS}好吧 是时候干掉这些书了\N{\rENG}All right. Time to beat these books. 
+Dialogue: 100,0:01:18.16,0:01:20.30,Normal Dialog Text,,0,0,0,,{\rCHS}啊 你跟它们有什么仇?\N{\rENG}Ah. What'd they do to you? 
+Dialogue: 100,0:01:20.33,0:01:23.10,Normal Dialog Text,,0,0,0,,{\rCHS}我是想提前准备下七年级的课程\N{\rENG}I'm mainly trying to get a head-start on seventh grade. 
+Dialogue: 100,0:01:23.13,0:01:26.27,Normal Dialog Text,,0,0,0,,{\rCHS}我们会学很多新课程 所以\N{\rENG}We'll be covering a lot of new stuff, so...
+Dialogue: 100,0:01:26.30,0:01:28.10,Normal Dialog Text,,0,0,0,,{\rCHS}我想提前做好准备\N{\rENG}I just want to be prepared. 
+Dialogue: 100,0:01:28.14,0:01:30.77,Normal Dialog Text,,0,0,0,,{\rCHS}你用手机查资料不就好了吗?\N{\rENG}Can't you just use your phone to look stuff up? 
+Dialogue: 100,0:01:32.21,0:01:33.44,Normal Dialog Text,,0,0,0,,{\rCHS}上一次我用互联网查资料后\N{\rENG}Last time I relied on the Internet for info, 
+Dialogue: 100,0:01:33.48,0:01:36.28,Normal Dialog Text,,0,0,0,,{\rCHS}我写出了一篇漏洞百出的 额...\N{\rENG}I ended up writing a very, uh...
+Dialogue: 100,0:01:36.31,0:01:39.85,Normal Dialog Text,,0,0,0,,{\rCHS}关于浣熊有热视线能力的文章\N{\rENG}erroneous paper about raccoons having heat-vision. 
+Dialogue: 100,0:01:39.88,0:01:41.45,Normal Dialog Text,,0,0,0,,{\rCHS}浣熊有热视线?!\N{\rENG}Raccoons have heat vision?! 
+Dialogue: 100,0:01:41.48,0:01:43.15,Normal Dialog Text,,0,0,0,,{\rCHS}嘘!\N{\rENG}Shh! 
+Dialogue: 100,0:01:43.19,0:01:45.12,Normal Dialog Text,,0,0,0,,{\rCHS}我学习的时候你到处看看吧\N{\rENG}You should take a look around while I get started. 
+Dialogue: 100,0:01:45.15,0:01:47.76,Normal Dialog Text,,0,0,0,,{\rCHS}这里有一堆你肯定会喜欢的东西\N{\rENG}There's tons of stuff here I'm sure you'll love. 
+Dialogue: 100,0:01:47.79,0:01:50.39,Normal Dialog Text,,0,0,0,,{\rCHS}好滴 一会儿见\N{\rENG}Okie. B-R-B. 
+Dialogue: 100,0:01:50.43,0:01:52.89,Normal Dialog Text,,0,0,0,,{\rCHS}纪实类? 野\N{\rENG}Nonfiction? Wild. 
+Dialogue: 100,0:01:56.47,0:01:58.07,Normal Dialog Text,,0,0,0,,{\rCHS}哇哦\N{\rENG}Wow! 
+Dialogue: 100,0:01:58.10,0:02:00.17,Normal Dialog Text,,0,0,0,,{\rCHS}就连最下层的架子上也有很酷的书!\N{\rENG}There's even cool books on the bottom shelves! 
+Dialogue: 100,0:02:01.30,0:02:02.87,Normal Dialog Text,,0,0,0,,{\rCHS}哈?\N{\rENG}Huh? 
+Dialogue: 100,0:02:02.91,0:02:04.84,Normal Dialog Text,,0,0,0,,{\rCHS}你在这儿干嘛呢 小家伙?\N{\rENG}What are you doing down here, little buddy? 
+Dialogue: 100,0:02:07.54,0:02:09.98,Normal Dialog Text,,0,0,0,,{\rCHS}没有书名!\N{\rENG}It's blank! 
+Dialogue: 100,0:02:10.01,0:02:11.15,Normal Dialog Text,,0,0,0,,{\rCHS}哇!\N{\rENG}Whoa! 
+Dialogue: 100,0:02:14.15,0:02:16.18,Normal Dialog Text,,0,0,0,,{\rCHS}康妮!\N{\rENG}Connie! 
+Dialogue: 100,0:02:16.22,0:02:17.45,Normal Dialog Text,,0,0,0,,{\rCHS}看!\N{\rENG}Look! 
+Dialogue: 100,0:02:17.49,0:02:19.45,Normal Dialog Text,,0,0,0,,{\rCHS}没有书名啊\N{\rENG}It's blank. 
+Dialogue: 100,0:02:19.49,0:02:21.99,Normal Dialog Text,,0,0,0,,{\rCHS}这是大副巴蒂巴德威克的笔记!\N{\rENG}It's the journal of first mate Buddy Buddwick! 
+Dialogue: 100,0:02:22.02,0:02:24.13,Normal Dialog Text,,0,0,0,,{\rCHS}-你是说 这是真货?-当然!\N{\rENG}-Like, the real thing?-Yeah! 
 Dialogue: 100,0:02:24.16,0:02:26.23,Normal Dialog Text,,0,0,0,,{\rCHS}杰米表演过关于巴蒂的话剧\N{\rENG}Jamie did a play about how Buddy helped
-Dialogue: 100,0:02:26.26,0:02:28.50,Normal Dialog Text,,0,0,0,,{\rCHS}他帮助第一任市长发现了海滩市!\N{\rENG} the first Mayor Dewey discover Beach City!
-Dialogue: 100,0:02:28.53,0:02:31.10,Normal Dialog Text,,0,0,0,,{\rCHS}这里甚至有关于宝石建筑的画!\N{\rENG}There's even drawings of gem locations in here!
-Dialogue: 100,0:02:31.13,0:02:32.47,Normal Dialog Text,,0,0,0,,{\rCHS}哦,我的天!\N{\rENG}Oh, my gosh!
-Dialogue: 100,0:02:32.50,0:02:34.30,Normal Dialog Text,,0,0,0,,{\rCHS}别管作业了\N{\rENG}Forget homework.
-Dialogue: 100,0:02:34.34,0:02:35.94,Normal Dialog Text,,0,0,0,,{\rCHS}我们从头开始看吧!\N{\rENG}Let's take it from the top!
-Dialogue: 100,0:02:35.97,0:02:37.04,Normal Dialog Text,,0,0,0,,{\rCHS}棒!\N{\rENG}Yeah!
-Dialogue: 100,0:02:39.44,0:02:42.08,Normal Dialog Text,,0,0,0,,{\rCHS}在万幸躲过了死亡的命运后\N{\rENG}After narrowly escaping certain doom,
-Dialogue: 100,0:02:42.11,0:02:45.45,Normal Dialog Text,,0,0,0,,{\rCHS}威廉杜威船长和我,大副巴蒂\N{\rENG}Captain William Dewey and I, his first mate Buddy,
-Dialogue: 100,0:02:45.48,0:02:48.28,Normal Dialog Text,,0,0,0,,{\rCHS}找到了海滩市这片陆地\N{\rENG}founded the land of Beach City.
-Dialogue: 100,0:02:48.32,0:02:52.25,Normal Dialog Text,,0,0,0,,{\rCHS}杜威船长刻下了功勋--好吧,是铸造的--\N{\rENG}With Captain Dewey's legacy cemented -- well, bronzed --
-Dialogue: 100,0:02:52.29,0:02:55.29,Normal Dialog Text,,0,0,0,,{\rCHS}我在想我的功绩会是什么\N{\rENG}I wondered what my legacy would be.
-Dialogue: 100,0:02:55.32,0:02:58.46,Normal Dialog Text,,0,0,0,,{\rCHS}会有后人记住我的名字吗?\N{\rENG}Would anyone remember my name?
-Dialogue: 100,0:02:58.49,0:03:03.40,Normal Dialog Text,,0,0,0,,{\rCHS}还是会被时间的海浪冲刷的无影无踪呢?\N{\rENG}Or will it be washed away by the ocean of time?
-Dialogue: 100,0:03:03.43,0:03:06.13,Normal Dialog Text,,0,0,0,,{\rCHS}我把巴蒂想象成是杰米愁容满面的样子\N{\rENG}I'm picturing buddy as Jamie being all sad.
-Dialogue: 100,0:03:06.17,0:03:08.57,Normal Dialog Text,,0,0,0,,{\rCHS}哦,不错,他入戏的样子\N{\rENG}Oh, yeah. Drama zone.
-Dialogue: 100,0:03:08.60,0:03:11.47,Normal Dialog Text,,0,0,0,,{\rCHS}不!吾辈不能就这么消失!\N{\rENG}No! I shall not disappear!
-Dialogue: 100,0:03:11.51,0:03:14.41,Normal Dialog Text,,0,0,0,,{\rCHS}吾辈不会以大副的身份逝去!\N{\rENG}I shan't die a lowly first mate!
-Dialogue: 100,0:03:14.44,0:03:17.45,Normal Dialog Text,,0,0,0,,{\rCHS}吾辈会用一生达成伟业!\N{\rENG}I schwill do something great with my life!
-Dialogue: 100,0:03:17.48,0:03:20.25,Normal Dialog Text,,0,0,0,,{\rCHS}我将探索全球以求名留青史!\N{\rENG}I'll comb the world in search of greatness!
-Dialogue: 100,0:03:20.28,0:03:23.59,Normal Dialog Text,,0,0,0,,{\rCHS}从此开启了我人生的新篇章--\N{\rENG}And so began a new chapter of my life --
+Dialogue: 100,0:02:26.26,0:02:28.50,Normal Dialog Text,,0,0,0,,{\rCHS}他帮助第一任市长发现了海滩市!\N{\rENG} the first Mayor Dewey discover Beach City! 
+Dialogue: 100,0:02:28.53,0:02:31.10,Normal Dialog Text,,0,0,0,,{\rCHS}这里甚至有关于宝石建筑的画!\N{\rENG}There's even drawings of gem locations in here! 
+Dialogue: 100,0:02:31.13,0:02:32.47,Normal Dialog Text,,0,0,0,,{\rCHS}哦 我的天!\N{\rENG}Oh, my gosh! 
+Dialogue: 100,0:02:32.50,0:02:34.30,Normal Dialog Text,,0,0,0,,{\rCHS}别管作业了\N{\rENG}Forget homework. 
+Dialogue: 100,0:02:34.34,0:02:35.94,Normal Dialog Text,,0,0,0,,{\rCHS}我们从头开始看吧!\N{\rENG}Let's take it from the top! 
+Dialogue: 100,0:02:35.97,0:02:37.04,Normal Dialog Text,,0,0,0,,{\rCHS}棒!\N{\rENG}Yeah! 
+Dialogue: 100,0:02:39.44,0:02:42.08,Normal Dialog Text,,0,0,0,,{\rCHS}在万幸躲过了死亡的命运后\N{\rENG}After narrowly escaping certain doom, 
+Dialogue: 100,0:02:42.11,0:02:45.45,Normal Dialog Text,,0,0,0,,{\rCHS}威廉杜威船长和我 大副巴蒂\N{\rENG}Captain William Dewey and I, his first mate Buddy, 
+Dialogue: 100,0:02:45.48,0:02:48.28,Normal Dialog Text,,0,0,0,,{\rCHS}找到了海滩市这片陆地\N{\rENG}founded the land of Beach City. 
+Dialogue: 100,0:02:48.32,0:02:52.25,Normal Dialog Text,,0,0,0,,{\rCHS}杜威船长刻下了功勋--好吧 是铸造的--\N{\rENG}With Captain Dewey's legacy cemented--well, bronzed--
+Dialogue: 100,0:02:52.29,0:02:55.29,Normal Dialog Text,,0,0,0,,{\rCHS}我在想我的功绩会是什么\N{\rENG}I wondered what my legacy would be. 
+Dialogue: 100,0:02:55.32,0:02:58.46,Normal Dialog Text,,0,0,0,,{\rCHS}会有后人记住我的名字吗?\N{\rENG}Would anyone remember my name? 
+Dialogue: 100,0:02:58.49,0:03:03.40,Normal Dialog Text,,0,0,0,,{\rCHS}还是会被时间的海浪冲刷的无影无踪呢?\N{\rENG}Or will it be washed away by the ocean of time? 
+Dialogue: 100,0:03:03.43,0:03:06.13,Normal Dialog Text,,0,0,0,,{\rCHS}我把巴蒂想象成是杰米愁容满面的样子\N{\rENG}I'm picturing buddy as Jamie being all sad. 
+Dialogue: 100,0:03:06.17,0:03:08.57,Normal Dialog Text,,0,0,0,,{\rCHS}哦 不错 他入戏的样子\N{\rENG}Oh, yeah. Drama zone. 
+Dialogue: 100,0:03:08.60,0:03:11.47,Normal Dialog Text,,0,0,0,,{\rCHS}不! 吾辈不能就这么消失!\N{\rENG}No! I shall not disappear! 
+Dialogue: 100,0:03:11.51,0:03:14.41,Normal Dialog Text,,0,0,0,,{\rCHS}吾辈不会以大副的身份逝去!\N{\rENG}I shan't die a lowly first mate! 
+Dialogue: 100,0:03:14.44,0:03:17.45,Normal Dialog Text,,0,0,0,,{\rCHS}吾辈会用一生达成伟业!\N{\rENG}I schwill do something great with my life! 
+Dialogue: 100,0:03:17.48,0:03:20.25,Normal Dialog Text,,0,0,0,,{\rCHS}我将探索全球以求名留青史!\N{\rENG}I'll comb the world in search of greatness! 
+Dialogue: 100,0:03:20.28,0:03:23.59,Normal Dialog Text,,0,0,0,,{\rCHS}从此开启了我人生的新篇章--\N{\rENG}And so began a new chapter of my life--
 Dialogue: 100,0:03:23.62,0:03:26.82,Normal Dialog Text,,0,0,0,,{\rCHS}即探索先前未探索之事物\N{\rENG}to explore the previously unexplored
-Dialogue: 100,0:03:26.86,0:03:30.06,Normal Dialog Text,,0,0,0,,{\rCHS}在世界上留下吾之印记!\N{\rENG}and to make my mark on the world!
+Dialogue: 100,0:03:26.86,0:03:30.06,Normal Dialog Text,,0,0,0,,{\rCHS}在世界上留下吾之印记!\N{\rENG}and to make my mark on the world! 
 Dialogue: 100,0:03:30.09,0:03:32.49,Normal Dialog Text,,0,0,0,,{\rCHS}旅途持续了若干个日夜\N{\rENG}I traveled for many days and nights
-Dialogue: 100,0:03:32.53,0:03:36.36,Normal Dialog Text,,0,0,0,,{\rCHS}直到,最终,我到达了某种田地\N{\rENG}until, finally, I found myself in a field of sorts...
-Dialogue: 100,0:03:36.40,0:03:40.07,Normal Dialog Text,,0,0,0,,{\rCHS}倒不如说,是某种战地\N{\rENG}or, should I say, a field of swords,
-Dialogue: 100,0:03:40.10,0:03:43.04,Normal Dialog Text,,0,0,0,,{\rCHS}这里散布着巨大的,香甜的草莓\N{\rENG}intermingled with giant, sweet-smelling strawberries
-Dialogue: 100,0:03:43.07,0:03:44.64,Normal Dialog Text,,0,0,0,,{\rCHS}和人脑袋一样大\N{\rENG}as big as one's head.
-Dialogue: 100,0:03:44.67,0:03:48.18,Normal Dialog Text,,0,0,0,,{\rCHS}"谁能握持如此巨大的武器呢?"我细细思考\N{\rENG}"Who could have wielded such a weapon?" I pondered.
+Dialogue: 100,0:03:32.53,0:03:36.36,Normal Dialog Text,,0,0,0,,{\rCHS}直到 最终 我到达了某种田地\N{\rENG}until, finally, I found myself in a field of sorts...
+Dialogue: 100,0:03:36.40,0:03:40.07,Normal Dialog Text,,0,0,0,,{\rCHS}倒不如说 是某种战地\N{\rENG}or, should I say, a field of swords, 
+Dialogue: 100,0:03:40.10,0:03:43.04,Normal Dialog Text,,0,0,0,,{\rCHS}这里散布着巨大的 香甜的草莓\N{\rENG}intermingled with giant, sweet-smelling strawberries
+Dialogue: 100,0:03:43.07,0:03:44.64,Normal Dialog Text,,0,0,0,,{\rCHS}和人脑袋一样大\N{\rENG}as big as one's head. 
+Dialogue: 100,0:03:44.67,0:03:48.18,Normal Dialog Text,,0,0,0,,{\rCHS}"谁能握持如此巨大的武器呢?"我细细思考\N{\rENG}"Who could have wielded such a weapon?"I pondered. 
 Dialogue: 100,0:03:48.21,0:03:51.95,Normal Dialog Text,,0,0,0,,{\rCHS}"又有什么样的战争用到了这样的武器呢?"\N{\rENG}"What sort of battle could this have been used for?"
-Dialogue: 100,0:03:51.98,0:03:53.58,Normal Dialog Text,,0,0,0,,{\rCHS}我绞尽脑汁\N{\rENG}I contemplated.
-Dialogue: 100,0:03:53.62,0:03:57.32,Normal Dialog Text,,0,0,0,,{\rCHS}我不停地速写,沉浸在深思当中\N{\rENG}I continued to sketch, sinking into deep concentration
-Dialogue: 100,0:03:57.35,0:04:00.46,Normal Dialog Text,,0,0,0,,{\rCHS}突然我感到一只熟悉的手的触摸\N{\rENG}when I suddenly felt the touch of a familiar hand.
-Dialogue: 100,0:04:00.49,0:04:01.46,Normal Dialog Text,,0,0,0,,{\rCHS}侬好\N{\rENG}Ahoy.
-Dialogue: 100,0:04:01.49,0:04:02.96,Normal Dialog Text,,0,0,0,,{\rCHS}向您请安\N{\rENG}Salutations.
-Dialogue: 100,0:04:02.99,0:04:04.46,Normal Dialog Text,,0,0,0,,{\rCHS}原来是两只水晶战士\N{\rENG}It was two of the Crystal Gems.
-Dialogue: 100,0:04:04.49,0:04:06.09,Normal Dialog Text,,0,0,0,,{\rCHS}嗯\N{\rENG}Hmm.
-Dialogue: 100,0:04:06.13,0:04:08.40,Normal Dialog Text,,0,0,0,,{\rCHS}宝石们以前应该穿着不一样吧\N{\rENG}Would the Gems have looked different back then?
-Dialogue: 100,0:04:08.43,0:04:10.37,Normal Dialog Text,,0,0,0,,{\rCHS}对,肯定的\N{\rENG}Yes. Definitely.
+Dialogue: 100,0:03:51.98,0:03:53.58,Normal Dialog Text,,0,0,0,,{\rCHS}我绞尽脑汁\N{\rENG}I contemplated. 
+Dialogue: 100,0:03:53.62,0:03:57.32,Normal Dialog Text,,0,0,0,,{\rCHS}我不停地速写 沉浸在深思当中\N{\rENG}I continued to sketch, sinking into deep concentration
+Dialogue: 100,0:03:57.35,0:04:00.46,Normal Dialog Text,,0,0,0,,{\rCHS}突然我感到一只熟悉的手的触摸\N{\rENG}when I suddenly felt the touch of a familiar hand. 
+Dialogue: 100,0:04:00.49,0:04:01.46,Normal Dialog Text,,0,0,0,,{\rCHS}侬好\N{\rENG}Ahoy. 
+Dialogue: 100,0:04:01.49,0:04:02.96,Normal Dialog Text,,0,0,0,,{\rCHS}向您请安\N{\rENG}Salutations. 
+Dialogue: 100,0:04:02.99,0:04:04.46,Normal Dialog Text,,0,0,0,,{\rCHS}原来是两只水晶战士\N{\rENG}It was two of the Crystal Gems. 
+Dialogue: 100,0:04:04.49,0:04:06.09,Normal Dialog Text,,0,0,0,,{\rCHS}嗯\N{\rENG}Hmm. 
+Dialogue: 100,0:04:06.13,0:04:08.40,Normal Dialog Text,,0,0,0,,{\rCHS}宝石们以前应该穿着不一样吧\N{\rENG}Would the Gems have looked different back then? 
+Dialogue: 100,0:04:08.43,0:04:10.37,Normal Dialog Text,,0,0,0,,{\rCHS}对 肯定的\N{\rENG}Yes. Definitely. 
 Dialogue: 100,0:04:10.40,0:04:12.53,Normal Dialog Text,,0,0,0,,{\rCHS}原来是两只宝石战士\N{\rENG}It was two of the Crystal Gems
-Dialogue: 100,0:04:12.57,0:04:15.60,Normal Dialog Text,,0,0,0,,{\rCHS}她们曾经从海怪那救下了船长\N{\rENG}that had saved my captain from a sea beast.
-Dialogue: 100,0:04:15.64,0:04:17.47,Normal Dialog Text,,0,0,0,,{\rCHS}我们现在是来救你的\N{\rENG}And now we're here to save you.
-Dialogue: 100,0:04:17.51,0:04:19.01,Normal Dialog Text,,0,0,0,,{\rCHS}但是我没有陷入危险啊\N{\rENG}But I'm not in peril.
-Dialogue: 100,0:04:19.04,0:04:21.94,Normal Dialog Text,,0,0,0,,{\rCHS}我只是个卑微的旅者,只求名字能\N{\rENG}I'm just a humble traveler who wants my name
-Dialogue: 100,0:04:21.98,0:04:25.51,Normal Dialog Text,,0,0,0,,{\rCHS}被后世的所有人所记住\N{\rENG}to be remembered by everyone for all time.
-Dialogue: 100,0:04:25.55,0:04:28.62,Normal Dialog Text,,0,0,0,,{\rCHS}这个嘛,不要在此逗留,旅者\N{\rENG}Well, travel not here, traveler,
-Dialogue: 100,0:04:28.65,0:04:30.45,Normal Dialog Text,,0,0,0,,{\rCHS}只因此地十分危险\N{\rENG}as this place is very dangerous.
-Dialogue: 100,0:04:30.49,0:04:32.52,Normal Dialog Text,,0,0,0,,{\rCHS}好吧,我去别的地方\N{\rENG}Very well. I'll go elsewhere.
-Dialogue: 100,0:04:32.55,0:04:33.99,Normal Dialog Text,,0,0,0,,{\rCHS}等等!\N{\rENG}Wait!
+Dialogue: 100,0:04:12.57,0:04:15.60,Normal Dialog Text,,0,0,0,,{\rCHS}她们曾经从海怪那救下了船长\N{\rENG}that had saved my captain from a sea beast. 
+Dialogue: 100,0:04:15.64,0:04:17.47,Normal Dialog Text,,0,0,0,,{\rCHS}我们现在是来救你的\N{\rENG}And now we're here to save you. 
+Dialogue: 100,0:04:17.51,0:04:19.01,Normal Dialog Text,,0,0,0,,{\rCHS}但是我没有陷入危险啊\N{\rENG}But I'm not in peril. 
+Dialogue: 100,0:04:19.04,0:04:21.94,Normal Dialog Text,,0,0,0,,{\rCHS}我只是个卑微的旅者 只求名字能\N{\rENG}I'm just a humble traveler who wants my name
+Dialogue: 100,0:04:21.98,0:04:25.51,Normal Dialog Text,,0,0,0,,{\rCHS}被后世的所有人所记住\N{\rENG}to be remembered by everyone for all time. 
+Dialogue: 100,0:04:25.55,0:04:28.62,Normal Dialog Text,,0,0,0,,{\rCHS}这个嘛 不要在此逗留 旅者\N{\rENG}Well, travel not here, traveler, 
+Dialogue: 100,0:04:28.65,0:04:30.45,Normal Dialog Text,,0,0,0,,{\rCHS}只因此地十分危险\N{\rENG}as this place is very dangerous. 
+Dialogue: 100,0:04:30.49,0:04:32.52,Normal Dialog Text,,0,0,0,,{\rCHS}好吧 我去别的地方\N{\rENG}Very well. I'll go elsewhere. 
+Dialogue: 100,0:04:32.55,0:04:33.99,Normal Dialog Text,,0,0,0,,{\rCHS}等等!\N{\rENG}Wait! 
 Dialogue: 100,0:04:34.02,0:04:35.66,Normal Dialog Text,,0,0,0,,{\rCHS}地球上还有很多地方\N{\rENG}There are many places on this Earth
-Dialogue: 100,0:04:35.69,0:04:37.63,Normal Dialog Text,,0,0,0,,{\rCHS}像你这样的人类不应该造访\N{\rENG}that a human like you should avoid.
+Dialogue: 100,0:04:35.69,0:04:37.63,Normal Dialog Text,,0,0,0,,{\rCHS}像你这样的人类不应该造访\N{\rENG}that a human like you should avoid. 
 Dialogue: 100,0:04:37.66,0:04:40.19,Normal Dialog Text,,0,0,0,,{\rCHS}我给你标记了这些地方以便查找\N{\rENG}Here's a convenient marking of all the places
-Dialogue: 100,0:04:40.23,0:04:43.56,Normal Dialog Text,,0,0,0,,{\rCHS}这些地方你绝对,任何情况下,都不能去\N{\rENG}where you should absolutely, under no circumstances, visit
-Dialogue: 100,0:04:43.60,0:04:45.40,Normal Dialog Text,,0,0,0,,{\rCHS}不然你短暂的生命会更短暂\N{\rENG}if you'd like to keep your short life.
-Dialogue: 100,0:04:45.43,0:04:48.70,Normal Dialog Text,,0,0,0,,{\rCHS}只有最勇敢,最无畏,\N{\rENG}Only the bravest, most courageous,
+Dialogue: 100,0:04:40.23,0:04:43.56,Normal Dialog Text,,0,0,0,,{\rCHS}这些地方你绝对 任何情况下 都不能去\N{\rENG}where you should absolutely, under no circumstances, visit
+Dialogue: 100,0:04:43.60,0:04:45.40,Normal Dialog Text,,0,0,0,,{\rCHS}不然你短暂的生命会更短暂\N{\rENG}if you'd like to keep your short life. 
+Dialogue: 100,0:04:45.43,0:04:48.70,Normal Dialog Text,,0,0,0,,{\rCHS}只有最勇敢 最无畏 \N{\rENG}Only the bravest, most courageous, 
 Dialogue: 100,0:04:48.74,0:04:51.61,Normal Dialog Text,,0,0,0,,{\rCHS}最值得铭记的探险家才敢\N{\rENG}most memorable explorers would dare
-Dialogue: 100,0:04:51.64,0:04:54.08,Normal Dialog Text,,0,0,0,,{\rCHS}到这些美妙的地方探索\N{\rENG}to visit these fascinating places.
-Dialogue: 100,0:04:54.11,0:04:57.25,Normal Dialog Text,,0,0,0,,{\rCHS}对,我刚刚才说过\N{\rENG}Yes, that's essentially what I just said.
-Dialogue: 100,0:04:57.28,0:04:59.05,Normal Dialog Text,,0,0,0,,{\rCHS}不管怎样,还好我给你点明了\N{\rENG}Anyway, glad we cleared that up.
-Dialogue: 100,0:05:01.12,0:05:03.28,Normal Dialog Text,,0,0,0,,{\rCHS}再了个见! \N{\rENG}Fare thee well!
-Dialogue: 100,0:05:03.32,0:05:06.12,Normal Dialog Text,,0,0,0,,{\rCHS}对啊,如果我探索了这些地方\N{\rENG}Surely,if I do explore these places,
-Dialogue: 100,0:05:06.16,0:05:09.16,Normal Dialog Text,,0,0,0,,{\rCHS}我将会以勇敢和无畏被人铭记!\N{\rENG}I'll be remembered as brave and courageous!
-Dialogue: 100,0:05:27.44,0:05:30.11,Normal Dialog Text,,0,0,0,,{\rCHS}他还画了通讯中心\N{\rENG}He drew the communication hub.
-Dialogue: 100,0:05:30.15,0:05:31.48,Normal Dialog Text,,0,0,0,,{\rCHS}闪闪鼻涕虫?\N{\rENG}Sparkling slugs?
-Dialogue: 100,0:05:31.51,0:05:33.38,Normal Dialog Text,,0,0,0,,{\rCHS}他怎么想到这些名字的?\N{\rENG}Where'd he get these names from?
-Dialogue: 100,0:05:33.42,0:05:36.18,Normal Dialog Text,,0,0,0,,{\rCHS}哦!这个名字他猜对了! \N{\rENG}Ooh!He got this one right!
-Dialogue: 100,0:05:36.22,0:05:38.09,Normal Dialog Text,,0,0,0,,{\rCHS}感觉好像又去了一遍这些地方\N{\rENG}I feel like I'm back there.
-Dialogue: 100,0:05:38.12,0:05:40.15,Normal Dialog Text,,0,0,0,,{\rCHS}这是什么地方?\N{\rENG}What's this place?
-Dialogue: 100,0:05:40.19,0:05:42.39,Normal Dialog Text,,0,0,0,,{\rCHS}这个我也不知道\N{\rENG}I don't know this one.
-Dialogue: 100,0:05:43.43,0:05:47.00,Normal Dialog Text,,0,0,0,,{\rCHS}哦!看起来他还去了宝宝基地!\N{\rENG}Ooh! It looks like he went to the kindergarten!
-Dialogue: 100,0:05:47.03,0:05:50.53,Normal Dialog Text,,0,0,0,,{\rCHS}我发现自己身处一个最令人惊讶的地方\N{\rENG}I found myself at the most amazing locations.
-Dialogue: 100,0:05:50.57,0:05:54.00,Normal Dialog Text,,0,0,0,,{\rCHS}嗯嗯,很尖\N{\rENG}Hmm.Very pointy.
+Dialogue: 100,0:04:51.64,0:04:54.08,Normal Dialog Text,,0,0,0,,{\rCHS}到这些美妙的地方探索\N{\rENG}to visit these fascinating places. 
+Dialogue: 100,0:04:54.11,0:04:57.25,Normal Dialog Text,,0,0,0,,{\rCHS}对 我刚刚才说过\N{\rENG}Yes, that's essentially what I just said. 
+Dialogue: 100,0:04:57.28,0:04:59.05,Normal Dialog Text,,0,0,0,,{\rCHS}不管怎样 还好我给你点明了\N{\rENG}Anyway, glad we cleared that up. 
+Dialogue: 100,0:05:01.12,0:05:03.28,Normal Dialog Text,,0,0,0,,{\rCHS}再了个见! \N{\rENG}Fare thee well! 
+Dialogue: 100,0:05:03.32,0:05:06.12,Normal Dialog Text,,0,0,0,,{\rCHS}对啊 如果我探索了这些地方\N{\rENG}Surely, if I do explore these places, 
+Dialogue: 100,0:05:06.16,0:05:09.16,Normal Dialog Text,,0,0,0,,{\rCHS}我将会以勇敢和无畏被人铭记!\N{\rENG}I'll be remembered as brave and courageous! 
+Dialogue: 100,0:05:27.44,0:05:30.11,Normal Dialog Text,,0,0,0,,{\rCHS}他还画了通讯中心\N{\rENG}He drew the communication hub. 
+Dialogue: 100,0:05:30.15,0:05:31.48,Normal Dialog Text,,0,0,0,,{\rCHS}闪闪鼻涕虫?\N{\rENG}Sparkling slugs? 
+Dialogue: 100,0:05:31.51,0:05:33.38,Normal Dialog Text,,0,0,0,,{\rCHS}他怎么想到这些名字的?\N{\rENG}Where'd he get these names from? 
+Dialogue: 100,0:05:33.42,0:05:36.18,Normal Dialog Text,,0,0,0,,{\rCHS}哦! 这个名字他猜对了! \N{\rENG}Ooh! He got this one right! 
+Dialogue: 100,0:05:36.22,0:05:38.09,Normal Dialog Text,,0,0,0,,{\rCHS}感觉好像又去了一遍这些地方\N{\rENG}I feel like I'm back there. 
+Dialogue: 100,0:05:38.12,0:05:40.15,Normal Dialog Text,,0,0,0,,{\rCHS}这是什么地方?\N{\rENG}What's this place? 
+Dialogue: 100,0:05:40.19,0:05:42.39,Normal Dialog Text,,0,0,0,,{\rCHS}这个我也不知道\N{\rENG}I don't know this one. 
+Dialogue: 100,0:05:43.43,0:05:47.00,Normal Dialog Text,,0,0,0,,{\rCHS}哦! 看起来他还去了宝宝基地!\N{\rENG}Ooh! It looks like he went to the kindergarten! 
+Dialogue: 100,0:05:47.03,0:05:50.53,Normal Dialog Text,,0,0,0,,{\rCHS}我发现自己身处一个最令人惊讶的地方\N{\rENG}I found myself at the most amazing locations. 
+Dialogue: 100,0:05:50.57,0:05:54.00,Normal Dialog Text,,0,0,0,,{\rCHS}嗯嗯 很尖\N{\rENG}Hmm. Very pointy. 
 Dialogue: 100,0:05:54.04,0:05:56.47,Normal Dialog Text,,0,0,0,,{\rCHS}但是我还是隐约有种感觉\N{\rENG}Though I could not shake the feeling
-Dialogue: 100,0:05:56.51,0:06:01.08,Normal Dialog Text,,0,0,0,,{\rCHS}感觉这次旅行有什么...不对劲\N{\rENG}that something about this journey felt a bit...off.
-Dialogue: 100,0:06:01.11,0:06:03.08,Normal Dialog Text,,0,0,0,,{\rCHS}嗯\N{\rENG}Hmm.
-Dialogue: 100,0:06:03.11,0:06:05.61,Normal Dialog Text,,0,0,0,,{\rCHS}我很好奇为什么这些小洞会在这儿\N{\rENG}I wonder why all these tiny caves are here.
-Dialogue: 100,0:06:05.65,0:06:07.35,Normal Dialog Text,,0,0,0,,{\rCHS}-嘿,伙计!\N{\rENG}-Hey, Buddy!
-Dialogue: 100,0:06:07.38,0:06:09.55,Normal Dialog Text,,0,0,0,,{\rCHS}对-对就是我\N{\rENG}Th-This is Buddy speaking.
-Dialogue: 100,0:06:09.59,0:06:11.95,Normal Dialog Text,,0,0,0,,{\rCHS}从我的洞里出来\N{\rENG}Get out of my hole.
-Dialogue: 100,0:06:11.99,0:06:15.26,Normal Dialog Text,,0,0,0,,{\rCHS}嗟乎,原来是第三只水晶战士\N{\rENG}Lo, it was the third Crystal Gem.
+Dialogue: 100,0:05:56.51,0:06:01.08,Normal Dialog Text,,0,0,0,,{\rCHS}感觉这次旅行有什么...不对劲\N{\rENG}that something about this journey felt a bit...off. 
+Dialogue: 100,0:06:01.11,0:06:03.08,Normal Dialog Text,,0,0,0,,{\rCHS}嗯\N{\rENG}Hmm. 
+Dialogue: 100,0:06:03.11,0:06:05.61,Normal Dialog Text,,0,0,0,,{\rCHS}我很好奇为什么这些小洞会在这儿\N{\rENG}I wonder why all these tiny caves are here. 
+Dialogue: 100,0:06:05.65,0:06:07.35,Normal Dialog Text,,0,0,0,,{\rCHS}-嘿 伙计!\N{\rENG}-Hey, Buddy! 
+Dialogue: 100,0:06:07.38,0:06:09.55,Normal Dialog Text,,0,0,0,,{\rCHS}对-对就是我\N{\rENG}Th-This is Buddy speaking. 
+Dialogue: 100,0:06:09.59,0:06:11.95,Normal Dialog Text,,0,0,0,,{\rCHS}从我的洞里出来\N{\rENG}Get out of my hole. 
+Dialogue: 100,0:06:11.99,0:06:15.26,Normal Dialog Text,,0,0,0,,{\rCHS}嗟乎 原来是第三只水晶战士\N{\rENG}Lo, it was the third Crystal Gem. 
 Dialogue: 600,0:06:11.99,0:06:14.00,Hint,,0,0,0,,紫晶穿的是1890年的日本帝国骑兵制服
-Dialogue: 100,0:06:15.29,0:06:17.73,Normal Dialog Text,,0,0,0,,{\rCHS}你是,呃,住在这里?\N{\rENG}Do you, uh, live here?
-Dialogue: 100,0:06:17.76,0:06:19.26,Normal Dialog Text,,0,0,0,,{\rCHS}以前是!\N{\rENG}Used to!
+Dialogue: 100,0:06:15.29,0:06:17.73,Normal Dialog Text,,0,0,0,,{\rCHS}你是 呃 住在这里?\N{\rENG}Do you, uh, live here? 
+Dialogue: 100,0:06:17.76,0:06:19.26,Normal Dialog Text,,0,0,0,,{\rCHS}以前是!\N{\rENG}Used to! 
 Dialogue: 100,0:06:19.29,0:06:21.43,Normal Dialog Text,,0,0,0,,{\rCHS}现在我就是不时回来\N{\rENG}Nowadays, I just come back every so often
-Dialogue: 100,0:06:21.46,0:06:23.26,Normal Dialog Text,,0,0,0,,{\rCHS}看看家人怎么样了\N{\rENG}to see how the fam's doing.
-Dialogue: 100,0:06:23.30,0:06:25.57,Normal Dialog Text,,0,0,0,,{\rCHS}家人? \N{\rENG}The fam?
-Dialogue: 100,0:06:25.60,0:06:27.77,Normal Dialog Text,,0,0,0,,{\rCHS}嘿,最近怎样啊?\N{\rENG}Hey, how you been?
-Dialogue: 100,0:06:27.80,0:06:29.74,Normal Dialog Text,,0,0,0,,{\rCHS}嗷!你是不是长高了?\N{\rENG}Aw!You getting taller?
-Dialogue: 100,0:06:29.77,0:06:32.34,Normal Dialog Text,,0,0,0,,{\rCHS}呃,等我一下,有个客人来了\N{\rENG}Uh, give me a sec --I have a visitor.
-Dialogue: 100,0:06:32.37,0:06:34.34,Normal Dialog Text,,0,0,0,,{\rCHS}你来这儿干啥?!\N{\rENG}Why are you here?!
-Dialogue: 100,0:06:34.38,0:06:37.41,Normal Dialog Text,,0,0,0,,{\rCHS}哦,我的错 来,我给你看看\N{\rENG}Oh. My apologies. Here, I'll show you.
-Dialogue: 100,0:06:37.45,0:06:40.78,Normal Dialog Text,,0,0,0,,{\rCHS}我现在是作为探险家在进行环球探险\N{\rENG}I've been traveling the globe as an adventurer and explorer.
-Dialogue: 100,0:06:40.82,0:06:42.22,Normal Dialog Text,,0,0,0,,{\rCHS}赞!\N{\rENG}Neat!
+Dialogue: 100,0:06:21.46,0:06:23.26,Normal Dialog Text,,0,0,0,,{\rCHS}看看家人怎么样了\N{\rENG}to see how the fam's doing. 
+Dialogue: 100,0:06:23.30,0:06:25.57,Normal Dialog Text,,0,0,0,,{\rCHS}家人? \N{\rENG}The fam? 
+Dialogue: 100,0:06:25.60,0:06:27.77,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 最近怎样啊?\N{\rENG}Hey, how you been? 
+Dialogue: 100,0:06:27.80,0:06:29.74,Normal Dialog Text,,0,0,0,,{\rCHS}嗷! 你是不是长高了?\N{\rENG}Aw! You getting taller? 
+Dialogue: 100,0:06:29.77,0:06:32.34,Normal Dialog Text,,0,0,0,,{\rCHS}呃 等我一下 有个客人来了\N{\rENG}Uh, give me a sec--I have a visitor. 
+Dialogue: 100,0:06:32.37,0:06:34.34,Normal Dialog Text,,0,0,0,,{\rCHS}你来这儿干啥?!\N{\rENG}Why are you here?! 
+Dialogue: 100,0:06:34.38,0:06:37.41,Normal Dialog Text,,0,0,0,,{\rCHS}哦 我的错 来 我给你看看\N{\rENG}Oh. My apologies. Here, I'll show you. 
+Dialogue: 100,0:06:37.45,0:06:40.78,Normal Dialog Text,,0,0,0,,{\rCHS}我现在是作为探险家在进行环球探险\N{\rENG}I've been traveling the globe as an adventurer and explorer. 
+Dialogue: 100,0:06:40.82,0:06:42.22,Normal Dialog Text,,0,0,0,,{\rCHS}赞!\N{\rENG}Neat! 
 Dialogue: 100,0:06:42.25,0:06:43.58,Normal Dialog Text,,0,0,0,,{\rCHS}我一直在旅途中\N{\rENG}I've been on a journey to discover
-Dialogue: 100,0:06:43.62,0:06:45.79,Normal Dialog Text,,0,0,0,,{\rCHS}探索无人曾到达的地方\N{\rENG}places no one has ever been before.
-Dialogue: 100,0:06:45.82,0:06:47.52,Normal Dialog Text,,0,0,0,,{\rCHS}但是看这个地方的样子\N{\rENG}But by the looks of this place,
-Dialogue: 100,0:06:47.56,0:06:50.39,Normal Dialog Text,,0,0,0,,{\rCHS}很多人已经来过这里了\N{\rENG}many people have been here before.
-Dialogue: 100,0:06:50.43,0:06:53.16,Normal Dialog Text,,0,0,0,,{\rCHS}等下,这张地图是你自己做的?\N{\rENG}Hold on. Did you make this map?
-Dialogue: 100,0:06:53.20,0:06:55.43,Normal Dialog Text,,0,0,0,,{\rCHS}是你的同僚帮我标记的\N{\rENG}It was drawn up for me by your compatriots.
-Dialogue: 100,0:06:55.46,0:06:57.33,Normal Dialog Text,,0,0,0,,{\rCHS}就是说,噗\N{\rENG}So, pbht!
-Dialogue: 100,0:06:57.37,0:06:59.10,Normal Dialog Text,,0,0,0,,{\rCHS}你又独立发现了什么呢?\N{\rENG}What have you discovered on it?
-Dialogue: 100,0:06:59.13,0:07:01.64,Normal Dialog Text,,0,0,0,,{\rCHS}这个嘛,我...发现了...\N{\rENG}Well, I uh..That is...
-Dialogue: 100,0:07:01.67,0:07:04.14,Normal Dialog Text,,0,0,0,,{\rCHS}哦,呃 哦 天啊\N{\rENG}Oh. Uh...Oh, dear.
-Dialogue: 100,0:07:04.17,0:07:07.48,Normal Dialog Text,,0,0,0,,{\rCHS}这张图上没有一处是我自己发现的!\N{\rENG}I haven't discovered a single thing on this map!
-Dialogue: 100,0:07:07.51,0:07:09.01,Normal Dialog Text,,0,0,0,,{\rCHS}就是说啊,哥们\N{\rENG}Yeah, man.
-Dialogue: 100,0:07:09.04,0:07:11.51,Normal Dialog Text,,0,0,0,,{\rCHS}你只是在跟着别人的足迹旅行罢了\N{\rENG}You're just following someone else's footsteps.
-Dialogue: 100,0:07:11.55,0:07:13.21,Normal Dialog Text,,0,0,0,,{\rCHS}原来这就是我\N{\rENG}And here I was,
-Dialogue: 100,0:07:13.25,0:07:16.08,Normal Dialog Text,,0,0,0,,{\rCHS}自诩为伟大的冒险家和探索者\N{\rENG}claiming to be a great explorer and adventurer,
+Dialogue: 100,0:06:43.62,0:06:45.79,Normal Dialog Text,,0,0,0,,{\rCHS}探索无人曾到达的地方\N{\rENG}places no one has ever been before. 
+Dialogue: 100,0:06:45.82,0:06:47.52,Normal Dialog Text,,0,0,0,,{\rCHS}但是看这个地方的样子\N{\rENG}But by the looks of this place, 
+Dialogue: 100,0:06:47.56,0:06:50.39,Normal Dialog Text,,0,0,0,,{\rCHS}很多人已经来过这里了\N{\rENG}many people have been here before. 
+Dialogue: 100,0:06:50.43,0:06:53.16,Normal Dialog Text,,0,0,0,,{\rCHS}等下 这张地图是你自己做的?\N{\rENG}Hold on. Did you make this map? 
+Dialogue: 100,0:06:53.20,0:06:55.43,Normal Dialog Text,,0,0,0,,{\rCHS}是你的同僚帮我标记的\N{\rENG}It was drawn up for me by your compatriots. 
+Dialogue: 100,0:06:55.46,0:06:57.33,Normal Dialog Text,,0,0,0,,{\rCHS}就是说 噗\N{\rENG}So, pbht! 
+Dialogue: 100,0:06:57.37,0:06:59.10,Normal Dialog Text,,0,0,0,,{\rCHS}你又独立发现了什么呢?\N{\rENG}What have you discovered on it? 
+Dialogue: 100,0:06:59.13,0:07:01.64,Normal Dialog Text,,0,0,0,,{\rCHS}这个嘛 我...发现了...\N{\rENG}Well, I uh.. That is...
+Dialogue: 100,0:07:01.67,0:07:04.14,Normal Dialog Text,,0,0,0,,{\rCHS}哦 呃 哦 天啊\N{\rENG}Oh. Uh...Oh, dear. 
+Dialogue: 100,0:07:04.17,0:07:07.48,Normal Dialog Text,,0,0,0,,{\rCHS}这张图上没有一处是我自己发现的!\N{\rENG}I haven't discovered a single thing on this map! 
+Dialogue: 100,0:07:07.51,0:07:09.01,Normal Dialog Text,,0,0,0,,{\rCHS}就是说啊 哥们\N{\rENG}Yeah, man. 
+Dialogue: 100,0:07:09.04,0:07:11.51,Normal Dialog Text,,0,0,0,,{\rCHS}你只是在跟着别人的足迹旅行罢了\N{\rENG}You're just following someone else's footsteps. 
+Dialogue: 100,0:07:11.55,0:07:13.21,Normal Dialog Text,,0,0,0,,{\rCHS}原来这就是我\N{\rENG}And here I was, 
+Dialogue: 100,0:07:13.25,0:07:16.08,Normal Dialog Text,,0,0,0,,{\rCHS}自诩为伟大的冒险家和探索者\N{\rENG}claiming to be a great explorer and adventurer, 
 Dialogue: 100,0:07:16.12,0:07:18.22,Normal Dialog Text,,0,0,0,,{\rCHS}但自己其实只是...\N{\rENG}when all I really am...
-Dialogue: 100,0:07:18.25,0:07:20.12,Normal Dialog Text,,0,0,0,,{\rCHS}只是个游客!\N{\rENG}is a tourist!
-Dialogue: 100,0:07:22.36,0:07:25.36,Normal Dialog Text,,0,0,0,,{\rCHS}哇 别当着我面儿伤心啊\N{\rENG}Whoa.Don't get all sad on me.
-Dialogue: 100,0:07:25.39,0:07:29.20,Normal Dialog Text,,0,0,0,,{\rCHS}怪不得我感觉有什么不对劲!\N{\rENG}This is why my journey hasn't felt right!
+Dialogue: 100,0:07:18.25,0:07:20.12,Normal Dialog Text,,0,0,0,,{\rCHS}只是个游客!\N{\rENG}is a tourist! 
+Dialogue: 100,0:07:22.36,0:07:25.36,Normal Dialog Text,,0,0,0,,{\rCHS}哇 别当着我面儿伤心啊\N{\rENG}Whoa. Don't get all sad on me. 
+Dialogue: 100,0:07:25.39,0:07:29.20,Normal Dialog Text,,0,0,0,,{\rCHS}怪不得我感觉有什么不对劲!\N{\rENG}This is why my journey hasn't felt right! 
 Dialogue: 100,0:07:30.77,0:07:32.80,Normal Dialog Text,,0,0,0,,{\rCHS}额\N{\rENG}Uh...
-Dialogue: 100,0:07:32.84,0:07:34.80,Normal Dialog Text,,0,0,0,,{\rCHS}呃,哦,对了!\N{\rENG}Uh, oh, yeah!
-Dialogue: 100,0:07:34.84,0:07:37.67,Normal Dialog Text,,0,0,0,,{\rCHS}你为什么不去试试找沙城堡呢?\N{\rENG}Why don't you try and find the sand castle?
-Dialogue: 100,0:07:37.71,0:07:39.47,Normal Dialog Text,,0,0,0,,{\rCHS}呃,啥? \N{\rENG}Uh, wha?
-Dialogue: 100,0:07:39.51,0:07:41.74,Normal Dialog Text,,0,0,0,,{\rCHS}一边去,我给你指下\N{\rENG}Out of the way. I'll show you.
-Dialogue: 100,0:07:41.78,0:07:45.25,Normal Dialog Text,,0,0,0,,{\rCHS}它就在这片全都是沙的地方\N{\rENG}It's right around here in this sandy area.
-Dialogue: 100,0:07:45.28,0:07:46.81,Normal Dialog Text,,0,0,0,,{\rCHS}-真的?-当然!\N{\rENG}-Really? -Yeah!
-Dialogue: 100,0:07:46.85,0:07:49.32,Normal Dialog Text,,0,0,0,,{\rCHS}人说它永远不会停在一个地方\N{\rENG}They say it's never in the same place twice.
-Dialogue: 100,0:07:49.35,0:07:52.12,Normal Dialog Text,,0,0,0,,{\rCHS}它总是在沙漠各地不断重建\N{\rENG}It's always rebuilding itself all over the desert.
-Dialogue: 100,0:07:52.15,0:07:54.82,Normal Dialog Text,,0,0,0,,{\rCHS}听起来是个再合适不过的探险了!\N{\rENG}That sounds like the perfect adventure for me!
-Dialogue: 100,0:07:54.86,0:07:57.66,Normal Dialog Text,,0,0,0,,{\rCHS}我还将会是第一个看到它的人!\N{\rENG}And I'll be the first one to see it!
-Dialogue: 100,0:07:57.69,0:07:59.23,Normal Dialog Text,,0,0,0,,{\rCHS}呵 好吧\N{\rENG}Heh. Okay.
-Dialogue: 100,0:07:59.26,0:08:01.60,Normal Dialog Text,,0,0,0,,{\rCHS}谢谢你的帮助 再见!\N{\rENG}Thank you for your help. Goodbye!
-Dialogue: 100,0:08:01.63,0:08:03.53,Normal Dialog Text,,0,0,0,,{\rCHS}欢迎随时回来!\N{\rENG}Come back anytime!
-Dialogue: 100,0:08:03.57,0:08:05.73,Normal Dialog Text,,0,0,0,,{\rCHS}但也别太频繁!\N{\rENG}But not too much!
-Dialogue: 100,0:08:08.17,0:08:13.24,Normal Dialog Text,,0,0,0,,{\rCHS}我已经在这片沙漠中漫步了10天了\N{\rENG}I've been wandering this desert for 10 days now.
+Dialogue: 100,0:07:32.84,0:07:34.80,Normal Dialog Text,,0,0,0,,{\rCHS}呃 哦 对了!\N{\rENG}Uh, oh, yeah! 
+Dialogue: 100,0:07:34.84,0:07:37.67,Normal Dialog Text,,0,0,0,,{\rCHS}你为什么不去试试找沙城堡呢?\N{\rENG}Why don't you try and find the sand castle? 
+Dialogue: 100,0:07:37.71,0:07:39.47,Normal Dialog Text,,0,0,0,,{\rCHS}呃 啥? \N{\rENG}Uh, wha? 
+Dialogue: 100,0:07:39.51,0:07:41.74,Normal Dialog Text,,0,0,0,,{\rCHS}一边去 我给你指下\N{\rENG}Out of the way. I'll show you. 
+Dialogue: 100,0:07:41.78,0:07:45.25,Normal Dialog Text,,0,0,0,,{\rCHS}它就在这片全都是沙的地方\N{\rENG}It's right around here in this sandy area. 
+Dialogue: 100,0:07:45.28,0:07:46.81,Normal Dialog Text,,0,0,0,,{\rCHS}-真的?-当然!\N{\rENG}-Really?-Yeah! 
+Dialogue: 100,0:07:46.85,0:07:49.32,Normal Dialog Text,,0,0,0,,{\rCHS}人说它永远不会停在一个地方\N{\rENG}They say it's never in the same place twice. 
+Dialogue: 100,0:07:49.35,0:07:52.12,Normal Dialog Text,,0,0,0,,{\rCHS}它总是在沙漠各地不断重建\N{\rENG}It's always rebuilding itself all over the desert. 
+Dialogue: 100,0:07:52.15,0:07:54.82,Normal Dialog Text,,0,0,0,,{\rCHS}听起来是个再合适不过的探险了!\N{\rENG}That sounds like the perfect adventure for me! 
+Dialogue: 100,0:07:54.86,0:07:57.66,Normal Dialog Text,,0,0,0,,{\rCHS}我还将会是第一个看到它的人!\N{\rENG}And I'll be the first one to see it! 
+Dialogue: 100,0:07:57.69,0:07:59.23,Normal Dialog Text,,0,0,0,,{\rCHS}呵 好吧\N{\rENG}Heh. Okay. 
+Dialogue: 100,0:07:59.26,0:08:01.60,Normal Dialog Text,,0,0,0,,{\rCHS}谢谢你的帮助 再见!\N{\rENG}Thank you for your help. Goodbye! 
+Dialogue: 100,0:08:01.63,0:08:03.53,Normal Dialog Text,,0,0,0,,{\rCHS}欢迎随时回来!\N{\rENG}Come back anytime! 
+Dialogue: 100,0:08:03.57,0:08:05.73,Normal Dialog Text,,0,0,0,,{\rCHS}但也别太频繁!\N{\rENG}But not too much! 
+Dialogue: 100,0:08:08.17,0:08:13.24,Normal Dialog Text,,0,0,0,,{\rCHS}我已经在这片沙漠中漫步了10天了\N{\rENG}I've been wandering this desert for 10 days now. 
 Dialogue: 100,0:08:13.28,0:08:16.32,Normal Dialog Text,,0,0,0,,{\rCHS}我想我该脱下探险家之大衣\N{\rENG}I suppose I could take off my explorer's coat
-Dialogue: 100,0:08:16.32,0:08:17.68,Normal Dialog Text,,0,0,0,,{\rCHS}好歹能凉快一会\N{\rENG}for a bit of relief,
-Dialogue: 100,0:08:17.71,0:08:21.08,Normal Dialog Text,,0,0,0,,{\rCHS}但是如果我不穿大衣的话,人们看到我就会想\N{\rENG}but if I wasn't wearing this, people would see me and think,
-Dialogue: 100,0:08:21.12,0:08:24.39,Normal Dialog Text,,0,0,0,,{\rCHS}"哦,就是个普通人到处走而已\N{\rENG}"Oh, just some man wandering around.
-Dialogue: 100,0:08:24.42,0:08:25.82,Normal Dialog Text,,0,0,0,,{\rCHS}一点都不重要\N{\rENG}Not important at all.
-Dialogue: 100,0:08:25.85,0:08:30.12,Normal Dialog Text,,0,0,0,,{\rCHS}可不是嘛,他连神秘的沙城堡都找不到!"\N{\rENG}Why, he can't even find the elusive sand castle!"
-Dialogue: 100,0:08:30.16,0:08:32.29,Normal Dialog Text,,0,0,0,,{\rCHS}"哈哈哈"他们会这么笑\N{\rENG}"Ha, ha, ha" they'd say.
-Dialogue: 100,0:08:32.33,0:08:35.26,Normal Dialog Text,,0,0,0,,{\rCHS}"真是个傻瓜"他们会这么说\N{\rENG}"What a fool," they'd continue.
-Dialogue: 100,0:08:35.30,0:08:36.60,Normal Dialog Text,,0,0,0,,{\rCHS}呃\N{\rENG}Ugh.
-Dialogue: 100,0:08:36.63,0:08:40.67,Normal Dialog Text,,0,0,0,,{\rCHS}这就是了---这就是我冒险旅途的尽头\N{\rENG}This is it, then -- the end of my adventure.
-Dialogue: 100,0:08:40.70,0:08:44.64,Normal Dialog Text,,0,0,0,,{\rCHS}我跟着一张地图来到了我的终结之地\N{\rENG}I've just followed a map to my own end.
-Dialogue: 100,0:08:44.67,0:08:48.64,Normal Dialog Text,,0,0,0,,{\rCHS}这就是我逝去前所能看到的最后一幕--\N{\rENG}And this will be the last thing I ever see as I expire --
-Dialogue: 100,0:08:48.68,0:08:52.38,Normal Dialog Text,,0,0,0,,{\rCHS}一个天使和她的--一,二,三--\N{\rENG}an angel and her -- one, two, three --
-Dialogue: 100,0:08:52.41,0:08:56.15,Normal Dialog Text,,0,0,0,,{\rCHS}好几只狮子,来取走我的灵魂\N{\rENG}several lions, here for my soul.
-Dialogue: 100,0:08:56.19,0:08:57.79,Normal Dialog Text,,0,0,0,,{\rCHS}这就完结了吗?\N{\rENG}Is this the end?
-Dialogue: 100,0:08:57.82,0:08:59.59,Normal Dialog Text,,0,0,0,,{\rCHS}我猜是的\N{\rENG}I guess so.
-Dialogue: 100,0:08:59.62,0:09:01.69,Normal Dialog Text,,0,0,0,,{\rCHS}哦等下,后面还有一堆呢!\N{\rENG}Oh, wait. There's a bunch more.
-Dialogue: 100,0:09:01.72,0:09:04.43,Normal Dialog Text,,0,0,0,,{\rCHS}我慢慢恢复了意识\N{\rENG}As I slowly regained consciousness,
+Dialogue: 100,0:08:16.32,0:08:17.68,Normal Dialog Text,,0,0,0,,{\rCHS}好歹能凉快一会\N{\rENG}for a bit of relief, 
+Dialogue: 100,0:08:17.71,0:08:21.08,Normal Dialog Text,,0,0,0,,{\rCHS}但是如果我不穿大衣的话 人们看到我就会想\N{\rENG}but if I wasn't wearing this, people would see me and think, 
+Dialogue: 100,0:08:21.12,0:08:24.39,Normal Dialog Text,,0,0,0,,{\rCHS}"哦 就是个普通人到处走而已\N{\rENG}"Oh, just some man wandering around. 
+Dialogue: 100,0:08:24.42,0:08:25.82,Normal Dialog Text,,0,0,0,,{\rCHS}一点都不重要\N{\rENG}Not important at all. 
+Dialogue: 100,0:08:25.85,0:08:30.12,Normal Dialog Text,,0,0,0,,{\rCHS}可不是嘛 他连神秘的沙城堡都找不到!"\N{\rENG}Why, he can't even find the elusive sand castle!"
+Dialogue: 100,0:08:30.16,0:08:32.29,Normal Dialog Text,,0,0,0,,{\rCHS}"哈哈哈"他们会这么笑\N{\rENG}"Ha, ha, ha"they'd say. 
+Dialogue: 100,0:08:32.33,0:08:35.26,Normal Dialog Text,,0,0,0,,{\rCHS}"真是个傻瓜"他们会这么说\N{\rENG}"What a fool,"they'd continue. 
+Dialogue: 100,0:08:35.30,0:08:36.60,Normal Dialog Text,,0,0,0,,{\rCHS}呃\N{\rENG}Ugh. 
+Dialogue: 100,0:08:36.63,0:08:40.67,Normal Dialog Text,,0,0,0,,{\rCHS}这就是了---这就是我冒险旅途的尽头\N{\rENG}This is it, then--the end of my adventure. 
+Dialogue: 100,0:08:40.70,0:08:44.64,Normal Dialog Text,,0,0,0,,{\rCHS}我跟着一张地图来到了我的终结之地\N{\rENG}I've just followed a map to my own end. 
+Dialogue: 100,0:08:44.67,0:08:48.64,Normal Dialog Text,,0,0,0,,{\rCHS}这就是我逝去前所能看到的最后一幕--\N{\rENG}And this will be the last thing I ever see as I expire--
+Dialogue: 100,0:08:48.68,0:08:52.38,Normal Dialog Text,,0,0,0,,{\rCHS}一个天使和她的--一 二 三--\N{\rENG}an angel and her--one, two, three--
+Dialogue: 100,0:08:52.41,0:08:56.15,Normal Dialog Text,,0,0,0,,{\rCHS}好几只狮子 来取走我的灵魂\N{\rENG}several lions, here for my soul. 
+Dialogue: 100,0:08:56.19,0:08:57.79,Normal Dialog Text,,0,0,0,,{\rCHS}这就完结了吗?\N{\rENG}Is this the end? 
+Dialogue: 100,0:08:57.82,0:08:59.59,Normal Dialog Text,,0,0,0,,{\rCHS}我猜是的\N{\rENG}I guess so. 
+Dialogue: 100,0:08:59.62,0:09:01.69,Normal Dialog Text,,0,0,0,,{\rCHS}哦等下 后面还有一堆呢!\N{\rENG}Oh, wait. There's a bunch more. 
+Dialogue: 100,0:09:01.72,0:09:04.43,Normal Dialog Text,,0,0,0,,{\rCHS}我慢慢恢复了意识\N{\rENG}As I slowly regained consciousness, 
 Dialogue: 100,0:09:04.46,0:09:06.59,Normal Dialog Text,,0,0,0,,{\rCHS}我看到了一个高大的人影\N{\rENG}I became aware of a large figure
-Dialogue: 100,0:09:06.63,0:09:08.73,Normal Dialog Text,,0,0,0,,{\rCHS}是个巨大的女人\N{\rENG}in the shape of a giant woman.
+Dialogue: 100,0:09:06.63,0:09:08.73,Normal Dialog Text,,0,0,0,,{\rCHS}是个巨大的女人\N{\rENG}in the shape of a giant woman. 
 Dialogue: 100,0:09:08.76,0:09:10.77,Normal Dialog Text,,0,0,0,,{\rCHS}她卷曲的秀发\N{\rENG}The ringlets of her hair
 Dialogue: 100,0:09:10.80,0:09:13.53,Normal Dialog Text,,0,0,0,,{\rCHS}铺满了她的肩和背\N{\rENG}spilled over her shoulders and back
-Dialogue: 100,0:09:13.57,0:09:15.90,Normal Dialog Text,,0,0,0,,{\rCHS}就像一丛玫瑰\N{\rENG}like a swath of roses.
-Dialogue: 100,0:09:15.94,0:09:17.24,Normal Dialog Text,,0,0,0,,{\rCHS}妈妈!\N{\rENG}Mom!
-Dialogue: 100,0:09:17.27,0:09:19.64,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 你还好吗?\N{\rENG}Hey. Are you okay?
+Dialogue: 100,0:09:13.57,0:09:15.90,Normal Dialog Text,,0,0,0,,{\rCHS}就像一丛玫瑰\N{\rENG}like a swath of roses. 
+Dialogue: 100,0:09:15.94,0:09:17.24,Normal Dialog Text,,0,0,0,,{\rCHS}妈妈!\N{\rENG}Mom! 
+Dialogue: 100,0:09:17.27,0:09:19.64,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 你还好吗?\N{\rENG}Hey. Are you okay? 
 Dialogue: 100,0:09:19.68,0:09:22.81,Normal Dialog Text,,0,0,0,,{\rCHS}我意识到自己被包围在她的...\N{\rENG}I realized I was surrounded by her pack of...
-Dialogue: 100,0:09:22.84,0:09:24.65,Normal Dialog Text,,0,0,0,,{\rCHS}七只狮子?\N{\rENG}Seven lions?!
-Dialogue: 100,0:09:24.68,0:09:26.25,Normal Dialog Text,,0,0,0,,{\rCHS}求求你--别吃我!\N{\rENG}Please -- don't eat me!
-Dialogue: 100,0:09:26.28,0:09:29.62,Normal Dialog Text,,0,0,0,,{\rCHS}哦,别担心 我们没有恶意\N{\rENG}Oh, don't worry. We mean no harm.
-Dialogue: 100,0:09:29.65,0:09:31.39,Normal Dialog Text,,0,0,0,,{\rCHS}那就好\N{\rENG}That's good.
-Dialogue: 100,0:09:31.42,0:09:32.82,Normal Dialog Text,,0,0,0,,{\rCHS}呃\N{\rENG}Ugh.
-Dialogue: 100,0:09:32.85,0:09:35.69,Normal Dialog Text,,0,0,0,,{\rCHS}你们人类为什么要来这种地方?\N{\rENG}What brings a human out to a place like this?
-Dialogue: 100,0:09:35.72,0:09:38.66,Normal Dialog Text,,0,0,0,,{\rCHS}我以前是船上的大副,但是我们已经找到了陆地\N{\rENG}I was a first mate on a ship, but we found land.
-Dialogue: 100,0:09:38.69,0:09:41.23,Normal Dialog Text,,0,0,0,,{\rCHS}然后我意识到自己并不想呆在那片陆地\N{\rENG}And then I realized I didn't want to stay in that land,
-Dialogue: 100,0:09:41.26,0:09:42.70,Normal Dialog Text,,0,0,0,,{\rCHS}所以我就去找其他陆地\N{\rENG}so I went to find more land.
+Dialogue: 100,0:09:22.84,0:09:24.65,Normal Dialog Text,,0,0,0,,{\rCHS}七只狮子?\N{\rENG}Seven lions?! 
+Dialogue: 100,0:09:24.68,0:09:26.25,Normal Dialog Text,,0,0,0,,{\rCHS}求求你--别吃我!\N{\rENG}Please--don't eat me! 
+Dialogue: 100,0:09:26.28,0:09:29.62,Normal Dialog Text,,0,0,0,,{\rCHS}哦 别担心 我们没有恶意\N{\rENG}Oh, don't worry. We mean no harm. 
+Dialogue: 100,0:09:29.65,0:09:31.39,Normal Dialog Text,,0,0,0,,{\rCHS}那就好\N{\rENG}That's good. 
+Dialogue: 100,0:09:31.42,0:09:32.82,Normal Dialog Text,,0,0,0,,{\rCHS}呃\N{\rENG}Ugh. 
+Dialogue: 100,0:09:32.85,0:09:35.69,Normal Dialog Text,,0,0,0,,{\rCHS}你们人类为什么要来这种地方?\N{\rENG}What brings a human out to a place like this? 
+Dialogue: 100,0:09:35.72,0:09:38.66,Normal Dialog Text,,0,0,0,,{\rCHS}我以前是船上的大副 但是我们已经找到了陆地\N{\rENG}I was a first mate on a ship, but we found land. 
+Dialogue: 100,0:09:38.69,0:09:41.23,Normal Dialog Text,,0,0,0,,{\rCHS}然后我意识到自己并不想呆在那片陆地\N{\rENG}And then I realized I didn't want to stay in that land, 
+Dialogue: 100,0:09:41.26,0:09:42.70,Normal Dialog Text,,0,0,0,,{\rCHS}所以我就去找其他陆地\N{\rENG}so I went to find more land. 
 Dialogue: 100,0:09:42.73,0:09:44.77,Normal Dialog Text,,0,0,0,,{\rCHS}然后有人说不要去找那片陆地\N{\rENG}But then I was told not to find that land
-Dialogue: 100,0:09:44.80,0:09:46.57,Normal Dialog Text,,0,0,0,,{\rCHS}因为太危险了\N{\rENG}because it was really dangerous.
+Dialogue: 100,0:09:44.80,0:09:46.57,Normal Dialog Text,,0,0,0,,{\rCHS}因为太危险了\N{\rENG}because it was really dangerous. 
 Dialogue: 100,0:09:46.60,0:09:48.54,Normal Dialog Text,,0,0,0,,{\rCHS}但是我想证明自己所以...\N{\rENG}But I wanted to prove myself and...
-Dialogue: 100,0:09:48.57,0:09:50.81,Normal Dialog Text,,0,0,0,,{\rCHS}这样,我把全部都写在这儿了\N{\rENG}Look. I wrote it all down here.
+Dialogue: 100,0:09:48.57,0:09:50.81,Normal Dialog Text,,0,0,0,,{\rCHS}这样 我把全部都写在这儿了\N{\rENG}Look. I wrote it all down here. 
 Dialogue: 100,0:09:50.84,0:09:52.91,Normal Dialog Text,,0,0,0,,{\rCHS}为什么我要费劲去找沙城堡\N{\rENG}Why am I looking for the sand castle
-Dialogue: 100,0:09:52.94,0:09:55.54,Normal Dialog Text,,0,0,0,,{\rCHS}它甚至可能根本就不存在!\N{\rENG}that probably doesn't even exist?
-Dialogue: 100,0:09:55.58,0:09:57.61,Normal Dialog Text,,0,0,0,,{\rCHS}-沙城堡?-对啊\N{\rENG}-A sand castle? -Yes.
-Dialogue: 100,0:09:57.65,0:09:59.88,Normal Dialog Text,,0,0,0,,{\rCHS}我已经在沙漠中搜寻了数周\N{\rENG}I've combed these deserts for weeks,
-Dialogue: 100,0:09:59.92,0:10:01.95,Normal Dialog Text,,0,0,0,,{\rCHS}根本连影子都没看到\N{\rENG}and there's been no sign of one.
-Dialogue: 100,0:10:01.98,0:10:04.39,Normal Dialog Text,,0,0,0,,{\rCHS}那个不就是吗?\N{\rENG}Would that be a sign of one?
-Dialogue: 600,0:10:04.42,0:10:07.49,Hint,,0,0,0,,那就是了!我一定要记录下来!That's it! I've gotta record this!
-Dialogue: 100,0:10:07.52,0:10:09.49,Normal Dialog Text,,0,0,0,,{\rCHS}我一定要--等下\N{\rENG}I've got to -- Wait.
-Dialogue: 100,0:10:09.52,0:10:13.56,Normal Dialog Text,,0,0,0,,{\rCHS}你先看见的 所以根本就不算数!\N{\rENG}You saw it first. This doesn't count at all!
-Dialogue: 100,0:10:13.60,0:10:15.66,Normal Dialog Text,,0,0,0,,{\rCHS}我真是个糟糕的探索者\N{\rENG}I'm a terrible explorer.
-Dialogue: 100,0:10:15.70,0:10:18.80,Normal Dialog Text,,0,0,0,,{\rCHS}吃了我吧 我就这点用处了\N{\rENG}Eat me. It's all I'm good for.
-Dialogue: 100,0:10:18.83,0:10:21.74,Normal Dialog Text,,0,0,0,,{\rCHS}等等,等等,你说的不对\N{\rENG}Now, now, that's not true at all.
-Dialogue: 100,0:10:21.77,0:10:25.37,Normal Dialog Text,,0,0,0,,{\rCHS}当然,这些地方确实有前人探索过\N{\rENG}Sure, all these places have been explored before,
+Dialogue: 100,0:09:52.94,0:09:55.54,Normal Dialog Text,,0,0,0,,{\rCHS}它甚至可能根本就不存在!\N{\rENG}that probably doesn't even exist? 
+Dialogue: 100,0:09:55.58,0:09:57.61,Normal Dialog Text,,0,0,0,,{\rCHS}-沙城堡?-对啊\N{\rENG}-A sand castle?-Yes. 
+Dialogue: 100,0:09:57.65,0:09:59.88,Normal Dialog Text,,0,0,0,,{\rCHS}我已经在沙漠中搜寻了数周\N{\rENG}I've combed these deserts for weeks, 
+Dialogue: 100,0:09:59.92,0:10:01.95,Normal Dialog Text,,0,0,0,,{\rCHS}根本连影子都没看到\N{\rENG}and there's been no sign of one. 
+Dialogue: 100,0:10:01.98,0:10:04.39,Normal Dialog Text,,0,0,0,,{\rCHS}那个不就是吗?\N{\rENG}Would that be a sign of one? 
+Dialogue: 600,0:10:04.42,0:10:07.49,Hint,,0,0,0,,那就是了! 我一定要记录下来! That's it! I've gotta record this! 
+Dialogue: 100,0:10:07.52,0:10:09.49,Normal Dialog Text,,0,0,0,,{\rCHS}我一定要--等下\N{\rENG}I've got to--Wait. 
+Dialogue: 100,0:10:09.52,0:10:13.56,Normal Dialog Text,,0,0,0,,{\rCHS}你先看见的 所以根本就不算数!\N{\rENG}You saw it first. This doesn't count at all! 
+Dialogue: 100,0:10:13.60,0:10:15.66,Normal Dialog Text,,0,0,0,,{\rCHS}我真是个糟糕的探索者\N{\rENG}I'm a terrible explorer. 
+Dialogue: 100,0:10:15.70,0:10:18.80,Normal Dialog Text,,0,0,0,,{\rCHS}吃了我吧 我就这点用处了\N{\rENG}Eat me. It's all I'm good for. 
+Dialogue: 100,0:10:18.83,0:10:21.74,Normal Dialog Text,,0,0,0,,{\rCHS}等等 等等 你说的不对\N{\rENG}Now, now, that's not true at all. 
+Dialogue: 100,0:10:21.77,0:10:25.37,Normal Dialog Text,,0,0,0,,{\rCHS}当然 这些地方确实有前人探索过\N{\rENG}Sure, all these places have been explored before, 
 Dialogue: 100,0:10:25.41,0:10:28.04,Normal Dialog Text,,0,0,0,,{\rCHS}但是从未有人以如此亲切的语言记载过\N{\rENG}but they haven't been recorded so intimately
-Dialogue: 100,0:10:28.08,0:10:30.38,Normal Dialog Text,,0,0,0,,{\rCHS}像这笔记里那样\N{\rENG}as they have been in this journal.
+Dialogue: 100,0:10:28.08,0:10:30.38,Normal Dialog Text,,0,0,0,,{\rCHS}像这笔记里那样\N{\rENG}as they have been in this journal. 
 Dialogue: 100,0:10:30.41,0:10:33.55,Normal Dialog Text,,0,0,0,,{\rCHS}你的记载使得这些地方又变得新鲜和特殊\N{\rENG}It makes them new and special all over again
-Dialogue: 100,0:10:33.58,0:10:36.85,Normal Dialog Text,,0,0,0,,{\rCHS}所有读者都会有同感\N{\rENG}for any reader to experience.
-Dialogue: 100,0:10:36.89,0:10:39.95,Normal Dialog Text,,0,0,0,,{\rCHS}你有没有想过当个作家?\N{\rENG}Have you ever considered becoming an author?
-Dialogue: 100,0:10:39.99,0:10:42.42,Normal Dialog Text,,0,0,0,,{\rCHS}这样我就成为了一名作家\N{\rENG}And become an author I did.
-Dialogue: 100,0:10:42.46,0:10:45.46,Normal Dialog Text,,0,0,0,,{\rCHS}我指如疾风,写出了一本又一本书\N{\rENG}I wrote up a storm, making book after book,
-Dialogue: 100,0:10:45.49,0:10:49.56,Normal Dialog Text,,0,0,0,,{\rCHS}我意识到如此多的书,可以填满一座图书馆!\N{\rENG}so many until I realized I could fill a library with them!
-Dialogue: 100,0:10:49.60,0:10:51.57,Normal Dialog Text,,0,0,0,,{\rCHS}我知道了!\N{\rENG}I get it!
-Dialogue: 100,0:10:51.60,0:10:54.00,Normal Dialog Text,,0,0,0,,{\rCHS}就是巴蒂巴德威克图书馆!\N{\rENG}The Buddy Buddwick Library!
-Dialogue: 100,0:10:54.04,0:10:55.60,Normal Dialog Text,,0,0,0,,{\rCHS}嘘!\N{\rENG}Shh!
-Dialogue: 100,0:10:55.64,0:10:58.64,Normal Dialog Text,,0,0,0,,{\rCHS}他确实在这镇上留下了印记\N{\rENG}He really did leave a mark on this town.
-Dialogue: 100,0:10:58.67,0:11:00.74,Normal Dialog Text,,0,0,0,,{\rCHS}哇 等一下\N{\rENG}Whoa. Hold the phone.
-Dialogue: 100,0:11:00.78,0:11:02.41,Normal Dialog Text,,0,0,0,,{\rCHS}他就长那个样子吗?\N{\rENG}Is that what he looked like?
-Dialogue: 100,0:11:02.44,0:11:05.68,Normal Dialog Text,,0,0,0,,{\rCHS}我们的想象错到家了\N{\rENG}We imagined him way off.
-Dialogue: 100,0:11:05.71,0:11:07.85,Normal Dialog Text,,0,0,0,,{\rCHS}我还是喜欢我们的版本\N{\rENG}I kind of liked our version better.
-Dialogue: 100,0:11:07.88,0:11:10.92,Normal Dialog Text,,0,0,0,,{\rCHS}我也是\N{\rENG}Me, too.
+Dialogue: 100,0:10:33.58,0:10:36.85,Normal Dialog Text,,0,0,0,,{\rCHS}所有读者都会有同感\N{\rENG}for any reader to experience. 
+Dialogue: 100,0:10:36.89,0:10:39.95,Normal Dialog Text,,0,0,0,,{\rCHS}你有没有想过当个作家?\N{\rENG}Have you ever considered becoming an author? 
+Dialogue: 100,0:10:39.99,0:10:42.42,Normal Dialog Text,,0,0,0,,{\rCHS}这样我就成为了一名作家\N{\rENG}And become an author I did. 
+Dialogue: 100,0:10:42.46,0:10:45.46,Normal Dialog Text,,0,0,0,,{\rCHS}我指如疾风 写出了一本又一本书\N{\rENG}I wrote up a storm, making book after book, 
+Dialogue: 100,0:10:45.49,0:10:49.56,Normal Dialog Text,,0,0,0,,{\rCHS}我意识到如此多的书 可以填满一座图书馆!\N{\rENG}so many until I realized I could fill a library with them! 
+Dialogue: 100,0:10:49.60,0:10:51.57,Normal Dialog Text,,0,0,0,,{\rCHS}我知道了!\N{\rENG}I get it! 
+Dialogue: 100,0:10:51.60,0:10:54.00,Normal Dialog Text,,0,0,0,,{\rCHS}就是巴蒂巴德威克图书馆!\N{\rENG}The Buddy Buddwick Library! 
+Dialogue: 100,0:10:54.04,0:10:55.60,Normal Dialog Text,,0,0,0,,{\rCHS}嘘!\N{\rENG}Shh! 
+Dialogue: 100,0:10:55.64,0:10:58.64,Normal Dialog Text,,0,0,0,,{\rCHS}他确实在这镇上留下了印记\N{\rENG}He really did leave a mark on this town. 
+Dialogue: 100,0:10:58.67,0:11:00.74,Normal Dialog Text,,0,0,0,,{\rCHS}哇 等一下\N{\rENG}Whoa. Hold the phone. 
+Dialogue: 100,0:11:00.78,0:11:02.41,Normal Dialog Text,,0,0,0,,{\rCHS}他就长那个样子吗?\N{\rENG}Is that what he looked like? 
+Dialogue: 100,0:11:02.44,0:11:05.68,Normal Dialog Text,,0,0,0,,{\rCHS}我们的想象错到家了\N{\rENG}We imagined him way off. 
+Dialogue: 100,0:11:05.71,0:11:07.85,Normal Dialog Text,,0,0,0,,{\rCHS}我还是喜欢我们的版本\N{\rENG}I kind of liked our version better. 
+Dialogue: 100,0:11:07.88,0:11:10.92,Normal Dialog Text,,0,0,0,,{\rCHS}我也是\N{\rENG}Me, too. 
+

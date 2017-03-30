@@ -42,7 +42,7 @@ Style: Hint,微软雅黑,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 150,0:00:01.00,0:00:03.50,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们,是水晶\N{\rENG_LYC}♪ We ♪ are the crystal
+Dialogue: 150,0:00:01.00,0:00:03.50,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们 是水晶\N{\rENG_LYC}♪ We ♪ are the crystal
 Dialogue: 150,0:00:03.51,0:00:04.48,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}战士\N{\rENG_LYC}♪ gems
 Dialogue: 150,0:00:04.48,0:00:06.94,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们总能拯救世界\N{\rENG_LYC}♪ we'll always save the day
 Dialogue: 150,0:00:06.94,0:00:09.42,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}如果你认为我们不行\N{\rENG_LYC}♪ and if you think we can't, ♪
@@ -53,9 +53,9 @@ Dialogue: 150,0:00:16.04,0:00:17.78,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}相信\N
 Dialogue: 150,0:00:17.78,0:00:18.44,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}石榴\N{\rENG_LYC}♪ Garnet
 Dialogue: 150,0:00:18.44,0:00:19.74,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}紫晶\N{\rENG_LYC}♪ Amethyst
 Dialogue: 150,0:00:19.74,0:00:21.20,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}和珍珠\N{\rENG_LYC}♪ and Pearl
-Dialogue: 150,0:00:21.22,0:00:22.54,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}和史蒂文!\N{\rENG_LYC}and Steven!
+Dialogue: 150,0:00:21.22,0:00:22.54,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}和史蒂文!\N{\rENG_LYC}and Steven! 
 Dialogue: 1,0:00:23.50,0:00:25.00,SU Title,,0,0,0,,{\xshad8\yshad16\pos(1168,206)}回到月球
-Dialogue: 1,0:00:25.00,0:00:26.50,SU Claim,,0,0,0,,欢迎关注微博@UUU字幕组，获取最新熟肉信息！
+Dialogue: 1,0:00:25.00,0:00:26.50,SU Claim,,0,0,0,,欢迎关注微博@ UUU字幕组 获取最新熟肉信息! 
 Dialogue: 1,0:00:25.00,0:00:26.50,SU Team Title,,0,0,0,,{\pos(1725,260)}出品
 Dialogue: 1,0:00:25.00,0:00:26.50,SU Team Member,,0,0,0,,{\pos(1725,320)}UUU字幕组
 Dialogue: 1,0:00:25.00,0:00:26.50,SU Team Title,,0,0,0,,{\pos(1725,380)}翻译
@@ -65,250 +65,250 @@ Dialogue: 1,0:00:25.00,0:00:26.50,SU Team Member,,0,0,0,,{\pos(1725,560)}Husky
 Dialogue: 1,0:00:25.00,0:00:26.50,SU Team Title,,0,0,0,,{\pos(1725,620)}特效
 Dialogue: 1,0:00:25.00,0:00:26.50,SU Team Member,,0,0,0,,{\pos(1725,680)}presisco
 Dialogue: 1,0:00:25.00,0:00:26.50,SU Team Title,,0,0,0,,{\pos(1725,740)}压制
-Dialogue: 1,0:00:25.00,0:00:26.50,SU Team Member,,0,0,0,,{\pos(1725,800)}presisco/依依
-Dialogue: 0,0:00:25.00,0:00:26.50,SU Team Background,,0,0,0,,{\bord0\xshad-0\yshad16\pos(1725,860)}{\p1}m -1 122 b -1 -19 -19 -1 122 -1 l 251 -1 b 390 -1 377 -19 377 122 l 377 500 b 377 642 390 628 251 628 l 122 628 b -19 628 -1 642 -1 500 l -1 122 {\p0}
-Dialogue: 100,0:00:27.84,0:00:29.08,Normal Dialog Text,,0,0,0,,{\rCHS}红宝石们回来了?\N{\rENG}The rubies are back?
+Dialogue: 1,0:00:25.00,0:00:26.50,SU Team Member,,0,0,0,,{\pos(1725,800)}presisco/ 依依
+Dialogue: 100,0:00:27.84,0:00:29.08,Normal Dialog Text,,0,0,0,,{\rCHS}红宝石们回来了?\N{\rENG}The rubies are back? 
 Dialogue: 100,0:00:30.23,0:00:32.16,Normal Dialog Text,,0,0,0,,{\rCHS}她们开着那个小飞船来的\N{\rENG}They showed up on their little ship
-Dialogue: 100,0:00:32.16,0:00:33.16,Normal Dialog Text,,0,0,0,,{\rCHS}看起来很生气\N{\rENG}acting very angry,
-Dialogue: 100,0:00:33.16,0:00:34.53,Normal Dialog Text,,0,0,0,,{\rCHS}所以我让她们"中场休息"一下\N{\rENG}so I put them in time-out.
-Dialogue: 100,0:00:34.53,0:00:37.07,Normal Dialog Text,,0,0,0,,{\rCHS}我以为这件事已经解决了\N{\rENG}I thought we were done with these guys.
-Dialogue: 100,0:00:37.07,0:00:39.13,Normal Dialog Text,,0,0,0,,{\rCHS}你们回来干嘛\N{\rENG}Why did you come back here?
-Dialogue: 100,0:00:39.14,0:00:42.10,Normal Dialog Text,,0,0,0,,{\rCHS}放出来一个问问她们要干什么吧\N{\rENG}Let's release one and just ask what they're up to.
-Dialogue: 100,0:00:42.11,0:00:43.84,Normal Dialog Text,,0,0,0,,{\rCHS}哦!哦!能让我来选吗?\N{\rENG}Ooh! Ooh!Can I pick?!
-Dialogue: 100,0:00:43.84,0:00:44.87,Normal Dialog Text,,0,0,0,,{\rCHS}选吧\N{\rENG}Go for it.
-Dialogue: 100,0:00:44.88,0:00:46.74,Normal Dialog Text,,0,0,0,,{\rCHS}嗯\N{\rENG}Hmm.
-Dialogue: 100,0:00:46.74,0:00:49.11,Normal Dialog Text,,0,0,0,,{\rCHS}哦!就选腿腿吧!\N{\rENG}Oh!Let's talk to Leggy!
-Dialogue: 100,0:00:49.11,0:00:50.38,Normal Dialog Text,,0,0,0,,{\rCHS}腿腿?\N{\rENG}Leggy?
-Dialogue: 100,0:00:50.38,0:00:52.78,Normal Dialog Text,,0,0,0,,{\rCHS}我根据她们宝石的位置分别起了名字\N{\rENG}I named them based on the placement of their gems.
-Dialogue: 100,0:00:52.79,0:00:58.12,Normal Dialog Text,,0,0,0,,{\rCHS}她们是腿腿,膀子,脐脐,眼宝和,额,万事通\N{\rENG}There's Leggy, Army, Navy,Eyeball, and, uh...Doc.
-Dialogue: 100,0:00:58.12,0:01:00.52,Normal Dialog Text,,0,0,0,,{\rCHS}腿腿看上去最好说话\N{\rENG}Leggy seems like the easiest to talk to.
-Dialogue: 100,0:01:00.52,0:01:03.12,Normal Dialog Text,,0,0,0,,{\rCHS}腿腿,下来吧!\N{\rENG}Leggy, come on down!
+Dialogue: 100,0:00:32.16,0:00:33.16,Normal Dialog Text,,0,0,0,,{\rCHS}看起来很生气\N{\rENG}acting very angry, 
+Dialogue: 100,0:00:33.16,0:00:34.53,Normal Dialog Text,,0,0,0,,{\rCHS}所以我让她们"中场休息"一下\N{\rENG}so I put them in time-out. 
+Dialogue: 100,0:00:34.53,0:00:37.07,Normal Dialog Text,,0,0,0,,{\rCHS}我以为这件事已经解决了\N{\rENG}I thought we were done with these guys. 
+Dialogue: 100,0:00:37.07,0:00:39.13,Normal Dialog Text,,0,0,0,,{\rCHS}你们回来干嘛\N{\rENG}Why did you come back here? 
+Dialogue: 100,0:00:39.14,0:00:42.10,Normal Dialog Text,,0,0,0,,{\rCHS}放出来一个问问她们要干什么吧\N{\rENG}Let's release one and just ask what they're up to. 
+Dialogue: 100,0:00:42.11,0:00:43.84,Normal Dialog Text,,0,0,0,,{\rCHS}哦! 哦! 能让我来选吗?\N{\rENG}Ooh! Ooh! Can I pick?! 
+Dialogue: 100,0:00:43.84,0:00:44.87,Normal Dialog Text,,0,0,0,,{\rCHS}选吧\N{\rENG}Go for it. 
+Dialogue: 100,0:00:44.88,0:00:46.74,Normal Dialog Text,,0,0,0,,{\rCHS}嗯\N{\rENG}Hmm. 
+Dialogue: 100,0:00:46.74,0:00:49.11,Normal Dialog Text,,0,0,0,,{\rCHS}哦! 就选腿腿吧!\N{\rENG}Oh! Let's talk to Leggy! 
+Dialogue: 100,0:00:49.11,0:00:50.38,Normal Dialog Text,,0,0,0,,{\rCHS}腿腿?\N{\rENG}Leggy? 
+Dialogue: 100,0:00:50.38,0:00:52.78,Normal Dialog Text,,0,0,0,,{\rCHS}我根据她们宝石的位置分别起了名字\N{\rENG}I named them based on the placement of their gems. 
+Dialogue: 100,0:00:52.79,0:00:58.12,Normal Dialog Text,,0,0,0,,{\rCHS}她们是腿腿 膀子 脐脐 眼宝和 额 万事通\N{\rENG}There's Leggy, Army, Navy, Eyeball, and, uh...Doc. 
+Dialogue: 100,0:00:58.12,0:01:00.52,Normal Dialog Text,,0,0,0,,{\rCHS}腿腿看上去最好说话\N{\rENG}Leggy seems like the easiest to talk to. 
+Dialogue: 100,0:01:00.52,0:01:03.12,Normal Dialog Text,,0,0,0,,{\rCHS}腿腿 下来吧!\N{\rENG}Leggy, come on down! 
 Dialogue: 600,0:01:00.52,0:01:03.12,Hint,,0,0,0,,青金石的话出自著名购物节目"The Price Is Right"
-Dialogue: 100,0:01:04.33,0:01:07.06,Normal Dialog Text,,0,0,0,,{\rCHS}嘿!嗨,我叫史蒂文\N{\rENG}Hey! Hi.I'm Steven.
-Dialogue: 100,0:01:07.06,0:01:09.20,Normal Dialog Text,,0,0,0,,{\rCHS}你们回来地球做什么?\N{\rENG}What brings you back to Earth?
-Dialogue: 100,0:01:09.20,0:01:14.90,Normal Dialog Text,,0,0,0,,{\rCHS}呃...我也不知道?\N{\rENG}Uh...I don't know?
-Dialogue: 100,0:01:14.90,0:01:16.88,Normal Dialog Text,,0,0,0,,{\rCHS}哦,呃,我懂你\N{\rENG}Oh, uh,I understand.
-Dialogue: 100,0:01:16.88,0:01:19.51,Normal Dialog Text,,0,0,0,,{\rCHS}我以前也经常忘记为什么出任务\N{\rENG}I used to forget why we'd go on missions all the time.
-Dialogue: 100,0:01:19.51,0:01:21.68,Normal Dialog Text,,0,0,0,,{\rCHS}那我去那边站着好了\N{\rENG}I'll just go stand over here then.
-Dialogue: 100,0:01:22.78,0:01:24.48,Normal Dialog Text,,0,0,0,,{\rCHS}我们来试试膀子吧\N{\rENG}Let's take a chance on Army.
-Dialogue: 100,0:01:25.62,0:01:26.61,Normal Dialog Text,,0,0,0,,{\rCHS}下午好!\N{\rENG}Good afternoon!
-Dialogue: 100,0:01:26.62,0:01:29.25,Normal Dialog Text,,0,0,0,,{\rCHS}我要把你们撕成--\N{\rENG}I'll tear you limb --
-Dialogue: 100,0:01:29.25,0:01:31.39,Normal Dialog Text,,0,0,0,,{\rCHS}-哈?-嘿,别这样没礼貌\N{\rENG}-Huh?-Hey.Don't be like that.
-Dialogue: 100,0:01:31.39,0:01:33.89,Normal Dialog Text,,0,0,0,,{\rCHS}啥?!我要把--\N{\rENG}Why, I ought to --
-Dialogue: 100,0:01:33.89,0:01:35.09,Normal Dialog Text,,0,0,0,,{\rCHS}嗷\N{\rENG}Aw.
-Dialogue: 100,0:01:35.09,0:01:37.99,Normal Dialog Text,,0,0,0,,{\rCHS}-嘿,你干嘛...-下一个!\N{\rENG}-Hey, what the...-Next!
-Dialogue: 100,0:01:37.99,0:01:39.69,Normal Dialog Text,,0,0,0,,{\rCHS}呃...脐脐?\N{\rENG}Uh...Navy?
-Dialogue: 100,0:01:39.70,0:01:43.40,Normal Dialog Text,,0,0,0,,{\rCHS}要是我没记错的话,我们是来地球...\N{\rENG}If I remember correctly,we were on Earth...
+Dialogue: 100,0:01:04.33,0:01:07.06,Normal Dialog Text,,0,0,0,,{\rCHS}嘿! 嗨 我叫史蒂文\N{\rENG}Hey! Hi. I'm Steven. 
+Dialogue: 100,0:01:07.06,0:01:09.20,Normal Dialog Text,,0,0,0,,{\rCHS}你们回来地球做什么?\N{\rENG}What brings you back to Earth? 
+Dialogue: 100,0:01:09.20,0:01:14.90,Normal Dialog Text,,0,0,0,,{\rCHS}呃...我也不知道?\N{\rENG}Uh...I don't know? 
+Dialogue: 100,0:01:14.90,0:01:16.88,Normal Dialog Text,,0,0,0,,{\rCHS}哦 呃 我懂你\N{\rENG}Oh, uh, I understand. 
+Dialogue: 100,0:01:16.88,0:01:19.51,Normal Dialog Text,,0,0,0,,{\rCHS}我以前也经常忘记为什么出任务\N{\rENG}I used to forget why we'd go on missions all the time. 
+Dialogue: 100,0:01:19.51,0:01:21.68,Normal Dialog Text,,0,0,0,,{\rCHS}那我去那边站着好了\N{\rENG}I'll just go stand over here then. 
+Dialogue: 100,0:01:22.78,0:01:24.48,Normal Dialog Text,,0,0,0,,{\rCHS}我们来试试膀子吧\N{\rENG}Let's take a chance on Army. 
+Dialogue: 100,0:01:25.62,0:01:26.61,Normal Dialog Text,,0,0,0,,{\rCHS}下午好!\N{\rENG}Good afternoon! 
+Dialogue: 100,0:01:26.62,0:01:29.25,Normal Dialog Text,,0,0,0,,{\rCHS}我要把你们撕成--\N{\rENG}I'll tear you limb--
+Dialogue: 100,0:01:29.25,0:01:31.39,Normal Dialog Text,,0,0,0,,{\rCHS}-哈?-嘿 别这样没礼貌\N{\rENG}-Huh?-Hey. Don't be like that. 
+Dialogue: 100,0:01:31.39,0:01:33.89,Normal Dialog Text,,0,0,0,,{\rCHS}啥?! 我要把--\N{\rENG}Why, I ought to--
+Dialogue: 100,0:01:33.89,0:01:35.09,Normal Dialog Text,,0,0,0,,{\rCHS}嗷\N{\rENG}Aw. 
+Dialogue: 100,0:01:35.09,0:01:37.99,Normal Dialog Text,,0,0,0,,{\rCHS}-嘿 你干嘛...-下一个!\N{\rENG}-Hey, what the...-Next! 
+Dialogue: 100,0:01:37.99,0:01:39.69,Normal Dialog Text,,0,0,0,,{\rCHS}呃...脐脐?\N{\rENG}Uh...Navy? 
+Dialogue: 100,0:01:39.70,0:01:43.40,Normal Dialog Text,,0,0,0,,{\rCHS}要是我没记错的话 我们是来地球...\N{\rENG}If I remember correctly, we were on Earth...
 Dialogue: 100,0:01:43.40,0:01:45.90,Normal Dialog Text,,0,0,0,,{\rCHS}呃...\N{\rENG}Uh...
-Dialogue: 100,0:01:45.90,0:01:47.94,Normal Dialog Text,,0,0,0,,{\rCHS}太尴尬了\N{\rENG}This is so embarrassing.
-Dialogue: 100,0:01:47.94,0:01:48.94,Normal Dialog Text,,0,0,0,,{\rCHS}哦吼\N{\rENG}Oh-ho.
-Dialogue: 100,0:01:48.94,0:01:51.41,Normal Dialog Text,,0,0,0,,{\rCHS}哦 啊!\N{\rENG}Oh. Aah!
-Dialogue: 100,0:01:51.41,0:01:52.31,Normal Dialog Text,,0,0,0,,{\rCHS}啊!\N{\rENG}Aah!
-Dialogue: 100,0:01:52.31,0:01:54.21,Normal Dialog Text,,0,0,0,,{\rCHS}好吧 呃,眼宝?\N{\rENG}Okay.Uh, eyeball?
-Dialogue: 100,0:01:54.21,0:01:58.75,Normal Dialog Text,,0,0,0,,{\rCHS}我才不会跟你们讲任何东西!\N{\rENG}I'm not telling y'all nothing about nothing!
-Dialogue: 100,0:02:00.12,0:02:03.45,Normal Dialog Text,,0,0,0,,{\rCHS}剩下最后一个是...呃,万事通\N{\rENG}The only one left now is, uh...Doc.
+Dialogue: 100,0:01:45.90,0:01:47.94,Normal Dialog Text,,0,0,0,,{\rCHS}太尴尬了\N{\rENG}This is so embarrassing. 
+Dialogue: 100,0:01:47.94,0:01:48.94,Normal Dialog Text,,0,0,0,,{\rCHS}哦吼\N{\rENG}Oh-ho. 
+Dialogue: 100,0:01:48.94,0:01:51.41,Normal Dialog Text,,0,0,0,,{\rCHS}哦 啊!\N{\rENG}Oh. Aah! 
+Dialogue: 100,0:01:51.41,0:01:52.31,Normal Dialog Text,,0,0,0,,{\rCHS}啊!\N{\rENG}Aah! 
+Dialogue: 100,0:01:52.31,0:01:54.21,Normal Dialog Text,,0,0,0,,{\rCHS}好吧 呃 眼宝?\N{\rENG}Okay. Uh, eyeball? 
+Dialogue: 100,0:01:54.21,0:01:58.75,Normal Dialog Text,,0,0,0,,{\rCHS}我才不会跟你们讲任何东西!\N{\rENG}I'm not telling y'all nothing about nothing! 
+Dialogue: 100,0:02:00.12,0:02:03.45,Normal Dialog Text,,0,0,0,,{\rCHS}剩下最后一个是...呃 万事通\N{\rENG}The only one left now is, uh...Doc. 
 Dialogue: 600,0:02:00.12,0:02:03.45,Hint,,0,0,0,,此处带护目镜的红宝石的Doc外号源自"白雪公主"中小矮人的首领
-Dialogue: 100,0:02:03.45,0:02:05.62,Normal Dialog Text,,0,0,0,,{\rCHS}铁石英在哪?!\N{\rENG}Where's Jasper?!
-Dialogue: 100,0:02:05.62,0:02:06.92,Normal Dialog Text,,0,0,0,,{\rCHS}上次我们来,\N{\rENG}Last time we came,
-Dialogue: 100,0:02:06.92,0:02:10.06,Normal Dialog Text,,0,0,0,,{\rCHS}你骗我们玩那个蠢游戏!\N{\rENG}you tricked us into playing that stupid game!
-Dialogue: 100,0:02:10.06,0:02:12.96,Normal Dialog Text,,0,0,0,,{\rCHS}然后你又说,"她在海王星呢"\N{\rENG}Then, you said,"She's on Neptune,"
-Dialogue: 100,0:02:12.96,0:02:15.66,Normal Dialog Text,,0,0,0,,{\rCHS}所以我们又去找,她根本不在那!\N{\rENG}so we looked,and she wasn't there!
+Dialogue: 100,0:02:03.45,0:02:05.62,Normal Dialog Text,,0,0,0,,{\rCHS}铁石英在哪?!\N{\rENG}Where's Jasper?! 
+Dialogue: 100,0:02:05.62,0:02:06.92,Normal Dialog Text,,0,0,0,,{\rCHS}上次我们来 \N{\rENG}Last time we came, 
+Dialogue: 100,0:02:06.92,0:02:10.06,Normal Dialog Text,,0,0,0,,{\rCHS}你骗我们玩那个蠢游戏!\N{\rENG}you tricked us into playing that stupid game! 
+Dialogue: 100,0:02:10.06,0:02:12.96,Normal Dialog Text,,0,0,0,,{\rCHS}然后你又说 "她在海王星呢"\N{\rENG}Then, you said,"She's on Neptune,"
+Dialogue: 100,0:02:12.96,0:02:15.66,Normal Dialog Text,,0,0,0,,{\rCHS}所以我们又去找 她根本不在那!\N{\rENG}so we looked, and she wasn't there! 
 Dialogue: 100,0:02:15.67,0:02:17.40,Normal Dialog Text,,0,0,0,,{\rCHS}她没在海王星\N{\rENG}She wasn't on Neptune
-Dialogue: 100,0:02:17.40,0:02:22.37,Normal Dialog Text,,0,0,0,,{\rCHS}也没在这蠢太阳系的任何一颗行星上!\N{\rENG}or any other planet in this whole dang solar system!
-Dialogue: 100,0:02:22.37,0:02:25.21,Normal Dialog Text,,0,0,0,,{\rCHS}快告诉我们她在哪\N{\rENG}Tell us where she is right now.
-Dialogue: 100,0:02:25.21,0:02:29.73,Normal Dialog Text,,0,0,0,,{\rCHS}别玩游戏,别耍伎俩,也别搞伪装\N{\rENG}No games, no tricks,and no slick disguises.
-Dialogue: 100,0:02:29.73,0:02:30.75,Normal Dialog Text,,0,0,0,,{\rCHS}对!\N{\rENG}-Yeah!
-Dialogue: 100,0:02:30.75,0:02:32.65,Normal Dialog Text,,0,0,0,,{\rCHS}嘿!\N{\rENG}Hey!
-Dialogue: 100,0:02:32.65,0:02:35.85,Normal Dialog Text,,0,0,0,,{\rCHS}我在这儿呢!\N{\rENG}I'm right here!
-Dialogue: 100,0:02:37.13,0:02:39.42,Normal Dialog Text,,0,0,0,,{\rCHS}她搞笑呢?这根本不可能骗--\N{\rENG}Is she serious?There's no way this is gonna --
-Dialogue: 100,0:02:39.42,0:02:40.92,Normal Dialog Text,,0,0,0,,{\rCHS}看!是铁石英!\N{\rENG}Look! It's Jasper!
-Dialogue: 100,0:02:43.66,0:02:47.26,Normal Dialog Text,,0,0,0,,{\rCHS}铁石英!我是红宝石编号1F4-Cut-4ND.\N{\rENG}Jasper!I'm Ruby 1F4-Cut-4ND.
-Dialogue: 100,0:02:47.26,0:02:49.46,Normal Dialog Text,,0,0,0,,{\rCHS}曾经参与过地球战役\N{\rENG}I fought in the war for Earth.
-Dialogue: 100,0:02:49.47,0:02:52.30,Normal Dialog Text,,0,0,0,,{\rCHS}呃...稍息\N{\rENG}Uh...at ease.
-Dialogue: 100,0:02:52.30,0:02:55.90,Normal Dialog Text,,0,0,0,,{\rCHS}我当时在第六区的战场,听到了你的传闻\N{\rENG}I was on the ground in Facet 6 when I heard the tale
-Dialogue: 100,0:02:55.90,0:02:58.58,Normal Dialog Text,,0,0,0,,{\rCHS}说是第九区宝宝基地有个石英很厉害\N{\rENG}of the Facet 9 Kindergarten Quartz That Could.
-Dialogue: 600,0:02:55.90,0:02:58.58,Hint,,0,0,0,,"Facet 9 Kindergarten Quartz That Could"源自著名儿童书籍"The Little Engine That Could"(勇敢的小火车头)
+Dialogue: 100,0:02:17.40,0:02:22.37,Normal Dialog Text,,0,0,0,,{\rCHS}也没在这蠢太阳系的任何一颗行星上!\N{\rENG}or any other planet in this whole dang solar system! 
+Dialogue: 100,0:02:22.37,0:02:25.21,Normal Dialog Text,,0,0,0,,{\rCHS}快告诉我们她在哪\N{\rENG}Tell us where she is right now. 
+Dialogue: 100,0:02:25.21,0:02:29.73,Normal Dialog Text,,0,0,0,,{\rCHS}别玩游戏 别耍伎俩 也别搞伪装\N{\rENG}No games, no tricks, and no slick disguises. 
+Dialogue: 100,0:02:29.73,0:02:30.75,Normal Dialog Text,,0,0,0,,{\rCHS}对!\N{\rENG}-Yeah! 
+Dialogue: 100,0:02:30.75,0:02:32.65,Normal Dialog Text,,0,0,0,,{\rCHS}嘿!\N{\rENG}Hey! 
+Dialogue: 100,0:02:32.65,0:02:35.85,Normal Dialog Text,,0,0,0,,{\rCHS}我在这儿呢!\N{\rENG}I'm right here! 
+Dialogue: 100,0:02:37.13,0:02:39.42,Normal Dialog Text,,0,0,0,,{\rCHS}她搞笑呢? 这根本不可能骗--\N{\rENG}Is she serious? There's no way this is gonna--
+Dialogue: 100,0:02:39.42,0:02:40.92,Normal Dialog Text,,0,0,0,,{\rCHS}看! 是铁石英!\N{\rENG}Look! It's Jasper! 
+Dialogue: 100,0:02:43.66,0:02:47.26,Normal Dialog Text,,0,0,0,,{\rCHS}铁石英! 我是红宝石编号1F4-Cut-4ND.\N{\rENG}Jasper! I'm Ruby 1F4-Cut-4ND. 
+Dialogue: 100,0:02:47.26,0:02:49.46,Normal Dialog Text,,0,0,0,,{\rCHS}曾经参与过地球战役\N{\rENG}I fought in the war for Earth. 
+Dialogue: 100,0:02:49.47,0:02:52.30,Normal Dialog Text,,0,0,0,,{\rCHS}呃...稍息\N{\rENG}Uh...at ease. 
+Dialogue: 100,0:02:52.30,0:02:55.90,Normal Dialog Text,,0,0,0,,{\rCHS}我当时在第六区的战场 听到了你的传闻\N{\rENG}I was on the ground in Facet 6 when I heard the tale
+Dialogue: 100,0:02:55.90,0:02:58.58,Normal Dialog Text,,0,0,0,,{\rCHS}说是第九区宝宝基地有个石英很厉害\N{\rENG}of the Facet 9 Kindergarten Quartz That Could. 
+Dialogue: 600,0:02:55.90,0:02:58.58,Hint,,0,0,0,,"Facet 9 Kindergarten Quartz That Could"源自著名儿童书籍"The Little Engine That Could"( 勇敢的小火车头) 
 Dialogue: 100,0:02:58.58,0:03:01.75,Normal Dialog Text,,0,0,0,,{\rCHS}他们说你戴着头盔从土地中蹦出来\N{\rENG}They said you popped out of the ground with your helmet on
 Dialogue: 600,0:02:58.58,0:03:01.75,Hint,,0,0,0,,这里"戴着头盔从土里蹦出"的描述可能源于古希腊神话中的雅典娜--雅典娜是带着全身装甲从宙斯前额蹦出
-Dialogue: 100,0:03:01.75,0:03:05.21,Normal Dialog Text,,0,0,0,,{\rCHS}在日落之前干掉了80个水晶战士\N{\rENG}and took out 80 crystal gems before the sun went down.
-Dialogue: 100,0:03:05.22,0:03:07.65,Normal Dialog Text,,0,0,0,,{\rCHS}当我知道这次任务是为了找你\N{\rENG}When I found out this mission was to look for you,
-Dialogue: 100,0:03:07.65,0:03:10.62,Normal Dialog Text,,0,0,0,,{\rCHS}我差点没控记巨我记己!\N{\rENG}I nearly dissipated my form!
-Dialogue: 100,0:03:10.62,0:03:13.42,Normal Dialog Text,,0,0,0,,{\rCHS}很荣幸终于见到你\N{\rENG}It is an honor to finally meet you.
-Dialogue: 100,0:03:13.42,0:03:15.86,Normal Dialog Text,,0,0,0,,{\rCHS}对,那就是我!\N{\rENG}Yup. That's me!
-Dialogue: 100,0:03:15.86,0:03:18.66,Normal Dialog Text,,0,0,0,,{\rCHS}一直这么大个儿,从来没小过--\N{\rENG}Always huge, never small,all the --
-Dialogue: 100,0:03:18.66,0:03:21.90,Normal Dialog Text,,0,0,0,,{\rCHS}自打出生之日起!\N{\rENG}all the time since I was made!
-Dialogue: 100,0:03:21.90,0:03:24.23,Normal Dialog Text,,0,0,0,,{\rCHS}等下\N{\rENG}Wait a minute.
-Dialogue: 100,0:03:24.23,0:03:26.90,Normal Dialog Text,,0,0,0,,{\rCHS}你看起来和我想象中不一样啊\N{\rENG}You look different than I thought you would.
-Dialogue: 100,0:03:26.90,0:03:28.70,Normal Dialog Text,,0,0,0,,{\rCHS}哦,露馅了吧\N{\rENG}Oh, here it is.
-Dialogue: 100,0:03:28.70,0:03:33.81,Normal Dialog Text,,0,0,0,,{\rCHS}哦,我晒黑了一点,你造,太阳晒的嘛\N{\rENG}Oh, you must mean my tan --you know, from the sun.
-Dialogue: 100,0:03:35.65,0:03:37.88,Normal Dialog Text,,0,0,0,,{\rCHS}愚蠢的地球太阳!啊!\N{\rENG}Stupid Earth sun!Ah!
-Dialogue: 100,0:03:37.88,0:03:39.15,Normal Dialog Text,,0,0,0,,{\rCHS}我恨这颗星球!\N{\rENG}I hate this planet!
-Dialogue: 100,0:03:39.15,0:03:41.12,Normal Dialog Text,,0,0,0,,{\rCHS}诅咒这颗星球!\N{\rENG}Curse this planet!
-Dialogue: 100,0:03:45.98,0:03:48.26,Normal Dialog Text,,0,0,0,,{\rCHS}不管怎样,还好最后找到了你\N{\rENG}Well, it's a good thing we finally found you.
-Dialogue: 100,0:03:48.55,0:03:49.92,Normal Dialog Text,,0,0,0,,{\rCHS}黄钻在等着你回去\N{\rENG}Yellow Diamond is awaiting your return.
-Dialogue: 100,0:03:49.93,0:03:51.99,Normal Dialog Text,,0,0,0,,{\rCHS}我们现在马上带你回母星\N{\rENG}We'll take you back to Homeworld right away.
-Dialogue: 100,0:03:52.00,0:03:54.26,Normal Dialog Text,,0,0,0,,{\rCHS}不行!我是说--\N{\rENG}No! I mean --
-Dialogue: 100,0:03:54.26,0:03:56.70,Normal Dialog Text,,0,0,0,,{\rCHS}我,铁石英\N{\rENG}I, Jasper,
-Dialogue: 100,0:03:56.70,0:03:59.27,Normal Dialog Text,,0,0,0,,{\rCHS}已经决定呆在地球了\N{\rENG}have decided to stay on Earth.
-Dialogue: 100,0:03:59.27,0:04:00.37,Normal Dialog Text,,0,0,0,,{\rCHS}-啥?!-为啥!\N{\rENG}-What?!-Why?!
-Dialogue: 100,0:04:00.37,0:04:02.13,Normal Dialog Text,,0,0,0,,{\rCHS}对啊,为什么,铁石英?\N{\rENG}Yeah, why, Jasper?
-Dialogue: 100,0:04:02.13,0:04:05.67,Normal Dialog Text,,0,0,0,,{\rCHS}因为我要在这里看住这些家伙\N{\rENG}Because I gotta stay here with these guys.
-Dialogue: 100,0:04:05.68,0:04:10.28,Normal Dialog Text,,0,0,0,,{\rCHS}对,必须把她们关起来...为钻石们效力\N{\rENG}Yep, gotta keep 'em prisoner... for the diamonds.
-Dialogue: 100,0:04:13.38,0:04:15.52,Normal Dialog Text,,0,0,0,,{\rCHS}-铁石英-多么伟大的牺牲\N{\rENG}-Jasper.-Such devotion.
-Dialogue: 100,0:04:15.52,0:04:19.12,Normal Dialog Text,,0,0,0,,{\rCHS}好吧,黄钻肯定想知道这些事\N{\rENG}Well, Yellow will definitely want to know about this.
-Dialogue: 100,0:04:19.12,0:04:21.92,Normal Dialog Text,,0,0,0,,{\rCHS}你需要在最近的钻石基地做报告\N{\rENG}You'll have to file a report at the nearest Diamond base.
-Dialogue: 100,0:04:21.93,0:04:23.04,Normal Dialog Text,,0,0,0,,{\rCHS}钻石基地在哪?\N{\rENG}Where's that?
-Dialogue: 100,0:04:23.04,0:04:24.45,Normal Dialog Text,,0,0,0,,{\rCHS}路上是不是有经过?\N{\rENG}passed it on our way here?
-Dialogue: 100,0:04:24.45,0:04:26.73,Normal Dialog Text,,0,0,0,,{\rCHS}你们几个呆瓜!是在,呃...\N{\rENG}You dummies!It's, uh...
-Dialogue: 100,0:04:26.73,0:04:27.86,Normal Dialog Text,,0,0,0,,{\rCHS}是--嗯\N{\rENG}It's -- Hmm.
-Dialogue: 100,0:04:29.03,0:04:30.53,Normal Dialog Text,,0,0,0,,{\rCHS}在那儿呢!\N{\rENG}It's there!
-Dialogue: 100,0:04:30.60,0:04:34.64,Normal Dialog Text,,0,0,0,,{\rCHS}我要一路保持这个形态到月球?\N{\rENG}I gotta hold this all the way to the moon?!
-Dialogue: 100,0:04:34.64,0:04:36.47,Normal Dialog Text,,0,0,0,,{\rCHS}呃,我是说押持\N{\rENG}Uh, hold this.
-Dialogue: 100,0:04:36.47,0:04:39.23,Normal Dialog Text,,0,0,0,,{\rCHS}押持这些...犯人\N{\rENG}Hold these...prisoners.
-Dialogue: 100,0:04:39.23,0:04:42.44,Normal Dialog Text,,0,0,0,,{\rCHS}如果去月球的话得把这些叛军犯人带着\N{\rENG}Gotta bring the rebel prisoners if we're going to the moon.
-Dialogue: 100,0:04:42.45,0:04:45.08,Normal Dialog Text,,0,0,0,,{\rCHS}不能把她们放在这里没人看管\N{\rENG}Can't leave them here unsupervised.
-Dialogue: 100,0:04:45.08,0:04:47.48,Normal Dialog Text,,0,0,0,,{\rCHS}很好 上飞船!\N{\rENG}Very well.To the ship!
-Dialogue: 100,0:04:48.20,0:04:51.02,Normal Dialog Text,,0,0,0,,{\rCHS}你在搞什么?这根本成功不了\N{\rENG}What are you doing?This isn't going to work.
-Dialogue: 100,0:04:51.02,0:04:52.72,Normal Dialog Text,,0,0,0,,{\rCHS}你不能一直保持这个形态啊\N{\rENG}You can't hold that form forever.
-Dialogue: 100,0:04:52.72,0:04:54.26,Normal Dialog Text,,0,0,0,,{\rCHS}我能做到的\N{\rENG}I can do this.
-Dialogue: 100,0:04:54.26,0:04:56.29,Normal Dialog Text,,0,0,0,,{\rCHS}我们先去月球,再回来\N{\rENG}We'll go to the moon,come back,
-Dialogue: 100,0:04:56.29,0:04:58.03,Normal Dialog Text,,0,0,0,,{\rCHS}然后她们走就是了\N{\rENG}and they'll leave us alone.
-Dialogue: 100,0:04:58.03,0:04:59.49,Normal Dialog Text,,0,0,0,,{\rCHS}跟我一起演就行\N{\rENG}Just play along.
-Dialogue: 100,0:05:00.53,0:05:01.73,Normal Dialog Text,,0,0,0,,{\rCHS}哦,嘿!\N{\rENG}Oh, hey!
-Dialogue: 100,0:05:01.73,0:05:03.16,Normal Dialog Text,,0,0,0,,{\rCHS}你们几个也要当犯人吗?\N{\rENG}You guys want to be prisoners, too?
-Dialogue: 100,0:05:03.17,0:05:04.57,Normal Dialog Text,,0,0,0,,{\rCHS}不要\N{\rENG}Not really.
-Dialogue: 100,0:05:04.57,0:05:06.57,Normal Dialog Text,,0,0,0,,{\rCHS}好吧,就问问\N{\rENG}All right.Just checking.
-Dialogue: 100,0:05:08.77,0:05:11.64,Normal Dialog Text,,0,0,0,,{\rCHS}哇,这里面好大!\N{\rENG}Whoa.It's huge in here!
-Dialogue: 100,0:05:11.64,0:05:13.54,Normal Dialog Text,,0,0,0,,{\rCHS}我以为会超级挤的\N{\rENG}I thought it'd be super-cramped.
-Dialogue: 100,0:05:13.54,0:05:16.51,Normal Dialog Text,,0,0,0,,{\rCHS}嘿!这可不是去郊游!\N{\rENG}Hey!This ain't no pleasure cruise!
-Dialogue: 100,0:05:16.51,0:05:17.91,Normal Dialog Text,,0,0,0,,{\rCHS}说得对!\N{\rENG}Yeah!
-Dialogue: 100,0:05:17.91,0:05:22.89,Normal Dialog Text,,0,0,0,,{\rCHS}放尊重点,水-水货战士们!\N{\rENG}Show some respect,you crystal germs!
-Dialogue: 100,0:05:22.89,0:05:23.92,Normal Dialog Text,,0,0,0,,{\rCHS}对,教训下她们,铁石英!\N{\rENG}Yeah,you tell 'em, Jasper!
-Dialogue: 100,0:05:23.92,0:05:26.19,Normal Dialog Text,,0,0,0,,{\rCHS}地球上那么多水可不是水货嘛!\N{\rENG}I bet they got those germs from Earth!
-Dialogue: 100,0:05:26.19,0:05:27.59,Normal Dialog Text,,0,0,0,,{\rCHS}嗷,真倒霉!\N{\rENG}Aw, curses!
-Dialogue: 100,0:05:27.59,0:05:29.36,Normal Dialog Text,,0,0,0,,{\rCHS}不敢相信我们竟然被抓了!\N{\rENG}I can't believe we've been caught!
-Dialogue: 100,0:05:29.36,0:05:31.43,Normal Dialog Text,,0,0,0,,{\rCHS}还是被铁石英抓到的!\N{\rENG}And by none other than Jasper!
-Dialogue: 100,0:05:31.43,0:05:32.93,Normal Dialog Text,,0,0,0,,{\rCHS}真是气死我惹\N{\rENG}I'm so cross over it.
-Dialogue: 100,0:05:32.93,0:05:34.13,Normal Dialog Text,,0,0,0,,{\rCHS}对啊\N{\rENG}Uh-huh.
-Dialogue: 100,0:05:34.13,0:05:37.27,Normal Dialog Text,,0,0,0,,{\rCHS}都怪铁石英--就是她抓的我们\N{\rENG}That sure is Jasper --the one that caught us.
-Dialogue: 100,0:05:37.27,0:05:38.63,Normal Dialog Text,,0,0,0,,{\rCHS}气死惹\N{\rENG}Harumph.
-Dialogue: 100,0:05:38.63,0:05:41.50,Normal Dialog Text,,0,0,0,,{\rCHS}多么一种耻辱啊!\N{\rENG}Of all the indignities!
-Dialogue: 100,0:05:41.50,0:05:45.04,Normal Dialog Text,,0,0,0,,{\rCHS}千刀万剐随你,我自闭口不言\N{\rENG}Do what you want.I'll never talk.
-Dialogue: 100,0:05:45.04,0:05:46.61,Normal Dialog Text,,0,0,0,,{\rCHS}我倒希望你能闭嘴呢\N{\rENG}Huh, I wish.
-Dialogue: 100,0:05:46.61,0:05:50.24,Normal Dialog Text,,0,0,0,,{\rCHS}对啊,哈哈,她话真多\N{\rENG}Yeah.She talks a lot!
-Dialogue: 100,0:05:50.25,0:05:52.15,Normal Dialog Text,,0,0,0,,{\rCHS}快去那边坐着!\N{\rENG}Go sit over there now!
-Dialogue: 100,0:05:52.15,0:05:55.18,Normal Dialog Text,,0,0,0,,{\rCHS}哇哦,铁石英又强壮又风趣\N{\rENG}Wow!Jasper's so funny and strong!
-Dialogue: 100,0:05:55.19,0:05:57.25,Normal Dialog Text,,0,0,0,,{\rCHS}我也这么想呢!\N{\rENG}I was just thinking that!
-Dialogue: 100,0:05:57.25,0:05:59.45,Normal Dialog Text,,0,0,0,,{\rCHS}这太有趣了!\N{\rENG}This is fun!
-Dialogue: 100,0:05:59.46,0:06:01.46,Normal Dialog Text,,0,0,0,,{\rCHS}-铁石英!-啊,我是铁石英!\N{\rENG}-Jasper!-Agh! I'm Jasper!
-Dialogue: 100,0:06:01.46,0:06:04.16,Normal Dialog Text,,0,0,0,,{\rCHS}请你坐上我的位置,就在最前--\N{\rENG}Please feel free to take my seat right up front --
-Dialogue: 100,0:06:04.16,0:06:05.53,Normal Dialog Text,,0,0,0,,{\rCHS}那个船长座位\N{\rENG}the captain's seat.
-Dialogue: 100,0:06:05.53,0:06:07.16,Normal Dialog Text,,0,0,0,,{\rCHS}这是我的荣幸\N{\rENG}It would be an honor.
-Dialogue: 100,0:06:07.16,0:06:08.36,Normal Dialog Text,,0,0,0,,{\rCHS}好\N{\rENG}Yeah.
-Dialogue: 100,0:06:08.36,0:06:10.13,Normal Dialog Text,,0,0,0,,{\rCHS}好,没问题\N{\rENG}Yes.Sure thing.
-Dialogue: 100,0:06:10.13,0:06:12.43,Normal Dialog Text,,0,0,0,,{\rCHS}希望你觉得座位舒服\N{\rENG}I hope it's to your liking.
-Dialogue: 100,0:06:12.44,0:06:13.87,Normal Dialog Text,,0,0,0,,{\rCHS}还行吧\N{\rENG}It's all right.
+Dialogue: 100,0:03:01.75,0:03:05.21,Normal Dialog Text,,0,0,0,,{\rCHS}在日落之前干掉了80个水晶战士\N{\rENG}and took out 80 crystal gems before the sun went down. 
+Dialogue: 100,0:03:05.22,0:03:07.65,Normal Dialog Text,,0,0,0,,{\rCHS}当我知道这次任务是为了找你\N{\rENG}When I found out this mission was to look for you, 
+Dialogue: 100,0:03:07.65,0:03:10.62,Normal Dialog Text,,0,0,0,,{\rCHS}我差点没控记巨我记己!\N{\rENG}I nearly dissipated my form! 
+Dialogue: 100,0:03:10.62,0:03:13.42,Normal Dialog Text,,0,0,0,,{\rCHS}很荣幸终于见到你\N{\rENG}It is an honor to finally meet you. 
+Dialogue: 100,0:03:13.42,0:03:15.86,Normal Dialog Text,,0,0,0,,{\rCHS}对 那就是我!\N{\rENG}Yup. That's me! 
+Dialogue: 100,0:03:15.86,0:03:18.66,Normal Dialog Text,,0,0,0,,{\rCHS}一直这么大个儿 从来没小过--\N{\rENG}Always huge, never small, all the--
+Dialogue: 100,0:03:18.66,0:03:21.90,Normal Dialog Text,,0,0,0,,{\rCHS}自打出生之日起!\N{\rENG}all the time since I was made! 
+Dialogue: 100,0:03:21.90,0:03:24.23,Normal Dialog Text,,0,0,0,,{\rCHS}等下\N{\rENG}Wait a minute. 
+Dialogue: 100,0:03:24.23,0:03:26.90,Normal Dialog Text,,0,0,0,,{\rCHS}你看起来和我想象中不一样啊\N{\rENG}You look different than I thought you would. 
+Dialogue: 100,0:03:26.90,0:03:28.70,Normal Dialog Text,,0,0,0,,{\rCHS}哦 露馅了吧\N{\rENG}Oh, here it is. 
+Dialogue: 100,0:03:28.70,0:03:33.81,Normal Dialog Text,,0,0,0,,{\rCHS}哦 我晒黑了一点 你造 太阳晒的嘛\N{\rENG}Oh, you must mean my tan--you know, from the sun. 
+Dialogue: 100,0:03:35.65,0:03:37.88,Normal Dialog Text,,0,0,0,,{\rCHS}愚蠢的地球太阳! 啊!\N{\rENG}Stupid Earth sun! Ah! 
+Dialogue: 100,0:03:37.88,0:03:39.15,Normal Dialog Text,,0,0,0,,{\rCHS}我恨这颗星球!\N{\rENG}I hate this planet! 
+Dialogue: 100,0:03:39.15,0:03:41.12,Normal Dialog Text,,0,0,0,,{\rCHS}诅咒这颗星球!\N{\rENG}Curse this planet! 
+Dialogue: 100,0:03:45.98,0:03:48.26,Normal Dialog Text,,0,0,0,,{\rCHS}不管怎样 还好最后找到了你\N{\rENG}Well, it's a good thing we finally found you. 
+Dialogue: 100,0:03:48.55,0:03:49.92,Normal Dialog Text,,0,0,0,,{\rCHS}黄钻在等着你回去\N{\rENG}Yellow Diamond is awaiting your return. 
+Dialogue: 100,0:03:49.93,0:03:51.99,Normal Dialog Text,,0,0,0,,{\rCHS}我们现在马上带你回母星\N{\rENG}We'll take you back to Homeworld right away. 
+Dialogue: 100,0:03:52.00,0:03:54.26,Normal Dialog Text,,0,0,0,,{\rCHS}不行! 我是说--\N{\rENG}No! I mean--
+Dialogue: 100,0:03:54.26,0:03:56.70,Normal Dialog Text,,0,0,0,,{\rCHS}我 铁石英\N{\rENG}I, Jasper, 
+Dialogue: 100,0:03:56.70,0:03:59.27,Normal Dialog Text,,0,0,0,,{\rCHS}已经决定呆在地球了\N{\rENG}have decided to stay on Earth. 
+Dialogue: 100,0:03:59.27,0:04:00.37,Normal Dialog Text,,0,0,0,,{\rCHS}-啥?!-为啥!\N{\rENG}-What?!-Why?! 
+Dialogue: 100,0:04:00.37,0:04:02.13,Normal Dialog Text,,0,0,0,,{\rCHS}对啊 为什么 铁石英?\N{\rENG}Yeah, why, Jasper? 
+Dialogue: 100,0:04:02.13,0:04:05.67,Normal Dialog Text,,0,0,0,,{\rCHS}因为我要在这里看住这些家伙\N{\rENG}Because I gotta stay here with these guys. 
+Dialogue: 100,0:04:05.68,0:04:10.28,Normal Dialog Text,,0,0,0,,{\rCHS}对 必须把她们关起来...为钻石们效力\N{\rENG}Yep, gotta keep 'em prisoner...for the diamonds. 
+Dialogue: 100,0:04:13.38,0:04:15.52,Normal Dialog Text,,0,0,0,,{\rCHS}-铁石英-多么伟大的牺牲\N{\rENG}-Jasper.-Such devotion. 
+Dialogue: 100,0:04:15.52,0:04:19.12,Normal Dialog Text,,0,0,0,,{\rCHS}好吧 黄钻肯定想知道这些事\N{\rENG}Well, Yellow will definitely want to know about this. 
+Dialogue: 100,0:04:19.12,0:04:21.92,Normal Dialog Text,,0,0,0,,{\rCHS}你需要在最近的钻石基地做报告\N{\rENG}You'll have to file a report at the nearest Diamond base. 
+Dialogue: 100,0:04:21.93,0:04:23.04,Normal Dialog Text,,0,0,0,,{\rCHS}钻石基地在哪?\N{\rENG}Where's that? 
+Dialogue: 100,0:04:23.04,0:04:24.45,Normal Dialog Text,,0,0,0,,{\rCHS}路上是不是有经过?\N{\rENG}passed it on our way here? 
+Dialogue: 100,0:04:24.45,0:04:26.73,Normal Dialog Text,,0,0,0,,{\rCHS}你们几个呆瓜! 是在 呃...\N{\rENG}You dummies! It's, uh...
+Dialogue: 100,0:04:26.73,0:04:27.86,Normal Dialog Text,,0,0,0,,{\rCHS}是--嗯\N{\rENG}It's--Hmm. 
+Dialogue: 100,0:04:29.03,0:04:30.53,Normal Dialog Text,,0,0,0,,{\rCHS}在那儿呢!\N{\rENG}It's there! 
+Dialogue: 100,0:04:30.60,0:04:34.64,Normal Dialog Text,,0,0,0,,{\rCHS}我要一路保持这个形态到月球?\N{\rENG}I gotta hold this all the way to the moon?! 
+Dialogue: 100,0:04:34.64,0:04:36.47,Normal Dialog Text,,0,0,0,,{\rCHS}呃 我是说押持\N{\rENG}Uh, hold this. 
+Dialogue: 100,0:04:36.47,0:04:39.23,Normal Dialog Text,,0,0,0,,{\rCHS}押持这些...犯人\N{\rENG}Hold these...prisoners. 
+Dialogue: 100,0:04:39.23,0:04:42.44,Normal Dialog Text,,0,0,0,,{\rCHS}如果去月球的话得把这些叛军犯人带着\N{\rENG}Gotta bring the rebel prisoners if we're going to the moon. 
+Dialogue: 100,0:04:42.45,0:04:45.08,Normal Dialog Text,,0,0,0,,{\rCHS}不能把她们放在这里没人看管\N{\rENG}Can't leave them here unsupervised. 
+Dialogue: 100,0:04:45.08,0:04:47.48,Normal Dialog Text,,0,0,0,,{\rCHS}很好 上飞船!\N{\rENG}Very well. To the ship! 
+Dialogue: 100,0:04:48.20,0:04:51.02,Normal Dialog Text,,0,0,0,,{\rCHS}你在搞什么? 这根本成功不了\N{\rENG}What are you doing? This isn't going to work. 
+Dialogue: 100,0:04:51.02,0:04:52.72,Normal Dialog Text,,0,0,0,,{\rCHS}你不能一直保持这个形态啊\N{\rENG}You can't hold that form forever. 
+Dialogue: 100,0:04:52.72,0:04:54.26,Normal Dialog Text,,0,0,0,,{\rCHS}我能做到的\N{\rENG}I can do this. 
+Dialogue: 100,0:04:54.26,0:04:56.29,Normal Dialog Text,,0,0,0,,{\rCHS}我们先去月球 再回来\N{\rENG}We'll go to the moon, come back, 
+Dialogue: 100,0:04:56.29,0:04:58.03,Normal Dialog Text,,0,0,0,,{\rCHS}然后她们走就是了\N{\rENG}and they'll leave us alone. 
+Dialogue: 100,0:04:58.03,0:04:59.49,Normal Dialog Text,,0,0,0,,{\rCHS}跟我一起演就行\N{\rENG}Just play along. 
+Dialogue: 100,0:05:00.53,0:05:01.73,Normal Dialog Text,,0,0,0,,{\rCHS}哦 嘿!\N{\rENG}Oh, hey! 
+Dialogue: 100,0:05:01.73,0:05:03.16,Normal Dialog Text,,0,0,0,,{\rCHS}你们几个也要当犯人吗?\N{\rENG}You guys want to be prisoners, too? 
+Dialogue: 100,0:05:03.17,0:05:04.57,Normal Dialog Text,,0,0,0,,{\rCHS}不要\N{\rENG}Not really. 
+Dialogue: 100,0:05:04.57,0:05:06.57,Normal Dialog Text,,0,0,0,,{\rCHS}好吧 就问问\N{\rENG}All right. Just checking. 
+Dialogue: 100,0:05:08.77,0:05:11.64,Normal Dialog Text,,0,0,0,,{\rCHS}哇 这里面好大!\N{\rENG}Whoa. It's huge in here! 
+Dialogue: 100,0:05:11.64,0:05:13.54,Normal Dialog Text,,0,0,0,,{\rCHS}我以为会超级挤的\N{\rENG}I thought it'd be super-cramped. 
+Dialogue: 100,0:05:13.54,0:05:16.51,Normal Dialog Text,,0,0,0,,{\rCHS}嘿! 这可不是去郊游!\N{\rENG}Hey! This ain't no pleasure cruise! 
+Dialogue: 100,0:05:16.51,0:05:17.91,Normal Dialog Text,,0,0,0,,{\rCHS}说得对!\N{\rENG}Yeah! 
+Dialogue: 100,0:05:17.91,0:05:22.89,Normal Dialog Text,,0,0,0,,{\rCHS}放尊重点 水-水货战士们!\N{\rENG}Show some respect, you crystal germs! 
+Dialogue: 100,0:05:22.89,0:05:23.92,Normal Dialog Text,,0,0,0,,{\rCHS}对 教训下她们 铁石英!\N{\rENG}Yeah, you tell 'em, Jasper! 
+Dialogue: 100,0:05:23.92,0:05:26.19,Normal Dialog Text,,0,0,0,,{\rCHS}地球上那么多水可不是水货嘛!\N{\rENG}I bet they got those germs from Earth! 
+Dialogue: 100,0:05:26.19,0:05:27.59,Normal Dialog Text,,0,0,0,,{\rCHS}嗷 真倒霉!\N{\rENG}Aw, curses! 
+Dialogue: 100,0:05:27.59,0:05:29.36,Normal Dialog Text,,0,0,0,,{\rCHS}不敢相信我们竟然被抓了!\N{\rENG}I can't believe we've been caught! 
+Dialogue: 100,0:05:29.36,0:05:31.43,Normal Dialog Text,,0,0,0,,{\rCHS}还是被铁石英抓到的!\N{\rENG}And by none other than Jasper! 
+Dialogue: 100,0:05:31.43,0:05:32.93,Normal Dialog Text,,0,0,0,,{\rCHS}真是气死我惹\N{\rENG}I'm so cross over it. 
+Dialogue: 100,0:05:32.93,0:05:34.13,Normal Dialog Text,,0,0,0,,{\rCHS}对啊\N{\rENG}Uh-huh. 
+Dialogue: 100,0:05:34.13,0:05:37.27,Normal Dialog Text,,0,0,0,,{\rCHS}都怪铁石英--就是她抓的我们\N{\rENG}That sure is Jasper--the one that caught us. 
+Dialogue: 100,0:05:37.27,0:05:38.63,Normal Dialog Text,,0,0,0,,{\rCHS}气死惹\N{\rENG}Harumph. 
+Dialogue: 100,0:05:38.63,0:05:41.50,Normal Dialog Text,,0,0,0,,{\rCHS}多么一种耻辱啊!\N{\rENG}Of all the indignities! 
+Dialogue: 100,0:05:41.50,0:05:45.04,Normal Dialog Text,,0,0,0,,{\rCHS}千刀万剐随你 我自闭口不言\N{\rENG}Do what you want. I'll never talk. 
+Dialogue: 100,0:05:45.04,0:05:46.61,Normal Dialog Text,,0,0,0,,{\rCHS}我倒希望你能闭嘴呢\N{\rENG}Huh, I wish. 
+Dialogue: 100,0:05:46.61,0:05:50.24,Normal Dialog Text,,0,0,0,,{\rCHS}对啊 哈哈 她话真多\N{\rENG}Yeah. She talks a lot! 
+Dialogue: 100,0:05:50.25,0:05:52.15,Normal Dialog Text,,0,0,0,,{\rCHS}快去那边坐着!\N{\rENG}Go sit over there now! 
+Dialogue: 100,0:05:52.15,0:05:55.18,Normal Dialog Text,,0,0,0,,{\rCHS}哇哦 铁石英又强壮又风趣\N{\rENG}Wow! Jasper's so funny and strong! 
+Dialogue: 100,0:05:55.19,0:05:57.25,Normal Dialog Text,,0,0,0,,{\rCHS}我也这么想呢!\N{\rENG}I was just thinking that! 
+Dialogue: 100,0:05:57.25,0:05:59.45,Normal Dialog Text,,0,0,0,,{\rCHS}这太有趣了!\N{\rENG}This is fun! 
+Dialogue: 100,0:05:59.46,0:06:01.46,Normal Dialog Text,,0,0,0,,{\rCHS}-铁石英!-啊 我是铁石英!\N{\rENG}-Jasper!-Agh! I'm Jasper! 
+Dialogue: 100,0:06:01.46,0:06:04.16,Normal Dialog Text,,0,0,0,,{\rCHS}请你坐上我的位置 就在最前--\N{\rENG}Please feel free to take my seat right up front--
+Dialogue: 100,0:06:04.16,0:06:05.53,Normal Dialog Text,,0,0,0,,{\rCHS}那个船长座位\N{\rENG}the captain's seat. 
+Dialogue: 100,0:06:05.53,0:06:07.16,Normal Dialog Text,,0,0,0,,{\rCHS}这是我的荣幸\N{\rENG}It would be an honor. 
+Dialogue: 100,0:06:07.16,0:06:08.36,Normal Dialog Text,,0,0,0,,{\rCHS}好\N{\rENG}Yeah. 
+Dialogue: 100,0:06:08.36,0:06:10.13,Normal Dialog Text,,0,0,0,,{\rCHS}好 没问题\N{\rENG}Yes. Sure thing. 
+Dialogue: 100,0:06:10.13,0:06:12.43,Normal Dialog Text,,0,0,0,,{\rCHS}希望你觉得座位舒服\N{\rENG}I hope it's to your liking. 
+Dialogue: 100,0:06:12.44,0:06:13.87,Normal Dialog Text,,0,0,0,,{\rCHS}还行吧\N{\rENG}It's all right. 
 Dialogue: 100,0:06:13.87,0:06:14.80,Normal Dialog Text,,0,0,0,,{\rCHS}你可以随时\N{\rENG}You can go ahead
-Dialogue: 100,0:06:14.80,0:06:17.10,Normal Dialog Text,,0,0,0,,{\rCHS}驾驶飞船飞向月球基地\N{\rENG}and head towards the moon base whenever you're ready.
+Dialogue: 100,0:06:14.80,0:06:17.10,Normal Dialog Text,,0,0,0,,{\rCHS}驾驶飞船飞向月球基地\N{\rENG}and head towards the moon base whenever you're ready. 
 Dialogue: 100,0:06:17.11,0:06:18.54,Normal Dialog Text,,0,0,0,,{\rCHS}但...\N{\rENG}Buh...
-Dialogue: 100,0:06:18.54,0:06:20.57,Normal Dialog Text,,0,0,0,,{\rCHS}当然可以!呵\N{\rENG}Of course!Heh.
-Dialogue: 100,0:06:20.58,0:06:22.14,Normal Dialog Text,,0,0,0,,{\rCHS}嗯\N{\rENG}Hmm.
+Dialogue: 100,0:06:18.54,0:06:20.57,Normal Dialog Text,,0,0,0,,{\rCHS}当然可以! 呵\N{\rENG}Of course! Heh. 
+Dialogue: 100,0:06:20.58,0:06:22.14,Normal Dialog Text,,0,0,0,,{\rCHS}嗯\N{\rENG}Hmm. 
 Dialogue: 100,0:06:22.15,0:06:23.88,Normal Dialog Text,,0,0,0,,{\rCHS}呃\N{\rENG}Uh...
-Dialogue: 100,0:06:27.25,0:06:29.68,Normal Dialog Text,,0,0,0,,{\rCHS}呃,听着\N{\rENG}Uh, listen.
-Dialogue: 100,0:06:29.69,0:06:32.32,Normal Dialog Text,,0,0,0,,{\rCHS}我是铁石英,我因为刚刚\N{\rENG}I'm Jasper,and I'm too worn out
-Dialogue: 100,0:06:32.32,0:06:33.79,Normal Dialog Text,,0,0,0,,{\rCHS}抓她们叛军上飞船所以很累\N{\rENG}from catching rebels to fly,
-Dialogue: 100,0:06:33.79,0:06:35.82,Normal Dialog Text,,0,0,0,,{\rCHS}所以我就坐这儿,像这样\N{\rENG}so I'll just sit here,like this,
-Dialogue: 100,0:06:35.83,0:06:37.96,Normal Dialog Text,,0,0,0,,{\rCHS}然后你驾驶飞船带我们上月球\N{\rENG}and you work the thing to get us to the moon.
-Dialogue: 100,0:06:37.96,0:06:38.99,Normal Dialog Text,,0,0,0,,{\rCHS}明白没?\N{\rENG}Got it?
-Dialogue: 100,0:06:39.00,0:06:41.43,Normal Dialog Text,,0,0,0,,{\rCHS}明白,当然的\N{\rENG}Yes, of course.
-Dialogue: 100,0:06:41.43,0:06:43.10,Normal Dialog Text,,0,0,0,,{\rCHS}那么,去月球?\N{\rENG}To the moon, then?
-Dialogue: 100,0:06:43.10,0:06:45.13,Normal Dialog Text,,0,0,0,,{\rCHS}对的,去月球!\N{\rENG}To the moon, then!
-Dialogue: 100,0:06:45.13,0:06:46.90,Normal Dialog Text,,0,0,0,,{\rCHS}对的,去月球!\N{\rENG}To the moon, then!
-Dialogue: 100,0:06:53.19,0:06:54.54,Normal Dialog Text,,0,0,0,,{\rCHS}我们即将到达月球\N{\rENG}We'll be arriving shortly.
-Dialogue: 100,0:06:54.54,0:06:56.65,Normal Dialog Text,,0,0,0,,{\rCHS}嘿,把座位捂热了\N{\rENG}Hey, keep my seat warm
-Dialogue: 100,0:06:56.65,0:06:59.01,Normal Dialog Text,,0,0,0,,{\rCHS}我去看看那些,呃,犯人们\N{\rENG}while I check on our,uh, prisoners.
-Dialogue: 100,0:06:59.02,0:07:01.22,Normal Dialog Text,,0,0,0,,{\rCHS}好的,铁石英,好主意\N{\rENG}Yes, Jasper.Good idea.
-Dialogue: 100,0:07:01.22,0:07:03.35,Normal Dialog Text,,0,0,0,,{\rCHS}不!\N{\rENG}No!
-Dialogue: 100,0:07:03.35,0:07:05.69,Normal Dialog Text,,0,0,0,,{\rCHS}离我们远点,你个莽夫!\N{\rENG}Stay away from us,you brute!
-Dialogue: 100,0:07:05.69,0:07:07.99,Normal Dialog Text,,0,0,0,,{\rCHS}低调点,珍珠\N{\rENG}Tone it down, Pearl.
-Dialogue: 100,0:07:07.99,0:07:11.13,Normal Dialog Text,,0,0,0,,{\rCHS}那个红宝石都想把你丢出太空去了\N{\rENG}That one ruby wants to throw you out into space.
-Dialogue: 100,0:07:12.83,0:07:15.33,Normal Dialog Text,,0,0,0,,{\rCHS}抱歉,太入戏了\N{\rENG}Sorry.Got a bit carried away.
-Dialogue: 100,0:07:15.33,0:07:17.53,Normal Dialog Text,,0,0,0,,{\rCHS}呃,你还好吗,紫晶?\N{\rENG}Uh, you okay, Amethyst?
-Dialogue: 100,0:07:17.53,0:07:19.63,Normal Dialog Text,,0,0,0,,{\rCHS}你已经保持这种形态超长时间了\N{\rENG}You've been holding that form forever now.
-Dialogue: 100,0:07:19.64,0:07:22.30,Normal Dialog Text,,0,0,0,,{\rCHS}我能控制住\N{\rENG}I've got it under control.
-Dialogue: 100,0:07:22.50,0:07:25.84,Normal Dialog Text,,0,0,0,,{\rCHS}嘿!我回去的时候那个座位最好还是热着的!\N{\rENG}Hey, my seat better still be warm when I get over there!
-Dialogue: 100,0:07:38.19,0:07:39.69,Normal Dialog Text,,0,0,0,,{\rCHS}警报解除!\N{\rENG}All clear!
-Dialogue: 100,0:07:41.36,0:07:43.49,Normal Dialog Text,,0,0,0,,{\rCHS}这边请,铁石英\N{\rENG}Right this way,Jasper.
-Dialogue: 100,0:07:43.49,0:07:48.66,Normal Dialog Text,,0,0,0,,{\rCHS}哦,铁石英,放过我们可好?\N{\rENG}Oh, Jasper,won't you ever let us go?
-Dialogue: 100,0:07:48.98,0:07:52.00,Normal Dialog Text,,0,0,0,,{\rCHS}看看这个地方--冻结在过去的状态\N{\rENG}Look at this place --frozen in time.
-Dialogue: 100,0:07:52.00,0:07:53.77,Normal Dialog Text,,0,0,0,,{\rCHS}第一纪元时代的基地\N{\rENG}An era-one base.
-Dialogue: 100,0:07:53.77,0:07:56.47,Normal Dialog Text,,0,0,0,,{\rCHS}她的第一纪元基地\N{\rENG}Her era-one base.
-Dialogue: 100,0:07:56.47,0:07:58.97,Normal Dialog Text,,0,0,0,,{\rCHS}真是悲剧,发生在她身上那些事\N{\rENG}It was a tragedy,what happened to her.
-Dialogue: 100,0:07:58.98,0:08:00.44,Normal Dialog Text,,0,0,0,,{\rCHS}那到底是谁啊?\N{\rENG}Who is that anyway?
-Dialogue: 100,0:08:00.44,0:08:03.04,Normal Dialog Text,,0,0,0,,{\rCHS}你昨天才出生的吗?!\N{\rENG}Were you made\Nyesterday?!
-Dialogue: 100,0:08:03.05,0:08:06.11,Normal Dialog Text,,0,0,0,,{\rCHS}那是粉钻\N{\rENG}That is Pink Diamond.
-Dialogue: 100,0:08:07.05,0:08:09.82,Normal Dialog Text,,0,0,0,,{\rCHS}铁石英,最好你来解释\N{\rENG}Jasper, maybe it's best if you explain.
-Dialogue: 100,0:08:09.82,0:08:11.65,Normal Dialog Text,,0,0,0,,{\rCHS}我来?不要\N{\rENG}What, me? No.
-Dialogue: 100,0:08:11.65,0:08:13.05,Normal Dialog Text,,0,0,0,,{\rCHS}不,你来\N{\rENG}No, you do it.
-Dialogue: 100,0:08:13.06,0:08:16.12,Normal Dialog Text,,0,0,0,,{\rCHS}我,这个,太触动我的情感了\N{\rENG}I'm, like,too messed up about it.
-Dialogue: 100,0:08:16.13,0:08:17.96,Normal Dialog Text,,0,0,0,,{\rCHS}我懂你\N{\rENG}I understand.
-Dialogue: 100,0:08:17.96,0:08:20.76,Normal Dialog Text,,0,0,0,,{\rCHS}她是你原本的钻石\N{\rENG}She was your original diamond.
-Dialogue: 100,0:08:20.76,0:08:24.20,Normal Dialog Text,,0,0,0,,{\rCHS}地球是粉钻的殖民地\N{\rENG}Earth was Pink Diamond's colony.
-Dialogue: 100,0:08:24.20,0:08:26.59,Normal Dialog Text,,0,0,0,,{\rCHS}一开始一切都进展顺利\N{\rENG}Everything was going smoothly at first.
-Dialogue: 100,0:08:26.59,0:08:29.58,Normal Dialog Text,,0,0,0,,{\rCHS}宝宝基地在孕育第一批士兵\N{\rENG}Kindergartens were incubating their first soldiers,
-Dialogue: 100,0:08:29.58,0:08:33.46,Normal Dialog Text,,0,0,0,,{\rCHS}大块,温润的石英--就像这个大个子一样--\N{\rENG}big, warm pieces of quartz --like this mountain over here --
-Dialogue: 100,0:08:33.46,0:08:37.98,Normal Dialog Text,,0,0,0,,{\rCHS}在这土地丰富的矿物质中被成功制造出来\N{\rENG}were being created from its rich minerals with great success.
-Dialogue: 100,0:08:37.98,0:08:39.18,Normal Dialog Text,,0,0,0,,{\rCHS}突然--砰!\N{\rENG}Then -- bam!
+Dialogue: 100,0:06:27.25,0:06:29.68,Normal Dialog Text,,0,0,0,,{\rCHS}呃 听着\N{\rENG}Uh, listen. 
+Dialogue: 100,0:06:29.69,0:06:32.32,Normal Dialog Text,,0,0,0,,{\rCHS}我是铁石英 我因为刚刚\N{\rENG}I'm Jasper, and I'm too worn out
+Dialogue: 100,0:06:32.32,0:06:33.79,Normal Dialog Text,,0,0,0,,{\rCHS}抓她们叛军上飞船所以很累\N{\rENG}from catching rebels to fly, 
+Dialogue: 100,0:06:33.79,0:06:35.82,Normal Dialog Text,,0,0,0,,{\rCHS}所以我就坐这儿 像这样\N{\rENG}so I'll just sit here, like this, 
+Dialogue: 100,0:06:35.83,0:06:37.96,Normal Dialog Text,,0,0,0,,{\rCHS}然后你驾驶飞船带我们上月球\N{\rENG}and you work the thing to get us to the moon. 
+Dialogue: 100,0:06:37.96,0:06:38.99,Normal Dialog Text,,0,0,0,,{\rCHS}明白没?\N{\rENG}Got it? 
+Dialogue: 100,0:06:39.00,0:06:41.43,Normal Dialog Text,,0,0,0,,{\rCHS}明白 当然的\N{\rENG}Yes, of course. 
+Dialogue: 100,0:06:41.43,0:06:43.10,Normal Dialog Text,,0,0,0,,{\rCHS}那么 去月球?\N{\rENG}To the moon, then? 
+Dialogue: 100,0:06:43.10,0:06:45.13,Normal Dialog Text,,0,0,0,,{\rCHS}对的 去月球!\N{\rENG}To the moon, then! 
+Dialogue: 100,0:06:45.13,0:06:46.90,Normal Dialog Text,,0,0,0,,{\rCHS}对的 去月球!\N{\rENG}To the moon, then! 
+Dialogue: 100,0:06:53.19,0:06:54.54,Normal Dialog Text,,0,0,0,,{\rCHS}我们即将到达月球\N{\rENG}We'll be arriving shortly. 
+Dialogue: 100,0:06:54.54,0:06:56.65,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 把座位捂热了\N{\rENG}Hey, keep my seat warm
+Dialogue: 100,0:06:56.65,0:06:59.01,Normal Dialog Text,,0,0,0,,{\rCHS}我去看看那些 呃 犯人们\N{\rENG}while I check on our, uh, prisoners. 
+Dialogue: 100,0:06:59.02,0:07:01.22,Normal Dialog Text,,0,0,0,,{\rCHS}好的 铁石英 好主意\N{\rENG}Yes, Jasper. Good idea. 
+Dialogue: 100,0:07:01.22,0:07:03.35,Normal Dialog Text,,0,0,0,,{\rCHS}不!\N{\rENG}No! 
+Dialogue: 100,0:07:03.35,0:07:05.69,Normal Dialog Text,,0,0,0,,{\rCHS}离我们远点 你个莽夫!\N{\rENG}Stay away from us, you brute! 
+Dialogue: 100,0:07:05.69,0:07:07.99,Normal Dialog Text,,0,0,0,,{\rCHS}低调点 珍珠\N{\rENG}Tone it down, Pearl. 
+Dialogue: 100,0:07:07.99,0:07:11.13,Normal Dialog Text,,0,0,0,,{\rCHS}那个红宝石都想把你丢出太空去了\N{\rENG}That one ruby wants to throw you out into space. 
+Dialogue: 100,0:07:12.83,0:07:15.33,Normal Dialog Text,,0,0,0,,{\rCHS}抱歉 太入戏了\N{\rENG}Sorry. Got a bit carried away. 
+Dialogue: 100,0:07:15.33,0:07:17.53,Normal Dialog Text,,0,0,0,,{\rCHS}呃 你还好吗 紫晶?\N{\rENG}Uh, you okay, Amethyst? 
+Dialogue: 100,0:07:17.53,0:07:19.63,Normal Dialog Text,,0,0,0,,{\rCHS}你已经保持这种形态超长时间了\N{\rENG}You've been holding that form forever now. 
+Dialogue: 100,0:07:19.64,0:07:22.30,Normal Dialog Text,,0,0,0,,{\rCHS}我能控制住\N{\rENG}I've got it under control. 
+Dialogue: 100,0:07:22.50,0:07:25.84,Normal Dialog Text,,0,0,0,,{\rCHS}嘿! 我回去的时候那个座位最好还是热着的!\N{\rENG}Hey, my seat better still be warm when I get over there! 
+Dialogue: 100,0:07:38.19,0:07:39.69,Normal Dialog Text,,0,0,0,,{\rCHS}警报解除!\N{\rENG}All clear! 
+Dialogue: 100,0:07:41.36,0:07:43.49,Normal Dialog Text,,0,0,0,,{\rCHS}这边请 铁石英\N{\rENG}Right this way, Jasper. 
+Dialogue: 100,0:07:43.49,0:07:48.66,Normal Dialog Text,,0,0,0,,{\rCHS}哦 铁石英 放过我们可好?\N{\rENG}Oh, Jasper, won't you ever let us go? 
+Dialogue: 100,0:07:48.98,0:07:52.00,Normal Dialog Text,,0,0,0,,{\rCHS}看看这个地方--冻结在过去的状态\N{\rENG}Look at this place--frozen in time. 
+Dialogue: 100,0:07:52.00,0:07:53.77,Normal Dialog Text,,0,0,0,,{\rCHS}第一纪元时代的基地\N{\rENG}An era-one base. 
+Dialogue: 100,0:07:53.77,0:07:56.47,Normal Dialog Text,,0,0,0,,{\rCHS}她的第一纪元基地\N{\rENG}Her era-one base. 
+Dialogue: 100,0:07:56.47,0:07:58.97,Normal Dialog Text,,0,0,0,,{\rCHS}真是悲剧 发生在她身上那些事\N{\rENG}It was a tragedy, what happened to her. 
+Dialogue: 100,0:07:58.98,0:08:00.44,Normal Dialog Text,,0,0,0,,{\rCHS}那到底是谁啊?\N{\rENG}Who is that anyway? 
+Dialogue: 100,0:08:00.44,0:08:03.04,Normal Dialog Text,,0,0,0,,{\rCHS}你昨天才出生的吗?!\N{\rENG}Were you made\Nyesterday?! 
+Dialogue: 100,0:08:03.05,0:08:06.11,Normal Dialog Text,,0,0,0,,{\rCHS}那是粉钻\N{\rENG}That is Pink Diamond. 
+Dialogue: 100,0:08:07.05,0:08:09.82,Normal Dialog Text,,0,0,0,,{\rCHS}铁石英 最好你来解释\N{\rENG}Jasper, maybe it's best if you explain. 
+Dialogue: 100,0:08:09.82,0:08:11.65,Normal Dialog Text,,0,0,0,,{\rCHS}我来? 不要\N{\rENG}What, me? No. 
+Dialogue: 100,0:08:11.65,0:08:13.05,Normal Dialog Text,,0,0,0,,{\rCHS}不 你来\N{\rENG}No, you do it. 
+Dialogue: 100,0:08:13.06,0:08:16.12,Normal Dialog Text,,0,0,0,,{\rCHS}我 这个 太触动我的情感了\N{\rENG}I'm, like, too messed up about it. 
+Dialogue: 100,0:08:16.13,0:08:17.96,Normal Dialog Text,,0,0,0,,{\rCHS}我懂你\N{\rENG}I understand. 
+Dialogue: 100,0:08:17.96,0:08:20.76,Normal Dialog Text,,0,0,0,,{\rCHS}她是你原本的钻石\N{\rENG}She was your original diamond. 
+Dialogue: 100,0:08:20.76,0:08:24.20,Normal Dialog Text,,0,0,0,,{\rCHS}地球是粉钻的殖民地\N{\rENG}Earth was Pink Diamond's colony. 
+Dialogue: 100,0:08:24.20,0:08:26.59,Normal Dialog Text,,0,0,0,,{\rCHS}一开始一切都进展顺利\N{\rENG}Everything was going smoothly at first. 
+Dialogue: 100,0:08:26.59,0:08:29.58,Normal Dialog Text,,0,0,0,,{\rCHS}宝宝基地在孕育第一批士兵\N{\rENG}Kindergartens were incubating their first soldiers, 
+Dialogue: 100,0:08:29.58,0:08:33.46,Normal Dialog Text,,0,0,0,,{\rCHS}大块 温润的石英--就像这个大个子一样--\N{\rENG}big, warm pieces of quartz--like this mountain over here--
+Dialogue: 100,0:08:33.46,0:08:37.98,Normal Dialog Text,,0,0,0,,{\rCHS}在这土地丰富的矿物质中被成功制造出来\N{\rENG}were being created from its rich minerals with great success. 
+Dialogue: 100,0:08:37.98,0:08:39.18,Normal Dialog Text,,0,0,0,,{\rCHS}突然--砰!\N{\rENG}Then--bam! 
 Dialogue: 100,0:08:39.18,0:08:42.43,Normal Dialog Text,,0,0,0,,{\rCHS}粉钻下属的石英战士之一\N{\rENG}One of Pink Diamond's very own quartz soldiers
-Dialogue: 100,0:08:42.43,0:08:45.15,Normal Dialog Text,,0,0,0,,{\rCHS}发动了叛变然后一发不可收拾\N{\rENG}started a rebellion and took it too far.
-Dialogue: 100,0:08:45.16,0:08:47.39,Normal Dialog Text,,0,0,0,,{\rCHS}叛变发生时你在哪里?\N{\rENG}Where were you when it happened?
-Dialogue: 100,0:08:47.39,0:08:50.19,Normal Dialog Text,,0,0,0,,{\rCHS}哦,你造的,就在附近\N{\rENG}Oh, you know, around.
-Dialogue: 100,0:08:50.19,0:08:55.46,Normal Dialog Text,,0,0,0,,{\rCHS}我当时在场 我亲眼看到了\N{\rENG}I was there.I saw it with my own eye.
-Dialogue: 100,0:08:55.47,0:08:57.56,Normal Dialog Text,,0,0,0,,{\rCHS}我看到水晶战士的头领\N{\rENG}I watched the leader of the crystal gems --
-Dialogue: 100,0:08:57.57,0:09:01.67,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰石英--粉碎了粉钻!\N{\rENG}Rose Quartz --shatter Pink Diamond!
-Dialogue: 100,0:09:05.28,0:09:07.51,Normal Dialog Text,,0,0,0,,{\rCHS}不\N{\rENG}No.
-Dialogue: 100,0:09:07.51,0:09:10.01,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰石英才不会那么做!\N{\rENG}Rose Quartz would never do that!
-Dialogue: 100,0:09:10.01,0:09:13.18,Normal Dialog Text,,0,0,0,,{\rCHS}还-还有,确实,她是要打仗但是--\N{\rENG}A-And, sure,she had to fight but --
-Dialogue: 100,0:09:13.18,0:09:15.75,Normal Dialog Text,,0,0,0,,{\rCHS}她不会粉碎任何人的!\N{\rENG}but she would never shatter someone!
-Dialogue: 100,0:09:19.55,0:09:22.06,Normal Dialog Text,,0,0,0,,{\rCHS}嘿!遇到问题了\N{\rENG}Hey!We got a problem.
-Dialogue: 100,0:09:22.70,0:09:25.59,Normal Dialog Text,,0,0,0,,{\rCHS}控制台坏掉了 通讯器也不见了\N{\rENG}The panel is broken.The communicator is gone!
-Dialogue: 100,0:09:25.59,0:09:28.50,Normal Dialog Text,,0,0,0,,{\rCHS}这个中心没办法联系黄钻了\N{\rENG}There's no way to contact Yellow Diamond from this hub.
-Dialogue: 100,0:09:28.50,0:09:30.43,Normal Dialog Text,,0,0,0,,{\rCHS}-是水晶战士!-难以置信!\N{\rENG}-Crystal gems!-Unbelievable!
-Dialogue: 100,0:09:30.43,0:09:32.35,Normal Dialog Text,,0,0,0,,{\rCHS}-粗鲁!-没教养!\N{\rENG}-Rude!-No respect!
-Dialogue: 100,0:09:32.35,0:09:32.90,Normal Dialog Text,,0,0,0,,{\rCHS}看到了吧!\N{\rENG}-See!
-Dialogue: 100,0:09:32.90,0:09:34.70,Normal Dialog Text,,0,0,0,,{\rCHS}她们什么事都做得出来!\N{\rENG}They'll stoop to anything!
+Dialogue: 100,0:08:42.43,0:08:45.15,Normal Dialog Text,,0,0,0,,{\rCHS}发动了叛变然后一发不可收拾\N{\rENG}started a rebellion and took it too far. 
+Dialogue: 100,0:08:45.16,0:08:47.39,Normal Dialog Text,,0,0,0,,{\rCHS}叛变发生时你在哪里?\N{\rENG}Where were you when it happened? 
+Dialogue: 100,0:08:47.39,0:08:50.19,Normal Dialog Text,,0,0,0,,{\rCHS}哦 你造的 就在附近\N{\rENG}Oh, you know, around. 
+Dialogue: 100,0:08:50.19,0:08:55.46,Normal Dialog Text,,0,0,0,,{\rCHS}我当时在场 我亲眼看到了\N{\rENG}I was there. I saw it with my own eye. 
+Dialogue: 100,0:08:55.47,0:08:57.56,Normal Dialog Text,,0,0,0,,{\rCHS}我看到水晶战士的头领\N{\rENG}I watched the leader of the crystal gems--
+Dialogue: 100,0:08:57.57,0:09:01.67,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰石英--粉碎了粉钻!\N{\rENG}Rose Quartz--shatter Pink Diamond! 
+Dialogue: 100,0:09:05.28,0:09:07.51,Normal Dialog Text,,0,0,0,,{\rCHS}不\N{\rENG}No. 
+Dialogue: 100,0:09:07.51,0:09:10.01,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰石英才不会那么做!\N{\rENG}Rose Quartz would never do that! 
+Dialogue: 100,0:09:10.01,0:09:13.18,Normal Dialog Text,,0,0,0,,{\rCHS}还-还有 确实 她是要打仗但是--\N{\rENG}A-And, sure, she had to fight but--
+Dialogue: 100,0:09:13.18,0:09:15.75,Normal Dialog Text,,0,0,0,,{\rCHS}她不会粉碎任何人的!\N{\rENG}but she would never shatter someone! 
+Dialogue: 100,0:09:19.55,0:09:22.06,Normal Dialog Text,,0,0,0,,{\rCHS}嘿! 遇到问题了\N{\rENG}Hey! We got a problem. 
+Dialogue: 100,0:09:22.70,0:09:25.59,Normal Dialog Text,,0,0,0,,{\rCHS}控制台坏掉了 通讯器也不见了\N{\rENG}The panel is broken. The communicator is gone! 
+Dialogue: 100,0:09:25.59,0:09:28.50,Normal Dialog Text,,0,0,0,,{\rCHS}这个中心没办法联系黄钻了\N{\rENG}There's no way to contact Yellow Diamond from this hub. 
+Dialogue: 100,0:09:28.50,0:09:30.43,Normal Dialog Text,,0,0,0,,{\rCHS}-是水晶战士!-难以置信!\N{\rENG}-Crystal gems!-Unbelievable! 
+Dialogue: 100,0:09:30.43,0:09:32.35,Normal Dialog Text,,0,0,0,,{\rCHS}-粗鲁!-没教养!\N{\rENG}-Rude!-No respect! 
+Dialogue: 100,0:09:32.35,0:09:32.90,Normal Dialog Text,,0,0,0,,{\rCHS}看到了吧!\N{\rENG}-See! 
+Dialogue: 100,0:09:32.90,0:09:34.70,Normal Dialog Text,,0,0,0,,{\rCHS}她们什么事都做得出来!\N{\rENG}They'll stoop to anything! 
 Dialogue: 100,0:09:34.70,0:09:36.27,Normal Dialog Text,,0,0,0,,{\rCHS}我们得把你带回母星了\N{\rENG}We'll have to take you to Homeworld
-Dialogue: 100,0:09:36.27,0:09:37.54,Normal Dialog Text,,0,0,0,,{\rCHS}你得亲自做报告\N{\rENG}to file a report in person.
-Dialogue: 100,0:09:37.54,0:09:39.47,Normal Dialog Text,,0,0,0,,{\rCHS}我不能!\N{\rENG}I can't!
-Dialogue: 100,0:09:39.48,0:09:40.87,Normal Dialog Text,,0,0,0,,{\rCHS}我不能走!\N{\rENG}I can't go!
-Dialogue: 100,0:09:40.88,0:09:42.45,Normal Dialog Text,,0,0,0,,{\rCHS}-哈?-我没明白\N{\rENG}Huh?-I don't understand.
-Dialogue: 100,0:09:42.45,0:09:44.41,Normal Dialog Text,,0,0,0,,{\rCHS}-你什么意思?-发生啥事?\N{\rENG}-What do you mean?-What's going on?
-Dialogue: 100,0:09:44.41,0:09:46.35,Normal Dialog Text,,0,0,0,,{\rCHS}你猜怎么?\N{\rENG}You know what?
-Dialogue: 100,0:09:46.35,0:09:47.68,Normal Dialog Text,,0,0,0,,{\rCHS}你懂我的\N{\rENG}You know me.
-Dialogue: 100,0:09:47.68,0:09:49.72,Normal Dialog Text,,0,0,0,,{\rCHS}帮我个忙,回去母星\N{\rENG}Do me a favor and go back home
-Dialogue: 100,0:09:49.72,0:09:51.62,Normal Dialog Text,,0,0,0,,{\rCHS}然后替我做这个报告\N{\rENG}and file the report for me.
-Dialogue: 100,0:09:51.62,0:09:53.89,Normal Dialog Text,,0,0,0,,{\rCHS}我相信你的,士兵\N{\rENG}I'm trusting you,soldier.
-Dialogue: 100,0:09:53.89,0:09:55.46,Normal Dialog Text,,0,0,0,,{\rCHS}哇哦\N{\rENG}Wow.
-Dialogue: 100,0:09:55.46,0:09:56.82,Normal Dialog Text,,0,0,0,,{\rCHS}没问题!\N{\rENG}Of course!
-Dialogue: 100,0:09:56.83,0:09:58.13,Normal Dialog Text,,0,0,0,,{\rCHS}就这么决定了\N{\rENG}That settles it.
-Dialogue: 100,0:09:58.13,0:10:00.66,Normal Dialog Text,,0,0,0,,{\rCHS}好了,红宝石们,返回飞船!\N{\rENG}All right, rubies,back to the ship!
-Dialogue: 100,0:10:05.87,0:10:08.43,Normal Dialog Text,,0,0,0,,{\rCHS}真棒,紫晶!\N{\rENG}-All right, Amethyst!
-Dialogue: 100,0:10:08.43,0:10:09.58,Normal Dialog Text,,0,0,0,,{\rCHS}你真的坚持住了\N{\rENG}You really held it together.
-Dialogue: 100,0:10:09.58,0:10:10.32,Normal Dialog Text,,0,0,0,,{\rCHS}你做到了\N{\rENG}You did it.
-Dialogue: 100,0:10:10.32,0:10:14.11,Normal Dialog Text,,0,0,0,,{\rCHS}-我就说你行的-嗷-\N{\rENG}-I told you you could.-Aw.
-Dialogue: 100,0:10:22.70,0:10:24.34,Normal Dialog Text,,0,0,0,,{\rCHS}嘿,需要把你们捎回地球吗?\N{\rENG}Hey, you need a ride back to Earth?
-Dialogue: 100,0:10:24.34,0:10:26.60,Normal Dialog Text,,0,0,0,,{\rCHS}如果你想我还可以坐在你腿上,呃--\N{\rENG}I could sit on your lap if you want, uh --
-Dialogue: 100,0:10:26.61,0:10:27.64,Normal Dialog Text,,0,0,0,,{\rCHS}什么?!\N{\rENG}What?!
-Dialogue: 100,0:10:27.64,0:10:29.54,Normal Dialog Text,,0,0,0,,{\rCHS}我还是铁石英!\N{\rENG}I'm still Jasper!
-Dialogue: 100,0:10:29.54,0:10:31.91,Normal Dialog Text,,0,0,0,,{\rCHS}我们又被骗了?!\N{\rENG}We've been tricked again?!
-Dialogue: 100,0:10:31.91,0:10:33.44,Normal Dialog Text,,0,0,0,,{\rCHS}难以置信!\N{\rENG}No way!
-Dialogue: 100,0:10:33.45,0:10:34.78,Normal Dialog Text,,0,0,0,,{\rCHS}红宝石们,组合!\N{\rENG}Rubies, assemble!
-Dialogue: 100,0:10:42.99,0:10:47.39,Normal Dialog Text,,0,0,0,,{\rCHS}你们再也别想耍我们了!\N{\rENG}We won't let you trick us again!
-Dialogue: 100,0:10:47.39,0:10:49.19,Normal Dialog Text,,0,0,0,,{\rCHS}嘿,红宝石们!\N{\rENG}Hey, rubies!
-Dialogue: 100,0:10:49.20,0:10:52.76,Normal Dialog Text,,0,0,0,,{\rCHS}要打出去打!\N{\rENG}If you're gonna fight,take it outside!
-Dialogue: 100,0:10:54.80,0:10:58.90,Normal Dialog Text,,0,0,0,,{\rCHS}你不可能这么轻易摆脱我们的!\N{\rENG}You can't get rid of us that easy!
-Dialogue: 100,0:11:01.47,0:11:03.04,Normal Dialog Text,,0,0,0,,{\rCHS}我想她可以\N{\rENG}I bet she can.
-Dialogue: 100,0:11:07.45,0:11:12.12,Normal Dialog Text,,0,0,0,,{\rCHS}-史蒂文!\N{\rENG}-Steven!
+Dialogue: 100,0:09:36.27,0:09:37.54,Normal Dialog Text,,0,0,0,,{\rCHS}你得亲自做报告\N{\rENG}to file a report in person. 
+Dialogue: 100,0:09:37.54,0:09:39.47,Normal Dialog Text,,0,0,0,,{\rCHS}我不能!\N{\rENG}I can't! 
+Dialogue: 100,0:09:39.48,0:09:40.87,Normal Dialog Text,,0,0,0,,{\rCHS}我不能走!\N{\rENG}I can't go! 
+Dialogue: 100,0:09:40.88,0:09:42.45,Normal Dialog Text,,0,0,0,,{\rCHS}-哈?-我没明白\N{\rENG}Huh?-I don't understand. 
+Dialogue: 100,0:09:42.45,0:09:44.41,Normal Dialog Text,,0,0,0,,{\rCHS}-你什么意思?-发生啥事?\N{\rENG}-What do you mean?-What's going on? 
+Dialogue: 100,0:09:44.41,0:09:46.35,Normal Dialog Text,,0,0,0,,{\rCHS}你猜怎么?\N{\rENG}You know what? 
+Dialogue: 100,0:09:46.35,0:09:47.68,Normal Dialog Text,,0,0,0,,{\rCHS}你懂我的\N{\rENG}You know me. 
+Dialogue: 100,0:09:47.68,0:09:49.72,Normal Dialog Text,,0,0,0,,{\rCHS}帮我个忙 回去母星\N{\rENG}Do me a favor and go back home
+Dialogue: 100,0:09:49.72,0:09:51.62,Normal Dialog Text,,0,0,0,,{\rCHS}然后替我做这个报告\N{\rENG}and file the report for me. 
+Dialogue: 100,0:09:51.62,0:09:53.89,Normal Dialog Text,,0,0,0,,{\rCHS}我相信你的 士兵\N{\rENG}I'm trusting you, soldier. 
+Dialogue: 100,0:09:53.89,0:09:55.46,Normal Dialog Text,,0,0,0,,{\rCHS}哇哦\N{\rENG}Wow. 
+Dialogue: 100,0:09:55.46,0:09:56.82,Normal Dialog Text,,0,0,0,,{\rCHS}没问题!\N{\rENG}Of course! 
+Dialogue: 100,0:09:56.83,0:09:58.13,Normal Dialog Text,,0,0,0,,{\rCHS}就这么决定了\N{\rENG}That settles it. 
+Dialogue: 100,0:09:58.13,0:10:00.66,Normal Dialog Text,,0,0,0,,{\rCHS}好了 红宝石们 返回飞船!\N{\rENG}All right, rubies, back to the ship! 
+Dialogue: 100,0:10:05.87,0:10:08.43,Normal Dialog Text,,0,0,0,,{\rCHS}真棒 紫晶!\N{\rENG}-All right, Amethyst! 
+Dialogue: 100,0:10:08.43,0:10:09.58,Normal Dialog Text,,0,0,0,,{\rCHS}你真的坚持住了\N{\rENG}You really held it together. 
+Dialogue: 100,0:10:09.58,0:10:10.32,Normal Dialog Text,,0,0,0,,{\rCHS}你做到了\N{\rENG}You did it. 
+Dialogue: 100,0:10:10.32,0:10:14.11,Normal Dialog Text,,0,0,0,,{\rCHS}-我就说你行的-嗷-\N{\rENG}-I told you you could.-Aw. 
+Dialogue: 100,0:10:22.70,0:10:24.34,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 需要把你们捎回地球吗?\N{\rENG}Hey, you need a ride back to Earth? 
+Dialogue: 100,0:10:24.34,0:10:26.60,Normal Dialog Text,,0,0,0,,{\rCHS}如果你想我还可以坐在你腿上 呃--\N{\rENG}I could sit on your lap if you want, uh--
+Dialogue: 100,0:10:26.61,0:10:27.64,Normal Dialog Text,,0,0,0,,{\rCHS}什么?!\N{\rENG}What?! 
+Dialogue: 100,0:10:27.64,0:10:29.54,Normal Dialog Text,,0,0,0,,{\rCHS}我还是铁石英!\N{\rENG}I'm still Jasper! 
+Dialogue: 100,0:10:29.54,0:10:31.91,Normal Dialog Text,,0,0,0,,{\rCHS}我们又被骗了?!\N{\rENG}We've been tricked again?! 
+Dialogue: 100,0:10:31.91,0:10:33.44,Normal Dialog Text,,0,0,0,,{\rCHS}难以置信!\N{\rENG}No way! 
+Dialogue: 100,0:10:33.45,0:10:34.78,Normal Dialog Text,,0,0,0,,{\rCHS}红宝石们 组合!\N{\rENG}Rubies, assemble! 
+Dialogue: 100,0:10:42.99,0:10:47.39,Normal Dialog Text,,0,0,0,,{\rCHS}你们再也别想耍我们了!\N{\rENG}We won't let you trick us again! 
+Dialogue: 100,0:10:47.39,0:10:49.19,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 红宝石们!\N{\rENG}Hey, rubies! 
+Dialogue: 100,0:10:49.20,0:10:52.76,Normal Dialog Text,,0,0,0,,{\rCHS}要打出去打!\N{\rENG}If you're gonna fight, take it outside! 
+Dialogue: 100,0:10:54.80,0:10:58.90,Normal Dialog Text,,0,0,0,,{\rCHS}你不可能这么轻易摆脱我们的!\N{\rENG}You can't get rid of us that easy! 
+Dialogue: 100,0:11:01.47,0:11:03.04,Normal Dialog Text,,0,0,0,,{\rCHS}我想她可以\N{\rENG}I bet she can. 
+Dialogue: 100,0:11:07.45,0:11:12.12,Normal Dialog Text,,0,0,0,,{\rCHS}-史蒂文!\N{\rENG}-Steven! 
 Dialogue: 200,0:11:15.10,0:11:19.47,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}♪ I could even learn\N{\rENG_LYC}how to love like you ♪
 Dialogue: 200,0:11:24.04,0:11:27.27,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}\N{\rENG_LYC}♪ Love like you ♪
 Dialogue: 600,0:11:27.27,0:11:29.27,Hint,,0,0,0,,
+

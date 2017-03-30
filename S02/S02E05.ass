@@ -43,7 +43,7 @@ Style: ENG_BKG,Arial,36,&H00FFFFFF,&H000000FF,&H00171717,&H00171717,0,0,0,0,100,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 1,0:00:00.25,0:00:01.75,SU Title,,0,0,0,,{\xshad-0\yshad12\pos(1168,242)}给史蒂文的故事
-Dialogue: 1,0:00:01.75,0:00:03.25,SU Claim,,0,0,0,,欢迎关注微博@UUU字幕组,获取最新熟肉信息!
+Dialogue: 1,0:00:01.75,0:00:03.25,SU Claim,,0,0,0,,欢迎关注微博@ UUU字幕组 获取最新熟肉信息! 
 Dialogue: 1,0:00:01.75,0:00:03.25,SU Team Title,,0,0,0,,{\pos(1725,260)}出品
 Dialogue: 1,0:00:01.75,0:00:03.25,SU Team Member,,0,0,0,,{\pos(1725,320)}UUU字幕组
 Dialogue: 1,0:00:01.75,0:00:03.25,SU Team Title,,0,0,0,,{\pos(1725,380)}翻译
@@ -54,26 +54,25 @@ Dialogue: 1,0:00:01.75,0:00:03.25,SU Team Title,,0,0,0,,{\pos(1725,620)}特效
 Dialogue: 1,0:00:01.75,0:00:03.25,SU Team Member,,0,0,0,,{\pos(1725,680)}presisco
 Dialogue: 1,0:00:01.75,0:00:03.25,SU Team Title,,0,0,0,,{\pos(1725,740)}压制
 Dialogue: 1,0:00:01.75,0:00:03.25,SU Team Member,,0,0,0,,{\pos(1725,800)}
-Dialogue: 0,0:00:01.75,0:00:03.25,SU Team Background,,0,0,0,,{\bord0\xshad-0\yshad16\pos(1725,860)}{\p1}m -1 122 b -1 -19 -19 -1 122 -1 l 251 -1 b 390 -1 377 -19 377 122 l 377 500 b 377 642 390 628 251 628 l 122 628 b -19 628 -1 642 -1 500 l -1 122 {\p0}
-Dialogue: 100,0:00:08.06,0:00:08.78,Normal Dialog Text,,0,0,0,,{\rCHS}牛,老爸!\N{\rENG}Go, Dad!
-Dialogue: 100,0:00:09.02,0:00:10.36,Normal Dialog Text,,0,0,0,,{\rCHS}看到没?我怎么说的?\N{\rENG}See? What'd I tell you?
-Dialogue: 100,0:00:10.36,0:00:13.12,Normal Dialog Text,,0,0,0,,{\rCHS}我也许丢掉了我的秀发,但魔力仍在\N{\rENG}I may be losing my hair, but the magic's still there.
-Dialogue: 100,0:00:16.28,0:00:18.10,Normal Dialog Text,,0,0,0,,{\rCHS}这张老照片里和你在一起的是谁?\N{\rENG}Who's with you in this old picture?
-Dialogue: 100,0:00:19.46,0:00:20.58,Normal Dialog Text,,0,0,0,,{\rCHS}那是我的好友马提\N{\rENG}That's my pal Marty.
-Dialogue: 100,0:00:21.10,0:00:22.58,Normal Dialog Text,,0,0,0,,{\rCHS}你从没跟我说过他\N{\rENG}You've never told me about him.
-Dialogue: 100,0:00:22.93,0:00:25.46,Normal Dialog Text,,0,0,0,,{\rCHS}是啊,他只是个很久前的朋友了\N{\rENG}Yeah, he's just an old amigo from way back when.
-Dialogue: 100,0:00:26.76,0:00:27.75,Normal Dialog Text,,0,0,0,,{\rCHS}我现在当他死了\N{\rENG}He's dead to me.
-Dialogue: 100,0:00:28.14,0:00:28.98,Normal Dialog Text,,0,0,0,,{\rCHS}他是什么人?\N{\rENG}Who was he?
-Dialogue: 100,0:00:29.32,0:00:31.54,Normal Dialog Text,,0,0,0,,{\rCHS}我第一次遇见你妈时他是我的经纪人\N{\rENG}He was my manager backwhen I first met your mom.
-Dialogue: 100,0:00:31.56,0:00:33.34,Normal Dialog Text,,0,0,0,,{\rCHS}我跟你讲过整个故事,不是吗?\N{\rENG}I've told you thatwhole story, haven't I?
-Dialogue: 100,0:00:33.34,0:00:34.94,Normal Dialog Text,,0,0,0,,{\rCHS}不是带马提的版本\N{\rENG}Not the version with Marty.
-Dialogue: 100,0:00:35.98,0:00:37.16,Normal Dialog Text,,0,0,0,,{\rCHS}那么就是故事时间了\N{\rENG}Then it's story time.
-Dialogue: 100,0:00:37.52,0:00:39.48,Normal Dialog Text,,0,0,0,,{\rCHS}做好,放松点\N{\rENG}Sit back. Get comfy.
-Dialogue: 100,0:00:40.32,0:00:41.47,Normal Dialog Text,,0,0,0,,{\rCHS}我可不是指这种放松\N{\rENG}I didn't mean that comfy.
-Dialogue: 100,0:00:41.47,0:00:42.89,Normal Dialog Text,,0,0,0,,{\rCHS}给史蒂文的故事!\N{\rENG}Story for Steven!
-Dialogue: 100,0:00:42.95,0:00:45.26,Normal Dialog Text,,0,0,0,,{\rCHS}好吧,好吧,这是\N{\rENG}Okay, okay.This is the tale
-Dialogue: 100,0:00:45.52,0:00:47.23,Normal Dialog Text,,0,0,0,,{\rCHS}你父亲是如何遇到你母亲的故事\N{\rENG}of how your father met your mother.
-Dialogue: 100,0:00:48.32,0:00:49.48,Normal Dialog Text,,0,0,0,,{\rCHS}现已加入马提\N{\rENG}Now including Marty.
+Dialogue: 100,0:00:08.06,0:00:08.78,Normal Dialog Text,,0,0,0,,{\rCHS}牛 老爸!\N{\rENG}Go, Dad! 
+Dialogue: 100,0:00:09.02,0:00:10.36,Normal Dialog Text,,0,0,0,,{\rCHS}看到没? 我怎么说的?\N{\rENG}See? What'd I tell you? 
+Dialogue: 100,0:00:10.36,0:00:13.12,Normal Dialog Text,,0,0,0,,{\rCHS}我也许丢掉了我的秀发 但魔力仍在\N{\rENG}I may be losing my hair, but the magic's still there. 
+Dialogue: 100,0:00:16.28,0:00:18.10,Normal Dialog Text,,0,0,0,,{\rCHS}这张老照片里和你在一起的是谁?\N{\rENG}Who's with you in this old picture? 
+Dialogue: 100,0:00:19.46,0:00:20.58,Normal Dialog Text,,0,0,0,,{\rCHS}那是我的好友马提\N{\rENG}That's my pal Marty. 
+Dialogue: 100,0:00:21.10,0:00:22.58,Normal Dialog Text,,0,0,0,,{\rCHS}你从没跟我说过他\N{\rENG}You've never told me about him. 
+Dialogue: 100,0:00:22.93,0:00:25.46,Normal Dialog Text,,0,0,0,,{\rCHS}是啊 他只是个很久前的朋友了\N{\rENG}Yeah, he's just an old amigo from way back when. 
+Dialogue: 100,0:00:26.76,0:00:27.75,Normal Dialog Text,,0,0,0,,{\rCHS}我现在当他死了\N{\rENG}He's dead to me. 
+Dialogue: 100,0:00:28.14,0:00:28.98,Normal Dialog Text,,0,0,0,,{\rCHS}他是什么人?\N{\rENG}Who was he? 
+Dialogue: 100,0:00:29.32,0:00:31.54,Normal Dialog Text,,0,0,0,,{\rCHS}我第一次遇见你妈时他是我的经纪人\N{\rENG}He was my manager backwhen I first met your mom. 
+Dialogue: 100,0:00:31.56,0:00:33.34,Normal Dialog Text,,0,0,0,,{\rCHS}我跟你讲过整个故事 不是吗?\N{\rENG}I've told you thatwhole story, haven't I? 
+Dialogue: 100,0:00:33.34,0:00:34.94,Normal Dialog Text,,0,0,0,,{\rCHS}不是带马提的版本\N{\rENG}Not the version with Marty. 
+Dialogue: 100,0:00:35.98,0:00:37.16,Normal Dialog Text,,0,0,0,,{\rCHS}那么就是故事时间了\N{\rENG}Then it's story time. 
+Dialogue: 100,0:00:37.52,0:00:39.48,Normal Dialog Text,,0,0,0,,{\rCHS}做好 放松点\N{\rENG}Sit back. Get comfy. 
+Dialogue: 100,0:00:40.32,0:00:41.47,Normal Dialog Text,,0,0,0,,{\rCHS}我可不是指这种放松\N{\rENG}I didn't mean that comfy. 
+Dialogue: 100,0:00:41.47,0:00:42.89,Normal Dialog Text,,0,0,0,,{\rCHS}给史蒂文的故事!\N{\rENG}Story for Steven! 
+Dialogue: 100,0:00:42.95,0:00:45.26,Normal Dialog Text,,0,0,0,,{\rCHS}好吧 好吧 这是\N{\rENG}Okay, okay. This is the tale
+Dialogue: 100,0:00:45.52,0:00:47.23,Normal Dialog Text,,0,0,0,,{\rCHS}你父亲是如何遇到你母亲的故事\N{\rENG}of how your father met your mother. 
+Dialogue: 100,0:00:48.32,0:00:49.48,Normal Dialog Text,,0,0,0,,{\rCHS}现已加入马提\N{\rENG}Now including Marty. 
 Dialogue: 150,0:00:56.98,0:01:01.04,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}有--人说我缺少志向\N{\rENG_LYC}♪ Some ♪♪ say I have no direction ♪
 Dialogue: 150,0:01:01.98,0:01:04.20,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我是光速般的干扰\N{\rENG_LYC}♪ that I'm a light-speed distraction ♪
 Dialogue: 150,0:01:05.36,0:01:07.94,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}但只是初次的印象\N{\rENG_LYC}♪ but that's a knee-jerk reaction ♪
@@ -99,192 +98,193 @@ Dialogue: 150,0:02:30.46,0:02:33.73,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}像彗�
 Dialogue: 150,0:02:34.74,0:02:37.28,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}彗星般徜徉\N{\rENG_LYC}♪ soar like a comet ♪
 Dialogue: 150,0:02:38.36,0:02:40.72,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}彗星般陨落\N{\rENG_LYC}♪ crash like a comet ♪
 Dialogue: 150,0:02:42.02,0:02:44.26,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}彗星般的我\N{\rENG_LYC}♪ I'm just a comet ♪
-Dialogue: 100,0:02:51.10,0:02:53.64,Normal Dialog Text,,0,0,0,,{\rCHS}谢谢大家的光顾,我是宇宙先生\N{\rENG}Thanks for coming, everybody.I'm Mr. Universe.
-Dialogue: 100,0:02:53.82,0:02:56.44,Normal Dialog Text,,0,0,0,,{\rCHS}如果你喜欢刚才的音乐,那来看看我们的周边摊吧\N{\rENG}If you liked what you just heard, go check out our merch table.
+Dialogue: 100,0:02:51.10,0:02:53.64,Normal Dialog Text,,0,0,0,,{\rCHS}谢谢大家的光顾 我是宇宙先生\N{\rENG}Thanks for coming, everybody. I'm Mr. Universe. 
+Dialogue: 100,0:02:53.82,0:02:56.44,Normal Dialog Text,,0,0,0,,{\rCHS}如果你喜欢刚才的音乐 那来看看我们的周边摊吧\N{\rENG}If you liked what you just heard, go check out our merch table. 
 Dialogue: 100,0:02:56.64,0:02:58.12,Normal Dialog Text,,0,0,0,,{\rCHS}我的经纪人马提那有\N{\rENG}My manager, Marty, can hook you up
-Dialogue: 100,0:02:58.12,0:02:59.74,Normal Dialog Text,,0,0,0,,{\rCHS}CD和衬衫\N{\rENG}with CDs and T-shirts.Oh, wait.
-Dialogue: 100,0:03:00.04,0:03:00.60,Normal Dialog Text,,0,0,0,,{\rCHS}等等\N{\rENG}Oh, wait.
-Dialogue: 100,0:03:00.93,0:03:03.76,Normal Dialog Text,,0,0,0,,{\rCHS}他不在那,我想我得亲历亲为了\N{\rENG}He's not there. I guess I'm going over there now.
+Dialogue: 100,0:02:58.12,0:02:59.74,Normal Dialog Text,,0,0,0,,{\rCHS}CD和衬衫\N{\rENG}with CDs and T-shirts. Oh, wait. 
+Dialogue: 100,0:03:00.04,0:03:00.60,Normal Dialog Text,,0,0,0,,{\rCHS}等等\N{\rENG}Oh, wait. 
+Dialogue: 100,0:03:00.93,0:03:03.76,Normal Dialog Text,,0,0,0,,{\rCHS}他不在那 我想我得亲历亲为了\N{\rENG}He's not there. I guess I'm going over there now. 
 Dialogue: 100,0:03:08.48,0:03:11.37,Normal Dialog Text,,0,0,0,,{\rCHS}"通向宇宙的太空列车"\N{\rENG}"Space train to the cosmos."
 Dialogue: 600,0:03:08.48,0:03:11.37,Hint,,0,0,0,,"Space train to the cosmos"源自"银河铁道999"
-Dialogue: 100,0:03:12.44,0:03:13.12,Normal Dialog Text,,0,0,0,,{\rCHS}没错!\N{\rENG}Yeah!
+Dialogue: 100,0:03:12.44,0:03:13.12,Normal Dialog Text,,0,0,0,,{\rCHS}没错!\N{\rENG}Yeah! 
 Dialogue: 150,0:03:13.14,0:03:16.38,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}单程～车票我已准备去嗨\N{\rENG_LYC}♪ One-way ticket ♪♪ and I'm ready to ri-i-de ♪
-Dialogue: 100,0:03:17.92,0:03:18.98,Normal Dialog Text,,0,0,0,,{\rCHS}但你该怎么回来?\N{\rENG}But how will you get back?
-Dialogue: 100,0:03:19.48,0:03:19.92,Normal Dialog Text,,0,0,0,,{\rCHS}回来?\N{\rENG}Back?
-Dialogue: 100,0:03:20.28,0:03:21.26,Normal Dialog Text,,0,0,0,,{\rCHS}回到地球?\N{\rENG}Back to Earth?
-Dialogue: 100,0:03:21.85,0:03:23.39,Normal Dialog Text,,0,0,0,,{\rCHS}我永不回头\N{\rENG}I'm never coming back.
-Dialogue: 100,0:03:23.80,0:03:25.40,Normal Dialog Text,,0,0,0,,{\rCHS}呃,那太糟了!\N{\rENG}Ugh, that's awful!
-Dialogue: 100,0:03:25.60,0:03:26.62,Normal Dialog Text,,0,0,0,,{\rCHS}这里你是你家啊\N{\rENG}This is your home.
-Dialogue: 100,0:03:28.84,0:03:29.56,Normal Dialog Text,,0,0,0,,{\rCHS}你想要那个?\N{\rENG}You want that?
-Dialogue: 100,0:03:29.80,0:03:30.50,Normal Dialog Text,,0,0,0,,{\rCHS}你可以带走!\N{\rENG}You can have it!
-Dialogue: 100,0:03:31.78,0:03:33.56,Normal Dialog Text,,0,0,0,,{\rCHS}噢,还附送一件衬衫!\N{\rENG}Oh, and it comes with a free T-shirt!
-Dialogue: 100,0:03:34.14,0:03:35.42,Normal Dialog Text,,0,0,0,,{\rCHS}你看来需要加大款\N{\rENG}You'll probably need a bigger one.
-Dialogue: 100,0:03:35.70,0:03:38.24,Normal Dialog Text,,0,0,0,,{\rCHS}我的面包车里有件XXL款,等一下!\N{\rENG}I've got an extra extra-large in my van. Stay right there!
-Dialogue: 100,0:03:39.76,0:03:43.20,Normal Dialog Text,,0,0,0,,{\rCHS}星星小子!这是维达利亚\N{\rENG}Starchild!Meet Vidalia.
-Dialogue: 600,0:03:39.76,0:03:43.20,Hint,,0,0,0,,Starchild可能出自David Bowie的"Ziggy Stardust",David Bowie本人写过很多太空主题的歌
-Dialogue: 100,0:03:43.58,0:03:45.94,Normal Dialog Text,,0,0,0,,{\rCHS}车不错,过得很嗨嘛\N{\rENG}Nice van.Really living the high life.
-Dialogue: 100,0:03:46.00,0:03:47.66,Normal Dialog Text,,0,0,0,,{\rCHS}那么,表演怎么样?\N{\rENG}So, how was the show?
-Dialogue: 100,0:03:48.00,0:03:48.56,Normal Dialog Text,,0,0,0,,{\rCHS}好极了!\N{\rENG}It was great!
-Dialogue: 100,0:03:48.86,0:03:50.02,Normal Dialog Text,,0,0,0,,{\rCHS}有一个人来看了!\N{\rENG}One person showed up!
-Dialogue: 100,0:03:51.08,0:03:53.74,Normal Dialog Text,,0,0,0,,{\rCHS}我必须给她这件免费的衬...衫\N{\rENG}I have to give her this free T... shirt.
-Dialogue: 100,0:03:54.32,0:03:57.17,Normal Dialog Text,,0,0,0,,{\rCHS}格雷格!你可不能弄免费啊!\N{\rENG}Greg! You can't give stuff away for free!
-Dialogue: 100,0:03:57.17,0:03:59.02,Normal Dialog Text,,0,0,0,,{\rCHS}我75%的分成呢?\N{\rENG}What about my 75%?
-Dialogue: 100,0:03:59.38,0:04:01.38,Normal Dialog Text,,0,0,0,,{\rCHS}0的75%还是0!\N{\rENG}75% of nothing is nothing!
-Dialogue: 100,0:04:01.58,0:04:03.02,Normal Dialog Text,,0,0,0,,{\rCHS}你一文不值吗?\N{\rENG}Are you worth nothing?
-Dialogue: 100,0:04:03.09,0:04:03.94,Normal Dialog Text,,0,0,0,,{\rCHS}不～\N{\rENG}No.
-Dialogue: 100,0:04:04.34,0:04:05.14,Normal Dialog Text,,0,0,0,,{\rCHS}没错!\N{\rENG}That's right!
-Dialogue: 100,0:04:05.42,0:04:07.14,Normal Dialog Text,,0,0,0,,{\rCHS}我会让我们共同致富的!\N{\rENG}I'm gonna make us both rich!
-Dialogue: 100,0:04:07.50,0:04:09.58,Normal Dialog Text,,0,0,0,,{\rCHS}而在这些咸水村炮眼里\N{\rENG}And as far as these saltwater saps know,
-Dialogue: 100,0:04:09.76,0:04:10.52,Normal Dialog Text,,0,0,0,,{\rCHS}我们已经富了!\N{\rENG}we already are!
-Dialogue: 100,0:04:10.80,0:04:12.89,Normal Dialog Text,,0,0,0,,{\rCHS}所以让我们在启程前实现这个梦想,对吧?\N{\rENG}So let's live it up before we hit the road, all right?
-Dialogue: 100,0:04:13.14,0:04:15.00,Normal Dialog Text,,0,0,0,,{\rCHS}下一站...帝国市!\N{\rENG}Next stop ... Empire City!
-Dialogue: 100,0:04:16.08,0:04:18.20,Normal Dialog Text,,0,0,0,,{\rCHS}听着...我待会找你\N{\rENG}You know... I'll catch up with you.
-Dialogue: 100,0:04:27.80,0:04:29.06,Normal Dialog Text,,0,0,0,,{\rCHS}也许她在那?\N{\rENG}Maybe she's over there?
-Dialogue: 0,0:04:29.32,0:04:29.76,Normal Dialog Text,,0,0,0,,{\rCHS}谁?\N{\rENG}Who?
+Dialogue: 100,0:03:17.92,0:03:18.98,Normal Dialog Text,,0,0,0,,{\rCHS}但你该怎么回来?\N{\rENG}But how will you get back? 
+Dialogue: 100,0:03:19.48,0:03:19.92,Normal Dialog Text,,0,0,0,,{\rCHS}回来?\N{\rENG}Back? 
+Dialogue: 100,0:03:20.28,0:03:21.26,Normal Dialog Text,,0,0,0,,{\rCHS}回到地球?\N{\rENG}Back to Earth? 
+Dialogue: 100,0:03:21.85,0:03:23.39,Normal Dialog Text,,0,0,0,,{\rCHS}我永不回头\N{\rENG}I'm never coming back. 
+Dialogue: 100,0:03:23.80,0:03:25.40,Normal Dialog Text,,0,0,0,,{\rCHS}呃 那太糟了!\N{\rENG}Ugh, that's awful! 
+Dialogue: 100,0:03:25.60,0:03:26.62,Normal Dialog Text,,0,0,0,,{\rCHS}这里你是你家啊\N{\rENG}This is your home. 
+Dialogue: 100,0:03:28.84,0:03:29.56,Normal Dialog Text,,0,0,0,,{\rCHS}你想要那个?\N{\rENG}You want that? 
+Dialogue: 100,0:03:29.80,0:03:30.50,Normal Dialog Text,,0,0,0,,{\rCHS}你可以带走!\N{\rENG}You can have it! 
+Dialogue: 100,0:03:31.78,0:03:33.56,Normal Dialog Text,,0,0,0,,{\rCHS}噢 还附送一件衬衫!\N{\rENG}Oh, and it comes with a free T-shirt! 
+Dialogue: 100,0:03:34.14,0:03:35.42,Normal Dialog Text,,0,0,0,,{\rCHS}你看来需要加大款\N{\rENG}You'll probably need a bigger one. 
+Dialogue: 100,0:03:35.70,0:03:38.24,Normal Dialog Text,,0,0,0,,{\rCHS}我的面包车里有件XXL款 等一下!\N{\rENG}I've got an extra extra-large in my van. Stay right there! 
+Dialogue: 100,0:03:39.76,0:03:43.20,Normal Dialog Text,,0,0,0,,{\rCHS}星星小子! 这是维达利亚\N{\rENG}Starchild! Meet Vidalia. 
+Dialogue: 600,0:03:39.76,0:03:43.20,Hint,,0,0,0,,Starchild可能出自David Bowie的"Ziggy Stardust"David Bowie本人写过很多太空主题的歌
+Dialogue: 100,0:03:43.58,0:03:45.94,Normal Dialog Text,,0,0,0,,{\rCHS}车不错 过得很嗨嘛\N{\rENG}Nice van. Really living the high life. 
+Dialogue: 100,0:03:46.00,0:03:47.66,Normal Dialog Text,,0,0,0,,{\rCHS}那么 表演怎么样?\N{\rENG}So, how was the show? 
+Dialogue: 100,0:03:48.00,0:03:48.56,Normal Dialog Text,,0,0,0,,{\rCHS}好极了!\N{\rENG}It was great! 
+Dialogue: 100,0:03:48.86,0:03:50.02,Normal Dialog Text,,0,0,0,,{\rCHS}有一个人来看了!\N{\rENG}One person showed up! 
+Dialogue: 100,0:03:51.08,0:03:53.74,Normal Dialog Text,,0,0,0,,{\rCHS}我必须给她这件免费的衬...衫\N{\rENG}I have to give her this free T...shirt. 
+Dialogue: 100,0:03:54.32,0:03:57.17,Normal Dialog Text,,0,0,0,,{\rCHS}格雷格! 你可不能弄免费啊!\N{\rENG}Greg! You can't give stuff away for free! 
+Dialogue: 100,0:03:57.17,0:03:59.02,Normal Dialog Text,,0,0,0,,{\rCHS}我75% 的分成呢?\N{\rENG}What about my 75%? 
+Dialogue: 100,0:03:59.38,0:04:01.38,Normal Dialog Text,,0,0,0,,{\rCHS}0的75% 还是0!\N{\rENG}75% of nothing is nothing! 
+Dialogue: 100,0:04:01.58,0:04:03.02,Normal Dialog Text,,0,0,0,,{\rCHS}你一文不值吗?\N{\rENG}Are you worth nothing? 
+Dialogue: 100,0:04:03.09,0:04:03.94,Normal Dialog Text,,0,0,0,,{\rCHS}不～\N{\rENG}No. 
+Dialogue: 100,0:04:04.34,0:04:05.14,Normal Dialog Text,,0,0,0,,{\rCHS}没错!\N{\rENG}That's right! 
+Dialogue: 100,0:04:05.42,0:04:07.14,Normal Dialog Text,,0,0,0,,{\rCHS}我会让我们共同致富的!\N{\rENG}I'm gonna make us both rich! 
+Dialogue: 100,0:04:07.50,0:04:09.58,Normal Dialog Text,,0,0,0,,{\rCHS}而在这些咸水村炮眼里\N{\rENG}And as far as these saltwater saps know, 
+Dialogue: 100,0:04:09.76,0:04:10.52,Normal Dialog Text,,0,0,0,,{\rCHS}我们已经富了!\N{\rENG}we already are! 
+Dialogue: 100,0:04:10.80,0:04:12.89,Normal Dialog Text,,0,0,0,,{\rCHS}所以让我们在启程前实现这个梦想 对吧?\N{\rENG}So let's live it up before we hit the road, all right? 
+Dialogue: 100,0:04:13.14,0:04:15.00,Normal Dialog Text,,0,0,0,,{\rCHS}下一站...帝国市!\N{\rENG}Next stop...Empire City! 
+Dialogue: 100,0:04:16.08,0:04:18.20,Normal Dialog Text,,0,0,0,,{\rCHS}听着...我待会找你\N{\rENG}You know...I'll catch up with you. 
+Dialogue: 100,0:04:27.80,0:04:29.06,Normal Dialog Text,,0,0,0,,{\rCHS}也许她在那?\N{\rENG}Maybe she's over there? 
+Dialogue: 0,0:04:29.32,0:04:29.76,Normal Dialog Text,,0,0,0,,{\rCHS}谁?\N{\rENG}Who? 
 Dialogue: 600,0:04:28.08,0:04:30.08,Hint,,0,0,0,,紫晶身上的"^"出自龙猫
-Dialogue: 100,0:04:30.30,0:04:33.58,Normal Dialog Text,,0,0,0,,{\rCHS}哦,只是个有着庞大粉色发型的高大神秘女子而已\N{\rENG}Oh, just some giant mysterious lady with enormous pink hair.
-Dialogue: 100,0:04:33.98,0:04:36.10,Normal Dialog Text,,0,0,0,,{\rCHS}你没在附近见到过这样的人,对吧?\N{\rENG}You haven't seen anyone like that around, have you?
-Dialogue: 100,0:04:36.92,0:04:38.12,Normal Dialog Text,,0,0,0,,{\rCHS}当然见过,伙计\N{\rENG}Sure have, pal.
-Dialogue: 100,0:04:39.40,0:04:40.25,Normal Dialog Text,,0,0,0,,{\rCHS}在-在哪?\N{\rENG}Wh-Where?
-Dialogue: 100,0:04:40.66,0:04:42.02,Normal Dialog Text,,0,0,0,,{\rCHS}其实,呃...\N{\rENG}Well, uh...
-Dialogue: 100,0:04:42.32,0:04:45.16,Normal Dialog Text,,0,0,0,,{\rCHS}如果我说的再详细点,我就得杀了你!\N{\rENG}if I told you any more,I'd have to kill you!!
-Dialogue: 100,0:04:47.90,0:04:50.66,Normal Dialog Text,,0,0,0,,{\rCHS}嘿!等等!等等我!\N{\rENG}Hey! Wait!Hold on a sec!
-Dialogue: 100,0:04:55.80,0:04:58.78,Normal Dialog Text,,0,0,0,,{\rCHS}有个长发的人类在围墙外跟我说话\N{\rENG}This long-haired human was talking to me over by the fence.
-Dialogue: 100,0:04:58.84,0:04:59.86,Normal Dialog Text,,0,0,0,,{\rCHS}他跟你说话了?\N{\rENG}It spoke to you?
-Dialogue: 100,0:05:00.10,0:05:01.38,Normal Dialog Text,,0,0,0,,{\rCHS}他在打听玫瑰\N{\rENG}He was asking about Rose.
-Dialogue: 100,0:05:01.76,0:05:03.26,Normal Dialog Text,,0,0,0,,{\rCHS}看!他在那!\N{\rENG}Look! There he is!
-Dialogue: 100,0:05:05.66,0:05:07.00,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶!等等!\N{\rENG}Amethyst! Wait!
-Dialogue: 100,0:05:08.22,0:05:09.34,Normal Dialog Text,,0,0,0,,{\rCHS}是你!\N{\rENG}It's you!
-Dialogue: 100,0:05:10.06,0:05:12.34,Normal Dialog Text,,0,0,0,,{\rCHS}我从没在附近见到过这个\N{\rENG}I've never seen this one around here before.
-Dialogue: 100,0:05:12.64,0:05:14.44,Normal Dialog Text,,0,0,0,,{\rCHS}噢,我真的很喜欢你的头发\N{\rENG}Oh, I really like your hair.
-Dialogue: 100,0:05:14.44,0:05:16.16,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶,别逗他了!\N{\rENG}Amethyst, leave him be!
-Dialogue: 100,0:05:16.23,0:05:17.92,Normal Dialog Text,,0,0,0,,{\rCHS}你不知道他都去过什么地方!\N{\rENG}You don't know where he's been!
-Dialogue: 100,0:05:18.48,0:05:22.20,Normal Dialog Text,,0,0,0,,{\rCHS}我对此感到非常抱歉,呃,你呢?\N{\rENG}I'm very sorry about this, uh, you?
-Dialogue: 100,0:05:26.24,0:05:27.58,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠,紫晶\N{\rENG}Pearl, Amethyst.
-Dialogue: 100,0:05:27.58,0:05:28.56,Normal Dialog Text,,0,0,0,,{\rCHS}你和一个人类在一起\N{\rENG}You're with a human.
-Dialogue: 100,0:05:28.84,0:05:30.28,Normal Dialog Text,,0,0,0,,{\rCHS}他跟着我翻过了围栏\N{\rENG}He followed me over the fence.
-Dialogue: 100,0:05:30.28,0:05:31.14,Normal Dialog Text,,0,0,0,,{\rCHS}我们该怎么做?\N{\rENG}What should we do?
-Dialogue: 100,0:05:31.52,0:05:32.68,Normal Dialog Text,,0,0,0,,{\rCHS}讲明你的目的\N{\rENG}State your purpose.
-Dialogue: 100,0:05:32.96,0:05:34.24,Normal Dialog Text,,0,0,0,,{\rCHS}呃,我是在找\N{\rENG}Uh, I was kind of looking
-Dialogue: 100,0:05:34.26,0:05:37.09,Normal Dialog Text,,0,0,0,,{\rCHS}一个神秘的粉色女性,身材非常高,\N{\rENG}for the mysterious pink lady, kind of really tall,
-Dialogue: 100,0:05:37.17,0:05:38.65,Normal Dialog Text,,0,0,0,,{\rCHS}大量带卷的头发\N{\rENG}lots of big, curly hair.
-Dialogue: 100,0:05:38.94,0:05:40.86,Normal Dialog Text,,0,0,0,,{\rCHS}听到没?他说的是玫...\N{\rENG}See? He's talking about Ro...
-Dialogue: 100,0:05:41.58,0:05:43.73,Normal Dialog Text,,0,0,0,,{\rCHS}我不知道该怎么赶他走\N{\rENG}I don't know how to make him go away.
-Dialogue: 100,0:05:43.92,0:05:45.66,Normal Dialog Text,,0,0,0,,{\rCHS}我只需要将他丢到围栏外面\N{\rENG}I'll just throw him back over the fence.
-Dialogue: 100,0:05:47.36,0:05:48.40,Normal Dialog Text,,0,0,0,,{\rCHS}非常好的主意\N{\rENG}Excellent idea.
-Dialogue: 100,0:05:48.64,0:05:51.73,Normal Dialog Text,,0,0,0,,{\rCHS}人类该像标语上写的那样呆在围栏的另一面\N{\rENG}Humans should stay on the other side of the fence like the sign says.
-Dialogue: 100,0:05:51.83,0:05:53.04,Normal Dialog Text,,0,0,0,,{\rCHS}求求你!别扔我啊!\N{\rENG}Please! No throwing!
-Dialogue: 100,0:05:53.04,0:05:53.88,Normal Dialog Text,,0,0,0,,{\rCHS}等等!\N{\rENG}Wait!
-Dialogue: 100,0:05:54.44,0:05:55.87,Normal Dialog Text,,0,0,0,,{\rCHS}宇宙先生?\N{\rENG}Mr. Universe?
-Dialogue: 100,0:05:55.87,0:05:56.76,Normal Dialog Text,,0,0,0,,{\rCHS}是你\N{\rENG}It's you.
-Dialogue: 100,0:06:02.78,0:06:04.16,Normal Dialog Text,,0,0,0,,{\rCHS}你还好吗?\N{\rENG}Are you all right?
-Dialogue: 100,0:06:08.02,0:06:09.39,Normal Dialog Text,,0,0,0,,{\rCHS}你认识这个人类?!\N{\rENG}You know this human?!
-Dialogue: 100,0:06:09.68,0:06:12.96,Normal Dialog Text,,0,0,0,,{\rCHS}他之前在沙滩上举办演唱会而我...不由自主的去了\N{\rENG}He was playing a concert on the beach, and...I couldn't help myself.
-Dialogue: 100,0:06:13.36,0:06:15.12,Normal Dialog Text,,0,0,0,,{\rCHS}没人能忽视宇宙先生\N{\rENG}No one could ignore the Universe.
-Dialogue: 100,0:06:15.58,0:06:16.89,Normal Dialog Text,,0,0,0,,{\rCHS}哦!我带给了你这个!\N{\rENG}Oh! I brought you this!
+Dialogue: 100,0:04:30.30,0:04:33.58,Normal Dialog Text,,0,0,0,,{\rCHS}哦 只是个有着庞大粉色发型的高大神秘女子而已\N{\rENG}Oh, just some giant mysterious lady with enormous pink hair. 
+Dialogue: 100,0:04:33.98,0:04:36.10,Normal Dialog Text,,0,0,0,,{\rCHS}你没在附近见到过这样的人 对吧?\N{\rENG}You haven't seen anyone like that around, have you? 
+Dialogue: 100,0:04:36.92,0:04:38.12,Normal Dialog Text,,0,0,0,,{\rCHS}当然见过 伙计\N{\rENG}Sure have, pal. 
+Dialogue: 100,0:04:39.40,0:04:40.25,Normal Dialog Text,,0,0,0,,{\rCHS}在-在哪?\N{\rENG}Wh-Where? 
+Dialogue: 100,0:04:40.66,0:04:42.02,Normal Dialog Text,,0,0,0,,{\rCHS}其实 呃...\N{\rENG}Well, uh...
+Dialogue: 100,0:04:42.32,0:04:45.16,Normal Dialog Text,,0,0,0,,{\rCHS}如果我说的再详细点 我就得杀了你!\N{\rENG}if I told you any more, I'd have to kill you!! 
+Dialogue: 100,0:04:47.90,0:04:50.66,Normal Dialog Text,,0,0,0,,{\rCHS}嘿! 等等! 等等我!\N{\rENG}Hey! Wait! Hold on a sec! 
+Dialogue: 100,0:04:55.80,0:04:58.78,Normal Dialog Text,,0,0,0,,{\rCHS}有个长发的人类在围墙外跟我说话\N{\rENG}This long-haired human was talking to me over by the fence. 
+Dialogue: 100,0:04:58.84,0:04:59.86,Normal Dialog Text,,0,0,0,,{\rCHS}他跟你说话了?\N{\rENG}It spoke to you? 
+Dialogue: 100,0:05:00.10,0:05:01.38,Normal Dialog Text,,0,0,0,,{\rCHS}他在打听玫瑰\N{\rENG}He was asking about Rose. 
+Dialogue: 100,0:05:01.76,0:05:03.26,Normal Dialog Text,,0,0,0,,{\rCHS}看! 他在那!\N{\rENG}Look! There he is! 
+Dialogue: 100,0:05:05.66,0:05:07.00,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶! 等等!\N{\rENG}Amethyst! Wait! 
+Dialogue: 100,0:05:08.22,0:05:09.34,Normal Dialog Text,,0,0,0,,{\rCHS}是你!\N{\rENG}It's you! 
+Dialogue: 100,0:05:10.06,0:05:12.34,Normal Dialog Text,,0,0,0,,{\rCHS}我从没在附近见到过这个\N{\rENG}I've never seen this one around here before. 
+Dialogue: 100,0:05:12.64,0:05:14.44,Normal Dialog Text,,0,0,0,,{\rCHS}噢 我真的很喜欢你的头发\N{\rENG}Oh, I really like your hair. 
+Dialogue: 100,0:05:14.44,0:05:16.16,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶 别逗他了!\N{\rENG}Amethyst, leave him be! 
+Dialogue: 100,0:05:16.23,0:05:17.92,Normal Dialog Text,,0,0,0,,{\rCHS}你不知道他都去过什么地方!\N{\rENG}You don't know where he's been! 
+Dialogue: 100,0:05:18.48,0:05:22.20,Normal Dialog Text,,0,0,0,,{\rCHS}我对此感到非常抱歉 呃 你呢?\N{\rENG}I'm very sorry about this, uh, you? 
+Dialogue: 100,0:05:26.24,0:05:27.58,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠 紫晶\N{\rENG}Pearl, Amethyst. 
+Dialogue: 100,0:05:27.58,0:05:28.56,Normal Dialog Text,,0,0,0,,{\rCHS}你和一个人类在一起\N{\rENG}You're with a human. 
+Dialogue: 100,0:05:28.84,0:05:30.28,Normal Dialog Text,,0,0,0,,{\rCHS}他跟着我翻过了围栏\N{\rENG}He followed me over the fence. 
+Dialogue: 100,0:05:30.28,0:05:31.14,Normal Dialog Text,,0,0,0,,{\rCHS}我们该怎么做?\N{\rENG}What should we do? 
+Dialogue: 100,0:05:31.52,0:05:32.68,Normal Dialog Text,,0,0,0,,{\rCHS}讲明你的目的\N{\rENG}State your purpose. 
+Dialogue: 100,0:05:32.96,0:05:34.24,Normal Dialog Text,,0,0,0,,{\rCHS}呃 我是在找\N{\rENG}Uh, I was kind of looking
+Dialogue: 100,0:05:34.26,0:05:37.09,Normal Dialog Text,,0,0,0,,{\rCHS}一个神秘的粉色女性 身材非常高 \N{\rENG}for the mysterious pink lady, kind of really tall, 
+Dialogue: 100,0:05:37.17,0:05:38.65,Normal Dialog Text,,0,0,0,,{\rCHS}大量带卷的头发\N{\rENG}lots of big, curly hair. 
+Dialogue: 100,0:05:38.94,0:05:40.86,Normal Dialog Text,,0,0,0,,{\rCHS}听到没? 他说的是玫...\N{\rENG}See? He's talking about Ro...
+Dialogue: 100,0:05:41.58,0:05:43.73,Normal Dialog Text,,0,0,0,,{\rCHS}我不知道该怎么赶他走\N{\rENG}I don't know how to make him go away. 
+Dialogue: 100,0:05:43.92,0:05:45.66,Normal Dialog Text,,0,0,0,,{\rCHS}我只需要将他丢到围栏外面\N{\rENG}I'll just throw him back over the fence. 
+Dialogue: 100,0:05:47.36,0:05:48.40,Normal Dialog Text,,0,0,0,,{\rCHS}非常好的主意\N{\rENG}Excellent idea. 
+Dialogue: 100,0:05:48.64,0:05:51.73,Normal Dialog Text,,0,0,0,,{\rCHS}人类该像标语上写的那样呆在围栏的另一面\N{\rENG}Humans should stay on the other side of the fence like the sign says. 
+Dialogue: 100,0:05:51.83,0:05:53.04,Normal Dialog Text,,0,0,0,,{\rCHS}求求你! 别扔我啊!\N{\rENG}Please! No throwing! 
+Dialogue: 100,0:05:53.04,0:05:53.88,Normal Dialog Text,,0,0,0,,{\rCHS}等等!\N{\rENG}Wait! 
+Dialogue: 100,0:05:54.44,0:05:55.87,Normal Dialog Text,,0,0,0,,{\rCHS}宇宙先生?\N{\rENG}Mr. Universe? 
+Dialogue: 100,0:05:55.87,0:05:56.76,Normal Dialog Text,,0,0,0,,{\rCHS}是你\N{\rENG}It's you. 
+Dialogue: 100,0:06:02.78,0:06:04.16,Normal Dialog Text,,0,0,0,,{\rCHS}你还好吗?\N{\rENG}Are you all right? 
+Dialogue: 100,0:06:08.02,0:06:09.39,Normal Dialog Text,,0,0,0,,{\rCHS}你认识这个人类?!\N{\rENG}You know this human?! 
+Dialogue: 100,0:06:09.68,0:06:12.96,Normal Dialog Text,,0,0,0,,{\rCHS}他之前在沙滩上举办演唱会而我...不由自主的去了\N{\rENG}He was playing a concert on the beach, and...I couldn't help myself. 
+Dialogue: 100,0:06:13.36,0:06:15.12,Normal Dialog Text,,0,0,0,,{\rCHS}没人能忽视宇宙先生\N{\rENG}No one could ignore the Universe. 
+Dialogue: 100,0:06:15.58,0:06:16.89,Normal Dialog Text,,0,0,0,,{\rCHS}哦! 我带给了你这个!\N{\rENG}Oh! I brought you this! 
 Dialogue: 100,0:06:17.16,0:06:18.64,Normal Dialog Text,,0,0,0,,{\rCHS}这是免费的衬衫\N{\rENG}It's the free T-shirt that
-Dialogue: 100,0:06:18.68,0:06:19.60,Normal Dialog Text,,0,0,0,,{\rCHS}搭配你的免费CD的!\N{\rENG}came with your free CD!
-Dialogue: 100,0:06:19.84,0:06:20.78,Normal Dialog Text,,0,0,0,,{\rCHS}天啊,谢谢你!\N{\rENG}Why, thank you!
-Dialogue: 100,0:06:21.80,0:06:23.28,Normal Dialog Text,,0,0,0,,{\rCHS}他主打的内容是太空!\N{\rENG}His gimmick is space!
-Dialogue: 100,0:06:24.18,0:06:26.00,Normal Dialog Text,,0,0,0,,{\rCHS}嘿,表演点什么啊,音乐男!\N{\rENG}Hey, play something, music man!
-Dialogue: 100,0:06:26.40,0:06:27.53,Normal Dialog Text,,0,0,0,,{\rCHS}最好表演的好点\N{\rENG}Better make it good.
-Dialogue: 100,0:06:27.90,0:06:30.00,Normal Dialog Text,,0,0,0,,{\rCHS}噢,伙计,我正在制作一个超赞的新歌集\N{\rENG}Aw, man. I'm working on this awesome new set.
-Dialogue: 100,0:06:30.00,0:06:31.91,Normal Dialog Text,,0,0,0,,{\rCHS}在下场演出中会大放异彩\N{\rENG}It's gonna kill at my next show.
-Dialogue: 100,0:06:32.32,0:06:33.22,Normal Dialog Text,,0,0,0,,{\rCHS}"下场演出"?\N{\rENG}"Next show"?
-Dialogue: 100,0:06:33.62,0:06:35.22,Normal Dialog Text,,0,0,0,,{\rCHS}哦,天哪,现在几点了?\N{\rENG}Aw, geez.What time is it?
-Dialogue: 100,0:06:35.56,0:06:37.08,Normal Dialog Text,,0,0,0,,{\rCHS}晚上...的时候?\N{\rENG}Night... time?
-Dialogue: 100,0:06:37.50,0:06:39.29,Normal Dialog Text,,0,0,0,,{\rCHS}对啊,马提很可能在找我了\N{\rENG}Yeah, Marty's probably looking for me.
-Dialogue: 100,0:06:39.52,0:06:40.68,Normal Dialog Text,,0,0,0,,{\rCHS}我们该上路了\N{\rENG}We're supposed to hit the road.
-Dialogue: 100,0:06:40.68,0:06:42.60,Normal Dialog Text,,0,0,0,,{\rCHS}是个大城市的大表演,\N{\rENG}It's a big show in a big city,
-Dialogue: 100,0:06:42.98,0:06:45.30,Normal Dialog Text,,0,0,0,,{\rCHS}我可不是白白从社区大学辍学的!\N{\rENG}and I didn't drop out of community college for nothing!
-Dialogue: 100,0:06:46.58,0:06:46.98,Normal Dialog Text,,0,0,0,,{\rCHS}啥?\N{\rENG}What?
-Dialogue: 100,0:06:47.44,0:06:49.16,Normal Dialog Text,,0,0,0,,{\rCHS}那么,你最好抓紧了\N{\rENG}Well, you better hurry.
-Dialogue: 100,0:06:49.66,0:06:52.26,Normal Dialog Text,,0,0,0,,{\rCHS}你不会想错过你的宇宙太空列车\N{\rENG}You don't want to miss your space train to the cosmos.
-Dialogue: 100,0:06:52.70,0:06:53.26,Normal Dialog Text,,0,0,0,,{\rCHS}好的!\N{\rENG}Okay!
-Dialogue: 100,0:06:53.50,0:06:54.32,Normal Dialog Text,,0,0,0,,{\rCHS}我们之后见!\N{\rENG}I'll see you later!
-Dialogue: 100,0:06:56.04,0:06:59.60,Normal Dialog Text,,0,0,0,,{\rCHS}呃,我希望群星会为我们的再会引路!\N{\rENG}Uh, I hope the stars will align for us to meet again!
-Dialogue: 100,0:06:59.88,0:07:01.33,Normal Dialog Text,,0,0,0,,{\rCHS}我确定会的!\N{\rENG}I'm sure they will!
-Dialogue: 100,0:07:01.40,0:07:03.54,Normal Dialog Text,,0,0,0,,{\rCHS}再见,音乐男!\N{\rENG}Bye, music man!
-Dialogue: 100,0:07:06.58,0:07:07.58,Normal Dialog Text,,0,0,0,,{\rCHS}我也能唱啊\N{\rENG}I can sing.
-Dialogue: 100,0:07:09.68,0:07:10.24,Normal Dialog Text,,0,0,0,,{\rCHS}怎么?\N{\rENG}What?
-Dialogue: 100,0:07:13.20,0:07:14.83,Normal Dialog Text,,0,0,0,,{\rCHS}天,格雷格,你真是错过了好戏啊\N{\rENG}Man, Greg, you really missed out.
-Dialogue: 100,0:07:15.14,0:07:17.51,Normal Dialog Text,,0,0,0,,{\rCHS}维达利亚的朋友都很疯狂\N{\rENG}Vidalia's friends were wild and crazy.
-Dialogue: 100,0:07:18.10,0:07:20.04,Normal Dialog Text,,0,0,0,,{\rCHS}很高兴那个镇子不全是渣渣\N{\rENG}Glad that town wasn't a total waste.
-Dialogue: 100,0:07:20.40,0:07:22.05,Normal Dialog Text,,0,0,0,,{\rCHS}我也遇见了几个狂野的女子\N{\rENG}I met some wild ladies, too.
-Dialogue: 100,0:07:22.12,0:07:24.72,Normal Dialog Text,,0,0,0,,{\rCHS}她们会变形,而且从光柱中出现\N{\rENG}They change shape and appear out of beams of light.
-Dialogue: 100,0:07:25.78,0:07:28.62,Normal Dialog Text,,0,0,0,,{\rCHS}将诗歌留给帝国市,星星小子\N{\rENG}Save the poetry for Empire City,
-Dialogue: 100,0:07:28.80,0:07:30.42,Normal Dialog Text,,0,0,0,,{\rCHS}明天可是个重要的日子啊\N{\rENG}We've got a big day ahead of us tomorrow.
-Dialogue: 100,0:07:30.84,0:07:32.13,Normal Dialog Text,,0,0,0,,{\rCHS}我是认真的,马提\N{\rENG}I'm serious, Marty.
-Dialogue: 100,0:07:32.20,0:07:33.59,Normal Dialog Text,,0,0,0,,{\rCHS}那里有什么不对劲的\N{\rENG}Something's going on back there.
-Dialogue: 100,0:07:33.90,0:07:34.96,Normal Dialog Text,,0,0,0,,{\rCHS}你疯了吗?\N{\rENG}Are you nuts?
-Dialogue: 100,0:07:35.28,0:07:37.07,Normal Dialog Text,,0,0,0,,{\rCHS}只管眺望我们的未来\N{\rENG}Just wait till you see what's ahead of us.
-Dialogue: 100,0:07:37.14,0:07:38.39,Normal Dialog Text,,0,0,0,,{\rCHS}成名!\N{\rENG}It's fame!
-Dialogue: 100,0:07:39.48,0:07:40.96,Normal Dialog Text,,0,0,0,,{\rCHS}嘿,你的卡带机里有什么卡住了?\N{\rENG}Hey, what's jammed in your tape deck?
-Dialogue: 100,0:07:41.22,0:07:43.39,Normal Dialog Text,,0,0,0,,{\rCHS}你一直在往里面塞硬币,你个怪胎?\N{\rENG}You been putting pennies in here,you weirdo?
-Dialogue: 100,0:07:43.94,0:07:45.44,Normal Dialog Text,,0,0,0,,{\rCHS}给我演奏点什么吧,星星之子\N{\rENG}Play something for me, Starchild.
+Dialogue: 100,0:06:18.68,0:06:19.60,Normal Dialog Text,,0,0,0,,{\rCHS}搭配你的免费CD的!\N{\rENG}came with your free CD! 
+Dialogue: 100,0:06:19.84,0:06:20.78,Normal Dialog Text,,0,0,0,,{\rCHS}天啊 谢谢你!\N{\rENG}Why, thank you! 
+Dialogue: 100,0:06:21.80,0:06:23.28,Normal Dialog Text,,0,0,0,,{\rCHS}他主打的内容是太空!\N{\rENG}His gimmick is space! 
+Dialogue: 100,0:06:24.18,0:06:26.00,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 表演点什么啊 音乐男!\N{\rENG}Hey, play something, music man! 
+Dialogue: 100,0:06:26.40,0:06:27.53,Normal Dialog Text,,0,0,0,,{\rCHS}最好表演的好点\N{\rENG}Better make it good. 
+Dialogue: 100,0:06:27.90,0:06:30.00,Normal Dialog Text,,0,0,0,,{\rCHS}噢 伙计 我正在制作一个超赞的新歌集\N{\rENG}Aw, man. I'm working on this awesome new set. 
+Dialogue: 100,0:06:30.00,0:06:31.91,Normal Dialog Text,,0,0,0,,{\rCHS}在下场演出中会大放异彩\N{\rENG}It's gonna kill at my next show. 
+Dialogue: 100,0:06:32.32,0:06:33.22,Normal Dialog Text,,0,0,0,,{\rCHS}"下场演出"?\N{\rENG}"Next show"? 
+Dialogue: 100,0:06:33.62,0:06:35.22,Normal Dialog Text,,0,0,0,,{\rCHS}哦 天哪 现在几点了?\N{\rENG}Aw, geez. What time is it? 
+Dialogue: 100,0:06:35.56,0:06:37.08,Normal Dialog Text,,0,0,0,,{\rCHS}晚上...的时候?\N{\rENG}Night...time? 
+Dialogue: 100,0:06:37.50,0:06:39.29,Normal Dialog Text,,0,0,0,,{\rCHS}对啊 马提很可能在找我了\N{\rENG}Yeah, Marty's probably looking for me. 
+Dialogue: 100,0:06:39.52,0:06:40.68,Normal Dialog Text,,0,0,0,,{\rCHS}我们该上路了\N{\rENG}We're supposed to hit the road. 
+Dialogue: 100,0:06:40.68,0:06:42.60,Normal Dialog Text,,0,0,0,,{\rCHS}是个大城市的大表演 \N{\rENG}It's a big show in a big city, 
+Dialogue: 100,0:06:42.98,0:06:45.30,Normal Dialog Text,,0,0,0,,{\rCHS}我可不是白白从社区大学辍学的!\N{\rENG}and I didn't drop out of community college for nothing! 
+Dialogue: 100,0:06:46.58,0:06:46.98,Normal Dialog Text,,0,0,0,,{\rCHS}啥?\N{\rENG}What? 
+Dialogue: 100,0:06:47.44,0:06:49.16,Normal Dialog Text,,0,0,0,,{\rCHS}那么 你最好抓紧了\N{\rENG}Well, you better hurry. 
+Dialogue: 100,0:06:49.66,0:06:52.26,Normal Dialog Text,,0,0,0,,{\rCHS}你不会想错过你的宇宙太空列车\N{\rENG}You don't want to miss your space train to the cosmos. 
+Dialogue: 100,0:06:52.70,0:06:53.26,Normal Dialog Text,,0,0,0,,{\rCHS}好的!\N{\rENG}Okay! 
+Dialogue: 100,0:06:53.50,0:06:54.32,Normal Dialog Text,,0,0,0,,{\rCHS}我们之后见!\N{\rENG}I'll see you later! 
+Dialogue: 100,0:06:56.04,0:06:59.60,Normal Dialog Text,,0,0,0,,{\rCHS}呃 我希望群星会为我们的再会引路!\N{\rENG}Uh, I hope the stars will align for us to meet again! 
+Dialogue: 100,0:06:59.88,0:07:01.33,Normal Dialog Text,,0,0,0,,{\rCHS}我确定会的!\N{\rENG}I'm sure they will! 
+Dialogue: 100,0:07:01.40,0:07:03.54,Normal Dialog Text,,0,0,0,,{\rCHS}再见 音乐男!\N{\rENG}Bye, music man! 
+Dialogue: 100,0:07:06.58,0:07:07.58,Normal Dialog Text,,0,0,0,,{\rCHS}我也能唱啊\N{\rENG}I can sing. 
+Dialogue: 100,0:07:09.68,0:07:10.24,Normal Dialog Text,,0,0,0,,{\rCHS}怎么?\N{\rENG}What? 
+Dialogue: 100,0:07:13.20,0:07:14.83,Normal Dialog Text,,0,0,0,,{\rCHS}天 格雷格 你真是错过了好戏啊\N{\rENG}Man, Greg, you really missed out. 
+Dialogue: 100,0:07:15.14,0:07:17.51,Normal Dialog Text,,0,0,0,,{\rCHS}维达利亚的朋友都很疯狂\N{\rENG}Vidalia's friends were wild and crazy. 
+Dialogue: 100,0:07:18.10,0:07:20.04,Normal Dialog Text,,0,0,0,,{\rCHS}很高兴那个镇子不全是渣渣\N{\rENG}Glad that town wasn't a total waste. 
+Dialogue: 100,0:07:20.40,0:07:22.05,Normal Dialog Text,,0,0,0,,{\rCHS}我也遇见了几个狂野的女子\N{\rENG}I met some wild ladies, too. 
+Dialogue: 100,0:07:22.12,0:07:24.72,Normal Dialog Text,,0,0,0,,{\rCHS}她们会变形 而且从光柱中出现\N{\rENG}They change shape and appear out of beams of light. 
+Dialogue: 100,0:07:25.78,0:07:28.62,Normal Dialog Text,,0,0,0,,{\rCHS}将诗歌留给帝国市 星星小子\N{\rENG}Save the poetry for Empire City, 
+Dialogue: 100,0:07:28.80,0:07:30.42,Normal Dialog Text,,0,0,0,,{\rCHS}明天可是个重要的日子啊\N{\rENG}We've got a big day ahead of us tomorrow. 
+Dialogue: 100,0:07:30.84,0:07:32.13,Normal Dialog Text,,0,0,0,,{\rCHS}我是认真的 马提\N{\rENG}I'm serious, Marty. 
+Dialogue: 100,0:07:32.20,0:07:33.59,Normal Dialog Text,,0,0,0,,{\rCHS}那里有什么不对劲的\N{\rENG}Something's going on back there. 
+Dialogue: 100,0:07:33.90,0:07:34.96,Normal Dialog Text,,0,0,0,,{\rCHS}你疯了吗?\N{\rENG}Are you nuts? 
+Dialogue: 100,0:07:35.28,0:07:37.07,Normal Dialog Text,,0,0,0,,{\rCHS}只管眺望我们的未来\N{\rENG}Just wait till you see what's ahead of us. 
+Dialogue: 100,0:07:37.14,0:07:38.39,Normal Dialog Text,,0,0,0,,{\rCHS}成名!\N{\rENG}It's fame! 
+Dialogue: 100,0:07:39.48,0:07:40.96,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 你的卡带机里有什么卡住了?\N{\rENG}Hey, what's jammed in your tape deck? 
+Dialogue: 100,0:07:41.22,0:07:43.39,Normal Dialog Text,,0,0,0,,{\rCHS}你一直在往里面塞硬币 你个怪胎?\N{\rENG}You been putting pennies in here, you weirdo? 
+Dialogue: 100,0:07:43.94,0:07:45.44,Normal Dialog Text,,0,0,0,,{\rCHS}给我演奏点什么吧 星星之子\N{\rENG}Play something for me, Starchild. 
 Dialogue: 150,0:07:47.40,0:07:50.18,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}你是否会相信命运?\N{\rENG_LYC}♪ Do you believe in destiny? ♪
 Dialogue: 150,0:07:50.92,0:07:53.72,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}闭上双眼其余交给我\N{\rENG_LYC}♪ close your eyes and leave the rest to me ♪
-Dialogue: 100,0:07:54.00,0:07:55.16,Normal Dialog Text,,0,0,0,,{\rCHS}困!\N{\rENG}Snore!
-Dialogue: 100,0:07:55.42,0:07:57.22,Normal Dialog Text,,0,0,0,,{\rCHS}你唱那个的话会把听众都弄睡着了!\N{\rENG}You're gonna put people to sleep with that!
-Dialogue: 100,0:07:57.54,0:07:59.14,Normal Dialog Text,,0,0,0,,{\rCHS}这股烂俗的味道是哪来的?\N{\rENG}Where's this schlock coming from?
-Dialogue: 100,0:07:59.56,0:08:02.18,Normal Dialog Text,,0,0,0,,{\rCHS}我-我只是无法忘掉那场演出上的那个女子\N{\rENG}I-I just can't stop thinking about that woman at the show.
-Dialogue: 100,0:08:02.43,0:08:04.96,Normal Dialog Text,,0,0,0,,{\rCHS}哦,好吧,她有多高?\N{\rENG}Oh, here we go. How big was she?
-Dialogue: 100,0:08:05.44,0:08:08.25,Normal Dialog Text,,0,0,0,,{\rCHS}8尺高...超雄伟的头发\N{\rENG}8 feet tall... massive hair.
-Dialogue: 100,0:08:08.25,0:08:09.40,Normal Dialog Text,,0,0,0,,{\rCHS}听着,格雷格,这就是你的问题\N{\rENG}See, Greg, this is your problem.
+Dialogue: 100,0:07:54.00,0:07:55.16,Normal Dialog Text,,0,0,0,,{\rCHS}困!\N{\rENG}Snore! 
+Dialogue: 100,0:07:55.42,0:07:57.22,Normal Dialog Text,,0,0,0,,{\rCHS}你唱那个的话会把听众都弄睡着了!\N{\rENG}You're gonna put people to sleep with that! 
+Dialogue: 100,0:07:57.54,0:07:59.14,Normal Dialog Text,,0,0,0,,{\rCHS}这股烂俗的味道是哪来的?\N{\rENG}Where's this schlock coming from? 
+Dialogue: 100,0:07:59.56,0:08:02.18,Normal Dialog Text,,0,0,0,,{\rCHS}我-我只是无法忘掉那场演出上的那个女子\N{\rENG}I-I just can't stop thinking about that woman at the show. 
+Dialogue: 100,0:08:02.43,0:08:04.96,Normal Dialog Text,,0,0,0,,{\rCHS}哦 好吧 她有多高?\N{\rENG}Oh, here we go. How big was she? 
+Dialogue: 100,0:08:05.44,0:08:08.25,Normal Dialog Text,,0,0,0,,{\rCHS}8尺高...超雄伟的头发\N{\rENG}8 feet tall...massive hair. 
+Dialogue: 100,0:08:08.25,0:08:09.40,Normal Dialog Text,,0,0,0,,{\rCHS}听着 格雷格 这就是你的问题\N{\rENG}See, Greg, this is your problem. 
 Dialogue: 100,0:08:09.57,0:08:11.28,Normal Dialog Text,,0,0,0,,{\rCHS}你想要单个大号的女子\N{\rENG}You want one huge woman
-Dialogue: 100,0:08:11.28,0:08:13.50,Normal Dialog Text,,0,0,0,,{\rCHS}即使你能拥有多个小号的\N{\rENG}when you can have multiple smaller ones.
-Dialogue: 100,0:08:14.26,0:08:16.01,Normal Dialog Text,,0,0,0,,{\rCHS}马提,女人也是人啊\N{\rENG}Marty, women are people.
-Dialogue: 100,0:08:16.22,0:08:17.26,Normal Dialog Text,,0,0,0,,{\rCHS}只管顺着我的思路想\N{\rENG}Just follow my lead.
-Dialogue: 100,0:08:17.58,0:08:19.68,Normal Dialog Text,,0,0,0,,{\rCHS}我会给你所有你想要的\N{\rENG}I'm gonna get you everything you want.
-Dialogue: 100,0:08:20.02,0:08:21.23,Normal Dialog Text,,0,0,0,,{\rCHS}如果我想回去呢?\N{\rENG}What if I want to go back?
-Dialogue: 100,0:08:21.76,0:08:22.32,Normal Dialog Text,,0,0,0,,{\rCHS}搞毛?!\N{\rENG}What?!
-Dialogue: 100,0:08:22.62,0:08:24.46,Normal Dialog Text,,0,0,0,,{\rCHS}如果我想回去和她在一起?\N{\rENG}What if I want to go back and be with her?!
-Dialogue: 100,0:08:24.90,0:08:26.98,Normal Dialog Text,,0,0,0,,{\rCHS}没人在乎你的想法,格雷格!\N{\rENG}No one cares about your feelings, Greg!
-Dialogue: 100,0:08:27.05,0:08:29.35,Normal Dialog Text,,0,0,0,,{\rCHS}他们会让你对真正重要的东西视而不见!\N{\rENG}They're making you lose sight of what's really important!
-Dialogue: 100,0:08:29.42,0:08:30.48,Normal Dialog Text,,0,0,0,,{\rCHS}看看路!\N{\rENG}Watch the road!
-Dialogue: 100,0:08:35.50,0:08:38.10,Normal Dialog Text,,0,0,0,,{\rCHS}为什么总是你决定什么重要?\N{\rENG}Why do you always decide what's important?
-Dialogue: 100,0:08:38.16,0:08:42.00,Normal Dialog Text,,0,0,0,,{\rCHS}因为我是你的经纪人,而你只是某个神游的小子\N{\rENG}Because I'm your manager, and you're just some spaced-out kid!
-Dialogue: 100,0:08:42.10,0:08:44.68,Normal Dialog Text,,0,0,0,,{\rCHS}我要带你去帝国市,而你要进行表演,\N{\rENG}I'm taking you to the city, and you're gonna play,
-Dialogue: 100,0:08:44.70,0:08:45.88,Normal Dialog Text,,0,0,0,,{\rCHS}并且你会爱上这样的\N{\rENG}and you're gonna like it.
-Dialogue: 100,0:08:46.16,0:08:48.16,Normal Dialog Text,,0,0,0,,{\rCHS}也许你甚至可能让我挣一次钱\N{\rENG}Maybe you'll even make me some money for once.
-Dialogue: 100,0:08:49.44,0:08:50.90,Normal Dialog Text,,0,0,0,,{\rCHS}滚出我的面包车\N{\rENG}Get out of my van.
-Dialogue: 100,0:08:51.48,0:08:52.64,Normal Dialog Text,,0,0,0,,{\rCHS}坐下,格雷格\N{\rENG}Sit down, Greg.
-Dialogue: 100,0:08:53.06,0:08:55.34,Normal Dialog Text,,0,0,0,,{\rCHS}我说了,滚出我的面包车!\N{\rENG}I said, get out of my van!
-Dialogue: 100,0:08:56.16,0:08:56.98,Normal Dialog Text,,0,0,0,,{\rCHS}你在干嘛?!\N{\rENG}What are you doing?!
-Dialogue: 100,0:08:57.24,0:08:59.14,Normal Dialog Text,,0,0,0,,{\rCHS}你在犯下非常巨大的错误!\N{\rENG}You're making a huge mistake!
-Dialogue: 100,0:09:08.62,0:09:10.23,Normal Dialog Text,,0,0,0,,{\rCHS}嘿!你在里面吗?\N{\rENG}Hey! Are you in there?
-Dialogue: 100,0:09:10.33,0:09:13.26,Normal Dialog Text,,0,0,0,,{\rCHS}我现在能为你表演了!我甚至翻新了我的超赞歌集!\N{\rENG}I can play for you now! I even revamped my awesome set!
-Dialogue: 100,0:09:15.63,0:09:17.70,Normal Dialog Text,,0,0,0,,{\rCHS}这首给你,神秘女子!\N{\rENG}This one's for you, mystery woman!
+Dialogue: 100,0:08:11.28,0:08:13.50,Normal Dialog Text,,0,0,0,,{\rCHS}即使你能拥有多个小号的\N{\rENG}when you can have multiple smaller ones. 
+Dialogue: 100,0:08:14.26,0:08:16.01,Normal Dialog Text,,0,0,0,,{\rCHS}马提 女人也是人啊\N{\rENG}Marty, women are people. 
+Dialogue: 100,0:08:16.22,0:08:17.26,Normal Dialog Text,,0,0,0,,{\rCHS}只管顺着我的思路想\N{\rENG}Just follow my lead. 
+Dialogue: 100,0:08:17.58,0:08:19.68,Normal Dialog Text,,0,0,0,,{\rCHS}我会给你所有你想要的\N{\rENG}I'm gonna get you everything you want. 
+Dialogue: 100,0:08:20.02,0:08:21.23,Normal Dialog Text,,0,0,0,,{\rCHS}如果我想回去呢?\N{\rENG}What if I want to go back? 
+Dialogue: 100,0:08:21.76,0:08:22.32,Normal Dialog Text,,0,0,0,,{\rCHS}搞毛?!\N{\rENG}What?! 
+Dialogue: 100,0:08:22.62,0:08:24.46,Normal Dialog Text,,0,0,0,,{\rCHS}如果我想回去和她在一起?\N{\rENG}What if I want to go back and be with her?! 
+Dialogue: 100,0:08:24.90,0:08:26.98,Normal Dialog Text,,0,0,0,,{\rCHS}没人在乎你的想法 格雷格!\N{\rENG}No one cares about your feelings, Greg! 
+Dialogue: 100,0:08:27.05,0:08:29.35,Normal Dialog Text,,0,0,0,,{\rCHS}他们会让你对真正重要的东西视而不见!\N{\rENG}They're making you lose sight of what's really important! 
+Dialogue: 100,0:08:29.42,0:08:30.48,Normal Dialog Text,,0,0,0,,{\rCHS}看看路!\N{\rENG}Watch the road! 
+Dialogue: 100,0:08:35.50,0:08:38.10,Normal Dialog Text,,0,0,0,,{\rCHS}为什么总是你决定什么重要?\N{\rENG}Why do you always decide what's important? 
+Dialogue: 100,0:08:38.16,0:08:42.00,Normal Dialog Text,,0,0,0,,{\rCHS}因为我是你的经纪人 而你只是某个神游的小子\N{\rENG}Because I'm your manager, and you're just some spaced-out kid! 
+Dialogue: 100,0:08:42.10,0:08:44.68,Normal Dialog Text,,0,0,0,,{\rCHS}我要带你去帝国市 而你要进行表演 \N{\rENG}I'm taking you to the city, and you're gonna play, 
+Dialogue: 100,0:08:44.70,0:08:45.88,Normal Dialog Text,,0,0,0,,{\rCHS}并且你会爱上这样的\N{\rENG}and you're gonna like it. 
+Dialogue: 100,0:08:46.16,0:08:48.16,Normal Dialog Text,,0,0,0,,{\rCHS}也许你甚至可能让我挣一次钱\N{\rENG}Maybe you'll even make me some money for once. 
+Dialogue: 100,0:08:49.44,0:08:50.90,Normal Dialog Text,,0,0,0,,{\rCHS}滚出我的面包车\N{\rENG}Get out of my van. 
+Dialogue: 100,0:08:51.48,0:08:52.64,Normal Dialog Text,,0,0,0,,{\rCHS}坐下 格雷格\N{\rENG}Sit down, Greg. 
+Dialogue: 100,0:08:53.06,0:08:55.34,Normal Dialog Text,,0,0,0,,{\rCHS}我说了 滚出我的面包车!\N{\rENG}I said, get out of my van! 
+Dialogue: 100,0:08:56.16,0:08:56.98,Normal Dialog Text,,0,0,0,,{\rCHS}你在干嘛?!\N{\rENG}What are you doing?! 
+Dialogue: 100,0:08:57.24,0:08:59.14,Normal Dialog Text,,0,0,0,,{\rCHS}你在犯下非常巨大的错误!\N{\rENG}You're making a huge mistake! 
+Dialogue: 100,0:09:08.62,0:09:10.23,Normal Dialog Text,,0,0,0,,{\rCHS}嘿! 你在里面吗?\N{\rENG}Hey! Are you in there? 
+Dialogue: 100,0:09:10.33,0:09:13.26,Normal Dialog Text,,0,0,0,,{\rCHS}我现在能为你表演了! 我甚至翻新了我的超赞歌集!\N{\rENG}I can play for you now! I even revamped my awesome set! 
+Dialogue: 100,0:09:15.63,0:09:17.70,Normal Dialog Text,,0,0,0,,{\rCHS}这首给你 神秘女子!\N{\rENG}This one's for you, mystery woman! 
 Dialogue: 150,0:09:18.74,0:09:21.58,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}你是否会相信命运?\N{\rENG_LYC}♪ Do you believe in destiny? ♪
 Dialogue: 150,0:09:22.14,0:09:25.04,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}闭上双眼其余交给我\N{\rENG_LYC}♪ close your eyes and leave the rest to me ♪
 Dialogue: 150,0:09:25.92,0:09:28.74,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}你是否会相信传奇?\N{\rENG_LYC}♪ do you believe in fantasy? ♪
-Dialogue: 150,0:09:29.32,0:09:32.66,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}当在我面前我只能如此,哦\N{\rENG_LYC}♪ I have to when it's right in front of me, oh ♪
+Dialogue: 150,0:09:29.32,0:09:32.66,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}当在我面前我只能如此 哦\N{\rENG_LYC}♪ I have to when it's right in front of me, oh ♪
 Dialogue: 150,0:09:33.26,0:09:36.26,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}你为何在这里?\N{\rENG_LYC}♪ what are you doing here? ♪
 Dialogue: 150,0:09:37.84,0:09:39.56,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}现实世界\N{\rENG_LYC}♪ in the real world ♪
 Dialogue: 150,0:09:40.02,0:09:42.72,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}你为何在这里?\N{\rENG_LYC}♪ what are you doing here? ♪
 Dialogue: 150,0:09:43.74,0:09:45.84,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}近到能触碰你\N{\rENG_LYC}♪ so close I could touch you ♪
 Dialogue: 150,0:09:46.70,0:09:49.50,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}你为何在这里?\N{\rENG_LYC}♪ what are you doing here? ♪
 Dialogue: 150,0:09:50.40,0:09:54.96,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}而你对我做了什么?\N{\rENG_LYC}♪ and what are you doing to me-e-e? ♪
-Dialogue: 100,0:09:57.98,0:09:59.50,Normal Dialog Text,,0,0,0,,{\rCHS}哦!你穿着...\N{\rENG}Oh!You're wearing the...
-Dialogue: 100,0:10:00.90,0:10:01.44,Normal Dialog Text,,0,0,0,,{\rCHS}衬衫\N{\rENG}shirt.
-Dialogue: 100,0:10:01.70,0:10:03.20,Normal Dialog Text,,0,0,0,,{\rCHS}请离开吧\N{\rENG}Please go away.
-Dialogue: 100,0:10:03.64,0:10:04.62,Normal Dialog Text,,0,0,0,,{\rCHS}我-我很抱歉\N{\rENG}I-I'm sorry.
-Dialogue: 100,0:10:04.68,0:10:05.10,Normal Dialog Text,,0,0,0,,{\rCHS}我是否...?\N{\rENG}Did I...?
-Dialogue: 100,0:10:06.32,0:10:07.75,Normal Dialog Text,,0,0,0,,{\rCHS}你真是太可爱了\N{\rENG}You're awfully cute.
-Dialogue: 100,0:10:07.75,0:10:10.95,Normal Dialog Text,,0,0,0,,{\rCHS}而我真的很想跟你玩\N{\rENG}And I really want to play with you.
-Dialogue: 100,0:10:10.99,0:10:13.30,Normal Dialog Text,,0,0,0,,{\rCHS}你的生命短暂,而你又有梦想\N{\rENG}But your life is short, and you have dreams.
-Dialogue: 100,0:10:13.30,0:10:15.67,Normal Dialog Text,,0,0,0,,{\rCHS}我不会让你放弃你想要的一切\N{\rENG}I won't let you give up on everything you want.
-Dialogue: 100,0:10:16.54,0:10:18.00,Normal Dialog Text,,0,0,0,,{\rCHS}那么,这就是个问题了\N{\rENG}Well, that's gonna be a problem.
-Dialogue: 100,0:10:19.88,0:10:21.60,Normal Dialog Text,,0,0,0,,{\rCHS}你是我想要的一切!\N{\rENG}You're everything I want!
-Dialogue: 100,0:10:29.60,0:10:31.11,Normal Dialog Text,,0,0,0,,{\rCHS}你在笑什么?\N{\rENG}What are you smiling about?
-Dialogue: 100,0:10:31.62,0:10:33.56,Normal Dialog Text,,0,0,0,,{\rCHS}你爱她!\N{\rENG}You loved her!
-Dialogue: 100,0:10:33.58,0:10:34.70,Normal Dialog Text,,0,0,0,,{\rCHS}过来,你!\N{\rENG}Come here, you!
-Dialogue: 100,0:10:36.08,0:10:36.84,Normal Dialog Text,,0,0,0,,{\rCHS}哦,天啊\N{\rENG}Oh, man.
-Dialogue: 100,0:10:36.84,0:10:38.24,Normal Dialog Text,,0,0,0,,{\rCHS}马提简直是渣!\N{\rENG}Marty was the worst!
-Dialogue: 100,0:10:38.24,0:10:39.12,Normal Dialog Text,,0,0,0,,{\rCHS}哦,没错\N{\rENG}Oh, yeah.
-Dialogue: 100,0:10:39.12,0:10:39.91,Normal Dialog Text,,0,0,0,,{\rCHS}他糟透了!\N{\rENG}He was awful!
-Dialogue: 100,0:10:40.32,0:10:41.58,Normal Dialog Text,,0,0,0,,{\rCHS}但我想我亏欠他很多\N{\rENG}But I guess I owe him a lot.
-Dialogue: 100,0:10:42.00,0:10:43.48,Normal Dialog Text,,0,0,0,,{\rCHS}他让我更愿意能留下来\N{\rENG}He made it easy for me to stay.
-Dialogue: 100,0:10:44.22,0:10:45.20,Normal Dialog Text,,0,0,0,,{\rCHS}我很高兴是这样\N{\rENG}I'm glad you did.
-Dialogue: 100,0:10:45.62,0:10:47.54,Normal Dialog Text,,0,0,0,,{\rCHS}没错,我也是\N{\rENG}Yeah, me too.
+Dialogue: 100,0:09:57.98,0:09:59.50,Normal Dialog Text,,0,0,0,,{\rCHS}哦! 你穿着...\N{\rENG}Oh! You're wearing the...
+Dialogue: 100,0:10:00.90,0:10:01.44,Normal Dialog Text,,0,0,0,,{\rCHS}衬衫\N{\rENG}shirt. 
+Dialogue: 100,0:10:01.70,0:10:03.20,Normal Dialog Text,,0,0,0,,{\rCHS}请离开吧\N{\rENG}Please go away. 
+Dialogue: 100,0:10:03.64,0:10:04.62,Normal Dialog Text,,0,0,0,,{\rCHS}我-我很抱歉\N{\rENG}I-I'm sorry. 
+Dialogue: 100,0:10:04.68,0:10:05.10,Normal Dialog Text,,0,0,0,,{\rCHS}我是否...?\N{\rENG}Did I...? 
+Dialogue: 100,0:10:06.32,0:10:07.75,Normal Dialog Text,,0,0,0,,{\rCHS}你真是太可爱了\N{\rENG}You're awfully cute. 
+Dialogue: 100,0:10:07.75,0:10:10.95,Normal Dialog Text,,0,0,0,,{\rCHS}而我真的很想跟你玩\N{\rENG}And I really want to play with you. 
+Dialogue: 100,0:10:10.99,0:10:13.30,Normal Dialog Text,,0,0,0,,{\rCHS}你的生命短暂 而你又有梦想\N{\rENG}But your life is short, and you have dreams. 
+Dialogue: 100,0:10:13.30,0:10:15.67,Normal Dialog Text,,0,0,0,,{\rCHS}我不会让你放弃你想要的一切\N{\rENG}I won't let you give up on everything you want. 
+Dialogue: 100,0:10:16.54,0:10:18.00,Normal Dialog Text,,0,0,0,,{\rCHS}那么 这就是个问题了\N{\rENG}Well, that's gonna be a problem. 
+Dialogue: 100,0:10:19.88,0:10:21.60,Normal Dialog Text,,0,0,0,,{\rCHS}你是我想要的一切!\N{\rENG}You're everything I want! 
+Dialogue: 100,0:10:29.60,0:10:31.11,Normal Dialog Text,,0,0,0,,{\rCHS}你在笑什么?\N{\rENG}What are you smiling about? 
+Dialogue: 100,0:10:31.62,0:10:33.56,Normal Dialog Text,,0,0,0,,{\rCHS}你爱她!\N{\rENG}You loved her! 
+Dialogue: 100,0:10:33.58,0:10:34.70,Normal Dialog Text,,0,0,0,,{\rCHS}过来 你!\N{\rENG}Come here, you! 
+Dialogue: 100,0:10:36.08,0:10:36.84,Normal Dialog Text,,0,0,0,,{\rCHS}哦 天啊\N{\rENG}Oh, man. 
+Dialogue: 100,0:10:36.84,0:10:38.24,Normal Dialog Text,,0,0,0,,{\rCHS}马提简直是渣!\N{\rENG}Marty was the worst! 
+Dialogue: 100,0:10:38.24,0:10:39.12,Normal Dialog Text,,0,0,0,,{\rCHS}哦 没错\N{\rENG}Oh, yeah. 
+Dialogue: 100,0:10:39.12,0:10:39.91,Normal Dialog Text,,0,0,0,,{\rCHS}他糟透了!\N{\rENG}He was awful! 
+Dialogue: 100,0:10:40.32,0:10:41.58,Normal Dialog Text,,0,0,0,,{\rCHS}但我想我亏欠他很多\N{\rENG}But I guess I owe him a lot. 
+Dialogue: 100,0:10:42.00,0:10:43.48,Normal Dialog Text,,0,0,0,,{\rCHS}他让我更愿意能留下来\N{\rENG}He made it easy for me to stay. 
+Dialogue: 100,0:10:44.22,0:10:45.20,Normal Dialog Text,,0,0,0,,{\rCHS}我很高兴是这样\N{\rENG}I'm glad you did. 
+Dialogue: 100,0:10:45.62,0:10:47.54,Normal Dialog Text,,0,0,0,,{\rCHS}没错 我也是\N{\rENG}Yeah, me too. 
 Dialogue: 600,0:10:48.21,0:10:49.94,Hint,,0,0,0,,马提的配音Jon Wurster在现实世界中与格雷格的配音Tom Scharpling同为搭档\N马提的角色设计参考了Jon Wurster曾经演绎过的角色
+

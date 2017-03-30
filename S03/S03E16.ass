@@ -42,7 +42,7 @@ Style: Hint,微软雅黑,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 150,0:00:01.00,0:00:03.50,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们，是水晶\N{\rENG_LYC}♪ We ♪ are the crystal
+Dialogue: 150,0:00:01.00,0:00:03.50,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们 是水晶\N{\rENG_LYC}♪ We ♪ are the crystal
 Dialogue: 150,0:00:03.51,0:00:04.48,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}战士\N{\rENG_LYC}♪ gems
 Dialogue: 150,0:00:04.48,0:00:06.94,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们总能拯救世界\N{\rENG_LYC}♪ we'll always save the day
 Dialogue: 150,0:00:06.94,0:00:09.42,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}如果你认为我们不行\N{\rENG_LYC}♪ and if you think we can't, ♪
@@ -53,36 +53,35 @@ Dialogue: 150,0:00:16.04,0:00:17.78,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}相信\N
 Dialogue: 150,0:00:17.78,0:00:18.44,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}石榴\N{\rENG_LYC}♪ Garnet
 Dialogue: 150,0:00:18.44,0:00:19.74,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}紫晶\N{\rENG_LYC}♪ Amethyst
 Dialogue: 150,0:00:19.74,0:00:21.20,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}和珍珠\N{\rENG_LYC}♪ and Pearl
-Dialogue: 150,0:00:21.22,0:00:22.54,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}和史蒂文！\N{\rENG_LYC}and Steven!
+Dialogue: 150,0:00:21.22,0:00:22.54,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}和史蒂文!\N{\rENG_LYC}and Steven! 
 Dialogue: 1,0:00:23.77,0:00:25.27,SU Title,,0,0,0,,{\xshad4\yshad12\pos(1168,204)}保姆格雷格
-Dialogue: 1,0:00:25.27,0:00:26.77,SU Claim,,0,0,0,,欢迎关注微博@UUU字幕组，获取最新熟肉信息！
+Dialogue: 1,0:00:25.27,0:00:26.77,SU Claim,,0,0,0,,欢迎关注微博@ UUU字幕组 获取最新熟肉信息! 
 Dialogue: 1,0:00:25.27,0:00:26.77,SU Team Title,,0,0,0,,{\pos(1725,260)}出品
 Dialogue: 1,0:00:25.27,0:00:26.77,SU Team Member,,0,0,0,,{\pos(1725,320)}UUU字幕组
 Dialogue: 1,0:00:25.27,0:00:26.77,SU Team Title,,0,0,0,,{\pos(1725,380)}翻译
-Dialogue: 1,0:00:25.27,0:00:26.77,SU Team Member,,0,0,0,,{\pos(1725,440)}Linn/右翼部鸣明 
+Dialogue: 1,0:00:25.27,0:00:26.77,SU Team Member,,0,0,0,,{\pos(1725,440)}Linn/ 右翼部鸣明 
 Dialogue: 1,0:00:25.27,0:00:26.77,SU Team Title,,0,0,0,,{\pos(1725,500)}校对
-Dialogue: 1,0:00:25.27,0:00:26.77,SU Team Member,,0,0,0,,{\pos(1725,560)}牙牙/Husky
+Dialogue: 1,0:00:25.27,0:00:26.77,SU Team Member,,0,0,0,,{\pos(1725,560)}牙牙/ Husky
 Dialogue: 1,0:00:25.27,0:00:26.77,SU Team Title,,0,0,0,,{\pos(1725,620)}特效
 Dialogue: 1,0:00:25.27,0:00:26.77,SU Team Member,,0,0,0,,{\pos(1725,680)}presisco
 Dialogue: 1,0:00:25.27,0:00:26.77,SU Team Title,,0,0,0,,{\pos(1725,740)}压制
 Dialogue: 1,0:00:25.27,0:00:26.77,SU Team Member,,0,0,0,,{\pos(1725,800)}presisco
-Dialogue: 0,0:00:25.27,0:00:26.77,SU Team Background,,0,0,0,,{\bord0\xshad-0\yshad16\pos(1725,860)}{\p1}m -1 122 b -1 -19 -19 -1 122 -1 l 251 -1 b 390 -1 377 -19 377 122 l 377 500 b 377 642 390 628 251 628 l 122 628 b -19 628 -1 642 -1 500 l -1 122 {\p0}
 Dialogue: 1,0:00:25.27,0:00:26.77,Hint,,0,0,0,,时间轴 SG 文本处理 谷子 yoyo
-Dialogue: 100,0:00:27.07,0:00:29.74,Normal Dialog Text,,0,0,0,,{\rCHS}再见 感谢光临\N{\rENG}Bye!Thanks for coming!
-Dialogue: 100,0:00:29.87,0:00:31.51,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 又是两位顾客\N{\rENG}Man, two customers!
+Dialogue: 100,0:00:27.07,0:00:29.74,Normal Dialog Text,,0,0,0,,{\rCHS}再见 感谢光临\N{\rENG}Bye! Thanks for coming! 
+Dialogue: 100,0:00:29.87,0:00:31.51,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 又是两位顾客\N{\rENG}Man, two customers! 
 Dialogue: 100,0:00:31.54,0:00:33.21,Normal Dialog Text,,0,0,0,,{\rCHS}自从15年前的泥浆龙卷风以来\N{\rENG}The car wash hasn't been that busy
-Dialogue: 100,0:00:33.24,0:00:36.01,Normal Dialog Text,,0,0,0,,{\rCHS}洗车的工作从未如此忙过\N{\rENG}since that mud tornado 15 years ago.
+Dialogue: 100,0:00:33.24,0:00:36.01,Normal Dialog Text,,0,0,0,,{\rCHS}洗车的工作从未如此忙过\N{\rENG}since that mud tornado 15 years ago. 
 Dialogue: 100,0:00:36.05,0:00:38.55,Normal Dialog Text,,0,0,0,,{\rCHS}人们称之为"泥龙卷"\N{\rENG}They called it "The mud-nado."
-Dialogue: 100,0:00:38.55,0:00:42.15,Normal Dialog Text,,0,0,0,,{\rCHS}哇!你在在这里工作的时间比我活过的时间还要长!\N{\rENG}Wow! You've worked here longer than I've been alive!
-Dialogue: 100,0:00:42.19,0:00:43.92,Normal Dialog Text,,0,0,0,,{\rCHS}你是怎么得到这份工作的?\N{\rENG}How'd you even get this job?
-Dialogue: 100,0:00:43.95,0:00:46.09,Normal Dialog Text,,0,0,0,,{\rCHS}嗯,当时我正和你妈妈处对象,然后....\N{\rENG}Well, I was hanging out with your mom, and --
-Dialogue: 100,0:00:46.12,0:00:48.12,Normal Dialog Text,,0,0,0,,{\rCHS}等等!\N{\rENG}Hold the phone!
-Dialogue: 100,0:00:48.16,0:00:50.96,Normal Dialog Text,,0,0,0,,{\rCHS}噢,你的动作真快\N{\rENG}Oh, you're getting fast there.
-Dialogue: 100,0:00:50.99,0:00:53.16,Normal Dialog Text,,0,0,0,,{\rCHS}不要直接讲给我,唱给我听!\N{\rENG}Don't tell me, sing me!
-Dialogue: 100,0:00:53.20,0:00:53.96,Normal Dialog Text,,0,0,0,,{\rCHS}淘气鬼!\N{\rENG}You rascal!
-Dialogue: 100,0:00:54.00,0:00:57.23,Normal Dialog Text,,0,0,0,,{\rCHS}下次我给你讲故事的时候 能用唱歌以外的方式吗? \N{\rENG}Can I ever tell you a story without working in a song again?
-Dialogue: 100,0:00:57.27,0:00:59.10,Normal Dialog Text,,0,0,0,,{\rCHS}我边听边学\N{\rENG}I'm playing it by ear.
-Dialogue: 200,0:00:59.14,0:01:02.14,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}你,瞧瞧你自己\N{\rENG_LYC}♪ You, look at everything you are ♪
+Dialogue: 100,0:00:38.55,0:00:42.15,Normal Dialog Text,,0,0,0,,{\rCHS}哇! 你在在这里工作的时间比我活过的时间还要长!\N{\rENG}Wow! You've worked here longer than I've been alive! 
+Dialogue: 100,0:00:42.19,0:00:43.92,Normal Dialog Text,,0,0,0,,{\rCHS}你是怎么得到这份工作的?\N{\rENG}How'd you even get this job? 
+Dialogue: 100,0:00:43.95,0:00:46.09,Normal Dialog Text,,0,0,0,,{\rCHS}嗯 当时我正和你妈妈处对象 然后....\N{\rENG}Well, I was hanging out with your mom, and--
+Dialogue: 100,0:00:46.12,0:00:48.12,Normal Dialog Text,,0,0,0,,{\rCHS}等等!\N{\rENG}Hold the phone! 
+Dialogue: 100,0:00:48.16,0:00:50.96,Normal Dialog Text,,0,0,0,,{\rCHS}噢 你的动作真快\N{\rENG}Oh, you're getting fast there. 
+Dialogue: 100,0:00:50.99,0:00:53.16,Normal Dialog Text,,0,0,0,,{\rCHS}不要直接讲给我 唱给我听!\N{\rENG}Don't tell me, sing me! 
+Dialogue: 100,0:00:53.20,0:00:53.96,Normal Dialog Text,,0,0,0,,{\rCHS}淘气鬼!\N{\rENG}You rascal! 
+Dialogue: 100,0:00:54.00,0:00:57.23,Normal Dialog Text,,0,0,0,,{\rCHS}下次我给你讲故事的时候 能用唱歌以外的方式吗? \N{\rENG}Can I ever tell you a story without working in a song again? 
+Dialogue: 100,0:00:57.27,0:00:59.10,Normal Dialog Text,,0,0,0,,{\rCHS}我边听边学\N{\rENG}I'm playing it by ear. 
+Dialogue: 200,0:00:59.14,0:01:02.14,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}你 瞧瞧你自己\N{\rENG_LYC}♪ You, look at everything you are ♪
 Dialogue: 200,0:01:02.17,0:01:04.37,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}瞧瞧那些因你而起的美好 \N{\rENG_LYC}♪ Look at everything you do
 Dialogue: 200,0:01:04.41,0:01:05.61,Song Lyrics Text,,0,0,0,,{\rCHS_LYC} 真是难以置信\N{\rENG_LYC}♪ It's incredible
 Dialogue: 200,0:01:05.64,0:01:08.01,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}就如你一般像是奇迹\N{\rENG_LYC}♪ As incredible as you
@@ -112,206 +111,207 @@ Dialogue: 200,0:02:02.33,0:02:03.77,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}唯一�
 Dialogue: 200,0:02:03.80,0:02:06.17,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我想我需要一点零钱\N{\rENG_LYC}♪ I think I need a little cha-a-ange ♪
 Dialogue: 200,0:02:06.20,0:02:08.40,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我想我需要一点零钱\N{\rENG_LYC}♪ I think I need a little cha-a-ange ♪
 Dialogue: 200,0:02:08.44,0:02:14.21,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我想我需要一点零钱\N{\rENG_LYC}♪ I think I need a little cha-a-a-a-a-a-ange ♪
-Dialogue: 100,0:02:14.24,0:02:18.15,Normal Dialog Text,,0,0,0,,{\rCHS}噢 这些都不够买一个坏掉的热狗\N{\rENG}Oh, that's not even enough for a bad hot dog.
-Dialogue: 100,0:02:20.45,0:02:22.15,Normal Dialog Text,,0,0,0,,{\rCHS}嘿哟 维达利亚\N{\rENG}Sup, Vidalia?
+Dialogue: 100,0:02:14.24,0:02:18.15,Normal Dialog Text,,0,0,0,,{\rCHS}噢 这些都不够买一个坏掉的热狗\N{\rENG}Oh, that's not even enough for a bad hot dog. 
+Dialogue: 100,0:02:20.45,0:02:22.15,Normal Dialog Text,,0,0,0,,{\rCHS}嘿哟 维达利亚\N{\rENG}Sup, Vidalia? 
 Dialogue: 100,0:02:23.19,0:02:24.12,Normal Dialog Text,,0,0,0,,{\rCHS}葛瑞格\N{\rENG}Greg...
-Dialogue: 100,0:02:24.15,0:02:26.02,Normal Dialog Text,,0,0,0,,{\rCHS}真是个惊喜喔\N{\rENG}What a surprise.
-Dialogue: 100,0:02:26.06,0:02:27.32,Normal Dialog Text,,0,0,0,,{\rCHS}准备好开吃了吗?\N{\rENG}Ready to eat?
-Dialogue: 100,0:02:27.36,0:02:30.46,Normal Dialog Text,,0,0,0,,{\rCHS}你会爱上这些萝卜泥的 \N{\rENG}You're gonna love these mushed up carrots!
-Dialogue: 100,0:02:31.53,0:02:33.63,Normal Dialog Text,,0,0,0,,{\rCHS}某人开始激动了哦\N{\rENG}Someone's excited!
-Dialogue: 100,0:02:33.66,0:02:35.53,Normal Dialog Text,,0,0,0,,{\rCHS}准备好了吗\N{\rENG}Get ready.
-Dialogue: 100,0:02:35.56,0:02:39.33,Normal Dialog Text,,0,0,0,,{\rCHS} 噢 你酷到不吃萝卜泥了\N{\rENG}Oh, you're too cool for mushed up carrots?
-Dialogue: 100,0:02:39.37,0:02:42.30,Normal Dialog Text,,0,0,0,,{\rCHS}我饿死了 \N{\rENG}I'm hungry for babies!
-Dialogue: 100,0:02:43.64,0:02:45.04,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 我这正忙着喂孩子呢!\N{\rENG}Hey, I'm trying to negotiate here.
-Dialogue: 100,0:02:45.07,0:02:47.01,Normal Dialog Text,,0,0,0,,{\rCHS}噢 你这里有好吃的\N{\rENG}Ooh! You got the good stuff.
-Dialogue: 100,0:02:47.01,0:02:49.61,Normal Dialog Text,,0,0,0,,{\rCHS}难道你那神奇女友不会做饭吗?\N{\rENG}Doesn't your magical girlfriend know how to cook?
-Dialogue: 100,0:02:49.65,0:02:52.68,Normal Dialog Text,,0,0,0,,{\rCHS}嗯哼,玫瑰根本不需要进食 但我需要 \N{\rENG}Nah, Rose doesn't really need to eat, but I do.
-Dialogue: 100,0:02:52.72,0:02:55.35,Normal Dialog Text,,0,0,0,,{\rCHS}除了整天崇拜你女友\N{\rENG}Hmm. So have you done anything lately --
-Dialogue: 100,0:02:55.38,0:02:57.29,Normal Dialog Text,,0,0,0,,{\rCHS}你最近都干了些啥\N{\rENG}besides worship everything she does?
-Dialogue: 100,0:02:57.29,0:02:59.49,Normal Dialog Text,,0,0,0,,{\rCHS}我已经为我的新专辑写了好几首歌了\N{\rENG}I've been working on some songs for my new album.
-Dialogue: 100,0:02:59.52,0:03:02.09,Normal Dialog Text,,0,0,0,,{\rCHS}噢,就是那张\N{\rENG}Oh, the same new album
-Dialogue: 100,0:03:02.13,0:03:03.79,Normal Dialog Text,,0,0,0,,{\rCHS}你准备了六个月的新专辑  \N{\rENG}you've been working on for six months?
-Dialogue: 100,0:03:03.83,0:03:05.06,Normal Dialog Text,,0,0,0,,{\rCHS}是的\N{\rENG}Yep!
-Dialogue: 100,0:03:05.09,0:03:06.50,Normal Dialog Text,,0,0,0,,{\rCHS}喔,那真是不错\N{\rENG}Oh, that's good.
-Dialogue: 100,0:03:06.53,0:03:07.90,Normal Dialog Text,,0,0,0,,{\rCHS}你的妈咪生活过得怎样?\N{\rENG}How's baby life?
-Dialogue: 100,0:03:10.50,0:03:11.80,Normal Dialog Text,,0,0,0,,{\rCHS}看起来如何?\N{\rENG}How does it look?
-Dialogue: 100,0:03:11.83,0:03:13.24,Normal Dialog Text,,0,0,0,,{\rCHS}辛苦\N{\rENG}Hard.
-Dialogue: 100,0:03:13.27,0:03:15.07,Normal Dialog Text,,0,0,0,,{\rCHS}你介意在我在你这白吃吗?\N{\rENG}Mind if I bum around here for the day?
-Dialogue: 100,0:03:15.10,0:03:16.50,Normal Dialog Text,,0,0,0,,{\rCHS}我已经习惯了\N{\rENG}No more than usual.
-Dialogue: 100,0:03:16.54,0:03:20.64,Normal Dialog Text,,0,0,0,,{\rCHS}你真是吊起了我的胃口  宇宙\N{\rENG}Man, you're really selling me on that cereal, Universe.
-Dialogue: 100,0:03:20.68,0:03:24.45,Normal Dialog Text,,0,0,0,,{\rCHS}啊这东西真好吃\N{\rENG}It's so good!
-Dialogue: 100,0:03:24.48,0:03:25.78,Normal Dialog Text,,0,0,0,,{\rCHS}到妈妈这儿来\N{\rENG}Come to mama.
-Dialogue: 100,0:03:27.48,0:03:30.32,Normal Dialog Text,,0,0,0,,{\rCHS}谢谢你给我留下的残渣 葛瑞格\N{\rENG}Thanks for leaving me all the cereal dust, Greg!
-Dialogue: 100,0:03:30.35,0:03:31.45,Normal Dialog Text,,0,0,0,,{\rCHS}不用谢 \N{\rENG}No problem!
-Dialogue: 100,0:03:31.49,0:03:34.56,Normal Dialog Text,,0,0,0,,{\rCHS}呃,现在我该吃些什么呢\N{\rENG}Ugh! What am I supposed to eat now?
-Dialogue: 100,0:03:34.59,0:03:38.46,Normal Dialog Text,,0,0,0,,{\rCHS}真是好主意,酸奶油\N{\rENG}Oh, good idea, Sour Cream!
-Dialogue: 100,0:03:39.20,0:03:40.33,Normal Dialog Text,,0,0,0,,{\rCHS}今年秋季上映\N{\rENG}Coming this fall --
-Dialogue: 100,0:03:40.36,0:03:43.83,Normal Dialog Text,,0,0,0,,{\rCHS}他是个有着大风范的小管家\N{\rENG}He's a little butler with a big attitude.
+Dialogue: 100,0:02:24.15,0:02:26.02,Normal Dialog Text,,0,0,0,,{\rCHS}真是个惊喜喔\N{\rENG}What a surprise. 
+Dialogue: 100,0:02:26.06,0:02:27.32,Normal Dialog Text,,0,0,0,,{\rCHS}准备好开吃了吗?\N{\rENG}Ready to eat? 
+Dialogue: 100,0:02:27.36,0:02:30.46,Normal Dialog Text,,0,0,0,,{\rCHS}你会爱上这些萝卜泥的 \N{\rENG}You're gonna love these mushed up carrots! 
+Dialogue: 100,0:02:31.53,0:02:33.63,Normal Dialog Text,,0,0,0,,{\rCHS}某人开始激动了哦\N{\rENG}Someone's excited! 
+Dialogue: 100,0:02:33.66,0:02:35.53,Normal Dialog Text,,0,0,0,,{\rCHS}准备好了吗\N{\rENG}Get ready. 
+Dialogue: 100,0:02:35.56,0:02:39.33,Normal Dialog Text,,0,0,0,,{\rCHS} 噢 你酷到不吃萝卜泥了\N{\rENG}Oh, you're too cool for mushed up carrots? 
+Dialogue: 100,0:02:39.37,0:02:42.30,Normal Dialog Text,,0,0,0,,{\rCHS}我饿死了 \N{\rENG}I'm hungry for babies! 
+Dialogue: 100,0:02:43.64,0:02:45.04,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 我这正忙着喂孩子呢!\N{\rENG}Hey, I'm trying to negotiate here. 
+Dialogue: 100,0:02:45.07,0:02:47.01,Normal Dialog Text,,0,0,0,,{\rCHS}噢 你这里有好吃的\N{\rENG}Ooh! You got the good stuff. 
+Dialogue: 100,0:02:47.01,0:02:49.61,Normal Dialog Text,,0,0,0,,{\rCHS}难道你那神奇女友不会做饭吗?\N{\rENG}Doesn't your magical girlfriend know how to cook? 
+Dialogue: 100,0:02:49.65,0:02:52.68,Normal Dialog Text,,0,0,0,,{\rCHS}嗯哼 玫瑰根本不需要进食 但我需要 \N{\rENG}Nah, Rose doesn't really need to eat, but I do. 
+Dialogue: 100,0:02:52.72,0:02:55.35,Normal Dialog Text,,0,0,0,,{\rCHS}除了整天崇拜你女友\N{\rENG}Hmm. So have you done anything lately--
+Dialogue: 100,0:02:55.38,0:02:57.29,Normal Dialog Text,,0,0,0,,{\rCHS}你最近都干了些啥\N{\rENG}besides worship everything she does? 
+Dialogue: 100,0:02:57.29,0:02:59.49,Normal Dialog Text,,0,0,0,,{\rCHS}我已经为我的新专辑写了好几首歌了\N{\rENG}I've been working on some songs for my new album. 
+Dialogue: 100,0:02:59.52,0:03:02.09,Normal Dialog Text,,0,0,0,,{\rCHS}噢 就是那张\N{\rENG}Oh, the same new album
+Dialogue: 100,0:03:02.13,0:03:03.79,Normal Dialog Text,,0,0,0,,{\rCHS}你准备了六个月的新专辑 \N{\rENG}you've been working on for six months? 
+Dialogue: 100,0:03:03.83,0:03:05.06,Normal Dialog Text,,0,0,0,,{\rCHS}是的\N{\rENG}Yep! 
+Dialogue: 100,0:03:05.09,0:03:06.50,Normal Dialog Text,,0,0,0,,{\rCHS}喔 那真是不错\N{\rENG}Oh, that's good. 
+Dialogue: 100,0:03:06.53,0:03:07.90,Normal Dialog Text,,0,0,0,,{\rCHS}你的妈咪生活过得怎样?\N{\rENG}How's baby life? 
+Dialogue: 100,0:03:10.50,0:03:11.80,Normal Dialog Text,,0,0,0,,{\rCHS}看起来如何?\N{\rENG}How does it look? 
+Dialogue: 100,0:03:11.83,0:03:13.24,Normal Dialog Text,,0,0,0,,{\rCHS}辛苦\N{\rENG}Hard. 
+Dialogue: 100,0:03:13.27,0:03:15.07,Normal Dialog Text,,0,0,0,,{\rCHS}你介意在我在你这白吃吗?\N{\rENG}Mind if I bum around here for the day? 
+Dialogue: 100,0:03:15.10,0:03:16.50,Normal Dialog Text,,0,0,0,,{\rCHS}我已经习惯了\N{\rENG}No more than usual. 
+Dialogue: 100,0:03:16.54,0:03:20.64,Normal Dialog Text,,0,0,0,,{\rCHS}你真是吊起了我的胃口 宇宙\N{\rENG}Man, you're really selling me on that cereal, Universe. 
+Dialogue: 100,0:03:20.68,0:03:24.45,Normal Dialog Text,,0,0,0,,{\rCHS}啊这东西真好吃\N{\rENG}It's so good! 
+Dialogue: 100,0:03:24.48,0:03:25.78,Normal Dialog Text,,0,0,0,,{\rCHS}到妈妈这儿来\N{\rENG}Come to mama. 
+Dialogue: 100,0:03:27.48,0:03:30.32,Normal Dialog Text,,0,0,0,,{\rCHS}谢谢你给我留下的残渣 葛瑞格\N{\rENG}Thanks for leaving me all the cereal dust, Greg! 
+Dialogue: 100,0:03:30.35,0:03:31.45,Normal Dialog Text,,0,0,0,,{\rCHS}不用谢 \N{\rENG}No problem! 
+Dialogue: 100,0:03:31.49,0:03:34.56,Normal Dialog Text,,0,0,0,,{\rCHS}呃 现在我该吃些什么呢\N{\rENG}Ugh! What am I supposed to eat now? 
+Dialogue: 100,0:03:34.59,0:03:38.46,Normal Dialog Text,,0,0,0,,{\rCHS}真是好主意 酸奶油\N{\rENG}Oh, good idea, Sour Cream! 
+Dialogue: 100,0:03:39.20,0:03:40.33,Normal Dialog Text,,0,0,0,,{\rCHS}今年秋季上映\N{\rENG}Coming this fall--
+Dialogue: 100,0:03:40.36,0:03:43.83,Normal Dialog Text,,0,0,0,,{\rCHS}他是个有着大风范的小管家\N{\rENG}He's a little butler with a big attitude. 
 Dialogue: 100,0:03:46.10,0:03:48.10,Normal Dialog Text,,0,0,0,,{\rCHS}维达利亚 你以前看过这个喜剧没....\N{\rENG}Vidalia, have you seen this com--
-Dialogue: 100,0:03:48.14,0:03:49.74,Normal Dialog Text,,0,0,0,,{\rCHS}我的沙发!\N{\rENG}Whoa!My couch!
-Dialogue: 100,0:03:51.57,0:03:54.61,Normal Dialog Text,,0,0,0,,{\rCHS}我想我把这里弄脏了,是吧?\N{\rENG}I guess I made a mess, huh?
-Dialogue: 100,0:03:54.64,0:03:56.58,Normal Dialog Text,,0,0,0,,{\rCHS}慢着 赶紧把衣服脱了\N{\rENG}Uhp-uhp! Take it off.
-Dialogue: 100,0:03:56.61,0:03:59.08,Normal Dialog Text,,0,0,0,,{\rCHS}哦对 抱歉\N{\rENG}Oh, yeah, sorry.
-Dialogue: 100,0:03:59.12,0:04:00.62,Normal Dialog Text,,0,0,0,,{\rCHS}哇哦,这衣服不错\N{\rENG}Whoa, that's a look.
-Dialogue: 100,0:04:00.65,0:04:02.38,Normal Dialog Text,,0,0,0,,{\rCHS}哪里来的?\N{\rENG}Where'd you get that shirt?
-Dialogue: 100,0:04:02.42,0:04:03.62,Normal Dialog Text,,0,0,0,,{\rCHS}体恤店呗\N{\rENG}T-shirt shop.
-Dialogue: 100,0:04:03.65,0:04:05.19,Normal Dialog Text,,0,0,0,,{\rCHS}你买了这件体恤?\N{\rENG}You bought that?
-Dialogue: 100,0:04:05.22,0:04:06.86,Normal Dialog Text,,0,0,0,,{\rCHS}不这是我的工作制服\N{\rENG}No, it's my uniform.
-Dialogue: 100,0:04:06.89,0:04:08.79,Normal Dialog Text,,0,0,0,,{\rCHS}我从今天开始在这上班了\N{\rENG}I work there starting today.
-Dialogue: 100,0:04:08.82,0:04:10.66,Normal Dialog Text,,0,0,0,,{\rCHS}这可有点不像你噢\N{\rENG}You sold out, V.
-Dialogue: 100,0:04:10.69,0:04:12.39,Normal Dialog Text,,0,0,0,,{\rCHS}人有时也需要成长的\N{\rENG}Got to grow up sometime.
-Dialogue: 100,0:04:13.63,0:04:14.70,Normal Dialog Text,,0,0,0,,{\rCHS}喂?\N{\rENG}Hello?
-Dialogue: 100,0:04:14.73,0:04:16.20,Normal Dialog Text,,0,0,0,,{\rCHS}嗯.....\N{\rENG}Uh-huh.
-Dialogue: 100,0:04:16.23,0:04:17.83,Normal Dialog Text,,0,0,0,,{\rCHS}等等,你不能来了是什么意思\N{\rENG}Wait, what do you meanyou can't come?
-Dialogue: 100,0:04:17.87,0:04:19.63,Normal Dialog Text,,0,0,0,,{\rCHS}有家人去世了 \N{\rENG}Death in the family?
-Dialogue: 100,0:04:19.67,0:04:21.84,Normal Dialog Text,,0,0,0,,{\rCHS}等等 只是一只仓鼠死了可不能算 \N{\rENG}Wait, a hamster doesn't count!
-Dialogue: 100,0:04:21.87,0:04:23.61,Normal Dialog Text,,0,0,0,,{\rCHS}你不能这样对待我\N{\rENG}You can't do this to me!
-Dialogue: 100,0:04:23.64,0:04:25.27,Normal Dialog Text,,0,0,0,,{\rCHS}听着 我..我真的需要...\N{\rENG}Look, I -- I really need --
-Dialogue: 100,0:04:25.31,0:04:26.61,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 喂 人呢?\N{\rENG}Hey! Hello?
-Dialogue: 100,0:04:27.64,0:04:29.44,Normal Dialog Text,,0,0,0,,{\rCHS}真是讨厌的小孩子 \N{\rENG}Lousy 12-year-old!
-Dialogue: 100,0:04:29.48,0:04:31.11,Normal Dialog Text,,0,0,0,,{\rCHS}怎么回事 \N{\rENG}What happened?
-Dialogue: 100,0:04:31.15,0:04:32.25,Normal Dialog Text,,0,0,0,,{\rCHS}听好了葛瑞格 我的保姆来不了\N{\rENG}Listen, Greg, my babysitter cancelled.
-Dialogue: 100,0:04:32.28,0:04:36.22,Normal Dialog Text,,0,0,0,,{\rCHS}我需要你在我工作的时候帮我照看酸奶油\N{\rENG}I need you to watch Sour Cream for me while I'm at work.
-Dialogue: 100,0:04:36.25,0:04:37.19,Normal Dialog Text,,0,0,0,,{\rCHS}你能帮我吗 \N{\rENG}Can you do it?
-Dialogue: 100,0:04:37.22,0:04:39.29,Normal Dialog Text,,0,0,0,,{\rCHS}噢 当然 为什么不能呢 \N{\rENG}Oh, yeah. Why not?
-Dialogue: 100,0:04:39.32,0:04:40.62,Normal Dialog Text,,0,0,0,,{\rCHS} 我平时也无事可做\N{\rENG}I'm not doing anything.
-Dialogue: 100,0:04:40.66,0:04:41.72,Normal Dialog Text,,0,0,0,,{\rCHS}应该是吧...\N{\rENG}I think.
-Dialogue: 100,0:04:41.76,0:04:44.23,Normal Dialog Text,,0,0,0,,{\rCHS}相信我 你整天都闲的慌\N{\rENG}Trust me, you're not.
-Dialogue: 100,0:04:44.26,0:04:46.60,Normal Dialog Text,,0,0,0,,{\rCHS}好了 不要忘记尿布包放在那儿\N{\rENG}Okay, don't forget, diaper bag's over there,
-Dialogue: 100,0:04:46.63,0:04:47.80,Normal Dialog Text,,0,0,0,,{\rCHS}零食放在这儿的\N{\rENG}snacks are over there.
-Dialogue: 100,0:04:47.83,0:04:49.90,Normal Dialog Text,,0,0,0,,{\rCHS}应急号码贴在冰箱上的\N{\rENG}Emergency number's on the fridge.
-Dialogue: 100,0:04:49.93,0:04:52.40,Normal Dialog Text,,0,0,0,,{\rCHS}还有 如果我的孩子出了什么意外\N{\rENG}And if anything bad happens to my kid,
-Dialogue: 100,0:04:52.43,0:04:54.70,Normal Dialog Text,,0,0,0,,{\rCHS}那你最好祈祷你的宇宙神奇女友\N{\rENG}you better pray your space goddess' magic
-Dialogue: 100,0:04:54.74,0:04:56.47,Normal Dialog Text,,0,0,0,,{\rCHS}有起死回生的能力\N{\rENG}can bring people back from the dead,
-Dialogue: 100,0:04:56.51,0:04:59.41,Normal Dialog Text,,0,0,0,,{\rCHS}因为我会灭了你\N{\rENG}because I will destroy you.
-Dialogue: 100,0:04:59.44,0:05:01.48,Normal Dialog Text,,0,0,0,,{\rCHS}...工作愉快 \N{\rENG}Have fun at work.
-Dialogue: 100,0:05:01.51,0:05:03.21,Normal Dialog Text,,0,0,0,,{\rCHS}好了,怎么样酸奶油\N{\rENG}So, how about it, Sour Cream,
-Dialogue: 100,0:05:03.21,0:05:06.32,Normal Dialog Text,,0,0,0,,{\rCHS}准备好和你潇洒的叔叔度过一天吗\N{\rENG}you ready to spend the day with your rad Unkie Greg?
-Dialogue: 100,0:05:07.65,0:05:09.88,Normal Dialog Text,,0,0,0,,{\rCHS}你可真像维达利亚啊 不是吗\N{\rENG}You really are Vidalia's son, aren't you?
-Dialogue: 100,0:05:09.92,0:05:11.42,Normal Dialog Text,,0,0,0,,{\rCHS}好啦\N{\rENG} There you go.
-Dialogue: 100,0:05:11.45,0:05:15.59,Normal Dialog Text,,0,0,0,,{\rCHS}小酸奶油 来见识一下防晒霜\N{\rENG}Okay. Baby Sour Cream,meet sun screen.
-Dialogue: 100,0:05:15.63,0:05:17.69,Normal Dialog Text,,0,0,0,,{\rCHS}噢 不能忘了这个\N{\rENG}Oh, can't forget these!
-Dialogue: 100,0:05:19.43,0:05:21.76,Normal Dialog Text,,0,0,0,,{\rCHS}你真是个炫酷的小孩儿\N{\rENG}You're one cool baby!
-Dialogue: 100,0:05:21.80,0:05:23.50,Normal Dialog Text,,0,0,0,,{\rCHS}嗨 葛瑞格\N{\rENG}Hi, Greg!
-Dialogue: 100,0:05:23.53,0:05:25.60,Normal Dialog Text,,0,0,0,,{\rCHS}嗨 玫瑰\N{\rENG}Hi, Rose.
-Dialogue: 100,0:05:25.64,0:05:27.44,Normal Dialog Text,,0,0,0,,{\rCHS}葛瑞格\N{\rENG}Greg!
-Dialogue: 100,0:05:27.47,0:05:29.70,Normal Dialog Text,,0,0,0,,{\rCHS}这个小型人类是在哪里找来的\N{\rENG}Where did you get this mini human from?
-Dialogue: 100,0:05:29.74,0:05:31.51,Normal Dialog Text,,0,0,0,,{\rCHS}噢 这是酸奶油\N{\rENG}Oh, this is Sour Cream.
-Dialogue: 100,0:05:31.54,0:05:32.64,Normal Dialog Text,,0,0,0,,{\rCHS}是你把他制造出来的吗\N{\rENG}Did you make him?
-Dialogue: 100,0:05:32.68,0:05:34.18,Normal Dialog Text,,0,0,0,,{\rCHS}啥?\N{\rENG}Wh-what?
-Dialogue: 100,0:05:34.21,0:05:37.81,Normal Dialog Text,,0,0,0,,{\rCHS}不是 我只是在帮维达利亚带孩子\N{\rENG}No. I'm just babysitting for Vidalia.
-Dialogue: 100,0:05:37.85,0:05:39.72,Normal Dialog Text,,0,0,0,,{\rCHS}嗨 酸奶油\N{\rENG}Hi, Sour Cream.
-Dialogue: 100,0:05:39.75,0:05:41.32,Normal Dialog Text,,0,0,0,,{\rCHS}我是玫瑰\N{\rENG}I'm Rose.
-Dialogue: 100,0:05:42.75,0:05:45.49,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 我们来教他怎样正确地在沙滩嗨吧\N{\rENG}Hey, let's show this baby how to beach it.
-Dialogue: 100,0:05:45.52,0:05:46.59,Normal Dialog Text,,0,0,0,,{\rCHS}好啊\N{\rENG}Yeah!
-Dialogue: 100,0:05:49.89,0:05:53.50,Normal Dialog Text,,0,0,0,,{\rCHS}真是太棒了\N{\rENG}That feels great!
-Dialogue: 100,0:05:53.53,0:05:55.60,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 酸奶油 看这边\N{\rENG}Hey, Sour Cream,look at me.
-Dialogue: 100,0:05:55.63,0:05:57.93,Normal Dialog Text,,0,0,0,,{\rCHS}我是个沙人\N{\rENG}I'm a sand man!
-Dialogue: 100,0:06:01.64,0:06:03.74,Normal Dialog Text,,0,0,0,,{\rCHS}我想他大概就是喜欢干坐在这块毯子上吧\N{\rENG}I guess he just likes siting on this blanket.
+Dialogue: 100,0:03:48.14,0:03:49.74,Normal Dialog Text,,0,0,0,,{\rCHS}我的沙发!\N{\rENG}Whoa! My couch! 
+Dialogue: 100,0:03:51.57,0:03:54.61,Normal Dialog Text,,0,0,0,,{\rCHS}我想我把这里弄脏了 是吧?\N{\rENG}I guess I made a mess, huh? 
+Dialogue: 100,0:03:54.64,0:03:56.58,Normal Dialog Text,,0,0,0,,{\rCHS}慢着 赶紧把衣服脱了\N{\rENG}Uhp-uhp! Take it off. 
+Dialogue: 100,0:03:56.61,0:03:59.08,Normal Dialog Text,,0,0,0,,{\rCHS}哦对 抱歉\N{\rENG}Oh, yeah, sorry. 
+Dialogue: 100,0:03:59.12,0:04:00.62,Normal Dialog Text,,0,0,0,,{\rCHS}哇哦 这衣服不错\N{\rENG}Whoa, that's a look. 
+Dialogue: 100,0:04:00.65,0:04:02.38,Normal Dialog Text,,0,0,0,,{\rCHS}哪里来的?\N{\rENG}Where'd you get that shirt? 
+Dialogue: 100,0:04:02.42,0:04:03.62,Normal Dialog Text,,0,0,0,,{\rCHS}体恤店呗\N{\rENG}T-shirt shop. 
+Dialogue: 100,0:04:03.65,0:04:05.19,Normal Dialog Text,,0,0,0,,{\rCHS}你买了这件体恤?\N{\rENG}You bought that? 
+Dialogue: 100,0:04:05.22,0:04:06.86,Normal Dialog Text,,0,0,0,,{\rCHS}不这是我的工作制服\N{\rENG}No, it's my uniform. 
+Dialogue: 100,0:04:06.89,0:04:08.79,Normal Dialog Text,,0,0,0,,{\rCHS}我从今天开始在这上班了\N{\rENG}I work there starting today. 
+Dialogue: 100,0:04:08.82,0:04:10.66,Normal Dialog Text,,0,0,0,,{\rCHS}这可有点不像你噢\N{\rENG}You sold out, V. 
+Dialogue: 100,0:04:10.69,0:04:12.39,Normal Dialog Text,,0,0,0,,{\rCHS}人有时也需要成长的\N{\rENG}Got to grow up sometime. 
+Dialogue: 100,0:04:13.63,0:04:14.70,Normal Dialog Text,,0,0,0,,{\rCHS}喂?\N{\rENG}Hello? 
+Dialogue: 100,0:04:14.73,0:04:16.20,Normal Dialog Text,,0,0,0,,{\rCHS}嗯.....\N{\rENG}Uh-huh. 
+Dialogue: 100,0:04:16.23,0:04:17.83,Normal Dialog Text,,0,0,0,,{\rCHS}等等 你不能来了是什么意思\N{\rENG}Wait, what do you meanyou can't come? 
+Dialogue: 100,0:04:17.87,0:04:19.63,Normal Dialog Text,,0,0,0,,{\rCHS}有家人去世了 \N{\rENG}Death in the family? 
+Dialogue: 100,0:04:19.67,0:04:21.84,Normal Dialog Text,,0,0,0,,{\rCHS}等等 只是一只仓鼠死了可不能算 \N{\rENG}Wait, a hamster doesn't count! 
+Dialogue: 100,0:04:21.87,0:04:23.61,Normal Dialog Text,,0,0,0,,{\rCHS}你不能这样对待我\N{\rENG}You can't do this to me! 
+Dialogue: 100,0:04:23.64,0:04:25.27,Normal Dialog Text,,0,0,0,,{\rCHS}听着 我.. 我真的需要...\N{\rENG}Look, I--I really need--
+Dialogue: 100,0:04:25.31,0:04:26.61,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 喂 人呢?\N{\rENG}Hey! Hello? 
+Dialogue: 100,0:04:27.64,0:04:29.44,Normal Dialog Text,,0,0,0,,{\rCHS}真是讨厌的小孩子 \N{\rENG}Lousy 12-year-old! 
+Dialogue: 100,0:04:29.48,0:04:31.11,Normal Dialog Text,,0,0,0,,{\rCHS}怎么回事 \N{\rENG}What happened? 
+Dialogue: 100,0:04:31.15,0:04:32.25,Normal Dialog Text,,0,0,0,,{\rCHS}听好了葛瑞格 我的保姆来不了\N{\rENG}Listen, Greg, my babysitter cancelled. 
+Dialogue: 100,0:04:32.28,0:04:36.22,Normal Dialog Text,,0,0,0,,{\rCHS}我需要你在我工作的时候帮我照看酸奶油\N{\rENG}I need you to watch Sour Cream for me while I'm at work. 
+Dialogue: 100,0:04:36.25,0:04:37.19,Normal Dialog Text,,0,0,0,,{\rCHS}你能帮我吗 \N{\rENG}Can you do it? 
+Dialogue: 100,0:04:37.22,0:04:39.29,Normal Dialog Text,,0,0,0,,{\rCHS}噢 当然 为什么不能呢 \N{\rENG}Oh, yeah. Why not? 
+Dialogue: 100,0:04:39.32,0:04:40.62,Normal Dialog Text,,0,0,0,,{\rCHS} 我平时也无事可做\N{\rENG}I'm not doing anything. 
+Dialogue: 100,0:04:40.66,0:04:41.72,Normal Dialog Text,,0,0,0,,{\rCHS}应该是吧...\N{\rENG}I think. 
+Dialogue: 100,0:04:41.76,0:04:44.23,Normal Dialog Text,,0,0,0,,{\rCHS}相信我 你整天都闲的慌\N{\rENG}Trust me, you're not. 
+Dialogue: 100,0:04:44.26,0:04:46.60,Normal Dialog Text,,0,0,0,,{\rCHS}好了 不要忘记尿布包放在那儿\N{\rENG}Okay, don't forget, diaper bag's over there, 
+Dialogue: 100,0:04:46.63,0:04:47.80,Normal Dialog Text,,0,0,0,,{\rCHS}零食放在这儿的\N{\rENG}snacks are over there. 
+Dialogue: 100,0:04:47.83,0:04:49.90,Normal Dialog Text,,0,0,0,,{\rCHS}应急号码贴在冰箱上的\N{\rENG}Emergency number's on the fridge. 
+Dialogue: 100,0:04:49.93,0:04:52.40,Normal Dialog Text,,0,0,0,,{\rCHS}还有 如果我的孩子出了什么意外\N{\rENG}And if anything bad happens to my kid, 
+Dialogue: 100,0:04:52.43,0:04:54.70,Normal Dialog Text,,0,0,0,,{\rCHS}那你最好祈祷你的宇宙神奇女友\N{\rENG}you better pray your space goddess'magic
+Dialogue: 100,0:04:54.74,0:04:56.47,Normal Dialog Text,,0,0,0,,{\rCHS}有起死回生的能力\N{\rENG}can bring people back from the dead, 
+Dialogue: 100,0:04:56.51,0:04:59.41,Normal Dialog Text,,0,0,0,,{\rCHS}因为我会灭了你\N{\rENG}because I will destroy you. 
+Dialogue: 100,0:04:59.44,0:05:01.48,Normal Dialog Text,,0,0,0,,{\rCHS}...工作愉快 \N{\rENG}Have fun at work. 
+Dialogue: 100,0:05:01.51,0:05:03.21,Normal Dialog Text,,0,0,0,,{\rCHS}好了 怎么样酸奶油\N{\rENG}So, how about it, Sour Cream, 
+Dialogue: 100,0:05:03.21,0:05:06.32,Normal Dialog Text,,0,0,0,,{\rCHS}准备好和你潇洒的叔叔度过一天吗\N{\rENG}you ready to spend the day with your rad Unkie Greg? 
+Dialogue: 100,0:05:07.65,0:05:09.88,Normal Dialog Text,,0,0,0,,{\rCHS}你可真像维达利亚啊 不是吗\N{\rENG}You really are Vidalia's son, aren't you? 
+Dialogue: 100,0:05:09.92,0:05:11.42,Normal Dialog Text,,0,0,0,,{\rCHS}好啦\N{\rENG} There you go. 
+Dialogue: 100,0:05:11.45,0:05:15.59,Normal Dialog Text,,0,0,0,,{\rCHS}小酸奶油 来见识一下防晒霜\N{\rENG}Okay. Baby Sour Cream, meet sun screen. 
+Dialogue: 100,0:05:15.63,0:05:17.69,Normal Dialog Text,,0,0,0,,{\rCHS}噢 不能忘了这个\N{\rENG}Oh, can't forget these! 
+Dialogue: 100,0:05:19.43,0:05:21.76,Normal Dialog Text,,0,0,0,,{\rCHS}你真是个炫酷的小孩儿\N{\rENG}You're one cool baby! 
+Dialogue: 100,0:05:21.80,0:05:23.50,Normal Dialog Text,,0,0,0,,{\rCHS}嗨 葛瑞格\N{\rENG}Hi, Greg! 
+Dialogue: 100,0:05:23.53,0:05:25.60,Normal Dialog Text,,0,0,0,,{\rCHS}嗨 玫瑰\N{\rENG}Hi, Rose. 
+Dialogue: 100,0:05:25.64,0:05:27.44,Normal Dialog Text,,0,0,0,,{\rCHS}葛瑞格\N{\rENG}Greg! 
+Dialogue: 100,0:05:27.47,0:05:29.70,Normal Dialog Text,,0,0,0,,{\rCHS}这个小型人类是在哪里找来的\N{\rENG}Where did you get this mini human from? 
+Dialogue: 100,0:05:29.74,0:05:31.51,Normal Dialog Text,,0,0,0,,{\rCHS}噢 这是酸奶油\N{\rENG}Oh, this is Sour Cream. 
+Dialogue: 100,0:05:31.54,0:05:32.64,Normal Dialog Text,,0,0,0,,{\rCHS}是你把他制造出来的吗\N{\rENG}Did you make him? 
+Dialogue: 100,0:05:32.68,0:05:34.18,Normal Dialog Text,,0,0,0,,{\rCHS}啥?\N{\rENG}Wh-what? 
+Dialogue: 100,0:05:34.21,0:05:37.81,Normal Dialog Text,,0,0,0,,{\rCHS}不是 我只是在帮维达利亚带孩子\N{\rENG}No. I'm just babysitting for Vidalia. 
+Dialogue: 100,0:05:37.85,0:05:39.72,Normal Dialog Text,,0,0,0,,{\rCHS}嗨 酸奶油\N{\rENG}Hi, Sour Cream. 
+Dialogue: 100,0:05:39.75,0:05:41.32,Normal Dialog Text,,0,0,0,,{\rCHS}我是玫瑰\N{\rENG}I'm Rose. 
+Dialogue: 100,0:05:42.75,0:05:45.49,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 我们来教他怎样正确地在沙滩嗨吧\N{\rENG}Hey, let's show this baby how to beach it. 
+Dialogue: 100,0:05:45.52,0:05:46.59,Normal Dialog Text,,0,0,0,,{\rCHS}好啊\N{\rENG}Yeah! 
+Dialogue: 100,0:05:49.89,0:05:53.50,Normal Dialog Text,,0,0,0,,{\rCHS}真是太棒了\N{\rENG}That feels great! 
+Dialogue: 100,0:05:53.53,0:05:55.60,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 酸奶油 看这边\N{\rENG}Hey, Sour Cream, look at me. 
+Dialogue: 100,0:05:55.63,0:05:57.93,Normal Dialog Text,,0,0,0,,{\rCHS}我是个沙人\N{\rENG}I'm a sand man! 
+Dialogue: 100,0:06:01.64,0:06:03.74,Normal Dialog Text,,0,0,0,,{\rCHS}我想他大概就是喜欢干坐在这块毯子上吧\N{\rENG}I guess he just likes siting on this blanket. 
 Dialogue: 100,0:06:08.41,0:06:12.48,Normal Dialog Text,,0,0,0,,{\rCHS}你绝对不会猜到我花了多长时间\N{\rENG}You wouldn't believe how long it took me to figure out
-Dialogue: 100,0:06:12.51,0:06:15.68,Normal Dialog Text,,0,0,0,,{\rCHS}才弄明白他和你是同类\N{\rENG}that this and you are the same thing.
-Dialogue: 100,0:06:15.72,0:06:16.99,Normal Dialog Text,,0,0,0,,{\rCHS}什么意思?\N{\rENG}What do you mean?
-Dialogue: 100,0:06:17.02,0:06:18.89,Normal Dialog Text,,0,0,0,,{\rCHS}你们都是人类\N{\rENG}You're both human.
-Dialogue: 100,0:06:18.92,0:06:21.86,Normal Dialog Text,,0,0,0,,{\rCHS}得承认 这挺令人迷惑的\N{\rENG}You have to admit,it's a little confusing.
-Dialogue: 100,0:06:21.89,0:06:23.46,Normal Dialog Text,,0,0,0,,{\rCHS}你长得比较高大 可以说话\N{\rENG}Your big and can talk,
-Dialogue: 100,0:06:23.49,0:06:25.29,Normal Dialog Text,,0,0,0,,{\rCHS}他长得小得多 而且只会咿咿呀呀\N{\rENG}and he's small and can only make noises.
-Dialogue: 100,0:06:25.33,0:06:29.36,Normal Dialog Text,,0,0,0,,{\rCHS}我怎么会想到你们是一个物种呢\N{\rENG}How was I supposed to know you were the same species?
-Dialogue: 100,0:06:29.40,0:06:31.37,Normal Dialog Text,,0,0,0,,{\rCHS}怎么了\N{\rENG}What?
-Dialogue: 100,0:06:31.40,0:06:33.30,Normal Dialog Text,,0,0,0,,{\rCHS}我知道这听起来挺傻气的\N{\rENG}I know, it's silly.
-Dialogue: 100,0:06:33.34,0:06:37.67,Normal Dialog Text,,0,0,0,,{\rCHS}但是后来我注意到你会成长\N{\rENG}But then I started to notice that you grow.
-Dialogue: 100,0:06:37.71,0:06:40.74,Normal Dialog Text,,0,0,0,,{\rCHS}嘛 我要是只有和婴儿一样大的手可玩不了吉他啊\N{\rENG}Well, can't play guitar with little baby hands.
-Dialogue: 100,0:06:43.65,0:06:46.48,Normal Dialog Text,,0,0,0,,{\rCHS}每一个宝石人的诞生都是目的性的\N{\rENG}When a gem is made,it's for a reason.
+Dialogue: 100,0:06:12.51,0:06:15.68,Normal Dialog Text,,0,0,0,,{\rCHS}才弄明白他和你是同类\N{\rENG}that this and you are the same thing. 
+Dialogue: 100,0:06:15.72,0:06:16.99,Normal Dialog Text,,0,0,0,,{\rCHS}什么意思?\N{\rENG}What do you mean? 
+Dialogue: 100,0:06:17.02,0:06:18.89,Normal Dialog Text,,0,0,0,,{\rCHS}你们都是人类\N{\rENG}You're both human. 
+Dialogue: 100,0:06:18.92,0:06:21.86,Normal Dialog Text,,0,0,0,,{\rCHS}得承认 这挺令人迷惑的\N{\rENG}You have to admit, it's a little confusing. 
+Dialogue: 100,0:06:21.89,0:06:23.46,Normal Dialog Text,,0,0,0,,{\rCHS}你长得比较高大 可以说话\N{\rENG}Your big and can talk, 
+Dialogue: 100,0:06:23.49,0:06:25.29,Normal Dialog Text,,0,0,0,,{\rCHS}他长得小得多 而且只会咿咿呀呀\N{\rENG}and he's small and can only make noises. 
+Dialogue: 100,0:06:25.33,0:06:29.36,Normal Dialog Text,,0,0,0,,{\rCHS}我怎么会想到你们是一个物种呢\N{\rENG}How was I supposed to know you were the same species? 
+Dialogue: 100,0:06:29.40,0:06:31.37,Normal Dialog Text,,0,0,0,,{\rCHS}怎么了\N{\rENG}What? 
+Dialogue: 100,0:06:31.40,0:06:33.30,Normal Dialog Text,,0,0,0,,{\rCHS}我知道这听起来挺傻气的\N{\rENG}I know, it's silly. 
+Dialogue: 100,0:06:33.34,0:06:37.67,Normal Dialog Text,,0,0,0,,{\rCHS}但是后来我注意到你会成长\N{\rENG}But then I started to notice that you grow. 
+Dialogue: 100,0:06:37.71,0:06:40.74,Normal Dialog Text,,0,0,0,,{\rCHS}嘛 我要是只有和婴儿一样大的手可玩不了吉他啊\N{\rENG}Well, can't play guitar with little baby hands. 
+Dialogue: 100,0:06:43.65,0:06:46.48,Normal Dialog Text,,0,0,0,,{\rCHS}每一个宝石人的诞生都是目的性的\N{\rENG}When a gem is made, it's for a reason. 
 Dialogue: 100,0:06:46.52,0:06:47.48,Normal Dialog Text,,0,0,0,,{\rCHS}当她们从土里出来的那一刻起\N{\rENG}They burst out of the ground
 Dialogue: 100,0:06:47.52,0:06:52.42,Normal Dialog Text,,0,0,0,,{\rCHS}就已经知晓自己的使命\N{\rENG}already knowing what they're supposed to be, and then...
-Dialogue: 100,0:06:52.45,0:06:54.76,Normal Dialog Text,,0,0,0,,{\rCHS}而那就是她们一辈子注定的\N{\rENG}that's what they are.
-Dialogue: 100,0:06:54.79,0:06:56.52,Normal Dialog Text,,0,0,0,,{\rCHS}命运了\N{\rENG}Forever.
-Dialogue: 100,0:06:56.56,0:06:59.83,Normal Dialog Text,,0,0,0,,{\rCHS}但是你呢 注定会有所改变\N{\rENG}But you, you're supposed to change.
-Dialogue: 100,0:06:59.86,0:07:03.50,Normal Dialog Text,,0,0,0,,{\rCHS}每时每刻的你都是不一样的\N{\rENG}You're never the same even moment to moment --
-Dialogue: 100,0:07:03.50,0:07:06.40,Normal Dialog Text,,0,0,0,,{\rCHS}人们允许并支持你走自己想要的路\N{\rENG}you're allowed and expected to invent who you are.
-Dialogue: 100,0:07:06.44,0:07:13.58,Normal Dialog Text,,0,0,0,,{\rCHS}可以"成长"的能力--这是多么不可思议的力量啊\N{\rENG}What an incredible power --the ability to "grow up."
-Dialogue: 100,0:07:14.94,0:07:17.35,Normal Dialog Text,,0,0,0,,{\rCHS}这些话写进歌词一定不错\N{\rENG}Those would make\Nsome pretty good lyrics.
-Dialogue: 100,0:07:17.38,0:07:18.95,Normal Dialog Text,,0,0,0,,{\rCHS}等一下 帮我看一会儿酸奶油\N{\rENG}Hold on. Watch Sour Cream a second.
-Dialogue: 100,0:07:18.98,0:07:20.78,Normal Dialog Text,,0,0,0,,{\rCHS}我要把那些话写下来\N{\rENG}I got to write this down!
-Dialogue: 100,0:07:23.49,0:07:25.02,Normal Dialog Text,,0,0,0,,{\rCHS}好了 你刚才都说了些什么\N{\rENG}All right, what were you saying?
-Dialogue: 100,0:07:25.05,0:07:28.89,Normal Dialog Text,,0,0,0,,{\rCHS}那些深奥但也还算雅俗共赏的玩意儿\N{\rENG}Something really profound,yet relatable?
-Dialogue: 100,0:07:31.03,0:07:34.96,Normal Dialog Text,,0,0,0,,{\rCHS}天了噜 维达利亚会灭了我的\N{\rENG}Oh, my gosh!Vidalia is gonna destroy me!
-Dialogue: 100,0:07:35.00,0:07:36.97,Normal Dialog Text,,0,0,0,,{\rCHS}酸奶油\N{\rENG}Sour Cream!
-Dialogue: 100,0:07:37.00,0:07:38.80,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰\N{\rENG}Rose!
-Dialogue: 100,0:07:38.83,0:07:40.64,Normal Dialog Text,,0,0,0,,{\rCHS}你们在哪\N{\rENG}Where are you guys?!
-Dialogue: 100,0:07:41.80,0:07:42.87,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰\N{\rENG}Rose!
-Dialogue: 100,0:07:43.91,0:07:45.57,Normal Dialog Text,,0,0,0,,{\rCHS}酸奶油\N{\rENG}Sour cream?!
-Dialogue: 100,0:07:45.61,0:07:47.44,Normal Dialog Text,,0,0,0,,{\rCHS}你们在这里吗\N{\rENG}Are y'all up there?!
-Dialogue: 100,0:07:47.48,0:07:51.38,Normal Dialog Text,,0,0,0,,{\rCHS}酸奶油\N{\rENG}Sour Cream!
+Dialogue: 100,0:06:52.45,0:06:54.76,Normal Dialog Text,,0,0,0,,{\rCHS}而那就是她们一辈子注定的\N{\rENG}that's what they are. 
+Dialogue: 100,0:06:54.79,0:06:56.52,Normal Dialog Text,,0,0,0,,{\rCHS}命运了\N{\rENG}Forever. 
+Dialogue: 100,0:06:56.56,0:06:59.83,Normal Dialog Text,,0,0,0,,{\rCHS}但是你呢 注定会有所改变\N{\rENG}But you, you're supposed to change. 
+Dialogue: 100,0:06:59.86,0:07:03.50,Normal Dialog Text,,0,0,0,,{\rCHS}每时每刻的你都是不一样的\N{\rENG}You're never the same even moment to moment--
+Dialogue: 100,0:07:03.50,0:07:06.40,Normal Dialog Text,,0,0,0,,{\rCHS}人们允许并支持你走自己想要的路\N{\rENG}you're allowed and expected to invent who you are. 
+Dialogue: 100,0:07:06.44,0:07:13.58,Normal Dialog Text,,0,0,0,,{\rCHS}可以"成长"的能力--这是多么不可思议的力量啊\N{\rENG}What an incredible power--the ability to "grow up."
+Dialogue: 100,0:07:14.94,0:07:17.35,Normal Dialog Text,,0,0,0,,{\rCHS}这些话写进歌词一定不错\N{\rENG}Those would make\Nsome pretty good lyrics. 
+Dialogue: 100,0:07:17.38,0:07:18.95,Normal Dialog Text,,0,0,0,,{\rCHS}等一下 帮我看一会儿酸奶油\N{\rENG}Hold on. Watch Sour Cream a second. 
+Dialogue: 100,0:07:18.98,0:07:20.78,Normal Dialog Text,,0,0,0,,{\rCHS}我要把那些话写下来\N{\rENG}I got to write this down! 
+Dialogue: 100,0:07:23.49,0:07:25.02,Normal Dialog Text,,0,0,0,,{\rCHS}好了 你刚才都说了些什么\N{\rENG}All right, what were you saying? 
+Dialogue: 100,0:07:25.05,0:07:28.89,Normal Dialog Text,,0,0,0,,{\rCHS}那些深奥但也还算雅俗共赏的玩意儿\N{\rENG}Something really profound, yet relatable? 
+Dialogue: 100,0:07:31.03,0:07:34.96,Normal Dialog Text,,0,0,0,,{\rCHS}天了噜 维达利亚会灭了我的\N{\rENG}Oh, my gosh! Vidalia is gonna destroy me! 
+Dialogue: 100,0:07:35.00,0:07:36.97,Normal Dialog Text,,0,0,0,,{\rCHS}酸奶油\N{\rENG}Sour Cream! 
+Dialogue: 100,0:07:37.00,0:07:38.80,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰\N{\rENG}Rose! 
+Dialogue: 100,0:07:38.83,0:07:40.64,Normal Dialog Text,,0,0,0,,{\rCHS}你们在哪\N{\rENG}Where are you guys?! 
+Dialogue: 100,0:07:41.80,0:07:42.87,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰\N{\rENG}Rose! 
+Dialogue: 100,0:07:43.91,0:07:45.57,Normal Dialog Text,,0,0,0,,{\rCHS}酸奶油\N{\rENG}Sour cream?! 
+Dialogue: 100,0:07:45.61,0:07:47.44,Normal Dialog Text,,0,0,0,,{\rCHS}你们在这里吗\N{\rENG}Are y'all up there?! 
+Dialogue: 100,0:07:47.48,0:07:51.38,Normal Dialog Text,,0,0,0,,{\rCHS}酸奶油\N{\rENG}Sour Cream! 
 Dialogue: 600,0:07:47.48,0:07:49.50,Hint,,0,0,0,,游戏机上的"Potato Bros"出自"Mario Bros"
-Dialogue: 100,0:07:51.41,0:07:55.05,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰奶油\N{\rENG}Rose cream!
-Dialogue: 100,0:07:55.08,0:07:56.52,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰\N{\rENG}Rose?!
-Dialogue: 100,0:07:56.55,0:07:57.75,Normal Dialog Text,,0,0,0,,{\rCHS}葛瑞格\N{\rENG}Greg.
-Dialogue: 100,0:07:57.79,0:07:58.75,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰\N{\rENG}Rose!
-Dialogue: 100,0:07:58.79,0:08:00.12,Normal Dialog Text,,0,0,0,,{\rCHS}哇 你看起来非常疲惫\N{\rENG}Wow, you look tired.
-Dialogue: 100,0:08:00.16,0:08:02.06,Normal Dialog Text,,0,0,0,,{\rCHS}谢天谢地 我终于找到你们两 --\N{\rENG}Thank goodness I found\Nthe both --
-Dialogue: 100,0:08:02.09,0:08:03.56,Normal Dialog Text,,0,0,0,,{\rCHS}酸奶油呢\N{\rENG}Where's Sour Cream?!
-Dialogue: 100,0:08:03.59,0:08:05.13,Normal Dialog Text,,0,0,0,,{\rCHS}我以为你已经答应了帮我看着他\N{\rENG}I thought you were gonna watch him for me!
-Dialogue: 100,0:08:05.16,0:08:06.76,Normal Dialog Text,,0,0,0,,{\rCHS}我有看着他啊\N{\rENG}Oh, I watched him.
+Dialogue: 100,0:07:51.41,0:07:55.05,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰奶油\N{\rENG}Rose cream! 
+Dialogue: 100,0:07:55.08,0:07:56.52,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰\N{\rENG}Rose?! 
+Dialogue: 100,0:07:56.55,0:07:57.75,Normal Dialog Text,,0,0,0,,{\rCHS}葛瑞格\N{\rENG}Greg. 
+Dialogue: 100,0:07:57.79,0:07:58.75,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰\N{\rENG}Rose! 
+Dialogue: 100,0:07:58.79,0:08:00.12,Normal Dialog Text,,0,0,0,,{\rCHS}哇 你看起来非常疲惫\N{\rENG}Wow, you look tired. 
+Dialogue: 100,0:08:00.16,0:08:02.06,Normal Dialog Text,,0,0,0,,{\rCHS}谢天谢地 我终于找到你们两--\N{\rENG}Thank goodness I found\Nthe both--
+Dialogue: 100,0:08:02.09,0:08:03.56,Normal Dialog Text,,0,0,0,,{\rCHS}酸奶油呢\N{\rENG}Where's Sour Cream?! 
+Dialogue: 100,0:08:03.59,0:08:05.13,Normal Dialog Text,,0,0,0,,{\rCHS}我以为你已经答应了帮我看着他\N{\rENG}I thought you were gonna watch him for me! 
+Dialogue: 100,0:08:05.16,0:08:06.76,Normal Dialog Text,,0,0,0,,{\rCHS}我有看着他啊\N{\rENG}Oh, I watched him. 
 Dialogue: 100,0:08:06.80,0:08:09.10,Normal Dialog Text,,0,0,0,,{\rCHS}我一直看着他爬到了...\N{\rENG}I watched him climb all the way...
-Dialogue: 100,0:08:09.13,0:08:12.40,Normal Dialog Text,,0,0,0,,{\rCHS}那里\N{\rENG}up there.
-Dialogue: 600,0:08:12.44,0:08:14.04,Hint,,0,0,0,,∑(っ °Д °;)っ
-Dialogue: 100,0:08:14.07,0:08:15.64,Normal Dialog Text,,0,0,0,,{\rCHS}这不是很刺激吗\N{\rENG}Isn't this exciting?
-Dialogue: 100,0:08:15.67,0:08:18.44,Normal Dialog Text,,0,0,0,,{\rCHS}对他来说一定是一次建设性的体验\N{\rENG}This'll be a formative experience for him.
-Dialogue: 100,0:08:18.47,0:08:20.04,Normal Dialog Text,,0,0,0,,{\rCHS}如果他掉下来就不会是了\N{\rENG}Well, not if he falls!
-Dialogue: 100,0:08:20.08,0:08:21.08,Normal Dialog Text,,0,0,0,,{\rCHS}快来\N{\rENG}Come on!
-Dialogue: 100,0:08:21.11,0:08:22.08,Normal Dialog Text,,0,0,0,,{\rCHS}好的\N{\rENG}Okay.
-Dialogue: 100,0:08:22.11,0:08:23.68,Normal Dialog Text,,0,0,0,,{\rCHS}我会试着把他抱下来\N{\rENG}I'll try and get him down.
-Dialogue: 100,0:08:31.72,0:08:36.12,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 小酸奶油 坐着别动\N{\rENG}Hey, Baby Cream,stay right there.
-Dialogue: 100,0:08:37.73,0:08:40.03,Normal Dialog Text,,0,0,0,,{\rCHS}你是怎么能够这么淡定的\N{\rENG}How can you be so calm right now?
-Dialogue: 100,0:08:40.06,0:08:42.40,Normal Dialog Text,,0,0,0,,{\rCHS}呃 我要怎么下...\N{\rENG}Uh... How do I get...
-Dialogue: 100,0:08:44.50,0:08:45.60,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰\N{\rENG}Rose!
-Dialogue: 100,0:08:45.64,0:08:46.77,Normal Dialog Text,,0,0,0,,{\rCHS}救我下来\N{\rENG}Help me out!
-Dialogue: 100,0:08:46.80,0:08:48.70,Normal Dialog Text,,0,0,0,,{\rCHS}那儿是不是有控制台\N{\rENG}Are those the controls over there?
-Dialogue: 100,0:08:48.74,0:08:50.77,Normal Dialog Text,,0,0,0,,{\rCHS}对 是的 坚持一下\N{\rENG}Right, yes. Hold on.
-Dialogue: 100,0:08:50.81,0:08:52.74,Normal Dialog Text,,0,0,0,,{\rCHS}我觉得你得拉一下某个操纵杆\N{\rENG}I think you got to pull one of those levers!
-Dialogue: 100,0:08:52.78,0:08:54.01,Normal Dialog Text,,0,0,0,,{\rCHS}这个吗\N{\rENG}This one?
-Dialogue: 100,0:08:54.04,0:08:58.08,Normal Dialog Text,,0,0,0,,{\rCHS}喔啊 现在 呃 转的有点太快了\N{\rENG}Whoa! It's, uh, going a little too fast.
-Dialogue: 100,0:08:58.11,0:09:00.92,Normal Dialog Text,,0,0,0,,{\rCHS}坚持住啊 酸奶油\N{\rENG}Hold on, Sour Cream.
-Dialogue: 100,0:09:04.69,0:09:08.49,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰 快把我从这作孽的玩意上救下来啊\N{\rENG}Rose, get me off this crazy thing!
-Dialogue: 600,0:09:06.49,0:09:08.49,Hint,,0,0,0,,格雷格的话出自经典动画"摩登家庭",其中一个未来的丈夫被困在一个不停旋转的发明上,向未来的老婆求救
-Dialogue: 100,0:09:08.52,0:09:11.03,Normal Dialog Text,,0,0,0,,{\rCHS}呃啊 给我放开葛瑞格\N{\rENG}Ugh!Leave Greg alone!
-Dialogue: 100,0:09:16.63,0:09:18.47,Normal Dialog Text,,0,0,0,,{\rCHS}不-误-误-误--\N{\rENG}No-o-o-o-o-o!
-Dialogue: 100,0:09:18.50,0:09:19.63,Normal Dialog Text,,0,0,0,,{\rCHS}葛瑞格\N{\rENG}Greg!
-Dialogue: 100,0:09:22.64,0:09:23.61,Normal Dialog Text,,0,0,0,,{\rCHS}葛瑞格\N{\rENG}Greg.
-Dialogue: 100,0:09:23.64,0:09:25.14,Normal Dialog Text,,0,0,0,,{\rCHS}酸奶油\N{\rENG}Sour Cream!
-Dialogue: 100,0:09:25.17,0:09:27.74,Normal Dialog Text,,0,0,0,,{\rCHS}呼 还好他没事\N{\rENG}Whew!He's safe.
-Dialogue: 100,0:09:29.08,0:09:31.01,Normal Dialog Text,,0,0,0,,{\rCHS}你为什么会让他爬那个东西\N{\rENG}Why did you let him climb that thing?
-Dialogue: 100,0:09:31.05,0:09:31.68,Normal Dialog Text,,0,0,0,,{\rCHS}他想爬啊\N{\rENG}He wanted to.
-Dialogue: 100,0:09:31.71,0:09:35.78,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰 你不能任由他随心所欲地做事\N{\rENG}Well, Rose, you can't just let him do whatever he wants.
-Dialogue: 100,0:09:35.82,0:09:38.65,Normal Dialog Text,,0,0,0,,{\rCHS}但是你不也是这样的吗 而且你也挺好的\N{\rENG}But you do whatever you want, and you're fine.
-Dialogue: 100,0:09:38.69,0:09:40.35,Normal Dialog Text,,0,0,0,,{\rCHS}确实 但是我不是一个小孩儿啊\N{\rENG}Yeah, but I'm not a baby.
+Dialogue: 100,0:08:09.13,0:08:12.40,Normal Dialog Text,,0,0,0,,{\rCHS}那里\N{\rENG}up there. 
+Dialogue: 600,0:08:12.44,0:08:14.04,Hint,,0,0,0,,∑( っ °Д °;) っ
+Dialogue: 100,0:08:14.07,0:08:15.64,Normal Dialog Text,,0,0,0,,{\rCHS}这不是很刺激吗\N{\rENG}Isn't this exciting? 
+Dialogue: 100,0:08:15.67,0:08:18.44,Normal Dialog Text,,0,0,0,,{\rCHS}对他来说一定是一次建设性的体验\N{\rENG}This'll be a formative experience for him. 
+Dialogue: 100,0:08:18.47,0:08:20.04,Normal Dialog Text,,0,0,0,,{\rCHS}如果他掉下来就不会是了\N{\rENG}Well, not if he falls! 
+Dialogue: 100,0:08:20.08,0:08:21.08,Normal Dialog Text,,0,0,0,,{\rCHS}快来\N{\rENG}Come on! 
+Dialogue: 100,0:08:21.11,0:08:22.08,Normal Dialog Text,,0,0,0,,{\rCHS}好的\N{\rENG}Okay. 
+Dialogue: 100,0:08:22.11,0:08:23.68,Normal Dialog Text,,0,0,0,,{\rCHS}我会试着把他抱下来\N{\rENG}I'll try and get him down. 
+Dialogue: 100,0:08:31.72,0:08:36.12,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 小酸奶油 坐着别动\N{\rENG}Hey, Baby Cream, stay right there. 
+Dialogue: 100,0:08:37.73,0:08:40.03,Normal Dialog Text,,0,0,0,,{\rCHS}你是怎么能够这么淡定的\N{\rENG}How can you be so calm right now? 
+Dialogue: 100,0:08:40.06,0:08:42.40,Normal Dialog Text,,0,0,0,,{\rCHS}呃 我要怎么下...\N{\rENG}Uh...How do I get...
+Dialogue: 100,0:08:44.50,0:08:45.60,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰\N{\rENG}Rose! 
+Dialogue: 100,0:08:45.64,0:08:46.77,Normal Dialog Text,,0,0,0,,{\rCHS}救我下来\N{\rENG}Help me out! 
+Dialogue: 100,0:08:46.80,0:08:48.70,Normal Dialog Text,,0,0,0,,{\rCHS}那儿是不是有控制台\N{\rENG}Are those the controls over there? 
+Dialogue: 100,0:08:48.74,0:08:50.77,Normal Dialog Text,,0,0,0,,{\rCHS}对 是的 坚持一下\N{\rENG}Right, yes. Hold on. 
+Dialogue: 100,0:08:50.81,0:08:52.74,Normal Dialog Text,,0,0,0,,{\rCHS}我觉得你得拉一下某个操纵杆\N{\rENG}I think you got to pull one of those levers! 
+Dialogue: 100,0:08:52.78,0:08:54.01,Normal Dialog Text,,0,0,0,,{\rCHS}这个吗\N{\rENG}This one? 
+Dialogue: 100,0:08:54.04,0:08:58.08,Normal Dialog Text,,0,0,0,,{\rCHS}喔啊 现在 呃 转的有点太快了\N{\rENG}Whoa! It's, uh, going a little too fast. 
+Dialogue: 100,0:08:58.11,0:09:00.92,Normal Dialog Text,,0,0,0,,{\rCHS}坚持住啊 酸奶油\N{\rENG}Hold on, Sour Cream. 
+Dialogue: 100,0:09:04.69,0:09:08.49,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰 快把我从这作孽的玩意上救下来啊\N{\rENG}Rose, get me off this crazy thing! 
+Dialogue: 600,0:09:06.49,0:09:08.49,Hint,,0,0,0,,格雷格的话出自经典动画"摩登家庭"其中一个未来的丈夫被困在一个不停旋转的发明上 向未来的老婆求救
+Dialogue: 100,0:09:08.52,0:09:11.03,Normal Dialog Text,,0,0,0,,{\rCHS}呃啊 给我放开葛瑞格\N{\rENG}Ugh! Leave Greg alone! 
+Dialogue: 100,0:09:16.63,0:09:18.47,Normal Dialog Text,,0,0,0,,{\rCHS}不-误-误-误--\N{\rENG}No-o-o-o-o-o! 
+Dialogue: 100,0:09:18.50,0:09:19.63,Normal Dialog Text,,0,0,0,,{\rCHS}葛瑞格\N{\rENG}Greg! 
+Dialogue: 100,0:09:22.64,0:09:23.61,Normal Dialog Text,,0,0,0,,{\rCHS}葛瑞格\N{\rENG}Greg. 
+Dialogue: 100,0:09:23.64,0:09:25.14,Normal Dialog Text,,0,0,0,,{\rCHS}酸奶油\N{\rENG}Sour Cream! 
+Dialogue: 100,0:09:25.17,0:09:27.74,Normal Dialog Text,,0,0,0,,{\rCHS}呼 还好他没事\N{\rENG}Whew! He's safe. 
+Dialogue: 100,0:09:29.08,0:09:31.01,Normal Dialog Text,,0,0,0,,{\rCHS}你为什么会让他爬那个东西\N{\rENG}Why did you let him climb that thing? 
+Dialogue: 100,0:09:31.05,0:09:31.68,Normal Dialog Text,,0,0,0,,{\rCHS}他想爬啊\N{\rENG}He wanted to. 
+Dialogue: 100,0:09:31.71,0:09:35.78,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰 你不能任由他随心所欲地做事\N{\rENG}Well, Rose, you can't just let him do whatever he wants. 
+Dialogue: 100,0:09:35.82,0:09:38.65,Normal Dialog Text,,0,0,0,,{\rCHS}但是你不也是这样的吗 而且你也挺好的\N{\rENG}But you do whatever you want, and you're fine. 
+Dialogue: 100,0:09:38.69,0:09:40.35,Normal Dialog Text,,0,0,0,,{\rCHS}确实 但是我不是一个小孩儿啊\N{\rENG}Yeah, but I'm not a baby. 
 Dialogue: 100,0:09:40.54,0:09:43.76,Normal Dialog Text,,0,0,0,,{\rCHS}我不用别人来喂我或者帮我换衣服\N{\rENG}I don't need someone to feed me or change my clothes
 Dialogue: 100,0:09:43.79,0:09:45.53,Normal Dialog Text,,0,0,0,,{\rCHS}当我爬上个摩天轮\N{\rENG}I don't need someone to save me
 Dialogue: 100,0:09:45.56,0:09:48.76,Normal Dialog Text,,0,0,0,,{\rCHS}我也不需要别人来救...\N{\rENG}when I climb on to a Ferris wheel and...
-Dialogue: 100,0:09:48.80,0:09:50.03,Normal Dialog Text,,0,0,0,,{\rCHS}诶玛\N{\rENG}Oh, man.
-Dialogue: 100,0:09:50.07,0:09:51.80,Normal Dialog Text,,0,0,0,,{\rCHS}我就是个小孩儿\N{\rENG}I'm a baby.
-Dialogue: 100,0:09:51.83,0:09:53.57,Normal Dialog Text,,0,0,0,,{\rCHS}你想现在下来吗\N{\rENG}Do you want to get down?
-Dialogue: 100,0:09:53.60,0:09:54.50,Normal Dialog Text,,0,0,0,,{\rCHS}嗯\N{\rENG}Yeah.
-Dialogue: 100,0:09:54.54,0:09:59.87,Normal Dialog Text,,0,0,0,,{\rCHS}噢 看看你自己 跟葛瑞格玩的开心吗 酸奶油\N{\rENG}Aw, look at you. Did you have fun with Greg, Sour Cream?
-Dialogue: 100,0:09:59.91,0:10:01.44,Normal Dialog Text,,0,0,0,,{\rCHS}当然\N{\rENG}Oh, yeah.
-Dialogue: 100,0:10:01.48,0:10:04.21,Normal Dialog Text,,0,0,0,,{\rCHS}在葛瑞格叔叔身边 只有安全健康的欢乐\N{\rENG}Nothing but safe wholesome fun with Unkie Greg.
-Dialogue: 100,0:10:05.91,0:10:07.78,Normal Dialog Text,,0,0,0,,{\rCHS}听着 维达利亚\N{\rENG}Listen, Vidalia,
-Dialogue: 100,0:10:07.82,0:10:10.99,Normal Dialog Text,,0,0,0,,{\rCHS}呃 谢谢你提供的食物和其他东西\N{\rENG}um, thanks for the food and everything else.
-Dialogue: 100,0:10:11.02,0:10:13.52,Normal Dialog Text,,0,0,0,,{\rCHS}今天一天我过得非常充实\N{\rENG}Today has been quite a journey.
-Dialogue: 100,0:10:13.56,0:10:15.66,Normal Dialog Text,,0,0,0,,{\rCHS}好...吧\N{\rENG}Okay?
-Dialogue: 100,0:10:15.69,0:10:17.06,Normal Dialog Text,,0,0,0,,{\rCHS}你的衣服已经洗干净了\N{\rENG}Your shirt's clean.
-Dialogue: 100,0:10:17.09,0:10:18.83,Normal Dialog Text,,0,0,0,,{\rCHS}你是要拿回来 还是想就这么\N{\rENG}You want it back,or are you just gonna go
-Dialogue: 100,0:10:18.86,0:10:20.13,Normal Dialog Text,,0,0,0,,{\rCHS}赤膊漫步?\N{\rENG}for a topless stroll?
-Dialogue: 100,0:10:20.16,0:10:23.03,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 有时候我们总要长大的 是吧\N{\rENG}Hey, we all got to grow up sometime, right?
-Dialogue: 100,0:10:23.07,0:10:25.77,Normal Dialog Text,,0,0,0,,{\rCHS}答非所问是几个意思\N{\rENG}That's not really relevant to my question.
+Dialogue: 100,0:09:48.80,0:09:50.03,Normal Dialog Text,,0,0,0,,{\rCHS}诶玛\N{\rENG}Oh, man. 
+Dialogue: 100,0:09:50.07,0:09:51.80,Normal Dialog Text,,0,0,0,,{\rCHS}我就是个小孩儿\N{\rENG}I'm a baby. 
+Dialogue: 100,0:09:51.83,0:09:53.57,Normal Dialog Text,,0,0,0,,{\rCHS}你想现在下来吗\N{\rENG}Do you want to get down? 
+Dialogue: 100,0:09:53.60,0:09:54.50,Normal Dialog Text,,0,0,0,,{\rCHS}嗯\N{\rENG}Yeah. 
+Dialogue: 100,0:09:54.54,0:09:59.87,Normal Dialog Text,,0,0,0,,{\rCHS}噢 看看你自己 跟葛瑞格玩的开心吗 酸奶油\N{\rENG}Aw, look at you. Did you have fun with Greg, Sour Cream? 
+Dialogue: 100,0:09:59.91,0:10:01.44,Normal Dialog Text,,0,0,0,,{\rCHS}当然\N{\rENG}Oh, yeah. 
+Dialogue: 100,0:10:01.48,0:10:04.21,Normal Dialog Text,,0,0,0,,{\rCHS}在葛瑞格叔叔身边 只有安全健康的欢乐\N{\rENG}Nothing but safe wholesome fun with Unkie Greg. 
+Dialogue: 100,0:10:05.91,0:10:07.78,Normal Dialog Text,,0,0,0,,{\rCHS}听着 维达利亚\N{\rENG}Listen, Vidalia, 
+Dialogue: 100,0:10:07.82,0:10:10.99,Normal Dialog Text,,0,0,0,,{\rCHS}呃 谢谢你提供的食物和其他东西\N{\rENG}um, thanks for the food and everything else. 
+Dialogue: 100,0:10:11.02,0:10:13.52,Normal Dialog Text,,0,0,0,,{\rCHS}今天一天我过得非常充实\N{\rENG}Today has been quite a journey. 
+Dialogue: 100,0:10:13.56,0:10:15.66,Normal Dialog Text,,0,0,0,,{\rCHS}好...吧\N{\rENG}Okay? 
+Dialogue: 100,0:10:15.69,0:10:17.06,Normal Dialog Text,,0,0,0,,{\rCHS}你的衣服已经洗干净了\N{\rENG}Your shirt's clean. 
+Dialogue: 100,0:10:17.09,0:10:18.83,Normal Dialog Text,,0,0,0,,{\rCHS}你是要拿回来 还是想就这么\N{\rENG}You want it back, or are you just gonna go
+Dialogue: 100,0:10:18.86,0:10:20.13,Normal Dialog Text,,0,0,0,,{\rCHS}赤膊漫步?\N{\rENG}for a topless stroll? 
+Dialogue: 100,0:10:20.16,0:10:23.03,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 有时候我们总要长大的 是吧\N{\rENG}Hey, we all got to grow up sometime, right? 
+Dialogue: 100,0:10:23.07,0:10:25.77,Normal Dialog Text,,0,0,0,,{\rCHS}答非所问是几个意思\N{\rENG}That's not really relevant to my question. 
 Dialogue: 200,0:10:39.72,0:10:42.82,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我知道我身材不高\N{\rENG_LYC}♪ I know I'm not that tall
 Dialogue: 200,0:10:42.85,0:10:45.15,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我知道我没有聪明绝顶\N{\rENG_LYC}♪ I know I'm not that smart
 Dialogue: 200,0:10:45.19,0:10:48.79,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}让我驾着货车驶入你的洗车间\N{\rENG_LYC}♪ Let me drive my van into your wash ♪
 Dialogue: 200,0:10:48.82,0:10:52.86,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}让我驾着货车驶入你的洗车间\N{\rENG_LYC}♪ Let me drive my van into your wash ♪
-Dialogue: 100,0:10:52.89,0:10:55.66,Normal Dialog Text,,0,0,0,,{\rCHS}哇 所以从此你就在这里工作了\N{\rENG}Wow. And you've worked here ever since.
-Dialogue: 100,0:10:55.70,0:10:57.03,Normal Dialog Text,,0,0,0,,{\rCHS}没错\N{\rENG}That's right.
-Dialogue: 100,0:10:57.07,0:10:59.77,Normal Dialog Text,,0,0,0,,{\rCHS}你懂的 不管愿意与否 人都是要长大的\N{\rENG}You know, people grow,whether they want to or not.
-Dialogue: 100,0:10:59.77,0:11:03.24,Normal Dialog Text,,0,0,0,,{\rCHS}但是成长也是一个人必须做出的决定\N{\rENG}But growing up is something you got to decide to do.
-Dialogue: 100,0:11:03.27,0:11:06.58,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 那小酸奶油又是怎么成长的\N{\rENG}Hey, what ever happened to Baby Sour Cream?
-Dialogue: 100,0:11:06.61,0:11:10.08,Normal Dialog Text,,0,0,0,,{\rCHS}没有人知道\N{\rENG}No one knows.
-Dialogue: 600,0:11:10.08,0:11:12.50,Hint,,0,0,0,,酸奶油婴儿时期的表情出自非常流行的互联网字符表情 ( ͡° ͜ʖ ͡°)
+Dialogue: 100,0:10:52.89,0:10:55.66,Normal Dialog Text,,0,0,0,,{\rCHS}哇 所以从此你就在这里工作了\N{\rENG}Wow. And you've worked here ever since. 
+Dialogue: 100,0:10:55.70,0:10:57.03,Normal Dialog Text,,0,0,0,,{\rCHS}没错\N{\rENG}That's right. 
+Dialogue: 100,0:10:57.07,0:10:59.77,Normal Dialog Text,,0,0,0,,{\rCHS}你懂的 不管愿意与否 人都是要长大的\N{\rENG}You know, people grow, whether they want to or not. 
+Dialogue: 100,0:10:59.77,0:11:03.24,Normal Dialog Text,,0,0,0,,{\rCHS}但是成长也是一个人必须做出的决定\N{\rENG}But growing up is something you got to decide to do. 
+Dialogue: 100,0:11:03.27,0:11:06.58,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 那小酸奶油又是怎么成长的\N{\rENG}Hey, what ever happened to Baby Sour Cream? 
+Dialogue: 100,0:11:06.61,0:11:10.08,Normal Dialog Text,,0,0,0,,{\rCHS}没有人知道\N{\rENG}No one knows. 
+Dialogue: 600,0:11:10.08,0:11:12.50,Hint,,0,0,0,,酸奶油婴儿时期的表情出自非常流行的互联网字符表情 ( ͡° ͜ʖ ͡°) 
+
