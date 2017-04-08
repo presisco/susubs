@@ -30,7 +30,7 @@ Style: Song Lyrics Text,华文楷体,20,&H00EAEAEA,&H000000FF,&H00000000,&H00000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 150,0:00:00.00,0:00:02.50,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们,是水晶\N{\rENG_LYC}♪ We ♪ are the crystal
+Dialogue: 150,0:00:00.00,0:00:02.50,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们 是水晶\N{\rENG_LYC}♪ We ♪ are the crystal
 Dialogue: 150,0:00:02.51,0:00:03.48,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}战士\N{\rENG_LYC}♪ gems
 Dialogue: 150,0:00:03.48,0:00:05.94,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们总能拯救世界\N{\rENG_LYC}♪ we'll always save the day
 Dialogue: 150,0:00:05.94,0:00:08.42,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}如果你认为我们不行\N{\rENG_LYC}♪ and if you think we can't, ♪

@@ -16,9 +16,8 @@ Video File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E07.Love.Letter
 Video AR Mode: 4
 Video AR Value: 1.780669
 Video Zoom Percent: 0.500000
-Scroll Position: 168
-Active Line: 178
-Video Position: 8921
+Active Line: 7
+Video Position: 12675
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -49,7 +48,7 @@ Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,320)}UUU字�
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,380)}翻译
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,440)}presisco
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,500)}校对
-Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,560)}
+Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,560)}Husky
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,620)}特效
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,680)}presisco
 Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,740)}压制
@@ -109,7 +108,7 @@ Dialogue: 100,0:01:50.62,0:01:53.19,Normal Dialog Text,,0,0,0,,{\rCHS}你怎么�
 Dialogue: 100,0:01:53.62,0:01:54.74,Normal Dialog Text,,0,0,0,,{\rCHS}很简单\N{\rENG}It was easy.
 Dialogue: 100,0:01:55.22,0:01:57.64,Normal Dialog Text,,0,0,0,,{\rCHS}我擅长游泳\N{\rENG}I'm a really good swimmer.
 Dialogue: 100,0:01:59.60,0:02:00.70,Normal Dialog Text,,0,0,0,,{\rCHS}打扰一下\N{\rENG}Excuse me.
-Dialogue: 600,0:02:00.70,0:02:03.20,Hint,,0,0,0,,石榴去除体表水分的动作源自 "歪小子斯科特" 
+Dialogue: 600,0:02:00.70,0:02:03.20,Hint,,0,0,0,,石榴去除体表水分的动作源自 "歪小子斯科特"
 Dialogue: 100,0:02:05.66,0:02:06.64,Normal Dialog Text,,0,0,0,,{\rCHS}呃, 史蒂文\N{\rENG}Uh, Steven,
 Dialogue: 100,0:02:07.32,0:02:10.16,Normal Dialog Text,,0,0,0,,{\rCHS}为什么你会收到那么多盒海人? \N{\rENG}why did you receive so many boxes of sea pals?
 Dialogue: 100,0:02:10.46,0:02:12.95,Normal Dialog Text,,0,0,0,,{\rCHS}呃, 我一开始只订了一盒, 但一直没收到\N{\rENG}Uh, I ordered one at first, but it never showed up.
@@ -207,8 +206,8 @@ Dialogue: 100,0:05:31.40,0:05:33.72,Normal Dialog Text,,0,0,0,,{\rCHS}日复一�
 Dialogue: 100,0:05:34.28,0:05:35.44,Normal Dialog Text,,0,0,0,,{\rCHS}这就是为什么我回来了\N{\rENG}That's why I came back.
 Dialogue: 100,0:05:35.92,0:05:38.68,Normal Dialog Text,,0,0,0,,{\rCHS}再有一个拒绝就会摧毁我幼小的内心\N{\rENG}One more rejection would have destroyed my fragile heart.
 Dialogue: 100,0:05:41.52,0:05:42.10,Normal Dialog Text,,0,0,0,,{\rCHS}对不起\N{\rENG}Sorry.
-Dialogue: 100,0:05:42.10,0:05:44.82,Normal Dialog Text,,0,0,0,,{\rCHS}有时我会不由自主的深沉装B, 你清楚吗? \N{\rENG}Sometimes, I get caught up in the drama zone, you know?
-Dialogue: 100,0:05:45.30,0:05:48.10,Normal Dialog Text,,0,0,0,,{\rCHS}没错, 深沉装B\N{\rENG}Yeah, right. Drama zone.
+Dialogue: 100,0:05:42.10,0:05:44.82,Normal Dialog Text,,0,0,0,,{\rCHS}有时我会不由自主的演起戏来, 你清楚吗? \N{\rENG}Sometimes, I get caught up in the drama zone, you know?
+Dialogue: 100,0:05:45.30,0:05:48.10,Normal Dialog Text,,0,0,0,,{\rCHS}没错, 演戏\N{\rENG}Yeah, right. Drama zone.
 Dialogue: 100,0:05:48.10,0:05:50.42,Normal Dialog Text,,0,0,0,,{\rCHS}哦, 既然这样, 我有个消息要给你--\N{\rENG}Oh, by the way, we have something for y--
 Dialogue: 100,0:05:50.42,0:05:51.16,Normal Dialog Text,,0,0,0,,{\rCHS}不, 我们没有! \N{\rENG}no, we don't!
 Dialogue: 100,0:05:52.22,0:05:54.50,Normal Dialog Text,,0,0,0,,{\rCHS}我们怎么能在现在把这封信给杰米呢? \N{\rENG}How can we give this letter to Jamie now?
@@ -235,7 +234,7 @@ Dialogue: 100,0:06:33.72,0:06:36.50,Normal Dialog Text,,0,0,0,,{\rCHS}你的, �
 Dialogue: 100,0:06:38.24,0:06:38.72,Normal Dialog Text,,0,0,0,,{\rCHS}完美\N{\rENG}Perfect.
 Dialogue: 100,0:06:43.40,0:06:44.64,Normal Dialog Text,,0,0,0,,{\rCHS}任务完成\N{\rENG}Mission accomplished.
 Dialogue: 100,0:06:47.42,0:06:48.64,Normal Dialog Text,,0,0,0,,{\rCHS}石榴! \N{\rENG}Garnet!
-Dialogue: 600,0:06:47.14,0:06:49.58,Hint,,0,0,0,,此处背景音乐源自 "动物之森" 
+Dialogue: 600,0:06:47.14,0:06:49.58,Hint,,0,0,0,,此处背景音乐源自 "动物之森"
 Dialogue: 100,0:06:49.60,0:06:50.36,Normal Dialog Text,,0,0,0,,{\rCHS}石榴! \N{\rENG}Garnet!
 Dialogue: 100,0:06:50.70,0:06:53.84,Normal Dialog Text,,0,0,0,,{\rCHS}汝何在, 我甜蜜, 炙烤的阳光? \N{\rENG}Where art thou, my sweet scorching sunbeam?
 Dialogue: 100,0:06:54.20,0:06:55.66,Normal Dialog Text,,0,0,0,,{\rCHS}哦, 不! \N{\rENG}Oh, no!
@@ -264,7 +263,7 @@ Dialogue: 100,0:07:43.14,0:07:44.94,Normal Dialog Text,,0,0,0,,{\rCHS}我很抱�
 Dialogue: 100,0:07:45.30,0:07:47.35,Normal Dialog Text,,0,0,0,,{\rCHS}我们只是想让你不要太伤心\N{\rENG}We just wanted to let you down easy.
 Dialogue: 100,0:07:48.62,0:07:51.66,Normal Dialog Text,,0,0,0,,{\rCHS}汝不愿炙烤吾, 吾之爱日? \N{\rENG}Wilst thou not scorch me, my darling sun?
 Dialogue: 100,0:07:52.56,0:07:55.62,Normal Dialog Text,,0,0,0,,{\rCHS}我不会, 以后也不会, 有兴趣\N{\rENG}I am not, nor will I ever be, interested.
-Dialogue: 100,0:07:55.62,0:07:57.20,Normal Dialog Text,,0,0,0,,{\rCHS}gun滚! \N{\rENG}Go away!
+Dialogue: 100,0:07:55.62,0:07:57.20,Normal Dialog Text,,0,0,0,,{\rCHS}走开! \N{\rENG}Go away!
 Dialogue: 100,0:08:00.29,0:08:02.24,Normal Dialog Text,,0,0,0,,{\rCHS}我-我的小心脏啊! \N{\rENG}M-my panache!
 Dialogue: 100,0:08:05.64,0:08:07.94,Normal Dialog Text,,0,0,0,,{\rCHS}杰～米～! \N{\rENG}Jamieeeee!
 Dialogue: 100,0:08:09.60,0:08:10.54,Normal Dialog Text,,0,0,0,,{\rCHS}哦, 天哪\N{\rENG}Oh, boy.
@@ -286,7 +285,7 @@ Dialogue: 100,0:08:41.40,0:08:42.90,Normal Dialog Text,,0,0,0,,{\rCHS}没错, �
 Dialogue: 100,0:08:42.90,0:08:45.58,Normal Dialog Text,,0,0,0,,{\rCHS}他说自己无法承受再次往这里送邮件了\N{\rENG}Said he couldn't bear to deliver mail on this route again
 Dialogue: 100,0:08:45.58,0:08:47.18,Normal Dialog Text,,0,0,0,,{\rCHS}自从他被拒绝后\N{\rENG}after having his love spurned.
 Dialogue: 100,0:08:47.62,0:08:48.62,Normal Dialog Text,,0,0,0,,{\rCHS}他这么说的\N{\rENG}He said it just like this.
-Dialogue: 100,0:08:48.62,0:08:50.56,Normal Dialog Text,,0,0,0,,{\rCHS}就像--就像, 当他深沉的装B时\N{\rENG}Like -- like, when he's in the drama zone.
+Dialogue: 100,0:08:48.62,0:08:50.56,Normal Dialog Text,,0,0,0,,{\rCHS}就像--就像, 当他在表演时的样子\N{\rENG}Like -- like, when he's in the drama zone.
 Dialogue: 100,0:08:51.04,0:08:54.16,Normal Dialog Text,,0,0,0,,{\rCHS}接着他握紧了自己的拳头, 闭上了眼睛, 像这样\N{\rENG}Then he clenched his fist and closed his eyes like this.
 Dialogue: 100,0:08:54.62,0:08:56.06,Normal Dialog Text,,0,0,0,,{\rCHS}真是装B一绝啊\N{\rENG}Full of drama to the end.
 Dialogue: 100,0:08:56.54,0:08:58.38,Normal Dialog Text,,0,0,0,,{\rCHS}不管怎样, 这里是一本折扣券\N{\rENG}Anyway, here's a book of coupons.
