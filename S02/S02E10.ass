@@ -16,9 +16,9 @@ Video File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E10.Rising.Tide
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 292
-Active Line: 320
-Video Position: 7333
+Scroll Position: 187
+Active Line: 200
+Video Position: 9099
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -41,7 +41,7 @@ Style: SU Claim,方正粗圆_GBK,48,&H00F0F0F0,&H00FFFFFF,&H00151515,&H00DBE0C9,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 1,0:00:00.30,0:00:01.80,SU Title,,0,0,0,,{\xshad-0\yshad12\pos(1160,278)}潮起 天塌
-Dialogue: 1,0:00:01.80,0:00:03.30,SU Claim,,0,0,0,,欢迎关注微博@ UUU字幕组 获取最新熟肉信息! 
+Dialogue: 1,0:00:01.80,0:00:03.30,SU Claim,,0,0,0,,欢迎关注微博@ UUU字幕组 获取最新熟肉信息!
 Dialogue: 1,0:00:01.80,0:00:03.30,SU Team Title,,0,0,0,,{\pos(1725,260)}出品
 Dialogue: 1,0:00:01.80,0:00:03.30,SU Team Member,,0,0,0,,{\pos(1725,320)}UUU字幕组
 Dialogue: 1,0:00:01.80,0:00:03.30,SU Team Title,,0,0,0,,{\pos(1725,380)}翻译
@@ -54,30 +54,30 @@ Dialogue: 1,0:00:01.80,0:00:03.30,SU Team Title,,0,0,0,,{\pos(1725,740)}压制
 Dialogue: 1,0:00:01.80,0:00:03.30,SU Team Member,,0,0,0,,{\pos(1725,800)}presisco
 Dialogue: 500,0:00:03.30,0:00:04.95,Label Trans,,0,0,0,,{\fn隶书\fs128\c&HEAE7E8&\bord0\shad0\pos(1058,934)}{\pos(940,772)}弗莱曼工作室\N{\fn华文细黑\i0\fs96}呈现
 Dialogue: 500,0:00:06.00,0:00:08.40,Label Trans,,0,0,0,,{\fn华文细黑\fs48\c&HFDEED5&\bord0\shad0\i0\pos(952,800)}{\pos(940,772)}沙滩镇不思议出品
-Dialogue: 100,0:00:09.29,0:00:12.79,Normal Dialog Text,,0,0,0,,{\rCHS}沙滩镇 一个沉睡着的海边小镇\N{\rENG}Beach City--a sleepy seaside town. 
-Dialogue: 100,0:00:12.79,0:00:15.49,Normal Dialog Text,,0,0,0,,{\rCHS}从远处看 似乎十分平静\N{\rENG}From far away, it looks ordinary, 
-Dialogue: 100,0:00:15.50,0:00:16.96,Normal Dialog Text,,0,0,0,,{\rCHS}但仔细看 \N{\rENG}but take a closer look, 
-Dialogue: 100,0:00:16.96,0:00:21.53,Normal Dialog Text,,0,0,0,,{\rCHS}你会注意到其中大有奥妙\N{\rENG}and you'll start to notice the cracks in the facade. 
+Dialogue: 100,0:00:09.29,0:00:12.79,Normal Dialog Text,,0,0,0,,{\rCHS}沙滩镇 一个沉睡着的海边小镇\N{\rENG}Beach City--a sleepy seaside town.
+Dialogue: 100,0:00:12.79,0:00:15.49,Normal Dialog Text,,0,0,0,,{\rCHS}从远处看 似乎十分平静\N{\rENG}From far away, it looks ordinary,
+Dialogue: 100,0:00:15.50,0:00:16.96,Normal Dialog Text,,0,0,0,,{\rCHS}但仔细看 \N{\rENG}but take a closer look,
+Dialogue: 100,0:00:16.96,0:00:21.53,Normal Dialog Text,,0,0,0,,{\rCHS}你会注意到其中大有奥妙\N{\rENG}and you'll start to notice the cracks in the facade.
 Dialogue: 100,0:00:23.80,0:00:25.14,Normal Dialog Text,,0,0,0,,{\rCHS}我是...\N{\rENG}My name is--
 Dialogue: 600,0:00:21.44,0:00:23.82,Hint,,0,0,0,,背景音乐与U2B著名病毒MV"Never Gonna Give You Up"的前奏相同
 Dialogue: 100,0:00:25.14,0:00:26.80,Normal Dialog Text,,0,0,0,,{\rCHS}呃...\N{\rENG}uh...
-Dialogue: 100,0:00:27.87,0:00:29.71,Normal Dialog Text,,0,0,0,,{\rCHS}吾名为罗尔纳多\N{\rENG}My name is Ronaldo. 
+Dialogue: 100,0:00:27.87,0:00:29.71,Normal Dialog Text,,0,0,0,,{\rCHS}吾名为罗尔纳多\N{\rENG}My name is Ronaldo.
 Dialogue: 100,0:00:29.71,0:00:33.81,Normal Dialog Text,,0,0,0,,{\rCHS}这些年来 我一直在经营名为"沙滩镇不思议"的博客\N{\rENG}For years, I've run a blog called "keep Beach City weird."
-Dialogue: 100,0:00:33.81,0:00:36.71,Normal Dialog Text,,0,0,0,,{\rCHS}我的任务: 让沙滩镇"不思议"!\N{\rENG}My mission--keep Beach City weird! 
-Dialogue: 1,0:00:37.24,0:00:39.14,Label Trans,,0,0,0,,{\pos(857,786)\i0\shad0\bord4}也许怀孕了? 
+Dialogue: 100,0:00:33.81,0:00:36.71,Normal Dialog Text,,0,0,0,,{\rCHS}我的任务: 让沙滩镇"不思议"!\N{\rENG}My mission--keep Beach City weird!
+Dialogue: 1,0:00:37.24,0:00:39.14,Label Trans,,0,0,0,,{\pos(857,786)\i0\shad0\bord4}也许怀孕了?
 Dialogue: 600,0:00:37.24,0:00:39.14,Hint,,0,0,0,,此处风格影射好莱坞狗仔佩雷斯·希尔顿惯用的网站与图片编辑风格
 Dialogue: 600,0:00:37.24,0:00:39.14,Hint,,0,0,0,,详见第一季第10集
-Dialogue: 100,0:00:36.72,0:00:39.52,Normal Dialog Text,,0,0,0,,{\rCHS}以及揭露不为人知的真相\N{\rENG}And also to expose the truth. 
-Dialogue: 100,0:00:39.52,0:00:43.95,Normal Dialog Text,,0,0,0,,{\rCHS}大多数人选择忽视我的劲爆性揭露\N{\rENG}Most people choose to ignore my mind-blowing revelations. 
+Dialogue: 100,0:00:36.72,0:00:39.52,Normal Dialog Text,,0,0,0,,{\rCHS}以及揭露不为人知的真相\N{\rENG}And also to expose the truth.
+Dialogue: 100,0:00:39.52,0:00:43.95,Normal Dialog Text,,0,0,0,,{\rCHS}大多数人选择忽视我的劲爆性揭露\N{\rENG}Most people choose to ignore my mind-blowing revelations.
 Dialogue: 600,0:00:39.52,0:00:43.95,Hint,,0,0,0,,此处布景致敬著名脱口秀"蕨间访谈"
 Dialogue: 100,0:00:43.96,0:00:47.22,Normal Dialog Text,,0,0,0,,{\rCHS}但没人能否认真相\N{\rENG}But no one could deny it when the truth
-Dialogue: 100,0:00:47.23,0:00:51.86,Normal Dialog Text,,0,0,0,,{\rCHS}尤其当真相糊了小镇居民一脸时\N{\rENG}was pointing right in the town's collective face. 
+Dialogue: 100,0:00:47.23,0:00:51.86,Normal Dialog Text,,0,0,0,,{\rCHS}尤其当真相糊了小镇居民一脸时\N{\rENG}was pointing right in the town's collective face.
 Dialogue: 1,0:00:51.86,0:01:02.07,Label Trans,,0,0,0,,{\pos(960,900)}真实影像
-Dialogue: 100,0:00:52.90,0:00:54.33,Normal Dialog Text,,0,0,0,,{\rCHS}外星人入侵!\N{\rENG}It's an invasion! 
-Dialogue: 100,0:00:54.33,0:00:57.03,Normal Dialog Text,,0,0,0,,{\rCHS}看那玩意! 就在那!\N{\rENG}Look at that thing! It's right there! 
-Dialogue: 100,0:00:57.04,0:01:00.24,Normal Dialog Text,,0,0,0,,{\rCHS}沙滩镇需要被拯救\N{\rENG}Beach City needed to be saved. 
-Dialogue: 100,0:01:00.24,0:01:02.07,Normal Dialog Text,,0,0,0,,{\rCHS}但威胁是什么?\N{\rENG}But from what? 
-Dialogue: 100,0:01:02.08,0:01:04.71,Normal Dialog Text,,0,0,0,,{\rCHS}咚-咚-咚\N{\rENG}Duhm! Duhm! Duhm! 
+Dialogue: 100,0:00:52.90,0:00:54.33,Normal Dialog Text,,0,0,0,,{\rCHS}外星人入侵!\N{\rENG}It's an invasion!
+Dialogue: 100,0:00:54.33,0:00:57.03,Normal Dialog Text,,0,0,0,,{\rCHS}看那玩意! 就在那!\N{\rENG}Look at that thing! It's right there!
+Dialogue: 100,0:00:57.04,0:01:00.24,Normal Dialog Text,,0,0,0,,{\rCHS}沙滩镇需要被拯救\N{\rENG}Beach City needed to be saved.
+Dialogue: 100,0:01:00.24,0:01:02.07,Normal Dialog Text,,0,0,0,,{\rCHS}但威胁是什么?\N{\rENG}But from what?
+Dialogue: 100,0:01:02.08,0:01:04.71,Normal Dialog Text,,0,0,0,,{\rCHS}咚-咚-咚\N{\rENG}Duhm! Duhm! Duhm!
 Dialogue: 500,0:01:04.70,0:01:13.00,Label Trans,,0,0,0,,{\fn隶书\fs128\c&HE9E9E9&\bord0\shad0}{\pos(600,200)}潮起
 Dialogue: 500,0:01:05.80,0:01:13.00,Label Trans,,0,0,0,,{\fn隶书\fs128\c&HE9E9E9&\bord0\shad0}{\pos(1220,200)}天塌
 Dialogue: 500,0:01:06.90,0:01:13.00,Label Trans,,0,0,0,,{\fn隶书\fs96\c&H2E17D4&\bord0\shad0\frz5.926\pos(594,538)}{\pos(600,520)}危险
@@ -88,279 +88,278 @@ Dialogue: 500,0:01:11.30,0:01:13.22,Label Trans,,0,0,0,,{\fn隶书\fs48\c&HE9E9E
 Dialogue: 600,0:01:11.30,0:01:13.22,Hint,,0,0,0,,千万不要学Ronaldo使用的标题字体哦! 这种字体在三流剪辑爱好者手里已经用烂了
 Dialogue: 500,0:01:12.72,0:01:16.02,Label Trans,,0,0,0,,{\fn微软雅黑\fs64}呃...当时我在为一个大单子洗鱼\N{\fnArial\fs48}Eh, I was just cleaning up some fish for a very big order
 Dialogue: 0,0:01:14.36,0:01:17.36,Label Trans,,0,0,0,,{\bord0\shad0}{\pos(230,850)}法奶奶\N当地个体户
-Dialogue: 100,0:01:16.02,0:01:17.25,Normal Dialog Text,,0,0,0,,{\rCHS}突然那发生了\N{\rENG}when it happened. 
-Dialogue: 100,0:01:17.26,0:01:19.89,Normal Dialog Text,,0,0,0,,{\rCHS}我听到了很奇怪的隆隆声\N{\rENG}I felt this very peculiar rumbling, 
+Dialogue: 100,0:01:16.02,0:01:17.25,Normal Dialog Text,,0,0,0,,{\rCHS}突然那发生了\N{\rENG}when it happened.
+Dialogue: 100,0:01:17.26,0:01:19.89,Normal Dialog Text,,0,0,0,,{\rCHS}我听到了很奇怪的隆隆声\N{\rENG}I felt this very peculiar rumbling,
 Dialogue: 100,0:01:19.89,0:01:23.03,Normal Dialog Text,,0,0,0,,{\rCHS}像这样...\N{\rENG}like, "boom, boom, boom, boom, boom, boom, boom!"
-Dialogue: 100,0:01:23.03,0:01:25.33,Normal Dialog Text,,0,0,0,,{\rCHS}然后突然特别大的一声"BOOM"!\N{\rENG}And then a sonic boom! 
+Dialogue: 100,0:01:23.03,0:01:25.33,Normal Dialog Text,,0,0,0,,{\rCHS}然后突然特别大的一声"BOOM"!\N{\rENG}And then a sonic boom!
 Dialogue: 100,0:01:25.33,0:01:26.90,Normal Dialog Text,,0,0,0,,{\rCHS}然后我准备的鱼\N{\rENG}And the fish I was preparing
-Dialogue: 100,0:01:26.90,0:01:29.23,Normal Dialog Text,,0,0,0,,{\rCHS}飞到了空中 又掉到了地上\N{\rENG}flew up into the air and fell on the ground. 
+Dialogue: 100,0:01:26.90,0:01:29.23,Normal Dialog Text,,0,0,0,,{\rCHS}飞到了空中 又掉到了地上\N{\rENG}flew up into the air and fell on the ground.
 Dialogue: 0,0:01:29.23,0:01:30.70,Label Trans,,0,0,0,,{\pos(960,900)}重现
 Dialogue: 100,0:01:31.04,0:01:32.24,Normal Dialog Text,,0,0,0,,{\rCHS}我跑到外面 看见\N{\rENG}I ran outside and saw
-Dialogue: 100,0:01:32.24,0:01:34.67,Normal Dialog Text,,0,0,0,,{\rCHS}天上有一个大东西\N{\rENG}this great big thing in the sky. 
-Dialogue: 100,0:01:34.67,0:01:37.34,Normal Dialog Text,,0,0,0,,{\rCHS}小镇当时正遭受攻击!\N{\rENG}The town was under attack! 
-Dialogue: 100,0:01:37.34,0:01:38.71,Normal Dialog Text,,0,0,0,,{\rCHS}再说一遍这是什么来着?\N{\rENG}What is this for, again? 
+Dialogue: 100,0:01:32.24,0:01:34.67,Normal Dialog Text,,0,0,0,,{\rCHS}天上有一个大东西\N{\rENG}this great big thing in the sky.
+Dialogue: 100,0:01:34.67,0:01:37.34,Normal Dialog Text,,0,0,0,,{\rCHS}小镇当时正遭受攻击!\N{\rENG}The town was under attack!
+Dialogue: 100,0:01:37.34,0:01:38.71,Normal Dialog Text,,0,0,0,,{\rCHS}再说一遍这是什么来着?\N{\rENG}What is this for, again?
 Dialogue: 100,0:01:38.71,0:01:40.21,Normal Dialog Text,,0,0,0,,{\rCHS}这是"网家"视频 用于我的博--\N{\rENG}It's a web-sclusive for my bl--
-Dialogue: 100,0:01:40.21,0:01:42.88,Normal Dialog Text,,0,0,0,,{\rCHS}哦 呃 对了! 那天简直是世界末日\N{\rENG}oh. Uh, yes. That day was crazy. 
+Dialogue: 100,0:01:40.21,0:01:42.88,Normal Dialog Text,,0,0,0,,{\rCHS}哦 呃 对了! 那天简直是世界末日\N{\rENG}oh. Uh, yes. That day was crazy.
 Dialogue: 0,0:01:40.21,0:01:43.21,Label Trans,,0,0,0,,{\bord0\shad0}{\pos(230,850)}佩迪\N薯条店店员
-Dialogue: 100,0:01:42.88,0:01:44.88,Normal Dialog Text,,0,0,0,,{\rCHS}市长说-你害怕吗?\N{\rENG}The mayor said--Were you scared?! 
-Dialogue: 100,0:01:44.88,0:01:46.22,Normal Dialog Text,,0,0,0,,{\rCHS}蛤? 怎么可能!\N{\rENG}What?! No! 
+Dialogue: 100,0:01:42.88,0:01:44.88,Normal Dialog Text,,0,0,0,,{\rCHS}市长说-你害怕吗?\N{\rENG}The mayor said--Were you scared?!
+Dialogue: 100,0:01:44.88,0:01:46.22,Normal Dialog Text,,0,0,0,,{\rCHS}蛤? 怎么可能!\N{\rENG}What?! No!
 Dialogue: 100,0:01:46.22,0:01:48.22,Normal Dialog Text,,0,0,0,,{\rCHS}我并不-我只是担心\N{\rENG}I wasn't--I was just concerned
-Dialogue: 100,0:01:48.22,0:01:50.72,Normal Dialog Text,,0,0,0,,{\rCHS}商店会发生不太好的事而已\N{\rENG}that something bad would happen to the shop. 
-Dialogue: 100,0:01:50.72,0:01:52.06,Normal Dialog Text,,0,0,0,,{\rCHS}所以你哭了个惨?\N{\rENG}So you cried a lot? 
-Dialogue: 100,0:01:52.06,0:01:53.69,Normal Dialog Text,,0,0,0,,{\rCHS}我只能说-无可奉告!\N{\rENG}I don't know what you're talking about. 
+Dialogue: 100,0:01:48.22,0:01:50.72,Normal Dialog Text,,0,0,0,,{\rCHS}商店会发生不太好的事而已\N{\rENG}that something bad would happen to the shop.
+Dialogue: 100,0:01:50.72,0:01:52.06,Normal Dialog Text,,0,0,0,,{\rCHS}所以你哭了个惨?\N{\rENG}So you cried a lot?
+Dialogue: 100,0:01:52.06,0:01:53.69,Normal Dialog Text,,0,0,0,,{\rCHS}我只能说-无可奉告!\N{\rENG}I don't know what you're talking about.
 Dialogue: 1,0:01:53.69,0:01:58.50,Label Trans,,0,0,0,,{\pos(960,900)}真实影像
-Dialogue: 100,0:01:53.69,0:01:55.06,Normal Dialog Text,,0,0,0,,{\rCHS}快放手啊!\N{\rENG} Let it go! 
-Dialogue: 100,0:01:55.06,0:01:57.23,Normal Dialog Text,,0,0,0,,{\rCHS}爸爸 不-\N{\rENG}Dad, no! 
-Dialogue: 100,0:01:57.23,0:01:59.23,Normal Dialog Text,,0,0,0,,{\rCHS}求求你-!\N{\rENG}Please, no! 
-Dialogue: 100,0:01:59.23,0:02:01.90,Normal Dialog Text,,0,0,0,,{\rCHS}我当时可是承受着巨大的压力呢!\N{\rENG}I was under a lot of stress at the time! 
-Dialogue: 100,0:02:02.94,0:02:04.20,Normal Dialog Text,,0,0,0,,{\rCHS}噢～嘿\N{\rENG}Aww. Hey. 
-Dialogue: 100,0:02:04.20,0:02:05.20,Normal Dialog Text,,0,0,0,,{\rCHS}怎么了?\N{\rENG}What? 
-Dialogue: 100,0:02:05.20,0:02:06.74,Normal Dialog Text,,0,0,0,,{\rCHS}我永远支持你 老弟\N{\rENG}I'm here for you, bro. 
-Dialogue: 100,0:02:06.74,0:02:07.94,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Mmmm. 
-Dialogue: 100,0:02:07.94,0:02:09.77,Normal Dialog Text,,0,0,0,,{\rCHS}我很好! 放开我!\N{\rENG} I'm fine! Let me go! 
-Dialogue: 100,0:02:09.78,0:02:12.08,Normal Dialog Text,,0,0,0,,{\rCHS}这么感人的一幕怎么可能是编的呢!\N{\rENG}You can't make up drama this good! 
+Dialogue: 100,0:01:53.69,0:01:55.06,Normal Dialog Text,,0,0,0,,{\rCHS}快放手啊!\N{\rENG} Let it go!
+Dialogue: 100,0:01:55.06,0:01:57.23,Normal Dialog Text,,0,0,0,,{\rCHS}爸爸 不-\N{\rENG}Dad, no!
+Dialogue: 100,0:01:57.23,0:01:59.23,Normal Dialog Text,,0,0,0,,{\rCHS}求求你-!\N{\rENG}Please, no!
+Dialogue: 100,0:01:59.23,0:02:01.90,Normal Dialog Text,,0,0,0,,{\rCHS}我当时可是承受着巨大的压力呢!\N{\rENG}I was under a lot of stress at the time!
+Dialogue: 100,0:02:02.94,0:02:04.20,Normal Dialog Text,,0,0,0,,{\rCHS}噢～嘿\N{\rENG}Aww. Hey.
+Dialogue: 100,0:02:04.20,0:02:05.20,Normal Dialog Text,,0,0,0,,{\rCHS}怎么了?\N{\rENG}What?
+Dialogue: 100,0:02:05.20,0:02:06.74,Normal Dialog Text,,0,0,0,,{\rCHS}我永远支持你 老弟\N{\rENG}I'm here for you, bro.
+Dialogue: 100,0:02:06.74,0:02:07.94,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Mmmm.
+Dialogue: 100,0:02:07.94,0:02:09.77,Normal Dialog Text,,0,0,0,,{\rCHS}我很好! 放开我!\N{\rENG} I'm fine! Let me go!
+Dialogue: 100,0:02:09.78,0:02:12.08,Normal Dialog Text,,0,0,0,,{\rCHS}这么感人的一幕怎么可能是编的呢!\N{\rENG}You can't make up drama this good!
 Dialogue: 100,0:02:12.08,0:02:13.61,Normal Dialog Text,,0,0,0,,{\rCHS}随着一个太空巨掌接近\N{\rENG}With the space hand closing in
 Dialogue: 1,0:02:12.08,0:02:30.39,Label Trans,,0,0,0,,{\pos(960,900)}真实影像
-Dialogue: 100,0:02:13.61,0:02:15.65,Normal Dialog Text,,0,0,0,,{\rCHS}进行第三类接触什么的\N{\rENG}for a high-five of the third kind, 
+Dialogue: 100,0:02:13.61,0:02:15.65,Normal Dialog Text,,0,0,0,,{\rCHS}进行第三类接触什么的\N{\rENG}for a high-five of the third kind,
 Dialogue: 600,0:02:13.61,0:02:15.65,Hint,,0,0,0,,Ronaldo的话致敬著名科幻电影"第三类接触"
-Dialogue: 100,0:02:15.65,0:02:17.28,Normal Dialog Text,,0,0,0,,{\rCHS}我们逃离了小镇\N{\rENG}we fled the town. 
-Dialogue: 100,0:02:17.28,0:02:20.89,Normal Dialog Text,,0,0,0,,{\rCHS}但接着 就像太空巨掌神秘的出现\N{\rENG}But then, just as mysteriously as the space hand appeared, 
-Dialogue: 100,0:02:20.89,0:02:23.42,Normal Dialog Text,,0,0,0,,{\rCHS}它爆炸成一场爆炸了\N{\rENG}it exploded into an explosion. 
-Dialogue: 100,0:02:23.42,0:02:25.42,Normal Dialog Text,,0,0,0,,{\rCHS}那蓝色火焰里的是什么?!\N{\rENG} What in blue blazes was that?! 
-Dialogue: 100,0:02:25.42,0:02:27.26,Normal Dialog Text,,0,0,0,,{\rCHS}看起来是爆炸\N{\rENG}I think it was an explosion. 
-Dialogue: 100,0:02:27.26,0:02:28.76,Normal Dialog Text,,0,0,0,,{\rCHS}我了个去!\N{\rENG}Unbelievable. 
-Dialogue: 100,0:02:28.76,0:02:30.39,Normal Dialog Text,,0,0,0,,{\rCHS}我居然没看见!\N{\rENG}I missed it! 
+Dialogue: 100,0:02:15.65,0:02:17.28,Normal Dialog Text,,0,0,0,,{\rCHS}我们逃离了小镇\N{\rENG}we fled the town.
+Dialogue: 100,0:02:17.28,0:02:20.89,Normal Dialog Text,,0,0,0,,{\rCHS}但接着 就像太空巨掌神秘的出现\N{\rENG}But then, just as mysteriously as the space hand appeared,
+Dialogue: 100,0:02:20.89,0:02:23.42,Normal Dialog Text,,0,0,0,,{\rCHS}它爆炸成一场爆炸了\N{\rENG}it exploded into an explosion.
+Dialogue: 100,0:02:23.42,0:02:25.42,Normal Dialog Text,,0,0,0,,{\rCHS}那蓝色火团是什么?!\N{\rENG} What in blue blazes was that?!
+Dialogue: 100,0:02:25.42,0:02:27.26,Normal Dialog Text,,0,0,0,,{\rCHS}看起来是爆炸\N{\rENG}I think it was an explosion.
+Dialogue: 100,0:02:27.26,0:02:28.76,Normal Dialog Text,,0,0,0,,{\rCHS}我了个去!\N{\rENG}Unbelievable.
+Dialogue: 100,0:02:28.76,0:02:30.39,Normal Dialog Text,,0,0,0,,{\rCHS}我居然没看见!\N{\rENG}I missed it!
 Dialogue: 100,0:02:30.40,0:02:31.96,Normal Dialog Text,,0,0,0,,{\rCHS}并没有真实影像\N{\rENG}There's no actual footage
-Dialogue: 100,0:02:31.96,0:02:34.77,Normal Dialog Text,,0,0,0,,{\rCHS}展示太空巨掌坠毁在沙滩上 \N{\rENG}of the giant hand thing crashing into the beach, 
-Dialogue: 100,0:02:34.77,0:02:37.10,Normal Dialog Text,,0,0,0,,{\rCHS}但这里有个重现视频给你\N{\rENG}but here's a little re-enactment for you. 
-Dialogue: 100,0:02:37.10,0:02:40.24,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Whoooooooooa! 
+Dialogue: 100,0:02:31.96,0:02:34.77,Normal Dialog Text,,0,0,0,,{\rCHS}展示太空巨掌坠毁在沙滩上 \N{\rENG}of the giant hand thing crashing into the beach,
+Dialogue: 100,0:02:34.77,0:02:37.10,Normal Dialog Text,,0,0,0,,{\rCHS}但这里有个重现视频给你\N{\rENG}but here's a little re-enactment for you.
+Dialogue: 100,0:02:37.10,0:02:40.24,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Whoooooooooa!
 Dialogue: 1,0:02:37.10,0:02:45.16,Label Trans,,0,0,0,,{\pos(960,900)}重现
-Dialogue: 100,0:02:40.24,0:02:41.81,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Pfff! Whah! 
-Dialogue: 100,0:02:41.81,0:02:43.27,Normal Dialog Text,,0,0,0,,{\rCHS}疼疼疼疼\N{\rENG}Ouch. Ouch, ouch, ouch. 
-Dialogue: 100,0:02:43.28,0:02:45.31,Normal Dialog Text,,0,0,0,,{\rCHS}啊～我的搜! 啊-\N{\rENG}Aaah! My hand! Aah--
-Dialogue: 100,0:02:45.31,0:02:47.78,Normal Dialog Text,,0,0,0,,{\rCHS}沙滩镇得救了\N{\rENG}Beach City was saved. 
-Dialogue: 100,0:02:47.78,0:02:49.41,Normal Dialog Text,,0,0,0,,{\rCHS}但是谁是幕后英雄?\N{\rENG}But by whom? 
-Dialogue: 100,0:02:49.42,0:02:51.32,Normal Dialog Text,,0,0,0,,{\rCHS}女士!-蛤?\N{\rENG}Miss! Huh? 
+Dialogue: 100,0:02:40.24,0:02:41.81,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Pfff! Whah!
+Dialogue: 100,0:02:41.81,0:02:43.27,Normal Dialog Text,,0,0,0,,{\rCHS}疼疼疼疼\N{\rENG}Ouch. Ouch, ouch, ouch.
+Dialogue: 100,0:02:43.28,0:02:45.31,Normal Dialog Text,,0,0,0,,{\rCHS}啊～我的手! 啊-\N{\rENG}Aaah! My hand! Aah--
+Dialogue: 100,0:02:45.31,0:02:47.78,Normal Dialog Text,,0,0,0,,{\rCHS}沙滩镇得救了\N{\rENG}Beach City was saved.
+Dialogue: 100,0:02:47.78,0:02:49.41,Normal Dialog Text,,0,0,0,,{\rCHS}但是谁是幕后英雄?\N{\rENG}But by whom?
+Dialogue: 100,0:02:49.42,0:02:51.32,Normal Dialog Text,,0,0,0,,{\rCHS}女士!-蛤?\N{\rENG}Miss! Huh?
 Dialogue: 1,0:02:49.29,0:02:52.29,Label Trans,,0,0,0,,{\bord0\shad0}{\pos(220,850)}珊迪\N恐怖电影爱好者
 Dialogue: 100,0:02:51.32,0:02:53.15,Normal Dialog Text,,0,0,0,,{\rCHS}你认为是谁拯救了沙滩镇\N{\rENG}Who do you think saved Beach City
-Dialogue: 100,0:02:53.15,0:02:54.95,Normal Dialog Text,,0,0,0,,{\rCHS}解决了太空巨掌?\N{\rENG}from the giant hand craft? 
-Dialogue: 100,0:02:54.95,0:02:57.15,Normal Dialog Text,,0,0,0,,{\rCHS}哦. 嘿 罗尔纳多\N{\rENG}Oh. Hey, Ronaldo. 
-Dialogue: 100,0:02:57.16,0:02:58.76,Normal Dialog Text,,0,0,0,,{\rCHS}等等. 这是-你在录像吗?\N{\rENG}Wait. A--are you filming? 
-Dialogue: 100,0:02:58.76,0:03:00.16,Normal Dialog Text,,0,0,0,,{\rCHS}请回答问题\N{\rENG}Please answer the question. 
-Dialogue: 100,0:03:00.16,0:03:02.76,Normal Dialog Text,,0,0,0,,{\rCHS}哦. 好吧. 呃 当然\N{\rENG}Oh. Okay. Um, yeah, sure. 
-Dialogue: 100,0:03:02.76,0:03:04.03,Normal Dialog Text,,0,0,0,,{\rCHS}谁拯救了我们?\N{\rENG}Who saved us? 
-Dialogue: 100,0:03:04.03,0:03:07.13,Normal Dialog Text,,0,0,0,,{\rCHS}呃 好吧 难道不是史蒂文...的家人?\N{\rENG}Um, well, wasn't it Steven's...Family? 
-Dialogue: 100,0:03:07.13,0:03:09.20,Normal Dialog Text,,0,0,0,,{\rCHS}我-我认为她们不喜欢与人接触\N{\rENG}I-I think they pretty much keep to themselves. 
+Dialogue: 100,0:02:53.15,0:02:54.95,Normal Dialog Text,,0,0,0,,{\rCHS}解决了太空巨掌?\N{\rENG}from the giant hand craft?
+Dialogue: 100,0:02:54.95,0:02:57.15,Normal Dialog Text,,0,0,0,,{\rCHS}哦. 嘿 罗尔纳多\N{\rENG}Oh. Hey, Ronaldo.
+Dialogue: 100,0:02:57.16,0:02:58.76,Normal Dialog Text,,0,0,0,,{\rCHS}等等. 这是-你在录像吗?\N{\rENG}Wait. A--are you filming?
+Dialogue: 100,0:02:58.76,0:03:00.16,Normal Dialog Text,,0,0,0,,{\rCHS}请回答问题\N{\rENG}Please answer the question.
+Dialogue: 100,0:03:00.16,0:03:02.76,Normal Dialog Text,,0,0,0,,{\rCHS}哦. 好吧. 呃 当然\N{\rENG}Oh. Okay. Um, yeah, sure.
+Dialogue: 100,0:03:02.76,0:03:04.03,Normal Dialog Text,,0,0,0,,{\rCHS}谁拯救了我们?\N{\rENG}Who saved us?
+Dialogue: 100,0:03:04.03,0:03:07.13,Normal Dialog Text,,0,0,0,,{\rCHS}呃 好吧 难道不是史蒂文...的家人?\N{\rENG}Um, well, wasn't it Steven's...Family?
+Dialogue: 100,0:03:07.13,0:03:09.20,Normal Dialog Text,,0,0,0,,{\rCHS}我-我认为她们不喜欢与人接触\N{\rENG}I-I think they pretty much keep to themselves.
 Dialogue: 100,0:03:09.20,0:03:11.70,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文说她们在保护地球与人类\N{\rENG}Steven says they protect the planet and the human race
-Dialogue: 100,0:03:11.70,0:03:14.14,Normal Dialog Text,,0,0,0,,{\rCHS}而且她们有魔力\N{\rENG} And that they have magic powers. 
-Dialogue: 100,0:03:14.14,0:03:15.47,Normal Dialog Text,,0,0,0,,{\rCHS}这听起来难以置信\N{\rENG}It sounds hard to believe, 
-Dialogue: 100,0:03:15.47,0:03:17.94,Normal Dialog Text,,0,0,0,,{\rCHS}但我看到过不少疯狂的事\N{\rENG}but I've seen some pretty wild stuff. 
+Dialogue: 100,0:03:11.70,0:03:14.14,Normal Dialog Text,,0,0,0,,{\rCHS}而且她们有魔力\N{\rENG} And that they have magic powers.
+Dialogue: 100,0:03:14.14,0:03:15.47,Normal Dialog Text,,0,0,0,,{\rCHS}这听起来难以置信\N{\rENG}It sounds hard to believe,
+Dialogue: 100,0:03:15.47,0:03:17.94,Normal Dialog Text,,0,0,0,,{\rCHS}但我看到过不少疯狂的事\N{\rENG}but I've seen some pretty wild stuff.
 Dialogue: 1,0:03:17.65,0:03:20.65,Label Trans,,0,0,0,,{\pos(220,850)}奇奇\N披萨家嗣女
-Dialogue: 100,0:03:17.94,0:03:19.78,Normal Dialog Text,,0,0,0,,{\rCHS}一次 她们为我们做了汉堡包\N{\rENG}Once, they made us hamburgers, 
-Dialogue: 100,0:03:19.78,0:03:21.31,Normal Dialog Text,,0,0,0,,{\rCHS}我们相处的很愉快\N{\rENG}and we were having a pretty good time. 
-Dialogue: 100,0:03:21.31,0:03:24.22,Normal Dialog Text,,0,0,0,,{\rCHS}但接着我们遭到一个巨大生物的攻击\N{\rENG}But then we were attacked by a huge creature. 
-Dialogue: 100,0:03:24.22,0:03:26.18,Normal Dialog Text,,0,0,0,,{\rCHS}嘿! 你在拍电影吗?\N{\rENG}Hey! You making a movie? 
+Dialogue: 100,0:03:17.94,0:03:19.78,Normal Dialog Text,,0,0,0,,{\rCHS}一次 她们为我们做了汉堡包\N{\rENG}Once, they made us hamburgers,
+Dialogue: 100,0:03:19.78,0:03:21.31,Normal Dialog Text,,0,0,0,,{\rCHS}我们相处的很愉快\N{\rENG}and we were having a pretty good time.
+Dialogue: 100,0:03:21.31,0:03:24.22,Normal Dialog Text,,0,0,0,,{\rCHS}但接着我们遭到一个巨大生物的攻击\N{\rENG}But then we were attacked by a huge creature.
+Dialogue: 100,0:03:24.22,0:03:26.18,Normal Dialog Text,,0,0,0,,{\rCHS}嘿! 你在拍电影吗?\N{\rENG}Hey! You making a movie?
 Dialogue: 1,0:03:24.25,0:03:27.25,Label Trans,,0,0,0,,{\bord0\shad0}{\pos(1650,850)}珍妮\N令人生畏的小姑娘
-Dialogue: 100,0:03:26.19,0:03:27.99,Normal Dialog Text,,0,0,0,,{\rCHS}哦 别打扰他\N{\rENG}Oh, let him be. 
-Dialogue: 100,0:03:27.99,0:03:30.89,Normal Dialog Text,,0,0,0,,{\rCHS}这是关于宝石战队的"网录片"\N{\rENG}It's a docu-web-umentary about The Crystal Gems. 
-Dialogue: 100,0:03:30.89,0:03:33.16,Normal Dialog Text,,0,0,0,,{\rCHS}她们疯! 了!\N{\rENG} They are c-ra-zy. 
-Dialogue: 100,0:03:33.16,0:03:35.96,Normal Dialog Text,,0,0,0,,{\rCHS}她们中的一个还差点打到我脸\N{\rENG}One of them tried to knock me in the face. 
+Dialogue: 100,0:03:26.19,0:03:27.99,Normal Dialog Text,,0,0,0,,{\rCHS}哦 别打扰他\N{\rENG}Oh, let him be.
+Dialogue: 100,0:03:27.99,0:03:30.89,Normal Dialog Text,,0,0,0,,{\rCHS}这是关于宝石战队的"网录片"\N{\rENG}It's a docu-web-umentary about The Crystal Gems.
+Dialogue: 100,0:03:30.89,0:03:33.16,Normal Dialog Text,,0,0,0,,{\rCHS}她们疯! 了!\N{\rENG} They are c-ra-zy.
+Dialogue: 100,0:03:33.16,0:03:35.96,Normal Dialog Text,,0,0,0,,{\rCHS}她们中的一个还差点打到我脸\N{\rENG}One of them tried to knock me in the face.
 Dialogue: 600,0:03:33.16,0:03:35.96,Hint,,0,0,0,,详见第二季第2集
-Dialogue: 100,0:03:35.96,0:03:37.33,Normal Dialog Text,,0,0,0,,{\rCHS}但我并不生她们的气\N{\rENG}I ain't mad, though. 
+Dialogue: 100,0:03:35.96,0:03:37.33,Normal Dialog Text,,0,0,0,,{\rCHS}但我并不生她们的气\N{\rENG}I ain't mad, though.
 Dialogue: 100,0:03:37.33,0:03:39.70,Normal Dialog Text,,0,0,0,,{\rCHS}杜威市长 您认为是谁\N{\rENG}Mayor Dewey, who do you think
 Dialogue: 1,0:03:37.33,0:03:40.33,Label Trans,,0,0,0,,{\bord0\shad0}{\pos(520,850)}杜威市长\N杜威市长
-Dialogue: 100,0:03:39.70,0:03:41.90,Normal Dialog Text,,0,0,0,,{\rCHS}将沙滩市从巨掌下拯救\N{\rENG}saved Beach City from the hand craft? 
+Dialogue: 100,0:03:39.70,0:03:41.90,Normal Dialog Text,,0,0,0,,{\rCHS}将沙滩市从巨掌下拯救\N{\rENG}saved Beach City from the hand craft?
 Dialogue: 100,0:03:41.90,0:03:43.90,Normal Dialog Text,,0,0,0,,{\rCHS}什么? 年轻人 我将此归功于选民们\N{\rENG}Why, young man, I credit the voters
-Dialogue: 100,0:03:43.90,0:03:45.34,Normal Dialog Text,,0,0,0,,{\rCHS}是他们拯救了沙滩市\N{\rENG}with saving Beach City. 
+Dialogue: 100,0:03:43.90,0:03:45.34,Normal Dialog Text,,0,0,0,,{\rCHS}是他们拯救了沙滩市\N{\rENG}with saving Beach City.
 Dialogue: 100,0:03:45.34,0:03:47.24,Normal Dialog Text,,0,0,0,,{\rCHS}我的选民们知道他们任命了\N{\rENG}My constituents know they've elected a mayor
 Dialogue: 100,0:03:47.24,0:03:48.81,Normal Dialog Text,,0,0,0,,{\rCHS}可以信赖的市长\N{\rENG}whom they can trust to--
-Dialogue: 100,0:03:48.81,0:03:50.71,Normal Dialog Text,,0,0,0,,{\rCHS}啊? 不 我是指水晶战士\N{\rENG}huh? No, I'm talking about The Crystal Gems. 
-Dialogue: 100,0:03:50.71,0:03:52.14,Normal Dialog Text,,0,0,0,,{\rCHS}为-为什么?\N{\rENG} W-why? 
-Dialogue: 100,0:03:52.14,0:03:53.88,Normal Dialog Text,,0,0,0,,{\rCHS}我在报道一个故事\N{\rENG}Well, I'm covering the story. 
-Dialogue: 100,0:03:53.88,0:03:55.51,Normal Dialog Text,,0,0,0,,{\rCHS}遮掩?! 什么遮掩?!\N{\rENG}Cover-up?! What cover-up?! 
-Dialogue: 100,0:03:55.51,0:03:57.18,Normal Dialog Text,,0,0,0,,{\rCHS}但 市长-保安!\N{\rENG}But, mayor--security! 
-Dialogue: 100,0:03:57.18,0:04:00.18,Normal Dialog Text,,0,0,0,,{\rCHS}嘿! 你掩盖不了真相!\N{\rENG}H-hey! You can't suppress the truth! 
-Dialogue: 100,0:04:00.19,0:04:03.72,Normal Dialog Text,,0,0,0,,{\rCHS}显然 水晶战士背景复杂\N{\rENG}Obviously, The Crystal Gems were involved, 
-Dialogue: 100,0:04:03.72,0:04:07.02,Normal Dialog Text,,0,0,0,,{\rCHS}甚至与政府最高层有一腿\N{\rENG}even at the highest levels of local government. 
-Dialogue: 100,0:04:07.03,0:04:09.76,Normal Dialog Text,,0,0,0,,{\rCHS}我决定追根溯源\N{\rENG}I decided to go to the source. 
+Dialogue: 100,0:03:48.81,0:03:50.71,Normal Dialog Text,,0,0,0,,{\rCHS}啊? 不 我是指水晶战士\N{\rENG}huh? No, I'm talking about The Crystal Gems.
+Dialogue: 100,0:03:50.71,0:03:52.14,Normal Dialog Text,,0,0,0,,{\rCHS}为-为什么?\N{\rENG} W-why?
+Dialogue: 100,0:03:52.14,0:03:53.88,Normal Dialog Text,,0,0,0,,{\rCHS}我在报道一个故事\N{\rENG}Well, I'm covering the story.
+Dialogue: 100,0:03:53.88,0:03:55.51,Normal Dialog Text,,0,0,0,,{\rCHS}遮掩?! 什么遮掩?!\N{\rENG}Cover-up?! What cover-up?!
+Dialogue: 100,0:03:55.51,0:03:57.18,Normal Dialog Text,,0,0,0,,{\rCHS}但 市长-保安!\N{\rENG}But, mayor--security!
+Dialogue: 100,0:03:57.18,0:04:00.18,Normal Dialog Text,,0,0,0,,{\rCHS}嘿! 你掩盖不了真相!\N{\rENG}H-hey! You can't suppress the truth!
+Dialogue: 100,0:04:00.19,0:04:03.72,Normal Dialog Text,,0,0,0,,{\rCHS}显然 水晶战士背景复杂\N{\rENG}Obviously, The Crystal Gems were involved,
+Dialogue: 100,0:04:03.72,0:04:07.02,Normal Dialog Text,,0,0,0,,{\rCHS}甚至与政府最高层有一腿\N{\rENG}even at the highest levels of local government.
+Dialogue: 100,0:04:07.03,0:04:09.76,Normal Dialog Text,,0,0,0,,{\rCHS}我决定追根溯源\N{\rENG}I decided to go to the source.
 Dialogue: 100,0:04:09.76,0:04:12.03,Normal Dialog Text,,0,0,0,,{\rCHS}现在 我站在-\N{\rENG}Right now, I'm standi--
-Dialogue: 100,0:04:12.03,0:04:13.53,Normal Dialog Text,,0,0,0,,{\rCHS}大声点!\N{\rENG}Speak up! 
+Dialogue: 100,0:04:12.03,0:04:13.53,Normal Dialog Text,,0,0,0,,{\rCHS}大声点!\N{\rENG}Speak up!
 Dialogue: 100,0:04:13.53,0:04:16.83,Normal Dialog Text,,0,0,0,,{\rCHS}现在 我就站在\N{\rENG} Right now, I'm standing directly below
-Dialogue: 100,0:04:16.84,0:04:19.50,Normal Dialog Text,,0,0,0,,{\rCHS}水晶战士的城堡下!\N{\rENG}the fortress of The Crystal Gems! 
+Dialogue: 100,0:04:16.84,0:04:19.50,Normal Dialog Text,,0,0,0,,{\rCHS}水晶战士的城堡下!\N{\rENG}the fortress of The Crystal Gems!
 Dialogue: 100,0:04:19.51,0:04:22.74,Normal Dialog Text,,0,0,0,,{\rCHS}我将尝试进行接触\N{\rENG}I am now going to attempt to make contact
 Dialogue: 100,0:04:22.74,0:04:26.11,Normal Dialog Text,,0,0,0,,{\rCHS}神秘 隐蔽和-\N{\rENG}with the mysterious, reclusive, and--
-Dialogue: 100,0:04:26.11,0:04:27.85,Normal Dialog Text,,0,0,0,,{\rCHS}啊! 嗨 罗尔纳多\N{\rENG}aah! Hi, Ronaldo. 
-Dialogue: 100,0:04:27.85,0:04:29.88,Normal Dialog Text,,0,0,0,,{\rCHS}呃 嗨 佩迪. 那是个相机?\N{\rENG}Uh, hi, peedee. Is that a camera? 
+Dialogue: 100,0:04:26.11,0:04:27.85,Normal Dialog Text,,0,0,0,,{\rCHS}啊! 嗨 罗尔纳多\N{\rENG}aah! Hi, Ronaldo.
+Dialogue: 100,0:04:27.85,0:04:29.88,Normal Dialog Text,,0,0,0,,{\rCHS}呃 嗨 佩迪. 那是个相机?\N{\rENG}Uh, hi, peedee. Is that a camera?
 Dialogue: 100,0:04:29.88,0:04:31.75,Normal Dialog Text,,0,0,0,,{\rCHS}对. 我们在做一部影片 关于-\N{\rENG}Yeah. We're making a movie about--
-Dialogue: 100,0:04:31.75,0:04:35.95,Normal Dialog Text,,0,0,0,,{\rCHS}这是一部调查报告 纪实摄影\N{\rENG}it's an investigative report, shot camera vérité. 
-Dialogue: 100,0:04:35.96,0:04:37.52,Normal Dialog Text,,0,0,0,,{\rCHS}酷!\N{\rENG}Cool! 
-Dialogue: 100,0:04:37.52,0:04:42.23,Normal Dialog Text,,0,0,0,,{\rCHS}那么...想参与惊天大采访吗?\N{\rENG}So...Want to participate in a groundbreaking interview? 
-Dialogue: 100,0:04:42.23,0:04:43.26,Normal Dialog Text,,0,0,0,,{\rCHS}嗯...\N{\rENG}Hmm. 
+Dialogue: 100,0:04:31.75,0:04:35.95,Normal Dialog Text,,0,0,0,,{\rCHS}这是一部调查报告 纪实摄影\N{\rENG}it's an investigative report, shot camera vérité.
+Dialogue: 100,0:04:35.96,0:04:37.52,Normal Dialog Text,,0,0,0,,{\rCHS}酷!\N{\rENG}Cool!
+Dialogue: 100,0:04:37.52,0:04:42.23,Normal Dialog Text,,0,0,0,,{\rCHS}那么...想参与惊天大采访吗?\N{\rENG}So...Want to participate in a groundbreaking interview?
+Dialogue: 100,0:04:42.23,0:04:43.26,Normal Dialog Text,,0,0,0,,{\rCHS}嗯...\N{\rENG}Hmm.
 Dialogue: 100,0:04:43.26,0:04:45.23,Normal Dialog Text,,0,0,0,,{\rCHS}除非你肯...\N{\rENG}Only if you...
-Dialogue: 100,0:04:45.23,0:04:49.47,Normal Dialog Text,,0,0,0,,{\rCHS}参与一杯鲜榨柠檬汁!\N{\rENG}Participate in a glass of fresh-squeezed lemonade! 
-Dialogue: 100,0:04:50.80,0:04:53.20,Normal Dialog Text,,0,0,0,,{\rCHS}噢～. 那个巨掌?\N{\rENG}Ohhh. That giant hand? 
+Dialogue: 100,0:04:45.23,0:04:49.47,Normal Dialog Text,,0,0,0,,{\rCHS}参与一杯鲜榨柠檬汁!\N{\rENG}Participate in a glass of fresh-squeezed lemonade!
+Dialogue: 100,0:04:50.80,0:04:53.20,Normal Dialog Text,,0,0,0,,{\rCHS}噢～. 那个巨掌?\N{\rENG}Ohhh. That giant hand?
 Dialogue: 1,0:04:50.80,0:04:53.80,Label Trans,,0,0,0,,{\bord0\shad0}{\pos(1500,850)}史蒂文\N热情的主人
-Dialogue: 100,0:04:53.20,0:04:55.10,Normal Dialog Text,,0,0,0,,{\rCHS}那是一个来抓我们的太空船\N{\rENG}It was a spaceship coming to get us. 
-Dialogue: 100,0:04:55.24,0:04:57.27,Normal Dialog Text,,0,0,0,,{\rCHS}我们?! 我就知道!\N{\rENG}Us?! I knew it! 
-Dialogue: 100,0:04:57.28,0:04:59.78,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文 我们知道的太多了!\N{\rENG}Steven, we know too much! 
-Dialogue: 100,0:04:59.78,0:05:01.31,Normal Dialog Text,,0,0,0,,{\rCHS}不 不是"我们"\N{\rENG}No, not us us. 
-Dialogue: 100,0:05:01.31,0:05:03.38,Normal Dialog Text,,0,0,0,,{\rCHS}我是指我和水晶战士\N{\rENG}I-I meant me and The Crystal Gems. 
+Dialogue: 100,0:04:53.20,0:04:55.10,Normal Dialog Text,,0,0,0,,{\rCHS}那是一个来抓我们的太空船\N{\rENG}It was a spaceship coming to get us.
+Dialogue: 100,0:04:55.24,0:04:57.27,Normal Dialog Text,,0,0,0,,{\rCHS}我们?! 我就知道!\N{\rENG}Us?! I knew it!
+Dialogue: 100,0:04:57.28,0:04:59.78,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文 我们知道的太多了!\N{\rENG}Steven, we know too much!
+Dialogue: 100,0:04:59.78,0:05:01.31,Normal Dialog Text,,0,0,0,,{\rCHS}不 不是"我们"\N{\rENG}No, not us us.
+Dialogue: 100,0:05:01.31,0:05:03.38,Normal Dialog Text,,0,0,0,,{\rCHS}我是指我和水晶战士\N{\rENG}I-I meant me and The Crystal Gems.
 Dialogue: 100,0:05:03.38,0:05:05.82,Normal Dialog Text,,0,0,0,,{\rCHS}等等. 所以巨掌并不是来抓人\N{\rENG}Wait. So the hand wasn't here to snatch up humans
-Dialogue: 100,0:05:05.82,0:05:07.25,Normal Dialog Text,,0,0,0,,{\rCHS}组建人类动物园?\N{\rENG}for a human zoo? 
+Dialogue: 100,0:05:05.82,0:05:07.25,Normal Dialog Text,,0,0,0,,{\rCHS}组建人类动物园?\N{\rENG}for a human zoo?
 Dialogue: 600,0:05:05.82,0:05:07.25,Hint,,0,0,0,,Ronaldo立Flag的水平真是超一流啊
-Dialogue: 100,0:05:07.25,0:05:09.92,Normal Dialog Text,,0,0,0,,{\rCHS}或者干预我们有补贴的沙滩市风力电厂?\N{\rENG}Or interfere with our subsidized Beach City wind farm? 
-Dialogue: 100,0:05:09.92,0:05:13.09,Normal Dialog Text,,0,0,0,,{\rCHS}或者解冻"1%"的冷冻宠物\N{\rENG}Or thaw the cryogenically frozen pets of the one percent?! 
+Dialogue: 100,0:05:07.25,0:05:09.92,Normal Dialog Text,,0,0,0,,{\rCHS}或者干预我们有补贴的沙滩市风力电厂?\N{\rENG}Or interfere with our subsidized Beach City wind farm?
+Dialogue: 100,0:05:09.92,0:05:13.09,Normal Dialog Text,,0,0,0,,{\rCHS}或者解冻"1%"的冷冻宠物\N{\rENG}Or thaw the cryogenically frozen pets of the one percent?!
 Dialogue: 100,0:05:13.09,0:05:15.46,Normal Dialog Text,,0,0,0,,{\rCHS}呃...不 我很确定\N{\rENG}Uh...No, I'm pretty sure
-Dialogue: 100,0:05:15.46,0:05:18.80,Normal Dialog Text,,0,0,0,,{\rCHS}它来沙滩市是为了我和水晶战士\N{\rENG}it came to Beach City for me and The Crystal Gems. 
-Dialogue: 100,0:05:18.80,0:05:20.10,Normal Dialog Text,,0,0,0,,{\rCHS}噢\N{\rENG}Oh. 
-Dialogue: 100,0:05:20.10,0:05:23.83,Normal Dialog Text,,0,0,0,,{\rCHS}所以如果你和水晶战士不在这\N{\rENG}So if you and The Crystal Gems weren't here, 
-Dialogue: 100,0:05:23.84,0:05:27.34,Normal Dialog Text,,0,0,0,,{\rCHS}我们就不会被巨掌攻击了?\N{\rENG}we wouldn't have been attacked by the giant hand? 
-Dialogue: 100,0:05:27.34,0:05:29.44,Normal Dialog Text,,0,0,0,,{\rCHS}噢. 肯定不会\N{\rENG} Ohh. Definitely not. 
-Dialogue: 100,0:05:30.44,0:05:32.48,Normal Dialog Text,,0,0,0,,{\rCHS}当! 当! 当!\N{\rENG}And there it was. 
-Dialogue: 100,0:05:32.48,0:05:35.11,Normal Dialog Text,,0,0,0,,{\rCHS}水晶战士并没有拯救我们\N{\rENG}The Crystal Gems weren't saving us. 
-Dialogue: 100,0:05:35.11,0:05:36.81,Normal Dialog Text,,0,0,0,,{\rCHS}她们令我们处于危险之中\N{\rENG}They were putting us in danger. 
+Dialogue: 100,0:05:15.46,0:05:18.80,Normal Dialog Text,,0,0,0,,{\rCHS}它来沙滩市是为了我和水晶战士\N{\rENG}it came to Beach City for me and The Crystal Gems.
+Dialogue: 100,0:05:18.80,0:05:20.10,Normal Dialog Text,,0,0,0,,{\rCHS}噢\N{\rENG}Oh.
+Dialogue: 100,0:05:20.10,0:05:23.83,Normal Dialog Text,,0,0,0,,{\rCHS}所以如果你和水晶战士不在这\N{\rENG}So if you and The Crystal Gems weren't here,
+Dialogue: 100,0:05:23.84,0:05:27.34,Normal Dialog Text,,0,0,0,,{\rCHS}我们就不会被巨掌攻击了?\N{\rENG}we wouldn't have been attacked by the giant hand?
+Dialogue: 100,0:05:27.34,0:05:29.44,Normal Dialog Text,,0,0,0,,{\rCHS}噢. 肯定不会\N{\rENG} Ohh. Definitely not.
+Dialogue: 100,0:05:30.44,0:05:32.48,Normal Dialog Text,,0,0,0,,{\rCHS}当! 当! 当!\N{\rENG}And there it was.
+Dialogue: 100,0:05:32.48,0:05:35.11,Normal Dialog Text,,0,0,0,,{\rCHS}水晶战士并没有拯救我们\N{\rENG}The Crystal Gems weren't saving us.
+Dialogue: 100,0:05:35.11,0:05:36.81,Normal Dialog Text,,0,0,0,,{\rCHS}她们令我们处于危险之中\N{\rENG}They were putting us in danger.
 Dialogue: 100,0:05:37.82,0:05:39.85,Normal Dialog Text,,0,0,0,,{\rCHS}我感到别无选择\N{\rENG}I felt I had no choice
 Dialogue: 100,0:05:39.85,0:05:42.45,Normal Dialog Text,,0,0,0,,{\rCHS}只能赤裸裸地将这丑恶的事实\N{\rENG}but to lay bare this ugly truth
-Dialogue: 100,0:05:42.46,0:05:45.49,Normal Dialog Text,,0,0,0,,{\rCHS}展现给不知情的沙滩镇居民\N{\rENG}to the unwitting citizens of Beach City. 
-Dialogue: 100,0:05:45.49,0:05:46.92,Normal Dialog Text,,0,0,0,,{\rCHS}女士!\N{\rENG}: Ma'am! 
+Dialogue: 100,0:05:42.46,0:05:45.49,Normal Dialog Text,,0,0,0,,{\rCHS}展现给不知情的沙滩镇居民\N{\rENG}to the unwitting citizens of Beach City.
+Dialogue: 100,0:05:45.49,0:05:46.92,Normal Dialog Text,,0,0,0,,{\rCHS}女士!\N{\rENG}: Ma'am!
 Dialogue: 100,0:05:46.93,0:05:48.43,Normal Dialog Text,,0,0,0,,{\rCHS}你知道水晶战士\N{\rENG}Are you aware that The Crystal Gems
 Dialogue: 100,0:05:48.43,0:05:50.13,Normal Dialog Text,,0,0,0,,{\rCHS}不仅拯救了小镇\N{\rENG}not only saved the town
-Dialogue: 100,0:05:50.13,0:05:52.10,Normal Dialog Text,,0,0,0,,{\rCHS}但同时也是导致入侵的原因?\N{\rENG}but also caused the invasion in the first place? 
-Dialogue: 100,0:05:52.10,0:05:55.30,Normal Dialog Text,,0,0,0,,{\rCHS}噢. 嗯...反正再没有鱼从手里滑掉\N{\rENG}Oh. Well, no more fish are getting knocked out of my hands, 
-Dialogue: 100,0:05:55.30,0:05:57.03,Normal Dialog Text,,0,0,0,,{\rCHS}所以我没什么好抱怨的\N{\rENG}so I'm not complaining. 
-Dialogue: 100,0:05:57.04,0:05:58.30,Normal Dialog Text,,0,0,0,,{\rCHS}先生! 先生!\N{\rENG}Sir! Sir! 
-Dialogue: 1,0:05:57.04,0:06:00.04,Label Trans,,0,0,0,,{\bord0\shad0}{\pos(260,850)}洋葱头\N?????? 
+Dialogue: 100,0:05:50.13,0:05:52.10,Normal Dialog Text,,0,0,0,,{\rCHS}但同时也是导致入侵的原因?\N{\rENG}but also caused the invasion in the first place?
+Dialogue: 100,0:05:52.10,0:05:55.30,Normal Dialog Text,,0,0,0,,{\rCHS}噢. 嗯...反正再没有鱼从手里滑掉\N{\rENG}Oh. Well, no more fish are getting knocked out of my hands,
+Dialogue: 100,0:05:55.30,0:05:57.03,Normal Dialog Text,,0,0,0,,{\rCHS}所以我没什么好抱怨的\N{\rENG}so I'm not complaining.
+Dialogue: 100,0:05:57.04,0:05:58.30,Normal Dialog Text,,0,0,0,,{\rCHS}先生! 先生!\N{\rENG}Sir! Sir!
+Dialogue: 1,0:05:57.04,0:06:00.04,Label Trans,,0,0,0,,{\bord0\shad0}{\pos(260,850)}洋葱头\N??????
 Dialogue: 100,0:05:58.30,0:06:00.00,Normal Dialog Text,,0,0,0,,{\rCHS}你对水晶战士\N{\rENG}How do you feel about The Crystal Gems
-Dialogue: 100,0:06:00.01,0:06:02.34,Normal Dialog Text,,0,0,0,,{\rCHS}吸引危险外星生物袭击的事有什么看法?\N{\rENG}attracting an onslaught of dangerous space beings? 
-Dialogue: 100,0:06:02.34,0:06:03.54,Normal Dialog Text,,0,0,0,,{\rCHS}你感觉安全吗?\N{\rENG}Do you feel safe? 
+Dialogue: 100,0:06:00.01,0:06:02.34,Normal Dialog Text,,0,0,0,,{\rCHS}吸引危险外星生物袭击的事有什么看法?\N{\rENG}attracting an onslaught of dangerous space beings?
+Dialogue: 100,0:06:02.34,0:06:03.54,Normal Dialog Text,,0,0,0,,{\rCHS}你感觉安全吗?\N{\rENG}Do you feel safe?
 Dialogue: 600,0:06:03.54,0:06:05.04,Hint,,0,0,0,,此处洋葱头的举动影射了很多动画节目中寡言角色在规避对话时的举动
-Dialogue: 100,0:06:04.98,0:06:07.28,Normal Dialog Text,,0,0,0,,{\rCHS}嘿! 你不可能永远保持沉默!\N{\rENG}Hey! You can't keep quiet forever! 
+Dialogue: 100,0:06:04.98,0:06:07.28,Normal Dialog Text,,0,0,0,,{\rCHS}嘿! 你不可能永远保持沉默!\N{\rENG}Hey! You can't keep quiet forever!
 Dialogue: 100,0:06:07.28,0:06:11.32,Normal Dialog Text,,0,0,0,,{\rCHS}你怎么能安然生活 明知我们正遭受\N{\rENG}How can you possibly go on, knowing that we are under siege
 Dialogue: 1,0:06:07.28,0:06:10.28,Label Trans,,0,0,0,,{\bord0\shad0}{\pos(1600,850)}爸爸\N监制人
-Dialogue: 100,0:06:11.32,0:06:14.45,Normal Dialog Text,,0,0,0,,{\rCHS}意图打倒水晶战士的力量的围攻?\N{\rENG}by forces meant to destroy The Crystal Gems? 
-Dialogue: 100,0:06:14.45,0:06:17.49,Normal Dialog Text,,0,0,0,,{\rCHS}你还有多久完成这个项目?\N{\rENG}How close are you to being done with this project? 
-Dialogue: 100,0:06:17.49,0:06:19.49,Normal Dialog Text,,0,0,0,,{\rCHS}回答问题 爸爸!\N{\rENG}Just answer the question, dad! 
-Dialogue: 100,0:06:19.49,0:06:22.39,Normal Dialog Text,,0,0,0,,{\rCHS}我-我觉得挺遭的\N{\rENG} I-I guess it's pretty bad. 
-Dialogue: 100,0:06:22.40,0:06:25.53,Normal Dialog Text,,0,0,0,,{\rCHS}但像我这样的普通人又能做什么?\N{\rENG}But what's a regular guy like me supposed to do about it? 
-Dialogue: 100,0:06:25.53,0:06:27.13,Normal Dialog Text,,0,0,0,,{\rCHS}我还有工作要完成\N{\rENG}I've got work to do. 
-Dialogue: 100,0:06:27.13,0:06:29.40,Normal Dialog Text,,0,0,0,,{\rCHS}而且你也是! 放下相机!\N{\rENG}And so do you! Put down that camera! 
+Dialogue: 100,0:06:11.32,0:06:14.45,Normal Dialog Text,,0,0,0,,{\rCHS}意图打倒水晶战士的力量的围攻?\N{\rENG}by forces meant to destroy The Crystal Gems?
+Dialogue: 100,0:06:14.45,0:06:17.49,Normal Dialog Text,,0,0,0,,{\rCHS}你还有多久完成这个项目?\N{\rENG}How close are you to being done with this project?
+Dialogue: 100,0:06:17.49,0:06:19.49,Normal Dialog Text,,0,0,0,,{\rCHS}回答问题 爸爸!\N{\rENG}Just answer the question, dad!
+Dialogue: 100,0:06:19.49,0:06:22.39,Normal Dialog Text,,0,0,0,,{\rCHS}我-我觉得这挺糟心的\N{\rENG} I-I guess it's pretty bad.
+Dialogue: 100,0:06:22.40,0:06:25.53,Normal Dialog Text,,0,0,0,,{\rCHS}但像我这样的普通人又能做什么?\N{\rENG}But what's a regular guy like me supposed to do about it?
+Dialogue: 100,0:06:25.53,0:06:27.13,Normal Dialog Text,,0,0,0,,{\rCHS}我还有工作要完成\N{\rENG}I've got work to do.
+Dialogue: 100,0:06:27.13,0:06:29.40,Normal Dialog Text,,0,0,0,,{\rCHS}而且你也是! 放下相机!\N{\rENG}And so do you! Put down that camera!
 Dialogue: 100,0:06:31.00,0:06:32.67,Normal Dialog Text,,0,0,0,,{\rCHS}每个人都过于害怕\N{\rENG}Everyone was too afraid
-Dialogue: 100,0:06:32.67,0:06:35.91,Normal Dialog Text,,0,0,0,,{\rCHS}意识到他们实际上很害怕\N{\rENG}to realize they were actually afraid. 
-Dialogue: 100,0:06:35.91,0:06:38.04,Normal Dialog Text,,0,0,0,,{\rCHS}沙滩镇需要一个英雄\N{\rENG}Beach City needed a hero. 
-Dialogue: 100,0:06:38.04,0:06:41.35,Normal Dialog Text,,0,0,0,,{\rCHS}而且那个英雄必须是我\N{\rENG}And that hero would have to be me. 
+Dialogue: 100,0:06:32.67,0:06:35.91,Normal Dialog Text,,0,0,0,,{\rCHS}意识到他们实际上很害怕\N{\rENG}to realize they were actually afraid.
+Dialogue: 100,0:06:35.91,0:06:38.04,Normal Dialog Text,,0,0,0,,{\rCHS}沙滩镇需要一个英雄\N{\rENG}Beach City needed a hero.
+Dialogue: 100,0:06:38.04,0:06:41.35,Normal Dialog Text,,0,0,0,,{\rCHS}而且那个英雄必须是我\N{\rENG}And that hero would have to be me.
 Dialogue: 100,0:06:41.35,0:06:42.38,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Whoa, whoa--
 Dialogue: 100,0:06:42.38,0:06:44.01,Normal Dialog Text,,0,0,0,,{\rCHS}OK 都准备好了\N{\rENG}okay, everything's ready
-Dialogue: 100,0:06:44.02,0:06:46.68,Normal Dialog Text,,0,0,0,,{\rCHS}可以开始我们的夜间潜入活动报道\N{\rENG}for our full-on nighttime stealth coverage. 
+Dialogue: 100,0:06:44.02,0:06:46.68,Normal Dialog Text,,0,0,0,,{\rCHS}可以开始我们的夜间潜入活动报道\N{\rENG}for our full-on nighttime stealth coverage.
 Dialogue: 100,0:06:46.69,0:06:48.52,Normal Dialog Text,,0,0,0,,{\rCHS}我们这样真的好吗?\N{\rENG}Is it really okay for us to be
-Dialogue: 100,0:06:48.52,0:06:50.09,Normal Dialog Text,,0,0,0,,{\rCHS}像这样在这里瞎逛?\N{\rENG}lurking around here like this? 
-Dialogue: 100,0:06:50.09,0:06:52.66,Normal Dialog Text,,0,0,0,,{\rCHS}我们不是瞎逛! 我们在调查!\N{\rENG}We're not lurking! We're investigating! 
-Dialogue: 100,0:06:52.66,0:06:55.06,Normal Dialog Text,,0,0,0,,{\rCHS}这是见证勇气的时刻\N{\rENG}This is a moment of true bravery. 
-Dialogue: 100,0:06:55.06,0:06:56.49,Normal Dialog Text,,0,0,0,,{\rCHS}你像我一样勇敢吗?\N{\rENG}Are you brave like me? 
-Dialogue: 100,0:06:56.50,0:06:58.60,Normal Dialog Text,,0,0,0,,{\rCHS}我足够勇敢到做这件事\N{\rENG}I'm so brave to be doing this. 
-Dialogue: 100,0:06:58.60,0:06:59.90,Normal Dialog Text,,0,0,0,,{\rCHS}快来!\N{\rENG}Come on! 
-Dialogue: 100,0:06:59.90,0:07:02.17,Normal Dialog Text,,0,0,0,,{\rCHS}啊啊啊!\N{\rENG} Aaah! 
-Dialogue: 100,0:07:02.17,0:07:03.40,Normal Dialog Text,,0,0,0,,{\rCHS}啊啊啊!\N{\rENG}Aaaah! 
-Dialogue: 100,0:07:03.40,0:07:04.94,Normal Dialog Text,,0,0,0,,{\rCHS}回去 弟弟!\N{\rENG}Stay back, little bro! 
-Dialogue: 100,0:07:04.94,0:07:06.34,Normal Dialog Text,,0,0,0,,{\rCHS}比比谁先回到危险区\N{\rENG}Race you back to the danger zone. 
+Dialogue: 100,0:06:48.52,0:06:50.09,Normal Dialog Text,,0,0,0,,{\rCHS}像这样在这里瞎逛?\N{\rENG}lurking around here like this?
+Dialogue: 100,0:06:50.09,0:06:52.66,Normal Dialog Text,,0,0,0,,{\rCHS}我们不是瞎逛! 我们在调查!\N{\rENG}We're not lurking! We're investigating!
+Dialogue: 100,0:06:52.66,0:06:55.06,Normal Dialog Text,,0,0,0,,{\rCHS}这是见证勇气的时刻\N{\rENG}This is a moment of true bravery.
+Dialogue: 100,0:06:55.06,0:06:56.49,Normal Dialog Text,,0,0,0,,{\rCHS}你像我一样勇敢吗?\N{\rENG}Are you brave like me?
+Dialogue: 100,0:06:56.50,0:06:58.60,Normal Dialog Text,,0,0,0,,{\rCHS}我足够勇敢到做这件事\N{\rENG}I'm so brave to be doing this.
+Dialogue: 100,0:06:58.60,0:06:59.90,Normal Dialog Text,,0,0,0,,{\rCHS}快来!\N{\rENG}Come on!
+Dialogue: 100,0:06:59.90,0:07:02.17,Normal Dialog Text,,0,0,0,,{\rCHS}啊啊啊!\N{\rENG} Aaah!
+Dialogue: 100,0:07:02.17,0:07:03.40,Normal Dialog Text,,0,0,0,,{\rCHS}啊啊啊!\N{\rENG}Aaaah!
+Dialogue: 100,0:07:03.40,0:07:04.94,Normal Dialog Text,,0,0,0,,{\rCHS}回去 弟弟!\N{\rENG}Stay back, little bro!
+Dialogue: 100,0:07:04.94,0:07:06.34,Normal Dialog Text,,0,0,0,,{\rCHS}比比谁先回到危险区\N{\rENG}Race you back to the danger zone.
 Dialogue: 600,0:07:04.94,0:07:06.34,Hint,,0,0,0,,Amethyst的话源自电影"壮志凌云"主题曲
-Dialogue: 100,0:07:06.34,0:07:08.04,Normal Dialog Text,,0,0,0,,{\rCHS}等等!-史蒂文!\N{\rENG}Wait up! Steven! 
-Dialogue: 100,0:07:08.04,0:07:10.17,Normal Dialog Text,,0,0,0,,{\rCHS}呃 嘿 罗尔纳多. 嘿 佩迪\N{\rENG}Uh, hey, Ronaldo. Hey, peedee. 
+Dialogue: 100,0:07:06.34,0:07:08.04,Normal Dialog Text,,0,0,0,,{\rCHS}等等!-史蒂文!\N{\rENG}Wait up! Steven!
+Dialogue: 100,0:07:08.04,0:07:10.17,Normal Dialog Text,,0,0,0,,{\rCHS}呃 嘿 罗尔纳多. 嘿 佩迪\N{\rENG}Uh, hey, Ronaldo. Hey, peedee.
 Dialogue: 100,0:07:10.18,0:07:11.94,Normal Dialog Text,,0,0,0,,{\rCHS}你们应该小心-\N{\rENG}You guys should be careful--
-Dialogue: 100,0:07:11.94,0:07:13.71,Normal Dialog Text,,0,0,0,,{\rCHS}别开玩笑了!\N{\rENG} Cut the pleasantries! 
-Dialogue: 100,0:07:13.71,0:07:16.05,Normal Dialog Text,,0,0,0,,{\rCHS}你们都是我们市的危险因素!\N{\rENG}You're all a danger to our city! 
-Dialogue: 100,0:07:16.05,0:07:17.28,Normal Dialog Text,,0,0,0,,{\rCHS}你在说什么?\N{\rENG}What are you talking about? 
-Dialogue: 100,0:07:17.28,0:07:18.95,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠! 现在!\N{\rENG}Pearl! Now! 
-Dialogue: 100,0:07:18.95,0:07:21.39,Normal Dialog Text,,0,0,0,,{\rCHS}噢 天辣噜! 那是个什么鬼东西?!\N{\rENG}Hohhh, my gosh! What the heck is that?! 
-Dialogue: 100,0:07:21.39,0:07:23.12,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠! 现在!\N{\rENG} Pearl! Now! 
-Dialogue: 100,0:07:23.12,0:07:24.72,Normal Dialog Text,,0,0,0,,{\rCHS}哈! 瞄着眼睛!\N{\rENG}Ha! Aim for the eye! 
-Dialogue: 100,0:07:24.72,0:07:26.06,Normal Dialog Text,,0,0,0,,{\rCHS}好的 石榴\N{\rENG}Aye-aye, Garnet. 
-Dialogue: 100,0:07:26.06,0:07:27.22,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶在哪?\N{\rENG}Where's Amethyst? 
-Dialogue: 100,0:07:27.23,0:07:29.19,Normal Dialog Text,,0,0,0,,{\rCHS}在这!\N{\rENG}Right here! 
-Dialogue: 100,0:07:30.40,0:07:32.13,Normal Dialog Text,,0,0,0,,{\rCHS}让我们完成这个任务吧!\N{\rENG}Let's finish the job. 
-Dialogue: 100,0:07:32.13,0:07:35.73,Normal Dialog Text,,0,0,0,,{\rCHS}这正是我说的 史蒂文!\N{\rENG}This is exactly the kind of thing I'm talking about, Steven! 
-Dialogue: 100,0:07:35.73,0:07:38.10,Normal Dialog Text,,0,0,0,,{\rCHS}但水晶战士是来帮助人们的\N{\rENG}But The Crystal Gems are here to help people. 
+Dialogue: 100,0:07:11.94,0:07:13.71,Normal Dialog Text,,0,0,0,,{\rCHS}别开玩笑了!\N{\rENG} Cut the pleasantries!
+Dialogue: 100,0:07:13.71,0:07:16.05,Normal Dialog Text,,0,0,0,,{\rCHS}你们都是我们市的危险因素!\N{\rENG}You're all a danger to our city!
+Dialogue: 100,0:07:16.05,0:07:17.28,Normal Dialog Text,,0,0,0,,{\rCHS}你在说什么?\N{\rENG}What are you talking about?
+Dialogue: 100,0:07:17.28,0:07:18.95,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠! 现在!\N{\rENG}Pearl! Now!
+Dialogue: 100,0:07:18.95,0:07:21.39,Normal Dialog Text,,0,0,0,,{\rCHS}噢 天辣噜! 那是个什么鬼东西?!\N{\rENG}Hohhh, my gosh! What the heck is that?!
+Dialogue: 100,0:07:21.39,0:07:23.12,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠! 现在!\N{\rENG} Pearl! Now!
+Dialogue: 100,0:07:23.12,0:07:24.72,Normal Dialog Text,,0,0,0,,{\rCHS}哈! 瞄着眼睛!\N{\rENG}Ha! Aim for the eye!
+Dialogue: 100,0:07:24.72,0:07:26.06,Normal Dialog Text,,0,0,0,,{\rCHS}好的 石榴\N{\rENG}Aye-aye, Garnet.
+Dialogue: 100,0:07:26.06,0:07:27.22,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶在哪?\N{\rENG}Where's Amethyst?
+Dialogue: 100,0:07:27.23,0:07:29.19,Normal Dialog Text,,0,0,0,,{\rCHS}在这!\N{\rENG}Right here!
+Dialogue: 100,0:07:30.40,0:07:32.13,Normal Dialog Text,,0,0,0,,{\rCHS}让我们完成这个任务吧!\N{\rENG}Let's finish the job.
+Dialogue: 100,0:07:32.13,0:07:35.73,Normal Dialog Text,,0,0,0,,{\rCHS}这正是我说的 史蒂文!\N{\rENG}This is exactly the kind of thing I'm talking about, Steven!
+Dialogue: 100,0:07:35.73,0:07:38.10,Normal Dialog Text,,0,0,0,,{\rCHS}但水晶战士是来帮助人们的\N{\rENG}But The Crystal Gems are here to help people.
 Dialogue: 100,0:07:38.10,0:07:41.47,Normal Dialog Text,,0,0,0,,{\rCHS}但所有的怪物只因为你们\N{\rENG}But all the monsters just come here to get you guys
-Dialogue: 100,0:07:41.47,0:07:44.44,Normal Dialog Text,,0,0,0,,{\rCHS}同时四处破坏 让我们处于危险\N{\rENG}and then wreck things and put us in danger! 
-Dialogue: 100,0:07:44.44,0:07:48.11,Normal Dialog Text,,0,0,0,,{\rCHS}沙滩市如果没有你们会安全很多!\N{\rENG}Beach City would be way safer if you guys weren't here! 
+Dialogue: 100,0:07:41.47,0:07:44.44,Normal Dialog Text,,0,0,0,,{\rCHS}同时四处破坏 让我们处于危险\N{\rENG}and then wreck things and put us in danger!
+Dialogue: 100,0:07:44.44,0:07:48.11,Normal Dialog Text,,0,0,0,,{\rCHS}沙滩市如果没有你们会安全很多!\N{\rENG}Beach City would be way safer if you guys weren't here!
 Dialogue: 1,0:07:46.75,0:07:49.75,Label Trans,,0,0,0,,{\bord0\shad0}{\pos(1630,850)}水晶战士\N沙滩市没有他们会更安全
-Dialogue: 100,0:07:48.11,0:07:49.41,Normal Dialog Text,,0,0,0,,{\rCHS}听着 薯条仔 \N{\rENG}Listen, frybo. 
-Dialogue: 100,0:07:49.42,0:07:51.62,Normal Dialog Text,,0,0,0,,{\rCHS}魔法生物确实是被我们吸引过来的\N{\rENG}Magic beings are indeed drawn to us, 
-Dialogue: 100,0:07:51.62,0:07:55.25,Normal Dialog Text,,0,0,0,,{\rCHS}但我们在沙滩市存在前很久就来了\N{\rENG}but we were here long before Beach City even existed. 
-Dialogue: 100,0:07:55.25,0:07:57.25,Normal Dialog Text,,0,0,0,,{\rCHS}谁在乎你们呆在这里有多久?!\N{\rENG}Who cares how long you've been here?! 
+Dialogue: 100,0:07:48.11,0:07:49.41,Normal Dialog Text,,0,0,0,,{\rCHS}听着 薯条仔 \N{\rENG}Listen, frybo.
+Dialogue: 100,0:07:49.42,0:07:51.62,Normal Dialog Text,,0,0,0,,{\rCHS}魔法生物确实是被我们吸引过来的\N{\rENG}Magic beings are indeed drawn to us,
+Dialogue: 100,0:07:51.62,0:07:55.25,Normal Dialog Text,,0,0,0,,{\rCHS}但我们在沙滩市存在前很久就来了\N{\rENG}but we were here long before Beach City even existed.
+Dialogue: 100,0:07:55.25,0:07:57.25,Normal Dialog Text,,0,0,0,,{\rCHS}谁在乎你们呆在这里有多久?!\N{\rENG}Who cares how long you've been here?!
 Dialogue: 100,0:07:57.26,0:07:58.99,Normal Dialog Text,,0,0,0,,{\rCHS}无辜的人将一直处于危险之中\N{\rENG}Innocent people are in danger
-Dialogue: 100,0:07:58.99,0:08:00.72,Normal Dialog Text,,0,0,0,,{\rCHS}只要你们还在这里!\N{\rENG}as long as you're hanging around! 
-Dialogue: 100,0:08:00.73,0:08:03.29,Normal Dialog Text,,0,0,0,,{\rCHS}你说的对. 我觉得我们还是离开吧.\N{\rENG}You're right. I guess we'll just leave, then. 
-Dialogue: 100,0:08:03.30,0:08:05.10,Normal Dialog Text,,0,0,0,,{\rCHS}等等? 真的?!\N{\rENG}Excuse me? Really?! 
+Dialogue: 100,0:07:58.99,0:08:00.72,Normal Dialog Text,,0,0,0,,{\rCHS}只要你们还在这里!\N{\rENG}as long as you're hanging around!
+Dialogue: 100,0:08:00.73,0:08:03.29,Normal Dialog Text,,0,0,0,,{\rCHS}你说的对. 我觉得我们还是离开吧.\N{\rENG}You're right. I guess we'll just leave, then.
+Dialogue: 100,0:08:03.30,0:08:05.10,Normal Dialog Text,,0,0,0,,{\rCHS}等等? 真的?!\N{\rENG}Excuse me? Really?!
 Dialogue: 100,0:08:05.10,0:08:06.23,Normal Dialog Text,,0,0,0,,{\rCHS}但 石榴-\N{\rENG}But, Garnet--
-Dialogue: 100,0:08:06.23,0:08:08.47,Normal Dialog Text,,0,0,0,,{\rCHS}别但是了 史蒂文\N{\rENG}put your buts away, Steven. 
-Dialogue: 100,0:08:08.47,0:08:10.67,Normal Dialog Text,,0,0,0,,{\rCHS}我们在这里不受欢迎 那么我们就走呗.\N{\rENG}We're not wanted here, so let's just leave. 
-Dialogue: 100,0:08:10.67,0:08:13.14,Normal Dialog Text,,0,0,0,,{\rCHS}但 石榴 我们得搬运所有的泡泡\N{\rENG}But, Garnet, we'll have to move all the bubbles. 
-Dialogue: 100,0:08:13.14,0:08:15.11,Normal Dialog Text,,0,0,0,,{\rCHS}而-而且史蒂文的东西呢?\N{\rENG}A-and what about Steven's things? 
-Dialogue: 100,0:08:15.11,0:08:18.28,Normal Dialog Text,,0,0,0,,{\rCHS}天! 我还挺喜欢这的\N{\rENG}Man! Ugh. I kind of liked it here. 
+Dialogue: 100,0:08:06.23,0:08:08.47,Normal Dialog Text,,0,0,0,,{\rCHS}别但是了 史蒂文\N{\rENG}put your buts away, Steven.
+Dialogue: 100,0:08:08.47,0:08:10.67,Normal Dialog Text,,0,0,0,,{\rCHS}我们在这里不受欢迎 那么我们就走呗.\N{\rENG}We're not wanted here, so let's just leave.
+Dialogue: 100,0:08:10.67,0:08:13.14,Normal Dialog Text,,0,0,0,,{\rCHS}但 石榴 我们得搬运所有的泡泡\N{\rENG}But, Garnet, we'll have to move all the bubbles.
+Dialogue: 100,0:08:13.14,0:08:15.11,Normal Dialog Text,,0,0,0,,{\rCHS}而-而且史蒂文的东西呢?\N{\rENG}A-and what about Steven's things?
+Dialogue: 100,0:08:15.11,0:08:18.28,Normal Dialog Text,,0,0,0,,{\rCHS}天! 我还挺喜欢这的\N{\rENG}Man! Ugh. I kind of liked it here.
 Dialogue: 100,0:08:18.28,0:08:19.51,Normal Dialog Text,,0,0,0,,{\rCHS}呃...\N{\rENG}Uh...
-Dialogue: 100,0:08:19.51,0:08:22.28,Normal Dialog Text,,0,0,0,,{\rCHS}任务完成!\N{\rENG}Mission accomplished! 
+Dialogue: 100,0:08:19.51,0:08:22.28,Normal Dialog Text,,0,0,0,,{\rCHS}任务完成!\N{\rENG}Mission accomplished!
 Dialogue: 100,0:08:22.28,0:08:24.11,Normal Dialog Text,,0,0,0,,{\rCHS}呃 你可以把摄像机转向-\N{\rENG}Uh, you can turn the camera o--
-Dialogue: 100,0:08:24.12,0:08:25.35,Normal Dialog Text,,0,0,0,,{\rCHS}啊....\N{\rENG}ahhhhh. 
+Dialogue: 100,0:08:24.12,0:08:25.35,Normal Dialog Text,,0,0,0,,{\rCHS}啊....\N{\rENG}ahhhhh.
 Dialogue: 1,0:08:24.12,0:08:27.12,Label Trans,,0,0,0,,{\pos(210,850)}罗尔纳多\N成功的纪录片导演
-Dialogue: 100,0:08:25.35,0:08:27.18,Normal Dialog Text,,0,0,0,,{\rCHS}恩 是的. 我做到了.\N{\rENG}That's right. I did it. 
-Dialogue: 100,0:08:27.19,0:08:29.32,Normal Dialog Text,,0,0,0,,{\rCHS}多亏了我 那些宝石人永远的离开了这个小镇\N{\rENG}Thanks to me, the gems are gone forever. 
-Dialogue: 100,0:08:29.32,0:08:31.02,Normal Dialog Text,,0,0,0,,{\rCHS}那真是太在了\N{\rENG}Mm. That's too bad. 
-Dialogue: 100,0:08:31.02,0:08:33.29,Normal Dialog Text,,0,0,0,,{\rCHS}现在已没有可以发博客的内容了\N{\rENG}Now you won't have anything to blog about anymore. 
-Dialogue: 100,0:08:33.29,0:08:35.29,Normal Dialog Text,,0,0,0,,{\rCHS}拜托 兄弟. 我给影片结尾呢\N{\rENG}Come on, dude. I'm trying to finish the movie. 
-Dialogue: 100,0:08:35.29,0:08:36.69,Normal Dialog Text,,0,0,0,,{\rCHS}好吧 这和你的影片有关\N{\rENG}Well, this relates to your movie. 
+Dialogue: 100,0:08:25.35,0:08:27.18,Normal Dialog Text,,0,0,0,,{\rCHS}恩 是的. 我做到了.\N{\rENG}That's right. I did it.
+Dialogue: 100,0:08:27.19,0:08:29.32,Normal Dialog Text,,0,0,0,,{\rCHS}多亏了我 那些宝石人永远的离开了这个小镇\N{\rENG}Thanks to me, the gems are gone forever.
+Dialogue: 100,0:08:29.32,0:08:31.02,Normal Dialog Text,,0,0,0,,{\rCHS}那真是太在了\N{\rENG}Mm. That's too bad.
+Dialogue: 100,0:08:31.02,0:08:33.29,Normal Dialog Text,,0,0,0,,{\rCHS}现在已没有可以发博客的内容了\N{\rENG}Now you won't have anything to blog about anymore.
+Dialogue: 100,0:08:33.29,0:08:35.29,Normal Dialog Text,,0,0,0,,{\rCHS}拜托 兄弟. 我给影片结尾呢\N{\rENG}Come on, dude. I'm trying to finish the movie.
+Dialogue: 100,0:08:35.29,0:08:36.69,Normal Dialog Text,,0,0,0,,{\rCHS}好吧 这和你的影片有关\N{\rENG}Well, this relates to your movie.
 Dialogue: 100,0:08:36.70,0:08:38.36,Normal Dialog Text,,0,0,0,,{\rCHS}你自己说的\N{\rENG}You said it yourself--
-Dialogue: 100,0:08:38.36,0:08:40.70,Normal Dialog Text,,0,0,0,,{\rCHS}宝石人是沙滩镇一切奇特事物的源头\N{\rENG}the gems cause all the weird stuff in Beach City, 
-Dialogue: 100,0:08:40.70,0:08:43.70,Normal Dialog Text,,0,0,0,,{\rCHS}所以现在他们离开了 也就不会有什么奇怪的东西了.\N{\rENG}so now that they're gone, there'll be no more weird stuff. 
-Dialogue: 100,0:08:43.70,0:08:45.50,Normal Dialog Text,,0,0,0,,{\rCHS}不\N{\rENG}No. 
-Dialogue: 100,0:08:45.50,0:08:47.30,Normal Dialog Text,,0,0,0,,{\rCHS}不!\N{\rENG}No! 
-Dialogue: 100,0:08:47.31,0:08:49.21,Normal Dialog Text,,0,0,0,,{\rCHS}我做了什么?!\N{\rENG}What have I done?! 
-Dialogue: 100,0:08:49.21,0:08:51.78,Normal Dialog Text,,0,0,0,,{\rCHS}我-做了-什么?\N{\rENG}What had I done? 
-Dialogue: 100,0:08:51.78,0:08:53.78,Normal Dialog Text,,0,0,0,,{\rCHS}我搞砸了\N{\rENG}I done bad. 
-Dialogue: 100,0:08:53.78,0:08:56.55,Normal Dialog Text,,0,0,0,,{\rCHS}我犯了一个大错\N{\rENG}I made a terrible mistake. 
-Dialogue: 100,0:08:59.29,0:09:01.32,Normal Dialog Text,,0,0,0,,{\rCHS}这可是"异死攸关"的大事!\N{\rENG}This is a matter of weird and death! 
-Dialogue: 100,0:09:01.32,0:09:03.62,Normal Dialog Text,,0,0,0,,{\rCHS}我...不能跑的再快了!\N{\rENG}I'm going...As fast as I can! 
-Dialogue: 100,0:09:04.72,0:09:07.79,Normal Dialog Text,,0,0,0,,{\rCHS}水晶战士! 你们一定要留下来!\N{\rENG}Crystal gems! You have to stay! 
+Dialogue: 100,0:08:38.36,0:08:40.70,Normal Dialog Text,,0,0,0,,{\rCHS}宝石人是沙滩镇一切奇特事物的源头\N{\rENG}the gems cause all the weird stuff in Beach City,
+Dialogue: 100,0:08:40.70,0:08:43.70,Normal Dialog Text,,0,0,0,,{\rCHS}所以现在他们离开了 也就不会有什么奇怪的东西了.\N{\rENG}so now that they're gone, there'll be no more weird stuff.
+Dialogue: 100,0:08:43.70,0:08:45.50,Normal Dialog Text,,0,0,0,,{\rCHS}不\N{\rENG}No.
+Dialogue: 100,0:08:45.50,0:08:47.30,Normal Dialog Text,,0,0,0,,{\rCHS}不!\N{\rENG}No!
+Dialogue: 100,0:08:47.31,0:08:49.21,Normal Dialog Text,,0,0,0,,{\rCHS}我做了什么?!\N{\rENG}What have I done?!
+Dialogue: 100,0:08:49.21,0:08:51.78,Normal Dialog Text,,0,0,0,,{\rCHS}我-做了-什么?\N{\rENG}What had I done?
+Dialogue: 100,0:08:51.78,0:08:53.78,Normal Dialog Text,,0,0,0,,{\rCHS}我搞砸了\N{\rENG}I done bad.
+Dialogue: 100,0:08:53.78,0:08:56.55,Normal Dialog Text,,0,0,0,,{\rCHS}我犯了一个大错\N{\rENG}I made a terrible mistake.
+Dialogue: 100,0:08:59.29,0:09:01.32,Normal Dialog Text,,0,0,0,,{\rCHS}这可是"异死攸关"的大事!\N{\rENG}This is a matter of weird and death!
+Dialogue: 100,0:09:01.32,0:09:03.62,Normal Dialog Text,,0,0,0,,{\rCHS}我...不能跑的再快了!\N{\rENG}I'm going...As fast as I can!
+Dialogue: 100,0:09:04.72,0:09:07.79,Normal Dialog Text,,0,0,0,,{\rCHS}水晶战士! 你们一定要留下来!\N{\rENG}Crystal gems! You have to stay!
 Dialogue: 100,0:09:07.79,0:09:10.16,Normal Dialog Text,,0,0,0,,{\rCHS}你们存在导致的每场混乱\N{\rENG}Every messed-up consequence of your presence
-Dialogue: 100,0:09:10.16,0:09:12.53,Normal Dialog Text,,0,0,0,,{\rCHS}是我每天起床的理由!\N{\rENG}gives me reason to wake up in the morning! 
-Dialogue: 100,0:09:12.53,0:09:15.73,Normal Dialog Text,,0,0,0,,{\rCHS}没有你们 我的博客就毁了!\N{\rENG}Without you, my blog doesn't stand a chance! 
-Dialogue: 100,0:09:15.73,0:09:18.30,Normal Dialog Text,,0,0,0,,{\rCHS}我太晚了! 我都做了什么?!\N{\rENG}I'm too late! What have I done?! 
+Dialogue: 100,0:09:10.16,0:09:12.53,Normal Dialog Text,,0,0,0,,{\rCHS}是我每天起床的理由!\N{\rENG}gives me reason to wake up in the morning!
+Dialogue: 100,0:09:12.53,0:09:15.73,Normal Dialog Text,,0,0,0,,{\rCHS}没有你们 我的博客就毁了!\N{\rENG}Without you, my blog doesn't stand a chance!
+Dialogue: 100,0:09:15.73,0:09:18.30,Normal Dialog Text,,0,0,0,,{\rCHS}我太晚了! 我都做了什么?!\N{\rENG}I'm too late! What have I done?!
 Dialogue: 100,0:09:18.30,0:09:20.50,Normal Dialog Text,,0,0,0,,{\rCHS}我让沙滩市...\N{\rENG}I've made Beach City...
-Dialogue: 100,0:09:20.51,0:09:21.71,Normal Dialog Text,,0,0,0,,{\rCHS}正常了!\N{\rENG}Normal! 
-Dialogue: 100,0:09:23.51,0:09:27.24,Normal Dialog Text,,0,0,0,,{\rCHS}我打破了我对小镇的誓言!\N{\rENG}I've broken my promise to the city! 
-Dialogue: 100,0:09:27.25,0:09:29.38,Normal Dialog Text,,0,0,0,,{\rCHS}还有对我自己的!\N{\rENG}And to myself! 
-Dialogue: 100,0:09:33.72,0:09:35.75,Normal Dialog Text,,0,0,0,,{\rCHS}你们还在!\N{\rENG}You're still here! 
-Dialogue: 100,0:09:35.75,0:09:38.52,Normal Dialog Text,,0,0,0,,{\rCHS}求求你别走! 我错了!\N{\rENG}Please don't leave! I was wrong! 
-Dialogue: 100,0:09:38.52,0:09:41.06,Normal Dialog Text,,0,0,0,,{\rCHS}留下来并继续让这个小镇怪异吧!\N{\rENG}Stay and keep this town weird! 
+Dialogue: 100,0:09:20.51,0:09:21.71,Normal Dialog Text,,0,0,0,,{\rCHS}正常了!\N{\rENG}Normal!
+Dialogue: 100,0:09:23.51,0:09:27.24,Normal Dialog Text,,0,0,0,,{\rCHS}我打破了我对小镇的誓言!\N{\rENG}I've broken my promise to the city!
+Dialogue: 100,0:09:27.25,0:09:29.38,Normal Dialog Text,,0,0,0,,{\rCHS}还有对我自己的!\N{\rENG}And to myself!
+Dialogue: 100,0:09:33.72,0:09:35.75,Normal Dialog Text,,0,0,0,,{\rCHS}你们还在!\N{\rENG}You're still here!
+Dialogue: 100,0:09:35.75,0:09:38.52,Normal Dialog Text,,0,0,0,,{\rCHS}求求你别走! 我错了!\N{\rENG}Please don't leave! I was wrong!
+Dialogue: 100,0:09:38.52,0:09:41.06,Normal Dialog Text,,0,0,0,,{\rCHS}留下来并继续让这个小镇怪异吧!\N{\rENG}Stay and keep this town weird!
 Dialogue: 100,0:09:41.06,0:09:43.09,Normal Dialog Text,,0,0,0,,{\rCHS}我完全没有头绪\N{\rENG}I had no idea
-Dialogue: 100,0:09:43.10,0:09:46.36,Normal Dialog Text,,0,0,0,,{\rCHS}不知水晶战士会如何回应我的请求\N{\rENG}how this Crystal Gem would respond to my plea. 
-Dialogue: 100,0:09:46.37,0:09:49.23,Normal Dialog Text,,0,0,0,,{\rCHS}答案你绝对想不到\N{\rENG}The answer will shock you. 
-Dialogue: 100,0:09:49.24,0:09:50.33,Normal Dialog Text,,0,0,0,,{\rCHS}好吧\N{\rENG}Okay. 
-Dialogue: 100,0:09:50.34,0:09:52.24,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Haaaaaaaaaaaah! 
-Dialogue: 100,0:09:52.24,0:09:56.77,Normal Dialog Text,,0,0,0,,{\rCHS}谢谢! 谢谢! 谢谢!\N{\rENG}Thank you! Thank you! Thank you! 
-Dialogue: 100,0:10:01.68,0:10:06.08,Normal Dialog Text,,0,0,0,,{\rCHS}我熟练的说服宝石人留下来\N{\rENG}I had skillfully negotiated for the gems to stay. 
+Dialogue: 100,0:09:43.10,0:09:46.36,Normal Dialog Text,,0,0,0,,{\rCHS}不知水晶战士会如何回应我的请求\N{\rENG}how this Crystal Gem would respond to my plea.
+Dialogue: 100,0:09:46.37,0:09:49.23,Normal Dialog Text,,0,0,0,,{\rCHS}答案你绝对想不到\N{\rENG}The answer will shock you.
+Dialogue: 100,0:09:49.24,0:09:50.33,Normal Dialog Text,,0,0,0,,{\rCHS}好吧\N{\rENG}Okay.
+Dialogue: 100,0:09:50.34,0:09:52.24,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Haaaaaaaaaaaah!
+Dialogue: 100,0:09:52.24,0:09:56.77,Normal Dialog Text,,0,0,0,,{\rCHS}谢谢! 谢谢! 谢谢!\N{\rENG}Thank you! Thank you! Thank you!
+Dialogue: 100,0:10:01.68,0:10:06.08,Normal Dialog Text,,0,0,0,,{\rCHS}我熟练的说服宝石人留下来\N{\rENG}I had skillfully negotiated for the gems to stay.
 Dialogue: 100,0:10:06.09,0:10:08.55,Normal Dialog Text,,0,0,0,,{\rCHS}也许我以后可以做...\N{\rENG}Perhaps I have a future in...
-Dialogue: 100,0:10:08.55,0:10:10.89,Normal Dialog Text,,0,0,0,,{\rCHS}星际外交官?\N{\rENG}Intergalactic diplomacy? 
-Dialogue: 100,0:10:12.79,0:10:14.42,Normal Dialog Text,,0,0,0,,{\rCHS}最后 \N{\rENG}In the end, 
+Dialogue: 100,0:10:08.55,0:10:10.89,Normal Dialog Text,,0,0,0,,{\rCHS}星际外交官?\N{\rENG}Intergalactic diplomacy?
+Dialogue: 100,0:10:12.79,0:10:14.42,Normal Dialog Text,,0,0,0,,{\rCHS}最后 \N{\rENG}In the end,
 Dialogue: 100,0:10:14.43,0:10:17.63,Normal Dialog Text,,0,0,0,,{\rCHS}我觉得宝石人们确实拯救了沙滩市\N{\rENG}I suppose the gems really do save Beach City--
-Dialogue: 100,0:10:17.63,0:10:20.40,Normal Dialog Text,,0,0,0,,{\rCHS}免其毫无异象!\N{\rENG}from being not weird! 
-Dialogue: 100,0:10:20.40,0:10:22.70,Normal Dialog Text,,0,0,0,,{\rCHS}好了 佩迪 我觉得可以结束了\N{\rENG}Okay, peedee, I think that about wraps it up. 
-Dialogue: 100,0:10:22.70,0:10:24.47,Normal Dialog Text,,0,0,0,,{\rCHS}拍的不错 兄弟\N{\rENG}Good job with the camera, bro. 
-Dialogue: 100,0:10:24.47,0:10:25.54,Normal Dialog Text,,0,0,0,,{\rCHS}噢 谢谢\N{\rENG}Oh. Thanks. 
+Dialogue: 100,0:10:17.63,0:10:20.40,Normal Dialog Text,,0,0,0,,{\rCHS}免其毫无异象!\N{\rENG}from being not weird!
+Dialogue: 100,0:10:20.40,0:10:22.70,Normal Dialog Text,,0,0,0,,{\rCHS}好了 佩迪 我觉得可以结束了\N{\rENG}Okay, peedee, I think that about wraps it up.
+Dialogue: 100,0:10:22.70,0:10:24.47,Normal Dialog Text,,0,0,0,,{\rCHS}拍的不错 兄弟\N{\rENG}Good job with the camera, bro.
+Dialogue: 100,0:10:24.47,0:10:25.54,Normal Dialog Text,,0,0,0,,{\rCHS}噢 谢谢\N{\rENG}Oh. Thanks.
 Dialogue: 1,0:10:25.96,0:10:27.90,Label Trans,,0,0,0,,{\pos(960,320)}信息
 Dialogue: 1,0:10:25.96,0:10:27.90,Label Trans,,0,0,0,,{\pos(960,470)}所有内容均由罗尔纳多制作
 Dialogue: 1,0:10:25.96,0:10:27.90,Label Trans,,0,0,0,,{\pos(960,620)}佩迪帮助进行摄影
 Dialogue: 1,0:10:25.96,0:10:27.90,Label Trans,,0,0,0,,{\pos(960,770)}摄影器材为爸爸的相机
-Dialogue: 100,0:10:29.47,0:10:31.41,Normal Dialog Text,,0,0,0,,{\rCHS}剪辑辣鸡\N{\rENG}That was very poorly edited. 
-Dialogue: 100,0:10:31.41,0:10:33.74,Normal Dialog Text,,0,0,0,,{\rCHS}我们当时真的要离开沙滩市吗?\N{\rENG}Were we really gonna leave Beach City? 
-Dialogue: 100,0:10:33.75,0:10:36.91,Normal Dialog Text,,0,0,0,,{\rCHS}不. 我只想让他把摄像机从我脸上移开\N{\rENG}No. I just wanted him to get that camera out of my face. 
-Dialogue: 100,0:10:36.92,0:10:39.58,Normal Dialog Text,,0,0,0,,{\rCHS}我在想有多少人看过这个视频\N{\rENG}I wonder how many people have seen this thing. 
-Dialogue: 100,0:10:39.59,0:10:41.92,Normal Dialog Text,,0,0,0,,{\rCHS}哦. 我觉得只有我们\N{\rENG}Oh. I think we're the only ones. 
-Dialogue: 100,0:10:41.92,0:10:43.59,Normal Dialog Text,,0,0,0,,{\rCHS}看!\N{\rENG}See? 
-Dialogue: 100,0:10:43.59,0:10:44.82,Normal Dialog Text,,0,0,0,,{\rCHS}嗯\N{\rENG}Hmm. 
-Dialogue: 100,0:10:46.26,0:10:47.82,Normal Dialog Text,,0,0,0,,{\rCHS}赞\N{\rENG}Click. 
+Dialogue: 100,0:10:29.47,0:10:31.41,Normal Dialog Text,,0,0,0,,{\rCHS}剪辑辣鸡\N{\rENG}That was very poorly edited.
+Dialogue: 100,0:10:31.41,0:10:33.74,Normal Dialog Text,,0,0,0,,{\rCHS}我们当时真的要离开沙滩市吗?\N{\rENG}Were we really gonna leave Beach City?
+Dialogue: 100,0:10:33.75,0:10:36.91,Normal Dialog Text,,0,0,0,,{\rCHS}不. 我只想让他把摄像机从我脸上移开\N{\rENG}No. I just wanted him to get that camera out of my face.
+Dialogue: 100,0:10:36.92,0:10:39.58,Normal Dialog Text,,0,0,0,,{\rCHS}我在想有多少人看过这个视频\N{\rENG}I wonder how many people have seen this thing.
+Dialogue: 100,0:10:39.59,0:10:41.92,Normal Dialog Text,,0,0,0,,{\rCHS}哦. 我觉得只有我们\N{\rENG}Oh. I think we're the only ones.
+Dialogue: 100,0:10:41.92,0:10:43.59,Normal Dialog Text,,0,0,0,,{\rCHS}看!\N{\rENG}See?
+Dialogue: 100,0:10:43.59,0:10:44.82,Normal Dialog Text,,0,0,0,,{\rCHS}嗯\N{\rENG}Hmm.
+Dialogue: 100,0:10:46.26,0:10:47.82,Normal Dialog Text,,0,0,0,,{\rCHS}赞\N{\rENG}Click.
 Dialogue: 600,0:10:47.82,0:10:49.57,Hint,,0,0,0,,整部纪录片的风格与国外九十年代早期"标题党"调查节目( UFO 大脚怪...) 类似\N视频剪辑特效像是来自WinXP与Vista自带的Windows Movie Maker
 Dialogue: 150,0:10:49.57,0:10:52.30,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}如果我可以做到\N{\rENG_LYC}♪ If I could begin to be
 Dialogue: 150,0:10:52.40,0:10:55.47,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}你对我期望的一半\N{\rENG_LYC}♪ half of what you think of me
 Dialogue: 150,0:10:55.47,0:10:57.45,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我愿意做任何事\N{\rENG_LYC}♪ I could do about anything
 Dialogue: 150,0:10:57.55,0:11:02.50,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我愿学会像你一样 去爱\N{\rENG_LYC}♪ I could even learn how to love like you ♪
-
