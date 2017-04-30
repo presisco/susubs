@@ -10,14 +10,14 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
-Last Style Storage: SU 1080P
+Last Style Storage: Default
 Audio File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E08.Reformed.1080p.WEBRip.h264.AAC-AliQ.mp4
 Video File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E08.Reformed.1080p.WEBRip.h264.AAC-AliQ.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 9
-Active Line: 21
+Scroll Position: 12
+Active Line: 19
 Video Position: 605
 
 [V4+ Styles]
@@ -61,240 +61,232 @@ Dialogue: 1,0:00:25.21,0:00:26.71,SU Team Member,,0,0,0,,{\pos(1725,320)}UUU字�
 Dialogue: 1,0:00:25.21,0:00:26.71,SU Team Title,,0,0,0,,{\pos(1725,380)}翻译
 Dialogue: 1,0:00:25.21,0:00:26.71,SU Team Member,,0,0,0,,{\pos(1725,440)}presisco
 Dialogue: 1,0:00:25.21,0:00:26.71,SU Team Title,,0,0,0,,{\pos(1725,500)}校对
-Dialogue: 1,0:00:25.21,0:00:26.71,SU Team Member,,0,0,0,,{\pos(1725,560)}BBBB
+Dialogue: 1,0:00:25.21,0:00:26.71,SU Team Member,,0,0,0,,{\pos(1725,560)}presisco/Husky
 Dialogue: 1,0:00:25.21,0:00:26.71,SU Team Title,,0,0,0,,{\pos(1725,620)}特效
-Dialogue: 1,0:00:25.21,0:00:26.71,SU Team Member,,0,0,0,,{\pos(1725,680)}CCCC
+Dialogue: 1,0:00:25.21,0:00:26.71,SU Team Member,,0,0,0,,{\pos(1725,680)}presisco
 Dialogue: 1,0:00:25.21,0:00:26.71,SU Team Title,,0,0,0,,{\pos(1725,740)}压制
-Dialogue: 1,0:00:25.21,0:00:26.71,SU Team Member,,0,0,0,,{\pos(1725,800)}DDDD
+Dialogue: 1,0:00:25.21,0:00:26.71,SU Team Member,,0,0,0,,{\pos(1725,800)}presisco
 Dialogue: 0,0:00:25.21,0:00:26.71,SU Team Background,,0,0,0,,{\bord0\xshad-0\yshad16\pos(1725,860)}{\p1}m -1 122 b -1 -19 -19 -1 122 -1 l 251 -1 b 390 -1 377 -19 377 122 l 377 500 b 377 642 390 628 251 628 l 122 628 b -19 628 -1 642 -1 500 l -1 122 {\p0}
-Dialogue: 100,0:00:30.06,0:00:31.83,Normal Dialog Text,,0,0,0,,{\ rCHS} 抽泣的羊角面包! \N{\ rENG} Sniffling Croissant!
-Dialogue: 100,0:00:31.83,0:00:34.06,Normal Dialog Text,,0,0,0,,{\ rCHS} 你真是了解我啊 互联网\N{\ rENG} You really know me, Internet.
-Dialogue: 100,0:00:34.06,0:00:35.06,Normal Dialog Text,,0,0,0,,{\ rCHS} 嗨 伙计们! \N{\ rENG} Hey, guys!
-Dialogue: 100,0:00:35.06,0:00:36.40,Normal Dialog Text,,0,0,0,,{\ rCHS} 怎么 史蒂文? \N{\ rENG} Yeah, Steven?
-Dialogue: 100,0:00:36.40,0:00:39.13,Normal Dialog Text,,0,0,0,,{\ rCHS} 你们该试试我发现的在线测试\N{\ rENG} You guys should take this online quiz I found.
-Dialogue: 100,0:00:39.14,0:00:41.40,Normal Dialog Text,,0,0,0,,{\ rCHS} 它会告诉你...\N{\ rENG} It tells you what...
-Dialogue: 100,0:00:41.40,0:00:43.24,Normal Dialog Text,,0,0,0,,{\ rCHS} 它会告诉你你是 "哭泣的早餐好友"\N{\ rENG} It tells you what character you are
-Dialogue: 100,0:00:43.24,0:00:45.04,Normal Dialog Text,,0,0,0,,{\ rCHS} 中的哪个角色! \N{\ rENG} from "Crying Breakfast Friends"!
-Dialogue: 100,0:00:45.04,0:00:46.31,Normal Dialog Text,,0,0,0,,{\ rCHS} 额...为什么? \N{\ rENG} Eh...Why?
-Dialogue: 100,0:00:46.31,0:00:49.34,Normal Dialog Text,,0,0,0,,{\ rCHS} 将你自己当作某个卡通人物来看待非常有趣\N{\ rENG} It's just fun to see yourself as a cartoon character.
-Dialogue: 100,0:00:49.35,0:00:52.21,Normal Dialog Text,,0,0,0,,{\ rCHS} 像流泪的蛋杯 非常神经质和紧张\N{\ rENG} Like Weeping Eggcup, who's neurotic and uptight,
-Dialogue: 100,0:00:52.21,0:00:54.42,Normal Dialog Text,,0,0,0,,{\ rCHS} 或者伤心的葡萄柚 一个年长敏感的角色\N{\ rENG} or Pining Grapefruit, the sensitive older one
-Dialogue: 100,0:00:54.42,0:00:56.42,Normal Dialog Text,,0,0,0,,{\ rCHS} 希望自己是个更好的楷模\N{\ rENG} who wishes he was a better role model.
-Dialogue: 100,0:00:56.42,0:01:00.69,Normal Dialog Text,,0,0,0,,{\ rCHS} 额 也许我们可以在修好车后做那个\N{\ rENG} Uh, maybe we can do that thing after we've fixed the van.
-Dialogue: 100,0:01:00.69,0:01:02.32,Normal Dialog Text,,0,0,0,,{\ rCHS} 好吧\N{\ rENG} Okay.
-Dialogue: 100,0:01:02.32,0:01:04.53,Normal Dialog Text,,0,0,0,,{\ rCHS} 我去找别人看看! \N{\ rENG} I'll go find someone else!
-Dialogue: 100,0:01:04.53,0:01:06.76,Normal Dialog Text,,0,0,0,,{\ rCHS} 你理解得了那个卡通秀吗? \N{\ rENG} Do you understand that cartoon show?
-Dialogue: 100,0:01:06.76,0:01:09.10,Normal Dialog Text,,0,0,0,,{\ rCHS} 我已经跟不上时代了\N{\ rENG} I don't understand anything anymore.
-Dialogue: 100,0:01:10.73,0:01:13.53,Normal Dialog Text,,0,0,0,,{\ rCHS} 嗨 史蒂文 还有机油吗? \N{\ rENG} Hey, Steven. Is there any more engine oil?
-Dialogue: 100,0:01:13.54,0:01:15.24,Normal Dialog Text,,0,0,0,,{\ rCHS} 我需要拿来配三明治\N{\ rENG} I need it for this sandwich.
-Dialogue: 100,0:01:15.24,0:01:17.44,Normal Dialog Text,,0,0,0,,{\ rCHS} 我...认为那是给车的\N{\ rENG} I...Think that's for cars.
-Dialogue: 100,0:01:17.44,0:01:19.37,Normal Dialog Text,,0,0,0,,{\ rCHS} 那么 还有吗? \N{\ rENG} Well, is there any more of it?
-Dialogue: 100,0:01:19.38,0:01:21.21,Normal Dialog Text,,0,0,0,,{\ rCHS} 我爸在屋外可能还有\N{\ rENG} Dad's probably got some outside.
-Dialogue: 100,0:01:21.21,0:01:24.21,Normal Dialog Text,,0,0,0,,{\ rCHS} 哦! 但 额 你一定得试试这个在线测试\N{\ rENG} Oh! But, uh, you got to take this online quiz.
-Dialogue: 100,0:01:24.21,0:01:27.01,Normal Dialog Text,,0,0,0,,{\ rCHS} 你是哪个 "哭泣的早餐朋友"? \N{\ rENG} Which Crying Breakfast Friend are you?
-Dialogue: 100,0:01:27.02,0:01:29.12,Normal Dialog Text,,0,0,0,,{\ rCHS} 那个节目非常诡异\N{\ rENG} That show's really weird.
-Dialogue: 100,0:01:29.12,0:01:31.72,Normal Dialog Text,,0,0,0,,{\ rCHS} 谁想一个全是人们哭泣的卡通节目? \N{\ rENG} Who wants to watch a cartoon about people crying?
-Dialogue: 100,0:01:31.72,0:01:32.95,Normal Dialog Text,,0,0,0,,{\ rCHS} 我想! \N{\ rENG} I do!
-Dialogue: 100,0:01:32.96,0:01:34.12,Normal Dialog Text,,0,0,0,,{\ rCHS} 好吧 好吧! \N{\ rENG} Okay, okay!
-Dialogue: 100,0:01:34.12,0:01:36.62,Normal Dialog Text,,0,0,0,,{\ rCHS} 额...第一个问题是什么? \N{\ rENG} Uh...What's the first question?
-Dialogue: 100,0:01:36.63,0:01:38.93,Normal Dialog Text,,0,0,0,,{\ rCHS} 你是否曾草率行事? \N{\ rENG} Do you ever act without thinking?
-Dialogue: 100,0:01:38.93,0:01:40.79,Normal Dialog Text,,0,0,0,,{\ rCHS} 没 从没有过\N{\ rENG} Nope. Never.
-Dialogue: 100,0:01:40.80,0:01:44.23,Normal Dialog Text,,0,0,0,,{\ rCHS} 你是否还怕面对风险与尝试新事物? \N{\ rENG} Are you afraid of taking risks and trying new things?
-Dialogue: 100,0:01:45.73,0:01:48.10,Normal Dialog Text,,0,0,0,,{\ rCHS} 超害怕\N{\ rENG} Terrified.
-Dialogue: 100,0:01:48.10,0:01:51.21,Normal Dialog Text,,0,0,0,,{\ rCHS} 紫晶 你是认真的吗? \N{\ rENG} Amethyst, are you taking this seriously?
-Dialogue: 100,0:01:51.21,0:01:53.07,Normal Dialog Text,,0,0,0,,{\ rCHS} 当然\N{\ rENG} Of course I am.
-Dialogue: 100,0:01:53.08,0:01:54.17,Normal Dialog Text,,0,0,0,,{\ rCHS} 好吧\N{\ rENG} Okay.
-Dialogue: 100,0:01:55.31,0:01:57.64,Normal Dialog Text,,0,0,0,,{\ rCHS} 你是否对别人的看法\N{\ rENG} Are you insecure about your relationships
-Dialogue: 100,0:01:57.65,0:02:00.45,Normal Dialog Text,,0,0,0,,{\ rCHS} 和人际关系感到不安? \N{\ rENG} and how you're perceived by other people?
-Dialogue: 100,0:02:00.45,0:02:01.95,Normal Dialog Text,,0,0,0,,{\ rCHS} 不~\N{\ rENG} Nnnno.
-Dialogue: 100,0:02:01.95,0:02:03.22,Normal Dialog Text,,0,0,0,,{\ rCHS} 对? 额...\N{\ rENG} Yes? Eh...
-Dialogue: 100,0:02:03.22,0:02:04.42,Normal Dialog Text,,0,0,0,,{\ rCHS} 正确答案是哪个? \N{\ rENG} What's the right answer?
-Dialogue: 100,0:02:04.42,0:02:05.79,Normal Dialog Text,,0,0,0,,{\ rCHS} 这没有正确答案\N{\ rENG} There is no right answer.
-Dialogue: 100,0:02:05.79,0:02:08.06,Normal Dialog Text,,0,0,0,,{\ rCHS} 你应该诚实的回答\N{\ rENG} You're just supposed to answer honestly.
-Dialogue: 100,0:02:08.06,0:02:09.16,Normal Dialog Text,,0,0,0,,{\ rCHS} 切 我受够了\N{\ rENG} Nah, I'm bored.
-Dialogue: 100,0:02:09.16,0:02:10.49,Normal Dialog Text,,0,0,0,,{\ rCHS} 等等--我还有很多\N{\ rENG} Wait--I have loads more
-Dialogue: 100,0:02:10.49,0:02:12.96,Normal Dialog Text,,0,0,0,,{\ rCHS} 检测性的个人问题要问你! \N{\ rENG} probing, personal questions to ask!
-Dialogue: 100,0:02:13.96,0:02:17.23,Normal Dialog Text,,0,0,0,,{\ rCHS} 石榴? 你-你在我屋里干嘛? \N{\ rENG} Garnet! W-what are you doing in my room?
-Dialogue: 100,0:02:17.23,0:02:18.93,Normal Dialog Text,,0,0,0,,{\ rCHS} 我看到一个堕转的宝石人\N{\ rENG} I saw a corrupted gem.
-Dialogue: 100,0:02:18.93,0:02:21.77,Normal Dialog Text,,0,0,0,,{\ rCHS} 我跟着它穿过岩石中挖出的通道\N{\ rENG} I followed it through the tunnel it dug in the rock.
-Dialogue: 100,0:02:21.77,0:02:22.97,Normal Dialog Text,,0,0,0,,{\ rCHS} 没错\N{\ rENG} Yeah, right.
-Dialogue: 100,0:02:22.97,0:02:24.51,Normal Dialog Text,,0,0,0,,{\ rCHS} 它来自哪里? \N{\ rENG} Where did it come from?
-Dialogue: 100,0:02:24.51,0:02:26.34,Normal Dialog Text,,0,0,0,,{\ rCHS} 听起来像是珍珠描述的\N{\ rENG} It's similar to Pearl's description
-Dialogue: 100,0:02:26.34,0:02:28.91,Normal Dialog Text,,0,0,0,,{\ rCHS} 在神庙中偷偷游走的生物\N{\ rENG} of the creature she saw slinking through the temple.
-Dialogue: 100,0:02:28.91,0:02:30.74,Normal Dialog Text,,0,0,0,,{\ rCHS} 你看到的游走者?!\N{\ rENG} You saw the slinker?!
-Dialogue: 100,0:02:30.75,0:02:33.28,Normal Dialog Text,,0,0,0,,{\ rCHS} 我以为都否认游走者的存在\N{\ rENG} I thought we agreed there was no slinker
-Dialogue: 100,0:02:33.28,0:02:36.18,Normal Dialog Text,,0,0,0,,{\ rCHS} 而且我们也不会管它叫 "游走者"\N{\ rENG} and that we weren't going to call it "the slinker".
-Dialogue: 100,0:02:36.19,0:02:37.58,Normal Dialog Text,,0,0,0,,{\ rCHS} 没错 就这样\N{\ rENG} Yes, we did.
-Dialogue: 100,0:02:37.59,0:02:41.19,Normal Dialog Text,,0,0,0,,{\ rCHS} 但现在不可否认的是那个生物存在且就叫史蒂文说的名字\N{\ rENG} But now it's undeniable the creature exists and that Steven's name stuck.
-Dialogue: 100,0:02:41.19,0:02:42.69,Normal Dialog Text,,0,0,0,,{\ rCHS} 对! \N{\ rENG} Yes!
-Dialogue: 100,0:02:42.69,0:02:43.92,Normal Dialog Text,,0,0,0,,{\ rCHS} 不! \N{\ rENG} No!
-Dialogue: 100,0:02:43.93,0:02:46.19,Normal Dialog Text,,0,0,0,,{\ rCHS} 听着 为什么你不让我去找它? \N{\ rENG} Look, why don't you just let me look for it?
-Dialogue: 100,0:02:46.20,0:02:47.58,Normal Dialog Text,,0,0,0,,{\ rCHS} 因为你不会去找\N{\ rENG} Because you won't.
-Dialogue: 100,0:02:52.20,0:02:54.30,Normal Dialog Text,,0,0,0,,{\ rCHS} 这个东西在这里多久了? \N{\ rENG} How long's this thing been in here?
-Dialogue: 100,0:02:54.30,0:02:55.50,Normal Dialog Text,,0,0,0,,{\ rCHS} 啊! \N{\ rENG} Ah!
-Dialogue: 100,0:02:55.50,0:02:57.54,Normal Dialog Text,,0,0,0,,{\ rCHS} 看 史蒂文! 我是个厚皮脸! \N{\ rENG} Look, Steven! I'm a pachyderm!
-Dialogue: 100,0:02:57.54,0:03:01.11,Normal Dialog Text,,0,0,0,,{\ rCHS} 看! 开盖有惊喜哦! \N{\ rENG} Oh! And there's a prize inside!
-Dialogue: 100,0:03:01.11,0:03:03.31,Normal Dialog Text,,0,0,0,,{\ rCHS} 嘘! 安静\N{\ rENG} Shhh! Keep quiet.
-Dialogue: 100,0:03:08.52,0:03:11.39,Normal Dialog Text,,0,0,0,,{\ rCHS} 哦 石榴 严肃但正经\N{\ rENG} Oh, Garnet. Stern but practical.
-Dialogue: 100,0:03:11.39,0:03:12.99,Normal Dialog Text,,0,0,0,,{\ rCHS} 就像洒出的牛奶\N{\ rENG} Just like spilt milk.
-Dialogue: 100,0:03:12.99,0:03:15.79,Normal Dialog Text,,0,0,0,,{\ rCHS} 你不会还在想那个蠢动画吧? \N{\ rENG} You're not still on about that dumb cartoon, are you?
-Dialogue: 100,0:03:15.79,0:03:17.36,Normal Dialog Text,,0,0,0,,{\ rCHS} 哦 对--测试! \N{\ rENG} Oh, right--the quiz!
-Dialogue: 100,0:03:17.36,0:03:20.53,Normal Dialog Text,,0,0,0,,{\ rCHS} 你是否在别人询问你试图隐藏的情绪时\N{\ rENG} Do you get defensive when people ask you questions
-Dialogue: 100,0:03:20.53,0:03:23.46,Normal Dialog Text,,0,0,0,,{\ rCHS} 变得非常躁动? \N{\ rENG} about the feelings you prefer to keep hidden?
-Dialogue: 100,0:03:23.47,0:03:27.94,Normal Dialog Text,,0,0,0,,{\ rCHS} 别试图对我进行分析 史蒂文\N{\ rENG} Don't get all psycho-logical on me, Steven.
-Dialogue: 100,0:03:28.64,0:03:30.30,Normal Dialog Text,,0,0,0,,{\ rCHS} 呃...抱歉? \N{\ rENG} Uh...Sorry?
-Dialogue: 100,0:03:31.57,0:03:32.71,Normal Dialog Text,,0,0,0,,{\ rCHS} 那里! \N{\ rENG} There!
-Dialogue: 100,0:03:41.08,0:03:43.82,Normal Dialog Text,,0,0,0,,{\ rCHS} 喔! 你看到了吗?!\N{\ rENG} Whoa, mama! Did you get it?!
-Dialogue: 100,0:03:44.72,0:03:46.79,Normal Dialog Text,,0,0,0,,{\ rCHS} 不\N{\ rENG} No.
-Dialogue: 100,0:03:49.16,0:03:50.76,Normal Dialog Text,,0,0,0,,{\ rCHS} 嗷 天! \N{\ rENG} Aw, man!
-Dialogue: 100,0:03:50.76,0:03:53.26,Normal Dialog Text,,0,0,0,,{\ rCHS} 我想我最喜欢的圆形的东西在里面\N{\ rENG} I think my favorite round thing was in there.
-Dialogue: 100,0:03:53.26,0:03:55.60,Normal Dialog Text,,0,0,0,,{\ rCHS} 我会给你找个新的圆形物品\N{\ rENG} I'll get you a new round thing.
-Dialogue: 100,0:03:55.60,0:03:58.60,Normal Dialog Text,,0,0,0,,{\ rCHS} 啊! 你可是在折腾我的东西! \N{\ rENG} Ugh! This is my stuff you're messing with!
-Dialogue: 100,0:03:58.60,0:04:00.77,Normal Dialog Text,,0,0,0,,{\ rCHS} 如果要--呃!--搞乱的话 \N{\ rENG} If it's gonna get--ugh!--Wrecked,
-Dialogue: 100,0:04:00.77,0:04:03.57,Normal Dialog Text,,0,0,0,,{\ rCHS} 也得是我搞乱的! \N{\ rENG} I'm gonna be the one to wreck it!
-Dialogue: 100,0:04:05.04,0:04:06.24,Normal Dialog Text,,0,0,0,,{\ rCHS} 看到没?!\N{\ rENG} See?!
-Dialogue: 100,0:04:06.24,0:04:07.91,Normal Dialog Text,,0,0,0,,{\ rCHS} 就该这么完--\N{\ rENG} That's how it's do--
-Dialogue: 100,0:04:16.08,0:04:18.95,Normal Dialog Text,,0,0,0,,{\ rCHS} 紫晶被打爆了! \N{\ rENG} Amethyst got poofed!
-Dialogue: 100,0:04:18.95,0:04:20.65,Normal Dialog Text,,0,0,0,,{\ rCHS} 游走者! \N{\ rENG} Slinker!
-Dialogue: 100,0:04:26.29,0:04:28.90,Normal Dialog Text,,0,0,0,,{\ rCHS} 石-石-石榴? \N{\ rENG} G-g-g-Garnet?
-Dialogue: 100,0:04:28.90,0:04:33.77,Normal Dialog Text,,0,0,0,,{\ rCHS} 史蒂文 记着--我们的身体只是幻象\N{\ rENG} Steven, remember--our bodies are only an illusion.
-Dialogue: 100,0:04:33.77,0:04:35.07,Normal Dialog Text,,0,0,0,,{\ rCHS} 紫晶不会有事的\N{\ rENG} Amethyst will be fine.
-Dialogue: 100,0:04:35.07,0:04:38.47,Normal Dialog Text,,0,0,0,,{\ rCHS} 但-但-但珍珠花了整整两周才回来\N{\ rENG} B-b-but Pearl took two whole weeks to come back.
-Dialogue: 100,0:04:38.47,0:04:41.48,Normal Dialog Text,,0,0,0,,{\ rCHS} 而我已经非常想念紫晶了! \N{\ rENG} And I already miss Amethyst so much!
-Dialogue: 100,0:04:41.48,0:04:44.88,Normal Dialog Text,,0,0,0,,{\ rCHS} 别担心 她转眼间就会回来的\N{\ rENG} Don't worry. She'll be back before you know it.
-Dialogue: 100,0:04:49.28,0:04:51.12,Normal Dialog Text,,0,0,0,,{\ rCHS} 真的\N{\ rENG} Literally.
-Dialogue: 100,0:04:55.59,0:04:57.96,Normal Dialog Text,,0,0,0,,{\ rCHS} 紫晶回来了! 紫晶回来了! \N{\ rENG} Amethyst's back! Amethyst's back!
-Dialogue: 100,0:04:57.96,0:04:59.89,Normal Dialog Text,,0,0,0,,{\ rCHS} 呃 蛤? \N{\ rENG} Ugh. Huh?
-Dialogue: 100,0:04:59.90,0:05:02.30,Normal Dialog Text,,0,0,0,,{\ rCHS} 看来你...多张了几条腿\N{\ rENG} Looks like you...Grew a few feet
-Dialogue: 100,0:05:02.30,0:05:04.33,Normal Dialog Text,,0,0,0,,{\ rCHS} 相比上次来说\N{\ rENG} since the last time I saw you!
-Dialogue: 100,0:05:05.77,0:05:06.97,Normal Dialog Text,,0,0,0,,{\ rCHS} 那真是快\N{\ rENG} That was fast.
-Dialogue: 100,0:05:06.97,0:05:08.84,Normal Dialog Text,,0,0,0,,{\ rCHS} 即使对你来讲\N{\ rENG} Even for you.
-Dialogue: 100,0:05:09.60,0:05:11.44,Normal Dialog Text,,0,0,0,,{\ rCHS} 切! 不算什么\N{\ rENG} Eh! It's no big deal.
-Dialogue: 100,0:05:11.44,0:05:13.67,Normal Dialog Text,,0,0,0,,{\ rCHS} 我可不想让我的头号粉丝干等着\N{\ rENG} I didn't want to keep my biggest fan waiting.
-Dialogue: 100,0:05:14.64,0:05:15.44,Normal Dialog Text,,0,0,0,,{\ rCHS} 啊! \N{\ rENG} Ugh!
-Dialogue: 100,0:05:16.91,0:05:17.78,Normal Dialog Text,,0,0,0,,{\ rCHS} 嗯...\N{\ rENG} Hmm.
-Dialogue: 100,0:05:17.78,0:05:19.61,Normal Dialog Text,,0,0,0,,{\ rCHS} 好吧 好吧! \N{\ rENG} Okay, okay!
-Dialogue: 100,0:05:19.62,0:05:21.18,Normal Dialog Text,,0,0,0,,{\ rCHS} 我们有游走者要游走! \N{\ rENG} We got a slinker to slink!
-Dialogue: 100,0:05:25.69,0:05:29.86,Normal Dialog Text,,0,0,0,,{\ rCHS} 如果我是个怪物我会去哪? \N{\ rENG} Where would I go if I was a monster?
-Dialogue: 100,0:05:31.26,0:05:33.63,Normal Dialog Text,,0,0,0,,{\ rCHS} 嘿! 这里\N{\ rENG} Hey! Over here.
-Dialogue: 100,0:05:33.63,0:05:36.03,Normal Dialog Text,,0,0,0,,{\ rCHS} 你的新形态很有意思嘛\N{\ rENG} Your new form is really interesting.
-Dialogue: 100,0:05:36.03,0:05:37.53,Normal Dialog Text,,0,0,0,,{\ rCHS} 谢谢 史蒂文\N{\ rENG} Thanks, Steven.
-Dialogue: 100,0:05:37.53,0:05:40.03,Normal Dialog Text,,0,0,0,,{\ rCHS} 我都想不出你回来后会有这么大差别\N{\ rENG} I didn't even know you could come back this different.
-Dialogue: 100,0:05:40.04,0:05:41.30,Normal Dialog Text,,0,0,0,,{\ rCHS} 谢谢 史蒂文\N{\ rENG} Thanks, Steven.
-Dialogue: 100,0:05:41.30,0:05:43.54,Normal Dialog Text,,0,0,0,,{\ rCHS} 那么 你为什么要长四条腿? \N{\ rENG} So, why'd you come back with four legs?
-Dialogue: 100,0:05:43.54,0:05:45.44,Normal Dialog Text,,0,0,0,,{\ rCHS} 因为我喜欢走路! \N{\ rENG}'Cause I like walking!
-Dialogue: 100,0:05:45.44,0:05:48.04,Normal Dialog Text,,0,0,0,,{\ rCHS} 喔 我也想要四条腿! \N{\ rENG} Wow. I want four legs, too!
-Dialogue: 100,0:05:48.04,0:05:49.51,Normal Dialog Text,,0,0,0,,{\ rCHS} 不 你可不想\N{\ rENG} No, you don't.
-Dialogue: 100,0:05:49.51,0:05:51.55,Normal Dialog Text,,0,0,0,,{\ rCHS} 紫晶对重生操之过急了\N{\ rENG} Amethyst rushed her regeneration.
-Dialogue: 100,0:05:51.55,0:05:53.11,Normal Dialog Text,,0,0,0,,{\ rCHS} 她本该多花点功夫的\N{\ rENG} She should have taken her time.
-Dialogue: 100,0:05:53.12,0:05:54.65,Normal Dialog Text,,0,0,0,,{\ rCHS} 就像珍珠? \N{\ rENG} Like Pearl?
-Dialogue: 100,0:05:54.65,0:05:59.32,Normal Dialog Text,,0,0,0,,{\ rCHS} 对 珍珠多花了点...精力 在她的新形象上\N{\ rENG} Yes. Pearl put a bit more...Thought into how she came back.
-Dialogue: 100,0:05:59.32,0:06:01.29,Normal Dialog Text,,0,0,0,,{\ rCHS} 破 破 破! \N{\ rENG} Pearl, Pearl, Pearl!
-Dialogue: 100,0:06:01.29,0:06:02.79,Normal Dialog Text,,0,0,0,,{\ rCHS} 你知道我能听到你! \N{\ rENG} You know I can hear you!
-Dialogue: 100,0:06:02.79,0:06:05.39,Normal Dialog Text,,0,0,0,,{\ rCHS} 我很抱歉不像珍珠那样花哨\N{\ rENG} I'm sorry I'm not like Pearl with her fancy form
-Dialogue: 100,0:06:05.39,0:06:07.96,Normal Dialog Text,,0,0,0,,{\ rCHS} 房间像她那样整洁 又没有怪物\N{\ rENG} and her clean room with no monsters in it.
-Dialogue: 100,0:06:11.00,0:06:12.60,Normal Dialog Text,,0,0,0,,{\ rCHS} 紫晶? \N{\ rENG} Amethyst?
-Dialogue: 100,0:06:13.40,0:06:15.04,Normal Dialog Text,,0,0,0,,{\ rCHS} 紫晶的宝石! \N{\ rENG} Amethyst's gem!
-Dialogue: 100,0:06:15.04,0:06:16.97,Normal Dialog Text,,0,0,0,,{\ rCHS} 她又被打爆了! \N{\ rENG} She got poofed again!
-Dialogue: 100,0:06:16.97,0:06:19.21,Normal Dialog Text,,0,0,0,,{\ rCHS} 这对她是个好机会\N{\ rENG} This is a good opportunity for her.
-Dialogue: 100,0:06:19.21,0:06:20.91,Normal Dialog Text,,0,0,0,,{\ rCHS} 现在她可以选择个更好的形态\N{\ rENG} Now she can make a better form.
-Dialogue: 100,0:06:21.58,0:06:23.84,Normal Dialog Text,,0,0,0,,{\ rCHS} 她回来了! \N{\ rENG} She's coming back!
-Dialogue: 100,0:06:25.91,0:06:29.18,Normal Dialog Text,,0,0,0,,{\ rCHS} 没错 这次好多了! \N{\ rENG} You're right. This is much better!
-Dialogue: 100,0:06:29.18,0:06:31.42,Normal Dialog Text,,0,0,0,,{\ rCHS} 她在模仿珍珠! \N{\ rENG} She's doing Pearl!
-Dialogue: 100,0:06:35.32,0:06:38.66,Normal Dialog Text,,0,0,0,,{\ rCHS} 嘿 石榴 你认为我的新长相怎么样 石榴? \N{\ rENG} Hey, Garnet. What do you think of my new look, Garnet?
-Dialogue: 100,0:06:39.66,0:06:42.93,Normal Dialog Text,,0,0,0,,{\ rCHS} 我现在更像是珍珠了 不好吗? 哈! \N{\ rENG} I'm more like Pearl now. Isn't it wonderful? Ha!
-Dialogue: 100,0:06:42.93,0:06:46.10,Normal Dialog Text,,0,0,0,,{\ rCHS} 我感觉非常的实用! \N{\ rENG} I feel practically perfect!
-Dialogue: 100,0:06:46.10,0:06:49.00,Normal Dialog Text,,0,0,0,,{\ rCHS} 我们得注意倾听那个怪物的动静\N{\ rENG} We need to focus on listening for the creature.
-Dialogue: 100,0:06:49.00,0:06:51.71,Normal Dialog Text,,0,0,0,,{\ rCHS} 哦 但我没法注意\N{\ rENG} Oh, but I can't focus.
-Dialogue: 100,0:06:51.71,0:06:54.24,Normal Dialog Text,,0,0,0,,{\ rCHS} 所有的这些石头都是不同的尺寸\N{\ rENG} All these rocks are different sizes.
-Dialogue: 100,0:06:54.24,0:06:57.71,Normal Dialog Text,,0,0,0,,{\ rCHS} 我们得按照形状和颜色进行分类\N{\ rENG} We'll have to organize them by shape and color.
-Dialogue: 100,0:06:57.71,0:07:01.21,Normal Dialog Text,,0,0,0,,{\ rCHS} 有没有人告诉过大自然我想让它长什么样? \N{\ rENG} Didn't anyone tell nature how I want it to look?
-Dialogue: 100,0:07:02.22,0:07:03.58,Normal Dialog Text,,0,0,0,,{\ rCHS} 别鼓励她\N{\ rENG} Don't encourage her.
-Dialogue: 100,0:07:03.59,0:07:05.89,Normal Dialog Text,,0,0,0,,{\ rCHS} 但我需要鼓励 石榴\N{\ rENG} But I need encouragement, Garnet.
-Dialogue: 100,0:07:05.89,0:07:08.36,Normal Dialog Text,,0,0,0,,{\ rCHS} 我想得到所有人持续的认同\N{\ rENG} I need everyone's constant approval.
-Dialogue: 100,0:07:08.36,0:07:11.39,Normal Dialog Text,,0,0,0,,{\ rCHS} 我必须要用嗔嗔的语调才能显摆我的...\N{\ rENG} I need to loquaciously converse so I can show off...
-Dialogue: 100,0:07:11.39,0:07:13.46,Normal Dialog Text,,0,0,0,,{\ rCHS} 聪明才智\N{\ rENG} How smart I am.
-Dialogue: 100,0:07:13.46,0:07:15.06,Normal Dialog Text,,0,0,0,,{\ rCHS} 你可以跟我对话\N{\ rENG} You can converse with me.
-Dialogue: 100,0:07:15.06,0:07:16.46,Normal Dialog Text,,0,0,0,,{\ rCHS} 让我们完成这个测试吧\N{\ rENG} Let's finish that quiz.
-Dialogue: 100,0:07:16.47,0:07:18.87,Normal Dialog Text,,0,0,0,,{\ rCHS} 你需要在行动前事先准备吗? \N{\ rENG} Do you need to plan ahead before you act?
-Dialogue: 100,0:07:18.87,0:07:19.97,Normal Dialog Text,,0,0,0,,{\ rCHS} 哦 非常认真\N{\ rENG} Oh, thoroughly.
-Dialogue: 100,0:07:19.97,0:07:22.30,Normal Dialog Text,,0,0,0,,{\ rCHS} 你是否沉醉于细节? \N{\ rENG} Do you obsess over little details?
-Dialogue: 100,0:07:22.30,0:07:23.57,Normal Dialog Text,,0,0,0,,{\ rCHS} 非常正确! \N{\ rENG} Completely entirely!
-Dialogue: 100,0:07:23.57,0:07:25.47,Normal Dialog Text,,0,0,0,,{\ rCHS} 喔 你这么有条理\N{\ rENG} Wow, you're so method.
-Dialogue: 100,0:07:25.47,0:07:27.14,Normal Dialog Text,,0,0,0,,{\ rCHS} 下次 你恢复时能变成我吗? \N{\ rENG} Next time, can you come back as me?
-Dialogue: 100,0:07:27.14,0:07:29.58,Normal Dialog Text,,0,0,0,,{\ rCHS} 这对你的形态不是个好选择\N{\ rENG} This is not a good choice for your form.
-Dialogue: 100,0:07:29.58,0:07:31.08,Normal Dialog Text,,0,0,0,,{\ rCHS} 听着 石榴\N{\ rENG} Lighten up, Garnet.
-Dialogue: 100,0:07:31.08,0:07:32.48,Normal Dialog Text,,0,0,0,,{\ rCHS} 你能听个笑话吗? \N{\ rENG} Can't you take a joke?
-Dialogue: 100,0:07:32.48,0:07:33.88,Normal Dialog Text,,0,0,0,,{\ rCHS} 这并不有趣\N{\ rENG} It's not funny.
-Dialogue: 100,0:07:33.88,0:07:35.92,Normal Dialog Text,,0,0,0,,{\ rCHS} 你让自己变得荒谬\N{\ rENG} You've made yourself ridiculous.
-Dialogue: 100,0:07:35.92,0:07:37.65,Normal Dialog Text,,0,0,0,,{\ rCHS} 荒谬?!\N{\ rENG} Ridiculous?!
-Dialogue: 100,0:07:37.65,0:07:39.32,Normal Dialog Text,,0,0,0,,{\ rCHS} 小声点! 那个生物还在\N{\ rENG} Keep your voice down! The creature.
-Dialogue: 100,0:07:39.32,0:07:43.79,Normal Dialog Text,,0,0,0,,{\ rCHS} 你想让我更像是珍珠 而现在我就是这样! \N{\ rENG} Grrr! You wanted me to be more like Pearl, and now I am!
-Dialogue: 100,0:07:43.79,0:07:46.59,Normal Dialog Text,,0,0,0,,{\ rCHS} 珍珠会更严肃的对待自己的重生! \N{\ rENG} Pearl would have taken her regeneration seriously!
-Dialogue: 100,0:07:46.60,0:07:49.93,Normal Dialog Text,,0,0,0,,{\ rCHS} 你关心什么?!这是我自己的事! \N{\ rENG} What do you care?!My form is my business!
-Dialogue: 100,0:07:49.93,0:07:53.40,Normal Dialog Text,,0,0,0,,{\ rCHS} 只要事关团队的力量就跟我有关! \N{\ rENG} It's my business when it affects the strength of the team!
-Dialogue: 100,0:07:54.10,0:07:56.27,Normal Dialog Text,,0,0,0,,{\ rCHS} 那怎么?!我还不够强壮? \N{\ rENG} So what?!I'm not strong enough?
-Dialogue: 100,0:07:56.27,0:07:57.47,Normal Dialog Text,,0,0,0,,{\ rCHS} 紫晶! \N{\ rENG} Amethyst!
-Dialogue: 100,0:07:57.47,0:08:01.34,Normal Dialog Text,,0,0,0,,{\ rCHS} 你是说我很弱吗?!\N{\ rENG} Are you saying I'm weak?!
-Dialogue: 100,0:08:02.85,0:08:05.08,Normal Dialog Text,,0,0,0,,{\ rCHS} 我对此渐渐麻木很奇怪吗? \N{\ rENG} Is it weird I'm getting numb to this?
-Dialogue: 100,0:08:16.29,0:08:17.62,Normal Dialog Text,,0,0,0,,{\ rCHS} 好吧! \N{\ rENG} Okay!
-Dialogue: 100,0:08:17.63,0:08:19.66,Normal Dialog Text,,0,0,0,,{\ rCHS} 你看 我一开始不这么想 \N{\ rENG} You know, I wasn't feeling this at first,
-Dialogue: 100,0:08:19.66,0:08:21.36,Normal Dialog Text,,0,0,0,,{\ rCHS} 但我回心转意了\N{\ rENG} but I think I might be coming around!
-Dialogue: 100,0:08:21.36,0:08:22.53,Normal Dialog Text,,0,0,0,,{\ rCHS} 哈! \N{\ rENG} Ha!
-Dialogue: 100,0:08:22.53,0:08:25.10,Normal Dialog Text,,0,0,0,,{\ rCHS} 呦 史蒂仔 我看起来强健吗? \N{\ rENG} Yo, ste-man. My seams straight?
-Dialogue: 100,0:08:25.70,0:08:28.94,Normal Dialog Text,,0,0,0,,{\ rCHS} 那个新形态...舒服吗? \N{\ rENG} Does that new form...Hurt you?
-Dialogue: 100,0:08:30.04,0:08:31.54,Normal Dialog Text,,0,0,0,,{\ rCHS} 当然\N{\ rENG} No.
-Dialogue: 100,0:08:31.54,0:08:32.87,Normal Dialog Text,,0,0,0,,{\ rCHS} 嘿 石榴\N{\ rENG} Hey, Garnet.
-Dialogue: 100,0:08:32.88,0:08:35.48,Normal Dialog Text,,0,0,0,,{\ rCHS} 你觉得这个配的怎么样? \N{\ rENG} How'd you like to mix it up with this?
-Dialogue: 100,0:08:36.88,0:08:39.68,Normal Dialog Text,,0,0,0,,{\ rCHS} 我就是随便拼凑了点东西 你要清楚\N{\ rENG} Just a little somethin'I threw together. You know.
-Dialogue: 100,0:08:39.68,0:08:42.02,Normal Dialog Text,,0,0,0,,{\ rCHS} 这个新的形态不稳定 紫晶\N{\ rENG} This form isn't sustainable, Amethyst.
-Dialogue: 100,0:08:42.02,0:08:44.32,Normal Dialog Text,,0,0,0,,{\ rCHS} 但...是你说的\N{\ rENG} But...You're the one who said
-Dialogue: 100,0:08:44.32,0:08:46.19,Normal Dialog Text,,0,0,0,,{\ rCHS} 我要更强壮! \N{\ rENG} I needed to be stronger!
-Dialogue: 100,0:08:48.99,0:08:52.23,Normal Dialog Text,,0,0,0,,{\ rCHS} 好吧 如果是我的怪兽 那么就由我来处理\N{\ rENG} Okay, if it's my monster, then I'll deal with it.
-Dialogue: 100,0:08:55.50,0:08:57.90,Normal Dialog Text,,0,0,0,,{\ rCHS} 紫晶! \N{\ rENG} Amethyst!
-Dialogue: 100,0:09:03.04,0:09:04.57,Normal Dialog Text,,0,0,0,,{\ rCHS} 待在我什么后! \N{\ rENG} Stay behind me!
-Dialogue: 100,0:09:05.57,0:09:06.97,Normal Dialog Text,,0,0,0,,{\ rCHS} 紫晶! \N{\ rENG} Amethyst!
-Dialogue: 100,0:09:10.68,0:09:12.58,Normal Dialog Text,,0,0,0,,{\ rCHS} 紫晶! \N{\ rENG} Amethyst!
-Dialogue: 100,0:09:25.53,0:09:27.12,Normal Dialog Text,,0,0,0,,{\ rCHS} 放手! \N{\ rENG} Let it go!
-Dialogue: 100,0:09:27.12,0:09:28.18,Normal Dialog Text,,0,0,0,,{\ rCHS} 不! \N{\ rENG} No!
-Dialogue: 100,0:09:28.88,0:09:30.50,Normal Dialog Text,,0,0,0,,{\ rCHS} 是你想让我变强的! \N{\ rENG} You wanted me to be stronger!
-Dialogue: 100,0:09:30.50,0:09:31.70,Normal Dialog Text,,0,0,0,,{\ rCHS} 我照做了! \N{\ rENG} I'm doing it!
-Dialogue: 100,0:09:31.70,0:09:33.70,Normal Dialog Text,,0,0,0,,{\ rCHS} 我变成了你想要的样子! \N{\ rENG} I'm being what you want!
-Dialogue: 100,0:09:33.70,0:09:35.74,Normal Dialog Text,,0,0,0,,{\ rCHS} 我不想要这样! \N{\ rENG} I don't want this!
-Dialogue: 100,0:09:38.51,0:09:39.94,Normal Dialog Text,,0,0,0,,{\ rCHS} 那么 你想怎么样?!\N{\ rENG} Well, what do you want?!
-Dialogue: 100,0:09:39.94,0:09:41.91,Normal Dialog Text,,0,0,0,,{\ rCHS} 告诉我 我会照做! \N{\ rENG} Just tell me, and I'll do that!
-Dialogue: 100,0:09:41.91,0:09:43.61,Normal Dialog Text,,0,0,0,,{\ rCHS} 我没法告诉你 紫晶! \N{\ rENG} I can't tell you, Amethyst!
-Dialogue: 100,0:09:43.61,0:09:46.11,Normal Dialog Text,,0,0,0,,{\ rCHS} 你得自己想明白! \N{\ rENG} You have to figure this out for yourself!
-Dialogue: 100,0:09:47.62,0:09:48.92,Normal Dialog Text,,0,0,0,,{\ rCHS} 她做不到\N{\ rENG} She can't.
-Dialogue: 100,0:09:48.92,0:09:51.69,Normal Dialog Text,,0,0,0,,{\ rCHS} 她不想认识自己! \N{\ rENG} She doesn't want to think about herself!
-Dialogue: 100,0:09:52.39,0:09:53.62,Normal Dialog Text,,0,0,0,,{\ rCHS} 什么? \N{\ rENG} What?
-Dialogue: 100,0:10:01.03,0:10:02.36,Normal Dialog Text,,0,0,0,,{\ rCHS} 接得不错\N{\ rENG} Good catch.
-Dialogue: 100,0:10:05.63,0:10:08.13,Normal Dialog Text,,0,0,0,,{\ rCHS} 我就知道那是真的! \N{\ rENG} I knew that thing was real!
-Dialogue: 100,0:10:08.14,0:10:10.90,Normal Dialog Text,,0,0,0,,{\ rCHS} 当紫晶回来后 我们得找到它\N{\ rENG} When Amethyst gets back, we have to go find it.
-Dialogue: 100,0:10:10.91,0:10:12.74,Normal Dialog Text,,0,0,0,,{\ rCHS} 已经花了多久了? \N{\ rENG} How long has it been?
-Dialogue: 100,0:10:12.74,0:10:14.14,Normal Dialog Text,,0,0,0,,{\ rCHS} 四个小时\N{\ rENG} Four hours.
-Dialogue: 100,0:10:14.42,0:10:17.78,Normal Dialog Text,,0,0,0,,{\ rCHS} 四个小时?!她从没花过这么久\N{\ rENG} Four hours?!She's never taken so long.
-Dialogue: 100,0:10:17.78,0:10:19.34,Normal Dialog Text,,0,0,0,,{\ rCHS} 她在里面做什么? \N{\ rENG} What is she doing in there?
-Dialogue: 100,0:10:19.34,0:10:22.25,Normal Dialog Text,,0,0,0,,{\ rCHS} 我不确定 我对她太苛刻了\N{\ rENG} I'm not sure. I was too hard on her.
-Dialogue: 100,0:10:24.75,0:10:26.69,Normal Dialog Text,,0,0,0,,{\ rCHS} 哦 噢! 她要回来了! \N{\ rENG} Oh, oh! She's coming back!
-Dialogue: 100,0:10:29.09,0:10:31.86,Normal Dialog Text,,0,0,0,,{\ rCHS} 好吧 所有人要积极一点\N{\ rENG} All right. Everyone be supportive.
-Dialogue: 100,0:10:37.30,0:10:38.50,Normal Dialog Text,,0,0,0,,{\ rCHS} 什么? \N{\ rENG} What?
-Dialogue: 100,0:10:38.50,0:10:40.40,Normal Dialog Text,,0,0,0,,{\ rCHS} 嗷 你基本没变啊\N{\ rENG} Aw, you barely changed.
-Dialogue: 100,0:10:40.40,0:10:41.74,Normal Dialog Text,,0,0,0,,{\ rCHS} 史蒂文! \N{\ rENG} Steven!
-Dialogue: 100,0:10:46.24,0:10:47.87,Normal Dialog Text,,0,0,0,,{\ rCHS} 完美\N{\ rENG} It's perfect.
-Dialogue: 100,0:10:48.18,0:10:51.24,Normal Dialog Text,,0,0,0,,{\ rCHS} 呃 随意 只是这样舒服\N{\ rENG} Ehh, whatev. It's just what feels right.
-Dialogue: 100,0:10:51.25,0:10:53.18,Normal Dialog Text,,0,0,0,,{\ rCHS} 这就是为什么完美\N{\ rENG} That's why it's perfect.
-Dialogue: 100,0:10:53.18,0:10:54.91,Normal Dialog Text,,0,0,0,,{\ rCHS} 这是个重要的改进\N{\ rENG} It is a marked improvement.
-Dialogue: 100,0:10:54.92,0:10:57.02,Normal Dialog Text,,0,0,0,,{\ rCHS} 你总算修正了肩带了\N{\ rENG} You finally fixed that shoulder strap
-Dialogue: 100,0:10:57.02,0:10:58.62,Normal Dialog Text,,0,0,0,,{\ rCHS} 那之前总是让我很不爽! \N{\ rENG} that's always bugged me!
-Dialogue: 100,0:10:58.62,0:10:59.65,Normal Dialog Text,,0,0,0,,{\ rCHS} 欢迎回来! \N{\ rENG} Welcome back!
-Dialogue: 100,0:10:59.66,0:11:01.76,Normal Dialog Text,,0,0,0,,{\ rCHS} 干的漂亮 紫晶! \N{\ rENG} Well done, Amethyst!
-Dialogue: 100,0:11:01.76,0:11:02.94,Normal Dialog Text,,0,0,0,,{\ rCHS} 起开! \N{\ rENG} Knock it off!
-Dialogue: 100,0:11:03.53,0:11:05.36,Normal Dialog Text,,0,0,0,,{\ rCHS} 我们得去搜寻游走者了! \N{\ rENG} We got to go find the slinker!
-Dialogue: 100,0:11:05.36,0:11:06.99,Normal Dialog Text,,0,0,0,,{\ rCHS} 不 现在得拥抱一下! \N{\ rENG} No, it's hug time!
-Dialogue: 100,0:11:07.64,0:11:09.16,Normal Dialog Text,,0,0,0,,{\ rCHS} 这真是蠢爆了! \N{\ rENG} This is so dumb!
-Dialogue: 600,0:11:09.66,0:11:11.66,Hint,,0,0,0,,紫晶的屋子里有非常多的致敬内容 你注意到了几个?
-Dialogue: 0,0:11:12.40,0:11:15.20,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}如果我可以做到\N{\fnArial\fs48}♪ If I could begin to be
-Dialogue: 0,0:11:15.30,0:11:18.37,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}你对我期望的一半\N{\fnArial\fs48}♪ half of what you think of me
-Dialogue: 0,0:11:18.37,0:11:20.35,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我愿意做任何事\N{\fnArial\fs48}♪ I could do about anything
-Dialogue: 0,0:11:20.45,0:11:25.40,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我愿学会像你一样，去爱\N{\fnArial\fs48}♪ I could even learn how to love like you ♪
+Dialogue: 100,0:00:30.16,0:00:31.80,Normal Dialog Text,,0,0,0,,{\rCHS}抽泣的羊角面包! \N{\rENG}Sniffling Croissant!
+Dialogue: 100,0:00:32.22,0:00:33.72,Normal Dialog Text,,0,0,0,,{\rCHS} 你真是了解我啊 互联网\N{\rENG} You really know me, Internet.
+Dialogue: 100,0:00:34.26,0:00:35.26,Normal Dialog Text,,0,0,0,,{\rCHS} 嗨 伙计们! \N{\rENG} Hey, guys!
+Dialogue: 100,0:00:35.26,0:00:36.60,Normal Dialog Text,,0,0,0,,{\rCHS} 怎么 史蒂文? \N{\rENG} Yeah, Steven?
+Dialogue: 100,0:00:36.60,0:00:39.10,Normal Dialog Text,,0,0,0,,{\rCHS} 你们得试试我发现的这个在线测试\N{\rENG} You guys should take this online quiz I found.
+Dialogue: 100,0:00:39.10,0:00:40.72,Normal Dialog Text,,0,0,0,,{\rCHS} 它会告诉你...\N{\rENG} It tells you what...
+Dialogue: 100,0:00:41.78,0:00:45.10,Normal Dialog Text,,0,0,0,,{\rCHS} 它会得出你对应 "哭泣的早餐好友" 中的哪个角色!\N{\rENG} It tells you what character you are from "Crying Breakfast Friends"!
+Dialogue: 100,0:00:45.38,0:00:46.44,Normal Dialog Text,,0,0,0,,{\rCHS} 额...为什么? \N{\rENG} Eh...Why?
+Dialogue: 100,0:00:46.72,0:00:49.46,Normal Dialog Text,,0,0,0,,{\rCHS} 将你自己当作某个卡通人物来看待非常有趣\N{\rENG} It's just fun to see yourself as a cartoon character.
+Dialogue: 100,0:00:49.46,0:00:52.42,Normal Dialog Text,,0,0,0,,{\rCHS} 像流泪的蛋杯 非常神经质和保守\N{\rENG} Like Weeping Eggcup, who's neurotic and uptight,
+Dialogue: 100,0:00:52.42,0:00:54.96,Normal Dialog Text,,0,0,0,,{\rCHS} 或者伤心的葡萄柚 一个年长敏感的角色\N{\rENG} or Pining Grapefruit, the sensitive older one
+Dialogue: 100,0:00:54.96,0:00:56.61,Normal Dialog Text,,0,0,0,,{\rCHS} 希望自己是个更好的楷模\N{\rENG} who wishes he was a better role model.
+Dialogue: 100,0:00:56.88,0:00:59.76,Normal Dialog Text,,0,0,0,,{\rCHS} 额 也许我们可以在修好车后做这个\N{\rENG} Uh, maybe we can do that thing after we've fixed the van.
+Dialogue: 100,0:01:01.36,0:01:02.54,Normal Dialog Text,,0,0,0,,{\rCHS} 好吧\N{\rENG} Okay.
+Dialogue: 100,0:01:02.54,0:01:03.86,Normal Dialog Text,,0,0,0,,{\rCHS} 我去找别人试试! \N{\rENG} I'll go find someone else!
+Dialogue: 100,0:01:04.96,0:01:06.80,Normal Dialog Text,,0,0,0,,{\rCHS} 你理解得了那个卡通秀吗? \N{\rENG} Do you understand that cartoon show?
+Dialogue: 100,0:01:07.04,0:01:09.00,Normal Dialog Text,,0,0,0,,{\rCHS} 我已经跟不上时代了\N{\rENG} I don't understand anything anymore.
+Dialogue: 100,0:01:11.20,0:01:13.73,Normal Dialog Text,,0,0,0,,{\rCHS} 嗨 史蒂文 还有机油吗? \N{\rENG} Hey, Steven. Is there any more engine oil?
+Dialogue: 100,0:01:13.73,0:01:15.56,Normal Dialog Text,,0,0,0,,{\rCHS} 我需要拿来配三明治\N{\rENG} I need it for this sandwich.
+Dialogue: 100,0:01:15.56,0:01:17.64,Normal Dialog Text,,0,0,0,,{\rCHS} 我...觉得那是给车的\N{\rENG} I...Think that's for cars.
+Dialogue: 100,0:01:17.64,0:01:19.74,Normal Dialog Text,,0,0,0,,{\rCHS} 那么 还有吗? \N{\rENG} Well, is there any more of it?
+Dialogue: 100,0:01:19.74,0:01:21.40,Normal Dialog Text,,0,0,0,,{\rCHS} 我爸在外面可能还有些\N{\rENG} Dad's probably got some outside.
+Dialogue: 100,0:01:21.41,0:01:24.14,Normal Dialog Text,,0,0,0,,{\rCHS} 哦! 但 额 你一定得试试这个在线测试\N{\rENG} Oh! But, uh, you got to take this online quiz.
+Dialogue: 100,0:01:24.60,0:01:27.06,Normal Dialog Text,,0,0,0,,{\rCHS} 你是哪个 "哭泣的早餐朋友"? \N{\rENG} Which Crying Breakfast Friend are you?
+Dialogue: 100,0:01:27.36,0:01:29.32,Normal Dialog Text,,0,0,0,,{\rCHS} 那个节目非常诡异\N{\rENG} That show's really weird.
+Dialogue: 100,0:01:29.66,0:01:31.65,Normal Dialog Text,,0,0,0,,{\rCHS} 谁想看一个角色都在哭泣的卡通节目? \N{\rENG} Who wants to watch a cartoon about people crying?
+Dialogue: 100,0:01:32.10,0:01:33.15,Normal Dialog Text,,0,0,0,,{\rCHS} 我想! \N{\rENG} I do!
+Dialogue: 100,0:01:33.15,0:01:34.32,Normal Dialog Text,,0,0,0,,{\rCHS} 好吧 好吧! \N{\rENG} Okay, okay!
+Dialogue: 100,0:01:34.32,0:01:36.72,Normal Dialog Text,,0,0,0,,{\rCHS} 额...第一个问题是什么? \N{\rENG} Uh...What's the first question?
+Dialogue: 100,0:01:37.00,0:01:39.13,Normal Dialog Text,,0,0,0,,{\rCHS} 你是否曾草率行事? \N{\rENG} Do you ever act without thinking?
+Dialogue: 100,0:01:39.13,0:01:41.03,Normal Dialog Text,,0,0,0,,{\rCHS} 没 从没有过\N{\rENG} Nope. Never.
+Dialogue: 100,0:01:41.34,0:01:44.50,Normal Dialog Text,,0,0,0,,{\rCHS} 你是否害怕面对风险和尝试新事物? \N{\rENG} Are you afraid of taking risks and trying new things?
+Dialogue: 100,0:01:45.93,0:01:47.40,Normal Dialog Text,,0,0,0,,{\rCHS} 超害怕\N{\rENG} Terrified.
+Dialogue: 100,0:01:48.78,0:01:51.41,Normal Dialog Text,,0,0,0,,{\rCHS} 紫晶 你是认真的吗? \N{\rENG} Amethyst, are you taking this seriously?
+Dialogue: 100,0:01:51.41,0:01:53.09,Normal Dialog Text,,0,0,0,,{\rCHS} 当然\N{\rENG} Of course I am.
+Dialogue: 100,0:01:53.40,0:01:54.00,Normal Dialog Text,,0,0,0,,{\rCHS} 好吧\N{\rENG} Okay.
+Dialogue: 100,0:01:55.80,0:01:58.26,Normal Dialog Text,,0,0,0,,{\rCHS} 你是否对人际关系\N{\rENG} Are you insecure about your relationships
+Dialogue: 100,0:01:58.26,0:02:00.08,Normal Dialog Text,,0,0,0,,{\rCHS} 和别人的看法感到不安? \N{\rENG} and how you're perceived by other people?
+Dialogue: 100,0:02:00.44,0:02:01.46,Normal Dialog Text,,0,0,0,,{\rCHS} 不~\N{\rENG} Nnnno.
+Dialogue: 100,0:02:02.15,0:02:03.42,Normal Dialog Text,,0,0,0,,{\rCHS} 对? 额...\N{\rENG} Yes? Eh...
+Dialogue: 100,0:02:03.42,0:02:04.52,Normal Dialog Text,,0,0,0,,{\rCHS} 正确答案是什么? \N{\rENG} What's the right answer?
+Dialogue: 100,0:02:04.84,0:02:06.08,Normal Dialog Text,,0,0,0,,{\rCHS} 这没有正确答案\N{\rENG} There is no right answer.
+Dialogue: 100,0:02:06.08,0:02:08.02,Normal Dialog Text,,0,0,0,,{\rCHS} 你应该坦诚的回答\N{\rENG} You're just supposed to answer honestly.
+Dialogue: 100,0:02:08.02,0:02:09.19,Normal Dialog Text,,0,0,0,,{\rCHS} 切 我受够了\N{\rENG} Nah, I'm bored.
+Dialogue: 100,0:02:09.62,0:02:13.12,Normal Dialog Text,,0,0,0,,{\rCHS} 等等--我还有很多探讨性的个人问题要问你!\N{\rENG} Wait--I have loads more probing, personal questions to ask!
+Dialogue: 100,0:02:14.58,0:02:17.28,Normal Dialog Text,,0,0,0,,{\rCHS} 石榴? 你-你在我屋里干嘛? \N{\rENG} Garnet! W-what are you doing in my room?
+Dialogue: 100,0:02:17.64,0:02:18.96,Normal Dialog Text,,0,0,0,,{\rCHS} 我看到一个堕转的宝石人\N{\rENG} I saw a corrupted gem.
+Dialogue: 100,0:02:19.40,0:02:21.70,Normal Dialog Text,,0,0,0,,{\rCHS} 我通过它在岩石中挖出的通道跟踪它\N{\rENG} I followed it through the tunnel it dug in the rock.
+Dialogue: 100,0:02:22.14,0:02:22.90,Normal Dialog Text,,0,0,0,,{\rCHS} 好吧\N{\rENG} Yeah, right.
+Dialogue: 100,0:02:23.30,0:02:24.62,Normal Dialog Text,,0,0,0,,{\rCHS} 它来自哪里? \N{\rENG} Where did it come from?
+Dialogue: 100,0:02:25.04,0:02:26.92,Normal Dialog Text,,0,0,0,,{\rCHS} 听起来像是珍珠描述的\N{\rENG} It's similar to Pearl's description
+Dialogue: 100,0:02:26.92,0:02:29.11,Normal Dialog Text,,0,0,0,,{\rCHS} 在神庙中偷偷游走的生物\N{\rENG} of the creature she saw slinking through the temple.
+Dialogue: 100,0:02:29.11,0:02:30.94,Normal Dialog Text,,0,0,0,,{\rCHS} 你看到了游走者?!\N{\rENG} You saw the slinker?!
+Dialogue: 100,0:02:30.95,0:02:33.48,Normal Dialog Text,,0,0,0,,{\rCHS} 我以为我们都同意游走者不存在\N{\rENG} I thought we agreed there was no slinker
+Dialogue: 100,0:02:33.48,0:02:36.21,Normal Dialog Text,,0,0,0,,{\rCHS} 而且我们也不会管它叫 "游走者"\N{\rENG} and that we weren't going to call it "the slinker".
+Dialogue: 100,0:02:36.52,0:02:37.68,Normal Dialog Text,,0,0,0,,{\rCHS} 对 之前是的\N{\rENG} Yes, we did.
+Dialogue: 100,0:02:37.68,0:02:39.84,Normal Dialog Text,,0,0,0,,{\rCHS} 但现在不可否认的是那个生物存在\N{\rENG} But now it's undeniable the creature exists
+Dialogue: 100,0:02:39.84,0:02:41.22,Normal Dialog Text,,0,0,0,,{\rCHS} 且就该用史蒂文的命名\N{\rENG} and that Steven's name stuck.
+Dialogue: 100,0:02:41.66,0:02:42.78,Normal Dialog Text,,0,0,0,,{\rCHS} 对! \N{\rENG} Yes!
+Dialogue: 100,0:02:42.78,0:02:44.00,Normal Dialog Text,,0,0,0,,{\rCHS} 不! \N{\rENG} No!
+Dialogue: 100,0:02:44.00,0:02:46.34,Normal Dialog Text,,0,0,0,,{\rCHS} 听着 为什么不直接让我去找它? \N{\rENG} Look, why don't you just let me look for it?
+Dialogue: 100,0:02:46.34,0:02:47.30,Normal Dialog Text,,0,0,0,,{\rCHS} 因为你不会去做\N{\rENG} Because you won't.
+Dialogue: 100,0:02:52.72,0:02:54.70,Normal Dialog Text,,0,0,0,,{\rCHS} 这东西在这里多久了? \N{\rENG} How long's this thing been in here?
+Dialogue: 100,0:02:55.82,0:02:57.86,Normal Dialog Text,,0,0,0,,{\rCHS} 看 史蒂文! 我是个厚皮脸! \N{\rENG} Look, Steven! I'm a pachyderm!
+Dialogue: 100,0:02:58.36,0:03:01.11,Normal Dialog Text,,0,0,0,,{\rCHS} 看! 开盖有惊喜哦! \N{\rENG} Oh! And there's a prize inside!
+Dialogue: 100,0:03:01.11,0:03:03.37,Normal Dialog Text,,0,0,0,,{\rCHS} 嘘! 安静\N{\rENG} Shhh! Keep quiet.
+Dialogue: 100,0:03:08.96,0:03:11.59,Normal Dialog Text,,0,0,0,,{\rCHS} 哦 石榴 严肃但实际\N{\rENG} Oh, Garnet. Stern but practical.
+Dialogue: 100,0:03:11.96,0:03:12.90,Normal Dialog Text,,0,0,0,,{\rCHS} 就像洒出的牛奶\N{\rENG} Just like spilt milk.
+Dialogue: 100,0:03:13.28,0:03:15.84,Normal Dialog Text,,0,0,0,,{\rCHS} 你不会还在想那个破动画吧? \N{\rENG} You're not still on about that dumb cartoon, are you?
+Dialogue: 100,0:03:15.84,0:03:17.42,Normal Dialog Text,,0,0,0,,{\rCHS} 哦 对--测试! \N{\rENG} Oh, right--the quiz!
+Dialogue: 100,0:03:18.24,0:03:20.94,Normal Dialog Text,,0,0,0,,{\rCHS} 你是否在别人询问你试图隐藏的情绪时\N{\rENG} Do you get defensive when people ask you questions
+Dialogue: 100,0:03:20.94,0:03:23.32,Normal Dialog Text,,0,0,0,,{\rCHS} 变得非常焦虑不安? \N{\rENG} about the feelings you prefer to keep hidden?
+Dialogue: 100,0:03:23.67,0:03:27.85,Normal Dialog Text,,0,0,0,,{\rCHS} 别试图对我进行心理分析 史蒂文\N{\rENG} Don't get all psycho-logical on me, Steven.
+Dialogue: 100,0:03:28.60,0:03:30.50,Normal Dialog Text,,0,0,0,,{\rCHS} 呃...抱歉? \N{\rENG} Uh...Sorry?
+Dialogue: 100,0:03:31.72,0:03:32.38,Normal Dialog Text,,0,0,0,,{\rCHS} 那里! \N{\rENG} There!
+Dialogue: 100,0:03:41.46,0:03:43.74,Normal Dialog Text,,0,0,0,,{\rCHS} 喔! 你抓到了吗?!\N{\rENG} Whoa, mama! Did you get it?!
+Dialogue: 100,0:03:44.92,0:03:45.58,Normal Dialog Text,,0,0,0,,{\rCHS} 不\N{\rENG} No.
+Dialogue: 100,0:03:49.42,0:03:51.06,Normal Dialog Text,,0,0,0,,{\rCHS} 嗷 天! \N{\rENG} Aw, man!
+Dialogue: 100,0:03:51.06,0:03:53.46,Normal Dialog Text,,0,0,0,,{\rCHS} 我想我最喜欢的圆形物品在里面\N{\rENG} I think my favorite round thing was in there.
+Dialogue: 100,0:03:53.96,0:03:55.80,Normal Dialog Text,,0,0,0,,{\rCHS} 我会给你找个新的圆形物品\N{\rENG} I'll get you a new round thing.
+Dialogue: 100,0:03:55.80,0:03:58.75,Normal Dialog Text,,0,0,0,,{\rCHS} 啊! 你可是在折腾我的东西! \N{\rENG} Ugh! This is my stuff you're messing with!
+Dialogue: 100,0:03:59.02,0:04:00.97,Normal Dialog Text,,0,0,0,,{\rCHS} 如果要--呃!--破坏的话 \N{\rENG} If it's gonna get--ugh!--Wrecked,
+Dialogue: 100,0:04:01.30,0:04:03.14,Normal Dialog Text,,0,0,0,,{\rCHS} 也得由我来破坏! \N{\rENG} I'm gonna be the one to wreck it!
+Dialogue: 100,0:04:05.24,0:04:06.10,Normal Dialog Text,,0,0,0,,{\rCHS} 看到没?!\N{\rENG} See?!
+Dialogue: 100,0:04:06.44,0:04:08.11,Normal Dialog Text,,0,0,0,,{\rCHS} 就该这么完--\N{\rENG} That's how it's do--
+Dialogue: 100,0:04:17.06,0:04:18.68,Normal Dialog Text,,0,0,0,,{\rCHS} 紫晶被打爆了! \N{\rENG} Amethyst got poofed!
+Dialogue: 100,0:04:19.20,0:04:20.30,Normal Dialog Text,,0,0,0,,{\rCHS} 游走者! \N{\rENG} Slinker!
+Dialogue: 100,0:04:28.24,0:04:28.80,Normal Dialog Text,,0,0,0,,{\rCHS} 石榴? \N{\rENG} Garnet?
+Dialogue: 100,0:04:30.14,0:04:33.60,Normal Dialog Text,,0,0,0,,{\rCHS} 史蒂文 记着--我们的身体只是幻象\N{\rENG} Steven, remember--our bodies are only an illusion.
+Dialogue: 100,0:04:33.90,0:04:35.27,Normal Dialog Text,,0,0,0,,{\rCHS} 紫晶不会有事的\N{\rENG} Amethyst will be fine.
+Dialogue: 100,0:04:36.00,0:04:38.67,Normal Dialog Text,,0,0,0,,{\rCHS} 但-但-但珍珠花了整整两周才回来\N{\rENG} B-b-but Pearl took two whole weeks to come back.
+Dialogue: 100,0:04:38.67,0:04:41.68,Normal Dialog Text,,0,0,0,,{\rCHS} 而我已经非常想念紫晶了! \N{\rENG} And I already miss Amethyst so much!
+Dialogue: 100,0:04:41.68,0:04:44.48,Normal Dialog Text,,0,0,0,,{\rCHS} 别担心 她转眼间就会回来的\N{\rENG} Don't worry. She'll be back before you know it.
+Dialogue: 100,0:04:49.72,0:04:50.62,Normal Dialog Text,,0,0,0,,{\rCHS} 真的\N{\rENG} Literally.
+Dialogue: 100,0:04:55.90,0:04:58.02,Normal Dialog Text,,0,0,0,,{\rCHS} 紫晶回来了! 紫晶回来了! \N{\rENG} Amethyst's back! Amethyst's back!
+Dialogue: 100,0:05:00.10,0:05:04.56,Normal Dialog Text,,0,0,0,,{\rCHS} 看来你...相比之前多长了几条腿!\N{\rENG} Looks like you...Grew a few feet since the last time I saw you!
+Dialogue: 100,0:05:05.66,0:05:06.91,Normal Dialog Text,,0,0,0,,{\rCHS} 那真有点快了\N{\rENG} That was fast.
+Dialogue: 100,0:05:07.17,0:05:08.22,Normal Dialog Text,,0,0,0,,{\rCHS} 即使是你\N{\rENG} Even for you.
+Dialogue: 100,0:05:09.92,0:05:11.49,Normal Dialog Text,,0,0,0,,{\rCHS} 切! 这不算什么\N{\rENG} Eh! It's no big deal.
+Dialogue: 100,0:05:11.82,0:05:13.54,Normal Dialog Text,,0,0,0,,{\rCHS} 我可不想让我的头号粉丝等着\N{\rENG} I didn't want to keep my biggest fan waiting.
+Dialogue: 100,0:05:19.00,0:05:19.81,Normal Dialog Text,,0,0,0,,{\rCHS} 好吧 好吧! \N{\rENG} Okay, okay!
+Dialogue: 100,0:05:19.81,0:05:21.08,Normal Dialog Text,,0,0,0,,{\rCHS} 我们有游走者要游走! \N{\rENG} We got a slinker to slink!
+Dialogue: 100,0:05:26.02,0:05:29.34,Normal Dialog Text,,0,0,0,,{\rCHS} 如果我是个怪物我会去哪? \N{\rENG} Where would I go if I was a monster?
+Dialogue: 100,0:05:31.46,0:05:33.42,Normal Dialog Text,,0,0,0,,{\rCHS} 嘿! 这里\N{\rENG} Hey! Over here.
+Dialogue: 100,0:05:34.52,0:05:36.23,Normal Dialog Text,,0,0,0,,{\rCHS} 你的新形态很有意思嘛\N{\rENG} Your new form is really interesting.
+Dialogue: 100,0:05:36.54,0:05:37.36,Normal Dialog Text,,0,0,0,,{\rCHS} 谢谢 史蒂文\N{\rENG} Thanks, Steven.
+Dialogue: 100,0:05:37.64,0:05:40.02,Normal Dialog Text,,0,0,0,,{\rCHS} 我都想不出你回来后会有这么大差别\N{\rENG} I didn't even know you could come back this different.
+Dialogue: 100,0:05:40.02,0:05:41.50,Normal Dialog Text,,0,0,0,,{\rCHS} 谢谢 史蒂文\N{\rENG} Thanks, Steven.
+Dialogue: 100,0:05:41.50,0:05:43.68,Normal Dialog Text,,0,0,0,,{\rCHS} 那么 你为什么要长四条腿? \N{\rENG} So, why'd you come back with four legs?
+Dialogue: 100,0:05:43.68,0:05:45.28,Normal Dialog Text,,0,0,0,,{\rCHS} 因为我喜欢走路! \N{\rENG}'Cause I like walking!
+Dialogue: 100,0:05:45.82,0:05:48.16,Normal Dialog Text,,0,0,0,,{\rCHS} 喔 我也想要四条腿! \N{\rENG} Wow. I want four legs, too!
+Dialogue: 100,0:05:48.16,0:05:49.57,Normal Dialog Text,,0,0,0,,{\rCHS} 不 你可不想\N{\rENG} No, you don't.
+Dialogue: 100,0:05:49.57,0:05:51.75,Normal Dialog Text,,0,0,0,,{\rCHS} 紫晶对重生操之过急了\N{\rENG} Amethyst rushed her regeneration.
+Dialogue: 100,0:05:51.75,0:05:53.31,Normal Dialog Text,,0,0,0,,{\rCHS} 她本该多花点功夫的\N{\rENG} She should have taken her time.
+Dialogue: 100,0:05:53.56,0:05:54.48,Normal Dialog Text,,0,0,0,,{\rCHS} 就像珍珠? \N{\rENG} Like Pearl?
+Dialogue: 100,0:05:55.00,0:05:59.40,Normal Dialog Text,,0,0,0,,{\rCHS} 对 珍珠多花了点...精力在重生上\N{\rENG} Yes. Pearl put a bit more...Thought into how she came back.
+Dialogue: 100,0:05:59.40,0:06:01.49,Normal Dialog Text,,0,0,0,,{\rCHS} 破 破 破! \N{\rENG} Pearl, Pearl, Pearl!
+Dialogue: 100,0:06:01.49,0:06:02.99,Normal Dialog Text,,0,0,0,,{\rCHS} 你知道我能听到你! \N{\rENG} You know I can hear you!
+Dialogue: 100,0:06:02.99,0:06:05.59,Normal Dialog Text,,0,0,0,,{\rCHS} 我很抱歉不像珍珠那样花哨\N{\rENG} I'm sorry I'm not like Pearl with her fancy form
+Dialogue: 100,0:06:05.80,0:06:08.16,Normal Dialog Text,,0,0,0,,{\rCHS} 房间整洁 没有怪物\N{\rENG} and her clean room with no monsters in it.
+Dialogue: 100,0:06:11.06,0:06:12.04,Normal Dialog Text,,0,0,0,,{\rCHS} 紫晶? \N{\rENG} Amethyst?
+Dialogue: 100,0:06:13.60,0:06:14.97,Normal Dialog Text,,0,0,0,,{\rCHS} 紫晶的宝石! \N{\rENG} Amethyst's gem!
+Dialogue: 100,0:06:15.44,0:06:17.17,Normal Dialog Text,,0,0,0,,{\rCHS} 她又被打爆了! \N{\rENG} She got poofed again!
+Dialogue: 100,0:06:17.42,0:06:19.08,Normal Dialog Text,,0,0,0,,{\rCHS} 这对她是个好机会\N{\rENG} This is a good opportunity for her.
+Dialogue: 100,0:06:19.41,0:06:21.11,Normal Dialog Text,,0,0,0,,{\rCHS} 现在她可以制造个更好的形态\N{\rENG} Now she can make a better form.
+Dialogue: 100,0:06:22.48,0:06:23.52,Normal Dialog Text,,0,0,0,,{\rCHS} 她回来了! \N{\rENG} She's coming back!
+Dialogue: 100,0:06:26.38,0:06:29.15,Normal Dialog Text,,0,0,0,,{\rCHS} 没错 这次好多了! \N{\rENG} You're right. This is much better!
+Dialogue: 100,0:06:30.28,0:06:31.62,Normal Dialog Text,,0,0,0,,{\rCHS} 她在模仿珍珠! \N{\rENG} She's doing Pearl!
+Dialogue: 100,0:06:35.94,0:06:38.66,Normal Dialog Text,,0,0,0,,{\rCHS} 嘿 石榴 你认为我的新长相怎么样 石榴? \N{\rENG} Hey, Garnet. What do you think of my new look, Garnet?
+Dialogue: 100,0:06:40.04,0:06:43.13,Normal Dialog Text,,0,0,0,,{\rCHS} 我现在更像是珍珠了 这不好吗? 哈! \N{\rENG} I'm more like Pearl now. Isn't it wonderful? Ha!
+Dialogue: 100,0:06:43.48,0:06:46.40,Normal Dialog Text,,0,0,0,,{\rCHS} 我感觉实用般的完美! \N{\rENG} I feel practically perfect!
+Dialogue: 100,0:06:46.74,0:06:49.17,Normal Dialog Text,,0,0,0,,{\rCHS} 我们得集中精力倾听那个怪物的动静\N{\rENG} We need to focus on listening for the creature.
+Dialogue: 100,0:06:49.50,0:06:51.46,Normal Dialog Text,,0,0,0,,{\rCHS} 哦 但我没法集中精力\N{\rENG} Oh, but I can't focus.
+Dialogue: 100,0:06:51.74,0:06:54.22,Normal Dialog Text,,0,0,0,,{\rCHS} 所有的这些石头尺寸都不同\N{\rENG} All these rocks are different sizes.
+Dialogue: 100,0:06:54.22,0:06:57.24,Normal Dialog Text,,0,0,0,,{\rCHS} 我们得按照形状和颜色对石头进行分类\N{\rENG} We'll have to organize them by shape and color.
+Dialogue: 100,0:06:57.62,0:07:01.19,Normal Dialog Text,,0,0,0,,{\rCHS} 就没人告诉大自然我想让它长什么样吗? \N{\rENG} Didn't anyone tell nature how I want it to look?
+Dialogue: 100,0:07:02.40,0:07:03.78,Normal Dialog Text,,0,0,0,,{\rCHS} 别鼓励她\N{\rENG} Don't encourage her.
+Dialogue: 100,0:07:04.14,0:07:06.09,Normal Dialog Text,,0,0,0,,{\rCHS} 但我需要鼓励 石榴\N{\rENG} But I need encouragement, Garnet.
+Dialogue: 100,0:07:06.09,0:07:08.56,Normal Dialog Text,,0,0,0,,{\rCHS} 我需要所有人持续的认同\N{\rENG} I need everyone's constant approval.
+Dialogue: 100,0:07:08.56,0:07:11.59,Normal Dialog Text,,0,0,0,,{\rCHS} 我必须要用嗔嗔的语调才能显摆我的...\N{\rENG} I need to loquaciously converse so I can show off...
+Dialogue: 100,0:07:11.59,0:07:13.28,Normal Dialog Text,,0,0,0,,{\rCHS} 聪明才智\N{\rENG} How smart I am.
+Dialogue: 100,0:07:13.66,0:07:15.12,Normal Dialog Text,,0,0,0,,{\rCHS} 你可以跟我对话\N{\rENG} You can converse with me.
+Dialogue: 100,0:07:15.12,0:07:16.40,Normal Dialog Text,,0,0,0,,{\rCHS} 让我们完成这个测试吧\N{\rENG} Let's finish that quiz.
+Dialogue: 100,0:07:16.80,0:07:18.68,Normal Dialog Text,,0,0,0,,{\rCHS} 你需要在行动前事先准备吗? \N{\rENG} Do you need to plan ahead before you act?
+Dialogue: 100,0:07:19.02,0:07:20.17,Normal Dialog Text,,0,0,0,,{\rCHS} 哦 非常仔细\N{\rENG} Oh, thoroughly.
+Dialogue: 100,0:07:20.17,0:07:22.32,Normal Dialog Text,,0,0,0,,{\rCHS} 你是否沉醉于微小细节? \N{\rENG} Do you obsess over little details?
+Dialogue: 100,0:07:22.32,0:07:23.77,Normal Dialog Text,,0,0,0,,{\rCHS} 完全非常正确! \N{\rENG} Completely entirely!
+Dialogue: 100,0:07:23.77,0:07:25.67,Normal Dialog Text,,0,0,0,,{\rCHS} 喔 你真是有条理啊\N{\rENG} Wow, you're so method.
+Dialogue: 100,0:07:25.67,0:07:27.34,Normal Dialog Text,,0,0,0,,{\rCHS}  你下次重生时能变成我吗? \N{\rENG} Next time, can you come back as me?
+Dialogue: 100,0:07:27.78,0:07:29.63,Normal Dialog Text,,0,0,0,,{\rCHS} 这对你不是个合适的形态\N{\rENG} This is not a good choice for your form.
+Dialogue: 100,0:07:29.94,0:07:31.22,Normal Dialog Text,,0,0,0,,{\rCHS} 放松点 石榴\N{\rENG} Lighten up, Garnet.
+Dialogue: 100,0:07:31.60,0:07:32.55,Normal Dialog Text,,0,0,0,,{\rCHS} 就开不起玩笑嘛? \N{\rENG} Can't you take a joke?
+Dialogue: 100,0:07:32.92,0:07:34.08,Normal Dialog Text,,0,0,0,,{\rCHS} 这并不好笑\N{\rENG} It's not funny.
+Dialogue: 100,0:07:34.36,0:07:35.80,Normal Dialog Text,,0,0,0,,{\rCHS} 你让自己变得荒谬\N{\rENG} You've made yourself ridiculous.
+Dialogue: 100,0:07:36.12,0:07:37.85,Normal Dialog Text,,0,0,0,,{\rCHS} 荒谬?!\N{\rENG} Ridiculous?!
+Dialogue: 100,0:07:37.85,0:07:39.56,Normal Dialog Text,,0,0,0,,{\rCHS} 小声点! 那个生物还在\N{\rENG} Keep your voice down! The creature.
+Dialogue: 100,0:07:40.42,0:07:43.90,Normal Dialog Text,,0,0,0,,{\rCHS} 你想让我学习珍珠 而现在我做到了! \N{\rENG} You wanted me to be more like Pearl, and now I am!
+Dialogue: 100,0:07:43.90,0:07:46.65,Normal Dialog Text,,0,0,0,,{\rCHS} 珍珠会更严肃的对待自己的重生! \N{\rENG} Pearl would have taken her regeneration seriously!
+Dialogue: 100,0:07:46.96,0:07:50.07,Normal Dialog Text,,0,0,0,,{\rCHS} 你关心什么?!我的形态是我自己的事! \N{\rENG} What do you care?!My form is my business!
+Dialogue: 100,0:07:50.32,0:07:53.41,Normal Dialog Text,,0,0,0,,{\rCHS} 只要事关团队的力量就跟我有关! \N{\rENG} It's my business when it affects the strength of the team!
+Dialogue: 100,0:07:54.42,0:07:56.34,Normal Dialog Text,,0,0,0,,{\rCHS} 那怎么?!我还不够强壮吗? \N{\rENG} So what?!I'm not strong enough?
+Dialogue: 100,0:07:56.74,0:07:57.49,Normal Dialog Text,,0,0,0,,{\rCHS} 紫晶! \N{\rENG} Amethyst!
+Dialogue: 100,0:07:57.80,0:08:00.50,Normal Dialog Text,,0,0,0,,{\rCHS} 你是说我很弱吗?!\N{\rENG} Are you saying I'm weak?!
+Dialogue: 100,0:08:03.16,0:08:04.96,Normal Dialog Text,,0,0,0,,{\rCHS} 我对此渐渐麻木很奇怪吗? \N{\rENG} Is it weird I'm getting numb to this?
+Dialogue: 100,0:08:16.78,0:08:17.60,Normal Dialog Text,,0,0,0,,{\rCHS} 好吧! \N{\rENG} Okay!
+Dialogue: 100,0:08:17.86,0:08:19.42,Normal Dialog Text,,0,0,0,,{\rCHS} 你看 我一开始不这么想 \N{\rENG} You know, I wasn't feeling this at first,
+Dialogue: 100,0:08:19.92,0:08:22.10,Normal Dialog Text,,0,0,0,,{\rCHS} 但我回心转意了\N{\rENG} but I think I might be coming around!
+Dialogue: 100,0:08:22.60,0:08:25.02,Normal Dialog Text,,0,0,0,,{\rCHS} 呦 史蒂仔 我看起来怎么样? \N{\rENG} Yo, ste-man. My seams straight?
+Dialogue: 100,0:08:26.06,0:08:28.56,Normal Dialog Text,,0,0,0,,{\rCHS} 那个新形态...让你舒服吗? \N{\rENG} Does that new form...Hurt you?
+Dialogue: 100,0:08:29.98,0:08:30.64,Normal Dialog Text,,0,0,0,,{\rCHS} 当然\N{\rENG} No.
+Dialogue: 100,0:08:31.99,0:08:32.99,Normal Dialog Text,,0,0,0,,{\rCHS} 嘿 石榴\N{\rENG} Hey, Garnet.
+Dialogue: 100,0:08:33.28,0:08:35.92,Normal Dialog Text,,0,0,0,,{\rCHS} 你觉得这个配的怎么样? \N{\rENG} How'd you like to mix it up with this?
+Dialogue: 100,0:08:37.08,0:08:39.52,Normal Dialog Text,,0,0,0,,{\rCHS} 我就是随便拼凑了一下 你知道的\N{\rENG} Just a little something I threw together. You know.
+Dialogue: 100,0:08:39.88,0:08:42.16,Normal Dialog Text,,0,0,0,,{\rCHS} 这个形态不稳定 紫晶\N{\rENG} This form isn't sustainable, Amethyst.
+Dialogue: 100,0:08:42.78,0:08:46.14,Normal Dialog Text,,0,0,0,,{\rCHS} 但...是你说我要更强壮的! \N{\rENG} But...You're the one who said I needed to be stronger!
+Dialogue: 100,0:08:49.19,0:08:51.98,Normal Dialog Text,,0,0,0,,{\rCHS} 好吧 如果是我的怪兽 那么就由我来处理\N{\rENG} Okay, if it's my monster, then I'll deal with it.
+Dialogue: 100,0:08:56.62,0:08:57.72,Normal Dialog Text,,0,0,0,,{\rCHS} 紫晶! \N{\rENG} Amethyst!
+Dialogue: 100,0:09:02.88,0:09:03.88,Normal Dialog Text,,0,0,0,,{\rCHS} 待在我什么后! \N{\rENG} Stay behind me!
+Dialogue: 100,0:09:05.77,0:09:06.66,Normal Dialog Text,,0,0,0,,{\rCHS} 紫晶! \N{\rENG} Amethyst!
+Dialogue: 100,0:09:11.54,0:09:12.40,Normal Dialog Text,,0,0,0,,{\rCHS} 紫晶! \N{\rENG} Amethyst!
+Dialogue: 100,0:09:26.10,0:09:27.30,Normal Dialog Text,,0,0,0,,{\rCHS} 放手! \N{\rENG} Let it go!
+Dialogue: 100,0:09:27.30,0:09:28.14,Normal Dialog Text,,0,0,0,,{\rCHS} 不! \N{\rENG} No!
+Dialogue: 100,0:09:28.84,0:09:30.56,Normal Dialog Text,,0,0,0,,{\rCHS} 是你想让我变强的! \N{\rENG} You wanted me to be stronger!
+Dialogue: 100,0:09:30.56,0:09:31.90,Normal Dialog Text,,0,0,0,,{\rCHS} 我照做了! \N{\rENG} I'm doing it!
+Dialogue: 100,0:09:31.90,0:09:33.90,Normal Dialog Text,,0,0,0,,{\rCHS} 我变成了你想要的样子! \N{\rENG} I'm being what you want!
+Dialogue: 100,0:09:33.90,0:09:35.51,Normal Dialog Text,,0,0,0,,{\rCHS} 我不想要这样! \N{\rENG} I don't want this!
+Dialogue: 100,0:09:38.76,0:09:40.28,Normal Dialog Text,,0,0,0,,{\rCHS} 那么 你想怎么样?!\N{\rENG} Well, what do you want?!
+Dialogue: 100,0:09:40.28,0:09:42.01,Normal Dialog Text,,0,0,0,,{\rCHS} 告诉我 我会照做! \N{\rENG} Just tell me, and I'll do that!
+Dialogue: 100,0:09:42.28,0:09:43.90,Normal Dialog Text,,0,0,0,,{\rCHS} 我没法告诉你 紫晶! \N{\rENG} I can't tell you, Amethyst!
+Dialogue: 100,0:09:44.16,0:09:45.76,Normal Dialog Text,,0,0,0,,{\rCHS} 你得自己想明白! \N{\rENG} You have to figure this out for yourself!
+Dialogue: 100,0:09:48.14,0:09:49.04,Normal Dialog Text,,0,0,0,,{\rCHS} 她做不到\N{\rENG} She can't.
+Dialogue: 100,0:09:49.32,0:09:51.44,Normal Dialog Text,,0,0,0,,{\rCHS} 她不想认识自己! \N{\rENG} She doesn't want to think about herself!
+Dialogue: 100,0:09:52.36,0:09:53.10,Normal Dialog Text,,0,0,0,,{\rCHS} 什么? \N{\rENG} What?
+Dialogue: 100,0:10:01.00,0:10:01.78,Normal Dialog Text,,0,0,0,,{\rCHS} 接得不错\N{\rENG} Good catch.
+Dialogue: 100,0:10:06.16,0:10:08.06,Normal Dialog Text,,0,0,0,,{\rCHS} 我就知道那东西是真的! \N{\rENG} I knew that thing was real!
+Dialogue: 100,0:10:08.33,0:10:11.00,Normal Dialog Text,,0,0,0,,{\rCHS} 当紫晶回来后 我们得找到它\N{\rENG} When Amethyst gets back, we have to go find it.
+Dialogue: 100,0:10:11.62,0:10:12.68,Normal Dialog Text,,0,0,0,,{\rCHS} 已经过了多久了? \N{\rENG} How long has it been?
+Dialogue: 100,0:10:13.08,0:10:14.10,Normal Dialog Text,,0,0,0,,{\rCHS} 四个小时\N{\rENG} Four hours.
+Dialogue: 100,0:10:14.46,0:10:17.74,Normal Dialog Text,,0,0,0,,{\rCHS} 四个小时?!她从没花过这么久\N{\rENG} Four hours?!She's never taken so long.
+Dialogue: 100,0:10:17.74,0:10:19.18,Normal Dialog Text,,0,0,0,,{\rCHS} 她在里面做什么? \N{\rENG} What is she doing in there?
+Dialogue: 100,0:10:19.54,0:10:22.18,Normal Dialog Text,,0,0,0,,{\rCHS} 我不确定 我对她太苛刻了\N{\rENG} I'm not sure. I was too hard on her.
+Dialogue: 100,0:10:24.95,0:10:26.43,Normal Dialog Text,,0,0,0,,{\rCHS} 哦 噢! 她要回来了! \N{\rENG} Oh, oh! She's coming back!
+Dialogue: 100,0:10:29.29,0:10:32.06,Normal Dialog Text,,0,0,0,,{\rCHS} 好吧 所有人积极点\N{\rENG} All right. Everyone be supportive.
+Dialogue: 100,0:10:37.72,0:10:38.16,Normal Dialog Text,,0,0,0,,{\rCHS} 什么? \N{\rENG} What?
+Dialogue: 100,0:10:38.86,0:10:40.44,Normal Dialog Text,,0,0,0,,{\rCHS} 嗷 你基本没变啊\N{\rENG} Aw, you barely changed.
+Dialogue: 100,0:10:40.44,0:10:41.28,Normal Dialog Text,,0,0,0,,{\rCHS} 史蒂文! \N{\rENG} Steven!
+Dialogue: 100,0:10:46.78,0:10:47.91,Normal Dialog Text,,0,0,0,,{\rCHS} 完美\N{\rENG} It's perfect.
+Dialogue: 100,0:10:48.60,0:10:51.17,Normal Dialog Text,,0,0,0,,{\rCHS} 呃 随意 只是这样舒服\N{\rENG} Ehh, whatev. It's just what feels right.
+Dialogue: 100,0:10:51.45,0:10:53.34,Normal Dialog Text,,0,0,0,,{\rCHS} 这就是为什么完美\N{\rENG} That's why it's perfect.
+Dialogue: 100,0:10:53.60,0:10:55.76,Normal Dialog Text,,0,0,0,,{\rCHS} 这是个重要的改进\N{\rENG} It is a marked improvement.
+Dialogue: 100,0:10:55.76,0:10:57.48,Normal Dialog Text,,0,0,0,,{\rCHS} 你总算修正了肩带了\N{\rENG} You finally fixed that shoulder strap
+Dialogue: 100,0:10:57.48,0:10:58.82,Normal Dialog Text,,0,0,0,,{\rCHS} 那总是让我很不爽! \N{\rENG} that's always bugged me!
+Dialogue: 100,0:10:58.82,0:10:59.85,Normal Dialog Text,,0,0,0,,{\rCHS} 欢迎回来! \N{\rENG} Welcome back!
+Dialogue: 100,0:10:59.85,0:11:01.82,Normal Dialog Text,,0,0,0,,{\rCHS} 干的漂亮 紫晶! \N{\rENG} Well done, Amethyst!
+Dialogue: 100,0:11:01.82,0:11:02.96,Normal Dialog Text,,0,0,0,,{\rCHS} 起开! \N{\rENG} Knock it off!
+Dialogue: 100,0:11:03.76,0:11:05.36,Normal Dialog Text,,0,0,0,,{\rCHS} 我们得去搜寻游走者了! \N{\rENG} We got to go find the slinker!
+Dialogue: 100,0:11:05.56,0:11:07.02,Normal Dialog Text,,0,0,0,,{\rCHS} 不 现在得拥抱一下! \N{\rENG} No, it's hug time!
+Dialogue: 100,0:11:07.64,0:11:09.18,Normal Dialog Text,,0,0,0,,{\rCHS} 这真是蠢爆了! \N{\rENG} This is so dumb!
+Dialogue: 600,0:11:09.86,0:11:11.86,Hint,,0,0,0,,紫晶的屋子里有非常多的致敬内容 你注意到了几个?
+Dialogue: 0,0:11:12.35,0:11:15.56,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}如果我可以做到\N{\fnArial\fs48}♪ If I could begin to be
+Dialogue: 0,0:11:15.56,0:11:18.34,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}你对我期望的一半\N{\fnArial\fs48}♪ half of what you think of me
+Dialogue: 0,0:11:18.34,0:11:20.55,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我愿意做任何事\N{\fnArial\fs48}♪ I could do about anything
+Dialogue: 0,0:11:20.65,0:11:24.14,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}我愿学会像你一样，去爱\N{\fnArial\fs48}♪ I could even learn how to love like you ♪
