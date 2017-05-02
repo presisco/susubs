@@ -16,9 +16,9 @@ Video File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E09.Sworn.to.th
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 142
-Active Line: 156
-Video Position: 9088
+Scroll Position: 236
+Active Line: 253
+Video Position: 16329
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -61,13 +61,13 @@ Dialogue: 1,0:00:25.05,0:00:26.55,SU Team Member,,0,0,0,,{\pos(1725,320)}UUU字�
 Dialogue: 1,0:00:25.05,0:00:26.55,SU Team Title,,0,0,0,,{\pos(1725,380)}翻译
 Dialogue: 1,0:00:25.05,0:00:26.55,SU Team Member,,0,0,0,,{\pos(1725,440)}presisco
 Dialogue: 1,0:00:25.05,0:00:26.55,SU Team Title,,0,0,0,,{\pos(1725,500)}校对
-Dialogue: 1,0:00:25.05,0:00:26.55,SU Team Member,,0,0,0,,{\pos(1725,560)}BBBB
+Dialogue: 1,0:00:25.05,0:00:26.55,SU Team Member,,0,0,0,,{\pos(1725,560)}presisco
 Dialogue: 1,0:00:25.05,0:00:26.55,SU Team Title,,0,0,0,,{\pos(1725,620)}特效
-Dialogue: 1,0:00:25.05,0:00:26.55,SU Team Member,,0,0,0,,{\pos(1725,680)}CCCC
+Dialogue: 1,0:00:25.05,0:00:26.55,SU Team Member,,0,0,0,,{\pos(1725,680)}presisco
 Dialogue: 1,0:00:25.05,0:00:26.55,SU Team Title,,0,0,0,,{\pos(1725,740)}压制
-Dialogue: 1,0:00:25.05,0:00:26.55,SU Team Member,,0,0,0,,{\pos(1725,800)}DDDD
+Dialogue: 1,0:00:25.05,0:00:26.55,SU Team Member,,0,0,0,,{\pos(1725,800)}presisco
 Dialogue: 0,0:00:25.05,0:00:26.55,SU Team Background,,0,0,0,,{\bord0\xshad-0\yshad16\pos(1725,860)}{\p1}m -1 122 b -1 -19 -19 -1 122 -1 l 251 -1 b 390 -1 377 -19 377 122 l 377 500 b 377 642 390 628 251 628 l 122 628 b -19 628 -1 642 -1 500 l -1 122 {\p0}
-Dialogue: 150,0:00:29.02,0:00:30.99,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}明日高照 衬衫清净\N{\rENG_LYC}♪ The sun is bright, our shirts are clean ♪
+Dialogue: 150,0:00:29.02,0:00:30.99,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}明日高照 衣衫洁净\N{\rENG_LYC}♪ The sun is bright, our shirts are clean ♪
 Dialogue: 150,0:00:30.99,0:00:33.00,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们坐在大洋之上\N{\rENG_LYC}♪ we're sitting up above the sea ♪
 Dialogue: 150,0:00:33.00,0:00:35.94,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}快来分享果酱小曲\N{\rENG_LYC}♪ come on and share this jam with me ♪
 Dialogue: 150,0:00:37.10,0:00:39.00,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}桃或李或是草莓\N{\rENG_LYC}♪ peach or plum or strawberry ♪
@@ -80,68 +80,68 @@ Dialogue: 150,0:00:54.88,0:00:59.08,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我伴�
 Dialogue: 150,0:01:00.72,0:01:02.88,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}相互搭配 各种原料\N{\rENG_LYC}♪ ingredients in harmony
 Dialogue: 150,0:01:02.88,0:01:05.06,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们一起完美混合\N{\rENG_LYC}♪ we mix together perfectly
 Dialogue: 150,0:01:05.06,0:01:08.04,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}快来分享果酱小曲\N{\rENG_LYC}♪ come on and share this jam with me ♪
-Dialogue: 100,0:01:10.22,0:01:11.32,Normal Dialog Text,,0,0,0,,{\rCHS}果酱伙伴! \N{\rENG}Jam buds! 
-Dialogue: 100,0:01:11.62,0:01:13.02,Normal Dialog Text,,0,0,0,,{\rCHS}表演的不错\N{\rENG}Nice jam session. 
-Dialogue: 100,0:01:13.40,0:01:14.98,Normal Dialog Text,,0,0,0,,{\rCHS}别忘的最好的部分\N{\rENG}Don't forget the best part. 
-Dialogue: 100,0:01:24.10,0:01:25.86,Normal Dialog Text,,0,0,0,,{\rCHS}逃向你们的主人吧! \N{\rENG}Run back to your masters! 
-Dialogue: 100,0:01:25.91,0:01:28.88,Normal Dialog Text,,0,0,0,,{\rCHS}告诉他们我们可不怕你们这种人! \N{\rENG}Tell them we're not afraid of your kind! 
-Dialogue: 100,0:01:30.14,0:01:31.82,Normal Dialog Text,,0,0,0,,{\rCHS}谢谢你拯救了我的果酱小食\N{\rENG}Thanks for saving my jam snack. 
-Dialogue: 100,0:01:31.82,0:01:34.02,Normal Dialog Text,,0,0,0,,{\rCHS}不幸的是 它还是会因我遭殃\N{\rENG}Unfortunately, it's not safe from me. 
-Dialogue: 100,0:01:34.88,0:01:36.70,Normal Dialog Text,,0,0,0,,{\rCHS}你真是个优秀的剑士啊 康妮\N{\rENG}You're such a good sword fighter, Connie. 
-Dialogue: 100,0:01:37.03,0:01:39.59,Normal Dialog Text,,0,0,0,,{\rCHS}真的? 我刚才只是在随便挥舞这个而已\N{\rENG}Really? I was just swinging this thing around. 
-Dialogue: 100,0:01:39.59,0:01:41.56,Normal Dialog Text,,0,0,0,,{\rCHS}我并不清楚我在做什么\N{\rENG}I don't really know what I'm doing. 
-Dialogue: 100,0:01:41.56,0:01:45.26,Normal Dialog Text,,0,0,0,,{\rCHS}但我非常想学习如何使用真剑\N{\rENG}But I'd love to learn how to use a real sword. 
-Dialogue: 100,0:01:45.27,0:01:47.70,Normal Dialog Text,,0,0,0,,{\rCHS}哦! 史蒂文有个主意! \N{\rENG}Oh! Steven has an idea! 
-Dialogue: 100,0:01:48.00,0:01:49.38,Normal Dialog Text,,0,0,0,,{\rCHS}你想让我做什么? \N{\rENG}You want me to do what? 
-Dialogue: 100,0:01:49.58,0:01:51.04,Normal Dialog Text,,0,0,0,,{\rCHS}你一定要教康妮剑术\N{\rENG}You should train Connie to sword fight. 
-Dialogue: 100,0:01:51.04,0:01:52.20,Normal Dialog Text,,0,0,0,,{\rCHS}她现在已经非常出色了\N{\rENG}She's already so good. 
-Dialogue: 100,0:01:52.20,0:01:53.06,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文! \N{\rENG}Steven! 
-Dialogue: 100,0:01:53.11,0:01:56.24,Normal Dialog Text,,0,0,0,,{\rCHS}没错 你帮我打败了飞行的机器人\N{\rENG}But you are. Y-you helped me fight the robot floaty thing, 
-Dialogue: 100,0:01:56.24,0:01:58.58,Normal Dialog Text,,0,0,0,,{\rCHS}她打败了自己的邪恶克隆体\N{\rENG}she took down that evil clone of herself, 
-Dialogue: 100,0:01:58.58,0:02:01.75,Normal Dialog Text,,0,0,0,,{\rCHS}呃...刚才的那些坏海鸥\N{\rENG}uh...Those mean seagulls just now. 
-Dialogue: 100,0:02:01.75,0:02:04.48,Normal Dialog Text,,0,0,0,,{\rCHS}你现在接触这种东西还是太小了\N{\rENG}You're awfully young to begin something like this. 
+Dialogue: 100,0:01:10.22,0:01:11.32,Normal Dialog Text,,0,0,0,,{\rCHS}果酱伙伴! \N{\rENG}Jam buds!
+Dialogue: 100,0:01:11.62,0:01:13.02,Normal Dialog Text,,0,0,0,,{\rCHS}表演的不错\N{\rENG}Nice jam session.
+Dialogue: 100,0:01:13.40,0:01:14.98,Normal Dialog Text,,0,0,0,,{\rCHS}别忘的最好的部分\N{\rENG}Don't forget the best part.
+Dialogue: 100,0:01:24.10,0:01:25.86,Normal Dialog Text,,0,0,0,,{\rCHS}逃向你们的主人吧! \N{\rENG}Run back to your masters!
+Dialogue: 100,0:01:25.86,0:01:28.88,Normal Dialog Text,,0,0,0,,{\rCHS}告诉他们 我们无所畏惧! \N{\rENG}Tell them we're not afraid of your kind!
+Dialogue: 100,0:01:30.14,0:01:31.82,Normal Dialog Text,,0,0,0,,{\rCHS}谢谢你拯救了我的果酱小食\N{\rENG}Thanks for saving my jam snack.
+Dialogue: 100,0:01:31.82,0:01:34.02,Normal Dialog Text,,0,0,0,,{\rCHS}不幸的是 它还是会因我遭殃\N{\rENG}Unfortunately, it's not safe from me.
+Dialogue: 100,0:01:34.88,0:01:36.70,Normal Dialog Text,,0,0,0,,{\rCHS}你真是个优秀的剑士啊 康妮\N{\rENG}You're such a good sword fighter, Connie.
+Dialogue: 100,0:01:37.03,0:01:39.59,Normal Dialog Text,,0,0,0,,{\rCHS}真的? 我刚才只是在随便挥舞这个而已\N{\rENG}Really? I was just swinging this thing around.
+Dialogue: 100,0:01:40.02,0:01:41.56,Normal Dialog Text,,0,0,0,,{\rCHS}我并不清楚自己在做什么\N{\rENG}I don't really know what I'm doing.
+Dialogue: 100,0:01:41.86,0:01:45.26,Normal Dialog Text,,0,0,0,,{\rCHS}但我非常想学习如何使用真剑\N{\rENG}But I'd love to learn how to use a real sword.
+Dialogue: 100,0:01:45.70,0:01:47.70,Normal Dialog Text,,0,0,0,,{\rCHS}哦! 史蒂文有个主意! \N{\rENG}Oh! Steven has an idea!
+Dialogue: 100,0:01:48.00,0:01:49.42,Normal Dialog Text,,0,0,0,,{\rCHS}你想让我做什么? \N{\rENG}You want me to do what?
+Dialogue: 100,0:01:49.66,0:01:51.04,Normal Dialog Text,,0,0,0,,{\rCHS}你一定要教康妮剑术\N{\rENG}You should train Connie to sword fight.
+Dialogue: 100,0:01:51.04,0:01:52.20,Normal Dialog Text,,0,0,0,,{\rCHS}她现在已经非常出色了\N{\rENG}She's already so good.
+Dialogue: 100,0:01:52.20,0:01:53.06,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文! \N{\rENG}Steven!
+Dialogue: 100,0:01:53.11,0:01:56.24,Normal Dialog Text,,0,0,0,,{\rCHS}没错 你帮我打败了飞行机器人\N{\rENG}But you are. Y-you helped me fight the robot floaty thing,
+Dialogue: 100,0:01:56.24,0:01:58.58,Normal Dialog Text,,0,0,0,,{\rCHS}她打败了自己的邪恶克隆体\N{\rENG}she took down that evil clone of herself,
+Dialogue: 100,0:01:58.58,0:02:01.75,Normal Dialog Text,,0,0,0,,{\rCHS}呃...还有刚才的那些坏海鸥\N{\rENG}uh...Those mean seagulls just now.
+Dialogue: 100,0:02:01.75,0:02:04.48,Normal Dialog Text,,0,0,0,,{\rCHS}你现在接触这种东西还是太小了\N{\rENG}You're awfully young to begin something like this.
 Dialogue: 100,0:02:04.49,0:02:07.72,Normal Dialog Text,,0,0,0,,{\rCHS}但我想我开始与玫瑰·石英一起战斗时\N{\rENG}But I suppose I was only a few thousand years old
-Dialogue: 100,0:02:07.72,0:02:10.89,Normal Dialog Text,,0,0,0,,{\rCHS}也才几千岁而已\N{\rENG}when I begin fighting alongside Rose Quartz. 
-Dialogue: 100,0:02:10.89,0:02:12.23,Normal Dialog Text,,0,0,0,,{\rCHS}怎么 康妮? \N{\rENG}Yes, Connie? 
-Dialogue: 100,0:02:12.23,0:02:14.29,Normal Dialog Text,,0,0,0,,{\rCHS}求求你 我想学\N{\rENG}Please, I want to learn. 
-Dialogue: 100,0:02:14.30,0:02:16.93,Normal Dialog Text,,0,0,0,,{\rCHS}我是指 我不知道以后会发生什么\N{\rENG}I mean, I don't know what will happen in the future. 
-Dialogue: 100,0:02:16.93,0:02:19.47,Normal Dialog Text,,0,0,0,,{\rCHS}但如果出现了危险的情况\N{\rENG}But if something dangerous comes along, 
-Dialogue: 100,0:02:19.47,0:02:21.80,Normal Dialog Text,,0,0,0,,{\rCHS}我不想成为负担 我想要帮忙! \N{\rENG}I don't want to be a burden. I want to help! 
-Dialogue: 100,0:02:21.80,0:02:25.61,Normal Dialog Text,,0,0,0,,{\rCHS}我想帮助史蒂文 与他肩并肩战斗! \N{\rENG}I want to be there for Steven, to fight by his side! 
-Dialogue: 100,0:02:25.61,0:02:29.98,Normal Dialog Text,,0,0,0,,{\rCHS}地球也是我的家 我就不能帮忙保护吗? \N{\rENG}The earth is my home, too. Can't I help protect it? 
-Dialogue: 100,0:02:29.98,0:02:32.15,Normal Dialog Text,,0,0,0,,{\rCHS}好吧\N{\rENG}O-okay. 
-Dialogue: 100,0:02:32.15,0:02:35.45,Normal Dialog Text,,0,0,0,,{\rCHS}如果你是这么认为的 那我们该开始了\N{\rENG}If that's how you feel, we should get started. 
-Dialogue: 100,0:02:37.29,0:02:38.58,Normal Dialog Text,,0,0,0,,{\rCHS}等等 现在? \N{\rENG}Wait, now? 
-Dialogue: 100,0:02:42.49,0:02:43.82,Normal Dialog Text,,0,0,0,,{\rCHS}你还好吗? \N{\rENG}You okay? 
-Dialogue: 100,0:02:43.83,0:02:45.93,Normal Dialog Text,,0,0,0,,{\rCHS}这可能要花些功夫适应\N{\rENG}It can take some getting used to. 
-Dialogue: 100,0:02:47.83,0:02:50.60,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 你们两个 这里\N{\rENG}Hey, you two. This way. 
-Dialogue: 100,0:02:50.60,0:02:52.33,Normal Dialog Text,,0,0,0,,{\rCHS}比比看\N{\rENG}Race you. 
-Dialogue: 100,0:02:55.60,0:02:58.00,Normal Dialog Text,,0,0,0,,{\rCHS}这是个远古天空决斗场 康妮\N{\rENG}This is an ancient sky arena, Connie, 
-Dialogue: 100,0:02:58.01,0:03:01.01,Normal Dialog Text,,0,0,0,,{\rCHS}在这里发生了地球独立战争的最早冲突\N{\rENG}where some of the first battles for earth took place. 
+Dialogue: 100,0:02:07.72,0:02:10.89,Normal Dialog Text,,0,0,0,,{\rCHS}也才几千岁而已\N{\rENG}when I begin fighting alongside Rose Quartz.
+Dialogue: 100,0:02:10.89,0:02:12.23,Normal Dialog Text,,0,0,0,,{\rCHS}怎么 康妮? \N{\rENG}Yes, Connie?
+Dialogue: 100,0:02:12.23,0:02:14.29,Normal Dialog Text,,0,0,0,,{\rCHS}求求你 我想学\N{\rENG}Please, I want to learn.
+Dialogue: 100,0:02:14.30,0:02:16.93,Normal Dialog Text,,0,0,0,,{\rCHS}我是指 我不知道以后会发生什么\N{\rENG}I mean, I don't know what will happen in the future.
+Dialogue: 100,0:02:16.93,0:02:19.47,Normal Dialog Text,,0,0,0,,{\rCHS}但如果出现了危险的情况\N{\rENG}But if something dangerous comes along,
+Dialogue: 100,0:02:19.47,0:02:21.80,Normal Dialog Text,,0,0,0,,{\rCHS}我不想成为负担 我想要帮忙! \N{\rENG}I don't want to be a burden. I want to help!
+Dialogue: 100,0:02:21.80,0:02:25.61,Normal Dialog Text,,0,0,0,,{\rCHS}我想帮助史蒂文 与他肩并肩战斗! \N{\rENG}I want to be there for Steven, to fight by his side!
+Dialogue: 100,0:02:25.61,0:02:29.98,Normal Dialog Text,,0,0,0,,{\rCHS}地球也是我的家 我就不能帮忙保护吗? \N{\rENG}The earth is my home, too. Can't I help protect it?
+Dialogue: 100,0:02:29.98,0:02:32.15,Normal Dialog Text,,0,0,0,,{\rCHS}好吧\N{\rENG}O-okay.
+Dialogue: 100,0:02:32.15,0:02:35.45,Normal Dialog Text,,0,0,0,,{\rCHS}如果你是这么认为的 那我们该开始了\N{\rENG}If that's how you feel, we should get started.
+Dialogue: 100,0:02:37.29,0:02:38.58,Normal Dialog Text,,0,0,0,,{\rCHS}等等 现在? \N{\rENG}Wait, now?
+Dialogue: 100,0:02:42.49,0:02:43.82,Normal Dialog Text,,0,0,0,,{\rCHS}你还好吗? \N{\rENG}You okay?
+Dialogue: 100,0:02:43.83,0:02:45.93,Normal Dialog Text,,0,0,0,,{\rCHS}这可能要花些功夫适应\N{\rENG}It can take some getting used to.
+Dialogue: 100,0:02:47.83,0:02:50.60,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 你们两个 这里\N{\rENG}Hey, you two. This way.
+Dialogue: 100,0:02:50.60,0:02:52.33,Normal Dialog Text,,0,0,0,,{\rCHS}比比看\N{\rENG}Race you.
+Dialogue: 100,0:02:55.60,0:02:58.00,Normal Dialog Text,,0,0,0,,{\rCHS}这是个远古天空角斗场 康妮\N{\rENG}This is an ancient sky arena, Connie,
+Dialogue: 100,0:02:58.01,0:03:01.01,Normal Dialog Text,,0,0,0,,{\rCHS}地球独立战争早期的部分战役也是在这里发生的\N{\rENG}where some of the first battles for earth took place.
 Dialogue: 100,0:03:01.01,0:03:03.54,Normal Dialog Text,,0,0,0,,{\rCHS}我就是在这里了解了\N{\rENG}It was here that I became familiar with
-Dialogue: 100,0:03:03.55,0:03:05.85,Normal Dialog Text,,0,0,0,,{\rCHS}人类对于骑士的概念\N{\rENG}the human concept of being a knight, 
-Dialogue: 100,0:03:05.86,0:03:08.90,Normal Dialog Text,,0,0,0,,{\rCHS}完全献身于某个人或理念\N{\rENG}completely dedicated to a person and a cause. 
+Dialogue: 100,0:03:03.55,0:03:05.85,Normal Dialog Text,,0,0,0,,{\rCHS}人类对于骑士的概念\N{\rENG}the human concept of being a knight,
+Dialogue: 100,0:03:05.86,0:03:08.90,Normal Dialog Text,,0,0,0,,{\rCHS}完全献身于某个人或理念\N{\rENG}completely dedicated to a person and a cause.
 Dialogue: 100,0:03:09.36,0:03:11.56,Normal Dialog Text,,0,0,0,,{\rCHS}你必须要成为这样的人 康妮--\N{\rENG}This is what you must become, Connie--
-Dialogue: 100,0:03:11.82,0:03:15.40,Normal Dialog Text,,0,0,0,,{\rCHS}勇敢 无私 忠诚--骑士\N{\rENG}brave, selfless, loyal--a knight. 
-Dialogue: 100,0:03:16.06,0:03:19.08,Normal Dialog Text,,0,0,0,,{\rCHS}我们先从躬身开始 首先对我 你的老师\N{\rENG}We begin with a bow. First to me, your teacher. 
-Dialogue: 100,0:03:20.38,0:03:22.04,Normal Dialog Text,,0,0,0,,{\rCHS}然后是你的君主\N{\rENG}And now again to your liege. 
-Dialogue: 100,0:03:22.80,0:03:25.20,Normal Dialog Text,,0,0,0,,{\rCHS}好的 我的君主\N{\rENG}Okay. My liege. 
-Dialogue: 100,0:03:25.20,0:03:26.12,Normal Dialog Text,,0,0,0,,{\rCHS}骑士小姐\N{\rENG}Miss knight. 
-Dialogue: 100,0:03:28.48,0:03:31.06,Normal Dialog Text,,0,0,0,,{\rCHS}我希望你们两个能严肃点\N{\rENG}I hope you two are taking this seriously. 
-Dialogue: 100,0:03:31.06,0:03:31.96,Normal Dialog Text,,0,0,0,,{\rCHS}好的 夫人\N{\rENG}Yes, ma'am. 
-Dialogue: 100,0:03:35.70,0:03:38.06,Normal Dialog Text,,0,0,0,,{\rCHS}酷 全息珍珠\N{\rENG}Cool. Hologram Pearl. 
-Dialogue: 100,0:03:38.42,0:03:40.72,Normal Dialog Text,,0,0,0,,{\rCHS}开始时 这个全息珍珠是你的对手\N{\rENG}To begin, this holo-Pearl will be your opponent. 
-Dialogue: 100,0:03:40.72,0:03:43.82,Normal Dialog Text,,0,0,0,,{\rCHS}第0级 初学者设置\N{\rENG}Level 0, beginner set. 
-Dialogue: 100,0:03:43.82,0:03:46.35,Normal Dialog Text,,0,0,0,,{\rCHS}你是否愿意进入战斗? \N{\rENG}Do you wish to engage in combat? 
-Dialogue: 100,0:03:46.35,0:03:47.32,Normal Dialog Text,,0,0,0,,{\rCHS}当然! \N{\rENG}Yes! 
-Dialogue: 100,0:03:48.19,0:03:48.90,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文? \N{\rENG}Steven? 
-Dialogue: 100,0:03:50.44,0:03:51.99,Normal Dialog Text,,0,0,0,,{\rCHS}哦! 呃 我很抱歉\N{\rENG}Oh! Um, I'm sorry. 
-Dialogue: 100,0:03:51.99,0:03:53.52,Normal Dialog Text,,0,0,0,,{\rCHS}抱歉 抱歉 抱歉 抱歉\N{\rENG}Sorry, sorry, sorry, sorry. 
-Dialogue: 100,0:03:54.42,0:03:55.22,Normal Dialog Text,,0,0,0,,{\rCHS}条件反射\N{\rENG}Reflex. 
-Dialogue: 100,0:03:55.38,0:03:58.84,Normal Dialog Text,,0,0,0,,{\rCHS}呃 你小心点 我会去那里\N{\rENG}Uh, you just be careful, and I will go over here. 
-Dialogue: 100,0:03:59.50,0:04:02.18,Normal Dialog Text,,0,0,0,,{\rCHS}好吧 一切先从你的站姿开始\N{\rENG}All right. Everything begins with your stance. 
+Dialogue: 100,0:03:11.82,0:03:15.40,Normal Dialog Text,,0,0,0,,{\rCHS}勇敢 无私 忠诚--骑士\N{\rENG}brave, selfless, loyal--a knight.
+Dialogue: 100,0:03:16.06,0:03:19.08,Normal Dialog Text,,0,0,0,,{\rCHS}我们先从躬身开始 首先对我 你的老师\N{\rENG}We begin with a bow. First to me, your teacher.
+Dialogue: 100,0:03:20.38,0:03:22.04,Normal Dialog Text,,0,0,0,,{\rCHS}然后是你的君主\N{\rENG}And now again to your liege.
+Dialogue: 100,0:03:22.80,0:03:25.20,Normal Dialog Text,,0,0,0,,{\rCHS}好的 我的君主\N{\rENG}Okay. My liege.
+Dialogue: 100,0:03:25.20,0:03:26.12,Normal Dialog Text,,0,0,0,,{\rCHS}骑士小姐\N{\rENG}Miss knight.
+Dialogue: 100,0:03:28.48,0:03:31.06,Normal Dialog Text,,0,0,0,,{\rCHS}我希望你们两个能严肃点\N{\rENG}I hope you two are taking this seriously.
+Dialogue: 100,0:03:31.06,0:03:31.96,Normal Dialog Text,,0,0,0,,{\rCHS}好的 夫人\N{\rENG}Yes, ma'am.
+Dialogue: 100,0:03:35.70,0:03:38.06,Normal Dialog Text,,0,0,0,,{\rCHS}酷 全息珍珠\N{\rENG}Cool. Hologram Pearl.
+Dialogue: 100,0:03:38.42,0:03:40.72,Normal Dialog Text,,0,0,0,,{\rCHS}首先 这个全息珍珠是你的对手\N{\rENG}To begin, this holo-Pearl will be your opponent.
+Dialogue: 100,0:03:40.72,0:03:43.82,Normal Dialog Text,,0,0,0,,{\rCHS}第0级 初学者设置\N{\rENG}Level 0, beginner set.
+Dialogue: 100,0:03:43.82,0:03:46.35,Normal Dialog Text,,0,0,0,,{\rCHS}你是否愿意进入战斗? \N{\rENG}Do you wish to engage in combat?
+Dialogue: 100,0:03:46.35,0:03:47.32,Normal Dialog Text,,0,0,0,,{\rCHS}当然! \N{\rENG}Yes!
+Dialogue: 100,0:03:48.19,0:03:48.90,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文? \N{\rENG}Steven?
+Dialogue: 100,0:03:50.44,0:03:51.99,Normal Dialog Text,,0,0,0,,{\rCHS}哦! 呃 我很抱歉\N{\rENG}Oh! Um, I'm sorry.
+Dialogue: 100,0:03:51.99,0:03:53.52,Normal Dialog Text,,0,0,0,,{\rCHS}抱歉 抱歉 抱歉 抱歉\N{\rENG}Sorry, sorry, sorry, sorry.
+Dialogue: 100,0:03:54.42,0:03:55.22,Normal Dialog Text,,0,0,0,,{\rCHS}条件反射\N{\rENG}Reflex.
+Dialogue: 100,0:03:55.22,0:03:58.84,Normal Dialog Text,,0,0,0,,{\rCHS}呃 你小心点 我会去那里待着\N{\rENG}Uh, you just be careful, and I will go over here.
+Dialogue: 100,0:03:59.50,0:04:02.18,Normal Dialog Text,,0,0,0,,{\rCHS}好吧 一切先从你的站姿开始\N{\rENG}All right. Everything begins with your stance.
 Dialogue: 100,0:04:02.60,0:04:05.24,Normal Dialog Text,,0,0,0,,{\rCHS}要记住...你为他而战\N{\rENG}Remember...♪ you do it for him
-Dialogue: 150,0:04:05.62,0:04:07.30,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}而你愿再次出身\N{\rENG_LYC}♪ and you would do it again ♪
+Dialogue: 150,0:04:05.62,0:04:07.30,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}而你愿再次出征\N{\rENG_LYC}♪ and you would do it again ♪
 Dialogue: 150,0:04:08.52,0:04:09.82,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}你为她而战\N{\rENG_LYC}♪ you do it for her
 Dialogue: 150,0:04:09.82,0:04:12.24,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}也就是说 你为他而战\N{\rENG_LYC}♪ that is to say you'll do it for him ♪
 Dialogue: 150,0:04:14.78,0:04:17.45,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}双腿 迈开\N{\rENG_LYC}♪ keep your stance wide
@@ -152,15 +152,15 @@ Dialogue: 150,0:04:24.68,0:04:27.26,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}右脚 �
 Dialogue: 150,0:04:27.26,0:04:29.68,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}现在加快速度\N{\rENG_LYC}♪ now go even faster
 Dialogue: 150,0:04:29.68,0:04:31.86,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}而当你向后移动\N{\rENG_LYC}♪ and as you're moving backwards ♪
 Dialogue: 150,0:04:31.87,0:04:34.57,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}一定看向我\N{\rENG_LYC}♪ keep your eyes on me
-Dialogue: 150,0:04:34.58,0:04:37.30,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}双腿 迈开\N{\rENG_LYC}♪ keep my stance wide. 
-Dialogue: 100,0:04:36.82,0:04:37.30,Background Dialogue,,0,0,0,,{\rCHS}好\N{\rENG}good. 
-Dialogue: 150,0:04:37.30,0:04:39.26,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}保持低的重心\N{\rENG_LYC}♪ Keep my body lowered. 
+Dialogue: 150,0:04:34.58,0:04:37.30,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}双腿 迈开\N{\rENG_LYC}♪ keep my stance wide.
+Dialogue: 100,0:04:36.82,0:04:37.30,Background Dialogue,,0,0,0,,{\rCHS}好\N{\rENG}good.
+Dialogue: 150,0:04:37.30,0:04:39.26,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}保持低的重心\N{\rENG_LYC}♪ Keep my body lowered.
 Dialogue: 100,0:04:39.26,0:04:39.88,Background Dialogue,,0,0,0,,{\rCHS}对\N{\rENG}right
 Dialogue: 150,0:04:39.88,0:04:41.78,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}当我移动向前\N{\rENG_LYC}♪ As I'm moving forward
-Dialogue: 100,0:04:41.78,0:04:42.80,Background Dialogue,,0,0,0,,{\rCHS}集中注意\N{\rENG}concentrate. 
-Dialogue: 100,0:04:43.34,0:04:44.72,Background Dialogue,,0,0,0,,{\rCHS}你不想让他活命吗? \N{\rENG}Don't you want him to live? 
+Dialogue: 100,0:04:41.78,0:04:42.80,Background Dialogue,,0,0,0,,{\rCHS}集中注意\N{\rENG}concentrate.
+Dialogue: 100,0:04:43.34,0:04:44.72,Background Dialogue,,0,0,0,,{\rCHS}你不想让他活命吗? \N{\rENG}Don't you want him to live?
 Dialogue: 150,0:04:44.74,0:04:46.84,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}右脚 左脚\N{\rENG_LYC}♪ Right foot, left foot
-Dialogue: 100,0:04:46.84,0:04:49.15,Background Dialogue,,0,0,0,,{\rCHS}对 但全身协调一致\N{\rENG}yes, but put your whole body into it. 
+Dialogue: 100,0:04:46.84,0:04:49.15,Background Dialogue,,0,0,0,,{\rCHS}对 但全身协调一致\N{\rENG}yes, but put your whole body into it.
 Dialogue: 150,0:04:49.15,0:04:52.12,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}拥有的一切 拥有的自我\N{\rENG_LYC}♪ Everything you have, everything you are ♪
 Dialogue: 150,0:04:52.12,0:04:55.49,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}你要付出 在那战场上\N{\rENG_LYC}♪ you've got to give on the battlefield ♪
 Dialogue: 150,0:04:55.49,0:04:57.76,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}当一切变得混乱\N{\rENG_LYC}♪ when everything is chaos ♪
@@ -179,118 +179,118 @@ Dialogue: 150,0:05:29.68,0:05:32.18,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}别人 �
 Dialogue: 150,0:05:32.50,0:05:34.68,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}你真正的优势\N{\rENG_LYC}♪ is your real advantage
 Dialogue: 150,0:05:34.98,0:05:39.80,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}当你为某人活你无惧赴死\N{\rENG_LYC}♪ when you live for someone you're prepared to die ♪
 Dialogue: 150,0:05:39.80,0:05:44.60,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}其实 我懂 我只是个人类\N{\rENG_LYC}♪ deep down, I know that I'm just a human ♪
-Dialogue: 100,0:05:44.20,0:05:44.77,Background Dialogue,,0,0,0,,{\rCHS}没错\N{\rENG}True. 
-Dialogue: 150,0:05:44.77,0:05:46.71,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}但我知道我能\N{\rENG_LYC}♪ But I know that I can 
+Dialogue: 100,0:05:44.20,0:05:44.77,Background Dialogue,,0,0,0,,{\rCHS}没错\N{\rENG}True.
+Dialogue: 150,0:05:44.77,0:05:46.71,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}但我知道我能\N{\rENG_LYC}♪ But I know that I can
 Dialogue: 150,0:05:44.77,0:05:46.71,Background Dialogue,,0,0,0,,{\rCHS_LYC}但你知道你能\N{\rENG_LYC}♪ but you know that you can
 Dialogue: 150,0:05:46.71,0:05:49.68,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}拔剑去战斗\N{\rENG_LYC}♪ draw my sword and fight
 Dialogue: 150,0:05:46.71,0:05:49.68,Background Dialogue,,0,0,0,,{\rCHS_LYC}拔剑去战斗\N{\rENG_LYC}♪ draw your sword and fight
-Dialogue: 150,0:05:49.68,0:05:52.14,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我的生命虽短\N{\rENG_LYC}♪ with my short existence. 
+Dialogue: 150,0:05:49.68,0:05:52.14,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我的生命虽短\N{\rENG_LYC}♪ with my short existence.
 Dialogue: 100,0:05:51.72,0:05:52.34,Background Dialogue,,0,0,0,,{\rCHS}对\N{\rENG}good
-Dialogue: 150,0:05:52.34,0:05:54.32,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}但可以很非凡\N{\rENG_LYC}♪ I can make a difference. 
-Dialogue: 100,0:05:53.94,0:05:55.00,Background Dialogue,,0,0,0,,{\rCHS}没错 非常棒! \N{\rENG}Yes, excellent! 
+Dialogue: 150,0:05:52.34,0:05:54.32,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}但可以很非凡\N{\rENG_LYC}♪ I can make a difference.
+Dialogue: 100,0:05:53.94,0:05:55.00,Background Dialogue,,0,0,0,,{\rCHS}没错 非常棒! \N{\rENG}Yes, excellent!
 Dialogue: 150,0:05:54.88,0:05:56.78,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我能在他左右\N{\rENG_LYC}♪ I can be there for him
 Dialogue: 150,0:05:56.78,0:05:59.44,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我能做骑士\N{\rENG_LYC}♪ I can be his knight
 Dialogue: 150,0:06:00.88,0:06:02.32,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我能为他而战\N{\rENG_LYC}♪ I can do it for him
 Dialogue: 150,0:06:03.46,0:06:05.10,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}你为她而战\N{\rENG_LYC}♪ you do it for her
 Dialogue: 150,0:06:05.66,0:06:07.02,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}现在你再做一次\N{\rENG_LYC}♪ okay, now, do that again
-Dialogue: 100,0:06:07.02,0:06:07.66,Background Dialogue,,0,0,0,,{\rCHS}好的 夫人\N{\rENG}yes, ma'am. 
+Dialogue: 100,0:06:07.02,0:06:07.66,Background Dialogue,,0,0,0,,{\rCHS}好的 夫人\N{\rENG}yes, ma'am.
 Dialogue: 150,0:06:08.52,0:06:11.16,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}你为她而战 而你会说\N{\rENG_LYC}♪ You do it for her, and now you say ♪
 Dialogue: 150,0:06:11.16,0:06:12.60,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我为他而战\N{\rENG_LYC}♪ I'll do it for him
-Dialogue: 100,0:06:19.04,0:06:19.65,Normal Dialog Text,,0,0,0,,{\rCHS}康妮! \N{\rENG}Connie! 
+Dialogue: 100,0:06:19.04,0:06:19.65,Normal Dialog Text,,0,0,0,,{\rCHS}康妮! \N{\rENG}Connie!
 Dialogue: 500,0:06:18.69,0:06:20.85,Label Trans,,0,0,0,,{\fn黑体\fs32\c&H343554&\bord0\shad0\frz4.83\pos(1130,750)}如何与他人交谈
-Dialogue: 600,0:06:19.04,0:06:21.04,Hint,,0,0,0,,史蒂文手中的书源自卡耐基的名书 "人性的弱点"( How to Win Friends and Influence People) 
-Dialogue: 100,0:06:19.65,0:06:20.46,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 史蒂文\N{\rENG}Hey, Steven. 
-Dialogue: 100,0:06:21.71,0:06:22.40,Normal Dialog Text,,0,0,0,,{\rCHS}康妮 等等\N{\rENG}Connie, wait. 
-Dialogue: 100,0:06:23.36,0:06:24.44,Normal Dialog Text,,0,0,0,,{\rCHS}啊 真准时\N{\rENG}Ah, right on time. 
-Dialogue: 100,0:06:24.74,0:06:25.82,Normal Dialog Text,,0,0,0,,{\rCHS}我们能先谈一下吗? \N{\rENG}Can we talk for a moment? 
-Dialogue: 100,0:06:26.22,0:06:27.58,Normal Dialog Text,,0,0,0,,{\rCHS}当然 怎么了? \N{\rENG}Sure. What's up? 
-Dialogue: 100,0:06:27.58,0:06:29.80,Normal Dialog Text,,0,0,0,,{\rCHS}我们还有重要的训练要完成 康妮\N{\rENG}We have important training to do, Connie. 
-Dialogue: 100,0:06:29.80,0:06:30.64,Normal Dialog Text,,0,0,0,,{\rCHS}好的 女士\N{\rENG}Yes, ma'am. 
-Dialogue: 100,0:06:30.64,0:06:32.92,Normal Dialog Text,,0,0,0,,{\rCHS}她最近进步非常大 史蒂文\N{\rENG}She's been making great strides, Steven. 
-Dialogue: 100,0:06:32.92,0:06:34.50,Normal Dialog Text,,0,0,0,,{\rCHS}她会变得对你非常有价值\N{\rENG}She's going to be an asset to you. 
-Dialogue: 100,0:06:39.68,0:06:40.50,Normal Dialog Text,,0,0,0,,{\rCHS}喔 石榴\N{\rENG}Wow, Garnet. 
-Dialogue: 100,0:06:40.96,0:06:42.72,Normal Dialog Text,,0,0,0,,{\rCHS}那真是我听过的最有趣的事\N{\rENG}That was the funniest thing I've ever heard. 
-Dialogue: 100,0:06:42.93,0:06:44.86,Normal Dialog Text,,0,0,0,,{\rCHS}石榴 喜剧之王\N{\rENG}Garnet, master of comedy. 
-Dialogue: 100,0:06:45.72,0:06:46.68,Normal Dialog Text,,0,0,0,,{\rCHS}呦 史蒂文\N{\rENG}Yo, Steven. 
-Dialogue: 100,0:06:46.90,0:06:49.56,Normal Dialog Text,,0,0,0,,{\rCHS}你为什么那么难过的站在那里?!\N{\rENG}Why are you standing there all sad like that?! 
-Dialogue: 100,0:06:49.90,0:06:53.87,Normal Dialog Text,,0,0,0,,{\rCHS}呃 康妮正跟着珍珠学习剑术\N{\rENG}W-well, Connie is taking sword-fighting lessons from Pearl. 
-Dialogue: 100,0:06:53.88,0:06:56.08,Normal Dialog Text,,0,0,0,,{\rCHS}但我觉得现在有点太过了\N{\rENG}But I think it's getting a little too serious. 
-Dialogue: 100,0:06:56.08,0:06:58.91,Normal Dialog Text,,0,0,0,,{\rCHS}她想让康妮替我完成所有危险的事\N{\rENG}She wants Connie to do all this dangerous stuff for me. 
-Dialogue: 100,0:06:58.91,0:07:00.12,Normal Dialog Text,,0,0,0,,{\rCHS}这是正常的\N{\rENG}That makes sense. 
-Dialogue: 100,0:07:00.58,0:07:01.46,Normal Dialog Text,,0,0,0,,{\rCHS}你什么意思? \N{\rENG}What do you mean? 
-Dialogue: 100,0:07:02.12,0:07:04.26,Normal Dialog Text,,0,0,0,,{\rCHS}很久前的大战中 珍珠非常自豪\N{\rENG}Back during the war, Pearl took pride
-Dialogue: 100,0:07:04.42,0:07:06.85,Normal Dialog Text,,0,0,0,,{\rCHS}能为你的母亲拿生命冒险\N{\rENG}in risking her destruction for your mother. 
-Dialogue: 100,0:07:06.85,0:07:09.26,Normal Dialog Text,,0,0,0,,{\rCHS}她将玫瑰看得比什么都重--\N{\rENG}She put Rose Quartz over everything--
-Dialogue: 100,0:07:09.26,0:07:14.19,Normal Dialog Text,,0,0,0,,{\rCHS}高过理智 无视后果 不惧死亡\N{\rENG}over logic, over consequence, over her own life. 
-Dialogue: 100,0:07:16.26,0:07:17.43,Normal Dialog Text,,0,0,0,,{\rCHS}你还好吗 伙计? \N{\rENG}You okay, dude? 
-Dialogue: 100,0:07:17.43,0:07:19.13,Normal Dialog Text,,0,0,0,,{\rCHS}我得做点什么! \N{\rENG}I have to do something! 
-Dialogue: 100,0:07:19.13,0:07:21.03,Normal Dialog Text,,0,0,0,,{\rCHS}谢谢你告诉我这些! 再见! \N{\rENG}Thanks for telling me that! Bye! 
-Dialogue: 100,0:07:21.04,0:07:23.44,Normal Dialog Text,,0,0,0,,{\rCHS}记着 康妮\N{\rENG}Remember, Connie. 
-Dialogue: 100,0:07:23.44,0:07:26.61,Normal Dialog Text,,0,0,0,,{\rCHS}在激烈战斗中 史蒂文才是最重要的\N{\rENG}In the heat of battle, Steven is what matters. 
-Dialogue: 100,0:07:26.61,0:07:27.90,Normal Dialog Text,,0,0,0,,{\rCHS}而你无足轻重\N{\rENG}You don't matter. 
-Dialogue: 100,0:07:28.18,0:07:29.28,Normal Dialog Text,,0,0,0,,{\rCHS}我无足轻重\N{\rENG}I don't matter. 
-Dialogue: 100,0:07:30.88,0:07:34.98,Normal Dialog Text,,0,0,0,,{\rCHS}现在 我们开始吧! \N{\rENG}Now, let us begin! 
-Dialogue: 100,0:07:37.95,0:07:39.55,Normal Dialog Text,,0,0,0,,{\rCHS}康妮? \N{\rENG}Connie? 
-Dialogue: 100,0:07:39.55,0:07:41.39,Normal Dialog Text,,0,0,0,,{\rCHS}康妮 你在哪? \N{\rENG}Connie, where are you? 
-Dialogue: 100,0:07:43.16,0:07:46.46,Normal Dialog Text,,0,0,0,,{\rCHS}康妮! \N{\rENG}Connie! 
-Dialogue: 100,0:07:47.93,0:07:51.26,Normal Dialog Text,,0,0,0,,{\rCHS}你不会刚好看到了康妮 是吧? \N{\rENG}You wouldn't have happened to see Connie, would you? 
-Dialogue: 100,0:07:51.27,0:07:54.00,Normal Dialog Text,,0,0,0,,{\rCHS}探测到未注册战斗人员\N{\rENG}Unregistered combatant detected. 
-Dialogue: 100,0:07:56.18,0:07:57.20,Normal Dialog Text,,0,0,0,,{\rCHS}康妮! \N{\rENG}Connie! 
-Dialogue: 100,0:07:58.27,0:08:01.47,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文? 你在这里干嘛? \N{\rENG}Steven? What are you doing out here? 
-Dialogue: 100,0:08:01.48,0:08:05.18,Normal Dialog Text,,0,0,0,,{\rCHS}康妮 我不想让你在做这些了--不能独自一人\N{\rENG}Connie, I don't want you to do this anymore--not alone. 
-Dialogue: 100,0:08:05.18,0:08:07.98,Normal Dialog Text,,0,0,0,,{\rCHS}不 史蒂文 我现在了解了\N{\rENG}No, Steven. I understand now. 
-Dialogue: 100,0:08:07.98,0:08:12.02,Normal Dialog Text,,0,0,0,,{\rCHS}你的遗产 你的使命--你是一切! \N{\rENG}Your legacy, your destiny--you are everything! 
-Dialogue: 100,0:08:12.02,0:08:14.82,Normal Dialog Text,,0,0,0,,{\rCHS}而我--我什么都不是\N{\rENG}And I--I am nothing. 
-Dialogue: 100,0:08:14.82,0:08:18.69,Normal Dialog Text,,0,0,0,,{\rCHS}但我能为你做这个 我可以为你提供服务\N{\rENG}But I can do this for you. I can give you my service. 
-Dialogue: 100,0:08:18.69,0:08:20.76,Normal Dialog Text,,0,0,0,,{\rCHS}不! 我不像你这样\N{\rENG}No! I don't want you to. 
-Dialogue: 100,0:08:20.76,0:08:24.66,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文 我这是为了你啊! \N{\rENG}Steven, I'm doing this for you! 
-Dialogue: 100,0:08:26.00,0:08:29.03,Normal Dialog Text,,0,0,0,,{\rCHS}我得能够保护你\N{\rENG}I need to be able to protect you. 
-Dialogue: 100,0:08:29.04,0:08:31.27,Normal Dialog Text,,0,0,0,,{\rCHS}但如果由你来保护我\N{\rENG}But if you're the one protecting me, 
-Dialogue: 100,0:08:31.27,0:08:33.41,Normal Dialog Text,,0,0,0,,{\rCHS}那又有谁保护你呢? \N{\rENG}then who's the one protecting you? 
-Dialogue: 100,0:08:36.28,0:08:39.81,Normal Dialog Text,,0,0,0,,{\rCHS}迟早有一天 我们得遭遇非常坏的敌人\N{\rENG}Someday soon, we may be fighting some really bad guys. 
-Dialogue: 100,0:08:39.82,0:08:43.98,Normal Dialog Text,,0,0,0,,{\rCHS}而当那一天来临时 我希望与你战斗 一起\N{\rENG}And when that day comes, I want to fight with you, together. 
-Dialogue: 100,0:08:44.74,0:08:48.42,Normal Dialog Text,,0,0,0,,{\rCHS}所以 求求你 你愿意跟我一起分享果酱吗? \N{\rENG}So, please, won't you share this jam with me? 
-Dialogue: 100,0:08:55.06,0:08:56.60,Normal Dialog Text,,0,0,0,,{\rCHS}这真是简单太多了\N{\rENG}This is much easier. 
-Dialogue: 100,0:08:56.60,0:08:57.76,Normal Dialog Text,,0,0,0,,{\rCHS}就是这样的效果\N{\rENG}That's the idea. 
-Dialogue: 100,0:09:04.54,0:09:07.72,Normal Dialog Text,,0,0,0,,{\rCHS}不论面对什么 我们共同面对! \N{\rENG}No matter what comes, we do this together! 
-Dialogue: 100,0:09:07.72,0:09:08.32,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文! \N{\rENG}Steven! 
-Dialogue: 100,0:09:09.92,0:09:13.36,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文 不要干涉 她需要独自面对我\N{\rENG}Steven, don't interfere. She needs to take me on herself. 
-Dialogue: 100,0:09:13.36,0:09:15.55,Normal Dialog Text,,0,0,0,,{\rCHS}为什么? 我们是团队\N{\rENG}Why? We're a team. 
-Dialogue: 100,0:09:15.55,0:09:17.14,Normal Dialog Text,,0,0,0,,{\rCHS}她是草莓...\N{\rENG}She's the strawberry...
-Dialogue: 100,0:09:17.14,0:09:18.68,Normal Dialog Text,,0,0,0,,{\rCHS}...而他是饼干\N{\rENG}...And he's the biscuit! 
+Dialogue: 600,0:06:19.04,0:06:21.04,Hint,,0,0,0,,史蒂文手中的书源自卡耐基的名书 "人性的弱点"( How to Win Friends and Influence People)
+Dialogue: 100,0:06:19.65,0:06:20.46,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 史蒂文\N{\rENG}Hey, Steven.
+Dialogue: 100,0:06:21.71,0:06:22.40,Normal Dialog Text,,0,0,0,,{\rCHS}康妮 等等\N{\rENG}Connie, wait.
+Dialogue: 100,0:06:23.36,0:06:24.44,Normal Dialog Text,,0,0,0,,{\rCHS}啊 真准时\N{\rENG}Ah, right on time.
+Dialogue: 100,0:06:24.74,0:06:25.82,Normal Dialog Text,,0,0,0,,{\rCHS}我们能先谈一下吗? \N{\rENG}Can we talk for a moment?
+Dialogue: 100,0:06:26.22,0:06:27.58,Normal Dialog Text,,0,0,0,,{\rCHS}当然 怎么了? \N{\rENG}Sure. What's up?
+Dialogue: 100,0:06:27.58,0:06:29.80,Normal Dialog Text,,0,0,0,,{\rCHS}我们还有重要的训练要完成 康妮\N{\rENG}We have important training to do, Connie.
+Dialogue: 100,0:06:29.80,0:06:30.64,Normal Dialog Text,,0,0,0,,{\rCHS}好的 女士\N{\rENG}Yes, ma'am.
+Dialogue: 100,0:06:30.64,0:06:32.92,Normal Dialog Text,,0,0,0,,{\rCHS}她最近进步非常大 史蒂文\N{\rENG}She's been making great strides, Steven.
+Dialogue: 100,0:06:32.92,0:06:34.50,Normal Dialog Text,,0,0,0,,{\rCHS}她会成为你的得力部下\N{\rENG}She's going to be an asset to you.
+Dialogue: 100,0:06:39.68,0:06:40.50,Normal Dialog Text,,0,0,0,,{\rCHS}喔 石榴\N{\rENG}Wow, Garnet.
+Dialogue: 100,0:06:40.96,0:06:42.72,Normal Dialog Text,,0,0,0,,{\rCHS}那真是我听过的最有趣的故事\N{\rENG}That was the funniest thing I've ever heard.
+Dialogue: 100,0:06:42.93,0:06:44.86,Normal Dialog Text,,0,0,0,,{\rCHS}石榴 喜剧之王\N{\rENG}Garnet, master of comedy.
+Dialogue: 100,0:06:45.72,0:06:46.68,Normal Dialog Text,,0,0,0,,{\rCHS}呦 史蒂文\N{\rENG}Yo, Steven.
+Dialogue: 100,0:06:46.90,0:06:49.56,Normal Dialog Text,,0,0,0,,{\rCHS}你怎么一脸苦逼的站在那?!\N{\rENG}Why are you standing there all sad like that?!
+Dialogue: 100,0:06:49.90,0:06:53.87,Normal Dialog Text,,0,0,0,,{\rCHS}呃 康妮正跟着珍珠学习剑术\N{\rENG}W-well, Connie is taking sword-fighting lessons from Pearl.
+Dialogue: 100,0:06:53.88,0:06:56.08,Normal Dialog Text,,0,0,0,,{\rCHS}但我觉得训练有点太过了\N{\rENG}But I think it's getting a little too serious.
+Dialogue: 100,0:06:56.08,0:06:58.91,Normal Dialog Text,,0,0,0,,{\rCHS}她想让康妮替我完成所有危险的事\N{\rENG}She wants Connie to do all this dangerous stuff for me.
+Dialogue: 100,0:06:58.91,0:07:00.12,Normal Dialog Text,,0,0,0,,{\rCHS}这很正常\N{\rENG}That makes sense.
+Dialogue: 100,0:07:00.58,0:07:01.46,Normal Dialog Text,,0,0,0,,{\rCHS}你什么意思? \N{\rENG}What do you mean?
+Dialogue: 100,0:07:02.12,0:07:04.26,Normal Dialog Text,,0,0,0,,{\rCHS}很久前的战争中 珍珠非常自豪\N{\rENG}Back during the war, Pearl took pride
+Dialogue: 100,0:07:04.42,0:07:06.85,Normal Dialog Text,,0,0,0,,{\rCHS}能为你的母亲拿生命冒险\N{\rENG}in risking her destruction for your mother.
+Dialogue: 100,0:07:06.85,0:07:09.26,Normal Dialog Text,,0,0,0,,{\rCHS}她将玫瑰看得比什么都重要--\N{\rENG}She put Rose Quartz over everything--
+Dialogue: 100,0:07:09.26,0:07:12.94,Normal Dialog Text,,0,0,0,,{\rCHS}高过理智 无视后果 不惧死亡\N{\rENG}over logic, over consequence, over her own life.
+Dialogue: 100,0:07:16.04,0:07:16.90,Normal Dialog Text,,0,0,0,,{\rCHS}你还好吗 伙计? \N{\rENG}You okay, dude?
+Dialogue: 100,0:07:16.90,0:07:19.04,Normal Dialog Text,,0,0,0,,{\rCHS}我得做点什么! \N{\rENG}I have to do something!
+Dialogue: 100,0:07:19.04,0:07:21.03,Normal Dialog Text,,0,0,0,,{\rCHS}谢谢你告诉我这些! 再见! \N{\rENG}Thanks for telling me that! Bye!
+Dialogue: 100,0:07:22.32,0:07:23.30,Normal Dialog Text,,0,0,0,,{\rCHS}记着 康妮\N{\rENG}Remember, Connie.
+Dialogue: 100,0:07:23.30,0:07:26.42,Normal Dialog Text,,0,0,0,,{\rCHS}在激烈战斗中 史蒂文才是最重要的\N{\rENG}In the heat of battle, Steven is what matters.
+Dialogue: 100,0:07:26.42,0:07:27.90,Normal Dialog Text,,0,0,0,,{\rCHS}而你无足轻重\N{\rENG}You don't matter.
+Dialogue: 100,0:07:28.18,0:07:29.28,Normal Dialog Text,,0,0,0,,{\rCHS}我无足轻重\N{\rENG}I don't matter.
+Dialogue: 100,0:07:30.72,0:07:33.14,Normal Dialog Text,,0,0,0,,{\rCHS}现在 我们开始吧! \N{\rENG}Now, let us begin!
+Dialogue: 100,0:07:38.16,0:07:38.96,Normal Dialog Text,,0,0,0,,{\rCHS}康妮? \N{\rENG}Connie?
+Dialogue: 100,0:07:39.32,0:07:40.85,Normal Dialog Text,,0,0,0,,{\rCHS}康妮 你在哪? \N{\rENG}Connie, where are you?
+Dialogue: 100,0:07:42.60,0:07:44.22,Normal Dialog Text,,0,0,0,,{\rCHS}康妮! \N{\rENG}Connie!
+Dialogue: 100,0:07:47.58,0:07:50.50,Normal Dialog Text,,0,0,0,,{\rCHS}你不会刚好看到了康妮 是吧? \N{\rENG}You wouldn't have happened to see Connie, would you?
+Dialogue: 100,0:07:50.94,0:07:54.00,Normal Dialog Text,,0,0,0,,{\rCHS}探测到未注册战斗人员\N{\rENG}Unregistered combatant detected.
+Dialogue: 100,0:07:56.18,0:07:57.20,Normal Dialog Text,,0,0,0,,{\rCHS}康妮! \N{\rENG}Connie!
+Dialogue: 100,0:07:58.72,0:08:01.20,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文? 你在这里干嘛? \N{\rENG}Steven? What are you doing out here?
+Dialogue: 100,0:08:01.20,0:08:04.88,Normal Dialog Text,,0,0,0,,{\rCHS}康妮 我不想让你在做这些了--不能独自一人\N{\rENG}Connie, I don't want you to do this anymore--not alone.
+Dialogue: 100,0:08:05.18,0:08:07.80,Normal Dialog Text,,0,0,0,,{\rCHS}不 史蒂文 我现在明白了\N{\rENG}No, Steven. I understand now.
+Dialogue: 100,0:08:07.80,0:08:11.70,Normal Dialog Text,,0,0,0,,{\rCHS}你的遗产 你的使命--你是一切! \N{\rENG}Your legacy, your destiny--you are everything!
+Dialogue: 100,0:08:12.12,0:08:14.28,Normal Dialog Text,,0,0,0,,{\rCHS}而我--我什么都不是\N{\rENG}And I--I am nothing.
+Dialogue: 100,0:08:14.84,0:08:18.18,Normal Dialog Text,,0,0,0,,{\rCHS}但我能为你做这个 我可以为你效劳\N{\rENG}But I can do this for you. I can give you my service.
+Dialogue: 100,0:08:18.18,0:08:20.31,Normal Dialog Text,,0,0,0,,{\rCHS}不! 我不需要！\N{\rENG}No! I don't want you to.
+Dialogue: 100,0:08:20.76,0:08:24.40,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文 我这是为了你啊! \N{\rENG}Steven, I'm doing this for you!
+Dialogue: 100,0:08:25.82,0:08:28.69,Normal Dialog Text,,0,0,0,,{\rCHS}我得能够保护你\N{\rENG}I need to be able to protect you.
+Dialogue: 100,0:08:29.04,0:08:31.20,Normal Dialog Text,,0,0,0,,{\rCHS}但如果由你来保护我\N{\rENG}But if you're the one protecting me,
+Dialogue: 100,0:08:31.20,0:08:33.41,Normal Dialog Text,,0,0,0,,{\rCHS}那又有谁保护你呢? \N{\rENG}then who's the one protecting you?
+Dialogue: 100,0:08:36.52,0:08:39.90,Normal Dialog Text,,0,0,0,,{\rCHS}迟早有一天 我们会遭遇非常强大的敌人\N{\rENG}Someday soon, we may be fighting some really bad guys.
+Dialogue: 100,0:08:39.90,0:08:43.98,Normal Dialog Text,,0,0,0,,{\rCHS}而当那一天来临时 我希望与你战斗 一起\N{\rENG}And when that day comes, I want to fight with you, together.
+Dialogue: 100,0:08:44.74,0:08:48.42,Normal Dialog Text,,0,0,0,,{\rCHS}所以 求求你 你愿意跟我一起分享果酱吗? \N{\rENG}So, please, won't you share this jam with me?
+Dialogue: 100,0:08:55.06,0:08:56.60,Normal Dialog Text,,0,0,0,,{\rCHS}这真是简单太多了\N{\rENG}This is much easier.
+Dialogue: 100,0:08:56.60,0:08:57.76,Normal Dialog Text,,0,0,0,,{\rCHS}这就是重点\N{\rENG}That's the idea.
+Dialogue: 100,0:09:04.54,0:09:07.72,Normal Dialog Text,,0,0,0,,{\rCHS}不论面对什么 我们共同面对! \N{\rENG}No matter what comes, we do this together!
+Dialogue: 100,0:09:07.72,0:09:08.61,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文! \N{\rENG}Steven!
+Dialogue: 100,0:09:09.92,0:09:13.36,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文 不要干涉 她需要独自面对我\N{\rENG}Steven, don't interfere. She needs to take me on herself.
+Dialogue: 100,0:09:13.36,0:09:15.55,Normal Dialog Text,,0,0,0,,{\rCHS}为什么? 我们是团队\N{\rENG}Why? We're a team.
+Dialogue: 100,0:09:15.82,0:09:17.14,Normal Dialog Text,,0,0,0,,{\rCHS}她是草莓...\N{\rENG}She's the strawberry...
+Dialogue: 100,0:09:17.14,0:09:18.68,Normal Dialog Text,,0,0,0,,{\rCHS}...而他是饼干\N{\rENG}...And he's the biscuit!
 Dialogue: 100,0:09:18.69,0:09:20.06,Normal Dialog Text,,0,0,0,,{\rCHS}而我们则是\N{\rENG}And that makes us
 Dialogue: 100,0:09:20.06,0:09:22.86,Background Dialogue,,0,0,0,,{\rCHS}果酱\Njam{\rENG}
 Dialogue: 100,0:09:20.92,0:09:22.88,Normal Dialog Text,,0,0,0,,{\rCHS}伙伴\Nbuds{\rENG}
-Dialogue: 100,0:09:21.90,0:09:22.88,Normal Dialog Text,,0,0,0,,{\rCHS\pos(960,800)}蛤? \N{\rENG}Wha...? 
-Dialogue: 100,0:09:39.51,0:09:41.24,Normal Dialog Text,,0,0,0,,{\rCHS}够了! \N{\rENG}Enough! 
-Dialogue: 100,0:09:43.74,0:09:46.28,Normal Dialog Text,,0,0,0,,{\rCHS}不! \N{\rENG}No! 
-Dialogue: 100,0:09:46.28,0:09:50.28,Normal Dialog Text,,0,0,0,,{\rCHS}在实际战斗中 史蒂文可不会及时拯救你! \N{\rENG}In a real battle, Steven won't be there to save you! 
-Dialogue: 100,0:09:50.28,0:09:51.42,Normal Dialog Text,,0,0,0,,{\rCHS}错 我会的! \N{\rENG}Yes, I will! 
-Dialogue: 100,0:09:51.42,0:09:54.62,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文 你根本不了解\N{\rENG}Steven, you don't know that. 
-Dialogue: 100,0:09:54.62,0:09:56.22,Normal Dialog Text,,0,0,0,,{\rCHS}错 我了解! \N{\rENG}Yes, I do! 
-Dialogue: 100,0:09:56.22,0:09:58.62,Normal Dialog Text,,0,0,0,,{\rCHS}如果康妮要战斗 我们要一起战斗! \N{\rENG}If Connie is going to fight, we're going to fight together! 
-Dialogue: 100,0:09:58.63,0:09:59.56,Normal Dialog Text,,0,0,0,,{\rCHS}没错! \N{\rENG}That's right! 
-Dialogue: 100,0:09:59.82,0:10:01.86,Normal Dialog Text,,0,0,0,,{\rCHS}你不应接近任何战斗! \N{\rENG}You shouldn't be anywhere near the fight! 
-Dialogue: 100,0:10:01.86,0:10:03.34,Normal Dialog Text,,0,0,0,,{\rCHS}你太过重要了! \N{\rENG}You're too important! 
-Dialogue: 100,0:10:03.34,0:10:04.50,Normal Dialog Text,,0,0,0,,{\rCHS}并不是! \N{\rENG}I am not! 
-Dialogue: 100,0:10:04.54,0:10:05.76,Normal Dialog Text,,0,0,0,,{\rCHS}当然 你就是! \N{\rENG}Yes, you are! 
-Dialogue: 100,0:10:05.76,0:10:06.48,Normal Dialog Text,,0,0,0,,{\rCHS}不! \N{\rENG}No! 
-Dialogue: 100,0:10:06.52,0:10:10.26,Normal Dialog Text,,0,0,0,,{\rCHS}你为什么不让我为你做这些呢 玫瑰! ? \N{\rENG}Why won't you just let me do this for you, Rose!? 
-Dialogue: 100,0:10:14.76,0:10:19.38,Normal Dialog Text,,0,0,0,,{\rCHS}我...我是指...让她 做这些\N{\rENG}I...I mean...Let her do this. 
-Dialogue: 100,0:10:19.82,0:10:22.74,Normal Dialog Text,,0,0,0,,{\rCHS}你为什么不让康妮为你做这些? \N{\rENG}Why won't you let Connie do this for you? 
-Dialogue: 100,0:10:25.78,0:10:27.86,Normal Dialog Text,,0,0,0,,{\rCHS}今天就到此为止吧\N{\rENG}That's enough for today. 
+Dialogue: 100,0:09:21.90,0:09:22.88,Normal Dialog Text,,0,0,0,,{\rCHS\pos(960,800)}蛤? \N{\rENG}Wha...?
+Dialogue: 100,0:09:39.51,0:09:41.24,Normal Dialog Text,,0,0,0,,{\rCHS}够了! \N{\rENG}Enough!
+Dialogue: 100,0:09:45.54,0:09:46.44,Normal Dialog Text,,0,0,0,,{\rCHS}不! \N{\rENG}No!
+Dialogue: 100,0:09:46.44,0:09:49.73,Normal Dialog Text,,0,0,0,,{\rCHS}在实际战斗中 史蒂文可不会及时拯救你! \N{\rENG}In a real battle, Steven won't be there to save you!
+Dialogue: 100,0:09:49.96,0:09:51.15,Normal Dialog Text,,0,0,0,,{\rCHS}错 我会的! \N{\rENG}Yes, I will!
+Dialogue: 100,0:09:51.58,0:09:54.38,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文 你根本不了解\N{\rENG}Steven, you don't know that.
+Dialogue: 100,0:09:54.38,0:09:55.64,Normal Dialog Text,,0,0,0,,{\rCHS}错 我了解! \N{\rENG}Yes, I do!
+Dialogue: 100,0:09:55.64,0:09:58.76,Normal Dialog Text,,0,0,0,,{\rCHS}如果康妮要战斗 我们要一起战斗! \N{\rENG}If Connie is going to fight, we're going to fight together!
+Dialogue: 100,0:09:58.76,0:09:59.56,Normal Dialog Text,,0,0,0,,{\rCHS}没错! \N{\rENG}That's right!
+Dialogue: 100,0:09:59.82,0:10:01.86,Normal Dialog Text,,0,0,0,,{\rCHS}你不应接近任何战斗! \N{\rENG}You shouldn't be anywhere near the fight!
+Dialogue: 100,0:10:01.86,0:10:03.34,Normal Dialog Text,,0,0,0,,{\rCHS}你太过重要了! \N{\rENG}You're too important!
+Dialogue: 100,0:10:03.34,0:10:04.50,Normal Dialog Text,,0,0,0,,{\rCHS}并不是! \N{\rENG}I am not!
+Dialogue: 100,0:10:04.50,0:10:05.76,Normal Dialog Text,,0,0,0,,{\rCHS}当然 你就是! \N{\rENG}Yes, you are!
+Dialogue: 100,0:10:05.76,0:10:06.48,Normal Dialog Text,,0,0,0,,{\rCHS}不! \N{\rENG}No!
+Dialogue: 100,0:10:06.48,0:10:10.26,Normal Dialog Text,,0,0,0,,{\rCHS}你为什么不让我为你做这些呢 玫瑰! ? \N{\rENG}Why won't you just let me do this for you, Rose!?
+Dialogue: 100,0:10:14.76,0:10:19.38,Normal Dialog Text,,0,0,0,,{\rCHS}我...我是指...让她 做这些\N{\rENG}I...I mean...Let her do this.
+Dialogue: 100,0:10:19.82,0:10:22.74,Normal Dialog Text,,0,0,0,,{\rCHS}你为什么不让康妮为你做这些? \N{\rENG}Why won't you let Connie do this for you?
+Dialogue: 100,0:10:25.78,0:10:27.86,Normal Dialog Text,,0,0,0,,{\rCHS}今天就到此为止吧\N{\rENG}That's enough for today.
 Dialogue: 100,0:10:33.50,0:10:34.66,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 珍珠...\N{\rENG}Hey, Pearl...
-Dialogue: 100,0:10:35.24,0:10:36.82,Normal Dialog Text,,0,0,0,,{\rCHS}我不是故意给你的训练捣乱的\N{\rENG}I didn't mean to mess up your training. 
-Dialogue: 100,0:10:37.20,0:10:41.04,Normal Dialog Text,,0,0,0,,{\rCHS}但你那些 "你毫不重要"的言论真的令我害怕\N{\rENG}But all that "you're nothing"talk was really freaking me out. 
-Dialogue: 100,0:10:42.04,0:10:44.92,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰让你感觉你毫无价值吗? \N{\rENG}Did Rose make you feel like you were nothing? 
-Dialogue: 100,0:10:47.14,0:10:51.64,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰让我感觉我非常重要\N{\rENG}Rose made me feel like I was everything. 
-Dialogue: 100,0:10:53.40,0:10:56.82,Normal Dialog Text,,0,0,0,,{\rCHS}我现在了解了你们相互间多么在意彼此\N{\rENG}I see now how deeply you care about each other. 
-Dialogue: 100,0:10:58.15,0:11:00.99,Normal Dialog Text,,0,0,0,,{\rCHS}那会让你们都成为伟大的骑士! \N{\rENG}That will make you both great knights! 
-Dialogue: 100,0:11:00.99,0:11:02.66,Normal Dialog Text,,0,0,0,,{\rCHS}康妮基本上是个专家了\N{\rENG}Connie is practically an expert. 
-Dialogue: 100,0:11:02.66,0:11:04.66,Normal Dialog Text,,0,0,0,,{\rCHS}所以 史蒂文 你要花很多功夫赶上康妮\N{\rENG}So, Steven, you have a lot of catching up to do. 
-Dialogue: 100,0:11:05.02,0:11:06.36,Normal Dialog Text,,0,0,0,,{\rCHS}哦 我真是太高兴了\N{\rENG}Oh, I'm so excited. 
-Dialogue: 100,0:11:06.93,0:11:09.28,Normal Dialog Text,,0,0,0,,{\rCHS}我等不及进行空中与水下决斗训练了\N{\rENG}I can't wait for the midair and underwater dueling exercises. 
-Dialogue: 100,0:11:09.28,0:11:11.12,Normal Dialog Text,,0,0,0,,{\rCHS}这会变得非常有趣的! \N{\rENG}It's going to be boodles of fun! 
+Dialogue: 100,0:10:35.24,0:10:36.82,Normal Dialog Text,,0,0,0,,{\rCHS}我不是故意给你的训练捣乱的\N{\rENG}I didn't mean to mess up your training.
+Dialogue: 100,0:10:37.20,0:10:41.04,Normal Dialog Text,,0,0,0,,{\rCHS}但你那些 "你毫不重要"的言论真的令我害怕\N{\rENG}But all that "you're nothing"talk was really freaking me out.
+Dialogue: 100,0:10:42.04,0:10:44.92,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰让你感觉你毫不重要吗? \N{\rENG}Did Rose make you feel like you were nothing?
+Dialogue: 100,0:10:47.14,0:10:51.64,Normal Dialog Text,,0,0,0,,{\rCHS}玫瑰让我感觉我最为重要\N{\rENG}Rose made me feel like I was everything.
+Dialogue: 100,0:10:53.40,0:10:56.82,Normal Dialog Text,,0,0,0,,{\rCHS}我现在了解了你们相互间多么在意彼此\N{\rENG}I see now how deeply you care about each other.
+Dialogue: 100,0:10:58.15,0:11:00.99,Normal Dialog Text,,0,0,0,,{\rCHS}那会让你们都成为伟大的骑士! \N{\rENG}That will make you both great knights!
+Dialogue: 100,0:11:00.99,0:11:02.66,Normal Dialog Text,,0,0,0,,{\rCHS}康妮基本上是个专家了\N{\rENG}Connie is practically an expert.
+Dialogue: 100,0:11:02.66,0:11:04.66,Normal Dialog Text,,0,0,0,,{\rCHS}所以 史蒂文 你要花很多功夫赶上康妮\N{\rENG}So, Steven, you have a lot of catching up to do.
+Dialogue: 100,0:11:05.02,0:11:06.36,Normal Dialog Text,,0,0,0,,{\rCHS}哦 我真是太高兴了\N{\rENG}Oh, I'm so excited.
+Dialogue: 100,0:11:06.93,0:11:09.28,Normal Dialog Text,,0,0,0,,{\rCHS}我等不及进行空中与水下决斗训练了\N{\rENG}I can't wait for the midair and underwater dueling exercises.
+Dialogue: 100,0:11:09.28,0:11:11.12,Normal Dialog Text,,0,0,0,,{\rCHS}这会非常有趣的! \N{\rENG}It's going to be boodles of fun!
 Dialogue: 600,0:11:11.12,0:11:12.90,Hint,,0,0,0,,康妮的装束与战斗风格源自印度喀啦啦的卡拉里帕亚特和龙珠Z\N本集中多处战斗镜头源自少女革命\N康妮用的是弯刀 而珍珠和全息珍珠用的是轻剑\N
 Dialogue: 0,0:11:13.00,0:11:15.80,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}如果我可以做到\N{\fnArial\fs48}♪ If I could begin to be
 Dialogue: 0,0:11:15.90,0:11:18.97,Song Lyrics Text,,0,0,0,,{\fn华文楷体\fs64}你对我期望的一半\N{\fnArial\fs48}♪ half of what you think of me
