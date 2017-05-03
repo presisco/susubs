@@ -5,10 +5,20 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: None
+YCbCr Matrix: TV.601
+PlayResX: 1916
+PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Steven Universe Styles
+Audio File: ../../../presisco/Videos/Steven Universe/Steven.Universe.S02E06.Shirt.Club.DE.1080p.WEBRip.h264.AAC-AliQ.mp4
+Video File: ../../../presisco/Videos/Steven Universe/Steven.Universe.S02E06.Shirt.Club.DE.1080p.WEBRip.h264.AAC-AliQ.mp4
+Video AR Mode: 4
+Video AR Value: 1.774074
+Video Zoom Percent: 0.500000
+Scroll Position: 36
+Active Line: 44
+Video Position: 2125
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -18,7 +28,7 @@ Style: Normal Dialog Text,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0
 Style: SU Title,方正粗圆_GBK,120,&H00C49B74,&H000000FF,&H00FBFBFC,&H00FCFFE7,0,0,0,0,100,100,0,0,1,3,4,2,10,10,10,1
 Style: SU Team Member,方正粗圆_GBK,48,&H00AB8F70,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: SU Team Title,方正粗圆_GBK,48,&H00B299D6,&H00FFFFFF,&H00FFFFFF,&H00DBE0C9,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: SU Team Background,Arial,20,&H00FBFCFC,&H000000FF,&H00000000,&H00FFFFE7,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: SU Team Background,Arial,20,&H00FFFBFE,&H000000FF,&H00000000,&H00FFFFE7,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: Song Lyrics Text,华文楷体,20,&H00EAEAEA,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
 Style: Hint,微软雅黑,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
 Style: Background Dialogue,微软雅黑,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
@@ -32,20 +42,50 @@ Style: ENG_BKG,Arial,36,&H00FFFFFF,&H000000FF,&H00171717,&H00171717,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:49.22,0:00:54.49,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Pearl?!Amethyst?! Garnet?!
-Dialogue: 100,0:00:54.89,0:00:57.46,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}You don't have toyell, Steven. We're right here.
-Dialogue: 100,0:00:57.46,0:00:59.83,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}I know, but Ifinished this drawing, and I
-Dialogue: 100,0:00:59.83,0:01:00.96,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}wanted to show it to you.
-Dialogue: 100,0:01:00.97,0:01:05.17,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}- Oh! Uh, of course.- All right!
-Dialogue: 100,0:01:05.17,0:01:09.54,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Ha ha!Guitar Dad teaches you guitar!
-Dialogue: 100,0:01:09.54,0:01:11.97,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}- What is that?- It's my dad!
-Dialogue: 100,0:01:11.98,0:01:13.08,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}He's going to start teaching
-Dialogue: 100,0:01:13.08,0:01:15.68,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}guitar lessons, and hemade me his P.R. department.
-Dialogue: 100,0:01:15.68,0:01:19.11,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}- What's that stuff in his mouth?- Those are his teeth.
-Dialogue: 100,0:01:19.12,0:01:20.75,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}What are the lightning bolts for?
-Dialogue: 100,0:01:20.75,0:01:23.52,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Uh...well, I-I was trying to show
-Dialogue: 100,0:01:23.52,0:01:25.72,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}that dad really rocks on theguitar, and ...
-Dialogue: 100,0:01:25.72,0:01:28.62,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Then there should berocks falling out of the guitar.
+Dialogue: 150,0:00:00.20,0:00:02.70,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们 是水晶\N{\rENG_LYC}♪ We ♪ are the crystal
+Dialogue: 150,0:00:02.71,0:00:03.68,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}战士\N{\rENG_LYC}♪ gems
+Dialogue: 150,0:00:03.68,0:00:06.14,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们总能拯救世界\N{\rENG_LYC}♪ we'll always save the day
+Dialogue: 150,0:00:06.14,0:00:08.62,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}如果你认为我们不行\N{\rENG_LYC}♪ and if you think we can't, ♪
+Dialogue: 150,0:00:08.62,0:00:11.48,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}我们总能找到方法\N{\rENG_LYC}♪ we'll always find a way
+Dialogue: 150,0:00:11.48,0:00:13.14,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}这就是为什么这个世界\N{\rENG_LYC}♪ that's why the people
+Dialogue: 150,0:00:13.14,0:00:15.24,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}的人\N{\rENG_LYC}♪ of this world
+Dialogue: 150,0:00:15.24,0:00:16.98,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}相信\N{\rENG_LYC}♪ believe in
+Dialogue: 150,0:00:16.98,0:00:17.64,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}石榴\N{\rENG_LYC}♪ Garnet
+Dialogue: 150,0:00:17.64,0:00:18.94,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}紫晶\N{\rENG_LYC}♪ Amethyst
+Dialogue: 150,0:00:18.94,0:00:20.40,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}和珍珠\N{\rENG_LYC}♪ and Pearl
+Dialogue: 150,0:00:20.42,0:00:21.74,Song Lyrics Text,,0,0,0,,{\rCHS_LYC}和史蒂文!\N{\rENG_LYC}and Steven!
+Dialogue: 1,0:00:25.04,0:00:26.54,SU Title,,0,0,0,,{\xshad-0\yshad16\pos(1184,394)}衬衫俱乐部
+Dialogue: 1,0:00:26.65,0:00:28.15,SU Claim,,0,0,0,,欢迎关注微博@ UUU字幕组 获取最新熟肉信息!
+Dialogue: 1,0:00:26.65,0:00:28.04,SU Team Title,,0,0,0,,{\pos(1725,260)}出品
+Dialogue: 1,0:00:26.65,0:00:28.04,SU Team Member,,0,0,0,,{\pos(1725,320)}UUU字幕组
+Dialogue: 1,0:00:26.65,0:00:28.04,SU Team Title,,0,0,0,,{\pos(1725,380)}翻译
+Dialogue: 1,0:00:26.65,0:00:28.04,SU Team Member,,0,0,0,,{\pos(1725,440)}presisco
+Dialogue: 1,0:00:26.65,0:00:28.04,SU Team Title,,0,0,0,,{\pos(1725,500)}校对
+Dialogue: 1,0:00:26.65,0:00:28.04,SU Team Member,,0,0,0,,{\pos(1725,560)}presisco
+Dialogue: 1,0:00:26.65,0:00:28.04,SU Team Title,,0,0,0,,{\pos(1725,620)}特效
+Dialogue: 1,0:00:26.65,0:00:28.04,SU Team Member,,0,0,0,,{\pos(1725,680)}presisco
+Dialogue: 1,0:00:26.65,0:00:28.04,SU Team Title,,0,0,0,,{\pos(1725,740)}压制
+Dialogue: 1,0:00:26.65,0:00:28.04,SU Team Member,,0,0,0,,{\pos(1725,800)}presisco
+Dialogue: 0,0:00:26.65,0:00:28.04,SU Team Background,,0,0,0,,{\bord0\xshad-0\yshad16\pos(1725,860)}{\p1}m -1 122 b -1 -19 -19 -1 122 -1 l 251 -1 b 390 -1 377 -19 377 122 l 377 500 b 377 642 390 628 251 628 l 122 628 b -19 628 -1 642 -1 500 l -1 122 {\p0}
+Dialogue: 100,0:00:49.22,0:00:51.11,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Pearl?!
+Dialogue: 100,0:00:51.11,0:00:52.52,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Amethyst?!
+Dialogue: 100,0:00:52.52,0:00:54.49,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Garnet?!
+Dialogue: 100,0:00:54.78,0:00:57.03,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}You don't have toyell, Steven. We're right here.
+Dialogue: 100,0:00:57.30,0:00:59.34,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}I know, but I finished this drawing,
+Dialogue: 100,0:00:59.34,0:01:00.62,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}and I wanted to show it to you.
+Dialogue: 100,0:01:00.97,0:01:02.66,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Oh! Uh, of course.
+Dialogue: 100,0:01:03.08,0:01:04.18,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}All right!
+Dialogue: 100,0:01:05.46,0:01:08.88,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Ha ha! Guitar Dad teaches you guitar!
+Dialogue: 100,0:01:09.58,0:01:10.67,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}What is that?
+Dialogue: 100,0:01:10.67,0:01:11.52,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}It's my dad!
+Dialogue: 100,0:01:11.98,0:01:13.51,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}He's going to start teaching guitar lessons,
+Dialogue: 100,0:01:13.51,0:01:14.90,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}and he made me his P.R. department.
+Dialogue: 100,0:01:15.68,0:01:17.47,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}What's that stuff in his mouth?
+Dialogue: 100,0:01:17.47,0:01:18.64,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Those are his teeth.
+Dialogue: 100,0:01:18.64,0:01:20.47,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}What are the lightning bolts for?
+Dialogue: 100,0:01:20.47,0:01:23.48,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Uh...well, I-I was trying to show
+Dialogue: 100,0:01:23.48,0:01:25.72,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}that dad really rocks on the guitar, and ...
+Dialogue: 100,0:01:25.72,0:01:28.62,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}Then there should be rocks falling out of the guitar.
 Dialogue: 100,0:01:28.63,0:01:31.76,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}I hear what you're saying,but it's too late for notes.
 Dialogue: 100,0:01:31.76,0:01:33.53,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}This is permanent marker.
 Dialogue: 100,0:01:35.27,0:01:38.10,Normal Dialog Text,,0,0,0,,{\rCHS}\N{\rENG}- Mm-hmm!- What's that cute flyer for, Steven?
