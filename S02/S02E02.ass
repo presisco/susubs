@@ -11,14 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: SU Pub
-Audio File: ../../../presisco/Videos/Steven Universe/Steven.Universe.S02E03.Joy.Ride.1080p.WEBRip.h264.AAC-AliQ.mp4
-Video File: ../../../presisco/Videos/Steven Universe/Steven.Universe.S02E03.Joy.Ride.1080p.WEBRip.h264.AAC-AliQ.mp4
+Audio File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E02.Open.Book.1080p.WEBRip.h264.AAC-AliQ.mp4
+Video File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E02.Open.Book.1080p.WEBRip.h264.AAC-AliQ.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 151
-Active Line: 165
-Video Position: 10109
+Video Zoom Percent: 0.500000
+Scroll Position: 237
+Active Line: 253
+Video Position: 16079
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -70,96 +70,99 @@ Dialogue: 0,0:00:27.55,0:00:29.05,SU Team Background,,0,0,0,,{\bord0\xshad-0\ysh
 Dialogue: 100,0:00:38.60,0:00:41.60,Normal Dialog Text,,0,0,0,,{\rCHS}那么 你觉得结局怎么样?\N{\rENG}So, what did you think of the ending?
 Dialogue: 100,0:00:41.67,0:00:44.87,Normal Dialog Text,,0,0,0,,{\rCHS}呃...我认为那在第917页\N{\rENG}Uh...I thought it was on page 917.
 Dialogue: 100,0:00:44.94,0:00:47.26,Normal Dialog Text,,0,0,0,,{\rCHS}我觉得真是个烂尾!\N{\rENG}I thought it was a disaster!
-Comment: 100,0:00:48.01,0:00:50.62,Normal Dialog Text,,0,0,0,,{\rCHS}之前的书似乎都在讨论并批判那些巫婆部队\N{\rENG}All the books leading up to this seemed to be taking on and
-Comment: 100,0:00:50.62,0:00:53.71,Normal Dialog Text,,0,0,0,,{\rCHS}...那些拥有自我意识的巫婆 \N{\rENG}subverting these witch tropes...really self-aware about
-Comment: 100,0:00:53.71,0:00:55.17,Normal Dialog Text,,0,0,0,,{\rCHS}都是复制品 你知道吗?\N{\rENG}being a pastiche, you know?
+Dialogue: 100,0:00:48.01,0:00:49.44,Normal Dialog Text,,0,0,0,,{\rCHS}这个系列之前的内容\N{\rENG}All the books leading up to this
+Dialogue: 100,0:00:49.44,0:00:52.23,Normal Dialog Text,,0,0,0,,{\rCHS}似乎都在讨论并批判那些巫婆部队...\N{\rENG}seemed to be taking on and subverting these witch tropes...
+Dialogue: 100,0:00:52.23,0:00:54.99,Normal Dialog Text,,0,0,0,,{\rCHS}对借鉴有自知之明 你知道吗?\N{\rENG}really self-aware about being a pastiche, you know?
 Dialogue: 100,0:00:56.35,0:00:58.92,Normal Dialog Text,,0,0,0,,{\rCHS}但最终 这都变得毫无意义\N{\rENG}But in the end, none of that even mattered.
-Comment: 100,0:00:58.98,0:01:02.77,Normal Dialog Text,,0,0,0,,{\rCHS}丽莎和她那会说话的猎鹰 反叛军挑战\N{\rENG}Lisa and her talking falcon, rebels challenging the stifling
-Comment: 100,0:01:02.77,0:01:06.79,Normal Dialog Text,,0,0,0,,{\rCHS}魔法官僚制度那压迫人性的传统...我超喜欢这个\N{\rENG}traditions of the magical bureaucracy...I loved that.
-Dialogue: 100,0:01:06.86,0:01:10.43,Normal Dialog Text,,0,0,0,,{\rCHS}然后她的猎鹰变成了人类并与她结婚?!\N{\rENG}Then her falcon turns into a human and they get married?!
-Dialogue: 100,0:01:10.49,0:01:13.35,Normal Dialog Text,,0,0,0,,{\rCHS}这本书完全抛弃了所有的反专制内容\N{\rENG}It completely dropped all the anti-authoritarian
-Dialogue: 100,0:01:13.35,0:01:16.20,Normal Dialog Text,,0,0,0,,{\rCHS}却花了整整50页描绘她的婚礼蛋糕!\N{\rENG}stuff and described her wedding cake for 50 pages!
-Dialogue: 100,0:01:16.27,0:01:20.23,Normal Dialog Text,,0,0,0,,{\rCHS}对啊! 那个蛋糕撑死只值...20页!\N{\rENG}Yeah! That cake was worthy of 20 pages, tops!
-Dialogue: 100,0:01:20.26,0:01:22.10,Normal Dialog Text,,0,0,0,,{\rCHS}蛋糕上连草莓都没有!\N{\rENG}There weren't even strawberries on it!
+Dialogue: 100,0:00:58.98,0:01:00.95,Normal Dialog Text,,0,0,0,,{\rCHS}丽莎和她那会说话的猎鹰\N{\rENG}Lisa and her talking falcon,
+Dialogue: 100,0:01:00.95,0:01:04.87,Normal Dialog Text,,0,0,0,,{\rCHS}反叛军挑战魔法官僚制度那压迫人性的传统...\N{\rENG}rebels challenging the stifling traditions of the magical bureaucracy...
+Dialogue: 100,0:01:05.26,0:01:06.79,Normal Dialog Text,,0,0,0,,{\rCHS}我超喜欢这个\N{\rENG}I loved that.
+Dialogue: 100,0:01:06.79,0:01:10.38,Normal Dialog Text,,0,0,0,,{\rCHS}然后她的猎鹰变成了人类并与她结婚?!\N{\rENG}Then her falcon turns into a human and they get married?!
+Dialogue: 100,0:01:10.38,0:01:13.38,Normal Dialog Text,,0,0,0,,{\rCHS}这本书完全抛弃了所有的反专制内容\N{\rENG}It completely dropped all the anti-authoritarian stuff
+Dialogue: 100,0:01:13.38,0:01:16.20,Normal Dialog Text,,0,0,0,,{\rCHS}却花了整整50页描绘她的婚礼蛋糕!\N{\rENG} and described her wedding cake for 50 pages!
+Dialogue: 100,0:01:16.20,0:01:20.23,Normal Dialog Text,,0,0,0,,{\rCHS}对啊! 那个蛋糕撑死只值...20页!\N{\rENG}Yeah! That cake was worthy of 20 pages, tops!
+Dialogue: 100,0:01:20.23,0:01:22.14,Normal Dialog Text,,0,0,0,,{\rCHS}蛋糕上连草莓都没有!\N{\rENG}There weren't even strawberries on it!
 Dialogue: 100,0:01:22.51,0:01:25.20,Normal Dialog Text,,0,0,0,,{\rCHS}我猜自从这个系列变得流行后 \N{\rENG}I bet since the books got so popular,
 Dialogue: 100,0:01:25.20,0:01:27.11,Normal Dialog Text,,0,0,0,,{\rCHS}出版商给作者施压\N{\rENG}the publisher put pressure on the author to
-Dialogue: 100,0:01:27.11,0:01:29.91,Normal Dialog Text,,0,0,0,,{\rCHS}要求将结局低龄化来吸引更多读者\N{\rENG}water down the end for a larger audience appeal.
-Comment: 100,0:01:29.98,0:01:32.91,Normal Dialog Text,,0,0,0,,{\rCHS}不像艺术作品 现实中不会总能战胜\N{\rENG}Unlike art, the real world can't always win against
-Comment: 100,0:01:32.91,0:01:34.75,Normal Dialog Text,,0,0,0,,{\rCHS}牢不可破的权力链\N{\rENG}the iron chains of authority.
+Dialogue: 100,0:01:27.11,0:01:29.98,Normal Dialog Text,,0,0,0,,{\rCHS}要求将结局低龄化来吸引更多读者\N{\rENG}water down the end for a larger audience appeal.
+Dialogue: 100,0:01:29.98,0:01:31.86,Normal Dialog Text,,0,0,0,,{\rCHS}不像艺术作品 现实中\N{\rENG}Unlike art, the real world
+Dialogue: 100,0:01:31.86,0:01:34.75,Normal Dialog Text,,0,0,0,,{\rCHS}不会总能战胜牢不可破的权力链条\N{\rENG}can't always win against the iron chains of authority.
 Dialogue: 100,0:01:36.20,0:01:37.74,Normal Dialog Text,,0,0,0,,{\rCHS}不管怎样 这就是我的理解\N{\rENG}That's my theory, anyway.
 Dialogue: 100,0:01:37.74,0:01:38.46,Normal Dialog Text,,0,0,0,,{\rCHS}嗯...\N{\rENG}Hmm.
-Dialogue: 100,0:01:38.52,0:01:41.60,Normal Dialog Text,,0,0,0,,{\rCHS}只是这非常令人失望 考虑到我额外\N{\rENG}It's just disappointing, considering I invested extra
-Dialogue: 100,0:01:41.62,0:01:44.93,Normal Dialog Text,,0,0,0,,{\rCHS}充值了精装版...与地图\N{\rENG}money in the hardcover copies...with maps.
+Dialogue: 100,0:01:38.52,0:01:41.60,Normal Dialog Text,,0,0,0,,{\rCHS}只是这非常令人失望 考虑到我\N{\rENG}It's just disappointing, considering I invested
+Dialogue: 100,0:01:41.60,0:01:45.00,Normal Dialog Text,,0,0,0,,{\rCHS}额外充值了精装版...与地图\N{\rENG}extra money in the hardcover copies...with maps.
 Dialogue: 100,0:01:45.55,0:01:47.33,Normal Dialog Text,,0,0,0,,{\rCHS}我真希望我能给你新的结局\N{\rENG}I wish I could give you a new ending.
 Dialogue: 100,0:01:54.66,0:01:56.84,Normal Dialog Text,,0,0,0,,{\rCHS}神庙的门...它为我开启了!\N{\rENG}The temple door...it opened for me!
 Dialogue: 100,0:01:58.17,0:02:00.56,Normal Dialog Text,,0,0,0,,{\rCHS}我能在其中随意制造事物!\N{\rENG}I can make anything I want in there!
-Dialogue: 100,0:02:00.59,0:02:02.06,Normal Dialog Text,,0,0,0,,{\rCHS}我能为我们做个新的结局!\N{\rENG}I can make us a new ending!
-Dialogue: 100,0:02:02.10,0:02:04.57,Normal Dialog Text,,0,0,0,,{\rCHS}真的? 那么 我们还等什么?\N{\rENG}Really? Well, what are we waiting for?!
+Dialogue: 100,0:02:00.56,0:02:02.06,Normal Dialog Text,,0,0,0,,{\rCHS}我能为我们做个新的结局!\N{\rENG}I can make us a new ending!
+Dialogue: 100,0:02:02.06,0:02:04.57,Normal Dialog Text,,0,0,0,,{\rCHS}真的? 那么 我们还等什么?\N{\rENG}Really? Well, what are we waiting for?!
 Dialogue: 100,0:02:09.97,0:02:10.88,Normal Dialog Text,,0,0,0,,{\rCHS}酷!\N{\rENG}Cool!
-Dialogue: 100,0:02:10.96,0:02:14.38,Normal Dialog Text,,0,0,0,,{\rCHS}这是我母亲的房间 我能控制它 像这样\N{\rENG}This is my mom's room. I can control it, like this.
-Dialogue: 100,0:02:14.44,0:02:17.39,Normal Dialog Text,,0,0,0,,{\rCHS}我想要个袖珍悬浮鲸跟我击掌\N{\rENG}I want a tiny, floating whale to give me some fin.
-Dialogue: 100,0:02:20.94,0:02:23.53,Normal Dialog Text,,0,0,0,,{\rCHS}我的天哪! 是怎么做到的?\N{\rENG}Unbelievable! How does it work?
-Dialogue: 100,0:02:23.61,0:02:25.42,Normal Dialog Text,,0,0,0,,{\rCHS}这个房间可以用云制造出东西来\N{\rENG}The room can make stuff out of clouds.
+Dialogue: 100,0:02:10.88,0:02:14.16,Normal Dialog Text,,0,0,0,,{\rCHS}这是我母亲的房间 我能控制它 像这样\N{\rENG}This is my mom's room. I can control it, like this.
+Dialogue: 100,0:02:14.46,0:02:17.12,Normal Dialog Text,,0,0,0,,{\rCHS}我想要个袖珍悬浮鲸跟我击掌\N{\rENG}I want a tiny, floating whale to give me some fin.
+Dialogue: 100,0:02:21.04,0:02:23.37,Normal Dialog Text,,0,0,0,,{\rCHS}我的天哪! 是怎么做到的?\N{\rENG}Unbelievable! How does it work?
+Dialogue: 100,0:02:23.37,0:02:25.42,Normal Dialog Text,,0,0,0,,{\rCHS}这个房间可以用云制造出东西来\N{\rENG}The room can make stuff out of clouds.
 Dialogue: 100,0:02:25.42,0:02:26.79,Normal Dialog Text,,0,0,0,,{\rCHS}我们能制造任何东西\N{\rENG}We can make anything.
-Dialogue: 100,0:02:26.79,0:02:28.02,Normal Dialog Text,,0,0,0,,{\rCHS}任何东西?\N{\rENG}Anything?
-Comment: 100,0:02:28.35,0:02:31.33,Normal Dialog Text,,0,0,0,,{\rCHS}那么第四本书中的无穷集市呢? 还有从\N{\rENG}How 'bout the infinity fair from book 4, with merchants
-Comment: 100,0:02:31.49,0:02:35.51,Normal Dialog Text,,0,0,0,,{\rCHS}一百万个大陆前来的商人 贩卖早已消逝与尚未出现的文明的物品?\N{\rENG}from a million lands selling goods from cultures long gone and yet to be?
+Dialogue: 100,0:02:27.12,0:02:28.02,Normal Dialog Text,,0,0,0,,{\rCHS}任何东西?\N{\rENG}Anything?
+Dialogue: 100,0:02:28.35,0:02:30.52,Normal Dialog Text,,0,0,0,,{\rCHS}那么第四本书中的无穷集市呢? \N{\rENG}How 'bout the infinity fair from book 4,
+Dialogue: 100,0:02:30.52,0:02:32.38,Normal Dialog Text,,0,0,0,,{\rCHS}还有从一百万个大陆前来的商人\N{\rENG}with merchants from a million lands
+Dialogue: 100,0:02:32.38,0:02:35.51,Normal Dialog Text,,0,0,0,,{\rCHS}贩卖早已消逝与尚未出现的文明的物品?\N{\rENG}selling goods from cultures long gone and yet to be?
 Dialogue: 100,0:02:36.35,0:02:38.76,Normal Dialog Text,,0,0,0,,{\rCHS}我们可能得简化它\N{\rENG}We should probably keep it simple.
 Dialogue: 100,0:02:38.76,0:02:40.42,Normal Dialog Text,,0,0,0,,{\rCHS}我们绝对不会想让房间超载的\N{\rENG}We don't want to overload the room.
-Dialogue: 100,0:02:40.73,0:02:44.46,Normal Dialog Text,,0,0,0,,{\rCHS}那么无穷集市的一半呢? 哦 那还是无穷大\N{\rENG}How 'bout half the infinity fair? Oh. That's still infinity.
-Dialogue: 100,0:02:44.97,0:02:48.75,Normal Dialog Text,,0,0,0,,{\rCHS}简单 好吧 真正重要的\N{\rENG}Simple. Okay. Well, what really matters
-Dialogue: 100,0:02:48.75,0:02:51.42,Normal Dialog Text,,0,0,0,,{\rCHS}是角色 你应该成为"阿基米卡勒斯"\N{\rENG}are the characters. You should be Archimicarus.
-Dialogue: 100,0:02:51.51,0:02:55.02,Normal Dialog Text,,0,0,0,,{\rCHS}好吧 房间 我想成为猎鹰!\N{\rENG}Okay. Room, I want to be a falcon!
+Dialogue: 100,0:02:40.73,0:02:42.39,Normal Dialog Text,,0,0,0,,{\rCHS}那么无穷集市的一半呢?\N{\rENG}How 'bout half the infinity fair?
+Dialogue: 100,0:02:42.39,0:02:44.46,Normal Dialog Text,,0,0,0,,{\rCHS}哦 那还是无穷大\N{\rENG}Oh. That's still infinity.
+Dialogue: 100,0:02:44.97,0:02:47.10,Normal Dialog Text,,0,0,0,,{\rCHS}简单 好吧\N{\rENG}Simple. Okay.
+Dialogue: 100,0:02:47.10,0:02:49.73,Normal Dialog Text,,0,0,0,,{\rCHS}真正重要的是角色\N{\rENG}Well, what really matters are the characters.
+Dialogue: 100,0:02:49.73,0:02:51.42,Normal Dialog Text,,0,0,0,,{\rCHS}你应该成为"阿基米卡勒斯"\N{\rENG}You should be Archimicarus.
+Dialogue: 100,0:02:51.42,0:02:55.02,Normal Dialog Text,,0,0,0,,{\rCHS}好吧 房间 我想成为猎鹰!\N{\rENG}Okay. Room, I want to be a falcon!
 Dialogue: 100,0:02:56.93,0:02:57.97,Normal Dialog Text,,0,0,0,,{\rCHS}哦～耶\N{\rENG}Oh, yeah.
 Dialogue: 600,0:02:56.93,0:02:57.97,Hint,,0,0,0,,史蒂文的装束类似"科学小飞侠"
 Dialogue: 100,0:02:58.51,0:02:59.51,Normal Dialog Text,,0,0,0,,{\rCHS}得保证足够简单\N{\rENG}Got to keep it simple.
 Dialogue: 100,0:03:00.51,0:03:02.95,Normal Dialog Text,,0,0,0,,{\rCHS}太帅了! 好 该我了\N{\rENG}Amazing! Okay, my turn.
-Dialogue: 100,0:03:03.08,0:03:05.15,Normal Dialog Text,,0,0,0,,{\rCHS}房间 我想成为丽莎\N{\rENG}Room, I want to be Lisa.
-Dialogue: 100,0:03:06.48,0:03:08.49,Normal Dialog Text,,0,0,0,,{\rCHS}我要说的更具体些吗?\N{\rENG}Do I need to be more specific?
-Dialogue: 100,0:03:08.52,0:03:10.69,Normal Dialog Text,,0,0,0,,{\rCHS}你对猎鹰的描述就挺模糊的\N{\rENG}You were pretty general with the falcon thing.
-Dialogue: 100,0:03:10.71,0:03:14.46,Normal Dialog Text,,0,0,0,,{\rCHS}哦 抱歉 我猜房间只会在我想要的时候制造\N{\rENG}Oh, sorry. I guess the room only makes stuff when I want it.
-Dialogue: 100,0:03:14.82,0:03:16.78,Normal Dialog Text,,0,0,0,,{\rCHS}也许这样是行不通的\N{\rENG}Maybe this won't work after all.
-Dialogue: 100,0:03:17.20,0:03:19.44,Normal Dialog Text,,0,0,0,,{\rCHS}为什么你不直接让它变出个道具服商店?\N{\rENG}Why don't you just have it make a costume shop?
+Dialogue: 100,0:03:02.95,0:03:05.15,Normal Dialog Text,,0,0,0,,{\rCHS}房间 我想成为丽莎\N{\rENG}Room, I want to be Lisa.
+Dialogue: 100,0:03:06.96,0:03:08.40,Normal Dialog Text,,0,0,0,,{\rCHS}我要说的更具体些吗?\N{\rENG}Do I need to be more specific?
+Dialogue: 100,0:03:08.40,0:03:10.38,Normal Dialog Text,,0,0,0,,{\rCHS}你对猎鹰的描述就挺笼统的\N{\rENG}You were pretty general with the falcon thing.
+Dialogue: 100,0:03:10.76,0:03:14.38,Normal Dialog Text,,0,0,0,,{\rCHS}哦 抱歉 我猜房间只会制造我想要的东西\N{\rENG}Oh, sorry. I guess the room only makes stuff when I want it.
+Dialogue: 100,0:03:14.82,0:03:16.75,Normal Dialog Text,,0,0,0,,{\rCHS}也许这样是行不通的\N{\rENG}Maybe this won't work after all.
+Dialogue: 100,0:03:17.26,0:03:19.44,Normal Dialog Text,,0,0,0,,{\rCHS}为什么你不直接让它制造个道具服商店?\N{\rENG}Why don't you just have it make a costume shop?
 Dialogue: 100,0:03:19.75,0:03:21.26,Normal Dialog Text,,0,0,0,,{\rCHS}哦 是啊! 好主意!\N{\rENG}Oh, yeah! Good idea!
-Dialogue: 100,0:03:21.62,0:03:23.62,Normal Dialog Text,,0,0,0,,{\rCHS}我想要个道具服店!\N{\rENG}I want a costume shop!
+Dialogue: 100,0:03:21.90,0:03:23.58,Normal Dialog Text,,0,0,0,,{\rCHS}我想要个道具服店!\N{\rENG}I want a costume shop!
 Dialogue: 100,0:03:27.84,0:03:31.76,Normal Dialog Text,,0,0,0,,{\rCHS}喔! 这里什么都有--甚至是她小时候的短上衣\N{\rENG}Wow! This place has everything...even her childhood tunic!
-Dialogue: 100,0:03:31.79,0:03:34.05,Normal Dialog Text,,0,0,0,,{\rCHS}等等 你认为那是红色的?\N{\rENG}Wait. You thought it was red?
-Dialogue: 100,0:03:34.09,0:03:36.66,Normal Dialog Text,,0,0,0,,{\rCHS}没错 落日的颜色!\N{\rENG}Yeah, the color of the setting sun!
+Dialogue: 100,0:03:32.08,0:03:34.05,Normal Dialog Text,,0,0,0,,{\rCHS}等等 你认为那是红色的?\N{\rENG}Wait. You thought it was red?
+Dialogue: 100,0:03:34.05,0:03:36.66,Normal Dialog Text,,0,0,0,,{\rCHS}没错 落日的颜色!\N{\rENG}Yeah, the color of the setting sun!
 Dialogue: 100,0:03:36.66,0:03:39.02,Normal Dialog Text,,0,0,0,,{\rCHS}矿区的落日是黑色的 史蒂文\N{\rENG}The sun sets black over the mines, Steven.
-Dialogue: 100,0:03:39.47,0:03:40.77,Normal Dialog Text,,0,0,0,,{\rCHS}你会打扮成年轻的丽莎吗?\N{\rENG}Are you gonna be young Lisa?
-Dialogue: 100,0:03:40.97,0:03:43.93,Normal Dialog Text,,0,0,0,,{\rCHS}其实 如果我们真打算重置结局 \N{\rENG}Well, if we're really reworking this thing,
+Dialogue: 100,0:03:39.47,0:03:40.88,Normal Dialog Text,,0,0,0,,{\rCHS}你会打扮成年轻的丽莎吗?\N{\rENG}Are you gonna be young Lisa?
+Dialogue: 100,0:03:40.88,0:03:43.93,Normal Dialog Text,,0,0,0,,{\rCHS}其实 如果我们真打算重置结局 \N{\rENG}Well, if we're really reworking this thing,
 Dialogue: 100,0:03:43.93,0:03:45.83,Normal Dialog Text,,0,0,0,,{\rCHS}我会打造一个终极版丽莎 \N{\rENG} I'm gonna make the ultimate Lisa,
 Dialogue: 100,0:03:45.83,0:03:48.26,Normal Dialog Text,,0,0,0,,{\rCHS}使用每本书中最棒的装备\N{\rENG}with the best gear from every book.
-Dialogue: 100,0:03:48.26,0:03:51.80,Normal Dialog Text,,0,0,0,,{\rCHS}比如 如果她从没丢失过她的铁剑?\N{\rENG}Like, what if she never lost her iron sword?
+Dialogue: 100,0:03:48.26,0:03:51.80,Normal Dialog Text,,0,0,0,,{\rCHS}比如 如果她从没丢失过她的铁剑呢?\N{\rENG}Like, what if she never lost her iron sword?
 Dialogue: 100,0:03:52.68,0:03:55.75,Normal Dialog Text,,0,0,0,,{\rCHS}而且斗篷和扣环这种标志怎能没有呢?\N{\rENG}And the cloak and the clasp are too signature not to do.
 Dialogue: 100,0:03:55.75,0:03:56.65,Normal Dialog Text,,0,0,0,,{\rCHS}当然!\N{\rENG}For sure!
-Dialogue: 100,0:03:56.70,0:04:01.06,Normal Dialog Text,,0,0,0,,{\rCHS}而且我一直很喜欢第三本书中出自火山部分的龙须靴\N{\rENG}And I always liked the dragon whisker boots from the volcano stuff in book 3.
-Dialogue: 100,0:04:01.06,0:04:02.11,Normal Dialog Text,,0,0,0,,{\rCHS}你快完成了吧?\N{\rENG}Are you almost done?
+Dialogue: 100,0:03:56.65,0:04:00.96,Normal Dialog Text,,0,0,0,,{\rCHS}而且我一直很喜欢第三本书中出自火山部分的龙须靴\N{\rENG}And I always liked the dragon whisker boots from the volcano stuff in book 3.
+Dialogue: 100,0:04:00.96,0:04:02.11,Normal Dialog Text,,0,0,0,,{\rCHS}你快完成了吧?\N{\rENG}Are you almost done?
 Dialogue: 100,0:04:02.11,0:04:03.05,Normal Dialog Text,,0,0,0,,{\rCHS}等一下!\N{\rENG}Wait a minute!
 Dialogue: 100,0:04:03.05,0:04:03.84,Normal Dialog Text,,0,0,0,,{\rCHS}出来吧!\N{\rENG}Come out!
 Dialogue: 100,0:04:03.84,0:04:05.15,Normal Dialog Text,,0,0,0,,{\rCHS}我想看看你!\N{\rENG}I want to see you!
-Dialogue: 100,0:04:08.95,0:04:11.31,Normal Dialog Text,,0,0,0,,{\rCHS}喔! 你看起来好极了!\N{\rENG}Whoa! You look awesome!
-Dialogue: 100,0:04:11.31,0:04:12.34,Normal Dialog Text,,0,0,0,,{\rCHS}谢谢!\N{\rENG}Thanks!
+Dialogue: 100,0:04:08.95,0:04:11.10,Normal Dialog Text,,0,0,0,,{\rCHS}喔! 你看起来好极了!\N{\rENG}Whoa! You look awesome!
+Dialogue: 100,0:04:11.52,0:04:12.27,Normal Dialog Text,,0,0,0,,{\rCHS}谢谢!\N{\rENG}Thanks!
 Dialogue: 100,0:04:12.62,0:04:14.35,Normal Dialog Text,,0,0,0,,{\rCHS}好吧 让我们开始吧\N{\rENG}Okay. Let's do this.
-Dialogue: 100,0:04:16.57,0:04:20.51,Normal Dialog Text,,0,0,0,,{\rCHS}那么 在系列的结尾 丽莎和她的好友猎鹰\N{\rENG}So, at the end of the series, Lisa and her falcon familiar,
-Dialogue: 100,0:04:20.53,0:04:22.20,Normal Dialog Text,,0,0,0,,{\rCHS}阿基米卡勒斯 一起在祭坛...\N{\rENG}Archimicarus, are at the altar...
+Dialogue: 100,0:04:16.57,0:04:18.57,Normal Dialog Text,,0,0,0,,{\rCHS}那么 在系列的结尾\N{\rENG}So, at the end of the series,
+Dialogue: 100,0:04:18.57,0:04:22.20,Normal Dialog Text,,0,0,0,,{\rCHS}丽莎和她的好友猎鹰 阿基米卡勒斯一起在祭坛...\N{\rENG}Lisa and her falcon familiar, Archimicarus, are at the altar...
 Dialogue: 100,0:04:23.17,0:04:25.84,Normal Dialog Text,,0,0,0,,{\rCHS}伴随着牧师...正要完成婚礼\N{\rENG}with a cleric...about to get married.
 Dialogue: 100,0:04:26.60,0:04:27.97,Normal Dialog Text,,0,0,0,,{\rCHS}但我们不想要这样的结局\N{\rENG}But we don't want that ending.
 Dialogue: 100,0:04:28.91,0:04:30.22,Normal Dialog Text,,0,0,0,,{\rCHS}所以 不同的是...\N{\rENG}So, instead...
 Dialogue: 100,0:04:33.17,0:04:34.52,Normal Dialog Text,,0,0,0,,{\rCHS}呃...我-我不清楚 你打算怎么样?\N{\rENG}Uh...I-I don't know. What do you think?
-Dialogue: 100,0:04:34.82,0:04:36.68,Normal Dialog Text,,0,0,0,,{\rCHS}嗯...你怎么想?\N{\rENG}Hmm. What do you think?
+Dialogue: 100,0:04:34.82,0:04:36.63,Normal Dialog Text,,0,0,0,,{\rCHS}嗯...你怎么想?\N{\rENG}Hmm. What do you think?
 Dialogue: 100,0:04:37.11,0:04:39.15,Normal Dialog Text,,0,0,0,,{\rCHS}呃...那么...\N{\rENG}Uh...well...
 Dialogue: 100,0:04:39.15,0:04:41.64,Normal Dialog Text,,0,0,0,,{\rCHS}另-另一个不同的方案怎么样 丽莎...\N{\rENG}h-how 'bout a different proposal, Lisa...
-Dialogue: 100,0:04:41.93,0:04:45.37,Normal Dialog Text,,0,0,0,,{\rCHS}一个商业计划? 我们共同经营一个生意\N{\rENG}a business proposal? We can start a business together
-Dialogue: 100,0:04:45.37,0:04:46.80,Normal Dialog Text,,0,0,0,,{\rCHS}贩卖...呃...\N{\rENG}and sell...uh...
-Comment: 100,0:04:47.15,0:04:50.15,Normal Dialog Text,,0,0,0,,{\rCHS}贩卖...火鸡腿来挣钱帮助\N{\rENG}sell...turkey legs to make money to help out
-Comment: 100,0:04:50.15,0:04:51.85,Normal Dialog Text,,0,0,0,,{\rCHS}跟随我们的反叛军同伴!\N{\rENG} our fellow rebel comrades!
-Dialogue: 100,0:04:52.02,0:04:53.26,Normal Dialog Text,,0,0,0,,{\rCHS}好啊 那很棒!\N{\rENG}Yeah, that's great!
+Dialogue: 100,0:04:41.96,0:04:43.55,Normal Dialog Text,,0,0,0,,{\rCHS}一个商业计划? \N{\rENG}a business proposal?
+Dialogue: 100,0:04:43.84,0:04:46.64,Normal Dialog Text,,0,0,0,,{\rCHS}我们共同经营一个生意 贩卖...呃...\N{\rENG}We can start a business together and sell...uh...
+Dialogue: 100,0:04:47.15,0:04:51.72,Normal Dialog Text,,0,0,0,,{\rCHS}贩卖...火鸡腿来挣钱帮助跟随我们的反叛军同伴!\N{\rENG}sell...turkey legs to make money to help out our fellow rebel comrades!
+Dialogue: 100,0:04:52.06,0:04:53.14,Normal Dialog Text,,0,0,0,,{\rCHS}好啊 那很棒!\N{\rENG}Yeah, that's great!
 Dialogue: 100,0:04:54.82,0:04:57.08,Normal Dialog Text,,0,0,0,,{\rCHS}我想要再加个遮阳伞 如果可以的话 房间\N{\rENG}I want an umbrella with that, if you would, room.
 Dialogue: 100,0:04:58.60,0:05:02.42,Normal Dialog Text,,0,0,0,,{\rCHS}火鸡腿! 快来享用你的反叛军火鸡腿!\N{\rENG}Turkey legs! Get your rebel turkey legs!
-Dialogue: 100,0:05:02.44,0:05:03.78,Normal Dialog Text,,0,0,0,,{\rCHS}火鸡腿!\N{\rENG}Turkey legs!
-Dialogue: 100,0:05:04.15,0:05:06.91,Normal Dialog Text,,0,0,0,,{\rCHS}你认为我作为猎鹰吃这个没问题吧?\N{\rENG}You think it's okay for me to eat this if I'm a falcon?
-Dialogue: 100,0:05:06.91,0:05:08.71,Normal Dialog Text,,0,0,0,,{\rCHS}你是只捕食者\N{\rENG}You are a bird of prey.
+Dialogue: 100,0:05:02.42,0:05:03.78,Normal Dialog Text,,0,0,0,,{\rCHS}火鸡腿!\N{\rENG}Turkey legs!
+Dialogue: 100,0:05:04.36,0:05:06.91,Normal Dialog Text,,0,0,0,,{\rCHS}你认为我作为猎鹰吃这个没问题吧?\N{\rENG}You think it's okay for me to eat this if I'm a falcon?
+Dialogue: 100,0:05:06.91,0:05:08.57,Normal Dialog Text,,0,0,0,,{\rCHS}你确实是只捕食者\N{\rENG}You are a bird of prey.
 Dialogue: 100,0:05:09.13,0:05:13.00,Normal Dialog Text,,0,0,0,,{\rCHS}那么 你觉得我们作为生意伙伴下一步该怎么做?\N{\rENG}So, what should our next move be as business partners?
 Dialogue: 100,0:05:13.22,0:05:14.08,Normal Dialog Text,,0,0,0,,{\rCHS}你来说吧\N{\rENG}You tell me.
 Dialogue: 100,0:05:14.35,0:05:16.78,Normal Dialog Text,,0,0,0,,{\rCHS}是吗? 哦 呃...\N{\rENG}Yeah? Oh. Um...
@@ -186,11 +189,11 @@ Dialogue: 100,0:06:02.55,0:06:04.57,Normal Dialog Text,,0,0,0,,{\rCHS}我们...�
 Dialogue: 100,0:06:05.77,0:06:06.75,Normal Dialog Text,,0,0,0,,{\rCHS}因为...\N{\rENG}because...
 Dialogue: 100,0:06:07.24,0:06:09.62,Normal Dialog Text,,0,0,0,,{\rCHS}因为我们没获得售卖许可\N{\rENG}because we're selling without a permit
 Dialogue: 100,0:06:09.91,0:06:11.55,Normal Dialog Text,,0,0,0,,{\rCHS}并且我们的年龄还不够使用推车\N{\rENG}and we're not old enough to drive a cart.
-Dialogue: 100,0:06:12.35,0:06:14.37,Normal Dialog Text,,0,0,0,,{\rCHS}但这些是 呃 \N{\rENG}But these are, uh,
-Comment: 100,0:06:14.80,0:06:16.93,Normal Dialog Text,,0,0,0,,{\rCHS}散养火鸡 而它们不会听从\N{\rENG}free-range turkeys, and they didn't listen
-Comment: 100,0:06:16.93,0:06:19.31,Normal Dialog Text,,0,0,0,,{\rCHS}任何人的命令 而我们也打算这么做 对吧?!\N{\rENG}to anybody, and that's what we're gonna do, right?!
+Dialogue: 100,0:06:12.35,0:06:16.14,Normal Dialog Text,,0,0,0,,{\rCHS}但这些是 呃 }散养火鸡\N{\rENG}But these are, uh, free-range turkeys,
+Dialogue: 100,0:06:16.14,0:06:17.73,Normal Dialog Text,,0,0,0,,{\rCHS}而它们不会听从任何人的命令\N{\rENG}and they didn't listen to anybody,
+Dialogue: 100,0:06:17.73,0:06:19.31,Normal Dialog Text,,0,0,0,,{\rCHS}而我们也打算这么做 对吧?!\N{\rENG}and that's what we're gonna do, right?!
 Dialogue: 100,0:06:19.62,0:06:20.04,Normal Dialog Text,,0,0,0,,{\rCHS}对吧?!\N{\rENG}right?!
-Dialogue: 100,0:06:20.48,0:06:21.44,Normal Dialog Text,,0,0,0,,{\rCHS}随你便\N{\rENG}Whatever you think.
+Dialogue: 100,0:06:20.48,0:06:21.26,Normal Dialog Text,,0,0,0,,{\rCHS}随你便\N{\rENG}Whatever you think.
 Dialogue: 100,0:06:21.44,0:06:22.60,Normal Dialog Text,,0,0,0,,{\rCHS}真的?\N{\rENG}Really?
 Dialogue: 100,0:06:23.42,0:06:27.02,Normal Dialog Text,,0,0,0,,{\rCHS}好吧 那么我认为他们...\N{\rENG}All right. And then I think they...
 Dialogue: 100,0:06:27.57,0:06:28.95,Normal Dialog Text,,0,0,0,,{\rCHS}不喜欢这样...\N{\rENG}don't like that...
@@ -207,19 +210,19 @@ Dialogue: 100,0:06:54.06,0:06:56.24,Normal Dialog Text,,0,0,0,,{\rCHS}我只想�
 Dialogue: 100,0:06:56.62,0:06:58.08,Normal Dialog Text,,0,0,0,,{\rCHS}这一点也不像你\N{\rENG}This isn't really like you.
 Dialogue: 100,0:06:58.08,0:06:58.77,Normal Dialog Text,,0,0,0,,{\rCHS}我...\N{\rENG}I...
 Dialogue: 100,0:07:00.08,0:07:01.22,Normal Dialog Text,,0,0,0,,{\rCHS}我不希望你只是\N{\rENG}I don't want you to just
-Dialogue: 100,0:07:01.60,0:07:02.61,Normal Dialog Text,,0,0,0,,{\rCHS}遵从我的意愿\N{\rENG}-do what I want.
-Dialogue: 100,0:07:03.26,0:07:06.15,Normal Dialog Text,,0,0,0,,{\rCHS}呃...呃...你想让我\N{\rENG}Uh...Uh...you want me to
-Dialogue: 100,0:07:06.33,0:07:09.28,Normal Dialog Text,,0,0,0,,{\rCHS}不遵从你的愿望?\N{\rENG}not d-do what you want?
+Dialogue: 100,0:07:01.60,0:07:02.61,Label Trans,,0,0,0,,{\rCHS}遵从我的意愿\N{\rENG}-do what I want.
+Dialogue: 100,0:07:03.26,0:07:06.26,Normal Dialog Text,,0,0,0,,{\rCHS}呃...呃...你想让我\N{\rENG}Uh...Uh...you want me to
+Dialogue: 100,0:07:06.26,0:07:09.28,Normal Dialog Text,,0,0,0,,{\rCHS}不遵从你的愿望?\N{\rENG}not d-do what you want?
 Dialogue: 100,0:07:09.28,0:07:11.04,Normal Dialog Text,,0,0,0,,{\rCHS}康妮 你还好吗?\N{\rENG}Connie, are you all right?
 Dialogue: 100,0:07:11.04,0:07:13.40,Normal Dialog Text,,0,0,0,,{\rCHS}我想要你想要的...\N{\rENG}I want what you want...
 Dialogue: 100,0:07:13.42,0:07:17.17,Normal Dialog Text,,0,0,0,,{\rCHS}你想要的...想要...想要...想要...想要...想要...\N{\rENG}what you want...want...want...want...want...want...
 Dialogue: 100,0:07:17.17,0:07:18.20,Normal Dialog Text,,0,0,0,,{\rCHS}想要...想要...\N{\rENG}want...want...
-Dialogue: 100,0:07:18.24,0:07:21.15,Normal Dialog Text,,0,0,0,,{\rCHS}我想要个袖珍悬浮鲸跟我击掌\N{\rENG}I want a tiny floating whale to give me some fin.
+Dialogue: 100,0:07:18.20,0:07:21.15,Normal Dialog Text,,0,0,0,,{\rCHS}我想要个袖珍悬浮鲸跟我击掌\N{\rENG}I want a tiny floating whale to give me some fin.
 Dialogue: 100,0:07:21.75,0:07:23.62,Normal Dialog Text,,0,0,0,,{\rCHS}我想要个道具服商店!\N{\rENG}I want a costume shop!
 Dialogue: 100,0:07:24.35,0:07:25.68,Normal Dialog Text,,0,0,0,,{\rCHS}我想看到你!\N{\rENG}I want to see you!
 Dialogue: 100,0:07:28.73,0:07:30.75,Normal Dialog Text,,0,0,0,,{\rCHS}我-我制造了你\N{\rENG}I-I created you.
 Dialogue: 100,0:07:31.73,0:07:33.24,Normal Dialog Text,,0,0,0,,{\rCHS}你不是康妮\N{\rENG}You're not Connie!
-Dialogue: 100,0:07:33.28,0:07:36.72,Normal Dialog Text,,0,0,0,,{\rCHS}我肯定把真的康妮忘在道具服商店了!\N{\rENG}I must have left the real Connie back at the costume shop!
+Dialogue: 100,0:07:33.24,0:07:36.72,Normal Dialog Text,,0,0,0,,{\rCHS}我肯定把真的康妮忘在道具服商店了!\N{\rENG}I must have left the real Connie back at the costume shop!
 Dialogue: 100,0:07:36.72,0:07:38.75,Normal Dialog Text,,0,0,0,,{\rCHS}她-她可能在任何位置!\N{\rENG}Sh-She could be anywhere!
 Dialogue: 100,0:07:38.75,0:07:40.77,Normal Dialog Text,,0,0,0,,{\rCHS}不 不 不 不 不!\N{\rENG}No, no, no, no, no!
 Dialogue: 100,0:07:41.15,0:07:43.37,Normal Dialog Text,,0,0,0,,{\rCHS}停下! 我不玩了!\N{\rENG}I'm done! I'm done playing!
@@ -227,11 +230,11 @@ Dialogue: 100,0:08:01.44,0:08:03.42,Normal Dialog Text,,0,0,0,,{\rCHS}为什么�
 Dialogue: 100,0:08:03.66,0:08:05.74,Normal Dialog Text,,0,0,0,,{\rCHS}你告诉我不要遵从你的想法\N{\rENG}You told me not to do what you wanted.
 Dialogue: 100,0:08:08.11,0:08:09.26,Normal Dialog Text,,0,0,0,,{\rCHS}康妮在哪?\N{\rENG}Where is Connie?!
 Dialogue: 100,0:08:12.71,0:08:13.64,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文!\N{\rENG}Steven!
-Dialogue: 100,0:08:13.64,0:08:14.20,Normal Dialog Text,,0,0,0,,{\rCHS}康妮?\N{\rENG}Connie?
+Dialogue: 100,0:08:13.64,0:08:14.26,Normal Dialog Text,,0,0,0,,{\rCHS}康妮?\N{\rENG}Connie?
 Dialogue: 100,0:08:14.53,0:08:16.57,Normal Dialog Text,,0,0,0,,{\rCHS}康-康妮?! 那是你吗?!\N{\rENG}C-Connie?! Is that you?!
-Dialogue: 100,0:08:18.64,0:08:20.00,Normal Dialog Text,,0,0,0,,{\rCHS}请让我离开吧\N{\rENG}Please let me go.
-Dialogue: 100,0:08:20.02,0:08:21.64,Normal Dialog Text,,0,0,0,,{\rCHS}我想找到真正的康妮!\N{\rENG}I want to find the real Connie!
-Dialogue: 100,0:08:21.66,0:08:23.46,Normal Dialog Text,,0,0,0,,{\rCHS}你告诉我你想要...\N{\rENG}You told me you wanted...
+Dialogue: 100,0:08:18.64,0:08:19.77,Normal Dialog Text,,0,0,0,,{\rCHS}请让我离开吧\N{\rENG}Please let me go.
+Dialogue: 100,0:08:20.02,0:08:21.60,Normal Dialog Text,,0,0,0,,{\rCHS}我想找到真正的康妮!\N{\rENG}I want to find the real Connie!
+Dialogue: 100,0:08:21.60,0:08:23.46,Normal Dialog Text,,0,0,0,,{\rCHS}你告诉我你想要...\N{\rENG}You told me you wanted...
 Dialogue: 100,0:08:23.46,0:08:24.37,Normal Dialog Text,,0,0,0,,{\rCHS}这不重要了!\N{\rENG}It doesn't matter!
 Dialogue: 100,0:08:28.00,0:08:31.08,Normal Dialog Text,,0,0,0,,{\rCHS}求求你别跟着我了 我不想要你跟着我!\N{\rENG}Please don't follow me. I don't want you to follow me!
 Dialogue: 100,0:08:31.71,0:08:32.68,Normal Dialog Text,,0,0,0,,{\rCHS}推车!\N{\rENG}Cart!
@@ -239,16 +242,16 @@ Dialogue: 100,0:08:35.04,0:08:37.91,Normal Dialog Text,,0,0,0,,{\rCHS}呃...呃 
 Dialogue: 100,0:08:40.93,0:08:44.66,Normal Dialog Text,,0,0,0,,{\rCHS}呃...呃...呃...康妮 你能听到我吗?!\N{\rENG}Uh...Uh...Uh...Connie, can you hear me?!
 Dialogue: 100,0:08:44.66,0:08:46.95,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文? 史蒂文!\N{\rENG}Steven? Steven!
 Dialogue: 100,0:08:47.26,0:08:49.02,Normal Dialog Text,,0,0,0,,{\rCHS}康妮! 我马上就到了!\N{\rENG}Connie! I'm almost there!
-Dialogue: 100,0:08:49.02,0:08:50.17,Normal Dialog Text,,0,0,0,,{\rCHS}只要在飞一段...\N{\rENG}Just a little bit furthe...
+Dialogue: 100,0:08:49.02,0:08:50.17,Normal Dialog Text,,0,0,0,,{\rCHS}只要再飞一段...\N{\rENG}Just a little bit further...
 Dialogue: 100,0:08:53.20,0:08:53.87,Normal Dialog Text,,0,0,0,,{\rCHS}求你了!\N{\rENG}Please!
-Dialogue: 100,0:08:53.95,0:08:56.97,Normal Dialog Text,,0,0,0,,{\rCHS}我不想见到你! 我想见到真正的康妮!\N{\rENG}I don't want you! I want the real Connie!
+Dialogue: 100,0:08:53.87,0:08:56.97,Normal Dialog Text,,0,0,0,,{\rCHS}我不想见到你! 我想见到真正的康妮!\N{\rENG}I don't want you! I want the real Connie!
 Dialogue: 100,0:08:59.66,0:09:01.55,Normal Dialog Text,,0,0,0,,{\rCHS}我知道你真正想要的\N{\rENG}I know what you really want.
 Dialogue: 100,0:09:01.86,0:09:03.93,Normal Dialog Text,,0,0,0,,{\rCHS}我知道你真正的想法\N{\rENG}I know how you really feel.
 Dialogue: 100,0:09:03.93,0:09:05.04,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文?!\N{\rENG}Steven?!
-Dialogue: 100,0:09:08.08,0:09:10.36,Normal Dialog Text,,0,0,0,,{\rCHS}啊 史蒂文 谢天谢地! 你在...\N{\rENG}Ah, Steven, finally! There you...
+Dialogue: 100,0:09:08.08,0:09:10.28,Normal Dialog Text,,0,0,0,,{\rCHS}啊 史蒂文 谢天谢地! 你在...\N{\rENG}Ah, Steven, finally! There you...
 Dialogue: 100,0:09:10.66,0:09:11.17,Normal Dialog Text,,0,0,0,,{\rCHS}那?\N{\rENG}are?
 Dialogue: 100,0:09:11.17,0:09:13.48,Normal Dialog Text,,0,0,0,,{\rCHS}啊! 啊! 帮帮我!\N{\rENG}Ugh! Ugh! Help!
-Dialogue: 100,0:09:19.44,0:09:21.51,Normal Dialog Text,,0,0,0,,{\rCHS}离他远点!\N{\rENG}Keep away from him!
+Dialogue: 100,0:09:19.58,0:09:21.51,Normal Dialog Text,,0,0,0,,{\rCHS}离他远点!\N{\rENG}Keep away from him!
 Dialogue: 100,0:09:26.20,0:09:27.48,Normal Dialog Text,,0,0,0,,{\rCHS}我知道你喜欢她\N{\rENG}I know you like her.
 Dialogue: 100,0:09:29.75,0:09:31.92,Normal Dialog Text,,0,0,0,,{\rCHS}而且你也想让她喜欢你\N{\rENG}And I know you want her to like you, too.
 Dialogue: 100,0:09:32.22,0:09:34.22,Normal Dialog Text,,0,0,0,,{\rCHS}不! 别听!\N{\rENG}No! Don't listen!
