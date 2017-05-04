@@ -11,14 +11,13 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Steven Universe Styles
-Audio File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E06.Shirt.Club.DE.1080p.WEBRip.h264.AAC-AliQ.mp4
-Video File: ../../../Steven.Universe/AliQ/S02/Steven.Universe.S02E06.Shirt.Club.DE.1080p.WEBRip.h264.AAC-AliQ.mp4
+Audio File: E:/SU/season 2/[SpaceDash@CE] S02E06 - Shirt Club [1080p WEB_DL CropFix x264].mkv
+Video File: E:/SU/season 2/[SpaceDash@CE] S02E06 - Shirt Club [1080p WEB_DL CropFix x264].mkv
 Video AR Mode: 4
-Video AR Value: 1.774074
-Video Zoom Percent: 0.500000
-Scroll Position: 266
-Active Line: 270
-Video Position: 16201
+Video AR Value: 1.777778
+Video Zoom Percent: 0.250000
+Active Line: 255
+Video Position: 15301
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -67,249 +66,248 @@ Dialogue: 1,0:00:26.65,0:00:28.04,SU Team Member,,0,0,0,,{\pos(1725,680)}presisc
 Dialogue: 1,0:00:26.65,0:00:28.04,SU Team Title,,0,0,0,,{\pos(1725,740)}压制
 Dialogue: 1,0:00:26.65,0:00:28.04,SU Team Member,,0,0,0,,{\pos(1725,800)}presisco
 Dialogue: 0,0:00:26.65,0:00:28.04,SU Team Background,,0,0,0,,{\bord0\xshad-0\yshad16\pos(1725,860)}{\p1}m -1 122 b -1 -19 -19 -1 122 -1 l 251 -1 b 390 -1 377 -19 377 122 l 377 500 b 377 642 390 628 251 628 l 122 628 b -19 628 -1 642 -1 500 l -1 122 {\p0}
-Dialogue: 100,0:00:49.22,0:00:51.11,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠？！\N{\rENG}Pearl?!
-Dialogue: 100,0:00:51.11,0:00:52.52,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶？！\N{\rENG}Amethyst?!
-Dialogue: 100,0:00:52.52,0:00:54.49,Normal Dialog Text,,0,0,0,,{\rCHS}石榴？！\N{\rENG}Garnet?!
-Dialogue: 100,0:00:54.78,0:00:57.03,Normal Dialog Text,,0,0,0,,{\rCHS}你不用喊，史蒂文，我们就在这\N{\rENG}You don't have to yell, Steven. We're right here.
-Dialogue: 600,0:00:54.78,0:00:56.78,Hint,,0,0,0,,地上的家具与说明书源自宜家；珍珠拼了一集都没完工，说多了都是泪啊
-Dialogue: 100,0:00:57.30,0:00:59.34,Normal Dialog Text,,0,0,0,,{\rCHS}我知道，但我完成了这幅画\N{\rENG}I know, but I finished this drawing,
-Dialogue: 100,0:00:59.34,0:01:00.62,Normal Dialog Text,,0,0,0,,{\rCHS}而我非常想给你们看\N{\rENG}and I wanted to show it to you.
-Dialogue: 100,0:01:00.62,0:01:02.66,Normal Dialog Text,,0,0,0,,{\rCHS}哦！额，没问题\N{\rENG}Oh! Uh, of course.
-Dialogue: 100,0:01:03.08,0:01:04.18,Normal Dialog Text,,0,0,0,,{\rCHS}好的！\N{\rENG}All right!
-Dialogue: 100,0:01:05.46,0:01:08.88,Normal Dialog Text,,0,0,0,,{\rCHS}哈哈！吉他老爸教你弹吉他！\N{\rENG}Ha ha! Guitar Dad teaches you guitar!
-Dialogue: 100,0:01:09.58,0:01:10.67,Normal Dialog Text,,0,0,0,,{\rCHS}那是什么？\N{\rENG}What is that?
-Dialogue: 100,0:01:10.67,0:01:11.52,Normal Dialog Text,,0,0,0,,{\rCHS}那是我爸爸！\N{\rENG}It's my dad!
-Dialogue: 100,0:01:11.52,0:01:13.51,Normal Dialog Text,,0,0,0,,{\rCHS}他要开设吉他课程，\N{\rENG}He's going to start teaching guitar lessons,
-Dialogue: 100,0:01:13.51,0:01:14.90,Normal Dialog Text,,0,0,0,,{\rCHS}并任命我为公关人员\N{\rENG}and he made me his P.R. department.
-Dialogue: 100,0:01:15.68,0:01:17.47,Normal Dialog Text,,0,0,0,,{\rCHS}他嘴里的是什么？\N{\rENG}What's that stuff in his mouth?
+Dialogue: 100,0:00:49.22,0:00:51.11,Normal Dialog Text,,0,0,0,,{\rCHS}珍珠?! \N{\rENG}Pearl?!
+Dialogue: 100,0:00:51.11,0:00:52.52,Normal Dialog Text,,0,0,0,,{\rCHS}紫晶?! \N{\rENG}Amethyst?!
+Dialogue: 100,0:00:52.52,0:00:54.49,Normal Dialog Text,,0,0,0,,{\rCHS}石榴?! \N{\rENG}Garnet?!
+Dialogue: 100,0:00:54.78,0:00:57.03,Normal Dialog Text,,0,0,0,,{\rCHS}你不用喊, 史蒂文, 我们就在这\N{\rENG}You don't have to yell, Steven. We're right here.
+Dialogue: 600,0:00:54.78,0:00:56.78,Hint,,0,0,0,,地上的家具与说明书源自宜家; 珍珠拼了一集都没完工, 说多了都是泪啊
+Dialogue: 100,0:00:57.30,0:00:59.34,Normal Dialog Text,,0,0,0,,{\rCHS}我知道, 但我完成了这幅画\N{\rENG}I know, but I finished this drawing,
+Dialogue: 100,0:00:59.34,0:01:00.62,Normal Dialog Text,,0,0,0,,{\rCHS}我非常想给你们看\N{\rENG}and I wanted to show it to you.
+Dialogue: 100,0:01:00.62,0:01:02.66,Normal Dialog Text,,0,0,0,,{\rCHS}哦! 呃, 没问题\N{\rENG}Oh! Uh, of course.
+Dialogue: 100,0:01:03.08,0:01:04.18,Normal Dialog Text,,0,0,0,,{\rCHS}好的! \N{\rENG}All right!
+Dialogue: 100,0:01:05.46,0:01:08.88,Normal Dialog Text,,0,0,0,,{\rCHS}哈哈! 吉他老爸教你弹吉他! \N{\rENG}Ha ha! Guitar Dad teaches you guitar!
+Dialogue: 100,0:01:09.58,0:01:10.67,Normal Dialog Text,,0,0,0,,{\rCHS}那是什么? \N{\rENG}What is that?
+Dialogue: 100,0:01:10.67,0:01:11.52,Normal Dialog Text,,0,0,0,,{\rCHS}那是我爸爸! \N{\rENG}It's my dad!
+Dialogue: 100,0:01:11.52,0:01:13.51,Normal Dialog Text,,0,0,0,,{\rCHS}他要开设吉他课程, \N{\rENG}He's going to start teaching guitar lessons,
+Dialogue: 100,0:01:13.51,0:01:14.90,Normal Dialog Text,,0,0,0,,{\rCHS}就任命我为公关人员\N{\rENG}and he made me his P.R. department.
+Dialogue: 100,0:01:15.68,0:01:17.47,Normal Dialog Text,,0,0,0,,{\rCHS}他嘴里的是什么? \N{\rENG}What's that stuff in his mouth?
 Dialogue: 100,0:01:17.47,0:01:18.64,Normal Dialog Text,,0,0,0,,{\rCHS}那是他的牙齿\N{\rENG}Those are his teeth.
-Dialogue: 100,0:01:18.64,0:01:20.47,Normal Dialog Text,,0,0,0,,{\rCHS}这些闪电有什么意义？\N{\rENG}What are the lightning bolts for?
-Dialogue: 100,0:01:20.47,0:01:22.22,Normal Dialog Text,,0,0,0,,{\rCHS}额...其实，我-我只是试图表现\N{\rENG}Uh...well, I-I was trying to show
-Dialogue: 100,0:01:22.22,0:01:25.72,Normal Dialog Text,,0,0,0,,{\rCHS}我试图表现出我爸爸吉他弹得非常牛，然后...\N{\rENG}I was trying to show that dad really rocks on the guitar, and ...
+Dialogue: 100,0:01:18.64,0:01:20.47,Normal Dialog Text,,0,0,0,,{\rCHS}这些闪电有什么意义? \N{\rENG}What are the lightning bolts for?
+Dialogue: 100,0:01:20.47,0:01:22.22,Normal Dialog Text,,0,0,0,,{\rCHS}呃...其实, 我-我只是想表现\N{\rENG}Uh...well, I-I was trying to show
+Dialogue: 100,0:01:22.22,0:01:25.72,Normal Dialog Text,,0,0,0,,{\rCHS}我想表现出我爸爸吉他弹得非常牛, 然后...\N{\rENG}I was trying to show that dad really rocks on the guitar, and ...
 Dialogue: 100,0:01:25.72,0:01:28.22,Normal Dialog Text,,0,0,0,,{\rCHS}那应该有牛从吉他里往外掉啊\N{\rENG}Then there should be rocks falling out of the guitar.
-Dialogue: 600,0:01:25.72,0:01:28.22,Hint,,0,0,0,,原文直译为“有石头往外掉”，对应前句的rocks on the guitar，表现Gems对人类用语习惯的陌生
-Dialogue: 100,0:01:28.63,0:01:31.50,Normal Dialog Text,,0,0,0,,{\rCHS}我知道你的意思，但现在已经来不及了\N{\rENG}I hear what you're saying, but it's too late for notes.
+Dialogue: 100,0:01:28.63,0:01:31.50,Normal Dialog Text,,0,0,0,,{\rCHS}我懂你的意思, 但现在已经来不及了\N{\rENG}I hear what you're saying, but it's too late for notes.
 Dialogue: 100,0:01:31.50,0:01:32.76,Normal Dialog Text,,0,0,0,,{\rCHS}我用的擦不掉的马克笔\N{\rENG}This is permanent marker.
-Dialogue: 100,0:01:35.74,0:01:37.78,Normal Dialog Text,,0,0,0,,{\rCHS}这个可爱的传单讲的是什么，史蒂文？\N{\rENG}What's that cute flyer for, Steven?
-Dialogue: 100,0:01:37.78,0:01:40.20,Normal Dialog Text,,0,0,0,,{\rCHS}这个是给我吧做的！他能教你吉他\N{\rENG}It's for my dad! He'll teach you guitar.
-Dialogue: 100,0:01:40.20,0:01:42.84,Normal Dialog Text,,0,0,0,,{\rCHS}你们要报名吗？我爸爸弹得非常好！\N{\rENG}You guys want to sign up? My dad's really good!
+Dialogue: 100,0:01:35.74,0:01:37.78,Normal Dialog Text,,0,0,0,,{\rCHS}这个可爱的传单讲的是什么, 史蒂文? \N{\rENG}What's that cute flyer for, Steven?
+Dialogue: 100,0:01:37.78,0:01:40.20,Normal Dialog Text,,0,0,0,,{\rCHS}这个是给我爸做的! 他能教你吉他\N{\rENG}It's for my dad! He'll teach you guitar.
+Dialogue: 100,0:01:40.20,0:01:42.84,Normal Dialog Text,,0,0,0,,{\rCHS}你们要报名吗? 我爸爸弹得非常好! \N{\rENG}You guys want to sign up? My dad's really good!
 Dialogue: 100,0:01:42.84,0:01:44.62,Normal Dialog Text,,0,0,0,,{\rCHS}也许我会去看一下\N{\rENG}Maybe I'll stop by and check it out.
-Dialogue: 100,0:01:44.62,0:01:46.48,Normal Dialog Text,,0,0,0,,{\rCHS}这里，让我给你个传单，然后...\N{\rENG}Here, let me give you a flyer and ...
-Dialogue: 100,0:01:50.08,0:01:51.64,Normal Dialog Text,,0,0,0,,{\rCHS}欢迎光临甜甜圈店！\N{\rENG}Welcome to the big donut!
-Dialogue: 100,0:01:52.00,0:01:52.62,Normal Dialog Text,,0,0,0,,{\rCHS}嘿，巴克！\N{\rENG}Hey, Buck!
-Dialogue: 100,0:01:52.62,0:01:56.10,Normal Dialog Text,,0,0,0,,{\rCHS}哦！什么？巴-巴-巴啊啊啊克！\N{\rENG}Oh! What? Buck, Buck, Bu-u-u-u-ck!
-Dialogue: 100,0:01:56.56,0:01:57.76,Normal Dialog Text,,0,0,0,,{\rCHS}过得怎么样，兄弟？\N{\rENG}What's going on, man?
-Dialogue: 100,0:01:57.76,0:01:59.02,Normal Dialog Text,,0,0,0,,{\rCHS}我们今天能为你提供什么？\N{\rENG}What can we get for you today?
-Dialogue: 100,0:02:04.46,0:02:05.90,Normal Dialog Text,,0,0,0,,{\rCHS}我能来份卡普里沙拉吗？\N{\rENG}Can I get a caprese salad?
-Dialogue: 100,0:02:06.44,0:02:07.32,Normal Dialog Text,,0,0,0,,{\rCHS}哦，对不起，巴克\N{\rENG}Oh, sorry, Buck,
+Dialogue: 100,0:01:44.62,0:01:46.48,Normal Dialog Text,,0,0,0,,{\rCHS}这里, 我给你个传单, 然后...\N{\rENG}Here, let me give you a flyer and ...
+Dialogue: 100,0:01:50.08,0:01:51.64,Normal Dialog Text,,0,0,0,,{\rCHS}欢迎光临甜甜圈店! \N{\rENG}Welcome to the big donut!
+Dialogue: 100,0:01:52.00,0:01:52.62,Normal Dialog Text,,0,0,0,,{\rCHS}嘿, 巴克! \N{\rENG}Hey, Buck!
+Dialogue: 100,0:01:52.62,0:01:56.10,Normal Dialog Text,,0,0,0,,{\rCHS}哦! 什么? 巴-巴-巴啊啊啊克! \N{\rENG}Oh! What? Buck, Buck, Bu-u-u-u-ck!
+Dialogue: 100,0:01:56.56,0:01:57.76,Normal Dialog Text,,0,0,0,,{\rCHS}过得怎么样, 兄弟? \N{\rENG}What's going on, man?
+Dialogue: 100,0:01:57.76,0:01:59.02,Normal Dialog Text,,0,0,0,,{\rCHS}你想来点儿什么? \N{\rENG}What can we get for you today?
+Dialogue: 100,0:02:04.46,0:02:05.90,Normal Dialog Text,,0,0,0,,{\rCHS}我能来份卡普里沙拉吗? \N{\rENG}Can I get a caprese salad?
+Dialogue: 100,0:02:06.44,0:02:07.32,Normal Dialog Text,,0,0,0,,{\rCHS}哦, 对不起, 巴克\N{\rENG}Oh, sorry, Buck,
 Dialogue: 100,0:02:07.32,0:02:08.19,Normal Dialog Text,,0,0,0,,{\rCHS}我们只提供甜...\N{\rENG}we only serve don...
-Dialogue: 100,0:02:08.19,0:02:09.65,Normal Dialog Text,,0,0,0,,{\rCHS}甜而无忧，巴克！\N{\rENG}Do-nut worry, Buck!
-Dialogue: 100,0:02:09.65,0:02:11.31,Normal Dialog Text,,0,0,0,,{\rCHS}我会为你现做的...毫无压力！\N{\rENG}I'll whip you up a salad ...no sweat!
-Dialogue: 100,0:02:11.31,0:02:12.38,Normal Dialog Text,,0,0,0,,{\rCHS}我马上就回来！\N{\rENG}I'll be right back!
-Dialogue: 100,0:02:12.38,0:02:15.18,Normal Dialog Text,,0,0,0,,{\rCHS}拉尔斯，我们甚至都没有蔬菜！\N{\rENG}Lars, we don't even have vegetables here!
-Dialogue: 100,0:02:17.92,0:02:18.86,Normal Dialog Text,,0,0,0,,{\rCHS}吉他老爸是什么？\N{\rENG}what's a Guitar Dad?
-Dialogue: 100,0:02:19.22,0:02:21.22,Normal Dialog Text,,0,0,0,,{\rCHS}喜欢我的传单吗？那是我爸爸！\N{\rENG}Like my flyer? It's for my dad!
-Dialogue: 100,0:02:21.22,0:02:23.22,Normal Dialog Text,,0,0,0,,{\rCHS}他能教你弹吉他！\N{\rENG}He'll teach you guitar!
-Dialogue: 100,0:02:23.54,0:02:24.95,Normal Dialog Text,,0,0,0,,{\rCHS}给，拿一张吧！\N{\rENG}Here, take one of these with you!
-Dialogue: 100,0:02:25.52,0:02:26.94,Normal Dialog Text,,0,0,0,,{\rCHS}不如直接穿上！\N{\rENG}Actually, just wear it!
-Dialogue: 100,0:02:30.26,0:02:31.42,Normal Dialog Text,,0,0,0,,{\rCHS}你怕痒吗？\N{\rENG}Are you ticklish?
-Dialogue: 100,0:02:31.98,0:02:33.70,Normal Dialog Text,,0,0,0,,{\rCHS}这能成为非常炫的衬衫，伙计\N{\rENG}This would make a rad shirt, man.
-Dialogue: 100,0:02:33.70,0:02:34.34,Normal Dialog Text,,0,0,0,,{\rCHS}真的？\N{\rENG}Really?
-Dialogue: 100,0:02:34.72,0:02:37.46,Normal Dialog Text,,0,0,0,,{\rCHS}没错！让我们将传单变为T恤吧！\N{\rENG}Yeah! Let's make your flyer into T-shirts!
-Dialogue: 100,0:02:37.72,0:02:39.63,Normal Dialog Text,,0,0,0,,{\rCHS}哦，伙计！我爸爸肯定会喜欢！\N{\rENG}Oh, man!My dad would love that!
+Dialogue: 100,0:02:08.19,0:02:09.65,Normal Dialog Text,,0,0,0,,{\rCHS}甜而无忧, 巴克! \N{\rENG}Do-nut worry, Buck!
+Dialogue: 100,0:02:09.65,0:02:11.31,Normal Dialog Text,,0,0,0,,{\rCHS}我会为你现做的...毫无压力! \N{\rENG}I'll whip you up a salad ...no sweat!
+Dialogue: 100,0:02:11.31,0:02:12.38,Normal Dialog Text,,0,0,0,,{\rCHS}我马上就回来! \N{\rENG}I'll be right back!
+Dialogue: 100,0:02:12.38,0:02:15.18,Normal Dialog Text,,0,0,0,,{\rCHS}拉尔斯, 我们这儿连蔬菜都没有! \N{\rENG}Lars, we don't even have vegetables here!
+Dialogue: 100,0:02:17.92,0:02:18.86,Normal Dialog Text,,0,0,0,,{\rCHS}吉他老爸是什么? \N{\rENG}what's a Guitar Dad?
+Dialogue: 100,0:02:19.22,0:02:21.22,Normal Dialog Text,,0,0,0,,{\rCHS}喜欢我的传单吗? 那是我爸爸! \N{\rENG}Like my flyer? It's for my dad!
+Dialogue: 100,0:02:21.22,0:02:23.22,Normal Dialog Text,,0,0,0,,{\rCHS}他能教你弹吉他! \N{\rENG}He'll teach you guitar!
+Dialogue: 100,0:02:23.54,0:02:24.95,Normal Dialog Text,,0,0,0,,{\rCHS}给, 拿一张吧! \N{\rENG}Here, take one of these with you!
+Dialogue: 100,0:02:25.52,0:02:26.94,Normal Dialog Text,,0,0,0,,{\rCHS}不如直接穿上! \N{\rENG}Actually, just wear it!
+Dialogue: 100,0:02:30.26,0:02:31.42,Normal Dialog Text,,0,0,0,,{\rCHS}你怕痒吗? \N{\rENG}Are you ticklish?
+Dialogue: 100,0:02:31.98,0:02:33.70,Normal Dialog Text,,0,0,0,,{\rCHS}这个做成衬衫会超炫的, 伙计\N{\rENG}This would make a rad shirt, man.
+Dialogue: 100,0:02:33.70,0:02:34.34,Normal Dialog Text,,0,0,0,,{\rCHS}真的? \N{\rENG}Really?
+Dialogue: 100,0:02:34.72,0:02:37.46,Normal Dialog Text,,0,0,0,,{\rCHS}没错! 咱们来把传单做成T恤吧! \N{\rENG}Yeah! Let's make your flyer into T-shirts!
+Dialogue: 100,0:02:37.72,0:02:39.63,Normal Dialog Text,,0,0,0,,{\rCHS}哦, 伙计! 我爸爸肯定会喜欢! \N{\rENG}Oh, man!My dad would love that!
 Dialogue: 100,0:02:39.63,0:02:40.84,Normal Dialog Text,,0,0,0,,{\rCHS}来击个掌\N{\rENG}Gimme five on it.
-Dialogue: 100,0:02:42.16,0:02:43.28,Normal Dialog Text,,0,0,0,,{\rCHS}哦，你错位了\N{\rENG}Oh, you missed.
-Dialogue: 100,0:02:44.48,0:02:47.17,Normal Dialog Text,,0,0,0,,{\rCHS}你能回来接触家族事业是非常好的事情，儿子！\N{\rENG}I think it's swell you're returning to the family business, son!
-Dialogue: 100,0:02:47.17,0:02:49.58,Normal Dialog Text,,0,0,0,,{\rCHS}打算帮助你爸再次继任吗？\N{\rENG}Gonna help the old man get re-elected again, eh?
-Dialogue: 100,0:02:49.58,0:02:50.96,Normal Dialog Text,,0,0,0,,{\rCHS}啊，好儿子！\N{\rENG}Aw, son!
-Dialogue: 100,0:02:52.68,0:02:54.56,Normal Dialog Text,,0,0,0,,{\rCHS}我不是为了竞选，爸爸\N{\rENG}It's not for campaign stuff, dad.
+Dialogue: 100,0:02:42.16,0:02:43.28,Normal Dialog Text,,0,0,0,,{\rCHS}哦, 你错位了\N{\rENG}Oh, you missed.
+Dialogue: 100,0:02:44.48,0:02:47.17,Normal Dialog Text,,0,0,0,,{\rCHS}你能接手家族事业真是太好了, 儿子! \N{\rENG}I think it's swell you're returning to the family business, son!
+Dialogue: 100,0:02:47.17,0:02:49.58,Normal Dialog Text,,0,0,0,,{\rCHS}打算帮助你爸再次继任吗? \N{\rENG}Gonna help the old man get re-elected again, eh?
+Dialogue: 100,0:02:49.58,0:02:50.96,Normal Dialog Text,,0,0,0,,{\rCHS}啊, 好儿子! \N{\rENG}Aw, son!
+Dialogue: 100,0:02:52.68,0:02:54.56,Normal Dialog Text,,0,0,0,,{\rCHS}我不是为了竞选, 爸爸\N{\rENG}It's not for campaign stuff, dad.
 Dialogue: 100,0:02:54.90,0:02:56.58,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文和我在创作艺术\N{\rENG}Steven and I are making art.
-Dialogue: 100,0:02:57.50,0:02:58.44,Normal Dialog Text,,0,0,0,,{\rCHS}艺术！\N{\rENG}Art!
-Dialogue: 100,0:02:58.96,0:03:01.66,Normal Dialog Text,,0,0,0,,{\rCHS}艺术吗？我自己不是很了解，\N{\rENG}Art, huh?I don't understand it myself,
-Dialogue: 100,0:03:01.66,0:03:04.30,Normal Dialog Text,,0,0,0,,{\rCHS}但作为男孩必须要有爱好和抱负！\N{\rENG}but a boy's got to have interests and ambitions!
-Dialogue: 100,0:03:06.66,0:03:08.66,Normal Dialog Text,,0,0,0,,{\rCHS}这些东西能用来制作T恤？\N{\rENG}This stuff can be used to make T-shirts?
-Dialogue: 100,0:03:08.66,0:03:10.16,Normal Dialog Text,,0,0,0,,{\rCHS}哦，没错，我有所有\N{\rENG}Oh, yeah, I've got all the
-Dialogue: 100,0:03:10.16,0:03:12.71,Normal Dialog Text,,0,0,0,,{\rCHS}最前沿，最先进的丝网印刷设备\N{\rENG}latest, state-of-the-art screen-printing equipment
+Dialogue: 100,0:02:57.50,0:02:58.44,Normal Dialog Text,,0,0,0,,{\rCHS}艺术! \N{\rENG}Art!
+Dialogue: 100,0:02:58.96,0:03:01.66,Normal Dialog Text,,0,0,0,,{\rCHS}艺术吗? 我自己不是很了解, \N{\rENG}Art, huh?I don't understand it myself,
+Dialogue: 100,0:03:01.66,0:03:04.30,Normal Dialog Text,,0,0,0,,{\rCHS}但作为男孩必须要有爱好和抱负! \N{\rENG}but a boy's got to have interests and ambitions!
+Dialogue: 100,0:03:06.66,0:03:08.66,Normal Dialog Text,,0,0,0,,{\rCHS}这些东西能用来制作T恤? \N{\rENG}This stuff can be used to make T-shirts?
+Dialogue: 100,0:03:08.66,0:03:10.16,Normal Dialog Text,,0,0,0,,{\rCHS}哦, 没错, 我有所有\N{\rENG}Oh, yeah, I've got all the
+Dialogue: 100,0:03:10.16,0:03:12.71,Normal Dialog Text,,0,0,0,,{\rCHS}最前沿, 最先进的丝网印刷设备\N{\rENG}latest, state-of-the-art screen-printing equipment
 Dialogue: 100,0:03:12.71,0:03:17.00,Normal Dialog Text,,0,0,0,,{\rCHS}这可是多年竞选和市长事务的积累\N{\rENG}from years of campaigning and other some-such mayorly things.
 Dialogue: 600,0:03:14.42,0:03:16.42,Hint,,0,0,0,,左侧标语Read My Lips: No New Faxes出自美国总统乔治·布什
-Dialogue: 100,0:03:17.00,0:03:20.20,Normal Dialog Text,,0,0,0,,{\rCHS}像这周，我要为一个长椅进行纪念活动！\N{\rENG}Like this week, I'm commemorating a bench!
-Dialogue: 600,0:03:17.00,0:03:19.00,Hint,,0,0,0,,此处的活动源自动物之森·New Leaf，其中玩家所扮演的市长无论是多小的事都会进行庆祝
-Dialogue: 100,0:03:20.64,0:03:24.40,Normal Dialog Text,,0,0,0,,{\rCHS}“欢迎来到...‘长椅’市”？真够节俭！\N{\rENG}"Welcome to...'Bench' City"? Thrifty!
-Dialogue: 100,0:03:25.38,0:03:27.01,Normal Dialog Text,,0,0,0,,{\rCHS}爸爸，你不能这么搞！\N{\rENG}Dad, you can't use this!
-Dialogue: 100,0:03:27.01,0:03:28.32,Normal Dialog Text,,0,0,0,,{\rCHS}为什么不呢？\N{\rENG}Why not?
-Dialogue: 100,0:03:28.32,0:03:32.36,Normal Dialog Text,,0,0,0,,{\rCHS}你知道的，我得Gank年轻人的选票，帅锅！\N{\rENG}You know, I got to "gank dat" youth vote, boyeeee!
-Dialogue: 100,0:03:32.36,0:03:33.44,Normal Dialog Text,,0,0,0,,{\rCHS}爸爸，别这样\N{\rENG}Dad, stop.
-Dialogue: 100,0:03:34.66,0:03:35.60,Normal Dialog Text,,0,0,0,,{\rCHS}这是什么？\N{\rENG}What's this?
-Dialogue: 100,0:03:36.60,0:03:37.98,Normal Dialog Text,,0,0,0,,{\rCHS}你拿的是什么？\N{\rENG}What have you got there?
-Dialogue: 100,0:03:40.12,0:03:42.40,Normal Dialog Text,,0,0,0,,{\rCHS}我已经很多年没看过这个了！\N{\rENG}I haven't seen this in years!
-Dialogue: 100,0:03:42.76,0:03:44.74,Normal Dialog Text,,0,0,0,,{\rCHS}还记得你画这个的时候吗，巴克？\N{\rENG}Remember when you drew this, Buck?
+Dialogue: 100,0:03:17.00,0:03:20.20,Normal Dialog Text,,0,0,0,,{\rCHS}像这周, 我要为一个长椅进行纪念活动! \N{\rENG}Like this week, I'm commemorating a bench!
+Dialogue: 600,0:03:17.00,0:03:19.00,Hint,,0,0,0,,此处的活动源自动物之森·New Leaf, 其中玩家所扮演的市长无论是多小的事都会进行庆祝
+Dialogue: 100,0:03:20.64,0:03:24.40,Normal Dialog Text,,0,0,0,,{\rCHS}"欢迎来到...'长椅' 市" ? 真够节俭! \N{\rENG}"Welcome to...'Bench' City"? Thrifty!
+Dialogue: 100,0:03:25.38,0:03:27.01,Normal Dialog Text,,0,0,0,,{\rCHS}爸爸, 你不能这么搞! \N{\rENG}Dad, you can't use this!
+Dialogue: 100,0:03:27.01,0:03:28.32,Normal Dialog Text,,0,0,0,,{\rCHS}为什么不呢? \N{\rENG}Why not?
+Dialogue: 100,0:03:28.32,0:03:32.36,Normal Dialog Text,,0,0,0,,{\rCHS}你知道的, 我得Gank年轻人的选票, 帅锅! \N{\rENG}You know, I got to "gank dat" youth vote, boyeeee!
+Dialogue: 100,0:03:32.36,0:03:33.44,Normal Dialog Text,,0,0,0,,{\rCHS}爸爸, 别这样\N{\rENG}Dad, stop.
+Dialogue: 100,0:03:34.66,0:03:35.60,Normal Dialog Text,,0,0,0,,{\rCHS}这是什么? \N{\rENG}What's this?
+Dialogue: 100,0:03:36.60,0:03:37.98,Normal Dialog Text,,0,0,0,,{\rCHS}你拿的是什么? \N{\rENG}What have you got there?
+Dialogue: 100,0:03:40.12,0:03:42.40,Normal Dialog Text,,0,0,0,,{\rCHS}我已经很多年没看过这个了! \N{\rENG}I haven't seen this in years!
+Dialogue: 100,0:03:42.76,0:03:44.74,Normal Dialog Text,,0,0,0,,{\rCHS}还记得你画这个的时候吗, 巴克? \N{\rENG}Remember when you drew this, Buck?
 Dialogue: 100,0:03:45.42,0:03:49.32,Normal Dialog Text,,0,0,0,,{\rCHS}你急着要将它展示给你好动的小朋友们\N{\rENG}You couldn't wait to show it off to all your little montessori friends.
 Dialogue: 600,0:03:45.42,0:03:47.42,Hint,,0,0,0,,Montessori指著名幼儿教育家玛利亚·蒙台梭利所建立的专门针对难以融入平常课堂的孩子的学校
-Dialogue: 100,0:03:49.32,0:03:51.33,Normal Dialog Text,,0,0,0,,{\rCHS}好吧，爸爸！谢谢你的帮助，再见！\N{\rENG}Okay, dad! Thanks for all your help. See you later! Bye.
-Dialogue: 100,0:03:51.33,0:03:52.41,Normal Dialog Text,,0,0,0,,{\rCHS}好吧，孩子！\N{\rENG}All right, kids!
-Dialogue: 100,0:03:52.41,0:03:55.58,Normal Dialog Text,,0,0,0,,{\rCHS}我是说，中东和平，霍姆斯！\N{\rENG}I mean, peace in the Middle East, Holmes!
+Dialogue: 100,0:03:49.32,0:03:51.33,Normal Dialog Text,,0,0,0,,{\rCHS}好吧, 爸爸! 谢谢你的帮助, 再见! \N{\rENG}Okay, dad! Thanks for all your help. See you later! Bye.
+Dialogue: 100,0:03:51.33,0:03:52.41,Normal Dialog Text,,0,0,0,,{\rCHS}好吧, 孩子! \N{\rENG}All right, kids!
+Dialogue: 100,0:03:52.41,0:03:55.58,Normal Dialog Text,,0,0,0,,{\rCHS}我是说, 中东和平, 霍姆斯! \N{\rENG}I mean, peace in the Middle East, Holmes!
 Dialogue: 600,0:03:52.41,0:03:55.58,Hint,,0,0,0,,peace in the Middle East出自美国总统吉米·卡特
 Dialogue: 100,0:03:56.12,0:03:57.13,Normal Dialog Text,,0,0,0,,{\rCHS}太酷了\N{\rENG}So cool.
 Dialogue: 100,0:03:58.78,0:04:00.34,Normal Dialog Text,,0,0,0,,{\rCHS}让我们赶紧开始吧\N{\rENG}Let's just get started already.
-Dialogue: 100,0:04:18.18,0:04:18.90,Normal Dialog Text,,0,0,0,,{\rCHS}叼\N{\rENG}Swag. 
-Dialogue: 100,0:04:19.38,0:04:21.48,Normal Dialog Text,,0,0,0,,{\rCHS}现在所有人都想去找爸爸上课了!\N{\rENG}Now everyone's gonna want lessons from dad!
-Dialogue: 100,0:04:21.48,0:04:23.24,Normal Dialog Text,,0,0,0,,{\rCHS}这不止关于你爸爸，史蒂文\N{\rENG}This is bigger than your dad, Steven.
+Dialogue: 100,0:04:18.18,0:04:18.90,Normal Dialog Text,,0,0,0,,{\rCHS}叼\N{\rENG}Swag.
+Dialogue: 100,0:04:19.38,0:04:21.48,Normal Dialog Text,,0,0,0,,{\rCHS}现在所有人都会想去找爸爸上课了!\N{\rENG}Now everyone's gonna want lessons from dad!
+Dialogue: 100,0:04:21.48,0:04:23.24,Normal Dialog Text,,0,0,0,,{\rCHS}这不止关于你爸爸, 史蒂文\N{\rENG}This is bigger than your dad, Steven.
 Dialogue: 100,0:04:23.72,0:04:24.16,Normal Dialog Text,,0,0,0,,{\rCHS}这是艺术\N{\rENG}It's art.
-Dialogue: 100,0:04:24.56,0:04:26.58,Normal Dialog Text,,0,0,0,,{\rCHS}而它将会在公众间刮起一场旋风\N{\rENG}And it's gonna flood the public consciousness.
-Dialogue: 100,0:04:27.37,0:04:28.70,Normal Dialog Text,,0,0,0,,{\rCHS}那么，让我们赶快散发吧！\N{\rENG}Well, let's start handing them out!
+Dialogue: 100,0:04:24.56,0:04:26.58,Normal Dialog Text,,0,0,0,,{\rCHS}这将会在公众间刮起一场旋风\N{\rENG}And it's gonna flood the public consciousness.
+Dialogue: 100,0:04:27.37,0:04:28.70,Normal Dialog Text,,0,0,0,,{\rCHS}那么, 让我们赶快散发吧! \N{\rENG}Well, let's start handing them out!
 Dialogue: 100,0:04:29.04,0:04:29.80,Normal Dialog Text,,0,0,0,,{\rCHS}图森破\N{\rENG}Too simple.
 Dialogue: 100,0:04:30.20,0:04:31.50,Normal Dialog Text,,0,0,0,,{\rCHS}我们得引起话题\N{\rENG}We need to get controversial.
-Dialogue: 100,0:04:31.88,0:04:34.50,Normal Dialog Text,,0,0,0,,{\rCHS}我们得搞个...BOOM！...大新闻\N{\rENG}We need to create ...Boom! ... a scene.
+Dialogue: 100,0:04:31.88,0:04:34.50,Normal Dialog Text,,0,0,0,,{\rCHS}我们得搞个...BOOM! ...大新闻\N{\rENG}We need to create ...Boom! ... a scene.
 Dialogue: 100,0:04:35.52,0:04:37.16,Normal Dialog Text,,0,0,0,,{\rCHS}搜寻目标\N{\rENG}Scanning for targets.
-Dialogue: 100,0:04:37.74,0:04:39.78,Normal Dialog Text,,0,0,0,,{\rCHS}T恤大炮已装填待命！\N{\rENG}T-shirt cannon loaded and ready!
-Dialogue: 100,0:04:43.06,0:04:44.80,Normal Dialog Text,,0,0,0,,{\rCHS}发现酸奶油！\N{\rENG}Sour Cream sighted!
-Dialogue: 100,0:04:48.16,0:04:50.54,Normal Dialog Text,,0,0,0,,{\rCHS}准备！瞄准！\N{\rENG}Get ready! Take aim!
-Dialogue: 100,0:04:50.54,0:04:52.20,Normal Dialog Text,,0,0,0,,{\rCHS}然后。。。\N{\rENG}And..
-Dialogue: 100,0:04:55.10,0:04:56.60,Normal Dialog Text,,0,0,0,,{\rCHS}发生了什么？\N{\rENG}What in the world?
-Dialogue: 100,0:04:58.38,0:05:02.34,Normal Dialog Text,,0,0,0,,{\rCHS}这真是打到我头上的最酷的东西！\N{\rENG}This is the coolest thing I've ever been hit in the head with!
-Dialogue: 100,0:05:02.65,0:05:04.86,Normal Dialog Text,,0,0,0,,{\rCHS}发现罗纳多，瞄准！\N{\rENG}Ronaldo spotted.Take aim!
-Dialogue: 100,0:05:06.84,0:05:09.22,Normal Dialog Text,,0,0,0,,{\rCHS}喔！搞毛？！呃？\N{\rENG}Whoa! What the heck?!Huh?
-Dialogue: 100,0:05:10.34,0:05:11.94,Normal Dialog Text,,0,0,0,,{\rCHS}喔！怪！\N{\rENG}Whoa! Weird!
-Dialogue: 100,0:05:12.22,0:05:16.12,Normal Dialog Text,,0,0,0,,{\rCHS}某种外星老爹吉他衬衫？\N{\rENG}Some kind of extra terrestrial space dad guitar shirt?
-Dialogue: 100,0:05:16.50,0:05:20.90,Normal Dialog Text,,0,0,0,,{\rCHS}所以，你们总算决定要进行首次接触了？\N{\rENG}So, you've finally decided to make first contact, huh?
-Dialogue: 100,0:05:20.90,0:05:23.18,Normal Dialog Text,,0,0,0,,{\rCHS}你们在哪？！\N{\rENG}Where are you?!
-Dialogue: 100,0:05:23.76,0:05:25.58,Normal Dialog Text,,0,0,0,,{\rCHS}发现拉尔斯，瞄准！\N{\rENG}Lars sighted.Take aim!
-Dialogue: 100,0:05:28.20,0:05:30.70,Normal Dialog Text,,0,0,0,,{\rCHS}搞毛。。。这是什么渣渣？\N{\rENG}What the...What is this garbage?
-Dialogue: 100,0:05:32.48,0:05:33.58,Normal Dialog Text,,0,0,0,,{\rCHS}巴克干的？\N{\rENG}Buck made this?
-Dialogue: 100,0:05:36.94,0:05:39.74,Normal Dialog Text,,0,0,0,,{\rCHS}这真是有趣！谢谢，巴克！\N{\rENG}This is hilarious! Thanks, Buck!
-Dialogue: 100,0:05:40.64,0:05:41.44,Normal Dialog Text,,0,0,0,,{\rCHS}干杯！\N{\rENG}Cheers!
-Dialogue: 100,0:05:43.38,0:05:45.20,Normal Dialog Text,,0,0,0,,{\rCHS}巴克，这可真是个好主意啊！\N{\rENG}Buck, this was such a good idea!
-Dialogue: 100,0:05:45.86,0:05:48.32,Normal Dialog Text,,0,0,0,,{\rCHS}我不知道为什么我们不早点合作！\N{\rENG}I don't know why we didn't collaborate on a project sooner!
-Dialogue: 100,0:05:48.78,0:05:50.56,Normal Dialog Text,,0,0,0,,{\rCHS}这会让我爸非常高兴的！\N{\rENG}This will make my dad so happy!
+Dialogue: 100,0:04:37.74,0:04:39.78,Normal Dialog Text,,0,0,0,,{\rCHS}T恤大炮已装填待命! \N{\rENG}T-shirt cannon loaded and ready!
+Dialogue: 100,0:04:43.06,0:04:44.80,Normal Dialog Text,,0,0,0,,{\rCHS}发现酸奶油! \N{\rENG}Sour Cream sighted!
+Dialogue: 100,0:04:48.16,0:04:50.54,Normal Dialog Text,,0,0,0,,{\rCHS}准备! 瞄准! \N{\rENG}Get ready! Take aim!
+Dialogue: 100,0:04:50.54,0:04:52.20,Normal Dialog Text,,0,0,0,,{\rCHS}然后... \N{\rENG}And..
+Dialogue: 100,0:04:55.10,0:04:56.60,Normal Dialog Text,,0,0,0,,{\rCHS}发生了什么? \N{\rENG}What in the world?
+Dialogue: 100,0:04:58.38,0:05:02.34,Normal Dialog Text,,0,0,0,,{\rCHS}这真是打到我头上的最酷的东西! \N{\rENG}This is the coolest thing I've ever been hit in the head with!
+Dialogue: 100,0:05:02.65,0:05:04.86,Normal Dialog Text,,0,0,0,,{\rCHS}发现罗纳多, 瞄准! \N{\rENG}Ronaldo spotted.Take aim!
+Dialogue: 100,0:05:06.84,0:05:09.22,Normal Dialog Text,,0,0,0,,{\rCHS}喔! 搞毛? ! 呃? \N{\rENG}Whoa! What the heck?!Huh?
+Dialogue: 100,0:05:10.34,0:05:11.94,Normal Dialog Text,,0,0,0,,{\rCHS}喔! 怪! \N{\rENG}Whoa! Weird!
+Dialogue: 100,0:05:12.22,0:05:16.12,Normal Dialog Text,,0,0,0,,{\rCHS}某种外星老爹吉他衬衫? \N{\rENG}Some kind of extra terrestrial space dad guitar shirt?
+Dialogue: 100,0:05:16.50,0:05:20.90,Normal Dialog Text,,0,0,0,,{\rCHS}所以, 你们总算决定要进行首次接触了? \N{\rENG}So, you've finally decided to make first contact, huh?
+Dialogue: 100,0:05:20.90,0:05:23.18,Normal Dialog Text,,0,0,0,,{\rCHS}你们在哪? ! \N{\rENG}Where are you?!
+Dialogue: 100,0:05:23.76,0:05:25.58,Normal Dialog Text,,0,0,0,,{\rCHS}发现拉尔斯, 瞄准! \N{\rENG}Lars sighted.Take aim!
+Dialogue: 100,0:05:28.20,0:05:30.70,Normal Dialog Text,,0,0,0,,{\rCHS}搞毛... 这是什么渣渣? \N{\rENG}What the...What is this garbage?
+Dialogue: 100,0:05:32.48,0:05:33.58,Normal Dialog Text,,0,0,0,,{\rCHS}巴克干的? \N{\rENG}Buck made this?
+Dialogue: 100,0:05:36.94,0:05:39.74,Normal Dialog Text,,0,0,0,,{\rCHS}这真是有趣! 谢谢, 巴克! \N{\rENG}This is hilarious! Thanks, Buck!
+Dialogue: 100,0:05:40.64,0:05:41.44,Normal Dialog Text,,0,0,0,,{\rCHS}干杯! \N{\rENG}Cheers!
+Dialogue: 100,0:05:43.38,0:05:45.20,Normal Dialog Text,,0,0,0,,{\rCHS}巴克, 这可真是个好主意啊! \N{\rENG}Buck, this was such a good idea!
+Dialogue: 100,0:05:45.86,0:05:48.32,Normal Dialog Text,,0,0,0,,{\rCHS}我不知道为什么我们不早点合作! \N{\rENG}I don't know why we didn't collaborate on a project sooner!
+Dialogue: 100,0:05:48.78,0:05:50.56,Normal Dialog Text,,0,0,0,,{\rCHS}这会让我爸非常高兴的! \N{\rENG}This will make my dad so happy!
 Dialogue: 100,0:05:50.56,0:05:53.37,Normal Dialog Text,,0,0,0,,{\rCHS}我等不及要路过他那里看看表情了\N{\rENG}I can't wait to see the look on his face when I stop by later.
-Dialogue: 100,0:05:53.37,0:05:55.88,Normal Dialog Text,,0,0,0,,{\rCHS}没错，肯定能用来开心一下\N{\rENG}Yeah. Should be good for a laugh.
-Dialogue: 100,0:05:56.42,0:05:58.16,Normal Dialog Text,,0,0,0,,{\rCHS}哈？为什么这么说....\N{\rENG}Huh? Why would it be good for a ...
-Dialogue: 100,0:05:58.26,0:06:01.88,Normal Dialog Text,,0,0,0,,{\rCHS}妹子！来看看我的新衬衫！\N{\rENG}Girl! Check out my new shirt!
-Dialogue: 100,0:06:01.88,0:06:03.22,Normal Dialog Text,,0,0,0,,{\rCHS}这太可爱了！\N{\rENG}It's really cute!
-Dialogue: 100,0:06:03.22,0:06:04.17,Normal Dialog Text,,0,0,0,,{\rCHS}你从哪搞的？\N{\rENG}Where'd you get it?
+Dialogue: 100,0:05:53.37,0:05:55.88,Normal Dialog Text,,0,0,0,,{\rCHS}没错, 肯定能用来开心一下\N{\rENG}Yeah. Should be good for a laugh.
+Dialogue: 100,0:05:56.42,0:05:58.16,Normal Dialog Text,,0,0,0,,{\rCHS}哈? 为什么这么说....\N{\rENG}Huh? Why would it be good for a ...
+Dialogue: 100,0:05:58.26,0:06:01.88,Normal Dialog Text,,0,0,0,,{\rCHS}妹子! 来看看我的新衬衫! \N{\rENG}Girl! Check out my new shirt!
+Dialogue: 100,0:06:01.88,0:06:03.22,Normal Dialog Text,,0,0,0,,{\rCHS}这太可爱了! \N{\rENG}It's really cute!
+Dialogue: 100,0:06:03.22,0:06:04.17,Normal Dialog Text,,0,0,0,,{\rCHS}你从哪搞的? \N{\rENG}Where'd you get it?
 Dialogue: 100,0:06:04.17,0:06:04.96,Normal Dialog Text,,0,0,0,,{\rCHS}我不知道\N{\rENG}I don't know.
 Dialogue: 100,0:06:04.96,0:06:07.63,Normal Dialog Text,,0,0,0,,{\rCHS}我在外面散步时它直接掉到我的面前\N{\rENG}It just landed in front of me when I was out walking.
-Dialogue: 100,0:06:07.63,0:06:08.68,Normal Dialog Text,,0,0,0,,{\rCHS}不过，如果我是你，\N{\rENG}Well, if I were you, 
+Dialogue: 100,0:06:07.63,0:06:08.68,Normal Dialog Text,,0,0,0,,{\rCHS}不过, 换做我的话, \N{\rENG}Well, if I were you,
 Dialogue: 100,0:06:08.68,0:06:11.89,Normal Dialog Text,,0,0,0,,{\rCHS}我可不会什么穿从天而降的奇怪衬衫\N{\rENG}I wouldn't wear some random shirt that just fell out of the sky.
-Dialogue: 100,0:06:11.89,0:06:13.35,Normal Dialog Text,,0,0,0,,{\rCHS}如果衣服里有虫子呢？\N{\rENG}What if there were bugs in it?
-Dialogue: 100,0:06:13.35,0:06:16.16,Normal Dialog Text,,0,0,0,,{\rCHS}放松点！谁在乎是从哪来的？\N{\rENG}Relax! Who cares where it came from?
-Dialogue: 100,0:06:16.16,0:06:19.77,Normal Dialog Text,,0,0,0,,{\rCHS}这衬衫是我见过的最好笑的东西！\N{\rENG}This shirt is the funniest thing I've seen in my life!
+Dialogue: 100,0:06:11.89,0:06:13.35,Normal Dialog Text,,0,0,0,,{\rCHS}万一衣服里有虫子呢? \N{\rENG}What if there were bugs in it?
+Dialogue: 100,0:06:13.35,0:06:16.16,Normal Dialog Text,,0,0,0,,{\rCHS}放松点! 谁在乎是从哪来的? \N{\rENG}Relax! Who cares where it came from?
+Dialogue: 100,0:06:16.16,0:06:19.77,Normal Dialog Text,,0,0,0,,{\rCHS}这衬衫是我见过的最好笑的东西! \N{\rENG}This shirt is the funniest thing I've seen in my life!
 Dialogue: 100,0:06:19.77,0:06:22.20,Normal Dialog Text,,0,0,0,,{\rCHS}看来我们的衬衫非常的流行啊\N{\rENG}Looks like our shirt has a really good buzz going.
-Dialogue: 100,0:06:22.20,0:06:25.04,Normal Dialog Text,,0,0,0,,{\rCHS}没错，但我认为他们把它当笑话了\N{\rENG}Yeah, but I think they think it's a joke.
+Dialogue: 100,0:06:22.20,0:06:25.04,Normal Dialog Text,,0,0,0,,{\rCHS}没错, 但我认为他们把它当笑话了\N{\rENG}Yeah, but I think they think it's a joke.
 Dialogue: 100,0:06:26.22,0:06:27.56,Normal Dialog Text,,0,0,0,,{\rCHS}真正重要的是\N{\rENG}The only thing that's important
 Dialogue: 100,0:06:27.56,0:06:29.04,Normal Dialog Text,,0,0,0,,{\rCHS}人们在谈论它\N{\rENG}is that they're talking about it.
 Dialogue: 100,0:06:29.04,0:06:30.70,Normal Dialog Text,,0,0,0,,{\rCHS}真正的艺术都这样\N{\rENG}That's how real art works.
-Dialogue: 100,0:06:31.18,0:06:34.24,Normal Dialog Text,,0,0,0,,{\rCHS}哦，那么，我-我想你是对的\N{\rENG}Oh, well, I-I guess you're right.
-Dialogue: 100,0:06:34.87,0:06:36.75,Normal Dialog Text,,0,0,0,,{\rCHS}额，这样呢？\N{\rENG}Uh, how's this?
-Dialogue: 100,0:06:36.75,0:06:38.66,Normal Dialog Text,,0,0,0,,{\rCHS}哈哈哈，太搓了\N{\rENG} Ha ha ha. So bad.
-Dialogue: 100,0:06:38.66,0:06:41.04,Normal Dialog Text,,0,0,0,,{\rCHS}好吧！让我们开始第一课！\N{\rENG}Okay! Let's get started with the first lesson!
+Dialogue: 100,0:06:31.18,0:06:34.24,Normal Dialog Text,,0,0,0,,{\rCHS}哦, 那么, 我-我想你是对的\N{\rENG}Oh, well, I-I guess you're right.
+Dialogue: 100,0:06:34.87,0:06:36.75,Normal Dialog Text,,0,0,0,,{\rCHS}额, 这样呢? \N{\rENG}Uh, how's this?
+Dialogue: 100,0:06:36.75,0:06:38.66,Normal Dialog Text,,0,0,0,,{\rCHS}哈哈哈, 太搓了\N{\rENG} Ha ha ha. So bad.
+Dialogue: 100,0:06:38.66,0:06:41.04,Normal Dialog Text,,0,0,0,,{\rCHS}好吧! 让我们开始第一课! \N{\rENG}Okay! Let's get started with the first lesson!
 Dialogue: 100,0:06:41.04,0:06:42.42,Normal Dialog Text,,0,0,0,,{\rCHS}坐下来拿把...\N{\rENG}Have a seat and grab a...
-Dialogue: 100,0:06:42.42,0:06:43.40,Normal Dialog Text,,0,0,0,,{\rCHS}你去哪？\N{\rENG}Where you going?
-Dialogue: 100,0:06:43.84,0:06:47.12,Normal Dialog Text,,0,0,0,,{\rCHS}哦，呃，我猜他可能收到了重要的短信之类的\N{\rENG}Oh, uh, I guess he got an important text or something.
-Dialogue: 100,0:06:47.48,0:06:48.67,Normal Dialog Text,,0,0,0,,{\rCHS}今天怎么样？\N{\rENG}How's it been going today?
-Dialogue: 100,0:06:48.67,0:06:49.72,Normal Dialog Text,,0,0,0,,{\rCHS}非常好！\N{\rENG}Really great!
-Dialogue: 100,0:06:49.72,0:06:53.05,Normal Dialog Text,,0,0,0,,{\rCHS}很多人都来这里了，多亏你的T恤，小子\N{\rENG}Lots of people have been coming by, thanks to your T-shirts, little guy. 
-Dialogue: 100,0:06:53.05,0:06:54.38,Normal Dialog Text,,0,0,0,,{\rCHS}那非常棒，爸爸！\N{\rENG}That's great, dad!
+Dialogue: 100,0:06:42.42,0:06:43.40,Normal Dialog Text,,0,0,0,,{\rCHS}你去哪? \N{\rENG}Where you going?
+Dialogue: 100,0:06:43.84,0:06:47.12,Normal Dialog Text,,0,0,0,,{\rCHS}哦, 呃, 我猜他可能收到了重要的短信之类的\N{\rENG}Oh, uh, I guess he got an important text or something.
+Dialogue: 100,0:06:47.48,0:06:48.67,Normal Dialog Text,,0,0,0,,{\rCHS}今天怎么样? \N{\rENG}How's it been going today?
+Dialogue: 100,0:06:48.67,0:06:49.72,Normal Dialog Text,,0,0,0,,{\rCHS}非常好! \N{\rENG}Really great!
+Dialogue: 100,0:06:49.72,0:06:53.05,Normal Dialog Text,,0,0,0,,{\rCHS}很多人都来这里了, 多亏你的T恤, 小子\N{\rENG}Lots of people have been coming by, thanks to your T-shirts, little guy.
+Dialogue: 100,0:06:53.05,0:06:54.38,Normal Dialog Text,,0,0,0,,{\rCHS}非常棒, 爸爸! \N{\rENG}That's great, dad!
 Dialogue: 100,0:06:54.38,0:06:55.54,Normal Dialog Text,,0,0,0,,{\rCHS}我很高兴能帮上忙...\N{\rENG}I'm really glad I could help ...
-Dialogue: 100,0:06:56.47,0:06:57.99,Normal Dialog Text,,0,0,0,,{\rCHS}呦-吼！吉他老爹！\N{\rENG}Yoo-hoo! Guitar Dad!
-Dialogue: 100,0:06:57.99,0:07:01.94,Normal Dialog Text,,0,0,0,,{\rCHS}我只想说我认为你非常出色滑稽！\N{\rENG}I just wanted to say I think you're wonderful and hilarious!
-Dialogue: 100,0:07:01.94,0:07:03.82,Normal Dialog Text,,0,0,0,,{\rCHS}呃...谢谢？\N{\rENG}Uh... thank you?
+Dialogue: 100,0:06:56.47,0:06:57.99,Normal Dialog Text,,0,0,0,,{\rCHS}呦-吼! 吉他老爹! \N{\rENG}Yoo-hoo! Guitar Dad!
+Dialogue: 100,0:06:57.99,0:07:01.94,Normal Dialog Text,,0,0,0,,{\rCHS}我觉得你很棒还很搞笑! \N{\rENG}I just wanted to say I think you're wonderful and hilarious!
+Dialogue: 100,0:07:01.94,0:07:03.82,Normal Dialog Text,,0,0,0,,{\rCHS}呃...谢谢? \N{\rENG}Uh... thank you?
 Dialogue: 100,0:07:05.00,0:07:06.48,Normal Dialog Text,,0,0,0,,{\rCHS}这有点怪了\N{\rENG}That's kind of strange.
-Dialogue: 100,0:07:06.48,0:07:07.40,Normal Dialog Text,,0,0,0,,{\rCHS}怎么？\N{\rENG}What is?
-Dialogue: 100,0:07:07.40,0:07:11.62,Normal Dialog Text,,0,0,0,,{\rCHS}虽然有很多人来这里，没一个人想要上课的\N{\rENG}Well, lots of people have stopped by, but no one's taken a lesson yet.
-Dialogue: 100,0:07:11.96,0:07:13.24,Normal Dialog Text,,0,0,0,,{\rCHS}什么？真的？！\N{\rENG}What? Really?!
-Dialogue: 100,0:07:13.62,0:07:15.50,Normal Dialog Text,,0,0,0,,{\rCHS}啊，也许他们只是来看看环境\N{\rENG}Ah, maybe they're just checking out the scene 
-Dialogue: 100,0:07:15.50,0:07:17.76,Normal Dialog Text,,0,0,0,,{\rCHS}之后再回来正式上课！\N{\rENG}before they come back to get a real lesson!
-Dialogue: 100,0:07:21.70,0:07:22.58,Normal Dialog Text,,0,0,0,,{\rCHS}巴克！\N{\rENG}Buck!
-Dialogue: 100,0:07:22.58,0:07:24.04,Normal Dialog Text,,0,0,0,,{\rCHS}嘿，原来是我最好的朋友\N{\rENG}Hey, there's my main man.
-Dialogue: 100,0:07:24.42,0:07:26.08,Normal Dialog Text,,0,0,0,,{\rCHS}这些衬衫没起作用，巴克！\N{\rENG}The shirts aren't working, Buck!
-Dialogue: 100,0:07:26.08,0:07:27.82,Normal Dialog Text,,0,0,0,,{\rCHS}不，起作用了，人们很喜欢\N{\rENG}Yeah, they are. People love 'em.
-Dialogue: 100,0:07:28.10,0:07:30.88,Normal Dialog Text,,0,0,0,,{\rCHS}但没人想跟我爸爸学吉他！\N{\rENG}But nobody wants guitar lessons from my dad!
+Dialogue: 100,0:07:06.48,0:07:07.40,Normal Dialog Text,,0,0,0,,{\rCHS}怎么? \N{\rENG}What is?
+Dialogue: 100,0:07:07.40,0:07:11.62,Normal Dialog Text,,0,0,0,,{\rCHS}虽然有很多人来这里, 没一个人想要上课的\N{\rENG}Well, lots of people have stopped by, but no one's taken a lesson yet.
+Dialogue: 100,0:07:11.96,0:07:13.24,Normal Dialog Text,,0,0,0,,{\rCHS}什么? 真的? ! \N{\rENG}What? Really?!
+Dialogue: 100,0:07:13.62,0:07:15.50,Normal Dialog Text,,0,0,0,,{\rCHS}啊, 也许他们只是来看看环境\N{\rENG}Ah, maybe they're just checking out the scene
+Dialogue: 100,0:07:15.50,0:07:17.76,Normal Dialog Text,,0,0,0,,{\rCHS}之后再回来正式上课! \N{\rENG}before they come back to get a real lesson!
+Dialogue: 100,0:07:21.70,0:07:22.58,Normal Dialog Text,,0,0,0,,{\rCHS}巴克! \N{\rENG}Buck!
+Dialogue: 100,0:07:22.58,0:07:24.04,Normal Dialog Text,,0,0,0,,{\rCHS}嘿, 原来是我最好的朋友\N{\rENG}Hey, there's my main man.
+Dialogue: 100,0:07:24.42,0:07:26.08,Normal Dialog Text,,0,0,0,,{\rCHS}这些衬衫没起作用, 巴克! \N{\rENG}The shirts aren't working, Buck!
+Dialogue: 100,0:07:26.08,0:07:27.82,Normal Dialog Text,,0,0,0,,{\rCHS}不, 起作用了, 人们很喜欢\N{\rENG}Yeah, they are. People love 'em.
+Dialogue: 100,0:07:28.10,0:07:30.88,Normal Dialog Text,,0,0,0,,{\rCHS}但没人想跟我爸爸学吉他! \N{\rENG}But nobody wants guitar lessons from my dad!
 Dialogue: 100,0:07:30.88,0:07:31.76,Normal Dialog Text,,0,0,0,,{\rCHS}这不是核心\N{\rENG}That's not the point.
-Dialogue: 100,0:07:32.16,0:07:34.44,Normal Dialog Text,,0,0,0,,{\rCHS}什么？！那核心是什么？\N{\rENG}What?! Then what is the point?
-Dialogue: 100,0:07:34.94,0:07:36.96,Normal Dialog Text,,0,0,0,,{\rCHS}核心在于，这是件非常酷的衬衫\N{\rENG}The point is, it's an amazing shirt.
-Dialogue: 100,0:07:37.44,0:07:39.74,Normal Dialog Text,,0,0,0,,{\rCHS}嗷，我才不是什么大佬\N{\rENG}Aw, my drawing's not that good.
-Dialogue: 100,0:07:40.96,0:07:42.10,Normal Dialog Text,,0,0,0,,{\rCHS}没错，你画的太烂了\N{\rENG}Yeah, no. It's terrible.
-Dialogue: 100,0:07:42.56,0:07:43.34,Normal Dialog Text,,0,0,0,,{\rCHS}啊？！\N{\rENG}What?!
-Dialogue: 100,0:07:43.82,0:07:45.11,Normal Dialog Text,,0,0,0,,{\rCHS}这也是它如此出色的原因\N{\rENG}That's what's so great about it. 
+Dialogue: 100,0:07:32.16,0:07:34.44,Normal Dialog Text,,0,0,0,,{\rCHS}什么? ! 那核心是什么? \N{\rENG}What?! Then what is the point?
+Dialogue: 100,0:07:34.94,0:07:36.96,Normal Dialog Text,,0,0,0,,{\rCHS}核心在于, 这是件非常酷的衬衫\N{\rENG}The point is, it's an amazing shirt.
+Dialogue: 100,0:07:37.44,0:07:39.74,Normal Dialog Text,,0,0,0,,{\rCHS}嗷, 我才不是什么大佬\N{\rENG}Aw, my drawing's not that good.
+Dialogue: 100,0:07:40.96,0:07:42.10,Normal Dialog Text,,0,0,0,,{\rCHS}没错, 你画的太烂了\N{\rENG}Yeah, no. It's terrible.
+Dialogue: 100,0:07:42.56,0:07:43.34,Normal Dialog Text,,0,0,0,,{\rCHS}啊? ! \N{\rENG}What?!
+Dialogue: 100,0:07:43.82,0:07:45.11,Normal Dialog Text,,0,0,0,,{\rCHS}这也是它如此出色的原因\N{\rENG}That's what's so great about it.
 Dialogue: 100,0:07:45.11,0:07:46.56,Normal Dialog Text,,0,0,0,,{\rCHS}你的作品如此的幼稚\N{\rENG}Your work is so naive.
-Dialogue: 100,0:07:46.56,0:07:49.20,Normal Dialog Text,,0,0,0,,{\rCHS}你非常爱你爸爸，这很有趣\N{\rENG}You really love your dad. It's funny.
+Dialogue: 100,0:07:46.56,0:07:49.20,Normal Dialog Text,,0,0,0,,{\rCHS}你非常爱你爸爸, 这很有趣\N{\rENG}You really love your dad. It's funny.
 Dialogue: 100,0:07:49.96,0:07:52.92,Normal Dialog Text,,0,0,0,,{\rCHS}我...我不想再制造这些衬衫了\N{\rENG}I...I don't want to make these shirts anymore.
-Dialogue: 100,0:07:52.92,0:07:54.36,Normal Dialog Text,,0,0,0,,{\rCHS}很抱歉，史蒂文\N{\rENG}Too bad, Steven.
-Dialogue: 100,0:07:54.36,0:07:56.53,Normal Dialog Text,,0,0,0,,{\rCHS}这已经是潮流了，你无法阻止\N{\rENG}It's so current, you can't stop it.
-Dialogue: 100,0:07:56.53,0:07:57.83,Normal Dialog Text,,0,0,0,,{\rCHS}我是潮流制造者，\N{\rENG}I'm a taste maker, 
+Dialogue: 100,0:07:52.92,0:07:54.36,Normal Dialog Text,,0,0,0,,{\rCHS}很抱歉, 史蒂文\N{\rENG}Too bad, Steven.
+Dialogue: 100,0:07:54.36,0:07:56.53,Normal Dialog Text,,0,0,0,,{\rCHS}这已经是潮流了, 你无法阻止\N{\rENG}It's so current, you can't stop it.
+Dialogue: 100,0:07:56.53,0:07:57.83,Normal Dialog Text,,0,0,0,,{\rCHS}我是潮流制造者, \N{\rENG}I'm a taste maker,
 Dialogue: 100,0:07:57.83,0:07:59.68,Normal Dialog Text,,0,0,0,,{\rCHS}而我会不停地制造潮流...\N{\rENG}and I'm gonna keep making tastes...
 Dialogue: 100,0:08:00.58,0:08:01.41,Normal Dialog Text,,0,0,0,,{\rCHS}永远如此\N{\rENG}forever.
-Dialogue: 100,0:08:01.80,0:08:02.42,Normal Dialog Text,,0,0,0,,{\rCHS}永远？\N{\rENG}Forever?
-Dialogue: 100,0:08:02.86,0:08:06.34,Normal Dialog Text,,0,0,0,,{\rCHS}当然，是在我爸非常逊的长椅庆典之后了\N{\rENG}Well, forever, after I go to my dad's lame bench commemoration.
-Dialogue: 100,0:08:06.90,0:08:07.38,Normal Dialog Text,,0,0,0,,{\rCHS}和平万岁\N{\rENG}Peace.
-Dialogue: 100,0:08:11.68,0:08:14.05,Normal Dialog Text,,0,0,0,,{\rCHS}石榴！珍珠！紫晶！\N{\rENG}Garnet! Pearl! Amethyst!
-Dialogue: 100,0:08:14.05,0:08:14.72,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文！\N{\rENG}Steven!
-Dialogue: 100,0:08:14.72,0:08:15.30,Normal Dialog Text,,0,0,0,,{\rCHS}怎么了？！\N{\rENG}What is it?!
-Dialogue: 100,0:08:15.30,0:08:16.47,Normal Dialog Text,,0,0,0,,{\rCHS}喔，哪着火了？！\N{\rENG}Whoa, where's the fire?!
-Dialogue: 100,0:08:16.47,0:08:17.93,Normal Dialog Text,,0,0,0,,{\rCHS}是紧急情况！\N{\rENG}It's an emergency!
+Dialogue: 100,0:08:01.80,0:08:02.42,Normal Dialog Text,,0,0,0,,{\rCHS}永远? \N{\rENG}Forever?
+Dialogue: 100,0:08:02.86,0:08:06.34,Normal Dialog Text,,0,0,0,,{\rCHS}当然, 是在我爸非常逊的长椅庆典之后了\N{\rENG}Well, forever, after I go to my dad's lame bench commemoration.
+Dialogue: 100,0:08:06.90,0:08:07.38,Normal Dialog Text,,0,0,0,,{\rCHS}再见\N{\rENG}Peace.
+Dialogue: 100,0:08:11.68,0:08:14.05,Normal Dialog Text,,0,0,0,,{\rCHS}石榴! 珍珠! 紫晶! \N{\rENG}Garnet! Pearl! Amethyst!
+Dialogue: 100,0:08:14.05,0:08:14.72,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文! \N{\rENG}Steven!
+Dialogue: 100,0:08:14.72,0:08:15.30,Normal Dialog Text,,0,0,0,,{\rCHS}怎么了? ! \N{\rENG}What is it?!
+Dialogue: 100,0:08:15.30,0:08:16.47,Normal Dialog Text,,0,0,0,,{\rCHS}喔, 哪着火了? ! \N{\rENG}Whoa, where's the fire?!
+Dialogue: 100,0:08:16.47,0:08:17.93,Normal Dialog Text,,0,0,0,,{\rCHS}是紧急情况! \N{\rENG}It's an emergency!
 Dialogue: 100,0:08:17.93,0:08:19.39,Normal Dialog Text,,0,0,0,,{\rCHS}你们得帮我解决掉所有的衬衫\N{\rENG}You have to help me get rid of all the shirts
-Dialogue: 100,0:08:19.39,0:08:21.06,Normal Dialog Text,,0,0,0,,{\rCHS}并阻止巴克制造更多的出来！\N{\rENG}and stop Buck from making more!
+Dialogue: 100,0:08:19.39,0:08:21.06,Normal Dialog Text,,0,0,0,,{\rCHS}并阻止巴克制造更多的出来! \N{\rENG}and stop Buck from making more!
 Dialogue: 100,0:08:21.06,0:08:22.27,Normal Dialog Text,,0,0,0,,{\rCHS}衬衫有了生命\N{\rENG}Have the shirts come to life
-Dialogue: 100,0:08:22.27,0:08:24.19,Normal Dialog Text,,0,0,0,,{\rCHS}并占据了穿着者的身体吗？\N{\rENG}and possessed the bodies of their wearers?
-Dialogue: 100,0:08:24.19,0:08:25.64,Normal Dialog Text,,0,0,0,,{\rCHS}不，它们只是...\N{\rENG}No, they just ...
-Dialogue: 100,0:08:25.64,0:08:28.32,Normal Dialog Text,,0,0,0,,{\rCHS}人们是否在穿上魔幻衬衫后着火了？\N{\rENG}Are people catching on fire when they put on the magic shirts?
-Dialogue: 100,0:08:28.32,0:08:30.08,Normal Dialog Text,,0,0,0,,{\rCHS}不，不，它-它们只是...\N{\rENG}No, no, th-they're just ...
-Dialogue: 100,0:08:30.08,0:08:31.84,Normal Dialog Text,,0,0,0,,{\rCHS}衬衫是不是摧毁了穿着者\N{\rENG}Are the shirts destroying the wearers' wills 
-Dialogue: 100,0:08:31.84,0:08:33.50,Normal Dialog Text,,0,0,0,,{\rCHS}继续生活下去的意念，\N{\rENG}to continue on in this mortal coil,
-Dialogue: 100,0:08:33.50,0:08:35.28,Normal Dialog Text,,0,0,0,,{\rCHS}然后停摆了沙滩市？！\N{\rENG}thereby shutting down Beach City?!
-Dialogue: 100,0:08:35.28,0:08:36.40,Normal Dialog Text,,0,0,0,,{\rCHS}不！！\N{\rENG}No!!
+Dialogue: 100,0:08:22.27,0:08:24.19,Normal Dialog Text,,0,0,0,,{\rCHS}并占据了穿着者的身体吗? \N{\rENG}and possessed the bodies of their wearers?
+Dialogue: 100,0:08:24.19,0:08:25.64,Normal Dialog Text,,0,0,0,,{\rCHS}不, 它们只是...\N{\rENG}No, they just ...
+Dialogue: 100,0:08:25.64,0:08:28.32,Normal Dialog Text,,0,0,0,,{\rCHS}人们在穿上魔幻衬衫后着火了? \N{\rENG}Are people catching on fire when they put on the magic shirts?
+Dialogue: 100,0:08:28.32,0:08:30.08,Normal Dialog Text,,0,0,0,,{\rCHS}不, 不, 它-它们只是...\N{\rENG}No, no, th-they're just ...
+Dialogue: 100,0:08:30.08,0:08:31.84,Normal Dialog Text,,0,0,0,,{\rCHS}衬衫是不是摧毁了穿着者\N{\rENG}Are the shirts destroying the wearers' wills
+Dialogue: 100,0:08:31.84,0:08:33.50,Normal Dialog Text,,0,0,0,,{\rCHS}继续生活下去的意念, \N{\rENG}to continue on in this mortal coil,
+Dialogue: 100,0:08:33.50,0:08:35.28,Normal Dialog Text,,0,0,0,,{\rCHS}然后停摆了沙滩市? ! \N{\rENG}thereby shutting down Beach City?!
+Dialogue: 100,0:08:35.28,0:08:36.40,Normal Dialog Text,,0,0,0,,{\rCHS}不! ! \N{\rENG}No!!
 Dialogue: 100,0:08:36.40,0:08:37.92,Normal Dialog Text,,0,0,0,,{\rCHS}它们...它们只是\N{\rENG}They're... They're just
 Dialogue: 100,0:08:38.18,0:08:40.28,Normal Dialog Text,,0,0,0,,{\rCHS}以我不赞同的方式使用了我的作品\N{\rENG}using my art in a way I don't agree with.
 Dialogue: 100,0:08:41.12,0:08:41.62,Normal Dialog Text,,0,0,0,,{\rCHS}哦\N{\rENG}Oh.
-Dialogue: 100,0:08:42.56,0:08:43.58,Normal Dialog Text,,0,0,0,,{\rCHS}呃，我们无能为力\N{\rENG}Eh, we'll pass.
-Dialogue: 100,0:08:43.79,0:08:47.04,Normal Dialog Text,,0,0,0,,{\rCHS}什么？！但...但，我真的非常需要你们的帮助！\N{\rENG}What?! But...But, I really need your help!
-Dialogue: 100,0:08:47.04,0:08:50.13,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文，这听起来像是个非常抽象的问题\N{\rENG}Steven, this sounds like a very abstract problem.
+Dialogue: 100,0:08:42.56,0:08:43.58,Normal Dialog Text,,0,0,0,,{\rCHS}呃, 我们无能为力\N{\rENG}Eh, we'll pass.
+Dialogue: 100,0:08:43.79,0:08:47.04,Normal Dialog Text,,0,0,0,,{\rCHS}什么? ! 但...但, 我真的非常需要你们的帮助! \N{\rENG}What?! But...But, I really need your help!
+Dialogue: 100,0:08:47.04,0:08:50.13,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文, 这听起来像是个非常抽象的问题\N{\rENG}Steven, this sounds like a very abstract problem.
 Dialogue: 100,0:08:50.13,0:08:52.21,Normal Dialog Text,,0,0,0,,{\rCHS}这是那种我们没法揍的问题\N{\rENG}It's not something we can punch.
-Dialogue: 100,0:08:52.21,0:08:54.09,Normal Dialog Text,,0,0,0,,{\rCHS}你必须学会帮助自己\N{\rENG}You must learn to help yourself. 
+Dialogue: 100,0:08:52.21,0:08:54.09,Normal Dialog Text,,0,0,0,,{\rCHS}你必须学会帮助自己\N{\rENG}You must learn to help yourself.
 Dialogue: 100,0:08:54.44,0:08:55.70,Normal Dialog Text,,0,0,0,,{\rCHS}这样你才能变强\N{\rENG}That's how you become stronger.
-Dialogue: 100,0:08:56.78,0:08:58.04,Normal Dialog Text,,0,0,0,,{\rCHS}说得好-哦，当然\N{\rENG}- Good point, good point.- Oh, absolutely.
-Dialogue: 100,0:08:58.32,0:08:59.10,Normal Dialog Text,,0,0,0,,{\rCHS}但！\N{\rENG}But!
-Dialogue: 100,0:08:59.42,0:09:01.47,Normal Dialog Text,,0,0,0,,{\rCHS}你能解决的，史蒂文!\N{\rENG}You'll figure something out, Steven!
-Dialogue: 100,0:09:01.47,0:09:05.14,Normal Dialog Text,,0,0,0,,{\rCHS}没错，为什么不尝试一下冲突消解！\N{\rENG}Yes, why not dust off those conflict-resolution skills!
+Dialogue: 100,0:08:56.78,0:08:58.04,Normal Dialog Text,,0,0,0,,{\rCHS}说得好-哦, 当然\N{\rENG}- Good point, good point.- Oh, absolutely.
+Dialogue: 100,0:08:58.32,0:08:59.10,Normal Dialog Text,,0,0,0,,{\rCHS}但! \N{\rENG}But!
+Dialogue: 100,0:08:59.42,0:09:01.47,Normal Dialog Text,,0,0,0,,{\rCHS}你能解决的, 史蒂文!\N{\rENG}You'll figure something out, Steven!
+Dialogue: 100,0:09:01.47,0:09:05.14,Normal Dialog Text,,0,0,0,,{\rCHS}没错, 为什么不尝试一下冲突消解! \N{\rENG}Yes, why not dust off those conflict-resolution skills!
 Dialogue: 100,0:09:05.44,0:09:06.86,Normal Dialog Text,,0,0,0,,{\rCHS}让他人了解你的问题\N{\rENG}Let your problem be known.
 Dialogue: 100,0:09:06.86,0:09:08.98,Normal Dialog Text,,0,0,0,,{\rCHS}然后你就有能力达成和解\N{\rENG}Then you can work towards an understanding.
-Dialogue: 100,0:09:09.26,0:09:12.22,Normal Dialog Text,,0,0,0,,{\rCHS}哦，我会让他明白的\N{\rENG}Oh, I'll make him understand
+Dialogue: 100,0:09:09.26,0:09:12.22,Normal Dialog Text,,0,0,0,,{\rCHS}哦, 我会让他明白的\N{\rENG}Oh, I'll make him understand
 Dialogue: 600,0:09:09.26,0:09:11.26,Hint,,0,0,0,,史蒂文的话源自影视作品中常见的疯狂科学家的惯用语
-Dialogue: 100,0:09:13.38,0:09:15.57,Normal Dialog Text,,0,0,0,,{\rCHS}我会让他们都明白的的！\N{\rENG}I'll make them all understand!
-Dialogue: 100,0:09:16.68,0:09:18.26,Normal Dialog Text,,0,0,0,,{\rCHS}呃，他不会有事的\N{\rENG}Eh, he'll be fine.
-Dialogue: 100,0:09:18.74,0:09:20.92,Normal Dialog Text,,0,0,0,,{\rCHS}好吧，所有人都在吗？\N{\rENG}Okay. Is everyone here?
-Dialogue: 100,0:09:22.14,0:09:26.16,Normal Dialog Text,,0,0,0,,{\rCHS}大家好！我本该写个演讲稿来，\N{\rENG}Hello! I was supposed to write a speech to,
-Dialogue: 100,0:09:26.16,0:09:29.78,Normal Dialog Text,,0,0,0,,{\rCHS}嗯，庆祝这个，呃，新的长椅\N{\rENG}um, commemorate this,uh, new bench.
-Dialogue: 100,0:09:30.26,0:09:33.59,Normal Dialog Text,,0,0,0,,{\rCHS}但不幸的是我用光了\N{\rENG}But what had happened was I ran out of printer ink in my 
-Dialogue: 100,0:09:33.82,0:09:36.04,Background Dialogue,,0,0,0,,{\rCHS}我家中的打印机的墨汁\N{\rENG}printer that I keep at home.
-Dialogue: 100,0:09:36.04,0:09:38.60,Background Dialogue,,0,0,0,,{\rCHS}所以，我前去商店，你们猜怎么着？\N{\rENG}So, I went to the store and wouldn't you know it?
-Dialogue: 100,0:09:38.60,0:09:42.04,Background Dialogue,,0,0,0,,{\rCHS}商店没有我要的牌子，所以...\N{\rENG}They didn't carry the brand I was looking for, so...
+Dialogue: 100,0:09:13.38,0:09:15.57,Normal Dialog Text,,0,0,0,,{\rCHS}我会让他们都明白的的! \N{\rENG}I'll make them all understand!
+Dialogue: 100,0:09:16.68,0:09:18.26,Normal Dialog Text,,0,0,0,,{\rCHS}呃, 他不会有事的\N{\rENG}Eh, he'll be fine.
+Dialogue: 100,0:09:18.74,0:09:20.92,Normal Dialog Text,,0,0,0,,{\rCHS}好吧, 所有人都在吗? \N{\rENG}Okay. Is everyone here?
+Dialogue: 100,0:09:22.14,0:09:26.16,Normal Dialog Text,,0,0,0,,{\rCHS}大家好! 我本该写个演讲稿来, \N{\rENG}Hello! I was supposed to write a speech to,
+Dialogue: 100,0:09:26.16,0:09:29.78,Normal Dialog Text,,0,0,0,,{\rCHS}嗯, 庆祝这个, 呃, 新的长椅\N{\rENG}um, commemorate this,uh, new bench.
+Dialogue: 100,0:09:30.26,0:09:33.59,Normal Dialog Text,,0,0,0,,{\rCHS}但不幸的是我用光了\N{\rENG}But what had happened was I ran out of printer ink in my
+Dialogue: 100,0:09:33.82,0:09:36.04,Background Dialogue,,0,0,0,,{\rCHS}我家中的打印机的墨\N{\rENG}printer that I keep at home.
+Dialogue: 100,0:09:36.04,0:09:38.60,Background Dialogue,,0,0,0,,{\rCHS}所以, 我前去商店, 你们猜怎么着? \N{\rENG}So, I went to the store and wouldn't you know it?
+Dialogue: 100,0:09:38.60,0:09:42.04,Background Dialogue,,0,0,0,,{\rCHS}商店没有我要的牌子, 所以...\N{\rENG}They didn't carry the brand I was looking for, so...
 Dialogue: 600,0:09:38.60,0:09:40.60,Hint,,0,0,0,,{\pos(960,1000)}此处场景源自臭名昭著的钟楼狙击手查尔斯·惠特曼
-Dialogue: 100,0:09:42.04,0:09:42.72,Normal Dialog Text,,0,0,0,,{\rCHS}再见！\N{\rENG}Bye!
+Dialogue: 100,0:09:42.04,0:09:42.72,Normal Dialog Text,,0,0,0,,{\rCHS}再见! \N{\rENG}Bye!
 Dialogue: 100,0:09:42.04,0:09:43.93,Background Dialogue,,0,0,0,,{\rCHS}...我打电话给我的一个朋友\N{\rENG}...I called up a buddy of mine who
-Dialogue: 100,0:09:43.93,0:09:47.94,Normal Dialog Text,,0,0,0,,{\rCHS}他刚好欠我一点...政务上的人情，但他却不在家！\N{\rENG}own me a... few political favors, and he wasn't home!
-Dialogue: 100,0:09:49.14,0:09:51.12,Normal Dialog Text,,0,0,0,,{\rCHS}小心！\N{\rENG}Look out!
-Dialogue: 100,0:09:51.12,0:09:52.20,Normal Dialog Text,,0,0,0,,{\rCHS}不！\N{\rENG}No!
-Dialogue: 100,0:09:58.74,0:10:00.50,Normal Dialog Text,,0,0,0,,{\rCHS}我被...衫击了！\N{\rENG}I've been... shirt!
-Dialogue: 100,0:10:13.96,0:10:14.67,Normal Dialog Text,,0,0,0,,{\rCHS}巴克...\N{\rENG}Buck... 
-Dialogue: 100,0:10:17.40,0:10:18.56,Normal Dialog Text,,0,0,0,,{\rCHS}是你做的吗？\N{\rENG}did you make this?
-Dialogue: 100,0:10:20.80,0:10:22.64,Normal Dialog Text,,0,0,0,,{\rCHS}这个衬衫太牛了！\N{\rENG}This shirt is genius!
-Dialogue: 100,0:10:23.86,0:10:26.68,Normal Dialog Text,,0,0,0,,{\rCHS}这可比吉他老爸滑稽多了！\N{\rENG}This is way funnier than Guitar Dad!
+Dialogue: 100,0:09:43.93,0:09:47.94,Normal Dialog Text,,0,0,0,,{\rCHS}他刚好欠我一点...政务上的人情, 但他却不在家! \N{\rENG}own me a... few political favors, and he wasn't home!
+Dialogue: 100,0:09:49.14,0:09:51.12,Normal Dialog Text,,0,0,0,,{\rCHS}小心! \N{\rENG}Look out!
+Dialogue: 100,0:09:51.12,0:09:52.20,Normal Dialog Text,,0,0,0,,{\rCHS}不! \N{\rENG}No!
+Dialogue: 100,0:09:58.74,0:10:00.50,Normal Dialog Text,,0,0,0,,{\rCHS}我被...衫击了! \N{\rENG}I've been... shirt!
+Dialogue: 100,0:10:13.96,0:10:14.67,Normal Dialog Text,,0,0,0,,{\rCHS}巴克...\N{\rENG}Buck...
+Dialogue: 100,0:10:17.40,0:10:18.56,Normal Dialog Text,,0,0,0,,{\rCHS}是你做的吗? \N{\rENG}did you make this?
+Dialogue: 100,0:10:20.80,0:10:22.64,Normal Dialog Text,,0,0,0,,{\rCHS}这个衬衫太牛了! \N{\rENG}This shirt is genius!
+Dialogue: 100,0:10:23.86,0:10:26.68,Normal Dialog Text,,0,0,0,,{\rCHS}这可比吉他老爸滑稽多了! \N{\rENG}This is way funnier than Guitar Dad!
 Dialogue: 100,0:10:30.06,0:10:32.08,Normal Dialog Text,,0,0,0,,{\rCHS}这个长椅没想到相当舒服\N{\rENG}This bench is actually pretty comfortable.
-Dialogue: 100,0:10:35.60,0:10:37.66,Normal Dialog Text,,0,0,0,,{\rCHS}今天有人来听课吗？\N{\rENG}Anyone else stop by for lessons today?
-Dialogue: 100,0:10:38.14,0:10:41.34,Normal Dialog Text,,0,0,0,,{\rCHS}目前为止，没有，但，我肯定明天会的！\N{\rENG}So far, no, but, I'm sure it'll pick up tomorrow!
-Dialogue: 100,0:10:41.34,0:10:42.68,Normal Dialog Text,,0,0,0,,{\rCHS}没错，我确定会有的\N{\rENG}Yeah, I'm sure it will. 
-Dialogue: 100,0:10:43.06,0:10:44.32,Normal Dialog Text,,0,0,0,,{\rCHS}这个给你，顺便说一句\N{\rENG}This is for you, by the way.
-Dialogue: 100,0:10:44.82,0:10:48.29,Normal Dialog Text,,0,0,0,,{\rCHS}这是最后一件，所以算是超级限量版！\N{\rENG}This is the last one, so it's super-limited edition!
-Dialogue: 100,0:10:48.29,0:10:50.58,Normal Dialog Text,,0,0,0,,{\rCHS}嗷，太好了！谢谢，史蒂文！\N{\rENG}Aw, sweet! Thanks, Steven!
-Dialogue: 100,0:10:50.58,0:10:53.58,Normal Dialog Text,,0,0,0,,{\rCHS}呦，史蒂文，只是想说，呃，\N{\rENG}Yo, Steven, just wanted to say, uh,
-Dialogue: 100,0:10:54.00,0:10:57.55,Normal Dialog Text,,0,0,0,,{\rCHS}我对所作所为表示歉意，然后，呃...\N{\rENG}I'm sorry for what I did and uh...
-Dialogue: 100,0:10:57.55,0:10:58.69,Normal Dialog Text,,0,0,0,,{\rCHS}这没什么，巴克\N{\rENG}It's okay, Buck.
+Dialogue: 100,0:10:35.60,0:10:37.66,Normal Dialog Text,,0,0,0,,{\rCHS}今天有人来听课吗? \N{\rENG}Anyone else stop by for lessons today?
+Dialogue: 100,0:10:38.14,0:10:41.34,Normal Dialog Text,,0,0,0,,{\rCHS}目前为止, 没有, 但, 我肯定明天会的! \N{\rENG}So far, no, but, I'm sure it'll pick up tomorrow!
+Dialogue: 100,0:10:41.34,0:10:42.68,Normal Dialog Text,,0,0,0,,{\rCHS}没错, 我确定会有的\N{\rENG}Yeah, I'm sure it will.
+Dialogue: 100,0:10:43.06,0:10:44.32,Normal Dialog Text,,0,0,0,,{\rCHS}这个给你, 顺便说一句\N{\rENG}This is for you, by the way.
+Dialogue: 100,0:10:44.82,0:10:48.29,Normal Dialog Text,,0,0,0,,{\rCHS}这是最后一件, 所以算是超级限量版! \N{\rENG}This is the last one, so it's super-limited edition!
+Dialogue: 100,0:10:48.29,0:10:50.58,Normal Dialog Text,,0,0,0,,{\rCHS}嗷, 太好了! 谢谢, 史蒂文! \N{\rENG}Aw, sweet! Thanks, Steven!
+Dialogue: 100,0:10:50.58,0:10:53.58,Normal Dialog Text,,0,0,0,,{\rCHS}呦, 史蒂文, 只是想说, 呃, \N{\rENG}Yo, Steven, just wanted to say, uh,
+Dialogue: 100,0:10:54.00,0:10:57.55,Normal Dialog Text,,0,0,0,,{\rCHS}我对所作所为表示歉意, 然后, 呃...\N{\rENG}I'm sorry for what I did and uh...
+Dialogue: 100,0:10:57.55,0:10:58.69,Normal Dialog Text,,0,0,0,,{\rCHS}这没什么, 巴克\N{\rENG}It's okay, Buck.
 Dialogue: 100,0:10:59.00,0:11:00.50,Normal Dialog Text,,0,0,0,,{\rCHS}你不必再多说什么了\N{\rENG}You don't have to say any more than that.
-Dialogue: 100,0:11:01.48,0:11:03.32,Normal Dialog Text,,0,0,0,,{\rCHS}你是个酷猫，史蒂文·宇宙\N{\rENG}You're a cool cat, Steven Universe.
-Dialogue: 100,0:11:04.16,0:11:05.00,Normal Dialog Text,,0,0,0,,{\rCHS}嘿，U先生？\N{\rENG}Hey, Mister "U."?
-Dialogue: 100,0:11:05.54,0:11:07.44,Normal Dialog Text,,0,0,0,,{\rCHS}你想和我或者别的东西拍照吗？\N{\rENG}You want to take a picture with me or some junk?
-Dialogue: 100,0:11:07.73,0:11:08.46,Normal Dialog Text,,0,0,0,,{\rCHS}当然不，伙计\N{\rENG}No way, man.
-Dialogue: 100,0:11:09.17,0:11:11.94,Normal Dialog Text,,0,0,0,,{\rCHS}我想和吉他老爸...学吉他！\N{\rENG}I want a lesson...from Guitar Dad!
+Dialogue: 100,0:11:01.48,0:11:03.32,Normal Dialog Text,,0,0,0,,{\rCHS}你是个酷猫, 史蒂文·宇宙\N{\rENG}You're a cool cat, Steven Universe.
+Dialogue: 100,0:11:04.16,0:11:05.00,Normal Dialog Text,,0,0,0,,{\rCHS}嘿, U先生? \N{\rENG}Hey, Mister "U."?
+Dialogue: 100,0:11:05.54,0:11:07.44,Normal Dialog Text,,0,0,0,,{\rCHS}你想和我或者别的东西拍照吗? \N{\rENG}You want to take a picture with me or some junk?
+Dialogue: 100,0:11:07.73,0:11:08.46,Normal Dialog Text,,0,0,0,,{\rCHS}当然不, 伙计\N{\rENG}No way, man.
+Dialogue: 100,0:11:09.17,0:11:11.94,Normal Dialog Text,,0,0,0,,{\rCHS}我想和吉他老爸...学吉他! \N{\rENG}I want a lesson...from Guitar Dad!
 Dialogue: 600,0:11:13.73,0:11:15.73,Hint,,0,0,0,,本集标题Shirt Club可能源自著名电影《搏击俱乐部》（Fight Club）
