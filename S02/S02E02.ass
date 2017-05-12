@@ -16,8 +16,7 @@ Video File: E:/SU/season 2/[AliQ] S02E02 - Open Book.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 249
-Active Line: 232
+Active Line: 19
 Video Position: 16188
 
 [V4+ Styles]
@@ -61,7 +60,7 @@ Dialogue: 1,0:00:27.55,0:00:29.05,SU Team Member,,0,0,0,,{\pos(1725,320)}UUU字�
 Dialogue: 1,0:00:27.55,0:00:29.05,SU Team Title,,0,0,0,,{\pos(1725,380)}翻译
 Dialogue: 1,0:00:27.55,0:00:29.05,SU Team Member,,0,0,0,,{\pos(1725,440)}presisco
 Dialogue: 1,0:00:27.55,0:00:29.05,SU Team Title,,0,0,0,,{\pos(1725,500)}校对
-Dialogue: 1,0:00:27.55,0:00:29.05,SU Team Member,,0,0,0,,{\pos(1725,560)}presisco
+Dialogue: 1,0:00:27.55,0:00:29.05,SU Team Member,,0,0,0,,{\pos(1725,560)}presisco/Husky
 Dialogue: 1,0:00:27.55,0:00:29.05,SU Team Title,,0,0,0,,{\pos(1725,620)}特效
 Dialogue: 1,0:00:27.55,0:00:29.05,SU Team Member,,0,0,0,,{\pos(1725,680)}presisco
 Dialogue: 1,0:00:27.55,0:00:29.05,SU Team Title,,0,0,0,,{\pos(1725,740)}压制
