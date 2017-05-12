@@ -19,7 +19,6 @@ Video File: ../../../video-convert/src/YP-SU-1R-04x21.mkv
 Video AR Mode: 4
 Video AR Value: 1.780669
 Video Zoom Percent: 0.500000
-Scroll Position: 1
 Active Line: 11
 Video Position: 51
 
@@ -45,7 +44,7 @@ Style: ENG_BKG,Arial,36,&H00FFFFFF,&H000000FF,&H00171717,&H00171717,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 1,0:00:00.60,0:00:02.10,SU Title,,0,0,0,,{\xshad-0\yshad16\pos(580,484)}队员席
+Dialogue: 1,0:00:00.60,0:00:02.10,SU Title,,0,0,0,,{\xshad-0\yshad16\pos(580,484)}道格出动
 Dialogue: 1,0:00:02.10,0:00:03.60,SU Claim,,0,0,0,,欢迎关注微博@UUU字幕组，获取最新熟肉信息！
 Dialogue: 1,0:00:02.10,0:00:03.60,SU Team Title,,0,0,0,,{\pos(1725,260)}出品
 Dialogue: 1,0:00:02.10,0:00:03.60,SU Team Member,,0,0,0,,{\pos(1725,320)}UUU字幕组
@@ -56,7 +55,7 @@ Dialogue: 1,0:00:02.10,0:00:03.60,SU Team Member,,0,0,0,,{\pos(1725,560)}Husky
 Dialogue: 1,0:00:02.10,0:00:03.60,SU Team Title,,0,0,0,,{\pos(1725,620)}特效
 Dialogue: 1,0:00:02.10,0:00:03.60,SU Team Member,,0,0,0,,{\pos(1725,680)}presisco
 Dialogue: 1,0:00:02.10,0:00:03.60,SU Team Title,,0,0,0,,{\pos(1725,740)}压制
-Dialogue: 1,0:00:02.10,0:00:03.60,SU Team Member,,0,0,0,,{\pos(1725,800)}SG
+Dialogue: 1,0:00:02.10,0:00:03.60,SU Team Member,,0,0,0,,{\pos(1725,800)}依依
 Dialogue: 0,0:00:02.10,0:00:03.60,SU Team Background,,0,0,0,,{\bord0\xshad-0\yshad16\pos(1725,860)}{\p1}m -1 122 b -1 -19 -19 -1 122 -1 l 251 -1 b 390 -1 377 -19 377 122 l 377 500 b 377 642 390 628 251 628 l 122 628 b -19 628 -1 642 -1 500 l -1 122 {\p0}
 Dialogue: 100,0:00:03.81,0:00:05.94,Normal Dialog Text,,0,0,0,,{\rCHS}谢谢你的薯渣, 皮弟! \N{\rENG}Thanks for the bits, Peedee.
 Dialogue: 100,0:00:05.94,0:00:06.98,Normal Dialog Text,,0,0,0,,{\rCHS}对, 还有 告诉罗纳多 \N{\rENG}Oh, and tell Ronaldo
