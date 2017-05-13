@@ -19,7 +19,7 @@ Video File: ../../../video-convert/src/YP-SU-1R-04x21.mkv
 Video AR Mode: 4
 Video AR Value: 1.780669
 Video Zoom Percent: 0.500000
-Active Line: 11
+Active Line: 16
 Video Position: 51
 
 [V4+ Styles]
@@ -60,7 +60,7 @@ Dialogue: 0,0:00:02.10,0:00:03.60,SU Team Background,,0,0,0,,{\bord0\xshad-0\ysh
 Dialogue: 100,0:00:03.81,0:00:05.94,Normal Dialog Text,,0,0,0,,{\rCHS}谢谢你的薯渣, 皮弟! \N{\rENG}Thanks for the bits, Peedee.
 Dialogue: 100,0:00:05.94,0:00:06.98,Normal Dialog Text,,0,0,0,,{\rCHS}对, 还有 告诉罗纳多 \N{\rENG}Oh, and tell Ronaldo
 Dialogue: 100,0:00:06.98,0:00:09.44,Normal Dialog Text,,0,0,0,,{\rCHS}我希望他脸上的红疹能赶快好起来\N{\rENG}I hope his weird rash clears up soon.
-Dialogue: 100,0:00:11.51,0:00:14.35,Normal Dialog Text,,0,0,0,,{\rCHS}生活真是艰难啊, 对不? \N{\rENG}Life can get really intense, huh?
+Dialogue: 100,0:00:11.51,0:00:14.35,Normal Dialog Text,,0,0,0,,{\rCHS}生活有时候还真刺激呢, 对不? \N{\rENG}Life can get really intense, huh?
 Dialogue: 100,0:00:14.35,0:00:16.35,Normal Dialog Text,,0,0,0,,{\rCHS}是啊, 尤其是你的人生\N{\rENG}Yeah, especially your life.
 Dialogue: 100,0:00:16.35,0:00:19.29,Normal Dialog Text,,0,0,0,,{\rCHS}来瞧瞧 -- 外星人绑架事件\N{\rENG}Let's see -- alien abduction.
 Dialogue: 100,0:00:19.29,0:00:21.92,Normal Dialog Text,,0,0,0,,{\rCHS}外太空人类动物园一日游\N{\rENG}Going to a weird zoo for humans in space.
@@ -176,7 +176,7 @@ Dialogue: 100,0:04:33.78,0:04:35.94,Normal Dialog Text,,0,0,0,,{\rCHS}听上去�
 Dialogue: 100,0:04:35.95,0:04:38.61,Normal Dialog Text,,0,0,0,,{\rCHS}库卡曼卡, 比萨波波利斯\N{\rENG}Cucamonga, Pizzapoppolis.
 Dialogue: 100,0:04:38.62,0:04:40.21,Normal Dialog Text,,0,0,0,,{\rCHS}-在! -在! \N{\rENG}-Right! -Right!
 Dialogue: 100,0:04:41.35,0:04:45.52,Normal Dialog Text,,0,0,0,,{\rCHS}嗯? \N{\rENG}Huh?
-Dialogue: 100,0:04:47.06,0:04:48.99,Normal Dialog Text,,0,0,0,,{\rCHS}有人吗? 保安巡逻! \N{\rENG}Hello? This is security!
+Dialogue: 100,0:04:47.06,0:04:48.99,Normal Dialog Text,,0,0,0,,{\rCHS}有人吗? 我是保安! \N{\rENG}Hello? This is security!
 Dialogue: 100,0:04:48.99,0:04:51.89,Normal Dialog Text,,0,0,0,,{\rCHS}你现在在闯入了私人领地\N{\rENG}You are trespassing on private property.
 Dialogue: 100,0:04:51.89,0:04:54.93,Normal Dialog Text,,0,0,0,,{\rCHS}不要试图给自己做炸热狗吃\N{\rENG}Do not attempt to make yourself a corn dog.
 Dialogue: 100,0:04:54.93,0:04:56.96,Normal Dialog Text,,0,0,0,,{\rCHS}欢乐园公司法人没有义务对\N{\rENG}Funland Incorporated is not liable
@@ -209,10 +209,10 @@ Dialogue: 100,0:06:07.37,0:06:08.84,Normal Dialog Text,,0,0,0,,{\rCHS}吃我一�
 Dialogue: 100,0:06:10.71,0:06:12.24,Normal Dialog Text,,0,0,0,,{\rCHS}哦不! \N{\rENG}Oh, no!
 Dialogue: 100,0:06:12.24,0:06:14.04,Normal Dialog Text,,0,0,0,,{\rCHS}牛顿的力量! \N{\rENG}The laws of physics!
 Dialogue: 100,0:06:14.04,0:06:15.04,Normal Dialog Text,,0,0,0,,{\rCHS}嗷! \N{\rENG}Ow!
-Dialogue: 100,0:06:15.04,0:06:16.84,Normal Dialog Text,,0,0,0,,{\rCHS}你还好吗爸爸? 没问题\N{\rENG}You okay, Dad? Yeah.
+Dialogue: 100,0:06:15.04,0:06:16.84,Normal Dialog Text,,0,0,0,,{\rCHS}-你还好吗爸爸? -没问题\N{\rENG}You okay, Dad? Yeah.
 Dialogue: 100,0:06:16.85,0:06:19.05,Normal Dialog Text,,0,0,0,,{\rCHS}而且我想到了个新点子\N{\rENG}I've got a new idea, though.
 Dialogue: 100,0:06:19.05,0:06:22.25,Normal Dialog Text,,0,0,0,,{\rCHS}这回, 我要换个角度扔它\N{\rENG}This time, I'll throw it at an angle.
-Dialogue: 100,0:06:22.25,0:06:24.85,Normal Dialog Text,,0,0,0,,{\rCHS}爸, 我不觉得这有用! 走你! \N{\rENG}Dad, I don't think that'll work. Go!
+Dialogue: 100,0:06:22.25,0:06:24.85,Normal Dialog Text,,0,0,0,,{\rCHS}-爸, 我不觉得这有用! -走你! \N{\rENG}Dad, I don't think that'll work. Go!
 Dialogue: 100,0:06:24.85,0:06:27.72,Normal Dialog Text,,0,0,0,,{\rCHS}啊! ! \N{\rENG}Aah!
 Dialogue: 100,0:06:29.53,0:06:33.39,Normal Dialog Text,,0,0,0,,{\rCHS}我们得从这个辣肉丸子里逃出去!! \N{\rENG}We got to get out of this spicy meatball!
 Dialogue: 100,0:06:36.26,0:06:38.80,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 这块地方没在转\N{\rENG}Hey, this part isn't moving at all.
