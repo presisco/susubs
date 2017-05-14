@@ -19,9 +19,9 @@ Video File: ../../../Steven.Universe/S04/Steven.Universe.S04E22.The.Good.Lars.10
 Video AR Mode: 4
 Video AR Value: 1.780669
 Video Zoom Percent: 0.625000
-Scroll Position: 132
-Active Line: 24
-Video Position: 610
+Scroll Position: 134
+Active Line: 135
+Video Position: 7497
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -179,7 +179,7 @@ Dialogue: 100,0:05:02.70,0:05:05.00,Normal Dialog Text,,0,0,0,,{\rCHS}我是担�
 Dialogue: 100,0:05:05.47,0:05:06.42,Normal Dialog Text,,0,0,0,,{\rCHS}什么意思? \N{\rENG}What do you mean?
 Dialogue: 100,0:05:07.16,0:05:10.71,Normal Dialog Text,,0,0,0,,{\rCHS}我不想告诉大家我会烘焙是有原因的\N{\rENG}There's a reason I don't like telling anybody I like baking.
 Dialogue: 100,0:05:10.71,0:05:12.18,Normal Dialog Text,,0,0,0,,{\rCHS}什么原因呢? \N{\rENG}And what's that?
-Dialogue: 100,0:05:12.68,0:05:15.36,Normal Dialog Text,,0,0,0,,{\rCHS}因为烘焙很搓 史蒂文! \N{\rENG}Because it's lame Steven!
+Dialogue: 100,0:05:12.68,0:05:15.36,Normal Dialog Text,,0,0,0,,{\rCHS}因为烘焙很矬 史蒂文! \N{\rENG}Because it's lame Steven!
 Dialogue: 100,0:05:15.36,0:05:16.76,Normal Dialog Text,,0,0,0,,{\rCHS}要是参加这个聚会时\N{\rENG}If I show up to this party
 Dialogue: 100,0:05:16.76,0:05:20.42,Normal Dialog Text,,0,0,0,,{\rCHS}我带着这个奇怪的紫色蛋糕和莎蒂的话 \N{\rENG}with my family's weird purple cake and with Sadie
 Dialogue: 100,0:05:20.74,0:05:22.60,Normal Dialog Text,,0,0,0,,{\rCHS}所有人都会知道我喜欢烘焙\N{\rENG}everybody's gonna know I love baking
