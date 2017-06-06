@@ -14,13 +14,14 @@ Update Details: 已校对，要翻译画面
 
 [Aegisub Project Garbage]
 Last Style Storage: Steven Universe Release
-Audio File: ../../../video-convert/src/YP-SU-1R-04x21.mkv
-Video File: ../../../video-convert/src/YP-SU-1R-04x21.mkv
+Audio File: ../../../Steven.Universe/S04/Steven.Universe.S04E21.Doug.Out.1080p.WEB-DL.AAC2.0.H264-iT00NZ.mkv
+Video File: ../../../Steven.Universe/S04/Steven.Universe.S04E21.Doug.Out.1080p.WEB-DL.AAC2.0.H264-iT00NZ.mkv
 Video AR Mode: 4
 Video AR Value: 1.780669
 Video Zoom Percent: 0.500000
-Active Line: 16
-Video Position: 51
+Scroll Position: 252
+Active Line: 256
+Video Position: 14865
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -44,268 +45,268 @@ Style: ENG_BKG,Arial,36,&H00FFFFFF,&H000000FF,&H00171717,&H00171717,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 1,0:00:00.60,0:00:02.10,SU Title,,0,0,0,,{\xshad-0\yshad16\pos(580,484)}道格出动
-Dialogue: 1,0:00:02.10,0:00:03.60,SU Claim,,0,0,0,,欢迎关注微博@UUU字幕组，获取最新熟肉信息！
-Dialogue: 1,0:00:02.10,0:00:03.60,SU Team Title,,0,0,0,,{\pos(1725,260)}出品
-Dialogue: 1,0:00:02.10,0:00:03.60,SU Team Member,,0,0,0,,{\pos(1725,320)}UUU字幕组
-Dialogue: 1,0:00:02.10,0:00:03.60,SU Team Title,,0,0,0,,{\pos(1725,380)}翻译
-Dialogue: 1,0:00:02.10,0:00:03.60,SU Team Member,,0,0,0,,{\pos(1725,440)}草
-Dialogue: 1,0:00:02.10,0:00:03.60,SU Team Title,,0,0,0,,{\pos(1725,500)}校对
-Dialogue: 1,0:00:02.10,0:00:03.60,SU Team Member,,0,0,0,,{\pos(1725,560)}Husky
-Dialogue: 1,0:00:02.10,0:00:03.60,SU Team Title,,0,0,0,,{\pos(1725,620)}特效
-Dialogue: 1,0:00:02.10,0:00:03.60,SU Team Member,,0,0,0,,{\pos(1725,680)}presisco
-Dialogue: 1,0:00:02.10,0:00:03.60,SU Team Title,,0,0,0,,{\pos(1725,740)}压制
-Dialogue: 1,0:00:02.10,0:00:03.60,SU Team Member,,0,0,0,,{\pos(1725,800)}依依
-Dialogue: 0,0:00:02.10,0:00:03.60,SU Team Background,,0,0,0,,{\bord0\xshad-0\yshad16\pos(1725,860)}{\p1}m -1 122 b -1 -19 -19 -1 122 -1 l 251 -1 b 390 -1 377 -19 377 122 l 377 500 b 377 642 390 628 251 628 l 122 628 b -19 628 -1 642 -1 500 l -1 122 {\p0}
-Dialogue: 100,0:00:03.81,0:00:05.94,Normal Dialog Text,,0,0,0,,{\rCHS}谢谢你的薯渣, 皮弟! \N{\rENG}Thanks for the bits, Peedee.
-Dialogue: 100,0:00:05.94,0:00:06.98,Normal Dialog Text,,0,0,0,,{\rCHS}对, 还有 告诉罗纳多 \N{\rENG}Oh, and tell Ronaldo
-Dialogue: 100,0:00:06.98,0:00:09.44,Normal Dialog Text,,0,0,0,,{\rCHS}我希望他脸上的红疹能赶快好起来\N{\rENG}I hope his weird rash clears up soon.
-Dialogue: 100,0:00:11.51,0:00:14.35,Normal Dialog Text,,0,0,0,,{\rCHS}生活有时候还真刺激呢, 对不? \N{\rENG}Life can get really intense, huh?
-Dialogue: 100,0:00:14.35,0:00:16.35,Normal Dialog Text,,0,0,0,,{\rCHS}是啊, 尤其是你的人生\N{\rENG}Yeah, especially your life.
-Dialogue: 100,0:00:16.35,0:00:19.29,Normal Dialog Text,,0,0,0,,{\rCHS}来瞧瞧 -- 外星人绑架事件\N{\rENG}Let's see -- alien abduction.
-Dialogue: 100,0:00:19.29,0:00:21.92,Normal Dialog Text,,0,0,0,,{\rCHS}外太空人类动物园一日游\N{\rENG}Going to a weird zoo for humans in space.
-Dialogue: 100,0:00:21.93,0:00:23.12,Normal Dialog Text,,0,0,0,,{\rCHS}还有从两个\N{\rENG}And sneaking out
-Dialogue: 100,0:00:23.13,0:00:25.79,Normal Dialog Text,,0,0,0,,{\rCHS}星际暴君眼皮底下溜走! \N{\rENG}right past a pair of intergalactic tyrants!
-Dialogue: 100,0:00:27.63,0:00:29.70,Normal Dialog Text,,0,0,0,,{\rCHS}不过, 最后总能会安全回到\N{\rENG}Well, it's nice to know
-Dialogue: 100,0:00:29.70,0:00:32.03,Normal Dialog Text,,0,0,0,,{\rCHS}像今天这样和平的日子中\N{\rENG}we can still have peaceful days like this
-Dialogue: 100,0:00:32.04,0:00:33.33,Normal Dialog Text,,0,0,0,,{\rCHS}这是最好的\N{\rENG}without any trouble.
-Dialogue: 100,0:00:33.34,0:00:34.90,Normal Dialog Text,,0,0,0,,{\rCHS}唔, 呃\N{\rENG}Mm. Oof.
-Dialogue: 100,0:00:34.90,0:00:36.14,Normal Dialog Text,,0,0,0,,{\rCHS}差一点点\N{\rENG}Almost.
-Dialogue: 100,0:00:36.14,0:00:37.34,Normal Dialog Text,,0,0,0,,{\rCHS}嘿, 小朋友们! \N{\rENG}Hey, kids!
-Dialogue: 100,0:00:37.34,0:00:39.71,Normal Dialog Text,,0,0,0,,{\rCHS}放下手中的薯渣, 放下它们! \N{\rENG}Drop those fry bits. Drop 'em!
-Dialogue: 100,0:00:39.71,0:00:41.88,Normal Dialog Text,,0,0,0,,{\rCHS}哦不, 是警察! \N{\rENG}Oh, no, it's the cops!
-Dialogue: 100,0:00:41.88,0:00:43.54,Normal Dialog Text,,0,0,0,,{\rCHS}常年购买地下菜单\N{\rENG}All the years of ordering off menu
-Dialogue: 100,0:00:43.55,0:00:45.58,Normal Dialog Text,,0,0,0,,{\rCHS}它的报应总算是来嘲讽我了! \N{\rENG}have finally come back to taunt me!
-Dialogue: 100,0:00:45.58,0:00:46.81,Normal Dialog Text,,0,0,0,,{\rCHS}你是想说它们开始缠扰你吗? \N{\rENG}You mean haunt you?
-Dialogue: 100,0:00:46.82,0:00:48.65,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文, 那辆车根本不是警车\N{\rENG}Steven, that's not even a police car.
-Dialogue: 100,0:00:48.65,0:00:50.28,Normal Dialog Text,,0,0,0,,{\rCHS}-那只是个... -我投降! \N{\rENG}-It's just... -I surrender!
-Dialogue: 100,0:00:50.29,0:00:51.72,Normal Dialog Text,,0,0,0,,{\rCHS}我知道我这么做是犯法的\N{\rENG}I knew I was breaking the rules,
-Dialogue: 100,0:00:51.72,0:00:53.39,Normal Dialog Text,,0,0,0,,{\rCHS}但…我却没有停下! \N{\rENG}but... I did it anyway!
-Dialogue: 100,0:00:53.39,0:00:55.92,Normal Dialog Text,,0,0,0,,{\rCHS}我已经嗑薯渣嗑到精神失常了! \N{\rENG}The bits had their hooks in me!
-Dialogue: 100,0:00:57.23,0:00:59.16,Normal Dialog Text,,0,0,0,,{\rCHS}爸爸, 别再逗他了\N{\rENG}Dad, quit joking around.
-Dialogue: 100,0:00:59.16,0:01:00.90,Normal Dialog Text,,0,0,0,,{\rCHS}真是的, 康妮! \N{\rENG}Come on, Connie!
-Dialogue: 100,0:01:00.90,0:01:02.50,Normal Dialog Text,,0,0,0,,{\rCHS}我差点就骗过他了\N{\rENG}I almost had him.
-Dialogue: 100,0:01:02.50,0:01:04.80,Normal Dialog Text,,0,0,0,,{\rCHS}莫雪伦先生? \N{\rENG}Mr. Maheswaran?
-Dialogue: 100,0:01:04.80,0:01:09.07,Normal Dialog Text,,0,0,0,,{\rCHS}哇哦, 我可没想到他会当真啊\N{\rENG}Wow, I didn't think he'd take it that seriously.
-Dialogue: 100,0:01:09.94,0:01:11.81,Normal Dialog Text,,0,0,0,,{\rCHS}你还好吗, 史蒂文? \N{\rENG}You okay there, Steven?
-Dialogue: 100,0:01:11.81,0:01:14.01,Normal Dialog Text,,0,0,0,,{\rCHS}哦没问题, 地上还挺舒服的\N{\rENG}Oh, yeah. I love it down here.
-Dialogue: 100,0:01:14.01,0:01:17.35,Normal Dialog Text,,0,0,0,,{\rCHS}我勇敢的小剑士怎么样啊? \N{\rENG}And how's my swashbuckling swashbuckler doing?
-Dialogue: 100,0:01:17.35,0:01:18.61,Normal Dialog Text,,0,0,0,,{\rCHS}我很好\N{\rENG}I'm good.
-Dialogue: 100,0:01:18.62,0:01:20.88,Normal Dialog Text,,0,0,0,,{\rCHS}你知道吗史蒂文, 你估计是有点脱水\N{\rENG}You know, Steven, maybe you're dehydrated.
-Dialogue: 100,0:01:20.88,0:01:24.02,Normal Dialog Text,,0,0,0,,{\rCHS}都是因为晚饭前吃那么多垃圾食品\N{\rENG}Probably from eating that garbage before dinner.
-Dialogue: 100,0:01:24.02,0:01:27.16,Normal Dialog Text,,0,0,0,,{\rCHS}充满敬意地告诉您, 薯渣可不是垃圾食品\N{\rENG}Respectfully, fry bits are not garbage.
-Dialogue: 100,0:01:27.16,0:01:29.96,Normal Dialog Text,,0,0,0,,{\rCHS}别担心史蒂文, 他只是在逗你玩\N{\rENG}Don't worry, Steven. He's just messing with you.
-Dialogue: 100,0:01:29.96,0:01:32.83,Normal Dialog Text,,0,0,0,,{\rCHS}抱歉啦史蒂文, 快起来吧\N{\rENG}Sorry, Steven. Let's get you up.
-Dialogue: 100,0:01:32.83,0:01:35.53,Normal Dialog Text,,0,0,0,,{\rCHS}你在海滩市干嘛呢爸爸? \N{\rENG}What are you even doing in Beach City, Dad?
-Dialogue: 100,0:01:35.53,0:01:37.60,Normal Dialog Text,,0,0,0,,{\rCHS}实际上我来这里有工作要做\N{\rENG}I'm out here on a job, actually.
-Dialogue: 100,0:01:37.60,0:01:39.43,Normal Dialog Text,,0,0,0,,{\rCHS}我工作的那个私人安保公司\N{\rENG}The private security company I work for
-Dialogue: 100,0:01:39.44,0:01:41.90,Normal Dialog Text,,0,0,0,,{\rCHS}收到了一位名叫哈罗德.微笑先生的来电\N{\rENG}got a call from a Mr. Harold Smiley
-Dialogue: 100,0:01:41.91,0:01:45.11,Normal Dialog Text,,0,0,0,,{\rCHS}说有人潜伏在游乐园附近\N{\rENG}stating that someone's been lurking around Funland
-Dialogue: 100,0:01:45.11,0:01:46.37,Normal Dialog Text,,0,0,0,,{\rCHS}在乐园打烊之后\N{\rENG}after hours.
-Dialogue: 100,0:01:46.38,0:01:48.14,Normal Dialog Text,,0,0,0,,{\rCHS}所以我今晚一整晚都要呆在这里\N{\rENG}So, I'll be here all night...
-Dialogue: 100,0:01:48.14,0:01:51.18,Normal Dialog Text,,0,0,0,,{\rCHS}在附近盯梢\N{\rENG}on a stakeout.
-Dialogue: 100,0:01:51.18,0:01:53.21,Normal Dialog Text,,0,0,0,,{\rCHS}哇啊, 盯梢! \N{\rENG}Whoa, a stakeout!
-Dialogue: 100,0:01:53.22,0:01:55.45,Normal Dialog Text,,0,0,0,,{\rCHS}爸爸, 这太酷了! \N{\rENG}Dad, that's so cool!
-Dialogue: 100,0:01:55.45,0:01:57.85,Normal Dialog Text,,0,0,0,,{\rCHS}对吧, 挺酷的不是吗? \N{\rENG}Yeah, itispretty cool, huh?
-Dialogue: 100,0:01:57.85,0:02:01.12,Normal Dialog Text,,0,0,0,,{\rCHS}保护海滩市的居民\N{\rENG}Protecting the citizens of Beach City.
-Dialogue: 100,0:02:01.12,0:02:02.89,Normal Dialog Text,,0,0,0,,{\rCHS}就像你们一样! \N{\rENG}Just like you guys!
-Dialogue: 100,0:02:02.89,0:02:04.69,Normal Dialog Text,,0,0,0,,{\rCHS}这不是很有趣吗, 史蒂文? \N{\rENG}Wouldn't that be fun, Steven?
-Dialogue: 100,0:02:04.69,0:02:06.86,Normal Dialog Text,,0,0,0,,{\rCHS}我有机会也想在哪里盯梢\N{\rENG}I'd love to go on a stakeout sometime.
-Dialogue: 100,0:02:06.86,0:02:09.56,Normal Dialog Text,,0,0,0,,{\rCHS}或许你们几个今晚能帮上忙\N{\rENG}Maybe you guys could help out tonight.
-Dialogue: 100,0:02:09.57,0:02:11.23,Normal Dialog Text,,0,0,0,,{\rCHS}-什么?! -什么?! \N{\rENG}-What?! -What?!
-Dialogue: 100,0:02:11.23,0:02:14.57,Normal Dialog Text,,0,0,0,,{\rCHS}我们不算正规的安保人员也可以吗? \N{\rENG}Even though we're not officially sanctioned security personnel?
-Dialogue: 100,0:02:14.57,0:02:15.87,Normal Dialog Text,,0,0,0,,{\rCHS}嘿, 没什么大不了的\N{\rENG}Hey, why not?
-Dialogue: 100,0:02:15.87,0:02:19.01,Normal Dialog Text,,0,0,0,,{\rCHS}估计就是附近哪个小伙子在游荡\N{\rENG}It's probably just some kid loitering.
-Dialogue: 100,0:02:19.01,0:02:20.64,Normal Dialog Text,,0,0,0,,{\rCHS}嘿, 小朋友! \N{\rENG}Hey, kid!
-Dialogue: 100,0:02:22.28,0:02:23.61,Normal Dialog Text,,0,0,0,,{\rCHS}对, 就是你! \N{\rENG}Yes, hello?
-Dialogue: 100,0:02:23.61,0:02:27.72,Normal Dialog Text,,0,0,0,,{\rCHS}你头上的警示牌写着禁止游荡\N{\rENG}The sign above you says no loitering.
-Dialogue: 100,0:02:27.72,0:02:30.38,Normal Dialog Text,,0,0,0,,{\rCHS}这群人真是一代比一代年轻\N{\rENG}They get younger every year.
-Dialogue: 100,0:02:30.39,0:02:32.12,Normal Dialog Text,,0,0,0,,{\rCHS}所以, 你们准备好了嘛? \N{\rENG}So, y'all ready for this?
-Dialogue: 100,0:02:32.12,0:02:35.92,Normal Dialog Text,,0,0,0,,{\rCHS}有些年轻人可是会说脏话的哦\N{\rENG}Some of these teens can use some pretty strong language.
-Dialogue: 100,0:02:35.93,0:02:39.16,Normal Dialog Text,,0,0,0,,{\rCHS}嘿, 史蒂文, 你想来一起帮忙毁掉某个小年轻的夜晚吗? \N{\rENG}Hey, Steven, you want to help ruin some teen's night?
-Dialogue: 100,0:02:39.16,0:02:40.80,Normal Dialog Text,,0,0,0,,{\rCHS}随时愿意\N{\rENG}Always.
-Dialogue: 100,0:02:43.57,0:02:46.37,Normal Dialog Text,,0,0,0,,{\rCHS}海滩边没什么异常\N{\rENG}Coast is all clear behind us.
-Dialogue: 100,0:02:46.37,0:02:48.50,Normal Dialog Text,,0,0,0,,{\rCHS}一切看上去都挺安静的\N{\rENG}Things seem pretty quiet so far.
-Dialogue: 100,0:02:48.51,0:02:50.20,Normal Dialog Text,,0,0,0,,{\rCHS}哈, 当然啦\N{\rENG}Well, yeah.
-Dialogue: 100,0:02:50.21,0:02:52.57,Normal Dialog Text,,0,0,0,,{\rCHS}有咱们在这里守着, 没人会想越过栅栏的\N{\rENG}Nobody's even gonna try hopping the fence with us here.
-Dialogue: 100,0:02:52.58,0:02:53.84,Normal Dialog Text,,0,0,0,,{\rCHS}但没人知道会发生什么\N{\rENG}But you never know.
-Dialogue: 100,0:02:53.84,0:02:57.25,Normal Dialog Text,,0,0,0,,{\rCHS}有时候, 我甚至会从车内走出去\N{\rENG}Sometimes, I actually leave the car.
-Dialogue: 100,0:02:57.25,0:02:58.51,Normal Dialog Text,,0,0,0,,{\rCHS}-哇哦 -哇哦\N{\rENG}-Wow. -Wow.
-Dialogue: 100,0:02:58.52,0:03:01.35,Normal Dialog Text,,0,0,0,,{\rCHS}估计你们在拯救世界的时候\N{\rENG}I'm sure you guys do lots of waiting
-Dialogue: 100,0:03:01.35,0:03:02.68,Normal Dialog Text,,0,0,0,,{\rCHS}也常需要长时间潜伏\N{\rENG}when you're saving the world.
-Dialogue: 100,0:03:02.69,0:03:05.99,Normal Dialog Text,,0,0,0,,{\rCHS}你们也总不会一直干仗\N{\rENG}It can't be all bam, pow action all the time.
-Dialogue: 100,0:03:05.99,0:03:07.59,Normal Dialog Text,,0,0,0,,{\rCHS}啊, 我倒希望那样\N{\rENG}Aw, I wish.
-Dialogue: 100,0:03:07.59,0:03:09.16,Normal Dialog Text,,0,0,0,,{\rCHS}我们的确老是在干仗\N{\rENG}There's a lot of fighting.
-Dialogue: 100,0:03:09.16,0:03:12.36,Normal Dialog Text,,0,0,0,,{\rCHS}我是指, 某种意义上 我继承了一场星际战争\N{\rENG}I mean, I kind of inherited an intergalactic war.
-Dialogue: 100,0:03:12.36,0:03:14.46,Normal Dialog Text,,0,0,0,,{\rCHS}嘿, 爸爸, 这个纸箱子是干嘛的\N{\rENG}Hey, Dad, what's this box?
-Dialogue: 100,0:03:14.46,0:03:16.86,Normal Dialog Text,,0,0,0,,{\rCHS}哦, 这是我刚刚没收了的东西\N{\rENG}Oh, I just confiscated that
-Dialogue: 100,0:03:16.87,0:03:20.00,Normal Dialog Text,,0,0,0,,{\rCHS}是一个小伙计在服装店偷的\N{\rENG}from a kid who was shoplifting in a costume shop.
-Dialogue: 100,0:03:20.00,0:03:21.17,Normal Dialog Text,,0,0,0,,{\rCHS}喔啊\N{\rENG}Whoa!
-Dialogue: 100,0:03:21.17,0:03:23.04,Normal Dialog Text,,0,0,0,,{\rCHS}你完全可以用它们做伪装啊! \N{\rENG}You could totally use these for disguises.
-Dialogue: 100,0:03:23.04,0:03:25.74,Normal Dialog Text,,0,0,0,,{\rCHS}你有没有想过…变个装? \N{\rENG}Don't you ever need to go...undercover?
-Dialogue: 100,0:03:25.74,0:03:29.81,Normal Dialog Text,,0,0,0,,{\rCHS}你怎么知道我现在没有变装呢? \N{\rENG}How do you know I'm not undercover right now?
-Dialogue: 100,0:03:30.78,0:03:32.28,Normal Dialog Text,,0,0,0,,{\rCHS}开玩笑的\N{\rENG}Just kidding.
-Dialogue: 100,0:03:32.28,0:03:33.71,Normal Dialog Text,,0,0,0,,{\rCHS}我戴眼镜因为我近视\N{\rENG}I need these to see.
-Dialogue: 100,0:03:33.72,0:03:36.15,Normal Dialog Text,,0,0,0,,{\rCHS}但如果你们想玩玩那些东西\N{\rENG}But if you guys want to play with that stuff,
-Dialogue: 100,0:03:36.16,0:03:36.92,Normal Dialog Text,,0,0,0,,{\rCHS}随便玩\N{\rENG}go ahead.
-Dialogue: 100,0:03:36.92,0:03:37.95,Normal Dialog Text,,0,0,0,,{\rCHS}好的\N{\rENG}Okay.
-Dialogue: 100,0:03:37.95,0:03:39.45,Normal Dialog Text,,0,0,0,,{\rCHS}嗯, 我想玩玩变装\N{\rENG}Well, I want to be undercover.
-Dialogue: 100,0:03:39.46,0:03:40.66,Normal Dialog Text,,0,0,0,,{\rCHS}变装成…\N{\rENG}I'll be...
-Dialogue: 100,0:03:40.66,0:03:42.92,Normal Dialog Text,,0,0,0,,{\rCHS}维罗尼卡 库卡曼卡\N{\rENG}Veronica Cucamonga.
-Dialogue: 100,0:03:42.93,0:03:48.03,Normal Dialog Text,,0,0,0,,{\rCHS}而我是, 意大利的彼得 比萨波波里斯\N{\rENG}It's a-me, Peter Pizzapoppolis from Italia!
-Dialogue: 100,0:03:48.03,0:03:50.90,Normal Dialog Text,,0,0,0,,{\rCHS}比萨波波利斯? 听上去像个希腊名\N{\rENG}Pizzapoppolis? That sounds Greek.
-Dialogue: 100,0:03:50.90,0:03:52.73,Normal Dialog Text,,0,0,0,,{\rCHS}你确定你不想变装吗, 爸爸? \N{\rENG}You sure you don't want anything, Dad?
-Dialogue: 100,0:03:52.74,0:03:54.24,Normal Dialog Text,,0,0,0,,{\rCHS}这里还有个小丑鼻子\N{\rENG}There's a clown nose back here.
-Dialogue: 100,0:03:55.44,0:03:56.67,Normal Dialog Text,,0,0,0,,{\rCHS}不谢了\N{\rENG}No, thanks.
-Dialogue: 100,0:03:56.67,0:03:58.91,Normal Dialog Text,,0,0,0,,{\rCHS}保安可不是什么玩笑\N{\rENG}Being a security guard is no joke,
-Dialogue: 100,0:03:58.91,0:04:02.44,Normal Dialog Text,,0,0,0,,{\rCHS}所以他们给每个保安都装备了这个宝贝\N{\rENG}which is why they equip us with these.
-Dialogue: 100,0:04:02.45,0:04:04.48,Normal Dialog Text,,0,0,0,,{\rCHS}哇哦! 手电筒! \N{\rENG}Wow! A flashlight!
-Dialogue: 100,0:04:04.48,0:04:05.71,Normal Dialog Text,,0,0,0,,{\rCHS}没错\N{\rENG}Yeah.
-Dialogue: 100,0:04:05.72,0:04:07.95,Normal Dialog Text,,0,0,0,,{\rCHS}有时 世界会非常黑暗的\N{\rENG}It gets pretty dark out there.
-Dialogue: 100,0:04:09.52,0:04:10.99,Normal Dialog Text,,0,0,0,,{\rCHS}那是什么? \N{\rENG}What was that?
-Dialogue: 100,0:04:13.46,0:04:16.79,Normal Dialog Text,,0,0,0,,{\rCHS}妈妈咪呀, 我的栅栏呀! \N{\rENG}Mama mia! The fence-a!
-Dialogue: 100,0:04:16.79,0:04:18.76,Normal Dialog Text,,0,0,0,,{\rCHS}这是怎么做到的? \N{\rENG}How on earth did this happen?
-Dialogue: 100,0:04:18.76,0:04:21.40,Normal Dialog Text,,0,0,0,,{\rCHS}如果这是某个混球用钳子剪的\N{\rENG}If this were some punk with a pair of bolt cutters,
-Dialogue: 100,0:04:21.40,0:04:22.80,Normal Dialog Text,,0,0,0,,{\rCHS}那也会是个整齐的切口\N{\rENG}this would be a clean cut.
-Dialogue: 100,0:04:22.80,0:04:26.13,Normal Dialog Text,,0,0,0,,{\rCHS}但这根铁链看上去像是被直接撕断的\N{\rENG}But this chain looks like it was torn apart.
-Dialogue: 100,0:04:26.14,0:04:27.54,Normal Dialog Text,,0,0,0,,{\rCHS}这可不是哪个小鬼做的\N{\rENG}This was no kid.
-Dialogue: 100,0:04:27.54,0:04:30.27,Normal Dialog Text,,0,0,0,,{\rCHS}好吧, 如果不是哪个误入歧途的年轻人\N{\rENG}Well, if it wasn't a misguided teen,
-Dialogue: 100,0:04:30.27,0:04:31.61,Normal Dialog Text,,0,0,0,,{\rCHS}又会是谁干的呢? \N{\rENG}what could it be?
-Dialogue: 100,0:04:31.61,0:04:33.77,Normal Dialog Text,,0,0,0,,{\rCHS}这就是我们的任务了\N{\rENG}It's up to us to find out.
-Dialogue: 100,0:04:33.78,0:04:35.94,Normal Dialog Text,,0,0,0,,{\rCHS}听上去是调查时间了\N{\rENG}Sounds like we better investigate.
-Dialogue: 100,0:04:35.95,0:04:38.61,Normal Dialog Text,,0,0,0,,{\rCHS}库卡曼卡, 比萨波波利斯\N{\rENG}Cucamonga, Pizzapoppolis.
-Dialogue: 100,0:04:38.62,0:04:40.21,Normal Dialog Text,,0,0,0,,{\rCHS}-在! -在! \N{\rENG}-Right! -Right!
-Dialogue: 100,0:04:41.35,0:04:45.52,Normal Dialog Text,,0,0,0,,{\rCHS}嗯? \N{\rENG}Huh?
-Dialogue: 100,0:04:47.06,0:04:48.99,Normal Dialog Text,,0,0,0,,{\rCHS}有人吗? 我是保安! \N{\rENG}Hello? This is security!
-Dialogue: 100,0:04:48.99,0:04:51.89,Normal Dialog Text,,0,0,0,,{\rCHS}你现在在闯入了私人领地\N{\rENG}You are trespassing on private property.
-Dialogue: 100,0:04:51.89,0:04:54.93,Normal Dialog Text,,0,0,0,,{\rCHS}不要试图给自己做炸热狗吃\N{\rENG}Do not attempt to make yourself a corn dog.
-Dialogue: 100,0:04:54.93,0:04:56.96,Normal Dialog Text,,0,0,0,,{\rCHS}欢乐园公司法人没有义务对\N{\rENG}Funland Incorporated is not liable
-Dialogue: 100,0:04:56.97,0:04:59.47,Normal Dialog Text,,0,0,0,,{\rCHS}无执照的油炸锅使用者\N{\rENG}for the harm you may incur while trying to operate
-Dialogue: 100,0:04:59.47,0:05:01.10,Normal Dialog Text,,0,0,0,,{\rCHS}可能发生的事故负责\N{\rENG}a deep fryer without a license.
-Dialogue: 100,0:05:01.10,0:05:03.30,Normal Dialog Text,,0,0,0,,{\rCHS}你需要执照才能用炸锅? \N{\rENG}You need a license to operate a deep fryer?
-Dialogue: 100,0:05:03.31,0:05:04.64,Normal Dialog Text,,0,0,0,,{\rCHS}喔啊\N{\rENG}Whoa.
-Dialogue: 100,0:05:04.64,0:05:06.34,Normal Dialog Text,,0,0,0,,{\rCHS}嘿, 请止步! \N{\rENG}Hey, stop right there!
-Dialogue: 100,0:05:08.51,0:05:10.61,Normal Dialog Text,,0,0,0,,{\rCHS}跟上我\N{\rENG}Follow my lead.
-Dialogue: 100,0:05:13.22,0:05:15.08,Normal Dialog Text,,0,0,0,,{\rCHS}不许动! \N{\rENG}Don't move!
-Dialogue: 100,0:05:15.08,0:05:16.55,Normal Dialog Text,,0,0,0,,{\rCHS}我们跟丢了? \N{\rENG}Did we lose them?
-Dialogue: 100,0:05:16.55,0:05:19.12,Normal Dialog Text,,0,0,0,,{\rCHS}他们咋溜那么快哒? \N{\rENG}Which a-way did they go so fast-a?
-Dialogue: 100,0:05:19.12,0:05:22.76,Normal Dialog Text,,0,0,0,,{\rCHS}闭上嘴巴, 打开你的眼睛跟耳朵\N{\rENG}Mouths closed, eyes and ears open.
-Dialogue: 100,0:05:22.76,0:05:24.36,Normal Dialog Text,,0,0,0,,{\rCHS}嗯嗯\N{\rENG}Hmm. Hmm.
-Dialogue: 100,0:05:30.07,0:05:31.40,Normal Dialog Text,,0,0,0,,{\rCHS}糟糕的举动, 蠢货\N{\rENG}Bad move, chump.
-Dialogue: 100,0:05:31.40,0:05:34.54,Normal Dialog Text,,0,0,0,,{\rCHS}这艘飞船离不开地球咯\N{\rENG}That space ship's permanently earthbound.
-Dialogue: 100,0:05:34.54,0:05:36.70,Normal Dialog Text,,0,0,0,,{\rCHS}抓住你啦! 我是说 不许动! \N{\rENG}Gotcha! I mean freeze!
-Dialogue: 100,0:05:36.71,0:05:38.14,Normal Dialog Text,,0,0,0,,{\rCHS}哦天啊\N{\rENG}Oh, man.
-Dialogue: 100,0:05:39.51,0:05:41.88,Normal Dialog Text,,0,0,0,,{\rCHS}我们这是摊上了哪个逃脱艺术家了吗? \N{\rENG}Are we dealing with some sort of escape artist?
-Dialogue: 100,0:05:41.88,0:05:44.78,Normal Dialog Text,,0,0,0,,{\rCHS}嘿, 史蒂文, 或许我们应该把武器拿出来\N{\rENG}Hey, Steven, maybe we should get our weapons.
-Dialogue: 100,0:05:44.78,0:05:46.21,Normal Dialog Text,,0,0,0,,{\rCHS}这不必要的\N{\rENG}That won't be necessary.
-Dialogue: 100,0:05:46.22,0:05:48.68,Normal Dialog Text,,0,0,0,,{\rCHS}我们不需要恶化现在的状况\N{\rENG}We're not here to escalate the situation.
-Dialogue: 100,0:05:48.69,0:05:50.72,Normal Dialog Text,,0,0,0,,{\rCHS}再说, 一个好的保安\N{\rENG}Besides, a good security guard
-Dialogue: 100,0:05:50.72,0:05:53.45,Normal Dialog Text,,0,0,0,,{\rCHS}只需要一个可靠的手电\N{\rENG}only needs their trusty flashlight.
-Dialogue: 100,0:05:54.29,0:05:56.02,Normal Dialog Text,,0,0,0,,{\rCHS}嘿! 快开门! \N{\rENG}Hey! Open up this instant!
-Dialogue: 100,0:05:56.03,0:05:57.99,Normal Dialog Text,,0,0,0,,{\rCHS}对, 放我们出去! \N{\rENG}Yeah, let us out!
-Dialogue: 100,0:05:59.60,0:06:02.36,Normal Dialog Text,,0,0,0,,{\rCHS}-这个设施启动了! -它启动了! \N{\rENG}-The ride's moving! -The ride's moving!
-Dialogue: 100,0:06:05.03,0:06:07.37,Normal Dialog Text,,0,0,0,,{\rCHS}-我们得赶快关上它!  -别担心\N{\rENG}-We got to shut it off!  -Don't worry.
-Dialogue: 100,0:06:07.37,0:06:08.84,Normal Dialog Text,,0,0,0,,{\rCHS}吃我一手电\N{\rENG}I'll just use my trusty flashlight.
-Dialogue: 100,0:06:10.71,0:06:12.24,Normal Dialog Text,,0,0,0,,{\rCHS}哦不! \N{\rENG}Oh, no!
-Dialogue: 100,0:06:12.24,0:06:14.04,Normal Dialog Text,,0,0,0,,{\rCHS}牛顿的力量! \N{\rENG}The laws of physics!
-Dialogue: 100,0:06:14.04,0:06:15.04,Normal Dialog Text,,0,0,0,,{\rCHS}嗷! \N{\rENG}Ow!
-Dialogue: 100,0:06:15.04,0:06:16.84,Normal Dialog Text,,0,0,0,,{\rCHS}-你还好吗爸爸? -没问题\N{\rENG}You okay, Dad? Yeah.
-Dialogue: 100,0:06:16.85,0:06:19.05,Normal Dialog Text,,0,0,0,,{\rCHS}而且我想到了个新点子\N{\rENG}I've got a new idea, though.
-Dialogue: 100,0:06:19.05,0:06:22.25,Normal Dialog Text,,0,0,0,,{\rCHS}这回, 我要换个角度扔它\N{\rENG}This time, I'll throw it at an angle.
-Dialogue: 100,0:06:22.25,0:06:24.85,Normal Dialog Text,,0,0,0,,{\rCHS}-爸, 我不觉得这有用! -走你! \N{\rENG}Dad, I don't think that'll work. Go!
-Dialogue: 100,0:06:24.85,0:06:27.72,Normal Dialog Text,,0,0,0,,{\rCHS}啊! ! \N{\rENG}Aah!
-Dialogue: 100,0:06:29.53,0:06:33.39,Normal Dialog Text,,0,0,0,,{\rCHS}我们得从这个辣肉丸子里逃出去!! \N{\rENG}We got to get out of this spicy meatball!
-Dialogue: 100,0:06:36.26,0:06:38.80,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 这块地方没在转\N{\rENG}Hey, this part isn't moving at all.
-Dialogue: 100,0:06:38.80,0:06:40.74,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文! \N{\rENG}Steven!
-Dialogue: 100,0:06:40.74,0:06:42.17,Normal Dialog Text,,0,0,0,,{\rCHS}对不起! \N{\rENG}Sorry!
-Dialogue: 100,0:06:48.51,0:06:53.85,Normal Dialog Text,,0,0,0,,{\rCHS}听着, 你这个健美狂魔逃脱艺术家罪犯\N{\rENG}Listen, you bodybuilding escape artist criminal,
-Dialogue: 100,0:06:53.85,0:06:55.72,Normal Dialog Text,,0,0,0,,{\rCHS}这可不是什么游戏\N{\rENG}this isn't a game.
-Dialogue: 100,0:06:55.72,0:07:00.15,Normal Dialog Text,,0,0,0,,{\rCHS}你可是威胁到了一个在岗执法人员和俩未成年人的生命安全\N{\rENG}You've endangered an officer of the law and two small children.
-Dialogue: 100,0:07:00.16,0:07:03.79,Normal Dialog Text,,0,0,0,,{\rCHS}快快束手就擒 否则后果严重! \N{\rENG}Show yourself before you get into serious trouble!
-Dialogue: 100,0:07:03.79,0:07:05.26,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文, 你觉不觉得\N{\rENG}Steven, do you think
-Dialogue: 100,0:07:05.26,0:07:08.26,Normal Dialog Text,,0,0,0,,{\rCHS}这有可能是某个宝石怪物或者变异体干的? \N{\rENG}maybe it's some kind of Gem mutant or monster?
-Dialogue: 100,0:07:08.26,0:07:10.77,Normal Dialog Text,,0,0,0,,{\rCHS}有可能, 但它试图困住咱们\N{\rENG}It could be, but it trapped us.
-Dialogue: 100,0:07:10.77,0:07:13.33,Normal Dialog Text,,0,0,0,,{\rCHS}宝石怪物和变异体没有这么聪明\N{\rENG}The monsters and mutants aren't that smart.
-Dialogue: 100,0:07:13.34,0:07:16.60,Normal Dialog Text,,0,0,0,,{\rCHS}那我们有可能在对付一个母星宝石人吗? \N{\rENG}Could we be dealing with a Homeworld Gem?
-Dialogue: 100,0:07:16.61,0:07:19.67,Normal Dialog Text,,0,0,0,,{\rCHS}母星? 宝石怪? 变异体? \N{\rENG}Homeworld? Gem? Mutant?
-Dialogue: 100,0:07:19.68,0:07:23.11,Normal Dialog Text,,0,0,0,,{\rCHS}呃, 不管这是什么东西\N{\rENG}I, uh -- well, whatever it is,
-Dialogue: 100,0:07:23.11,0:07:27.82,Normal Dialog Text,,0,0,0,,{\rCHS}如果有人闯入这里, 他们要先过我这一关\N{\rENG}if someone's trespassing, they'll have to answer to me.
-Dialogue: 100,0:07:31.49,0:07:33.52,Normal Dialog Text,,0,0,0,,{\rCHS}好安静\N{\rENG}It's so quiet.
-Dialogue: 100,0:07:34.96,0:07:37.59,Normal Dialog Text,,0,0,0,,{\rCHS}我简直不敢相信\N{\rENG}I can't believe this.
-Dialogue: 100,0:07:37.59,0:07:38.86,Normal Dialog Text,,0,0,0,,{\rCHS}他们在嘲讽我们\N{\rENG}They're mocking us.
-Dialogue: 100,0:07:38.86,0:07:40.26,Normal Dialog Text,,0,0,0,,{\rCHS}快现身吧! \N{\rENG}Show yourself!
-Dialogue: 100,0:07:40.26,0:07:41.90,Normal Dialog Text,,0,0,0,,{\rCHS}你到底想要什么? \N{\rENG}What is it that you want here?
-Dialogue: 100,0:07:41.90,0:07:43.26,Normal Dialog Text,,0,0,0,,{\rCHS}奖品? 欢乐? \N{\rENG}Prizes? Fun?
-Dialogue: 100,0:07:43.27,0:07:46.50,Normal Dialog Text,,0,0,0,,{\rCHS}你觉得这是你找乐子的地方? \N{\rENG}You think this is the place to get your kicks?
-Dialogue: 100,0:07:46.50,0:07:48.97,Normal Dialog Text,,0,0,0,,{\rCHS}你这个变态怪物\N{\rENG}You sick monster.
-Dialogue: 100,0:07:48.97,0:07:53.51,Normal Dialog Text,,0,0,0,,{\rCHS}摧毁了这个欢乐之园的圣洁! \N{\rENG}Destroying the sanctity of this land of fun!
-Dialogue: 100,0:07:53.51,0:07:54.71,Normal Dialog Text,,0,0,0,,{\rCHS}你身后! \N{\rENG}Behind you!
-Dialogue: 100,0:07:54.71,0:07:55.94,Normal Dialog Text,,0,0,0,,{\rCHS}爸爸! \N{\rENG}Dad!
-Dialogue: 100,0:07:55.95,0:07:58.15,Normal Dialog Text,,0,0,0,,{\rCHS}莫雪伦先生! \N{\rENG}Mr. Maheswaran!
-Dialogue: 100,0:07:58.15,0:08:00.18,Normal Dialog Text,,0,0,0,,{\rCHS}呃, 不要担心, 我没事的\N{\rENG}Uh, don't worry. I'm fine.
-Dialogue: 100,0:08:00.22,0:08:02.22,Normal Dialog Text,,0,0,0,,{\rCHS}只是 -- 他们在那里! \N{\rENG}Just -- there they are!
-Dialogue: 100,0:08:02.22,0:08:03.45,Normal Dialog Text,,0,0,0,,{\rCHS}快来, 史蒂文! \N{\rENG}Come on, Steven!
-Dialogue: 100,0:08:03.45,0:08:05.22,Normal Dialog Text,,0,0,0,,{\rCHS}你们先走我殿后! \N{\rENG}I'm right behind you!
-Dialogue: 100,0:08:05.22,0:08:07.76,Normal Dialog Text,,0,0,0,,{\rCHS}你这回可逃不掉了! \N{\rENG}You're not getting away this time!
-Dialogue: 100,0:08:10.73,0:08:12.26,Normal Dialog Text,,0,0,0,,{\rCHS}卧靠这么多口香糖! \N{\rENG}That's a lot of gumballs!
-Dialogue: 100,0:08:12.26,0:08:14.06,Normal Dialog Text,,0,0,0,,{\rCHS}快跳! \N{\rENG}Jump!
-Dialogue: 100,0:08:14.06,0:08:15.33,Normal Dialog Text,,0,0,0,,{\rCHS}啊啊啊啊! \N{\rENG}Aah!
-Dialogue: 100,0:08:19.14,0:08:21.10,Normal Dialog Text,,0,0,0,,{\rCHS}放弃吧! \N{\rENG}It's time to give up!
-Dialogue: 500,0:08:16.80,0:08:19.27,Label Trans,,0,0,0,,{\fn黑体\fs40\c&H102C32&\bord0\shad0\pos(866,520)}此路不通
-Dialogue: 100,0:08:21.10,0:08:22.57,Normal Dialog Text,,0,0,0,,{\rCHS}你已经无路可逃了! \N{\rENG}There's no way out!
-Dialogue: 100,0:08:22.57,0:08:24.01,Normal Dialog Text,,0,0,0,,{\rCHS}口香糖? \N{\rENG}Gumballs?
-Dialogue: 100,0:08:24.01,0:08:25.54,Normal Dialog Text,,0,0,0,,{\rCHS}啊啊啊啊啊! \N{\rENG}Aaaaah!
-Dialogue: 100,0:08:25.54,0:08:27.51,Normal Dialog Text,,0,0,0,,{\rCHS}嘿, 孩子们\N{\rENG}Hey, kids.
-Dialogue: 100,0:08:27.51,0:08:30.35,Normal Dialog Text,,0,0,0,,{\rCHS}罪魁祸首就在这角落里, 爹地\N{\rENG}The culprit's at the end of this corner, Dad.
-Dialogue: 100,0:08:30.35,0:08:31.68,Normal Dialog Text,,0,0,0,,{\rCHS}干得漂亮, 你们俩\N{\rENG}Good work, you two.
-Dialogue: 100,0:08:31.68,0:08:34.88,Normal Dialog Text,,0,0,0,,{\rCHS}现在, 来瞧瞧这家伙的真面目吧\N{\rENG}Now, let's shed some light on this subject.
-Dialogue: 100,0:08:34.88,0:08:36.08,Normal Dialog Text,,0,0,0,,{\rCHS}等等\N{\rENG}Wait.
-Dialogue: 100,0:08:36.09,0:08:37.62,Normal Dialog Text,,0,0,0,,{\rCHS}洋葱! \N{\rENG}Onion!
-Dialogue: 100,0:08:37.62,0:08:38.62,Normal Dialog Text,,0,0,0,,{\rCHS}是你? \N{\rENG}You?
-Dialogue: 100,0:08:38.62,0:08:40.19,Normal Dialog Text,,0,0,0,,{\rCHS}你在这儿干嘛呢? \N{\rENG}What are you doing here?
-Dialogue: 100,0:08:40.19,0:08:43.16,Normal Dialog Text,,0,0,0,,{\rCHS}我们正在进行一场严肃的调查\N{\rENG}We're in the middle of a very important investigation.
-Dialogue: 100,0:08:43.16,0:08:46.53,Normal Dialog Text,,0,0,0,,{\rCHS}爸爸, 我觉得他就是我们要找的人\N{\rENG}Dad, I think this is who's been causing all this trouble.
-Dialogue: 100,0:08:46.53,0:08:49.30,Normal Dialog Text,,0,0,0,,{\rCHS}洋葱, 是我, 史蒂文\N{\rENG}Onion, it's me, Steven.
-Dialogue: 100,0:08:49.30,0:08:50.50,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文宇宙\N{\rENG}Steven Universe.
-Dialogue: 100,0:08:57.37,0:08:59.07,Normal Dialog Text,,0,0,0,,{\rCHS}这是莫雪伦先生\N{\rENG}That's just Mr. Maheswaran.
-Dialogue: 100,0:08:59.08,0:09:00.61,Normal Dialog Text,,0,0,0,,{\rCHS}哦, 我的天啊\N{\rENG}Oh, my gosh,
-Dialogue: 100,0:09:00.61,0:09:02.31,Normal Dialog Text,,0,0,0,,{\rCHS}你以为追你的是一群陌生人? \N{\rENG}did you think a bunch of strangers were chasing you?
-Dialogue: 100,0:09:02.31,0:09:05.38,Normal Dialog Text,,0,0,0,,{\rCHS}怪不得跑得比兔子还快\N{\rENG}No wonder you were trying to throw us off your trail.
-Dialogue: 100,0:09:05.38,0:09:07.55,Normal Dialog Text,,0,0,0,,{\rCHS}洋葱, 没事\N{\rENG}Onion, everything's okay.
-Dialogue: 100,0:09:07.55,0:09:09.25,Normal Dialog Text,,0,0,0,,{\rCHS}这不可能是一个孩子干的\N{\rENG}It can't just be a kid.
-Dialogue: 100,0:09:09.25,0:09:10.89,Normal Dialog Text,,0,0,0,,{\rCHS}这不合理! \N{\rENG}It doesn't make any sense!
-Dialogue: 100,0:09:10.89,0:09:12.95,Normal Dialog Text,,0,0,0,,{\rCHS}那个巨大的影子呢? \N{\rENG}What about that huge shadow?
-Dialogue: 100,0:09:14.96,0:09:18.36,Normal Dialog Text,,0,0,0,,{\rCHS}我觉得那是因为他在手电下显得高大\N{\rENG}I think the flashlight just made him look big.
-Dialogue: 100,0:09:18.36,0:09:20.56,Normal Dialog Text,,0,0,0,,{\rCHS}但那个栅栏是被硬扯开的\N{\rENG}But the fence was ripped apart!
-Dialogue: 100,0:09:20.56,0:09:23.16,Normal Dialog Text,,0,0,0,,{\rCHS}他有用过喷灯的前科\N{\rENG}I have seen him use a blowtorch before.
-Dialogue: 100,0:09:23.17,0:09:27.00,Normal Dialog Text,,0,0,0,,{\rCHS}我还找到了这块卡在栅栏里的布料\N{\rENG}I also found this piece of fabric stuck in the fence.
-Dialogue: 100,0:09:29.51,0:09:30.87,Normal Dialog Text,,0,0,0,,{\rCHS}当然了\N{\rENG}Of course.
-Dialogue: 100,0:09:30.87,0:09:33.17,Normal Dialog Text,,0,0,0,,{\rCHS}从来不会有什么大事发生\N{\rENG}It's never actually something.
-Dialogue: 100,0:09:33.18,0:09:34.38,Normal Dialog Text,,0,0,0,,{\rCHS}怎么了? \N{\rENG}What's wrong?
-Dialogue: 100,0:09:34.38,0:09:35.88,Normal Dialog Text,,0,0,0,,{\rCHS}没什么\N{\rENG}Nothing's wrong.
-Dialogue: 100,0:09:35.88,0:09:38.05,Normal Dialog Text,,0,0,0,,{\rCHS}只是我的工作不像\N{\rENG}It's just my job isn't like
-Dialogue: 100,0:09:38.05,0:09:40.92,Normal Dialog Text,,0,0,0,,{\rCHS}你和史蒂文的那些刺激的冒险\N{\rENG}the exhilerating adventures you've been having with Steven
-Dialogue: 100,0:09:40.92,0:09:42.55,Normal Dialog Text,,0,0,0,,{\rCHS}或你妈妈在医院的那些\N{\rENG}or the life-threatening emergencies
-Dialogue: 100,0:09:42.55,0:09:44.32,Normal Dialog Text,,0,0,0,,{\rCHS}生死攸关的情况\N{\rENG}your mom deals with at the hospital.
-Dialogue: 100,0:09:44.32,0:09:48.06,Normal Dialog Text,,0,0,0,,{\rCHS}我的工作的高潮也就是叫小鬼们不要到处闲逛\N{\rENG}The most action I see is telling kids to quit loitering around.
-Dialogue: 100,0:09:48.06,0:09:49.26,Normal Dialog Text,,0,0,0,,{\rCHS}我就是希望\N{\rENG}I was hoping
-Dialogue: 100,0:09:49.26,0:09:51.59,Normal Dialog Text,,0,0,0,,{\rCHS}你们能看到我认真工作\N{\rENG}maybe you'd get to see me take on a serious job,
-Dialogue: 100,0:09:51.59,0:09:53.59,Normal Dialog Text,,0,0,0,,{\rCHS}但我想我最擅长的还是\N{\rENG}but I guess all I'm good at
-Dialogue: 100,0:09:53.60,0:09:56.10,Normal Dialog Text,,0,0,0,,{\rCHS}继续当你蠢蠢的老爹\N{\rENG}is being your silly, old dad.
-Dialogue: 100,0:09:58.03,0:09:59.43,Normal Dialog Text,,0,0,0,,{\rCHS}你说的对\N{\rENG}You're right.
-Dialogue: 100,0:09:59.44,0:10:00.70,Normal Dialog Text,,0,0,0,,{\rCHS}你是挺蠢的\N{\rENG}You are silly,
-Dialogue: 100,0:10:00.70,0:10:03.60,Normal Dialog Text,,0,0,0,,{\rCHS}但这就是为什么我们愿意跟你在一起\N{\rENG}but that's why I like hanging out with you.
-Dialogue: 100,0:10:03.61,0:10:06.87,Normal Dialog Text,,0,0,0,,{\rCHS}我的生活中太多沉重的负担\N{\rENG}I've got enough serious things going on in my life.
-Dialogue: 100,0:10:06.88,0:10:10.21,Normal Dialog Text,,0,0,0,,{\rCHS}有时候我只希望能多花些时间跟我的父亲在一起\N{\rENG}Sometimes I just want to spend time with my dad.
-Dialogue: 100,0:10:10.21,0:10:11.51,Normal Dialog Text,,0,0,0,,{\rCHS}谢谢你\N{\rENG}Thanks.
-Dialogue: 100,0:10:11.51,0:10:13.35,Normal Dialog Text,,0,0,0,,{\rCHS}你是我的财富呢, 弗罗妮卡 库卡曼卡\N{\rENG}You're a keeper, Veronica Cucamonga.
-Dialogue: 100,0:10:14.78,0:10:17.92,Normal Dialog Text,,0,0,0,,{\rCHS}好吧, 孩子们, 看来这都是一场误解\N{\rENG}Well, kid, this may have been a big misunderstanding,
-Dialogue: 100,0:10:17.92,0:10:20.62,Normal Dialog Text,,0,0,0,,{\rCHS}但你还是要为这个栅栏负责\N{\rENG}but you're still in trouble for this fence.
-Dialogue: 100,0:10:22.46,0:10:23.86,Normal Dialog Text,,0,0,0,,{\rCHS}哦, 当然你要\N{\rENG}Oh, yes, you are.
-Dialogue: 100,0:10:23.86,0:10:26.29,Normal Dialog Text,,0,0,0,,{\rCHS}这次就饶了他吧\N{\rENG}Just let him off the hook on this one.
-Dialogue: 100,0:10:26.30,0:10:28.06,Normal Dialog Text,,0,0,0,,{\rCHS}我们已经快把他吓死了\N{\rENG}We already scared him straight.
-Dialogue: 100,0:10:28.06,0:10:31.00,Normal Dialog Text,,0,0,0,,{\rCHS}他这个年纪法律也会饶了他吧\N{\rENG}The law must be different for someone his age.
-Dialogue: 100,0:10:32.70,0:10:34.34,Normal Dialog Text,,0,0,0,,{\rCHS}你知错了吗? \N{\rENG}You learned your lesson?
-Dialogue: 100,0:10:35.30,0:10:37.04,Normal Dialog Text,,0,0,0,,{\rCHS}那就可以走了\N{\rENG}Then you're free to go.
-Dialogue: 100,0:10:39.18,0:10:41.91,Normal Dialog Text,,0,0,0,,{\rCHS}还有记住, 小伙子, 别没事瞎逛了\N{\rENG}And remember, kid, no loitering.
-Dialogue: 100,0:10:42.80,0:10:45.20,Normal Dialog Text,,0,0,0,,{\rCHS}我都不知道我该怎么跟上面汇报了\N{\rENG}I don't know how I'm gonna explain this back at the office.
+Dialogue: 1,0:00:00.00,0:00:01.50,SU Title,,0,0,0,,{\xshad-0\yshad16\pos(580,484)}道格出动
+Dialogue: 1,0:00:01.50,0:00:03.00,SU Claim,,0,0,0,,欢迎关注微博@UUU字幕组，获取最新熟肉信息！
+Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,260)}出品
+Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,320)}UUU字幕组
+Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,380)}翻译
+Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,440)}草
+Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,500)}校对
+Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,560)}Husky
+Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,620)}特效
+Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,680)}presisco
+Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Title,,0,0,0,,{\pos(1725,740)}压制
+Dialogue: 1,0:00:01.50,0:00:03.00,SU Team Member,,0,0,0,,{\pos(1725,800)}依依
+Dialogue: 0,0:00:01.50,0:00:03.00,SU Team Background,,0,0,0,,{\bord0\xshad-0\yshad16\pos(1725,860)}{\p1}m -1 122 b -1 -19 -19 -1 122 -1 l 251 -1 b 390 -1 377 -19 377 122 l 377 500 b 377 642 390 628 251 628 l 122 628 b -19 628 -1 642 -1 500 l -1 122 {\p0}
+Dialogue: 100,0:00:03.21,0:00:05.34,Normal Dialog Text,,0,0,0,,{\rCHS}谢谢你的薯渣, 皮弟! \N{\rENG}Thanks for the bits, Peedee.
+Dialogue: 100,0:00:05.34,0:00:06.38,Normal Dialog Text,,0,0,0,,{\rCHS}对, 还有 告诉罗纳多 \N{\rENG}Oh, and tell Ronaldo
+Dialogue: 100,0:00:06.38,0:00:08.84,Normal Dialog Text,,0,0,0,,{\rCHS}我希望他脸上的红疹能赶快好起来\N{\rENG}I hope his weird rash clears up soon.
+Dialogue: 100,0:00:10.91,0:00:13.75,Normal Dialog Text,,0,0,0,,{\rCHS}生活有时候还真刺激呢, 对不? \N{\rENG}Life can get really intense, huh?
+Dialogue: 100,0:00:13.75,0:00:15.75,Normal Dialog Text,,0,0,0,,{\rCHS}是啊, 尤其是你的人生\N{\rENG}Yeah, especially your life.
+Dialogue: 100,0:00:15.75,0:00:18.69,Normal Dialog Text,,0,0,0,,{\rCHS}来瞧瞧 -- 外星人绑架事件\N{\rENG}Let's see -- alien abduction.
+Dialogue: 100,0:00:18.69,0:00:21.32,Normal Dialog Text,,0,0,0,,{\rCHS}外太空人类动物园一日游\N{\rENG}Going to a weird zoo for humans in space.
+Dialogue: 100,0:00:21.33,0:00:22.52,Normal Dialog Text,,0,0,0,,{\rCHS}还有从两个\N{\rENG}And sneaking out
+Dialogue: 100,0:00:22.53,0:00:25.19,Normal Dialog Text,,0,0,0,,{\rCHS}星际暴君眼皮底下溜走! \N{\rENG}right past a pair of intergalactic tyrants!
+Dialogue: 100,0:00:27.03,0:00:29.10,Normal Dialog Text,,0,0,0,,{\rCHS}不过, 最后总能会安全回到\N{\rENG}Well, it's nice to know
+Dialogue: 100,0:00:29.10,0:00:31.43,Normal Dialog Text,,0,0,0,,{\rCHS}像今天这样和平的日子中\N{\rENG}we can still have peaceful days like this
+Dialogue: 100,0:00:31.44,0:00:32.73,Normal Dialog Text,,0,0,0,,{\rCHS}这是最好的\N{\rENG}without any trouble.
+Dialogue: 100,0:00:32.74,0:00:34.30,Normal Dialog Text,,0,0,0,,{\rCHS}唔, 呃\N{\rENG}Mm. Oof.
+Dialogue: 100,0:00:34.30,0:00:35.54,Normal Dialog Text,,0,0,0,,{\rCHS}差一点点\N{\rENG}Almost.
+Dialogue: 100,0:00:35.54,0:00:36.74,Normal Dialog Text,,0,0,0,,{\rCHS}嘿, 小朋友们! \N{\rENG}Hey, kids!
+Dialogue: 100,0:00:36.74,0:00:39.11,Normal Dialog Text,,0,0,0,,{\rCHS}放下手中的薯渣, 放下它们! \N{\rENG}Drop those fry bits. Drop 'em!
+Dialogue: 100,0:00:39.11,0:00:41.28,Normal Dialog Text,,0,0,0,,{\rCHS}哦不, 是警察! \N{\rENG}Oh, no, it's the cops!
+Dialogue: 100,0:00:41.28,0:00:42.94,Normal Dialog Text,,0,0,0,,{\rCHS}常年购买地下菜单\N{\rENG}All the years of ordering off menu
+Dialogue: 100,0:00:42.95,0:00:44.98,Normal Dialog Text,,0,0,0,,{\rCHS}它的报应总算是来嘲讽我了! \N{\rENG}have finally come back to taunt me!
+Dialogue: 100,0:00:44.98,0:00:46.21,Normal Dialog Text,,0,0,0,,{\rCHS}你是想说它们开始缠扰你吗? \N{\rENG}You mean haunt you?
+Dialogue: 100,0:00:46.22,0:00:48.05,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文, 那辆车根本不是警车\N{\rENG}Steven, that's not even a police car.
+Dialogue: 100,0:00:48.05,0:00:49.68,Normal Dialog Text,,0,0,0,,{\rCHS}-那只是个... -我投降! \N{\rENG}-It's just... -I surrender!
+Dialogue: 100,0:00:49.69,0:00:51.12,Normal Dialog Text,,0,0,0,,{\rCHS}我知道我这么做是犯法的\N{\rENG}I knew I was breaking the rules,
+Dialogue: 100,0:00:51.12,0:00:52.79,Normal Dialog Text,,0,0,0,,{\rCHS}但…我却没有停下! \N{\rENG}but... I did it anyway!
+Dialogue: 100,0:00:52.79,0:00:55.32,Normal Dialog Text,,0,0,0,,{\rCHS}我已经嗑薯渣嗑到精神失常了! \N{\rENG}The bits had their hooks in me!
+Dialogue: 100,0:00:56.63,0:00:58.56,Normal Dialog Text,,0,0,0,,{\rCHS}爸爸, 别再逗他了\N{\rENG}Dad, quit joking around.
+Dialogue: 100,0:00:58.56,0:01:00.30,Normal Dialog Text,,0,0,0,,{\rCHS}真是的, 康妮! \N{\rENG}Come on, Connie!
+Dialogue: 100,0:01:00.30,0:01:01.90,Normal Dialog Text,,0,0,0,,{\rCHS}我差点就骗过他了\N{\rENG}I almost had him.
+Dialogue: 100,0:01:01.90,0:01:04.20,Normal Dialog Text,,0,0,0,,{\rCHS}莫雪伦先生? \N{\rENG}Mr. Maheswaran?
+Dialogue: 100,0:01:04.20,0:01:08.47,Normal Dialog Text,,0,0,0,,{\rCHS}哇哦, 我可没想到他会当真啊\N{\rENG}Wow, I didn't think he'd take it that seriously.
+Dialogue: 100,0:01:09.34,0:01:11.21,Normal Dialog Text,,0,0,0,,{\rCHS}你还好吗, 史蒂文? \N{\rENG}You okay there, Steven?
+Dialogue: 100,0:01:11.21,0:01:13.41,Normal Dialog Text,,0,0,0,,{\rCHS}哦没问题, 地上还挺舒服的\N{\rENG}Oh, yeah. I love it down here.
+Dialogue: 100,0:01:13.41,0:01:16.75,Normal Dialog Text,,0,0,0,,{\rCHS}我勇敢的小剑士怎么样啊? \N{\rENG}And how's my swashbuckling swashbuckler doing?
+Dialogue: 100,0:01:16.75,0:01:18.01,Normal Dialog Text,,0,0,0,,{\rCHS}我很好\N{\rENG}I'm good.
+Dialogue: 100,0:01:18.02,0:01:20.28,Normal Dialog Text,,0,0,0,,{\rCHS}你知道吗史蒂文, 你估计是有点脱水\N{\rENG}You know, Steven, maybe you're dehydrated.
+Dialogue: 100,0:01:20.28,0:01:23.42,Normal Dialog Text,,0,0,0,,{\rCHS}都是因为晚饭前吃那么多垃圾食品\N{\rENG}Probably from eating that garbage before dinner.
+Dialogue: 100,0:01:23.42,0:01:26.56,Normal Dialog Text,,0,0,0,,{\rCHS}充满敬意地告诉您, 薯渣可不是垃圾食品\N{\rENG}Respectfully, fry bits are not garbage.
+Dialogue: 100,0:01:26.56,0:01:29.36,Normal Dialog Text,,0,0,0,,{\rCHS}别担心史蒂文, 他只是在逗你玩\N{\rENG}Don't worry, Steven. He's just messing with you.
+Dialogue: 100,0:01:29.36,0:01:32.23,Normal Dialog Text,,0,0,0,,{\rCHS}抱歉啦史蒂文, 快起来吧\N{\rENG}Sorry, Steven. Let's get you up.
+Dialogue: 100,0:01:32.23,0:01:34.93,Normal Dialog Text,,0,0,0,,{\rCHS}你在海滩市干嘛呢爸爸? \N{\rENG}What are you even doing in Beach City, Dad?
+Dialogue: 100,0:01:34.93,0:01:37.00,Normal Dialog Text,,0,0,0,,{\rCHS}实际上我来这里有工作要做\N{\rENG}I'm out here on a job, actually.
+Dialogue: 100,0:01:37.00,0:01:38.83,Normal Dialog Text,,0,0,0,,{\rCHS}我工作的那个私人安保公司\N{\rENG}The private security company I work for
+Dialogue: 100,0:01:38.84,0:01:41.30,Normal Dialog Text,,0,0,0,,{\rCHS}收到了一位名叫哈罗德.微笑先生的来电\N{\rENG}got a call from a Mr. Harold Smiley
+Dialogue: 100,0:01:41.31,0:01:44.51,Normal Dialog Text,,0,0,0,,{\rCHS}说有人潜伏在游乐园附近\N{\rENG}stating that someone's been lurking around Funland
+Dialogue: 100,0:01:44.51,0:01:45.77,Normal Dialog Text,,0,0,0,,{\rCHS}在乐园打烊之后\N{\rENG}after hours.
+Dialogue: 100,0:01:45.78,0:01:47.54,Normal Dialog Text,,0,0,0,,{\rCHS}所以我今晚一整晚都要呆在这里\N{\rENG}So, I'll be here all night...
+Dialogue: 100,0:01:47.54,0:01:50.58,Normal Dialog Text,,0,0,0,,{\rCHS}在附近盯梢\N{\rENG}on a stakeout.
+Dialogue: 100,0:01:50.58,0:01:52.61,Normal Dialog Text,,0,0,0,,{\rCHS}哇啊, 盯梢! \N{\rENG}Whoa, a stakeout!
+Dialogue: 100,0:01:52.62,0:01:54.85,Normal Dialog Text,,0,0,0,,{\rCHS}爸爸, 这太酷了! \N{\rENG}Dad, that's so cool!
+Dialogue: 100,0:01:54.85,0:01:57.25,Normal Dialog Text,,0,0,0,,{\rCHS}对吧, 挺酷的不是吗? \N{\rENG}Yeah, itispretty cool, huh?
+Dialogue: 100,0:01:57.25,0:02:00.52,Normal Dialog Text,,0,0,0,,{\rCHS}保护海滩市的居民\N{\rENG}Protecting the citizens of Beach City.
+Dialogue: 100,0:02:00.52,0:02:02.29,Normal Dialog Text,,0,0,0,,{\rCHS}就像你们一样! \N{\rENG}Just like you guys!
+Dialogue: 100,0:02:02.29,0:02:04.09,Normal Dialog Text,,0,0,0,,{\rCHS}这不是很有趣吗, 史蒂文? \N{\rENG}Wouldn't that be fun, Steven?
+Dialogue: 100,0:02:04.09,0:02:06.26,Normal Dialog Text,,0,0,0,,{\rCHS}我有机会也想在哪里盯梢\N{\rENG}I'd love to go on a stakeout sometime.
+Dialogue: 100,0:02:06.26,0:02:08.96,Normal Dialog Text,,0,0,0,,{\rCHS}或许你们几个今晚能帮上忙\N{\rENG}Maybe you guys could help out tonight.
+Dialogue: 100,0:02:08.97,0:02:10.63,Normal Dialog Text,,0,0,0,,{\rCHS}-什么?! -什么?! \N{\rENG}-What?! -What?!
+Dialogue: 100,0:02:10.63,0:02:13.97,Normal Dialog Text,,0,0,0,,{\rCHS}我们不算正规的安保人员也可以吗? \N{\rENG}Even though we're not officially sanctioned security personnel?
+Dialogue: 100,0:02:13.97,0:02:15.27,Normal Dialog Text,,0,0,0,,{\rCHS}嘿, 没什么大不了的\N{\rENG}Hey, why not?
+Dialogue: 100,0:02:15.27,0:02:18.41,Normal Dialog Text,,0,0,0,,{\rCHS}估计就是附近哪个小伙子在游荡\N{\rENG}It's probably just some kid loitering.
+Dialogue: 100,0:02:18.41,0:02:20.04,Normal Dialog Text,,0,0,0,,{\rCHS}嘿, 小朋友! \N{\rENG}Hey, kid!
+Dialogue: 100,0:02:21.68,0:02:23.01,Normal Dialog Text,,0,0,0,,{\rCHS}对, 就是你! \N{\rENG}Yes, hello?
+Dialogue: 100,0:02:23.01,0:02:27.12,Normal Dialog Text,,0,0,0,,{\rCHS}你头上的警示牌写着禁止游荡\N{\rENG}The sign above you says no loitering.
+Dialogue: 100,0:02:27.12,0:02:29.78,Normal Dialog Text,,0,0,0,,{\rCHS}这群人真是一代比一代年轻\N{\rENG}They get younger every year.
+Dialogue: 100,0:02:29.79,0:02:31.52,Normal Dialog Text,,0,0,0,,{\rCHS}所以, 你们准备好了嘛? \N{\rENG}So, y'all ready for this?
+Dialogue: 100,0:02:31.52,0:02:35.32,Normal Dialog Text,,0,0,0,,{\rCHS}有些年轻人可是会说脏话的哦\N{\rENG}Some of these teens can use some pretty strong language.
+Dialogue: 100,0:02:35.33,0:02:38.56,Normal Dialog Text,,0,0,0,,{\rCHS}嘿, 史蒂文, 你想来一起帮忙毁掉某个小年轻的夜晚吗? \N{\rENG}Hey, Steven, you want to help ruin some teen's night?
+Dialogue: 100,0:02:38.56,0:02:40.20,Normal Dialog Text,,0,0,0,,{\rCHS}随时愿意\N{\rENG}Always.
+Dialogue: 100,0:02:42.97,0:02:45.77,Normal Dialog Text,,0,0,0,,{\rCHS}海滩边没什么异常\N{\rENG}Coast is all clear behind us.
+Dialogue: 100,0:02:45.77,0:02:47.90,Normal Dialog Text,,0,0,0,,{\rCHS}一切看上去都挺安静的\N{\rENG}Things seem pretty quiet so far.
+Dialogue: 100,0:02:47.91,0:02:49.60,Normal Dialog Text,,0,0,0,,{\rCHS}哈, 当然啦\N{\rENG}Well, yeah.
+Dialogue: 100,0:02:49.61,0:02:51.97,Normal Dialog Text,,0,0,0,,{\rCHS}有咱们在这里守着, 没人会想越过栅栏的\N{\rENG}Nobody's even gonna try hopping the fence with us here.
+Dialogue: 100,0:02:51.98,0:02:53.24,Normal Dialog Text,,0,0,0,,{\rCHS}但没人知道会发生什么\N{\rENG}But you never know.
+Dialogue: 100,0:02:53.24,0:02:56.65,Normal Dialog Text,,0,0,0,,{\rCHS}有时候, 我甚至会从车内走出去\N{\rENG}Sometimes, I actually leave the car.
+Dialogue: 100,0:02:56.65,0:02:57.91,Normal Dialog Text,,0,0,0,,{\rCHS}-哇哦 -哇哦\N{\rENG}-Wow. -Wow.
+Dialogue: 100,0:02:57.92,0:03:00.75,Normal Dialog Text,,0,0,0,,{\rCHS}估计你们在拯救世界的时候\N{\rENG}I'm sure you guys do lots of waiting
+Dialogue: 100,0:03:00.75,0:03:02.08,Normal Dialog Text,,0,0,0,,{\rCHS}也常需要长时间潜伏\N{\rENG}when you're saving the world.
+Dialogue: 100,0:03:02.09,0:03:05.39,Normal Dialog Text,,0,0,0,,{\rCHS}你们也总不会一直干仗\N{\rENG}It can't be all bam, pow action all the time.
+Dialogue: 100,0:03:05.39,0:03:06.99,Normal Dialog Text,,0,0,0,,{\rCHS}啊, 我倒希望那样\N{\rENG}Aw, I wish.
+Dialogue: 100,0:03:06.99,0:03:08.56,Normal Dialog Text,,0,0,0,,{\rCHS}我们的确老是在干仗\N{\rENG}There's a lot of fighting.
+Dialogue: 100,0:03:08.56,0:03:11.76,Normal Dialog Text,,0,0,0,,{\rCHS}我是指, 某种意义上 我继承了一场星际战争\N{\rENG}I mean, I kind of inherited an intergalactic war.
+Dialogue: 100,0:03:11.76,0:03:13.86,Normal Dialog Text,,0,0,0,,{\rCHS}嘿, 爸爸, 这个纸箱子是干嘛的\N{\rENG}Hey, Dad, what's this box?
+Dialogue: 100,0:03:13.86,0:03:16.26,Normal Dialog Text,,0,0,0,,{\rCHS}哦, 这是我刚刚没收了的东西\N{\rENG}Oh, I just confiscated that
+Dialogue: 100,0:03:16.27,0:03:19.40,Normal Dialog Text,,0,0,0,,{\rCHS}是一个小伙计在服装店偷的\N{\rENG}from a kid who was shoplifting in a costume shop.
+Dialogue: 100,0:03:19.40,0:03:20.57,Normal Dialog Text,,0,0,0,,{\rCHS}喔啊\N{\rENG}Whoa!
+Dialogue: 100,0:03:20.57,0:03:22.44,Normal Dialog Text,,0,0,0,,{\rCHS}你完全可以用它们做伪装啊! \N{\rENG}You could totally use these for disguises.
+Dialogue: 100,0:03:22.44,0:03:25.14,Normal Dialog Text,,0,0,0,,{\rCHS}你有没有想过…变个装? \N{\rENG}Don't you ever need to go...undercover?
+Dialogue: 100,0:03:25.14,0:03:29.21,Normal Dialog Text,,0,0,0,,{\rCHS}你怎么知道我现在没有变装呢? \N{\rENG}How do you know I'm not undercover right now?
+Dialogue: 100,0:03:30.18,0:03:31.68,Normal Dialog Text,,0,0,0,,{\rCHS}开玩笑的\N{\rENG}Just kidding.
+Dialogue: 100,0:03:31.68,0:03:33.11,Normal Dialog Text,,0,0,0,,{\rCHS}我戴眼镜因为我近视\N{\rENG}I need these to see.
+Dialogue: 100,0:03:33.12,0:03:35.55,Normal Dialog Text,,0,0,0,,{\rCHS}但如果你们想玩玩那些东西\N{\rENG}But if you guys want to play with that stuff,
+Dialogue: 100,0:03:35.56,0:03:36.32,Normal Dialog Text,,0,0,0,,{\rCHS}随便玩\N{\rENG}go ahead.
+Dialogue: 100,0:03:36.32,0:03:37.35,Normal Dialog Text,,0,0,0,,{\rCHS}好的\N{\rENG}Okay.
+Dialogue: 100,0:03:37.35,0:03:38.85,Normal Dialog Text,,0,0,0,,{\rCHS}嗯, 我想玩玩变装\N{\rENG}Well, I want to be undercover.
+Dialogue: 100,0:03:38.86,0:03:40.06,Normal Dialog Text,,0,0,0,,{\rCHS}变装成…\N{\rENG}I'll be...
+Dialogue: 100,0:03:40.06,0:03:42.32,Normal Dialog Text,,0,0,0,,{\rCHS}维罗尼卡 库卡曼卡\N{\rENG}Veronica Cucamonga.
+Dialogue: 100,0:03:42.33,0:03:47.43,Normal Dialog Text,,0,0,0,,{\rCHS}而我是, 意大利的彼得 比萨波波里斯\N{\rENG}It's a-me, Peter Pizzapoppolis from Italia!
+Dialogue: 100,0:03:47.43,0:03:50.30,Normal Dialog Text,,0,0,0,,{\rCHS}比萨波波利斯? 听上去像个希腊名\N{\rENG}Pizzapoppolis? That sounds Greek.
+Dialogue: 100,0:03:50.30,0:03:52.13,Normal Dialog Text,,0,0,0,,{\rCHS}你确定你不想变装吗, 爸爸? \N{\rENG}You sure you don't want anything, Dad?
+Dialogue: 100,0:03:52.14,0:03:53.64,Normal Dialog Text,,0,0,0,,{\rCHS}这里还有个小丑鼻子\N{\rENG}There's a clown nose back here.
+Dialogue: 100,0:03:54.84,0:03:56.07,Normal Dialog Text,,0,0,0,,{\rCHS}不谢了\N{\rENG}No, thanks.
+Dialogue: 100,0:03:56.07,0:03:58.31,Normal Dialog Text,,0,0,0,,{\rCHS}保安可不是什么玩笑\N{\rENG}Being a security guard is no joke,
+Dialogue: 100,0:03:58.31,0:04:01.84,Normal Dialog Text,,0,0,0,,{\rCHS}所以他们给每个保安都装备了这个宝贝\N{\rENG}which is why they equip us with these.
+Dialogue: 100,0:04:01.85,0:04:03.88,Normal Dialog Text,,0,0,0,,{\rCHS}哇哦! 手电筒! \N{\rENG}Wow! A flashlight!
+Dialogue: 100,0:04:03.88,0:04:05.11,Normal Dialog Text,,0,0,0,,{\rCHS}没错\N{\rENG}Yeah.
+Dialogue: 100,0:04:05.12,0:04:07.35,Normal Dialog Text,,0,0,0,,{\rCHS}有时 世界会非常黑暗的\N{\rENG}It gets pretty dark out there.
+Dialogue: 100,0:04:08.92,0:04:10.39,Normal Dialog Text,,0,0,0,,{\rCHS}那是什么? \N{\rENG}What was that?
+Dialogue: 100,0:04:12.86,0:04:16.19,Normal Dialog Text,,0,0,0,,{\rCHS}妈妈咪呀, 我的栅栏呀! \N{\rENG}Mama mia! The fence-a!
+Dialogue: 100,0:04:16.19,0:04:18.16,Normal Dialog Text,,0,0,0,,{\rCHS}这是怎么做到的? \N{\rENG}How on earth did this happen?
+Dialogue: 100,0:04:18.16,0:04:20.80,Normal Dialog Text,,0,0,0,,{\rCHS}如果这是某个混球用钳子剪的\N{\rENG}If this were some punk with a pair of bolt cutters,
+Dialogue: 100,0:04:20.80,0:04:22.20,Normal Dialog Text,,0,0,0,,{\rCHS}那也会是个整齐的切口\N{\rENG}this would be a clean cut.
+Dialogue: 100,0:04:22.20,0:04:25.53,Normal Dialog Text,,0,0,0,,{\rCHS}但这根铁链看上去像是被直接撕断的\N{\rENG}But this chain looks like it was torn apart.
+Dialogue: 100,0:04:25.54,0:04:26.94,Normal Dialog Text,,0,0,0,,{\rCHS}这可不是哪个小鬼做的\N{\rENG}This was no kid.
+Dialogue: 100,0:04:26.94,0:04:29.67,Normal Dialog Text,,0,0,0,,{\rCHS}好吧, 如果不是哪个误入歧途的年轻人\N{\rENG}Well, if it wasn't a misguided teen,
+Dialogue: 100,0:04:29.67,0:04:31.01,Normal Dialog Text,,0,0,0,,{\rCHS}又会是谁干的呢? \N{\rENG}what could it be?
+Dialogue: 100,0:04:31.01,0:04:33.17,Normal Dialog Text,,0,0,0,,{\rCHS}这就是我们的任务了\N{\rENG}It's up to us to find out.
+Dialogue: 100,0:04:33.18,0:04:35.34,Normal Dialog Text,,0,0,0,,{\rCHS}听上去是调查时间了\N{\rENG}Sounds like we better investigate.
+Dialogue: 100,0:04:35.35,0:04:38.01,Normal Dialog Text,,0,0,0,,{\rCHS}库卡曼卡, 比萨波波利斯\N{\rENG}Cucamonga, Pizzapoppolis.
+Dialogue: 100,0:04:38.02,0:04:39.61,Normal Dialog Text,,0,0,0,,{\rCHS}-在! -在! \N{\rENG}-Right! -Right!
+Dialogue: 100,0:04:40.75,0:04:44.92,Normal Dialog Text,,0,0,0,,{\rCHS}嗯? \N{\rENG}Huh?
+Dialogue: 100,0:04:46.46,0:04:48.39,Normal Dialog Text,,0,0,0,,{\rCHS}有人吗? 我是保安! \N{\rENG}Hello? This is security!
+Dialogue: 100,0:04:48.39,0:04:51.29,Normal Dialog Text,,0,0,0,,{\rCHS}你现在在闯入了私人领地\N{\rENG}You are trespassing on private property.
+Dialogue: 100,0:04:51.29,0:04:54.33,Normal Dialog Text,,0,0,0,,{\rCHS}不要试图给自己做炸热狗吃\N{\rENG}Do not attempt to make yourself a corn dog.
+Dialogue: 100,0:04:54.33,0:04:56.36,Normal Dialog Text,,0,0,0,,{\rCHS}欢乐园公司法人没有义务对\N{\rENG}Funland Incorporated is not liable
+Dialogue: 100,0:04:56.37,0:04:58.87,Normal Dialog Text,,0,0,0,,{\rCHS}无执照的油炸锅使用者\N{\rENG}for the harm you may incur while trying to operate
+Dialogue: 100,0:04:58.87,0:05:00.50,Normal Dialog Text,,0,0,0,,{\rCHS}可能发生的事故负责\N{\rENG}a deep fryer without a license.
+Dialogue: 100,0:05:00.50,0:05:02.70,Normal Dialog Text,,0,0,0,,{\rCHS}你需要执照才能用炸锅? \N{\rENG}You need a license to operate a deep fryer?
+Dialogue: 100,0:05:02.71,0:05:04.04,Normal Dialog Text,,0,0,0,,{\rCHS}喔啊\N{\rENG}Whoa.
+Dialogue: 100,0:05:04.04,0:05:05.74,Normal Dialog Text,,0,0,0,,{\rCHS}嘿, 请止步! \N{\rENG}Hey, stop right there!
+Dialogue: 100,0:05:07.91,0:05:10.01,Normal Dialog Text,,0,0,0,,{\rCHS}跟上我\N{\rENG}Follow my lead.
+Dialogue: 100,0:05:12.62,0:05:14.48,Normal Dialog Text,,0,0,0,,{\rCHS}不许动! \N{\rENG}Don't move!
+Dialogue: 100,0:05:14.48,0:05:15.95,Normal Dialog Text,,0,0,0,,{\rCHS}我们跟丢了? \N{\rENG}Did we lose them?
+Dialogue: 100,0:05:15.95,0:05:18.52,Normal Dialog Text,,0,0,0,,{\rCHS}他们咋溜那么快哒? \N{\rENG}Which a-way did they go so fast-a?
+Dialogue: 100,0:05:18.52,0:05:22.16,Normal Dialog Text,,0,0,0,,{\rCHS}闭上嘴巴, 打开你的眼睛跟耳朵\N{\rENG}Mouths closed, eyes and ears open.
+Dialogue: 100,0:05:22.16,0:05:23.76,Normal Dialog Text,,0,0,0,,{\rCHS}嗯嗯\N{\rENG}Hmm. Hmm.
+Dialogue: 100,0:05:29.47,0:05:30.80,Normal Dialog Text,,0,0,0,,{\rCHS}糟糕的举动, 蠢货\N{\rENG}Bad move, chump.
+Dialogue: 100,0:05:30.80,0:05:33.94,Normal Dialog Text,,0,0,0,,{\rCHS}这艘飞船离不开地球咯\N{\rENG}That space ship's permanently earthbound.
+Dialogue: 100,0:05:33.94,0:05:36.10,Normal Dialog Text,,0,0,0,,{\rCHS}抓住你啦! 我是说 不许动! \N{\rENG}Gotcha! I mean freeze!
+Dialogue: 100,0:05:36.11,0:05:37.54,Normal Dialog Text,,0,0,0,,{\rCHS}哦天啊\N{\rENG}Oh, man.
+Dialogue: 100,0:05:38.91,0:05:41.28,Normal Dialog Text,,0,0,0,,{\rCHS}我们这是摊上了哪个逃脱艺术家了吗? \N{\rENG}Are we dealing with some sort of escape artist?
+Dialogue: 100,0:05:41.28,0:05:44.18,Normal Dialog Text,,0,0,0,,{\rCHS}嘿, 史蒂文, 或许我们应该把武器拿出来\N{\rENG}Hey, Steven, maybe we should get our weapons.
+Dialogue: 100,0:05:44.18,0:05:45.61,Normal Dialog Text,,0,0,0,,{\rCHS}这不必要的\N{\rENG}That won't be necessary.
+Dialogue: 100,0:05:45.62,0:05:48.08,Normal Dialog Text,,0,0,0,,{\rCHS}我们不需要恶化现在的状况\N{\rENG}We're not here to escalate the situation.
+Dialogue: 100,0:05:48.09,0:05:50.12,Normal Dialog Text,,0,0,0,,{\rCHS}再说, 一个好的保安\N{\rENG}Besides, a good security guard
+Dialogue: 100,0:05:50.12,0:05:52.85,Normal Dialog Text,,0,0,0,,{\rCHS}只需要一个可靠的手电\N{\rENG}only needs their trusty flashlight.
+Dialogue: 100,0:05:53.69,0:05:55.42,Normal Dialog Text,,0,0,0,,{\rCHS}嘿! 快开门! \N{\rENG}Hey! Open up this instant!
+Dialogue: 100,0:05:55.43,0:05:57.39,Normal Dialog Text,,0,0,0,,{\rCHS}对, 放我们出去! \N{\rENG}Yeah, let us out!
+Dialogue: 100,0:05:59.00,0:06:01.76,Normal Dialog Text,,0,0,0,,{\rCHS}-这个设施启动了! -它启动了! \N{\rENG}-The ride's moving! -The ride's moving!
+Dialogue: 100,0:06:04.43,0:06:06.77,Normal Dialog Text,,0,0,0,,{\rCHS}-我们得赶快关上它!  -别担心\N{\rENG}-We got to shut it off!  -Don't worry.
+Dialogue: 100,0:06:06.77,0:06:08.24,Normal Dialog Text,,0,0,0,,{\rCHS}吃我一手电\N{\rENG}I'll just use my trusty flashlight.
+Dialogue: 100,0:06:10.11,0:06:11.64,Normal Dialog Text,,0,0,0,,{\rCHS}哦不! \N{\rENG}Oh, no!
+Dialogue: 100,0:06:11.64,0:06:13.44,Normal Dialog Text,,0,0,0,,{\rCHS}牛顿的力量! \N{\rENG}The laws of physics!
+Dialogue: 100,0:06:13.44,0:06:14.44,Normal Dialog Text,,0,0,0,,{\rCHS}嗷! \N{\rENG}Ow!
+Dialogue: 100,0:06:14.44,0:06:16.24,Normal Dialog Text,,0,0,0,,{\rCHS}-你还好吗爸爸? -没问题\N{\rENG}You okay, Dad? Yeah.
+Dialogue: 100,0:06:16.25,0:06:18.45,Normal Dialog Text,,0,0,0,,{\rCHS}而且我想到了个新点子\N{\rENG}I've got a new idea, though.
+Dialogue: 100,0:06:18.45,0:06:21.65,Normal Dialog Text,,0,0,0,,{\rCHS}这回, 我要换个角度扔它\N{\rENG}This time, I'll throw it at an angle.
+Dialogue: 100,0:06:21.65,0:06:24.25,Normal Dialog Text,,0,0,0,,{\rCHS}-爸, 我不觉得这有用! -走你! \N{\rENG}Dad, I don't think that'll work. Go!
+Dialogue: 100,0:06:24.25,0:06:27.12,Normal Dialog Text,,0,0,0,,{\rCHS}啊! ! \N{\rENG}Aah!
+Dialogue: 100,0:06:28.93,0:06:32.79,Normal Dialog Text,,0,0,0,,{\rCHS}我们得从这个辣肉丸子里逃出去!! \N{\rENG}We got to get out of this spicy meatball!
+Dialogue: 100,0:06:35.66,0:06:38.20,Normal Dialog Text,,0,0,0,,{\rCHS}嘿 这块地方没在转\N{\rENG}Hey, this part isn't moving at all.
+Dialogue: 100,0:06:38.20,0:06:40.14,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文! \N{\rENG}Steven!
+Dialogue: 100,0:06:40.14,0:06:41.57,Normal Dialog Text,,0,0,0,,{\rCHS}对不起! \N{\rENG}Sorry!
+Dialogue: 100,0:06:47.91,0:06:53.25,Normal Dialog Text,,0,0,0,,{\rCHS}听着, 你这个健美狂魔逃脱艺术家罪犯\N{\rENG}Listen, you bodybuilding escape artist criminal,
+Dialogue: 100,0:06:53.25,0:06:55.12,Normal Dialog Text,,0,0,0,,{\rCHS}这可不是什么游戏\N{\rENG}this isn't a game.
+Dialogue: 100,0:06:55.12,0:06:59.55,Normal Dialog Text,,0,0,0,,{\rCHS}你可是威胁到了一个在岗执法人员和俩未成年人的生命安全\N{\rENG}You've endangered an officer of the law and two small children.
+Dialogue: 100,0:06:59.56,0:07:03.19,Normal Dialog Text,,0,0,0,,{\rCHS}快快束手就擒 否则后果严重! \N{\rENG}Show yourself before you get into serious trouble!
+Dialogue: 100,0:07:03.19,0:07:04.66,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文, 你觉不觉得\N{\rENG}Steven, do you think
+Dialogue: 100,0:07:04.66,0:07:07.66,Normal Dialog Text,,0,0,0,,{\rCHS}这有可能是某个宝石怪物或者变异体干的? \N{\rENG}maybe it's some kind of Gem mutant or monster?
+Dialogue: 100,0:07:07.66,0:07:10.17,Normal Dialog Text,,0,0,0,,{\rCHS}有可能, 但它试图困住咱们\N{\rENG}It could be, but it trapped us.
+Dialogue: 100,0:07:10.17,0:07:12.73,Normal Dialog Text,,0,0,0,,{\rCHS}宝石怪物和变异体没有这么聪明\N{\rENG}The monsters and mutants aren't that smart.
+Dialogue: 100,0:07:12.74,0:07:16.00,Normal Dialog Text,,0,0,0,,{\rCHS}那我们有可能在对付一个母星宝石人吗? \N{\rENG}Could we be dealing with a Homeworld Gem?
+Dialogue: 100,0:07:16.01,0:07:19.07,Normal Dialog Text,,0,0,0,,{\rCHS}母星? 宝石怪? 变异体? \N{\rENG}Homeworld? Gem? Mutant?
+Dialogue: 100,0:07:19.08,0:07:22.51,Normal Dialog Text,,0,0,0,,{\rCHS}呃, 不管这是什么东西\N{\rENG}I, uh -- well, whatever it is,
+Dialogue: 100,0:07:22.51,0:07:27.22,Normal Dialog Text,,0,0,0,,{\rCHS}如果有人闯入这里, 他们要先过我这一关\N{\rENG}if someone's trespassing, they'll have to answer to me.
+Dialogue: 100,0:07:30.89,0:07:32.92,Normal Dialog Text,,0,0,0,,{\rCHS}好安静\N{\rENG}It's so quiet.
+Dialogue: 100,0:07:34.36,0:07:36.99,Normal Dialog Text,,0,0,0,,{\rCHS}我简直不敢相信\N{\rENG}I can't believe this.
+Dialogue: 100,0:07:36.99,0:07:38.26,Normal Dialog Text,,0,0,0,,{\rCHS}他们在嘲讽我们\N{\rENG}They're mocking us.
+Dialogue: 100,0:07:38.26,0:07:39.66,Normal Dialog Text,,0,0,0,,{\rCHS}快现身吧! \N{\rENG}Show yourself!
+Dialogue: 100,0:07:39.66,0:07:41.30,Normal Dialog Text,,0,0,0,,{\rCHS}你到底想要什么? \N{\rENG}What is it that you want here?
+Dialogue: 100,0:07:41.30,0:07:42.66,Normal Dialog Text,,0,0,0,,{\rCHS}奖品? 欢乐? \N{\rENG}Prizes? Fun?
+Dialogue: 100,0:07:42.67,0:07:45.90,Normal Dialog Text,,0,0,0,,{\rCHS}你觉得这是你找乐子的地方? \N{\rENG}You think this is the place to get your kicks?
+Dialogue: 100,0:07:45.90,0:07:48.37,Normal Dialog Text,,0,0,0,,{\rCHS}你这个变态怪物\N{\rENG}You sick monster.
+Dialogue: 100,0:07:48.37,0:07:52.91,Normal Dialog Text,,0,0,0,,{\rCHS}摧毁了这个欢乐之园的圣洁! \N{\rENG}Destroying the sanctity of this land of fun!
+Dialogue: 100,0:07:52.91,0:07:54.11,Normal Dialog Text,,0,0,0,,{\rCHS}你身后! \N{\rENG}Behind you!
+Dialogue: 100,0:07:54.11,0:07:55.34,Normal Dialog Text,,0,0,0,,{\rCHS}爸爸! \N{\rENG}Dad!
+Dialogue: 100,0:07:55.35,0:07:57.55,Normal Dialog Text,,0,0,0,,{\rCHS}莫雪伦先生! \N{\rENG}Mr. Maheswaran!
+Dialogue: 100,0:07:57.55,0:07:59.58,Normal Dialog Text,,0,0,0,,{\rCHS}呃, 不要担心, 我没事的\N{\rENG}Uh, don't worry. I'm fine.
+Dialogue: 100,0:07:59.62,0:08:01.62,Normal Dialog Text,,0,0,0,,{\rCHS}只是 -- 他们在那里! \N{\rENG}Just -- there they are!
+Dialogue: 100,0:08:01.62,0:08:02.85,Normal Dialog Text,,0,0,0,,{\rCHS}快来, 史蒂文! \N{\rENG}Come on, Steven!
+Dialogue: 100,0:08:02.85,0:08:04.62,Normal Dialog Text,,0,0,0,,{\rCHS}你们先走我殿后! \N{\rENG}I'm right behind you!
+Dialogue: 100,0:08:04.62,0:08:07.16,Normal Dialog Text,,0,0,0,,{\rCHS}你这回可逃不掉了! \N{\rENG}You're not getting away this time!
+Dialogue: 100,0:08:10.13,0:08:11.66,Normal Dialog Text,,0,0,0,,{\rCHS}卧靠这么多口香糖! \N{\rENG}That's a lot of gumballs!
+Dialogue: 100,0:08:11.66,0:08:13.46,Normal Dialog Text,,0,0,0,,{\rCHS}快跳! \N{\rENG}Jump!
+Dialogue: 100,0:08:13.46,0:08:14.73,Normal Dialog Text,,0,0,0,,{\rCHS}啊啊啊啊! \N{\rENG}Aah!
+Dialogue: 100,0:08:18.54,0:08:20.50,Normal Dialog Text,,0,0,0,,{\rCHS}放弃吧! \N{\rENG}It's time to give up!
+Dialogue: 500,0:08:16.20,0:08:18.67,Label Trans,,0,0,0,,{\fn黑体\fs40\c&H102C32&\bord0\shad0\pos(866,520)}此路不通
+Dialogue: 100,0:08:20.50,0:08:21.97,Normal Dialog Text,,0,0,0,,{\rCHS}你已经无路可逃了! \N{\rENG}There's no way out!
+Dialogue: 100,0:08:21.97,0:08:23.41,Normal Dialog Text,,0,0,0,,{\rCHS}口香糖? \N{\rENG}Gumballs?
+Dialogue: 100,0:08:23.41,0:08:24.94,Normal Dialog Text,,0,0,0,,{\rCHS}啊啊啊啊啊! \N{\rENG}Aaaaah!
+Dialogue: 100,0:08:24.94,0:08:26.91,Normal Dialog Text,,0,0,0,,{\rCHS}嘿, 孩子们\N{\rENG}Hey, kids.
+Dialogue: 100,0:08:26.91,0:08:29.75,Normal Dialog Text,,0,0,0,,{\rCHS}罪魁祸首就在这角落里, 爹地\N{\rENG}The culprit's at the end of this corner, Dad.
+Dialogue: 100,0:08:29.75,0:08:31.08,Normal Dialog Text,,0,0,0,,{\rCHS}干得漂亮, 你们俩\N{\rENG}Good work, you two.
+Dialogue: 100,0:08:31.08,0:08:34.28,Normal Dialog Text,,0,0,0,,{\rCHS}现在, 来瞧瞧这家伙的真面目吧\N{\rENG}Now, let's shed some light on this subject.
+Dialogue: 100,0:08:34.28,0:08:35.48,Normal Dialog Text,,0,0,0,,{\rCHS}等等\N{\rENG}Wait.
+Dialogue: 100,0:08:35.49,0:08:37.02,Normal Dialog Text,,0,0,0,,{\rCHS}洋葱! \N{\rENG}Onion!
+Dialogue: 100,0:08:37.02,0:08:38.02,Normal Dialog Text,,0,0,0,,{\rCHS}是你? \N{\rENG}You?
+Dialogue: 100,0:08:38.02,0:08:39.59,Normal Dialog Text,,0,0,0,,{\rCHS}你在这儿干嘛呢? \N{\rENG}What are you doing here?
+Dialogue: 100,0:08:39.59,0:08:42.56,Normal Dialog Text,,0,0,0,,{\rCHS}我们正在进行一场严肃的调查\N{\rENG}We're in the middle of a very important investigation.
+Dialogue: 100,0:08:42.56,0:08:45.93,Normal Dialog Text,,0,0,0,,{\rCHS}爸爸, 我觉得他就是我们要找的人\N{\rENG}Dad, I think this is who's been causing all this trouble.
+Dialogue: 100,0:08:45.93,0:08:48.70,Normal Dialog Text,,0,0,0,,{\rCHS}洋葱, 是我, 史蒂文\N{\rENG}Onion, it's me, Steven.
+Dialogue: 100,0:08:48.70,0:08:49.90,Normal Dialog Text,,0,0,0,,{\rCHS}史蒂文宇宙\N{\rENG}Steven Universe.
+Dialogue: 100,0:08:56.77,0:08:58.47,Normal Dialog Text,,0,0,0,,{\rCHS}这是莫雪伦先生\N{\rENG}That's just Mr. Maheswaran.
+Dialogue: 100,0:08:58.48,0:09:00.01,Normal Dialog Text,,0,0,0,,{\rCHS}哦, 我的天啊\N{\rENG}Oh, my gosh,
+Dialogue: 100,0:09:00.01,0:09:01.71,Normal Dialog Text,,0,0,0,,{\rCHS}你以为追你的是一群陌生人? \N{\rENG}did you think a bunch of strangers were chasing you?
+Dialogue: 100,0:09:01.71,0:09:04.78,Normal Dialog Text,,0,0,0,,{\rCHS}怪不得跑得比兔子还快\N{\rENG}No wonder you were trying to throw us off your trail.
+Dialogue: 100,0:09:04.78,0:09:06.95,Normal Dialog Text,,0,0,0,,{\rCHS}洋葱, 没事\N{\rENG}Onion, everything's okay.
+Dialogue: 100,0:09:06.95,0:09:08.65,Normal Dialog Text,,0,0,0,,{\rCHS}这不可能是一个孩子干的\N{\rENG}It can't just be a kid.
+Dialogue: 100,0:09:08.65,0:09:10.29,Normal Dialog Text,,0,0,0,,{\rCHS}这不合理! \N{\rENG}It doesn't make any sense!
+Dialogue: 100,0:09:10.29,0:09:12.35,Normal Dialog Text,,0,0,0,,{\rCHS}那个巨大的影子呢? \N{\rENG}What about that huge shadow?
+Dialogue: 100,0:09:14.36,0:09:17.76,Normal Dialog Text,,0,0,0,,{\rCHS}我觉得那是因为他在手电下显得高大\N{\rENG}I think the flashlight just made him look big.
+Dialogue: 100,0:09:17.76,0:09:19.96,Normal Dialog Text,,0,0,0,,{\rCHS}但那个栅栏是被硬扯开的\N{\rENG}But the fence was ripped apart!
+Dialogue: 100,0:09:19.96,0:09:22.56,Normal Dialog Text,,0,0,0,,{\rCHS}他有用过喷灯的前科\N{\rENG}I have seen him use a blowtorch before.
+Dialogue: 100,0:09:22.57,0:09:26.40,Normal Dialog Text,,0,0,0,,{\rCHS}我还找到了这块卡在栅栏里的布料\N{\rENG}I also found this piece of fabric stuck in the fence.
+Dialogue: 100,0:09:28.91,0:09:30.27,Normal Dialog Text,,0,0,0,,{\rCHS}当然了\N{\rENG}Of course.
+Dialogue: 100,0:09:30.27,0:09:32.57,Normal Dialog Text,,0,0,0,,{\rCHS}从来不会有什么大事发生\N{\rENG}It's never actually something.
+Dialogue: 100,0:09:32.58,0:09:33.78,Normal Dialog Text,,0,0,0,,{\rCHS}怎么了? \N{\rENG}What's wrong?
+Dialogue: 100,0:09:33.78,0:09:35.28,Normal Dialog Text,,0,0,0,,{\rCHS}没什么\N{\rENG}Nothing's wrong.
+Dialogue: 100,0:09:35.28,0:09:37.45,Normal Dialog Text,,0,0,0,,{\rCHS}只是我的工作不像\N{\rENG}It's just my job isn't like
+Dialogue: 100,0:09:37.45,0:09:40.32,Normal Dialog Text,,0,0,0,,{\rCHS}你和史蒂文的那些刺激的冒险\N{\rENG}the exhilerating adventures you've been having with Steven
+Dialogue: 100,0:09:40.32,0:09:41.95,Normal Dialog Text,,0,0,0,,{\rCHS}或你妈妈在医院的那些\N{\rENG}or the life-threatening emergencies
+Dialogue: 100,0:09:41.95,0:09:43.72,Normal Dialog Text,,0,0,0,,{\rCHS}生死攸关的情况\N{\rENG}your mom deals with at the hospital.
+Dialogue: 100,0:09:43.72,0:09:47.46,Normal Dialog Text,,0,0,0,,{\rCHS}我的工作的高潮也就是叫小鬼们不要到处闲逛\N{\rENG}The most action I see is telling kids to quit loitering around.
+Dialogue: 100,0:09:47.46,0:09:48.66,Normal Dialog Text,,0,0,0,,{\rCHS}我就是希望\N{\rENG}I was hoping
+Dialogue: 100,0:09:48.66,0:09:50.99,Normal Dialog Text,,0,0,0,,{\rCHS}你们能看到我认真工作\N{\rENG}maybe you'd get to see me take on a serious job,
+Dialogue: 100,0:09:50.99,0:09:52.99,Normal Dialog Text,,0,0,0,,{\rCHS}但我想我最擅长的还是\N{\rENG}but I guess all I'm good at
+Dialogue: 100,0:09:53.00,0:09:55.50,Normal Dialog Text,,0,0,0,,{\rCHS}继续当你蠢蠢的老爹\N{\rENG}is being your silly, old dad.
+Dialogue: 100,0:09:57.43,0:09:58.83,Normal Dialog Text,,0,0,0,,{\rCHS}你说的对\N{\rENG}You're right.
+Dialogue: 100,0:09:58.84,0:10:00.10,Normal Dialog Text,,0,0,0,,{\rCHS}你是挺蠢的\N{\rENG}You are silly,
+Dialogue: 100,0:10:00.10,0:10:03.00,Normal Dialog Text,,0,0,0,,{\rCHS}但这就是为什么我们愿意跟你在一起\N{\rENG}but that's why I like hanging out with you.
+Dialogue: 100,0:10:03.01,0:10:06.27,Normal Dialog Text,,0,0,0,,{\rCHS}我的生活中太多沉重的负担\N{\rENG}I've got enough serious things going on in my life.
+Dialogue: 100,0:10:06.28,0:10:09.61,Normal Dialog Text,,0,0,0,,{\rCHS}有时候我只希望能多花些时间跟我的父亲在一起\N{\rENG}Sometimes I just want to spend time with my dad.
+Dialogue: 100,0:10:09.61,0:10:10.91,Normal Dialog Text,,0,0,0,,{\rCHS}谢谢你\N{\rENG}Thanks.
+Dialogue: 100,0:10:10.91,0:10:12.75,Normal Dialog Text,,0,0,0,,{\rCHS}你是我的财富呢, 弗罗妮卡 库卡曼卡\N{\rENG}You're a keeper, Veronica Cucamonga.
+Dialogue: 100,0:10:14.18,0:10:17.32,Normal Dialog Text,,0,0,0,,{\rCHS}好吧, 孩子们, 看来这都是一场误解\N{\rENG}Well, kid, this may have been a big misunderstanding,
+Dialogue: 100,0:10:17.32,0:10:20.02,Normal Dialog Text,,0,0,0,,{\rCHS}但你还是要为这个栅栏负责\N{\rENG}but you're still in trouble for this fence.
+Dialogue: 100,0:10:21.86,0:10:23.26,Normal Dialog Text,,0,0,0,,{\rCHS}哦, 当然你要\N{\rENG}Oh, yes, you are.
+Dialogue: 100,0:10:23.26,0:10:25.69,Normal Dialog Text,,0,0,0,,{\rCHS}这次就饶了他吧\N{\rENG}Just let him off the hook on this one.
+Dialogue: 100,0:10:25.70,0:10:27.46,Normal Dialog Text,,0,0,0,,{\rCHS}我们已经快把他吓死了\N{\rENG}We already scared him straight.
+Dialogue: 100,0:10:27.46,0:10:30.40,Normal Dialog Text,,0,0,0,,{\rCHS}他这个年纪法律也会饶了他吧\N{\rENG}The law must be different for someone his age.
+Dialogue: 100,0:10:32.10,0:10:33.74,Normal Dialog Text,,0,0,0,,{\rCHS}你知错了吗? \N{\rENG}You learned your lesson?
+Dialogue: 100,0:10:34.70,0:10:36.44,Normal Dialog Text,,0,0,0,,{\rCHS}那就可以走了\N{\rENG}Then you're free to go.
+Dialogue: 100,0:10:38.58,0:10:41.31,Normal Dialog Text,,0,0,0,,{\rCHS}还有记住, 小伙子, 别没事瞎逛了\N{\rENG}And remember, kid, no loitering.
+Dialogue: 100,0:10:42.20,0:10:44.60,Normal Dialog Text,,0,0,0,,{\rCHS}我都不知道我该怎么跟上面汇报了\N{\rENG}I don't know how I'm gonna explain this back at the office.
